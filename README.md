@@ -1,7 +1,5 @@
 
 ## Updated on 2023.02.21
-> Usage instructions: [here](./docs/README.md#usage)
-
 <details>
   <summary>Table of Contents</summary>
   <ol>

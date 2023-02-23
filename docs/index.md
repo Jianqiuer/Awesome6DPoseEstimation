@@ -2,6 +2,14 @@
 layout: default
 ---
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
+## Updated on 2023.02.23
+> Usage instructions: [here](./docs/README.md#usage)
+
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |

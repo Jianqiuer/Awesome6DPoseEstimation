@@ -1,7 +1,10 @@
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url] -->
+[![Issues][issues-shield]][issues-url]
+
+## Updated on 2023.02.23
+> Usage instructions: [here](./docs/README.md#usage)
 
 <details>
   <summary>Table of Contents</summary>
@@ -9,7 +12,6 @@
     <li><a href=#6D-Pose>6D Pose</a></li>
   </ol>
 </details>
-
 
 ## 6D Pose
 

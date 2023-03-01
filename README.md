@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.02.28
+## Updated on 2023.03.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230301>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-02**|**Canonical mapping as a general-purpose object descriptor for robotic manipulation**|Benjamin Joffe et.al.|[2303.01331v1](http://arxiv.org/abs/2303.01331v1)|null|
 |**2023-02-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Cai et.al.|[2302.07300v1](http://arxiv.org/abs/2302.07300v1)|null|
 |**2023-02-14**|**Model-Based Underwater 6D Pose Estimation from RGB**|Davide Sapienza et.al.|[2302.06821v1](http://arxiv.org/abs/2302.06821v1)|null|
 |**2023-02-02**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|

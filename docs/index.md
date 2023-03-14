@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-12**|**Module-Wise Network Quantization for 6D Object Pose Estimation**|Saqib Javed et.al.|[2303.06753v1](http://arxiv.org/abs/2303.06753v1)|null|
 |**2023-03-09**|**SpyroPose: Importance Sampling Pyramids for Object Pose Distribution Estimation in SE(3)**|Rasmus Laurvig Haugaard et.al.|[2303.05308v1](http://arxiv.org/abs/2303.05308v1)|null|
 |**2023-03-03**|**Depth-based 6DoF Object Pose Estimation using Swin Transformer**|Zhujun Li et.al.|[2303.02133v1](http://arxiv.org/abs/2303.02133v1)|**[link](https://github.com/zhujunli1993/swindepose)**|
 |**2023-03-02**|**Canonical mapping as a general-purpose object descriptor for robotic manipulation**|Benjamin Joffe et.al.|[2303.01331v1](http://arxiv.org/abs/2303.01331v1)|null|

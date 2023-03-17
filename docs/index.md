@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.03.16
+## Updated on 2023.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 6D Pose

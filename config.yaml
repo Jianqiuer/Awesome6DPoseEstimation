@@ -23,4 +23,4 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "6D Pose": 
-        filters: ["6D Pose"]
+        filters: ["6D Pose", "Point Cloud Registration"]

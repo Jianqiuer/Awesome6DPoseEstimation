@@ -10,6 +10,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href=#6D-Pose>6D Pose</a></li>
+    <li><a href=#Point-Cloud-Registration>Point Cloud Registration</a></li>
   </ol>
 </details>
 
@@ -35,6 +36,23 @@
 |**2022-12-13**|**MegaPose: 6D Pose Estimation of Novel Objects via Render & Compare**|Yann Labbé et.al.|[2212.06870v1](http://arxiv.org/abs/2212.06870v1)|null|
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
+
+<p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
+
+## Point Cloud Registration
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-03-22**|**RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration**|Jiuming Liu et.al.|[2303.12384v1](http://arxiv.org/abs/2303.12384v1)|null|
+|**2023-03-17**|**Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration**|Zheng Qin et.al.|[2303.09950v1](http://arxiv.org/abs/2303.09950v1)|**[link](https://github.com/qinzheng93/graphscnet)**|
+|**2023-03-14**|**RoCNet: 3D Robust Registration of Point-Clouds using Deep Learning**|Karim Slimani et.al.|[2303.07963v1](http://arxiv.org/abs/2303.07963v1)|null|
+|**2023-03-07**|**GMCR: Graph-based Maximum Consensus Estimation for Point Cloud Registration**|Michael Gentner et.al.|[2303.04032v1](http://arxiv.org/abs/2303.04032v1)|null|
+|**2023-03-02**|**Neural Intrinsic Embedding for Non-rigid Point Cloud Matching**|Puhua Jiang et.al.|[2303.01038v1](http://arxiv.org/abs/2303.01038v1)|null|
+|**2023-03-14**|**A Unified BEV Model for Joint Learning of 3D Local Features and Overlap Estimation**|Lin Li et.al.|[2302.14511v2](http://arxiv.org/abs/2302.14511v2)|null|
+|**2023-02-28**|**PCR-CG: Point Cloud Registration via Deep Color and Geometry**|Yu Zhang et.al.|[2302.14418v1](http://arxiv.org/abs/2302.14418v1)|**[link](https://github.com/gardlin/pcr-cg)**|
+|**2023-02-28**|**Efficient Implicit Neural Reconstruction Using LiDAR**|Dongyu Yan et.al.|[2302.14363v1](http://arxiv.org/abs/2302.14363v1)|null|
+|**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
+|**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
 <p align=right>(<a href=#Updated-on-20230323>back to top</a>)</p>
 

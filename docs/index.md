@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-22**|**Rigidity-Aware Detection for 6D Object Pose Estimation**|Yang Hai et.al.|[2303.12396v1](http://arxiv.org/abs/2303.12396v1)|null|
+|**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246v1](http://arxiv.org/abs/2303.12246v1)|null|
 |**2023-03-21**|**Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation**|Fulin Liu et.al.|[2303.11516v1](http://arxiv.org/abs/2303.11516v1)|null|
 |**2023-03-18**|**SOCS: Semantically-aware Object Coordinate Space for Category-Level 6D Object Pose Estimation under Large Shape Variations**|Boyan Wan et.al.|[2303.10346v1](http://arxiv.org/abs/2303.10346v1)|null|
 |**2023-03-12**|**Module-Wise Network Quantization for 6D Object Pose Estimation**|Saqib Javed et.al.|[2303.06753v1](http://arxiv.org/abs/2303.06753v1)|null|

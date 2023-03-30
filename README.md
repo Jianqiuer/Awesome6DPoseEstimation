@@ -46,6 +46,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-29**|**HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching**|Yiheng Li et.al.|[2303.16526v1](http://arxiv.org/abs/2303.16526v1)|**[link](https://github.com/liyih/hybridpoint)**|
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414v1](http://arxiv.org/abs/2303.15414v1)|**[link](https://github.com/jiaweihe1996/GMTracker)**|
 |**2023-03-23**|**Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration**|Guofeng Mei et.al.|[2303.13290v1](http://arxiv.org/abs/2303.13290v1)|**[link](https://github.com/gfmei/udpreg)**|
 |**2023-03-22**|**RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration**|Jiuming Liu et.al.|[2303.12384v1](http://arxiv.org/abs/2303.12384v1)|null|

@@ -46,6 +46,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-02**|**Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting**|Haiping Wang et.al.|[2304.00467v1](http://arxiv.org/abs/2304.00467v1)|**[link](https://github.com/whu-usi3dv/sghr)**|
+|**2023-03-31**|**kNN-Res: Residual Neural Network with kNN-Graph coherence for point cloud registration**|Muhammad S. Battikh et.al.|[2304.00050v1](http://arxiv.org/abs/2304.00050v1)|**[link](https://github.com/muhammadsaeedbatikh/knn-res_demo)**|
 |**2023-03-31**|**RDMNet: Reliable Dense Matching Based Point Cloud Registration for Autonomous Driving**|Chenghao Shi et.al.|[2303.18084v1](http://arxiv.org/abs/2303.18084v1)|null|
 |**2023-03-29**|**HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching**|Yiheng Li et.al.|[2303.16526v1](http://arxiv.org/abs/2303.16526v1)|**[link](https://github.com/liyih/hybridpoint)**|
 |**2023-03-27**|**Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|[2303.15414v1](http://arxiv.org/abs/2303.15414v1)|**[link](https://github.com/jiaweihe1996/GMTracker)**|

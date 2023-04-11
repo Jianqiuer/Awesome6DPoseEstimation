@@ -40,6 +40,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-10**|**HybridFusion: LiDAR and Vision Cross-Source Point Cloud Fusion**|Yu Wang et.al.|[2304.04508v1](http://arxiv.org/abs/2304.04508v1)|null|
+|**2023-04-09**|**Self-Supervised Learning of Object Segmentation from Unlabeled RGB-D Videos**|Shiyang Lu et.al.|[2304.04325v1](http://arxiv.org/abs/2304.04325v1)|null|
+|**2023-04-09**|**DSMNet: Deep High-precision 3D Surface Modeling from Sparse Point Cloud Frames**|Changjie Qiu et.al.|[2304.04200v1](http://arxiv.org/abs/2304.04200v1)|null|
 |**2023-04-02**|**Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting**|Haiping Wang et.al.|[2304.00467v1](http://arxiv.org/abs/2304.00467v1)|**[link](https://github.com/whu-usi3dv/sghr)**|
 |**2023-03-31**|**kNN-Res: Residual Neural Network with kNN-Graph coherence for point cloud registration**|Muhammad S. Battikh et.al.|[2304.00050v1](http://arxiv.org/abs/2304.00050v1)|**[link](https://github.com/muhammadsaeedbatikh/knn-res_demo)**|
 |**2023-03-31**|**RDMNet: Reliable Dense Matching Based Point Cloud Registration for Autonomous Driving**|Chenghao Shi et.al.|[2303.18084v1](http://arxiv.org/abs/2303.18084v1)|null|

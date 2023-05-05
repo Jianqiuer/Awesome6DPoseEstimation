@@ -47,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-04**|**APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction**|Quan Liu et.al.|[2305.02893v1](http://arxiv.org/abs/2305.02893v1)|null|
 |**2023-04-27**|**RegHEC: Hand-Eye Calibration via Simultaneous Multi-view Point Clouds Registration of Arbitrary Object**|Shiyu Xing et.al.|[2304.14092v1](http://arxiv.org/abs/2304.14092v1)|**[link](https://github.com/shiyu-xing/reghec)**|
 |**2023-04-26**|**Non-rigid Point Cloud Registration for Middle Ear Diagnostics with Endoscopic Optical Coherence Tomography**|Peng Liu et.al.|[2304.13618v1](http://arxiv.org/abs/2304.13618v1)|**[link](https://gitlab.com/nct_tso_public/c2p-net)**|
 |**2023-04-25**|**BO-ICP: Initialization of Iterative Closest Point Based on Bayesian Optimization**|Harel Biggie et.al.|[2304.13114v1](http://arxiv.org/abs/2304.13114v1)|null|

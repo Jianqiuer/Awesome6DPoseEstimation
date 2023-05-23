@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-22**|**You Only Look at One: Category-Level Object Representations for Pose Estimation From a Single Example**|Walter Goodwin et.al.|[2305.12626v1](http://arxiv.org/abs/2305.12626v1)|null|
 |**2023-05-18**|**Manifold-Aware Self-Training for Unsupervised Domain Adaptation on Regressing 6D Object Pose**|Yichen Zhang et.al.|[2305.10808v1](http://arxiv.org/abs/2305.10808v1)|null|
 |**2023-05-08**|**RelPose++: Recovering 6D Poses from Sparse-view Observations**|Amy Lin et.al.|[2305.04926v1](http://arxiv.org/abs/2305.04926v1)|null|
 |**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230v1](http://arxiv.org/abs/2304.08230v1)|**[link](https://github.com/elego9/6dp-data-bias)**|

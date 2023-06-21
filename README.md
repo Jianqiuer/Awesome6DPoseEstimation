@@ -53,6 +53,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
 |**2023-06-14**|**ICET Online Accuracy Characterization for Geometry-Based Laser Scan Matching**|Matthew McDermott et.al.|[2306.08690v1](http://arxiv.org/abs/2306.08690v1)|**[link](https://github.com/mcdermatt/icet)**|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|**[link](https://github.com/peterstratton/volume-droid)**|
 |**2023-06-11**|**PWR-Align: Leveraging Part-Whole Relationships for Part-wise Rigid Point Cloud Registration in Mixed Reality Applications**|Manorama Jha et.al.|[2306.06717v1](http://arxiv.org/abs/2306.06717v1)|null|

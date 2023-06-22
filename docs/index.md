@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## 6D Pose
@@ -23,7 +23,7 @@ layout: default
 |**2023-04-17**|**Uncovering the Background-Induced bias in RGB based 6-DoF Object Pose Estimation**|Elena Govi et.al.|[2304.08230v1](http://arxiv.org/abs/2304.08230v1)|**[link](https://github.com/elego9/6dp-data-bias)**|
 |**2023-03-28**|**CARTO: Category and Joint Agnostic Reconstruction of ARTiculated Objects**|Nick Heppert et.al.|[2303.15782v1](http://arxiv.org/abs/2303.15782v1)|null|
 |**2023-03-23**|**Prior-free Category-level Pose Estimation with Implicit Space Transformation**|Jianhui Liu et.al.|[2303.13479v1](http://arxiv.org/abs/2303.13479v1)|null|
-|**2023-03-31**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v2](http://arxiv.org/abs/2303.13241v2)|null|
+|**2023-06-21**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v3](http://arxiv.org/abs/2303.13241v3)|null|
 |**2023-03-22**|**Rigidity-Aware Detection for 6D Object Pose Estimation**|Yang Hai et.al.|[2303.12396v1](http://arxiv.org/abs/2303.12396v1)|**[link](https://github.com/yanghai-1218/radet)**|
 |**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246v1](http://arxiv.org/abs/2303.12246v1)|null|
 |**2023-03-21**|**Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation**|Fulin Liu et.al.|[2303.11516v1](http://arxiv.org/abs/2303.11516v1)|null|

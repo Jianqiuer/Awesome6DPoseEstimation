@@ -47,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-26**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v1](http://arxiv.org/abs/2306.14749v1)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
 |**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
 |**2023-06-14**|**ICET Online Accuracy Characterization for Geometry-Based Laser Scan Matching**|Matthew McDermott et.al.|[2306.08690v1](http://arxiv.org/abs/2306.08690v1)|**[link](https://github.com/mcdermatt/icet)**|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|**[link](https://github.com/peterstratton/volume-droid)**|

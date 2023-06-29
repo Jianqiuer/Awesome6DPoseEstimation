@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
 |**2023-06-09**|**Data-Link: High Fidelity Manufacturing Datasets for Model2Real Transfer under Industrial Settings**|Sunny Katyara et.al.|[2306.05766v1](http://arxiv.org/abs/2306.05766v1)|null|
 |**2023-05-28**|**Counter-Hypothetical Particle Filters for Single Object Pose Tracking**|Elizabeth A. Olson et.al.|[2305.17828v1](http://arxiv.org/abs/2305.17828v1)|null|
 |**2023-05-25**|**Enhanced 6D Pose Estimation for Robotic Fruit Picking**|Marco Costanzo et.al.|[2305.15856v1](http://arxiv.org/abs/2305.15856v1)|null|

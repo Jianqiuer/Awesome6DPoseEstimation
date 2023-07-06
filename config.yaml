@@ -2,9 +2,9 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
 user_name: "Jianqiuer"
 repo_name: "Awesome6DPoseEstimation"
-show_authors: True
-show_links: True
-show_badge: True
+show_authors: False
+show_links: False
+show_badge: False
 max_results: 10
 
 publish_readme: True

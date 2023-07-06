@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.05
+## Updated on 2023.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|null|
+|**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
 |**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
 |**2023-06-09**|**Data-Link: High Fidelity Manufacturing Datasets for Model2Real Transfer under Industrial Settings**|Sunny Katyara et.al.|[2306.05766v1](http://arxiv.org/abs/2306.05766v1)|null|
 |**2023-05-28**|**Counter-Hypothetical Particle Filters for Single Object Pose Tracking**|Elizabeth A. Olson et.al.|[2305.17828v1](http://arxiv.org/abs/2305.17828v1)|null|
@@ -49,13 +49,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-26**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v1](http://arxiv.org/abs/2306.14749v1)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
+|**2023-07-04**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v2](http://arxiv.org/abs/2306.14749v2)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
 |**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
 |**2023-06-14**|**ICET Online Accuracy Characterization for Geometry-Based Laser Scan Matching**|Matthew McDermott et.al.|[2306.08690v1](http://arxiv.org/abs/2306.08690v1)|**[link](https://github.com/mcdermatt/icet)**|
 |**2023-06-12**|**Volume-DROID: A Real-Time Implementation of Volumetric Mapping with DROID-SLAM**|Peter Stratton et.al.|[2306.06850v1](http://arxiv.org/abs/2306.06850v1)|**[link](https://github.com/peterstratton/volume-droid)**|
@@ -92,7 +92,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230705>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

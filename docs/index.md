@@ -3,8 +3,6 @@ layout: default
 ---
 
 ## Updated on 2023.07.06
-> Usage instructions: [here](./docs/README.md#usage)
-
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -113,7 +111,7 @@ layout: default
 |**2023-07-05**|**The FormAI Dataset: Generative AI in Software Security Through the Lens of Formal Verification**|Norbert Tihanyi et.al.|[2307.02192v1](http://arxiv.org/abs/2307.02192v1)|null|
 |**2023-07-05**|**Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks**|Meysam Alizadeh et.al.|[2307.02179v1](http://arxiv.org/abs/2307.02179v1)|null|
 |**2023-07-05**|**Comparative Analysis of GPT-4 and Human Graders in Evaluating Praise Given to Students in Synthetic Dialogues**|Dollaya Hirunyasiri et.al.|[2307.02018v1](http://arxiv.org/abs/2307.02018v1)|null|
-|**2023-07-05**|**Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities**|Guihong Li et.al.|[2307.01998v1](http://arxiv.org/abs/2307.01998v1)|null|
+|**2023-07-05**|**Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities**|Guihong Li et.al.|[2307.01998v1](http://arxiv.org/abs/2307.01998v1)|**[link](https://github.com/sldgroup/survey-zero-shot-nas)**|
 |**2023-07-05**|**A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis**|Jiaxiang Liu et.al.|[2307.01981v1](http://arxiv.org/abs/2307.01981v1)|null|
 |**2023-07-04**|**Knowledge-Aware Audio-Grounded Generative Slot Filling for Limited Annotated Data**|Guangzhi Sun et.al.|[2307.01764v1](http://arxiv.org/abs/2307.01764v1)|null|
 |**2023-07-04**|**Continual Learning in Open-vocabulary Classification with Complementary Memory Systems**|Zhen Zhu et.al.|[2307.01430v1](http://arxiv.org/abs/2307.01430v1)|null|

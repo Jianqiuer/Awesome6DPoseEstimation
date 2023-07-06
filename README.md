@@ -1,8 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 ## Updated on 2023.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -11,6 +6,8 @@
   <ol>
     <li><a href=#6D-Pose>6D Pose</a></li>
     <li><a href=#Point-Cloud-Registration>Point Cloud Registration</a></li>
+    <li><a href=#Point-Cloud-Segmentation>Point Cloud Segmentation</a></li>
+    <li><a href=#Zero-shot>Zero-shot</a></li>
   </ol>
 </details>
 
@@ -18,7 +15,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones**|Elia Cereda et.al.|[2307.01559v1](http://arxiv.org/abs/2307.01559v1)|null|
+|**2023-07-03**|**Joint Coordinate Regression and Association For Multi-Person Pose Estimation, A Pure Neural Network Approach**|Dongyang Yu et.al.|[2307.01004v1](http://arxiv.org/abs/2307.01004v1)|null|
+|**2023-07-01**|**Automatic Solver Generator for Systems of Laurent Polynomial Equations**|Evgeniy Martyushev et.al.|[2307.00320v1](http://arxiv.org/abs/2307.00320v1)|null|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
+|**2023-06-30**|**GIRA: Gaussian Mixture Models for Inference and Robot Autonomy**|Kshitij Goel et.al.|[2307.00071v1](http://arxiv.org/abs/2307.00071v1)|null|
+|**2023-06-30**|**Towards the extraction of robust sign embeddings for low resource sign language recognition**|Mathieu De Coster et.al.|[2306.17558v1](http://arxiv.org/abs/2306.17558v1)|null|
+|**2023-06-30**|**Fusion of Visual-Inertial Odometry with LiDAR Relative Localization for Cooperative Guidance of a Micro-Scale Aerial Vehicle**|Václav Pritzl et.al.|[2306.17544v1](http://arxiv.org/abs/2306.17544v1)|null|
+|**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529v1](http://arxiv.org/abs/2306.17529v1)|null|
+|**2023-06-29**|**ID-Pose: Sparse-view Camera Pose Estimation by Inverting Diffusion Models**|Weihao Cheng et.al.|[2306.17140v1](http://arxiv.org/abs/2306.17140v1)|null|
+|**2023-06-29**|**Learning Structure-Guided Diffusion Model for 2D Human Pose Estimation**|Zhongwei Qiu et.al.|[2306.17074v1](http://arxiv.org/abs/2306.17074v1)|null|
 |**2023-06-28**|**Hierarchical Graph Neural Networks for Proprioceptive 6D Pose Estimation of In-hand Objects**|Alireza Rezazadeh et.al.|[2306.15858v1](http://arxiv.org/abs/2306.15858v1)|null|
 |**2023-06-09**|**Data-Link: High Fidelity Manufacturing Datasets for Model2Real Transfer under Industrial Settings**|Sunny Katyara et.al.|[2306.05766v1](http://arxiv.org/abs/2306.05766v1)|null|
 |**2023-05-28**|**Counter-Hypothetical Particle Filters for Single Object Pose Tracking**|Elizabeth A. Olson et.al.|[2305.17828v1](http://arxiv.org/abs/2305.17828v1)|null|
@@ -55,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
 |**2023-07-04**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v2](http://arxiv.org/abs/2306.14749v2)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
 |**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
 |**2023-06-14**|**ICET Online Accuracy Characterization for Geometry-Based Laser Scan Matching**|Matthew McDermott et.al.|[2306.08690v1](http://arxiv.org/abs/2306.08690v1)|**[link](https://github.com/mcdermatt/icet)**|
@@ -94,12 +101,37 @@
 
 <p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/cv-arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/cv-arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/cv-arxiv-daily/issues
+## Point Cloud Segmentation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306v1](http://arxiv.org/abs/2306.16306v1)|null|
+|**2023-05-30**|**Dynamic Clustering Transformer Network for Point Cloud Segmentation**|Dening Lu et.al.|[2306.08073v1](http://arxiv.org/abs/2306.08073v1)|null|
+|**2023-05-23**|**Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation**|Shuting He et.al.|[2305.14335v1](http://arxiv.org/abs/2305.14335v1)|**[link](https://github.com/heshuting555/pap-fzs3d)**|
+|**2023-05-22**|**Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning**|Xiaoxiao Sheng et.al.|[2305.12959v1](http://arxiv.org/abs/2305.12959v1)|null|
+|**2023-05-17**|**Tinto: Multisensor Benchmark for 3D Hyperspectral Point Cloud Segmentation in the Geosciences**|Ahmed J. Afifi et.al.|[2305.09928v1](http://arxiv.org/abs/2305.09928v1)|null|
+|**2023-05-08**|**OctFormer: Octree-based Transformers for 3D Point Clouds**|Peng-Shuai Wang et.al.|[2305.03045v2](http://arxiv.org/abs/2305.03045v2)|**[link](https://github.com/octree-nn/octformer)**|
+|**2023-05-22**|**Urban GeoBIM construction by integrating semantic LiDAR point clouds with as-designed BIM models**|Jie Shao et.al.|[2304.11719v2](http://arxiv.org/abs/2304.11719v2)|null|
+|**2023-04-22**|**Knowledge Distillation from 3D to Bird's-Eye-View for LiDAR Semantic Segmentation**|Feng Jiang et.al.|[2304.11393v1](http://arxiv.org/abs/2304.11393v1)|**[link](https://github.com/fengjiang5/knowledge-distillation-from-cylinder3d-to-polarnet)**|
+|**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
+|**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
+
+## Zero-shot
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-07-05**|**The FormAI Dataset: Generative AI in Software Security Through the Lens of Formal Verification**|Norbert Tihanyi et.al.|[2307.02192v1](http://arxiv.org/abs/2307.02192v1)|null|
+|**2023-07-05**|**Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks**|Meysam Alizadeh et.al.|[2307.02179v1](http://arxiv.org/abs/2307.02179v1)|null|
+|**2023-07-05**|**Comparative Analysis of GPT-4 and Human Graders in Evaluating Praise Given to Students in Synthetic Dialogues**|Dollaya Hirunyasiri et.al.|[2307.02018v1](http://arxiv.org/abs/2307.02018v1)|null|
+|**2023-07-05**|**Zero-Shot Neural Architecture Search: Challenges, Solutions, and Opportunities**|Guihong Li et.al.|[2307.01998v1](http://arxiv.org/abs/2307.01998v1)|null|
+|**2023-07-05**|**A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis**|Jiaxiang Liu et.al.|[2307.01981v1](http://arxiv.org/abs/2307.01981v1)|null|
+|**2023-07-04**|**Knowledge-Aware Audio-Grounded Generative Slot Filling for Limited Annotated Data**|Guangzhi Sun et.al.|[2307.01764v1](http://arxiv.org/abs/2307.01764v1)|null|
+|**2023-07-04**|**Continual Learning in Open-vocabulary Classification with Complementary Memory Systems**|Zhen Zhu et.al.|[2307.01430v1](http://arxiv.org/abs/2307.01430v1)|null|
+|**2023-07-04**|**Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Rapid Multiparametric Quantitative MRI Using 3D-QALAS**|Yohan Jun et.al.|[2307.01410v1](http://arxiv.org/abs/2307.01410v1)|null|
+|**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
+|**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
+
+<p align=right>(<a href=#Updated-on-20230706>back to top</a>)</p>
 

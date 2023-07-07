@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Self-supervised Optimization of Hand Pose Estimation using Anatomical Features and Iterative Learning**|Christian Jauch et.al.|[2307.03007v1](http://arxiv.org/abs/2307.03007v1)|null|
+|**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949v1](http://arxiv.org/abs/2307.02949v1)|null|
+|**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
 |**2023-07-04**|**Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones**|Elia Cereda et.al.|[2307.01559v1](http://arxiv.org/abs/2307.01559v1)|null|
 |**2023-07-03**|**Joint Coordinate Regression and Association For Multi-Person Pose Estimation, A Pure Neural Network Approach**|Dongyang Yu et.al.|[2307.01004v1](http://arxiv.org/abs/2307.01004v1)|null|
 |**2023-07-01**|**Automatic Solver Generator for Systems of Laurent Polynomial Equations**|Evgeniy Martyushev et.al.|[2307.00320v1](http://arxiv.org/abs/2307.00320v1)|null|
@@ -51,6 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v1](http://arxiv.org/abs/2307.02948v1)|**[link](https://github.com/koide3/caratheodory2)**|
 |**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
 |**2023-07-04**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v2](http://arxiv.org/abs/2306.14749v2)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
 |**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|
@@ -108,6 +112,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**|Xuanlin Li et.al.|[2307.03135v1](http://arxiv.org/abs/2307.03135v1)|**[link](https://github.com/xuanlinli17/large_vlm_distillation_ood)**|
+|**2023-07-06**|**AllSight: A Low-Cost and High-Resolution Round Tactile Sensor with Zero-Shot Learning Capability**|Osher Azulay et.al.|[2307.02928v1](http://arxiv.org/abs/2307.02928v1)|null|
+|**2023-07-06**|**Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting**|Xuefeng Li et.al.|[2307.02830v1](http://arxiv.org/abs/2307.02830v1)|null|
+|**2023-07-06**|**Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation**|Zicheng Zhang et.al.|[2307.02808v1](http://arxiv.org/abs/2307.02808v1)|**[link](https://github.com/zzc-1998/sjtu-h3d)**|
+|**2023-07-06**|**Dense Retrieval Adaptation using Target Domain Description**|Helia Hashemi et.al.|[2307.02740v1](http://arxiv.org/abs/2307.02740v1)|null|
+|**2023-07-05**|**Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment**|Yongrae Jo et.al.|[2307.02682v1](http://arxiv.org/abs/2307.02682v1)|null|
 |**2023-07-05**|**The FormAI Dataset: Generative AI in Software Security Through the Lens of Formal Verification**|Norbert Tihanyi et.al.|[2307.02192v1](http://arxiv.org/abs/2307.02192v1)|null|
 |**2023-07-05**|**Open-Source Large Language Models Outperform Crowd Workers and Approach ChatGPT in Text-Annotation Tasks**|Meysam Alizadeh et.al.|[2307.02179v1](http://arxiv.org/abs/2307.02179v1)|null|
 |**2023-07-05**|**Comparative Analysis of GPT-4 and Human Graders in Evaluating Praise Given to Students in Synthetic Dialogues**|Dollaya Hirunyasiri et.al.|[2307.02018v1](http://arxiv.org/abs/2307.02018v1)|null|

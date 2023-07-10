@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704v1](http://arxiv.org/abs/2307.03704v1)|null|
+|**2023-07-07**|**RCDN -- Robust X-Corner Detection Algorithm based on Advanced CNN Model**|Ben Chen et.al.|[2307.03505v1](http://arxiv.org/abs/2307.03505v1)|null|
 |**2023-07-06**|**Self-supervised Optimization of Hand Pose Estimation using Anatomical Features and Iterative Learning**|Christian Jauch et.al.|[2307.03007v1](http://arxiv.org/abs/2307.03007v1)|null|
 |**2023-07-06**|**Recognition and Estimation of Human Finger Pointing with an RGB Camera for Robot Directive**|Eran Bamani et.al.|[2307.02949v1](http://arxiv.org/abs/2307.02949v1)|null|
 |**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
@@ -124,6 +126,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**SAR: Generalization of Physiological Agility and Dexterity via Synergistic Action Representation**|Cameron Berg et.al.|[2307.03716v1](http://arxiv.org/abs/2307.03716v1)|null|
+|**2023-07-07**|**Large Language Models as Batteries-Included Zero-Shot ESCO Skills Matchers**|Benjamin Clavié et.al.|[2307.03539v1](http://arxiv.org/abs/2307.03539v1)|null|
+|**2023-07-07**|**Learning Adversarial Semantic Embeddings for Zero-Shot Recognition in Open Worlds**|Tianqi Li et.al.|[2307.03416v1](http://arxiv.org/abs/2307.03416v1)|null|
 |**2023-07-06**|**Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**|Xuanlin Li et.al.|[2307.03135v1](http://arxiv.org/abs/2307.03135v1)|**[link](https://github.com/xuanlinli17/large_vlm_distillation_ood)**|
 |**2023-07-06**|**AllSight: A Low-Cost and High-Resolution Round Tactile Sensor with Zero-Shot Learning Capability**|Osher Azulay et.al.|[2307.02928v1](http://arxiv.org/abs/2307.02928v1)|null|
 |**2023-07-06**|**Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting**|Xuefeng Li et.al.|[2307.02830v1](http://arxiv.org/abs/2307.02830v1)|null|

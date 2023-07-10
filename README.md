@@ -77,7 +77,7 @@
 |**2023-05-08**|**APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction**|Quan Liu et.al.|[2305.02893v2](http://arxiv.org/abs/2305.02893v2)|**[link](https://github.com/liuquan98/apr)**|
 |**2023-04-27**|**RegHEC: Hand-Eye Calibration via Simultaneous Multi-view Point Clouds Registration of Arbitrary Object**|Shiyu Xing et.al.|[2304.14092v1](http://arxiv.org/abs/2304.14092v1)|**[link](https://github.com/shiyu-xing/reghec)**|
 |**2023-04-26**|**Non-rigid Point Cloud Registration for Middle Ear Diagnostics with Endoscopic Optical Coherence Tomography**|Peng Liu et.al.|[2304.13618v1](http://arxiv.org/abs/2304.13618v1)|**[link](https://gitlab.com/nct_tso_public/c2p-net)**|
-|**2023-04-25**|**BO-ICP: Initialization of Iterative Closest Point Based on Bayesian Optimization**|Harel Biggie et.al.|[2304.13114v1](http://arxiv.org/abs/2304.13114v1)|null|
+|**2023-04-25**|**BO-ICP: Initialization of Iterative Closest Point Based on Bayesian Optimization**|Harel Biggie et.al.|[2304.13114v1](http://arxiv.org/abs/2304.13114v1)|**[link](https://github.com/arpg/bo_icp)**|
 |**2023-04-18**|**SDFReg: Learning Signed Distance Functions for Point Cloud Registration**|Leida Zhang et.al.|[2304.08929v1](http://arxiv.org/abs/2304.08929v1)|null|
 |**2023-04-12**|**SiLK -- Simple Learned Keypoints**|Pierre Gleize et.al.|[2304.06194v1](http://arxiv.org/abs/2304.06194v1)|**[link](https://github.com/facebookresearch/silk)**|
 |**2023-04-11**|**TT-SDF2PC: Registration of Point Cloud and Compressed SDF Directly in the Memory-Efficient Tensor Train Domain**|Alexey I. Boyko et.al.|[2304.05342v1](http://arxiv.org/abs/2304.05342v1)|null|

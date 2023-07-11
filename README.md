@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Proximity and Visuotactile Point Cloud Fusion for Contact Patches in Extreme Deformation**|Jessica Yin et.al.|[2307.03839v1](http://arxiv.org/abs/2307.03839v1)|null|
+|**2023-07-07**|**Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation**|Zhongyu Jiang et.al.|[2307.03833v1](http://arxiv.org/abs/2307.03833v1)|null|
 |**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704v1](http://arxiv.org/abs/2307.03704v1)|null|
 |**2023-07-07**|**RCDN -- Robust X-Corner Detection Algorithm based on Advanced CNN Model**|Ben Chen et.al.|[2307.03505v1](http://arxiv.org/abs/2307.03505v1)|null|
 |**2023-07-06**|**Self-supervised Optimization of Hand Pose Estimation using Anatomical Features and Iterative Learning**|Christian Jauch et.al.|[2307.03007v1](http://arxiv.org/abs/2307.03007v1)|null|
@@ -109,6 +111,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-08**|**BPNet: Bézier Primitive Segmentation on 3D Point Clouds**|Rao Fu et.al.|[2307.04013v1](http://arxiv.org/abs/2307.04013v1)|**[link](https://github.com/bizerfr/bpnet)**|
 |**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306v1](http://arxiv.org/abs/2306.16306v1)|null|
 |**2023-05-30**|**Dynamic Clustering Transformer Network for Point Cloud Segmentation**|Dening Lu et.al.|[2306.08073v1](http://arxiv.org/abs/2306.08073v1)|null|
 |**2023-05-23**|**Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation**|Shuting He et.al.|[2305.14335v1](http://arxiv.org/abs/2305.14335v1)|**[link](https://github.com/heshuting555/pap-fzs3d)**|
@@ -126,6 +129,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-10**|**Large Language Models as General Pattern Machines**|Suvir Mirchandani et.al.|[2307.04721v1](http://arxiv.org/abs/2307.04721v1)|null|
+|**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
+|**2023-07-09**|**Can Generative Large Language Models Perform ASR Error Correction?**|Rao Ma et.al.|[2307.04172v1](http://arxiv.org/abs/2307.04172v1)|null|
+|**2023-07-09**|**Optimal Transport Posterior Alignment for Cross-lingual Semantic Parsing**|Tom Sherborne et.al.|[2307.04096v1](http://arxiv.org/abs/2307.04096v1)|null|
+|**2023-07-08**|**Measuring the Success of Diffusion Models at Imitating Human Artists**|Stephen Casper et.al.|[2307.04028v1](http://arxiv.org/abs/2307.04028v1)|null|
+|**2023-07-08**|**Is ChatGPT a Good Personality Recognizer? A Preliminary Study**|Yu Ji et.al.|[2307.03952v1](http://arxiv.org/abs/2307.03952v1)|null|
+|**2023-07-08**|**Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation**|Aditya Sanghi et.al.|[2307.03869v1](http://arxiv.org/abs/2307.03869v1)|null|
+|**2023-07-07**|**Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation**|Zhongyu Jiang et.al.|[2307.03833v1](http://arxiv.org/abs/2307.03833v1)|null|
+|**2023-07-07**|**URL: A Representation Learning Benchmark for Transferable Uncertainty Estimates**|Michael Kirchhof et.al.|[2307.03810v1](http://arxiv.org/abs/2307.03810v1)|**[link](https://github.com/mkirchhof/url)**|
 |**2023-07-07**|**SAR: Generalization of Physiological Agility and Dexterity via Synergistic Action Representation**|Cameron Berg et.al.|[2307.03716v1](http://arxiv.org/abs/2307.03716v1)|null|
 |**2023-07-07**|**Large Language Models as Batteries-Included Zero-Shot ESCO Skills Matchers**|Benjamin Clavié et.al.|[2307.03539v1](http://arxiv.org/abs/2307.03539v1)|null|
 |**2023-07-07**|**Learning Adversarial Semantic Embeddings for Zero-Shot Recognition in Open Worlds**|Tianqi Li et.al.|[2307.03416v1](http://arxiv.org/abs/2307.03416v1)|null|

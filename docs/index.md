@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -58,7 +58,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-06**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v1](http://arxiv.org/abs/2307.02948v1)|**[link](https://github.com/koide3/caratheodory2)**|
+|**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
 |**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
 |**2023-07-04**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v2](http://arxiv.org/abs/2306.14749v2)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
 |**2023-06-20**|**End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization**|Guangming Wang et.al.|[2306.11346v1](http://arxiv.org/abs/2306.11346v1)|null|

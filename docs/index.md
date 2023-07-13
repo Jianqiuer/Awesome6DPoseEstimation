@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -119,7 +119,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-11**|**Generative Pretraining in Multimodality**|Quan Sun et.al.|[2307.05222v1](http://arxiv.org/abs/2307.05222v1)|**[link](https://github.com/baaivision/emu)**|
-|**2023-07-11**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v1](http://arxiv.org/abs/2307.05034v1)|**[link](https://github.com/sushmaakoju/natural-logic)**|
+|**2023-07-12**|**Synthetic Dataset for Evaluating Complex Compositional Knowledge for Natural Language Inference**|Sushma Anand Akoju et.al.|[2307.05034v2](http://arxiv.org/abs/2307.05034v2)|**[link](https://github.com/sushmaakoju/natural-logic)**|
 |**2023-07-10**|**Large Language Models as General Pattern Machines**|Suvir Mirchandani et.al.|[2307.04721v1](http://arxiv.org/abs/2307.04721v1)|null|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
 |**2023-07-09**|**Can Generative Large Language Models Perform ASR Error Correction?**|Rao Ma et.al.|[2307.04172v1](http://arxiv.org/abs/2307.04172v1)|null|

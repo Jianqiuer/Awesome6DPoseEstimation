@@ -13,10 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|null|
 |**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896v1](http://arxiv.org/abs/2307.05896v1)|**[link](https://github.com/nyquixt/kinematicnet)**|
 |**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853v1](http://arxiv.org/abs/2307.05853v1)|**[link](https://github.com/bruceyo/GLA-GCN)**|
 |**2023-07-09**|**TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement**|Mahmoud Abdulsalam et.al.|[2307.05561v1](http://arxiv.org/abs/2307.05561v1)|null|
-|**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|null|
+|**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180v1](http://arxiv.org/abs/2307.05180v1)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-07**|**Proximity and Visuotactile Point Cloud Fusion for Contact Patches in Extreme Deformation**|Jessica Yin et.al.|[2307.03839v1](http://arxiv.org/abs/2307.03839v1)|null|
 |**2023-07-07**|**Back to Optimization: Diffusion-based Zero-Shot 3D Human Pose Estimation**|Zhongyu Jiang et.al.|[2307.03833v1](http://arxiv.org/abs/2307.03833v1)|**[link](https://github.com/ipl-uw/ZeDO-Release)**|
 |**2023-07-07**|**Equivariant Single View Pose Prediction Via Induced and Restricted Representations**|Owen Howell et.al.|[2307.03704v1](http://arxiv.org/abs/2307.03704v1)|null|
@@ -133,6 +134,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942v1](http://arxiv.org/abs/2307.06942v1)|**[link](https://github.com/opengvlab/internvideo)**|
+|**2023-07-13**|**mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs**|Gregor Geigle et.al.|[2307.06930v1](http://arxiv.org/abs/2307.06930v1)|null|
+|**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|null|
+|**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526v1](http://arxiv.org/abs/2307.06526v1)|null|
 |**2023-07-12**|**Learning Hierarchical Interactive Multi-Object Search for Mobile Manipulation**|Fabian Schmalstieg et.al.|[2307.06125v1](http://arxiv.org/abs/2307.06125v1)|null|
 |**2023-07-12**|**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**|Wenlong Huang et.al.|[2307.05973v1](http://arxiv.org/abs/2307.05973v1)|null|
 |**2023-07-11**|**Excitements and Concerns in the Post-ChatGPT Era: Deciphering Public Perception of AI through Social Media Analysis**|Weihong Qi et.al.|[2307.05809v1](http://arxiv.org/abs/2307.05809v1)|null|

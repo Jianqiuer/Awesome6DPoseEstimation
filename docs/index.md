@@ -123,8 +123,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942v1](http://arxiv.org/abs/2307.06942v1)|**[link](https://github.com/opengvlab/internvideo)**|
-|**2023-07-13**|**mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs**|Gregor Geigle et.al.|[2307.06930v1](http://arxiv.org/abs/2307.06930v1)|null|
-|**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|null|
+|**2023-07-13**|**mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs**|Gregor Geigle et.al.|[2307.06930v1](http://arxiv.org/abs/2307.06930v1)|**[link](https://github.com/gregor-ge/mblip)**|
+|**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|**[link](https://github.com/factodeeplearning/multitaskvlfm)**|
 |**2023-07-13**|**AvatarFusion: Zero-shot Generation of Clothing-Decoupled 3D Avatars Using 2D Diffusion**|Shuo Huang et.al.|[2307.06526v1](http://arxiv.org/abs/2307.06526v1)|null|
 |**2023-07-12**|**Learning Hierarchical Interactive Multi-Object Search for Mobile Manipulation**|Fabian Schmalstieg et.al.|[2307.06125v1](http://arxiv.org/abs/2307.06125v1)|null|
 |**2023-07-12**|**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**|Wenlong Huang et.al.|[2307.05973v1](http://arxiv.org/abs/2307.05973v1)|null|

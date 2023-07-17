@@ -7,7 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|null|
+|**2023-07-13**|**Haptic-guided assisted telemanipulation approach for grasping desired objects from heaps**|Maxime Adjigble et.al.|[2307.07053v1](http://arxiv.org/abs/2307.07053v1)|null|
+|**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|**[link](https://github.com/MiraPurkrabek/RePoGen)**|
 |**2023-07-12**|**Deep learning-based estimation of whole-body kinematics from multi-view images**|Kien X. Nguyen et.al.|[2307.05896v1](http://arxiv.org/abs/2307.05896v1)|**[link](https://github.com/nyquixt/kinematicnet)**|
 |**2023-07-12**|**GLA-GCN: Global-local Adaptive Graph Convolutional Network for 3D Human**|Bruce X. B. Yu et.al.|[2307.05853v1](http://arxiv.org/abs/2307.05853v1)|**[link](https://github.com/bruceyo/GLA-GCN)**|
 |**2023-07-09**|**TransPose: A Transformer-based 6D Object Pose Estimation Network with Depth Refinement**|Mahmoud Abdulsalam et.al.|[2307.05561v1](http://arxiv.org/abs/2307.05561v1)|null|
@@ -63,6 +64,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
 |**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
 |**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
 |**2023-07-04**|**A denoised Mean Teacher for domain adaptive point cloud registration**|Alexander Bigalke et.al.|[2306.14749v2](http://arxiv.org/abs/2306.14749v2)|**[link](https://github.com/multimodallearning/denoised_mt_pcd_reg)**|
@@ -106,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2307.07102v1](http://arxiv.org/abs/2307.07102v1)|**[link](https://github.com/GuanRunwei/Achelous)**|
 |**2023-07-08**|**BPNet: Bézier Primitive Segmentation on 3D Point Clouds**|Rao Fu et.al.|[2307.04013v1](http://arxiv.org/abs/2307.04013v1)|**[link](https://github.com/bizerfr/bpnet)**|
 |**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306v1](http://arxiv.org/abs/2306.16306v1)|null|
 |**2023-05-30**|**Dynamic Clustering Transformer Network for Point Cloud Segmentation**|Dening Lu et.al.|[2306.08073v1](http://arxiv.org/abs/2306.08073v1)|null|
@@ -122,6 +125,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**|Zhengbo Wang et.al.|[2307.07397v1](http://arxiv.org/abs/2307.07397v1)|null|
+|**2023-07-14**|**Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders**|Guanqun Cao et.al.|[2307.07358v1](http://arxiv.org/abs/2307.07358v1)|null|
+|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312v1](http://arxiv.org/abs/2307.07312v1)|null|
+|**2023-07-14**|**C3: Zero-shot Text-to-SQL with ChatGPT**|Xuemei Dong et.al.|[2307.07306v1](http://arxiv.org/abs/2307.07306v1)|**[link](https://github.com/bigbigwatermalon/c3sql)**|
+|**2023-07-14**|**Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training**|Xiaofei Chen et.al.|[2307.07246v1](http://arxiv.org/abs/2307.07246v1)|null|
+|**2023-07-14**|**Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts**|Ziyue Jiang et.al.|[2307.07218v1](http://arxiv.org/abs/2307.07218v1)|null|
 |**2023-07-13**|**InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation**|Yi Wang et.al.|[2307.06942v1](http://arxiv.org/abs/2307.06942v1)|**[link](https://github.com/opengvlab/internvideo)**|
 |**2023-07-13**|**mBLIP: Efficient Bootstrapping of Multilingual Vision-LLMs**|Gregor Geigle et.al.|[2307.06930v1](http://arxiv.org/abs/2307.06930v1)|**[link](https://github.com/gregor-ge/mblip)**|
 |**2023-07-13**|**Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks**|Denis Coquenet et.al.|[2307.06795v1](http://arxiv.org/abs/2307.06795v1)|**[link](https://github.com/factodeeplearning/multitaskvlfm)**|

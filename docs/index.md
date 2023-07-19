@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
 |**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|null|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders et.al.|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
 |**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v1](http://arxiv.org/abs/2307.08015v1)|null|
@@ -68,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
 |**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
 |**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
@@ -129,6 +131,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435v1](http://arxiv.org/abs/2307.09435v1)|null|
+|**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
+|**2023-07-18**|**Generative Type Inference for Python**|Yun Peng et.al.|[2307.09163v1](http://arxiv.org/abs/2307.09163v1)|null|
+|**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
+|**2023-07-17**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v1](http://arxiv.org/abs/2307.08779v1)|null|
+|**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|null|
 |**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|null|

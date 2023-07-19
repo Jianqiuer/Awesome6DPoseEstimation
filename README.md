@@ -1,4 +1,4 @@
-## Updated on 2023.07.18
+## Updated on 2023.07.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
 |**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|null|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders et.al.|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
 |**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v1](http://arxiv.org/abs/2307.08015v1)|null|
@@ -70,12 +71,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
 |**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
 |**2023-07-03**|**Direct Superpoints Matching for Fast and Robust Point Cloud Registration**|Aniket Gupta et.al.|[2307.01362v1](http://arxiv.org/abs/2307.01362v1)|null|
@@ -116,7 +118,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -135,12 +137,20 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435v1](http://arxiv.org/abs/2307.09435v1)|null|
+|**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|null|
+|**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
+|**2023-07-18**|**Generative Type Inference for Python**|Yun Peng et.al.|[2307.09163v1](http://arxiv.org/abs/2307.09163v1)|null|
+|**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
+|**2023-07-17**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v1](http://arxiv.org/abs/2307.08779v1)|null|
+|**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|null|
 |**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|null|
@@ -195,5 +205,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230719>back to top</a>)</p>
 

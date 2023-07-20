@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2023.07.19
+## Updated on 2023.07.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
-|**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|null|
+|**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|**[link](https://github.com/andreaszachariae/petra_dataset_human_emergency_detection)**|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders et.al.|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
-|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v1](http://arxiv.org/abs/2307.08015v1)|null|
+|**2023-07-19**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v2](http://arxiv.org/abs/2307.08015v2)|null|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
 |**2023-07-13**|**Haptic-guided assisted telemanipulation approach for grasping desired objects from heaps**|Maxime Adjigble et.al.|[2307.07053v1](http://arxiv.org/abs/2307.07053v1)|null|
 |**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|**[link](https://github.com/MiraPurkrabek/RePoGen)**|
@@ -137,7 +137,7 @@ layout: default
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
 |**2023-07-18**|**Generative Type Inference for Python**|Yun Peng et.al.|[2307.09163v1](http://arxiv.org/abs/2307.09163v1)|null|
 |**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
-|**2023-07-17**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v1](http://arxiv.org/abs/2307.08779v1)|null|
+|**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v2](http://arxiv.org/abs/2307.08779v2)|null|
 |**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|null|

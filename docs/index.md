@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
+|**2023-07-19**|**POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities**|Rui Wang et.al.|[2307.10387v1](http://arxiv.org/abs/2307.10387v1)|null|
 |**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
 |**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|**[link](https://github.com/andreaszachariae/petra_dataset_human_emergency_detection)**|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders et.al.|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
@@ -115,6 +117,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
 |**2023-07-14**|**Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2307.07102v1](http://arxiv.org/abs/2307.07102v1)|**[link](https://github.com/GuanRunwei/Achelous)**|
 |**2023-07-08**|**BPNet: Bézier Primitive Segmentation on 3D Point Clouds**|Rao Fu et.al.|[2307.04013v1](http://arxiv.org/abs/2307.04013v1)|**[link](https://github.com/bizerfr/bpnet)**|
 |**2023-06-28**|**Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction**|Athrva Atul Pandhare et.al.|[2306.16306v1](http://arxiv.org/abs/2306.16306v1)|null|
@@ -132,6 +135,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
+|**2023-07-20**|**Language-based Action Concept Spaces Improve Video Self-Supervised Learning**|Kanchana Ranasinghe et.al.|[2307.10922v1](http://arxiv.org/abs/2307.10922v1)|null|
+|**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
+|**2023-07-20**|**Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV**|Jaime Spencer et.al.|[2307.10713v1](http://arxiv.org/abs/2307.10713v1)|**[link](https://github.com/jspenmar/slowtv_monodepth)**|
+|**2023-07-20**|**Ethosight: A Joint-Embedding Based System for Nuanced Perception Using Contextual Label Affinity Metric and Reasoning Based Iterative Learning**|Hugo Latapie et.al.|[2307.10577v1](http://arxiv.org/abs/2307.10577v1)|null|
+|**2023-07-20**|**PPN: Parallel Pointer-based Network for Key Information Extraction with Complex Layouts**|Kaiwen Wei et.al.|[2307.10551v1](http://arxiv.org/abs/2307.10551v1)|null|
+|**2023-07-20**|**SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer**|Daegyeom Kim et.al.|[2307.10550v1](http://arxiv.org/abs/2307.10550v1)|null|
+|**2023-07-19**|**SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval**|Nandan Thakur et.al.|[2307.10488v1](http://arxiv.org/abs/2307.10488v1)|**[link](https://github.com/thakur-nandan/sprint)**|
+|**2023-07-19**|**Can Instruction Fine-Tuned Language Models Identify Social Bias through Prompting?**|Omkar Dige et.al.|[2307.10472v1](http://arxiv.org/abs/2307.10472v1)|null|
 |**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435v1](http://arxiv.org/abs/2307.09435v1)|null|

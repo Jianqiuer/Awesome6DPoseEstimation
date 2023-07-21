@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
 |**2023-07-17**|**Human Emergency Detection during Autonomous Hospital Transports**|Andreas Zachariae et.al.|[2307.08359v1](http://arxiv.org/abs/2307.08359v1)|**[link](https://github.com/andreaszachariae/petra_dataset_human_emergency_detection)**|
 |**2023-07-17**|**Self-supervised Monocular Depth Estimation: Let's Talk About The Weather**|Kieran Saunders et.al.|[2307.08357v1](http://arxiv.org/abs/2307.08357v1)|null|
-|**2023-07-19**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v2](http://arxiv.org/abs/2307.08015v2)|null|
+|**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015v3](http://arxiv.org/abs/2307.08015v3)|null|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763v1](http://arxiv.org/abs/2307.07763v1)|null|
 |**2023-07-13**|**Haptic-guided assisted telemanipulation approach for grasping desired objects from heaps**|Maxime Adjigble et.al.|[2307.07053v1](http://arxiv.org/abs/2307.07053v1)|null|
 |**2023-07-13**|**Improving 2D Human Pose Estimation across Unseen Camera Views with Synthetic Data**|Miroslav Purkrábek et.al.|[2307.06737v1](http://arxiv.org/abs/2307.06737v1)|**[link](https://github.com/MiraPurkrabek/RePoGen)**|
@@ -132,12 +132,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-19**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v1](http://arxiv.org/abs/2307.10172v1)|**[link](https://github.com/salesforce/DialogStudio)**|
+|**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
 |**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
 |**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435v1](http://arxiv.org/abs/2307.09435v1)|null|
 |**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|**[link](https://github.com/dayuyang1999/zeqr)**|
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|
-|**2023-07-18**|**Generative Type Inference for Python**|Yun Peng et.al.|[2307.09163v1](http://arxiv.org/abs/2307.09163v1)|null|
+|**2023-07-18**|**Generative Type Inference for Python**|Yun Peng et.al.|[2307.09163v1](http://arxiv.org/abs/2307.09163v1)|**[link](https://github.com/johnnypeng18/typegen)**|
 |**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
 |**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v2](http://arxiv.org/abs/2307.08779v2)|null|
 |**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|

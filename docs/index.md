@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation**|Arul Selvam Periyasamy et.al.|[2307.11550v1](http://arxiv.org/abs/2307.11550v1)|null|
+|**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543v1](http://arxiv.org/abs/2307.11543v1)|null|
+|**2023-07-21**|**Semantically-enhanced Deep Collision Prediction for Autonomous Navigation using Aerial Robots**|Mihir Kulkarni et.al.|[2307.11522v1](http://arxiv.org/abs/2307.11522v1)|null|
+|**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261v1](http://arxiv.org/abs/2307.11261v1)|null|
 |**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
 |**2023-07-19**|**POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities**|Rui Wang et.al.|[2307.10387v1](http://arxiv.org/abs/2307.10387v1)|null|
 |**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
@@ -135,6 +139,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach**|Yuexin Li et.al.|[2307.11572v1](http://arxiv.org/abs/2307.11572v1)|null|
 |**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
 |**2023-07-20**|**Language-based Action Concept Spaces Improve Video Self-Supervised Learning**|Kanchana Ranasinghe et.al.|[2307.10922v1](http://arxiv.org/abs/2307.10922v1)|null|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|

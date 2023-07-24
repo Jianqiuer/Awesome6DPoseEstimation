@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.23
+## Updated on 2023.07.24
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -139,7 +139,7 @@ layout: default
 |**2023-07-20**|**Language-based Action Concept Spaces Improve Video Self-Supervised Learning**|Kanchana Ranasinghe et.al.|[2307.10922v1](http://arxiv.org/abs/2307.10922v1)|null|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
 |**2023-07-20**|**Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV**|Jaime Spencer et.al.|[2307.10713v1](http://arxiv.org/abs/2307.10713v1)|**[link](https://github.com/jspenmar/slowtv_monodepth)**|
-|**2023-07-20**|**Ethosight: A Joint-Embedding Based System for Nuanced Perception Using Contextual Label Affinity Metric and Reasoning Based Iterative Learning**|Hugo Latapie et.al.|[2307.10577v1](http://arxiv.org/abs/2307.10577v1)|null|
+|**2023-07-21**|**Ethosight: A Reasoning-Guided Iterative Learning System for Nuanced Perception based on Joint-Embedding & Contextual Label Affinity**|Hugo Latapie et.al.|[2307.10577v2](http://arxiv.org/abs/2307.10577v2)|null|
 |**2023-07-20**|**PPN: Parallel Pointer-based Network for Key Information Extraction with Complex Layouts**|Kaiwen Wei et.al.|[2307.10551v1](http://arxiv.org/abs/2307.10551v1)|null|
 |**2023-07-20**|**SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer**|Daegyeom Kim et.al.|[2307.10550v1](http://arxiv.org/abs/2307.10550v1)|null|
 |**2023-07-19**|**SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval**|Nandan Thakur et.al.|[2307.10488v1](http://arxiv.org/abs/2307.10488v1)|**[link](https://github.com/thakur-nandan/sprint)**|

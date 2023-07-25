@@ -7,8 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400v1](http://arxiv.org/abs/2307.12400v1)|null|
+|**2023-07-23**|**FDCT: Fast Depth Completion for Transparent Objects**|Tianan Li et.al.|[2307.12274v1](http://arxiv.org/abs/2307.12274v1)|**[link](https://github.com/nonmy/fdct)**|
+|**2023-07-22**|**Challenges for Monocular 6D Object Pose Estimation in Robotics**|Stefan Thalhammer et.al.|[2307.12172v1](http://arxiv.org/abs/2307.12172v1)|null|
+|**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
+|**2023-07-22**|**Robot Structure Prior Guided Temporal Attention for Camera-to-Robot Pose Estimation from Image Sequence**|Yang Tian et.al.|[2307.12106v1](http://arxiv.org/abs/2307.12106v1)|null|
+|**2023-07-21**|**LAMP: Leveraging Language Prompts for Multi-person Pose Estimation**|Shengnan Hu et.al.|[2307.11934v1](http://arxiv.org/abs/2307.11934v1)|**[link](https://github.com/shengnanh20/lamp)**|
 |**2023-07-21**|**YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation**|Arul Selvam Periyasamy et.al.|[2307.11550v1](http://arxiv.org/abs/2307.11550v1)|null|
-|**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543v1](http://arxiv.org/abs/2307.11543v1)|null|
+|**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543v1](http://arxiv.org/abs/2307.11543v1)|**[link](https://github.com/ivano-donadi/kvn)**|
 |**2023-07-21**|**Semantically-enhanced Deep Collision Prediction for Autonomous Navigation using Aerial Robots**|Mihir Kulkarni et.al.|[2307.11522v1](http://arxiv.org/abs/2307.11522v1)|null|
 |**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261v1](http://arxiv.org/abs/2307.11261v1)|null|
 |**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
@@ -75,6 +81,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
+|**2023-07-22**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v1](http://arxiv.org/abs/2307.11998v1)|null|
 |**2023-07-19**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v1](http://arxiv.org/abs/2307.09788v1)|null|
 |**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
@@ -139,6 +147,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Leveraging Label Variation in Large Language Models for Zero-Shot Text Classification**|Flor Miriam Plaza-del-Arco et.al.|[2307.12973v1](http://arxiv.org/abs/2307.12973v1)|null|
+|**2023-07-24**|**CLIP-KD: An Empirical Study of Distilling CLIP Models**|Chuanguang Yang et.al.|[2307.12732v1](http://arxiv.org/abs/2307.12732v1)|null|
+|**2023-07-24**|**A general Temperature-Guided Language model to engineer enhanced Stability and Activity in Proteins**|Pan Tan et.al.|[2307.12682v1](http://arxiv.org/abs/2307.12682v1)|null|
+|**2023-07-24**|**Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul**|Keno Moenck et.al.|[2307.12674v1](http://arxiv.org/abs/2307.12674v1)|null|
+|**2023-07-24**|**PRIOR: Prototype Representation Joint Learning from Medical Images and Reports**|Pujin Cheng et.al.|[2307.12577v1](http://arxiv.org/abs/2307.12577v1)|**[link](https://github.com/qtacierp/prior)**|
+|**2023-07-24**|**Interpolating between Images with Diffusion Models**|Clinton J. Wang et.al.|[2307.12560v1](http://arxiv.org/abs/2307.12560v1)|null|
+|**2023-07-23**|**Geometry-Aware Adaptation for Pretrained Models**|Nicholas Roberts et.al.|[2307.12226v1](http://arxiv.org/abs/2307.12226v1)|null|
+|**2023-07-22**|**Leveraging Knowledge Graphs for Zero-Shot Object-agnostic State Classification**|Filipos Gouidis et.al.|[2307.12179v1](http://arxiv.org/abs/2307.12179v1)|null|
+|**2023-07-22**|**A Zero-shot and Few-shot Study of Instruction-Finetuned Large Language Models Applied to Clinical and Biomedical Tasks**|Yanis Labrak et.al.|[2307.12114v1](http://arxiv.org/abs/2307.12114v1)|null|
+|**2023-07-22**|**Multi-Stage Reinforcement Learning for Non-Prehensile Manipulation**|Dexin Wang et.al.|[2307.12074v1](http://arxiv.org/abs/2307.12074v1)|null|
 |**2023-07-21**|**Prompt-Based Zero- and Few-Shot Node Classification: A Multimodal Approach**|Yuexin Li et.al.|[2307.11572v1](http://arxiv.org/abs/2307.11572v1)|null|
 |**2023-07-20**|**Metric3D: Towards Zero-shot Metric 3D Prediction from A Single Image**|Wei Yin et.al.|[2307.10984v1](http://arxiv.org/abs/2307.10984v1)|**[link](https://github.com/yvanyin/metric3d)**|
 |**2023-07-20**|**Language-based Action Concept Spaces Improve Video Self-Supervised Learning**|Kanchana Ranasinghe et.al.|[2307.10922v1](http://arxiv.org/abs/2307.10922v1)|null|

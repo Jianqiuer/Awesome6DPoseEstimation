@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889v1](http://arxiv.org/abs/2307.14889v1)|null|
+|**2023-07-26**|**Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control**|Yijiong Lin et.al.|[2307.14510v1](http://arxiv.org/abs/2307.14510v1)|null|
 |**2023-07-26**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247v1](http://arxiv.org/abs/2307.14247v1)|null|
 |**2023-07-26**|**Deep Robust Multi-Robot Re-localisation in Natural Environments**|Milad Ramezani et.al.|[2307.13950v1](http://arxiv.org/abs/2307.13950v1)|null|
 |**2023-07-25**|**Of Mice and Pose: 2D Mouse Pose Estimation from Unlabelled Data and Synthetic Prior**|Jose Sosa et.al.|[2307.13361v1](http://arxiv.org/abs/2307.13361v1)|null|
@@ -143,6 +145,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v1](http://arxiv.org/abs/2307.14777v1)|null|
+|**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|null|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
 |**2023-07-14**|**Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2307.07102v1](http://arxiv.org/abs/2307.07102v1)|**[link](https://github.com/GuanRunwei/Achelous)**|
 |**2023-07-08**|**BPNet: Bézier Primitive Segmentation on 3D Point Clouds**|Rao Fu et.al.|[2307.04013v1](http://arxiv.org/abs/2307.04013v1)|**[link](https://github.com/bizerfr/bpnet)**|
@@ -163,6 +167,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models**|Kecheng Zheng et.al.|[2307.15049v1](http://arxiv.org/abs/2307.15049v1)|null|
+|**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|null|
+|**2023-07-27**|**Evaluating Generative Models for Graph-to-Text Generation**|Shuzhou Yuan et.al.|[2307.14712v1](http://arxiv.org/abs/2307.14712v1)|**[link](https://github.com/shuzhouyuan/eval_g2t_genmodels)**|
+|**2023-07-26**|**A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot**|Milad Abdollahzadeh et.al.|[2307.14397v1](http://arxiv.org/abs/2307.14397v1)|null|
+|**2023-07-26**|**Leveraging Large Language Models for Mental Health Prediction via Online Text Data**|Xuhai Xu et.al.|[2307.14385v1](http://arxiv.org/abs/2307.14385v1)|null|
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
 |**2023-07-26**|**Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences**|Scott Sanner et.al.|[2307.14225v1](http://arxiv.org/abs/2307.14225v1)|null|
 |**2023-07-26**|**Developing and Evaluating Tiny to Medium-Sized Turkish BERT Models**|Himmet Toprak Kesgin et.al.|[2307.14134v1](http://arxiv.org/abs/2307.14134v1)|null|

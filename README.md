@@ -1,4 +1,4 @@
-## Updated on 2023.07.30
+## Updated on 2023.07.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889v1](http://arxiv.org/abs/2307.14889v1)|null|
 |**2023-07-26**|**Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control**|Yijiong Lin et.al.|[2307.14510v1](http://arxiv.org/abs/2307.14510v1)|null|
-|**2023-07-26**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247v1](http://arxiv.org/abs/2307.14247v1)|**[link](https://github.com/li9i/cbgl)**|
+|**2023-07-28**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247v2](http://arxiv.org/abs/2307.14247v2)|**[link](https://github.com/li9i/cbgl)**|
 |**2023-07-26**|**Deep Robust Multi-Robot Re-localisation in Natural Environments**|Milad Ramezani et.al.|[2307.13950v1](http://arxiv.org/abs/2307.13950v1)|null|
 |**2023-07-25**|**Of Mice and Pose: 2D Mouse Pose Estimation from Unlabelled Data and Synthetic Prior**|Jose Sosa et.al.|[2307.13361v1](http://arxiv.org/abs/2307.13361v1)|null|
 |**2023-07-23**|**TransNet: Transparent Object Manipulation Through Category-Level Pose Estimation**|Huijie Zhang et.al.|[2307.12400v1](http://arxiv.org/abs/2307.12400v1)|null|
@@ -88,7 +88,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -139,7 +139,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -161,7 +161,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -262,5 +262,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230731>back to top</a>)</p>
 

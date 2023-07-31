@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**TrackAgent: 6D Object Tracking via Reinforcement Learning**|Konstantin Röhrl et.al.|[2307.15671v1](http://arxiv.org/abs/2307.15671v1)|null|
+|**2023-07-28**|**Revisiting Fully Convolutional Geometric Features for Object 6D Pose Estimation**|Jaime Corsetti et.al.|[2307.15514v1](http://arxiv.org/abs/2307.15514v1)|null|
+|**2023-07-28**|**Robust Visual Sim-to-Real Transfer for Robotic Manipulation**|Ricardo Garcia et.al.|[2307.15320v1](http://arxiv.org/abs/2307.15320v1)|null|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889v1](http://arxiv.org/abs/2307.14889v1)|null|
 |**2023-07-26**|**Attention of Robot Touch: Tactile Saliency Prediction for Robust Sim-to-Real Tactile Control**|Yijiong Lin et.al.|[2307.14510v1](http://arxiv.org/abs/2307.14510v1)|null|
 |**2023-07-28**|**CBGL: Fast Monte Carlo Passive Global Localisation of 2D LIDAR Sensor**|Alexandros Filotheou et.al.|[2307.14247v2](http://arxiv.org/abs/2307.14247v2)|**[link](https://github.com/li9i/cbgl)**|
@@ -167,6 +170,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|null|
+|**2023-07-28**|**Multilingual Lexical Simplification via Paraphrase Generation**|Kang Liu et.al.|[2307.15286v1](http://arxiv.org/abs/2307.15286v1)|**[link](https://github.com/kpkqwq/lspg)**|
 |**2023-07-27**|**Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models**|Kecheng Zheng et.al.|[2307.15049v1](http://arxiv.org/abs/2307.15049v1)|null|
 |**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|null|
 |**2023-07-27**|**Evaluating Generative Models for Graph-to-Text Generation**|Shuzhou Yuan et.al.|[2307.14712v1](http://arxiv.org/abs/2307.14712v1)|**[link](https://github.com/shuzhouyuan/eval_g2t_genmodels)**|

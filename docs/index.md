@@ -184,7 +184,7 @@ layout: default
 |**2023-07-20**|**Kick Back & Relax: Learning to Reconstruct the World by Watching SlowTV**|Jaime Spencer et.al.|[2307.10713v1](http://arxiv.org/abs/2307.10713v1)|**[link](https://github.com/jspenmar/slowtv_monodepth)**|
 |**2023-07-21**|**Ethosight: A Reasoning-Guided Iterative Learning System for Nuanced Perception based on Joint-Embedding & Contextual Label Affinity**|Hugo Latapie et.al.|[2307.10577v2](http://arxiv.org/abs/2307.10577v2)|null|
 |**2023-07-20**|**PPN: Parallel Pointer-based Network for Key Information Extraction with Complex Layouts**|Kaiwen Wei et.al.|[2307.10551v1](http://arxiv.org/abs/2307.10551v1)|null|
-|**2023-07-20**|**SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer**|Daegyeom Kim et.al.|[2307.10550v1](http://arxiv.org/abs/2307.10550v1)|null|
+|**2023-07-20**|**SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer**|Daegyeom Kim et.al.|[2307.10550v1](http://arxiv.org/abs/2307.10550v1)|**[link](https://github.com/0913ktg/sc_vall-e)**|
 |**2023-07-19**|**SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval**|Nandan Thakur et.al.|[2307.10488v1](http://arxiv.org/abs/2307.10488v1)|**[link](https://github.com/thakur-nandan/sprint)**|
 |**2023-07-19**|**Can Instruction Fine-Tuned Language Models Identify Social Bias through Prompting?**|Omkar Dige et.al.|[2307.10472v1](http://arxiv.org/abs/2307.10472v1)|null|
 |**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
@@ -197,7 +197,7 @@ layout: default
 |**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v2](http://arxiv.org/abs/2307.08779v2)|null|
 |**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
-|**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|null|
+|**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|**[link](https://github.com/zhiyuanpeng/sptar)**|
 |**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|null|
 |**2023-07-17**|**Zero-Shot Image Harmonization with Generative Model Prior**|Jianqi Chen et.al.|[2307.08182v1](http://arxiv.org/abs/2307.08182v1)|**[link](https://github.com/windvchen/diff-harmonization)**|
 |**2023-07-16**|**Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training**|Yao Wei et.al.|[2307.07909v1](http://arxiv.org/abs/2307.07909v1)|null|

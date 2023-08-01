@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.31
+## Updated on 2023.08.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -91,7 +91,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-26**|**One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration**|Yongzhe Yuan et.al.|[2307.14019v1](http://arxiv.org/abs/2307.14019v1)|null|
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
-|**2023-07-26**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v2](http://arxiv.org/abs/2307.11998v2)|null|
+|**2023-07-31**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
 |**2023-07-19**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v1](http://arxiv.org/abs/2307.09788v1)|null|
 |**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
@@ -138,7 +138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-27**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v1](http://arxiv.org/abs/2307.14777v1)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
+|**2023-07-31**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v2](http://arxiv.org/abs/2307.14777v2)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
 |**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|**[link](https://github.com/fengzicai/cluster3dseg)**|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
 |**2023-07-14**|**Achelous: A Fast Unified Water-surface Panoptic Perception Framework based on Fusion of Monocular Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2307.07102v1](http://arxiv.org/abs/2307.07102v1)|**[link](https://github.com/GuanRunwei/Achelous)**|

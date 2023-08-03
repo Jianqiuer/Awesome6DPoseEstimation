@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.02
+## Updated on 2023.08.03
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -174,7 +174,7 @@ layout: default
 |**2023-08-01**|**Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models**|Cheng-Yu Hsieh et.al.|[2308.00675v1](http://arxiv.org/abs/2308.00675v1)|null|
 |**2023-08-01**|**Toward Zero-shot Character Recognition: A Gold Standard Dataset with Radical-level Annotations**|Xiaolei Diao et.al.|[2308.00655v1](http://arxiv.org/abs/2308.00655v1)|null|
 |**2023-08-01**|**Detecting Cloud Presence in Satellite Images Using the RGB-based CLIP Vision-Language Model**|Mikolaj Czerkawski et.al.|[2308.00541v1](http://arxiv.org/abs/2308.00541v1)|null|
-|**2023-08-01**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v1](http://arxiv.org/abs/2308.00436v1)|**[link](https://github.com/ningmiao/selfcheck)**|
+|**2023-08-02**|**SelfCheck: Using LLMs to Zero-Shot Check Their Own Step-by-Step Reasoning**|Ning Miao et.al.|[2308.00436v2](http://arxiv.org/abs/2308.00436v2)|**[link](https://github.com/ningmiao/selfcheck)**|
 |**2023-08-01**|**Zero-Shot Learning by Harnessing Adversarial Samples**|Zhi Chen et.al.|[2308.00313v1](http://arxiv.org/abs/2308.00313v1)|**[link](https://github.com/uqzhichen/haszsl)**|
 |**2023-08-01**|**Towards Effective Ancient Chinese Translation: Dataset, Model, and Evaluation**|Geyang Guo et.al.|[2308.00240v1](http://arxiv.org/abs/2308.00240v1)|null|
 |**2023-08-01**|**Prompts Matter: Insights and Strategies for Prompt Engineering in Automated Software Traceability**|Alberto D. Rodriguez et.al.|[2308.00229v1](http://arxiv.org/abs/2308.00229v1)|null|

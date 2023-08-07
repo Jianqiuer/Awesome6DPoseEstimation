@@ -209,19 +209,19 @@
 |**2023-07-31**|**Discovering Adaptable Symbolic Algorithms from Scratch**|Stephen Kelly et.al.|[2307.16890v1](http://arxiv.org/abs/2307.16890v1)|null|
 |**2023-07-31**|**From Generation to Suppression: Towards Effective Irregular Glow Removal for Nighttime Visibility Enhancement**|Wanyu Wu et.al.|[2307.16783v1](http://arxiv.org/abs/2307.16783v1)|null|
 |**2023-07-31**|**UniVTG: Towards Unified Video-Language Temporal Grounding**|Kevin Qinghong Lin et.al.|[2307.16715v1](http://arxiv.org/abs/2307.16715v1)|**[link](https://github.com/showlab/univtg)**|
-|**2023-07-31**|**LLMs4OL: Large Language Models for Ontology Learning**|Hamed Babaei Giglou et.al.|[2307.16648v1](http://arxiv.org/abs/2307.16648v1)|null|
+|**2023-07-31**|**LLMs4OL: Large Language Models for Ontology Learning**|Hamed Babaei Giglou et.al.|[2307.16648v1](http://arxiv.org/abs/2307.16648v1)|**[link](https://github.com/hamedbabaei/llms4ol)**|
 |**2023-07-31**|**Transferable Decoding with Visual Entities for Zero-Shot Image Captioning**|Junjie Fei et.al.|[2307.16525v1](http://arxiv.org/abs/2307.16525v1)|null|
 |**2023-07-31**|**Camoscio: an Italian Instruction-tuned LLaMA**|Andrea Santilli et.al.|[2307.16456v1](http://arxiv.org/abs/2307.16456v1)|**[link](https://github.com/teelinsan/camoscio)**|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395v1](http://arxiv.org/abs/2307.16395v1)|null|
-|**2023-07-31**|**LP-MusicCaps: LLM-Based Pseudo Music Captioning**|SeungHeon Doh et.al.|[2307.16372v1](http://arxiv.org/abs/2307.16372v1)|null|
+|**2023-07-31**|**LP-MusicCaps: LLM-Based Pseudo Music Captioning**|SeungHeon Doh et.al.|[2307.16372v1](http://arxiv.org/abs/2307.16372v1)|**[link](https://github.com/seungheondoh/lp-music-caps)**|
 |**2023-07-30**|**Distractor generation for multiple-choice questions with predictive prompting and large language models**|Semere Kiros Bitew et.al.|[2307.16338v1](http://arxiv.org/abs/2307.16338v1)|**[link](https://github.com/semerekiros/distractgpt)**|
 |**2023-07-30**|**Open-Set Domain Adaptation with Visual-Language Foundation Models**|Qing Yu et.al.|[2307.16204v1](http://arxiv.org/abs/2307.16204v1)|null|
-|**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|null|
+|**2023-07-28**|**WC-SBERT: Zero-Shot Text Classification via SBERT with Self-Training for Wikipedia Categories**|Te-Yu Chi et.al.|[2307.15293v1](http://arxiv.org/abs/2307.15293v1)|**[link](https://github.com/seventychi/wc-sbert)**|
 |**2023-07-28**|**Multilingual Lexical Simplification via Paraphrase Generation**|Kang Liu et.al.|[2307.15286v1](http://arxiv.org/abs/2307.15286v1)|**[link](https://github.com/kpkqwq/lspg)**|
 |**2023-07-27**|**Regularized Mask Tuning: Uncovering Hidden Knowledge in Pre-trained Vision-Language Models**|Kecheng Zheng et.al.|[2307.15049v1](http://arxiv.org/abs/2307.15049v1)|null|
-|**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|null|
+|**2023-07-27**|**Sample Less, Learn More: Efficient Action Recognition via Frame Feature Restoration**|Harry Cheng et.al.|[2307.14866v1](http://arxiv.org/abs/2307.14866v1)|**[link](https://github.com/xacheng1996/sllm)**|
 |**2023-07-27**|**Evaluating Generative Models for Graph-to-Text Generation**|Shuzhou Yuan et.al.|[2307.14712v1](http://arxiv.org/abs/2307.14712v1)|**[link](https://github.com/shuzhouyuan/eval_g2t_genmodels)**|
-|**2023-07-26**|**A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot**|Milad Abdollahzadeh et.al.|[2307.14397v1](http://arxiv.org/abs/2307.14397v1)|null|
+|**2023-07-26**|**A Survey on Generative Modeling with Limited Data, Few Shots, and Zero Shot**|Milad Abdollahzadeh et.al.|[2307.14397v1](http://arxiv.org/abs/2307.14397v1)|**[link](https://github.com/sutd-visual-computing-group/awesome-generative-modeling-under-data-constraints)**|
 |**2023-07-26**|**Leveraging Large Language Models for Mental Health Prediction via Online Text Data**|Xuhai Xu et.al.|[2307.14385v1](http://arxiv.org/abs/2307.14385v1)|null|
 |**2023-07-26**|**Towards Generalist Biomedical AI**|Tao Tu et.al.|[2307.14334v1](http://arxiv.org/abs/2307.14334v1)|null|
 |**2023-07-26**|**Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences**|Scott Sanner et.al.|[2307.14225v1](http://arxiv.org/abs/2307.14225v1)|null|
@@ -263,7 +263,7 @@
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|**[link](https://github.com/zhiyuanpeng/sptar)**|
 |**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|null|
 |**2023-07-17**|**Zero-Shot Image Harmonization with Generative Model Prior**|Jianqi Chen et.al.|[2307.08182v1](http://arxiv.org/abs/2307.08182v1)|**[link](https://github.com/windvchen/diff-harmonization)**|
-|**2023-07-16**|**Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training**|Yao Wei et.al.|[2307.07909v1](http://arxiv.org/abs/2307.07909v1)|null|
+|**2023-07-16**|**Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training**|Yao Wei et.al.|[2307.07909v1](http://arxiv.org/abs/2307.07909v1)|**[link](https://github.com/yunyikristy/dualmind)**|
 |**2023-07-15**|**Zero-shot NLG evaluation through Pairware Comparisons with LLMs**|Adian Liusie et.al.|[2307.07889v1](http://arxiv.org/abs/2307.07889v1)|null|
 |**2023-07-15**|**Is Prompt-Based Finetuning Always Better than Vanilla Finetuning? Insights from Cross-Lingual Language Understanding**|Bolei Ma et.al.|[2307.07880v1](http://arxiv.org/abs/2307.07880v1)|**[link](https://github.com/boleima/profit)**|
 |**2023-07-14**|**Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**|Zhengbo Wang et.al.|[2307.07397v1](http://arxiv.org/abs/2307.07397v1)|**[link](https://github.com/mrflogs/SHIP)**|

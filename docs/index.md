@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283v1](http://arxiv.org/abs/2308.02283v1)|null|
+|**2023-08-04**|**DTF-Net: Category-Level Pose Estimation and Shape Reconstruction via Deformable Template Field**|Haowen Wang et.al.|[2308.02239v1](http://arxiv.org/abs/2308.02239v1)|null|
+|**2023-08-04**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153v1](http://arxiv.org/abs/2308.02153v1)|null|
 |**2023-08-03**|**Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopter**|Luca Crupi et.al.|[2308.01833v1](http://arxiv.org/abs/2308.01833v1)|null|
 |**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600v1](http://arxiv.org/abs/2308.01600v1)|null|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
@@ -173,6 +176,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP**|Qihang Yu et.al.|[2308.02487v1](http://arxiv.org/abs/2308.02487v1)|**[link](https://github.com/bytedance/fc-clip)**|
+|**2023-08-04**|**Getting the Ball Rolling: Learning a Dexterous Policy for a Biomimetic Tendon-Driven Hand with Rolling Contact Joints**|Yasunori Toshimitsu et.al.|[2308.02453v1](http://arxiv.org/abs/2308.02453v1)|null|
+|**2023-08-04**|**Learning to Paraphrase Sentences to Different Complexity Levels**|Alison Chi et.al.|[2308.02226v1](http://arxiv.org/abs/2308.02226v1)|**[link](https://github.com/alisonhc/change-complexity)**|
+|**2023-08-03**|**Efficient Model Adaptation for Continual Learning at the Edge**|Zachary A. Daniels et.al.|[2308.02084v1](http://arxiv.org/abs/2308.02084v1)|null|
 |**2023-08-03**|**The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World**|Weiyun Wang et.al.|[2308.01907v1](http://arxiv.org/abs/2308.01907v1)|**[link](https://github.com/opengvlab/all-seeing)**|
 |**2023-08-03**|**Reasoning in Large Language Models Through Symbolic Math Word Problems**|Vedant Gaur et.al.|[2308.01906v1](http://arxiv.org/abs/2308.01906v1)|null|
 |**2023-08-03**|**DualCoOp++: Fast and Effective Adaptation to Multi-Label Recognition with Limited Annotations**|Ping Hu et.al.|[2308.01890v1](http://arxiv.org/abs/2308.01890v1)|null|

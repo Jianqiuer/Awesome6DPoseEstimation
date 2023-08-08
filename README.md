@@ -1,4 +1,4 @@
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,11 +15,11 @@
 |---|---|---|---|---|
 |**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283v1](http://arxiv.org/abs/2308.02283v1)|null|
 |**2023-08-04**|**DTF-Net: Category-Level Pose Estimation and Shape Reconstruction via Deformable Template Field**|Haowen Wang et.al.|[2308.02239v1](http://arxiv.org/abs/2308.02239v1)|null|
-|**2023-08-04**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153v1](http://arxiv.org/abs/2308.02153v1)|null|
+|**2023-08-07**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153v2](http://arxiv.org/abs/2308.02153v2)|null|
 |**2023-08-03**|**Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopter**|Luca Crupi et.al.|[2308.01833v1](http://arxiv.org/abs/2308.01833v1)|null|
 |**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600v1](http://arxiv.org/abs/2308.01600v1)|null|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
-|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628v1](http://arxiv.org/abs/2308.00628v1)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-06**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628v2](http://arxiv.org/abs/2308.00628v2)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
 |**2023-08-01**|**Markerless human pose estimation for biomedical applications: a survey**|Andrea Avogaro et.al.|[2308.00519v1](http://arxiv.org/abs/2308.00519v1)|null|
 |**2023-08-01**|**Kidnapping Deep Learning-based Multirotors using Optimized Flying Adversarial Patches**|Pia Hanfeld et.al.|[2308.00344v1](http://arxiv.org/abs/2308.00344v1)|null|
 |**2023-08-01**|**Fine-Grained Sports, Yoga, and Dance Postures Recognition: A Benchmark Analysis**|Asish Bera et.al.|[2308.00323v1](http://arxiv.org/abs/2308.00323v1)|null|
@@ -109,7 +109,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230807>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -160,7 +160,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230807>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -182,7 +182,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230807>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -320,5 +320,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230807>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
 

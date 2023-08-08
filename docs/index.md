@@ -2,18 +2,18 @@
 layout: default
 ---
 
-## Updated on 2023.08.07
+## Updated on 2023.08.08
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-04**|**Diffusion-Augmented Depth Prediction with Sparse Annotations**|Jiaqi Li et.al.|[2308.02283v1](http://arxiv.org/abs/2308.02283v1)|null|
 |**2023-08-04**|**DTF-Net: Category-Level Pose Estimation and Shape Reconstruction via Deformable Template Field**|Haowen Wang et.al.|[2308.02239v1](http://arxiv.org/abs/2308.02239v1)|null|
-|**2023-08-04**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153v1](http://arxiv.org/abs/2308.02153v1)|null|
+|**2023-08-07**|**Robust Self-Supervised Extrinsic Self-Calibration**|Takayuki Kanai et.al.|[2308.02153v2](http://arxiv.org/abs/2308.02153v2)|null|
 |**2023-08-03**|**Sim-to-Real Vision-depth Fusion CNNs for Robust Pose Estimation Aboard Autonomous Nano-quadcopter**|Luca Crupi et.al.|[2308.01833v1](http://arxiv.org/abs/2308.01833v1)|null|
 |**2023-08-03**|**Active Acoustic Sensing for Robot Manipulation**|Shihan Lu et.al.|[2308.01600v1](http://arxiv.org/abs/2308.01600v1)|null|
 |**2023-08-02**|**HANDAL: A Dataset of Real-World Manipulable Object Categories with Pose Annotations, Affordances, and Reconstructions**|Andrew Guo et.al.|[2308.01477v1](http://arxiv.org/abs/2308.01477v1)|null|
-|**2023-08-01**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628v1](http://arxiv.org/abs/2308.00628v1)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
+|**2023-08-06**|**Human-M3: A Multi-view Multi-modal Dataset for 3D Human Pose Estimation in Outdoor Scenes**|Bohao Fan et.al.|[2308.00628v2](http://arxiv.org/abs/2308.00628v2)|**[link](https://github.com/soullessrobot/human-m3-dataset)**|
 |**2023-08-01**|**Markerless human pose estimation for biomedical applications: a survey**|Andrea Avogaro et.al.|[2308.00519v1](http://arxiv.org/abs/2308.00519v1)|null|
 |**2023-08-01**|**Kidnapping Deep Learning-based Multirotors using Optimized Flying Adversarial Patches**|Pia Hanfeld et.al.|[2308.00344v1](http://arxiv.org/abs/2308.00344v1)|null|
 |**2023-08-01**|**Fine-Grained Sports, Yoga, and Dance Postures Recognition: A Benchmark Analysis**|Asish Bera et.al.|[2308.00323v1](http://arxiv.org/abs/2308.00323v1)|null|

@@ -118,10 +118,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-25**|**GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer**|Zheng Qin et.al.|[2308.03768v1](http://arxiv.org/abs/2308.03768v1)|null|
 |**2023-07-26**|**One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration**|Yongzhe Yuan et.al.|[2307.14019v1](http://arxiv.org/abs/2307.14019v1)|null|
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
 |**2023-07-31**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
-|**2023-08-08**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v2](http://arxiv.org/abs/2307.09788v2)|null|
+|**2023-08-08**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v2](http://arxiv.org/abs/2307.09788v2)|**[link](https://github.com/liuquan98/gcl)**|
 |**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
 |**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
@@ -192,6 +193,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-08**|**How Generalizable are Deepfake Detectors? An Empirical Study**|Boquan Li et.al.|[2308.04177v1](http://arxiv.org/abs/2308.04177v1)|**[link](https://github.com/boutiquelee/deepfakeempiricalstudy)**|
+|**2023-08-08**|**Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions**|Juncheng Li et.al.|[2308.04152v1](http://arxiv.org/abs/2308.04152v1)|**[link](https://github.com/dcdmllm/cheetah)**|
+|**2023-08-08**|**Large Language Model Prompt Chaining for Long Legal Document Classification**|Dietrich Trautmann et.al.|[2308.04138v1](http://arxiv.org/abs/2308.04138v1)|null|
+|**2023-08-08**|**Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**|Hanjae Kim et.al.|[2308.04016v1](http://arxiv.org/abs/2308.04016v1)|null|
+|**2023-08-07**|**Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization**|Yujie Zhou et.al.|[2308.03950v1](http://arxiv.org/abs/2308.03950v1)|**[link](https://github.com/yujieouo/smie)**|
+|**2023-08-07**|**Extracting detailed oncologic history and treatment plan from medical oncology notes with large language models**|Madhumita Sushil et.al.|[2308.03853v1](http://arxiv.org/abs/2308.03853v1)|**[link](https://github.com/madhumitasushil/oncllmextraction)**|
 |**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
 |**2023-08-08**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v2](http://arxiv.org/abs/2308.03463v2)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-07**|**Improving Few-shot and Zero-shot Entity Linking with Coarse-to-Fine Lexicon-based Retriever**|Shijue Huang et.al.|[2308.03365v1](http://arxiv.org/abs/2308.03365v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -112,7 +112,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -121,7 +121,7 @@
 |**2023-07-26**|**One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration**|Yongzhe Yuan et.al.|[2307.14019v1](http://arxiv.org/abs/2307.14019v1)|null|
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
 |**2023-07-31**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
-|**2023-07-19**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v1](http://arxiv.org/abs/2307.09788v1)|null|
+|**2023-08-08**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v2](http://arxiv.org/abs/2307.09788v2)|null|
 |**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
 |**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
@@ -163,13 +163,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-06**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v1](http://arxiv.org/abs/2308.03177v1)|**[link](https://github.com/aaronnzh/boosting-few-shot-3d-point-cloud-segmentation-via-query-guided-enhancement)**|
+|**2023-08-08**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v2](http://arxiv.org/abs/2308.03177v2)|null|
 |**2023-07-31**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v2](http://arxiv.org/abs/2307.14777v2)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
 |**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|**[link](https://github.com/fengzicai/cluster3dseg)**|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
@@ -186,14 +186,14 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
-|**2023-08-07**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v1](http://arxiv.org/abs/2308.03463v1)|null|
+|**2023-08-08**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v2](http://arxiv.org/abs/2308.03463v2)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-07**|**Improving Few-shot and Zero-shot Entity Linking with Coarse-to-Fine Lexicon-based Retriever**|Shijue Huang et.al.|[2308.03365v1](http://arxiv.org/abs/2308.03365v1)|null|
 |**2023-08-07**|**Learning Terrain-Adaptive Locomotion with Agile Behaviors by Imitating Animals**|Tingguang Li et.al.|[2308.03273v1](http://arxiv.org/abs/2308.03273v1)|null|
 |**2023-08-06**|**Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**|Zheng Ma et.al.|[2308.03151v1](http://arxiv.org/abs/2308.03151v1)|null|
@@ -332,5 +332,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230809>back to top</a>)</p>
 

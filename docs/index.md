@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -113,7 +113,7 @@ layout: default
 |**2023-07-26**|**One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration**|Yongzhe Yuan et.al.|[2307.14019v1](http://arxiv.org/abs/2307.14019v1)|null|
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
 |**2023-07-31**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
-|**2023-07-19**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v1](http://arxiv.org/abs/2307.09788v1)|null|
+|**2023-08-08**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v2](http://arxiv.org/abs/2307.09788v2)|null|
 |**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
 |**2023-07-11**|**Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization**|Kenji Koide et.al.|[2307.02948v2](http://arxiv.org/abs/2307.02948v2)|**[link](https://github.com/koide3/caratheodory2)**|
@@ -159,7 +159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-06**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v1](http://arxiv.org/abs/2308.03177v1)|**[link](https://github.com/aaronnzh/boosting-few-shot-3d-point-cloud-segmentation-via-query-guided-enhancement)**|
+|**2023-08-08**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v2](http://arxiv.org/abs/2308.03177v2)|null|
 |**2023-07-31**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v2](http://arxiv.org/abs/2307.14777v2)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
 |**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|**[link](https://github.com/fengzicai/cluster3dseg)**|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
@@ -181,7 +181,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
-|**2023-08-07**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v1](http://arxiv.org/abs/2308.03463v1)|null|
+|**2023-08-08**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v2](http://arxiv.org/abs/2308.03463v2)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-07**|**Improving Few-shot and Zero-shot Entity Linking with Coarse-to-Fine Lexicon-based Retriever**|Shijue Huang et.al.|[2308.03365v1](http://arxiv.org/abs/2308.03365v1)|null|
 |**2023-08-07**|**Learning Terrain-Adaptive Locomotion with Agile Behaviors by Imitating Animals**|Tingguang Li et.al.|[2308.03273v1](http://arxiv.org/abs/2308.03273v1)|null|
 |**2023-08-06**|**Food-500 Cap: A Fine-Grained Food Caption Benchmark for Evaluating Vision-Language Models**|Zheng Ma et.al.|[2308.03151v1](http://arxiv.org/abs/2308.03151v1)|null|

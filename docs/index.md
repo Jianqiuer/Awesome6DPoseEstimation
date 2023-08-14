@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**VERF: Runtime Monitoring of Pose Estimation with Neural Radiance Fields**|Dominic Maggio et.al.|[2308.05939v1](http://arxiv.org/abs/2308.05939v1)|null|
+|**2023-08-10**|**Toward Globally Optimal State Estimation Using Automatically Tightened Semidefinite Relaxations**|Frederike Dümbgen et.al.|[2308.05783v1](http://arxiv.org/abs/2308.05783v1)|null|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459v1](http://arxiv.org/abs/2308.05459v1)|null|
 |**2023-08-10**|**How-to Augmented Lagrangian on Factor Graphs**|Barbara Bazzana et.al.|[2308.05444v1](http://arxiv.org/abs/2308.05444v1)|null|
 |**2023-08-10**|**Deep Fusion Transformer Network with Weighted Vector-Wise Keypoints Voting for Robust 6D Object Pose Estimation**|Jun Zhou et.al.|[2308.05438v1](http://arxiv.org/abs/2308.05438v1)|**[link](https://github.com/junzastar/dftr_voting)**|
@@ -189,6 +191,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-11**|**Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions**|Zirui Chen et.al.|[2308.06250v1](http://arxiv.org/abs/2308.06250v1)|null|
+|**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160v1](http://arxiv.org/abs/2308.06160v1)|**[link](https://github.com/showlab/datasetdm)**|
+|**2023-08-11**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v1](http://arxiv.org/abs/2308.06111v1)|null|
+|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|null|
+|**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976v1](http://arxiv.org/abs/2308.05976v1)|null|
+|**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961v1](http://arxiv.org/abs/2308.05961v1)|null|
+|**2023-08-11**|**FoodSAM: Any Food Segmentation**|Xing Lan et.al.|[2308.05938v1](http://arxiv.org/abs/2308.05938v1)|**[link](https://github.com/jamesjg/foodsam)**|
+|**2023-08-10**|**Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning**|Xueyuan Li et.al.|[2308.05785v1](http://arxiv.org/abs/2308.05785v1)|null|
 |**2023-08-10**|**FrozenRecon: Pose-free 3D Scene Reconstruction with Frozen Depth Models**|Guangkai Xu et.al.|[2308.05733v1](http://arxiv.org/abs/2308.05733v1)|null|
 |**2023-08-10**|**Finding Already Debunked Narratives via Multistage Retrieval: Enabling Cross-Lingual, Cross-Dataset and Zero-Shot Learning**|Iknoor Singh et.al.|[2308.05680v1](http://arxiv.org/abs/2308.05680v1)|null|
 |**2023-08-10**|**Exploring Linguistic Similarity and Zero-Shot Learning for Multilingual Translation of Dravidian Languages**|Danish Ebadulla et.al.|[2308.05574v1](http://arxiv.org/abs/2308.05574v1)|null|

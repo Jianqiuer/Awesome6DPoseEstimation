@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -197,7 +197,7 @@ layout: default
 |**2023-08-09**|**Separate Anything You Describe**|Xubo Liu et.al.|[2308.05037v1](http://arxiv.org/abs/2308.05037v1)|**[link](https://github.com/audio-agi/audiosep)**|
 |**2023-08-09**|**Transferable Models for Bioacoustics with Human Language Supervision**|David Robinson et.al.|[2308.04978v1](http://arxiv.org/abs/2308.04978v1)|**[link](https://github.com/david-rx/biolingual)**|
 |**2023-08-09**|**LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following**|Kaize Shi et.al.|[2308.04913v1](http://arxiv.org/abs/2308.04913v1)|null|
-|**2023-08-09**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830v1](http://arxiv.org/abs/2308.04830v1)|null|
+|**2023-08-11**|**VAST: Vivify Your Talking Avatar via Zero-Shot Expressive Facial Style Transfer**|Liyang Chen et.al.|[2308.04830v2](http://arxiv.org/abs/2308.04830v2)|null|
 |**2023-08-09**|**MixReorg: Cross-Modal Mixed Patch Reorganization is a Good Mask Learner for Open-World Semantic Segmentation**|Kaixin Cai et.al.|[2308.04829v1](http://arxiv.org/abs/2308.04829v1)|null|
 |**2023-08-09**|**Seeing in Flowing: Adapting CLIP for Action Recognition with Motion Prompts Learning**|Qiang Wang et.al.|[2308.04828v1](http://arxiv.org/abs/2308.04828v1)|null|
 |**2023-08-09**|**Multi-Scale Memory Comparison for Zero-/Few-Shot Anomaly Detection**|Chaoqin Huang et.al.|[2308.04789v1](http://arxiv.org/abs/2308.04789v1)|null|

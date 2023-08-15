@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.14
+## Updated on 2023.08.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -193,7 +193,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-11**|**Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions**|Zirui Chen et.al.|[2308.06250v1](http://arxiv.org/abs/2308.06250v1)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160v1](http://arxiv.org/abs/2308.06160v1)|**[link](https://github.com/showlab/datasetdm)**|
-|**2023-08-11**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v1](http://arxiv.org/abs/2308.06111v1)|null|
+|**2023-08-14**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v2](http://arxiv.org/abs/2308.06111v2)|null|
 |**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|null|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976v1](http://arxiv.org/abs/2308.05976v1)|null|
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961v1](http://arxiv.org/abs/2308.05961v1)|null|

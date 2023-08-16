@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Learning Better Keypoints for Multi-Object 6DoF Pose Estimation**|Yangzheng Wu et.al.|[2308.07827v1](http://arxiv.org/abs/2308.07827v1)|null|
 |**2023-08-14**|**Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation**|Huan Liu et.al.|[2308.07313v1](http://arxiv.org/abs/2308.07313v1)|**[link](https://github.com/michel-liu/grouppose-paddle)**|
 |**2023-08-12**|**4DRVO-Net: Deep 4D Radar-Visual Odometry Using Multi-Modal and Multi-Scale Adaptive Fusion**|Guirong Zhuo et.al.|[2308.06573v1](http://arxiv.org/abs/2308.06573v1)|null|
 |**2023-08-12**|**EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes**|Jiaxi Jiang et.al.|[2308.06493v1](http://arxiv.org/abs/2308.06493v1)|null|
@@ -208,6 +209,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
+|**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918v1](http://arxiv.org/abs/2308.07918v1)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
+|**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898v1](http://arxiv.org/abs/2308.07898v1)|**[link](https://github.com/jusiro/flair)**|
+|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|null|
+|**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
+|**2023-08-15**|**Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models**|Kanchan Poudel et.al.|[2308.07706v1](http://arxiv.org/abs/2308.07706v1)|null|
+|**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|null|
+|**2023-08-15**|**LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis**|Yilun Liu et.al.|[2308.07610v1](http://arxiv.org/abs/2308.07610v1)|null|
+|**2023-08-15**|**Visual and Textual Prior Guided Mask Assemble for Few-Shot Segmentation and Beyond**|Chen Shuai et.al.|[2308.07539v1](http://arxiv.org/abs/2308.07539v1)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**|An Wang et.al.|[2308.07156v1](http://arxiv.org/abs/2308.07156v1)|null|
 |**2023-08-14**|**EcomGPT: Instruction-tuning Large Language Model with Chain-of-Task Tasks for E-commerce**|Yangning Li et.al.|[2308.06966v1](http://arxiv.org/abs/2308.06966v1)|null|

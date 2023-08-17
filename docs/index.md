@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.16
+## Updated on 2023.08.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -203,7 +203,7 @@ layout: default
 |**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|null|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
 |**2023-08-15**|**Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models**|Kanchan Poudel et.al.|[2308.07706v1](http://arxiv.org/abs/2308.07706v1)|null|
-|**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|null|
+|**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|**[link](https://github.com/HLT-NLP/Role-Play-Prompting)**|
 |**2023-08-15**|**LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis**|Yilun Liu et.al.|[2308.07610v1](http://arxiv.org/abs/2308.07610v1)|null|
 |**2023-08-15**|**Visual and Textual Prior Guided Mask Assemble for Few-Shot Segmentation and Beyond**|Chen Shuai et.al.|[2308.07539v1](http://arxiv.org/abs/2308.07539v1)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|

@@ -1,4 +1,4 @@
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -127,7 +127,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -181,7 +181,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -205,7 +205,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -219,7 +219,7 @@
 |**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
 |**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918v1](http://arxiv.org/abs/2308.07918v1)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
 |**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898v1](http://arxiv.org/abs/2308.07898v1)|**[link](https://github.com/jusiro/flair)**|
-|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|null|
+|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|**[link](https://github.com/snowood1/zero-shot-plover)**|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
 |**2023-08-15**|**Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models**|Kanchan Poudel et.al.|[2308.07706v1](http://arxiv.org/abs/2308.07706v1)|null|
 |**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|**[link](https://github.com/HLT-NLP/Role-Play-Prompting)**|
@@ -403,5 +403,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230818>back to top</a>)</p>
 

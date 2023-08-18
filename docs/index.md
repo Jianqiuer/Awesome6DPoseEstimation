@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.17
+## Updated on 2023.08.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -207,7 +207,7 @@ layout: default
 |**2023-08-15**|**Solving Challenging Math Word Problems Using GPT-4 Code Interpreter with Code-based Self-Verification**|Aojun Zhou et.al.|[2308.07921v1](http://arxiv.org/abs/2308.07921v1)|null|
 |**2023-08-15**|**Helping Hands: An Object-Aware Ego-Centric Video Recognition Model**|Chuhan Zhang et.al.|[2308.07918v1](http://arxiv.org/abs/2308.07918v1)|**[link](https://github.com/chuhanxx/helping_hand_for_egocentric_videos)**|
 |**2023-08-15**|**A Foundation LAnguage-Image model of the Retina (FLAIR): Encoding expert knowledge in text supervision**|Julio Silva-Rodriguez et.al.|[2308.07898v1](http://arxiv.org/abs/2308.07898v1)|**[link](https://github.com/jusiro/flair)**|
-|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|null|
+|**2023-08-15**|**Synthesizing Political Zero-Shot Relation Classification via Codebook Knowledge, NLI, and ChatGPT**|Yibo Hu et.al.|[2308.07876v1](http://arxiv.org/abs/2308.07876v1)|**[link](https://github.com/snowood1/zero-shot-plover)**|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
 |**2023-08-15**|**Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models**|Kanchan Poudel et.al.|[2308.07706v1](http://arxiv.org/abs/2308.07706v1)|null|
 |**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|**[link](https://github.com/HLT-NLP/Role-Play-Prompting)**|

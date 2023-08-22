@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.21
+## Updated on 2023.08.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -213,7 +213,7 @@ layout: default
 |**2023-08-18**|**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**|Hangjie Yuan et.al.|[2308.09351v1](http://arxiv.org/abs/2308.09351v1)|**[link](https://github.com/jacobyuan7/rlipv2)**|
 |**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306v1](http://arxiv.org/abs/2308.09306v1)|null|
 |**2023-08-18**|**DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement**|Shuzhou Yang et.al.|[2308.09279v1](http://arxiv.org/abs/2308.09279v1)|null|
-|**2023-08-18**|**Generalized Sum Pooling for Metric Learning**|Yeti Z. Gurbuz et.al.|[2308.09228v1](http://arxiv.org/abs/2308.09228v1)|**[link](https://github.com/yetigurbuz/generalized-sum-pooling)**|
+|**2023-08-21**|**Generalized Sum Pooling for Metric Learning**|Yeti Z. Gurbuz et.al.|[2308.09228v2](http://arxiv.org/abs/2308.09228v2)|**[link](https://github.com/yetigurbuz/generalized-sum-pooling)**|
 |**2023-08-17**|**EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding**|Karttikeya Mangalam et.al.|[2308.09126v1](http://arxiv.org/abs/2308.09126v1)|**[link](https://github.com/egoschema/egoschema)**|
 |**2023-08-17**|**MaScQA: A Question Answering Dataset for Investigating Materials Science Knowledge of Large Language Models**|Mohd Zaki et.al.|[2308.09115v1](http://arxiv.org/abs/2308.09115v1)|null|
 |**2023-08-17**|**Edit Temporal-Consistent Videos with Image Diffusion Model**|Yuanzhi Wang et.al.|[2308.09091v1](http://arxiv.org/abs/2308.09091v1)|null|

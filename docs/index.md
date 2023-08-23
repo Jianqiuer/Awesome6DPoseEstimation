@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**TrackFlow: Multi-Object Tracking with Normalizing Flows**|Gianluca Mancusi et.al.|[2308.11513v1](http://arxiv.org/abs/2308.11513v1)|null|
+|**2023-08-22**|**A LiDAR-Inertial SLAM Tightly-Coupled with Dropout-Tolerant GNSS Fusion for Autonomous Mine Service Vehicles**|Yusheng Wang et.al.|[2308.11492v1](http://arxiv.org/abs/2308.11492v1)|null|
+|**2023-08-22**|**PoseGraphNet++: Enriching 3D Human Pose with Orientation Estimation**|Soubarna Banik et.al.|[2308.11440v1](http://arxiv.org/abs/2308.11440v1)|null|
+|**2023-08-22**|**Novel-view Synthesis and Pose Estimation for Hand-Object Interaction from Sparse Views**|Wentian Qu et.al.|[2308.11198v1](http://arxiv.org/abs/2308.11198v1)|null|
+|**2023-08-21**|**Spectral Graphormer: Spectral Graph-based Transformer for Egocentric Two-Hand Reconstruction using Multi-View Color Images**|Tze Ho Elden Tse et.al.|[2308.11015v1](http://arxiv.org/abs/2308.11015v1)|null|
 |**2023-08-21**|**Polarimetric Information for Multi-Modal 6D Pose Estimation of Photometrically Challenging Objects with Limited Data**|Patrick Ruhkamp et.al.|[2308.10627v1](http://arxiv.org/abs/2308.10627v1)|null|
 |**2023-08-21**|**GaitPT: Skeletons Are All You Need For Gait Recognition**|Andy Catruna et.al.|[2308.10623v1](http://arxiv.org/abs/2308.10623v1)|null|
 |**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
@@ -196,6 +201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation**|Zongyi Xu et.al.|[2308.11166v1](http://arxiv.org/abs/2308.11166v1)|null|
 |**2023-08-14**|**Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**|Alexander Kyuroson et.al.|[2308.07283v1](http://arxiv.org/abs/2308.07283v1)|null|
 |**2023-08-08**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v2](http://arxiv.org/abs/2308.03177v2)|null|
 |**2023-07-31**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v2](http://arxiv.org/abs/2307.14777v2)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
@@ -218,6 +224,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-22**|**Sentence-Level Multimodal and Language-Agnostic Representations**|Paul-Ambroise Duquenne et.al.|[2308.11466v1](http://arxiv.org/abs/2308.11466v1)|**[link](https://github.com/facebookresearch/sonar)**|
+|**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
+|**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331v1](http://arxiv.org/abs/2308.11331v1)|null|
+|**2023-08-22**|**Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis**|Chang Liu et.al.|[2308.11224v1](http://arxiv.org/abs/2308.11224v1)|**[link](https://github.com/ayame1006/llmtograph)**|
+|**2023-08-22**|**ViLLA: Fine-Grained Vision-Language Representation Learning from Real-World Data**|Maya Varma et.al.|[2308.11194v1](http://arxiv.org/abs/2308.11194v1)|**[link](https://github.com/stanfordmimi/villa)**|
+|**2023-08-22**|**ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Jianghao Lin et.al.|[2308.11131v1](http://arxiv.org/abs/2308.11131v1)|null|
+|**2023-08-22**|**Random Word Data Augmentation with CLIP for Zero-Shot Anomaly Detection**|Masato Tamura et.al.|[2308.11119v1](http://arxiv.org/abs/2308.11119v1)|null|
+|**2023-08-21**|**DocPrompt: Large-scale continue pretrain for zero-shot and few-shot document question answering**|Sijin Wu et.al.|[2308.10959v1](http://arxiv.org/abs/2308.10959v1)|null|
 |**2023-08-21**|**Zero- and Few-Shot Prompting with LLMs: A Comparative Study with Fine-tuned Models for Bangla Sentiment Analysis**|Md. Arid Hasan et.al.|[2308.10783v1](http://arxiv.org/abs/2308.10783v1)|null|
 |**2023-08-21**|**EVE: Efficient zero-shot text-based Video Editing with Depth Map Guidance and Temporal Consistency Constraints**|Yutao Chen et.al.|[2308.10648v1](http://arxiv.org/abs/2308.10648v1)|null|
 |**2023-08-21**|**Image-free Classifier Injection for Zero-Shot Classification**|Anders Christensen et.al.|[2308.10599v1](http://arxiv.org/abs/2308.10599v1)|**[link](https://github.com/explainableml/imagefreezsl)**|

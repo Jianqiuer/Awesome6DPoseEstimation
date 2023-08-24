@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -224,7 +224,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-22**|**Sentence-Level Multimodal and Language-Agnostic Representations**|Paul-Ambroise Duquenne et.al.|[2308.11466v1](http://arxiv.org/abs/2308.11466v1)|**[link](https://github.com/facebookresearch/sonar)**|
+|**2023-08-23**|**SONAR: Sentence-Level Multimodal and Language-Agnostic Representations**|Paul-Ambroise Duquenne et.al.|[2308.11466v2](http://arxiv.org/abs/2308.11466v2)|**[link](https://github.com/facebookresearch/sonar)**|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
 |**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331v1](http://arxiv.org/abs/2308.11331v1)|null|
 |**2023-08-22**|**Evaluating Large Language Models on Graphs: Performance Insights and Comparative Analysis**|Chang Liu et.al.|[2308.11224v1](http://arxiv.org/abs/2308.11224v1)|**[link](https://github.com/ayame1006/llmtograph)**|

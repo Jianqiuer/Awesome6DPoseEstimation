@@ -1,4 +1,4 @@
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -149,7 +149,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -206,7 +206,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -231,7 +231,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -239,14 +239,14 @@
 |---|---|---|---|---|
 |**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270v1](http://arxiv.org/abs/2308.12270v1)|**[link](https://github.com/ademiadeniji/lamp)**|
 |**2023-08-23**|**Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning**|Jiasheng Ye et.al.|[2308.12219v1](http://arxiv.org/abs/2308.12219v1)|**[link](https://github.com/yegcjs/diffusionllm)**|
-|**2023-08-23**|**CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No**|Hualiang Wang et.al.|[2308.12213v1](http://arxiv.org/abs/2308.12213v1)|null|
+|**2023-08-24**|**CLIPN for Zero-Shot OOD Detection: Teaching CLIP to Say No**|Hualiang Wang et.al.|[2308.12213v2](http://arxiv.org/abs/2308.12213v2)|**[link](https://github.com/xmed-lab/clipn)**|
 |**2023-08-23**|**Instruction Position Matters in Sequence Generation with Large Language Models**|Yijin Liu et.al.|[2308.12097v1](http://arxiv.org/abs/2308.12097v1)|**[link](https://github.com/adaxry/post-instruction)**|
 |**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|**[link](https://github.com/leezythu/flexkbqa)**|
 |**2023-08-23**|**Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages**|Jinyi Hu et.al.|[2308.12038v1](http://arxiv.org/abs/2308.12038v1)|**[link](https://github.com/openbmb/viscpm)**|
 |**2023-08-23**|**${\rm E}(3)$ -Equivariant Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning**|Dingyang Chen et.al.|[2308.11842v1](http://arxiv.org/abs/2308.11842v1)|**[link](https://github.com/dchen48/e3ac)**|
 |**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804v1](http://arxiv.org/abs/2308.11804v1)|null|
 |**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|null|
-|**2023-08-22**|**Learning to generate and corr- uh I mean repair language in real-time**|Arash Eshghi et.al.|[2308.11683v1](http://arxiv.org/abs/2308.11683v1)|null|
+|**2023-08-22**|**Learning to generate and corr- uh I mean repair language in real-time**|Arash Eshghi et.al.|[2308.11683v1](http://arxiv.org/abs/2308.11683v1)|**[link](https://bitbucket.org/dylandialoguesystem/dsttr)**|
 |**2023-08-23**|**SONAR: Sentence-Level Multimodal and Language-Agnostic Representations**|Paul-Ambroise Duquenne et.al.|[2308.11466v2](http://arxiv.org/abs/2308.11466v2)|**[link](https://github.com/facebookresearch/sonar)**|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
 |**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331v1](http://arxiv.org/abs/2308.11331v1)|null|
@@ -467,5 +467,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230825>back to top</a>)</p>
 

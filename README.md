@@ -241,7 +241,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
-|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|null|
+|**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|**[link](https://github.com/sheng-eatamath/s3a)**|
 |**2023-08-24**|**Code Llama: Open Foundation Models for Code**|Baptiste Rozière et.al.|[2308.12950v1](http://arxiv.org/abs/2308.12950v1)|null|
 |**2023-08-24**|**WavMark: Watermarking for Audio Generation**|Guangyu Chen et.al.|[2308.12770v1](http://arxiv.org/abs/2308.12770v1)|null|
 |**2023-08-24**|**Improving Translation Faithfulness of Large Language Models via Augmenting Instructions**|Yijie Chen et.al.|[2308.12674v1](http://arxiv.org/abs/2308.12674v1)|**[link](https://github.com/pppa2019/swie_overmiss_llm4mt)**|

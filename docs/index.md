@@ -228,6 +228,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-25**|**Decoding Natural Images from EEG for Object Recognition**|Yonghao Song et.al.|[2308.13234v1](http://arxiv.org/abs/2308.13234v1)|null|
+|**2023-08-25**|**MultiCapCLIP: Auto-Encoding Prompts for Zero-Shot Multilingual Visual Captioning**|Bang Yang et.al.|[2308.13218v1](http://arxiv.org/abs/2308.13218v1)|**[link](https://github.com/yangbang18/multicapclip)**|
+|**2023-08-24**|**Interpretable Image Quality Assessment via CLIP with Multiple Antonym-Prompt Pairs**|Takamichi Miyata et.al.|[2308.13094v1](http://arxiv.org/abs/2308.13094v1)|null|
+|**2023-08-24**|**Preserving Modality Structure Improves Multi-Modal Learning**|Swetha Sirnam et.al.|[2308.13077v1](http://arxiv.org/abs/2308.13077v1)|null|
+|**2023-08-24**|**ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching**|M. Caner Tol et.al.|[2308.13062v1](http://arxiv.org/abs/2308.13062v1)|null|
+|**2023-08-24**|**Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations**|Wenbin Wang et.al.|[2308.13007v1](http://arxiv.org/abs/2308.13007v1)|null|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-24**|**Towards Realistic Zero-Shot Classification via Self Structural Semantic Alignment**|Sheng Zhang et.al.|[2308.12960v1](http://arxiv.org/abs/2308.12960v1)|**[link](https://github.com/sheng-eatamath/s3a)**|
 |**2023-08-25**|**Code Llama: Open Foundation Models for Code**|Baptiste Rozière et.al.|[2308.12950v2](http://arxiv.org/abs/2308.12950v2)|null|

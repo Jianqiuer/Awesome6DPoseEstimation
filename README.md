@@ -144,7 +144,7 @@
 |**2023-02-14**|**MSDA: Monocular Self-supervised Domain Adaptation for 6D Object Pose Estimation**|Dingding Cai et.al.|[2302.07300v1](http://arxiv.org/abs/2302.07300v1)|null|
 |**2023-02-14**|**Model-Based Underwater 6D Pose Estimation from RGB**|Davide Sapienza et.al.|[2302.06821v1](http://arxiv.org/abs/2302.06821v1)|null|
 |**2023-02-02**|**A Projective Geometric View for 6D Pose Estimation in mmWave MIMO Systems**|Shengqiang Shen et.al.|[2302.00227v2](http://arxiv.org/abs/2302.00227v2)|null|
-|**2023-01-31**|**Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2301.13667v1](http://arxiv.org/abs/2301.13667v1)|null|
+|**2023-01-31**|**Collision-aware In-hand 6D Object Pose Estimation using Multiple Vision-based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2301.13667v1](http://arxiv.org/abs/2301.13667v1)|**[link](https://github.com/hsp-iit/multi-tactile-6d-estimation)**|
 |**2023-01-19**|**Learning ultrasound plane pose regression: assessing generalized pose coordinates in the fetal brain**|Chiara Di Vece et.al.|[2301.08317v1](http://arxiv.org/abs/2301.08317v1)|null|
 |**2023-01-19**|**RGB-D-Based Categorical Object Pose and Shape Estimation: Methods, Datasets, and Evaluation**|Leonard Bruns et.al.|[2301.08147v1](http://arxiv.org/abs/2301.08147v1)|**[link](https://github.com/roym899/pose_and_shape_evaluation)**|
 |**2022-12-21**|**HouseCat6D -- A Large-Scale Multi-Modal Category Level 6D Object Pose Dataset with Household Objects in Realistic Scenarios**|HyunJun Jung et.al.|[2212.10428v2](http://arxiv.org/abs/2212.10428v2)|null|
@@ -217,7 +217,7 @@
 |---|---|---|---|---|
 |**2023-08-22**|**Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation**|Zongyi Xu et.al.|[2308.11166v1](http://arxiv.org/abs/2308.11166v1)|null|
 |**2023-08-14**|**Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**|Alexander Kyuroson et.al.|[2308.07283v1](http://arxiv.org/abs/2308.07283v1)|null|
-|**2023-08-08**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v2](http://arxiv.org/abs/2308.03177v2)|null|
+|**2023-08-08**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v2](http://arxiv.org/abs/2308.03177v2)|**[link](https://github.com/aaronnzh/boosting-few-shot-3d-point-cloud-segmentation-via-query-guided-enhancement)**|
 |**2023-07-31**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v2](http://arxiv.org/abs/2307.14777v2)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
 |**2023-07-27**|**Clustering based Point Cloud Representation Learning for 3D Analysis**|Tuo Feng et.al.|[2307.14605v1](http://arxiv.org/abs/2307.14605v1)|**[link](https://github.com/fengzicai/cluster3dseg)**|
 |**2023-07-20**|**See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data**|Yuhang Lu et.al.|[2307.10782v1](http://arxiv.org/abs/2307.10782v1)|null|
@@ -257,8 +257,8 @@
 |**2023-08-23**|**FlexKBQA: A Flexible LLM-Powered Framework for Few-Shot Knowledge Base Question Answering**|Zhenyu Li et.al.|[2308.12060v1](http://arxiv.org/abs/2308.12060v1)|**[link](https://github.com/leezythu/flexkbqa)**|
 |**2023-08-23**|**Large Multilingual Models Pivot Zero-Shot Multimodal Learning across Languages**|Jinyi Hu et.al.|[2308.12038v1](http://arxiv.org/abs/2308.12038v1)|**[link](https://github.com/openbmb/viscpm)**|
 |**2023-08-23**|**${\rm E}(3)$ -Equivariant Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning**|Dingyang Chen et.al.|[2308.11842v1](http://arxiv.org/abs/2308.11842v1)|**[link](https://github.com/dchen48/e3ac)**|
-|**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804v1](http://arxiv.org/abs/2308.11804v1)|null|
-|**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|null|
+|**2023-08-22**|**Ceci n'est pas une pomme: Adversarial Illusions in Multi-Modal Embeddings**|Eugene Bagdasaryan et.al.|[2308.11804v1](http://arxiv.org/abs/2308.11804v1)|**[link](https://github.com/ebagdasa/adversarial_illusions)**|
+|**2023-08-22**|**Enhancing NeRF akin to Enhancing LLMs: Generalizable NeRF Transformer with Mixture-of-View-Experts**|Wenyan Cong et.al.|[2308.11793v1](http://arxiv.org/abs/2308.11793v1)|**[link](https://github.com/vita-group/gnt-move)**|
 |**2023-08-22**|**Learning to generate and corr- uh I mean repair language in real-time**|Arash Eshghi et.al.|[2308.11683v1](http://arxiv.org/abs/2308.11683v1)|**[link](https://bitbucket.org/dylandialoguesystem/dsttr)**|
 |**2023-08-23**|**SONAR: Sentence-Level Multimodal and Language-Agnostic Representations**|Paul-Ambroise Duquenne et.al.|[2308.11466v2](http://arxiv.org/abs/2308.11466v2)|**[link](https://github.com/facebookresearch/sonar)**|
 |**2023-08-22**|**Masked Momentum Contrastive Learning for Zero-shot Semantic Understanding**|Jiantao Wu et.al.|[2308.11448v1](http://arxiv.org/abs/2308.11448v1)|null|
@@ -315,7 +315,7 @@
 |**2023-08-11**|**Big AI Models for 6G Wireless Networks: Opportunities, Challenges, and Research Directions**|Zirui Chen et.al.|[2308.06250v1](http://arxiv.org/abs/2308.06250v1)|null|
 |**2023-08-11**|**DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models**|Weijia Wu et.al.|[2308.06160v1](http://arxiv.org/abs/2308.06160v1)|**[link](https://github.com/showlab/datasetdm)**|
 |**2023-08-14**|**Improving Zero-Shot Text Matching for Financial Auditing with Large Language Models**|Lars Hillebrand et.al.|[2308.06111v2](http://arxiv.org/abs/2308.06111v2)|null|
-|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|null|
+|**2023-08-11**|**Diverse Data Augmentation with Diffusions for Effective Test-time Prompt Tuning**|Chun-Mei Feng et.al.|[2308.06038v1](http://arxiv.org/abs/2308.06038v1)|**[link](https://github.com/chunmeifeng/difftpt)**|
 |**2023-08-11**|**Zero-shot Text-driven Physically Interpretable Face Editing**|Yapeng Meng et.al.|[2308.05976v1](http://arxiv.org/abs/2308.05976v1)|null|
 |**2023-08-11**|**Compositional Learning in Transformer-Based Human-Object Interaction Detection**|Zikun Zhuang et.al.|[2308.05961v1](http://arxiv.org/abs/2308.05961v1)|null|
 |**2023-08-11**|**FoodSAM: Any Food Segmentation**|Xing Lan et.al.|[2308.05938v1](http://arxiv.org/abs/2308.05938v1)|**[link](https://github.com/jamesjg/foodsam)**|
@@ -337,7 +337,7 @@
 |**2023-08-08**|**How Generalizable are Deepfake Detectors? An Empirical Study**|Boquan Li et.al.|[2308.04177v1](http://arxiv.org/abs/2308.04177v1)|**[link](https://github.com/boutiquelee/deepfakeempiricalstudy)**|
 |**2023-08-08**|**Empowering Vision-Language Models to Follow Interleaved Vision-Language Instructions**|Juncheng Li et.al.|[2308.04152v1](http://arxiv.org/abs/2308.04152v1)|**[link](https://github.com/dcdmllm/cheetah)**|
 |**2023-08-08**|**Large Language Model Prompt Chaining for Long Legal Document Classification**|Dietrich Trautmann et.al.|[2308.04138v1](http://arxiv.org/abs/2308.04138v1)|null|
-|**2023-08-08**|**Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**|Hanjae Kim et.al.|[2308.04016v1](http://arxiv.org/abs/2308.04016v1)|null|
+|**2023-08-08**|**Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**|Hanjae Kim et.al.|[2308.04016v1](http://arxiv.org/abs/2308.04016v1)|**[link](https://github.com/hanjaekim98/cot)**|
 |**2023-08-07**|**Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization**|Yujie Zhou et.al.|[2308.03950v1](http://arxiv.org/abs/2308.03950v1)|**[link](https://github.com/yujieouo/smie)**|
 |**2023-08-07**|**Extracting detailed oncologic history and treatment plan from medical oncology notes with large language models**|Madhumita Sushil et.al.|[2308.03853v1](http://arxiv.org/abs/2308.03853v1)|**[link](https://github.com/madhumitasushil/oncllmextraction)**|
 |**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
@@ -361,7 +361,7 @@
 |**2023-08-02**|**Fighting Fire with Fire: Can ChatGPT Detect AI-generated Text?**|Amrita Bhattacharjee et.al.|[2308.01284v1](http://arxiv.org/abs/2308.01284v1)|**[link](https://github.com/amritabh/chatgpt-as-detector)**|
 |**2023-08-02**|**Evaluating Instruction-Tuned Large Language Models on Code Comprehension and Generation**|Zhiqiang Yuan et.al.|[2308.01240v1](http://arxiv.org/abs/2308.01240v1)|null|
 |**2023-08-02**|**Beyond Generic: Enhancing Image Captioning with Real-World Knowledge using Vision-Language Pre-Training Model**|Kanzhi Cheng et.al.|[2308.01126v1](http://arxiv.org/abs/2308.01126v1)|**[link](https://github.com/njucckevin/knowcap)**|
-|**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v1](http://arxiv.org/abs/2308.00946v1)|null|
+|**2023-08-02**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions**|Tim Hartill et.al.|[2308.00946v1](http://arxiv.org/abs/2308.00946v1)|**[link](https://github.com/timhartill/unseen_questions)**|
 |**2023-08-02**|**Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation**|Ziyi Huang et.al.|[2308.00883v1](http://arxiv.org/abs/2308.00883v1)|null|
 |**2023-08-01**|**DiactTOD: Learning Generalizable Latent Dialogue Acts for Controllable Task-Oriented Dialogue Systems**|Qingyang Wu et.al.|[2308.00878v1](http://arxiv.org/abs/2308.00878v1)|null|
 |**2023-08-03**|**LISA: Reasoning Segmentation via Large Language Model**|Xin Lai et.al.|[2308.00692v2](http://arxiv.org/abs/2308.00692v2)|**[link](https://github.com/dvlab-research/lisa)**|
@@ -435,7 +435,7 @@
 |**2023-07-15**|**Is Prompt-Based Finetuning Always Better than Vanilla Finetuning? Insights from Cross-Lingual Language Understanding**|Bolei Ma et.al.|[2307.07880v1](http://arxiv.org/abs/2307.07880v1)|**[link](https://github.com/boleima/profit)**|
 |**2023-07-14**|**Improving Zero-Shot Generalization for CLIP with Synthesized Prompts**|Zhengbo Wang et.al.|[2307.07397v1](http://arxiv.org/abs/2307.07397v1)|**[link](https://github.com/mrflogs/SHIP)**|
 |**2023-07-14**|**Learn from Incomplete Tactile Data: Tactile Representation Learning with Masked Autoencoders**|Guanqun Cao et.al.|[2307.07358v1](http://arxiv.org/abs/2307.07358v1)|null|
-|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312v1](http://arxiv.org/abs/2307.07312v1)|null|
+|**2023-07-14**|**Using Large Language Models for Zero-Shot Natural Language Generation from Knowledge Graphs**|Agnes Axelsson et.al.|[2307.07312v1](http://arxiv.org/abs/2307.07312v1)|**[link](https://github.com/agnesion/zero-shot-nlg-from-kgs-data)**|
 |**2023-07-14**|**C3: Zero-shot Text-to-SQL with ChatGPT**|Xuemei Dong et.al.|[2307.07306v1](http://arxiv.org/abs/2307.07306v1)|**[link](https://github.com/bigbigwatermalon/c3sql)**|
 |**2023-07-17**|**Knowledge Boosting: Rethinking Medical Contrastive Vision-Language Pre-Training**|Xiaofei Chen et.al.|[2307.07246v2](http://arxiv.org/abs/2307.07246v2)|null|
 |**2023-07-14**|**Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts**|Ziyue Jiang et.al.|[2307.07218v1](http://arxiv.org/abs/2307.07218v1)|null|

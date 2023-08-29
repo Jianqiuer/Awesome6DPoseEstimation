@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
+|**2023-08-28**|**Video-Based Hand Pose Estimation for Remote Assessment of Bradykinesia in Parkinson's Disease**|Gabriela T. Acevedo Trebbau et.al.|[2308.14679v1](http://arxiv.org/abs/2308.14679v1)|null|
+|**2023-08-28**|**Active Pose Refinement for Textureless Shiny Objects using the Structured Light Camera**|Jun Yang et.al.|[2308.14665v1](http://arxiv.org/abs/2308.14665v1)|null|
+|**2023-08-28**|**CPFES: Physical Fitness Evaluation Based on Canadian Agility and Movement Skill Assessment**|Pengcheng Dong et.al.|[2308.14324v1](http://arxiv.org/abs/2308.14324v1)|null|
+|**2023-08-27**|**LDL: Line Distance Functions for Panoramic Localization**|Junho Kim et.al.|[2308.13989v1](http://arxiv.org/abs/2308.13989v1)|null|
+|**2023-08-26**|**Prior-guided Source-free Domain Adaptation for Human Pose Estimation**|Dripta S. Raychaudhuri et.al.|[2308.13954v1](http://arxiv.org/abs/2308.13954v1)|null|
+|**2023-08-26**|**Vision-Based Human Pose Estimation via Deep Learning: A Survey**|Gongjin Lan et.al.|[2308.13872v1](http://arxiv.org/abs/2308.13872v1)|null|
 |**2023-08-24**|**POCO: 3D Pose and Shape Estimation with Confidence**|Sai Kumar Dwivedi et.al.|[2308.12965v1](http://arxiv.org/abs/2308.12965v1)|null|
 |**2023-08-24**|**Robot Pose Nowcasting: Forecast the Future to Improve the Present**|Alessandro Simoni et.al.|[2308.12914v1](http://arxiv.org/abs/2308.12914v1)|null|
 |**2023-08-23**|**Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map**|Timothy D Barfoot et.al.|[2308.12418v1](http://arxiv.org/abs/2308.12418v1)|null|
@@ -215,7 +222,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-22**|**Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation**|Zongyi Xu et.al.|[2308.11166v1](http://arxiv.org/abs/2308.11166v1)|null|
+|**2023-08-28**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619v1](http://arxiv.org/abs/2308.14619v1)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
+|**2023-08-22**|**Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation**|Zongyi Xu et.al.|[2308.11166v1](http://arxiv.org/abs/2308.11166v1)|**[link](https://github.com/smiletoe/hpal)**|
 |**2023-08-14**|**Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**|Alexander Kyuroson et.al.|[2308.07283v1](http://arxiv.org/abs/2308.07283v1)|null|
 |**2023-08-08**|**Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement**|Zhenhua Ning et.al.|[2308.03177v2](http://arxiv.org/abs/2308.03177v2)|**[link](https://github.com/aaronnzh/boosting-few-shot-3d-point-cloud-segmentation-via-query-guided-enhancement)**|
 |**2023-07-31**|**pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation**|Abhishek Kuriyal et.al.|[2307.14777v2](http://arxiv.org/abs/2307.14777v2)|**[link](https://github.com/GeoAI-Research-Lab/PCTFusion)**|
@@ -240,6 +248,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-28**|**Adversarial Attacks on Foundational Vision Models**|Nathan Inkawhich et.al.|[2308.14597v1](http://arxiv.org/abs/2308.14597v1)|null|
+|**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|**[link](https://github.com/vocaliodmiku/sli-ll)**|
+|**2023-08-28**|**An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation**|Pengzhi Gao et.al.|[2308.14482v1](http://arxiv.org/abs/2308.14482v1)|null|
+|**2023-08-28**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306v1](http://arxiv.org/abs/2308.14306v1)|null|
+|**2023-08-28**|**Rule-Based Error Detection and Correction to Operationalize Movement Trajectory Classification**|Bowen Xi et.al.|[2308.14250v1](http://arxiv.org/abs/2308.14250v1)|null|
+|**2023-08-27**|**Generative AI for Business Strategy: Using Foundation Models to Create Business Strategy Tools**|Son The Nguyen et.al.|[2308.14182v1](http://arxiv.org/abs/2308.14182v1)|null|
+|**2023-08-27**|**Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars**|Weijia Feng et.al.|[2308.14133v1](http://arxiv.org/abs/2308.14133v1)|null|
+|**2023-08-27**|**Semi-Supervised Learning in the Few-Shot Zero-Shot Scenario**|Noam Fluss et.al.|[2308.14119v1](http://arxiv.org/abs/2308.14119v1)|null|
+|**2023-08-27**|**MM-AU:Towards Multimodal Understanding of Advertisement Videos**|Digbalay Bose et.al.|[2308.14052v1](http://arxiv.org/abs/2308.14052v1)|null|
 |**2023-08-25**|**Decoding Natural Images from EEG for Object Recognition**|Yonghao Song et.al.|[2308.13234v1](http://arxiv.org/abs/2308.13234v1)|null|
 |**2023-08-25**|**MultiCapCLIP: Auto-Encoding Prompts for Zero-Shot Multilingual Visual Captioning**|Bang Yang et.al.|[2308.13218v1](http://arxiv.org/abs/2308.13218v1)|**[link](https://github.com/yangbang18/multicapclip)**|
 |**2023-08-24**|**Interpretable Image Quality Assessment via CLIP with Multiple Antonym-Prompt Pairs**|Takamichi Miyata et.al.|[2308.13094v1](http://arxiv.org/abs/2308.13094v1)|null|

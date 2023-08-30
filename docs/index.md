@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**3D-MuPPET: 3D Multi-Pigeon Pose Estimation and Tracking**|Urs Waldmann et.al.|[2308.15316v1](http://arxiv.org/abs/2308.15316v1)|null|
+|**2023-08-29**|**Spatio-temporal MLP-graph network for 3D human pose estimation**|Tanvir Hassan et.al.|[2308.15313v1](http://arxiv.org/abs/2308.15313v1)|**[link](https://github.com/nies14/spatio-temporal-mlp-graph)**|
+|**2023-08-29**|**Pose-Free Neural Radiance Fields via Implicit Pose Regularization**|Jiahui Zhang et.al.|[2308.15049v1](http://arxiv.org/abs/2308.15049v1)|null|
 |**2023-08-28**|**R3D3: Dense 3D Reconstruction of Dynamic Scenes from Multiple Cameras**|Aron Schmied et.al.|[2308.14713v1](http://arxiv.org/abs/2308.14713v1)|null|
 |**2023-08-28**|**Video-Based Hand Pose Estimation for Remote Assessment of Bradykinesia in Parkinson's Disease**|Gabriela T. Acevedo Trebbau et.al.|[2308.14679v1](http://arxiv.org/abs/2308.14679v1)|null|
 |**2023-08-28**|**Active Pose Refinement for Textureless Shiny Objects using the Structured Light Camera**|Jun Yang et.al.|[2308.14665v1](http://arxiv.org/abs/2308.14665v1)|null|
@@ -236,6 +239,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Cross-Modal Retrieval Meets Inference:Improving Zero-Shot Classification with Cross-Modal Retrieval**|Seongha Eom et.al.|[2308.15273v1](http://arxiv.org/abs/2308.15273v1)|null|
+|**2023-08-29**|**Multi-party Goal Tracking with LLMs: Comparing Pre-training, Fine-tuning, and Prompt Engineering**|Angus Addlesee et.al.|[2308.15231v1](http://arxiv.org/abs/2308.15231v1)|null|
+|**2023-08-28**|**Pruning Self-Attention for Zero-Shot Multi-Speaker Text-to-Speech**|Hyungchan Yoon et.al.|[2308.14909v1](http://arxiv.org/abs/2308.14909v1)|null|
+|**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786v1](http://arxiv.org/abs/2308.14786v1)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746v1](http://arxiv.org/abs/2308.14746v1)|**[link](https://github.com/lucas-ventura/CoVR)**|
 |**2023-08-28**|**Adversarial Attacks on Foundational Vision Models**|Nathan Inkawhich et.al.|[2308.14597v1](http://arxiv.org/abs/2308.14597v1)|null|
 |**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|**[link](https://github.com/vocaliodmiku/sli-ll)**|

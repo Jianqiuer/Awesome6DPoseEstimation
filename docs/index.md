@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -247,7 +247,7 @@ layout: default
 |**2023-08-28**|**Adversarial Attacks on Foundational Vision Models**|Nathan Inkawhich et.al.|[2308.14597v1](http://arxiv.org/abs/2308.14597v1)|null|
 |**2023-08-28**|**Spoken Language Intelligence of Large Language Models for Language Learning**|Linkai Peng et.al.|[2308.14536v1](http://arxiv.org/abs/2308.14536v1)|**[link](https://github.com/vocaliodmiku/sli-ll)**|
 |**2023-08-28**|**An Empirical Study of Consistency Regularization for End-to-End Speech-to-Text Translation**|Pengzhi Gao et.al.|[2308.14482v1](http://arxiv.org/abs/2308.14482v1)|null|
-|**2023-08-28**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306v1](http://arxiv.org/abs/2308.14306v1)|null|
+|**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306v2](http://arxiv.org/abs/2308.14306v2)|null|
 |**2023-08-28**|**Rule-Based Error Detection and Correction to Operationalize Movement Trajectory Classification**|Bowen Xi et.al.|[2308.14250v1](http://arxiv.org/abs/2308.14250v1)|null|
 |**2023-08-27**|**Generative AI for Business Strategy: Using Foundation Models to Create Business Strategy Tools**|Son The Nguyen et.al.|[2308.14182v1](http://arxiv.org/abs/2308.14182v1)|null|
 |**2023-08-27**|**Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars**|Weijia Feng et.al.|[2308.14133v1](http://arxiv.org/abs/2308.14133v1)|null|

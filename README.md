@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Fusing Monocular Images and Sparse IMU Signals for Real-time Human Motion Capture**|Shaohua Pan et.al.|[2309.00310v1](http://arxiv.org/abs/2309.00310v1)|**[link](https://github.com/shaohua-pan/RobustCap)**|
 |**2023-08-31**|**EMDB: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild**|Manuel Kaufmann et.al.|[2308.16894v1](http://arxiv.org/abs/2308.16894v1)|**[link](https://github.com/eth-ait/emdb)**|
 |**2023-08-31**|**SA6D: Self-Adaptive Few-Shot 6D Pose Estimator for Novel and Occluded Objects**|Ning Gao et.al.|[2308.16528v1](http://arxiv.org/abs/2308.16528v1)|null|
 |**2023-08-30**|**Two-Stage Violence Detection Using ViTPose and Classification Models at Smart Airports**|İrem Üstek et.al.|[2308.16325v1](http://arxiv.org/abs/2308.16325v1)|**[link](https://github.com/asami-1/gdp)**|
@@ -258,6 +259,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526v1](http://arxiv.org/abs/2309.00526v1)|null|
+|**2023-09-01**|**BatchPrompt: Accomplish more with less**|Jianzhe Lin et.al.|[2309.00384v1](http://arxiv.org/abs/2309.00384v1)|null|
 |**2023-09-01**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777v2](http://arxiv.org/abs/2308.16777v2)|null|
 |**2023-08-31**|**Efficacy of Neural Prediction-Based NAS for Zero-Shot NAS Paradigm**|Minh Le et.al.|[2308.16775v1](http://arxiv.org/abs/2308.16775v1)|**[link](https://github.com/minh1409/dft-npzs-nas)**|
 |**2023-08-31**|**SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**|Xin Zhang et.al.|[2308.16692v1](http://arxiv.org/abs/2308.16692v1)|**[link](https://github.com/zhangxinfd/speechtokenizer)**|

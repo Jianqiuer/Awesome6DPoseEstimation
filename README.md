@@ -1,4 +1,4 @@
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -168,7 +168,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -226,7 +226,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -252,20 +252,20 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-31**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777v1](http://arxiv.org/abs/2308.16777v1)|null|
+|**2023-09-01**|**Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models**|Minheng Ni et.al.|[2308.16777v2](http://arxiv.org/abs/2308.16777v2)|null|
 |**2023-08-31**|**Efficacy of Neural Prediction-Based NAS for Zero-Shot NAS Paradigm**|Minh Le et.al.|[2308.16775v1](http://arxiv.org/abs/2308.16775v1)|**[link](https://github.com/minh1409/dft-npzs-nas)**|
-|**2023-08-31**|**SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**|Xin Zhang et.al.|[2308.16692v1](http://arxiv.org/abs/2308.16692v1)|null|
+|**2023-08-31**|**SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**|Xin Zhang et.al.|[2308.16692v1](http://arxiv.org/abs/2308.16692v1)|**[link](https://github.com/zhangxinfd/speechtokenizer)**|
 |**2023-08-31**|**Using Large Language Models to Automate Category and Trend Analysis of Scientific Articles: An Application in Ophthalmology**|Hina Raja et.al.|[2308.16688v1](http://arxiv.org/abs/2308.16688v1)|null|
 |**2023-08-31**|**Developing a Scalable Benchmark for Assessing Large Language Models in Knowledge Graph Engineering**|Lars-Peter Meyer et.al.|[2308.16622v1](http://arxiv.org/abs/2308.16622v1)|null|
 |**2023-08-31**|**Neural Gradient Regularizer**|Shuang Xu et.al.|[2308.16612v1](http://arxiv.org/abs/2308.16612v1)|**[link](https://github.com/yyfz/neural-gradient-regularizer)**|
-|**2023-08-31**|**Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing**|Arghavan Moradi Dakhel et.al.|[2308.16557v1](http://arxiv.org/abs/2308.16557v1)|null|
-|**2023-08-31**|**PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords**|Yong-Hyeok Lee et.al.|[2308.16511v1](http://arxiv.org/abs/2308.16511v1)|null|
+|**2023-08-31**|**Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing**|Arghavan Moradi Dakhel et.al.|[2308.16557v1](http://arxiv.org/abs/2308.16557v1)|**[link](https://github.com/expertisemodel/mutap)**|
+|**2023-08-31**|**PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords**|Yong-Hyeok Lee et.al.|[2308.16511v1](http://arxiv.org/abs/2308.16511v1)|**[link](https://github.com/ncsoft/phonmatchnet)**|
 |**2023-08-31**|**Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**|Yupan Huang et.al.|[2308.16463v1](http://arxiv.org/abs/2308.16463v1)|null|
 |**2023-08-30**|**Response: Emergent analogical reasoning in large language models**|Damian Hodel et.al.|[2308.16118v1](http://arxiv.org/abs/2308.16118v1)|**[link](https://github.com/hodeld/emergent_analogies_llm_fork)**|
 |**2023-08-30**|**DiffuVolume: Diffusion Model for Volume based Stereo Matching**|Dian Zheng et.al.|[2308.15989v1](http://arxiv.org/abs/2308.15989v1)|null|
@@ -532,5 +532,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230903>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230904>back to top</a>)</p>
 

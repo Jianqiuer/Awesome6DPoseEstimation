@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.05
+## Updated on 2023.09.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -167,7 +167,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-31**|**Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning**|Ahmed Hatem et.al.|[2308.16481v1](http://arxiv.org/abs/2308.16481v1)|null|
+|**2023-09-01**|**Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning**|Ahmed Hatem et.al.|[2308.16481v2](http://arxiv.org/abs/2308.16481v2)|null|
 |**2023-08-21**|**In-Rack Test Tube Pose Estimation Using RGB-D Data**|Hao Chen et.al.|[2308.10411v1](http://arxiv.org/abs/2308.10411v1)|null|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
 |**2023-08-18**|**Overlap Bias Matching is Necessary for Point Cloud Registration**|Pengcheng Shi et.al.|[2308.09364v1](http://arxiv.org/abs/2308.09364v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.06
+## Updated on 2023.09.07
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925v1](http://arxiv.org/abs/2309.01925v1)|null|
 |**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612v1](http://arxiv.org/abs/2309.01612v1)|null|
 |**2023-09-04**|**DiffHPE: Robust, Coherent 3D Human Pose Lifting with Diffusion**|Cédric Rommel et.al.|[2309.01575v1](http://arxiv.org/abs/2309.01575v1)|null|
-|**2023-09-04**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Li et.al.|[2309.01365v1](http://arxiv.org/abs/2309.01365v1)|null|
+|**2023-09-06**|**Refined Temporal Pyramidal Compression-and-Amplification Transformer for 3D Human Pose Estimation**|Hanbing Liu et.al.|[2309.01365v2](http://arxiv.org/abs/2309.01365v2)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324v1](http://arxiv.org/abs/2309.01324v1)|null|
 |**2023-09-03**|**BodySLAM++: Fast and Tightly-Coupled Visual-Inertial Camera and Human Motion Tracking**|Dorian F. Henning et.al.|[2309.01236v1](http://arxiv.org/abs/2309.01236v1)|null|
 |**2023-09-02**|**Mitigating Motion Blur for Robust 3D Baseball Player Pose Modeling for Pitch Analysis**|Jerrin Bright et.al.|[2309.01010v1](http://arxiv.org/abs/2309.01010v1)|null|
@@ -257,10 +257,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-05**|**STEP -- Towards Structured Scene-Text Spotting**|Sergi Garcia-Bordils et.al.|[2309.02356v1](http://arxiv.org/abs/2309.02356v1)|null|
 |**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317v1](http://arxiv.org/abs/2309.02317v1)|null|
-|**2023-09-05**|**NICE 2023 Zero-shot Image Captioning Challenge**|Taehoon Kim et.al.|[2309.01961v1](http://arxiv.org/abs/2309.01961v1)|null|
-|**2023-09-05**|**Automatic Data Transformation Using Large Language Model An Experimental Study on Building Energy Data**|Ankita Sharma et.al.|[2309.01957v1](http://arxiv.org/abs/2309.01957v1)|null|
+|**2023-09-06**|**NICE 2023 Zero-shot Image Captioning Challenge**|Taehoon Kim et.al.|[2309.01961v2](http://arxiv.org/abs/2309.01961v2)|null|
+|**2023-09-06**|**Automatic Data Transformation Using Large Language Model: An Experimental Study on Building Energy Data**|Ankita Sharma et.al.|[2309.01957v2](http://arxiv.org/abs/2309.01957v2)|null|
 |**2023-09-05**|**QuantEase: Optimization-based Quantization for Language Models -- An Efficient and Intuitive Algorithm**|Kayhan Behdin et.al.|[2309.01885v1](http://arxiv.org/abs/2309.01885v1)|null|
-|**2023-09-04**|**An Empirical Analysis for Zero-Shot Multi-Label Classification on COVID-19 CT Scans and Uncurated Reports**|Ethan Dack et.al.|[2309.01740v1](http://arxiv.org/abs/2309.01740v1)|null|
+|**2023-09-06**|**An Empirical Analysis for Zero-Shot Multi-Label Classification on COVID-19 CT Scans and Uncurated Reports**|Ethan Dack et.al.|[2309.01740v2](http://arxiv.org/abs/2309.01740v2)|null|
 |**2023-09-04**|**MathAttack: Attacking Large Language Models Towards Math Solving Ability**|Zihao Zhou et.al.|[2309.01686v1](http://arxiv.org/abs/2309.01686v1)|null|
 |**2023-09-04**|**Fine-grained Affective Processing Capabilities Emerging from Large Language Models**|Joost Broekens et.al.|[2309.01664v1](http://arxiv.org/abs/2309.01664v1)|null|
 |**2023-09-04**|**MultiWay-Adapater: Adapting large-scale multi-modal models for scalable image-text retrieval**|Zijun Long et.al.|[2309.01516v1](http://arxiv.org/abs/2309.01516v1)|null|

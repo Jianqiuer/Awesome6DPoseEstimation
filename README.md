@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|null|
 |**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925v1](http://arxiv.org/abs/2309.01925v1)|null|
 |**2023-09-04**|**On the Query Strategies for Efficient Online Active Distillation**|Michele Boldo et.al.|[2309.01612v1](http://arxiv.org/abs/2309.01612v1)|null|
@@ -267,6 +268,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
+|**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
+|**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
+|**2023-09-06**|**GRASS: Unified Generation Model for Speech Semantic Understanding**|Aobo Xia et.al.|[2309.02780v1](http://arxiv.org/abs/2309.02780v1)|null|
+|**2023-09-06**|**Pre- and post-contact policy decomposition for non-prehensile manipulation with zero-shot sim-to-real transfer**|Minchan Kim et.al.|[2309.02754v1](http://arxiv.org/abs/2309.02754v1)|null|
+|**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591v1](http://arxiv.org/abs/2309.02591v1)|null|
 |**2023-09-05**|**STEP -- Towards Structured Scene-Text Spotting**|Sergi Garcia-Bordils et.al.|[2309.02356v1](http://arxiv.org/abs/2309.02356v1)|null|
 |**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317v1](http://arxiv.org/abs/2309.02317v1)|null|
 |**2023-09-06**|**NICE 2023 Zero-shot Image Captioning Challenge**|Taehoon Kim et.al.|[2309.01961v2](http://arxiv.org/abs/2309.01961v2)|null|

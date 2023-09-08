@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891v1](http://arxiv.org/abs/2309.03891v1)|null|
+|**2023-09-05**|**An automated, high-resolution phenotypic assay for adult Brugia malayi and microfilaria**|Upender Kalwa et.al.|[2309.03235v1](http://arxiv.org/abs/2309.03235v1)|null|
 |**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
 |**2023-09-05**|**GO-SLAM: Global Optimization for Consistent 3D Instant Reconstruction**|Youmin Zhang et.al.|[2309.02436v1](http://arxiv.org/abs/2309.02436v1)|null|
 |**2023-09-05**|**DR-Pose: A Two-stage Deformation-and-Registration Pipeline for Category-level 6D Object Pose Estimation**|Lei Zhou et.al.|[2309.01925v1](http://arxiv.org/abs/2309.01925v1)|null|
@@ -268,6 +270,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
+|**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884v1](http://arxiv.org/abs/2309.03884v1)|null|
+|**2023-09-07**|**Introducing "Forecast Utterance" for Conversational Data Science**|Md Mahadi Hassan et.al.|[2309.03877v1](http://arxiv.org/abs/2309.03877v1)|null|
+|**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613v1](http://arxiv.org/abs/2309.03613v1)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
+|**2023-09-07**|**Evaluating the Efficacy of Supervised Learning vs Large Language Models for Identifying Cognitive Distortions and Suicidal Risks in Chinese Social Media**|Hongzhi Qi et.al.|[2309.03564v1](http://arxiv.org/abs/2309.03564v1)|null|
+|**2023-09-07**|**All Labels Together: Low-shot Intent Detection with an Efficient Label Semantic Encoding Paradigm**|Jiangshu Du et.al.|[2309.03563v1](http://arxiv.org/abs/2309.03563v1)|null|
+|**2023-09-07**|**Zero-Shot Scene Graph Generation via Triplet Calibration and Reduction**|Jiankai Li et.al.|[2309.03542v1](http://arxiv.org/abs/2309.03542v1)|null|
+|**2023-09-06**|**Robotic Table Tennis: A Case Study into a High Speed Learning System**|David B. D'Ambrosio et.al.|[2309.03315v1](http://arxiv.org/abs/2309.03315v1)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
 |**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
 |**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|

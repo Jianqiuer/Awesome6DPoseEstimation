@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891v1](http://arxiv.org/abs/2309.03891v1)|null|
 |**2023-09-05**|**An automated, high-resolution phenotypic assay for adult Brugia malayi and microfilaria**|Upender Kalwa et.al.|[2309.03235v1](http://arxiv.org/abs/2309.03235v1)|null|
 |**2023-09-05**|**A Robust Localization Solution for an Uncrewed Ground Vehicle in Unstructured Outdoor GNSS-Denied Environments**|W. Jacob Wagner et.al.|[2309.02569v1](http://arxiv.org/abs/2309.02569v1)|null|
@@ -270,6 +271,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|null|
+|**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372v1](http://arxiv.org/abs/2309.04372v1)|null|
+|**2023-09-08**|**Zero-Shot Robustification of Zero-Shot Models With Foundation Models**|Dyah Adila et.al.|[2309.04344v1](http://arxiv.org/abs/2309.04344v1)|null|
+|**2023-09-08**|**Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment**|Hongyu Hu et.al.|[2309.04158v1](http://arxiv.org/abs/2309.04158v1)|null|
+|**2023-09-07**|**S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens**|Rizhao Cai et.al.|[2309.04038v1](http://arxiv.org/abs/2309.04038v1)|null|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|null|
 |**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884v1](http://arxiv.org/abs/2309.03884v1)|null|
 |**2023-09-07**|**Introducing "Forecast Utterance" for Conversational Data Science**|Md Mahadi Hassan et.al.|[2309.03877v1](http://arxiv.org/abs/2309.03877v1)|null|

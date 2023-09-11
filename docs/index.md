@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -263,7 +263,7 @@ layout: default
 |**2023-09-07**|**Introducing "Forecast Utterance" for Conversational Data Science**|Md Mahadi Hassan et.al.|[2309.03877v1](http://arxiv.org/abs/2309.03877v1)|null|
 |**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613v1](http://arxiv.org/abs/2309.03613v1)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
 |**2023-09-07**|**Evaluating the Efficacy of Supervised Learning vs Large Language Models for Identifying Cognitive Distortions and Suicidal Risks in Chinese Social Media**|Hongzhi Qi et.al.|[2309.03564v1](http://arxiv.org/abs/2309.03564v1)|null|
-|**2023-09-07**|**All Labels Together: Low-shot Intent Detection with an Efficient Label Semantic Encoding Paradigm**|Jiangshu Du et.al.|[2309.03563v1](http://arxiv.org/abs/2309.03563v1)|null|
+|**2023-09-08**|**All Labels Together: Low-shot Intent Detection with an Efficient Label Semantic Encoding Paradigm**|Jiangshu Du et.al.|[2309.03563v2](http://arxiv.org/abs/2309.03563v2)|null|
 |**2023-09-07**|**Zero-Shot Scene Graph Generation via Triplet Calibration and Reduction**|Jiankai Li et.al.|[2309.03542v1](http://arxiv.org/abs/2309.03542v1)|null|
 |**2023-09-06**|**Robotic Table Tennis: A Case Study into a High Speed Learning System**|David B. D'Ambrosio et.al.|[2309.03315v1](http://arxiv.org/abs/2309.03315v1)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|

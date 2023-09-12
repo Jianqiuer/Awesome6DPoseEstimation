@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662v1](http://arxiv.org/abs/2309.05662v1)|null|
+|**2023-09-11**|**Towards Intuitive HMI for UAV Control**|Filip Zoric et.al.|[2309.05460v1](http://arxiv.org/abs/2309.05460v1)|null|
+|**2023-09-10**|**FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild**|Jiong Wang et.al.|[2309.05073v1](http://arxiv.org/abs/2309.05073v1)|**[link](https://github.com/wangjiongw/freeman_api)**|
+|**2023-09-09**|**Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation**|Boyuan Jiang et.al.|[2309.04756v1](http://arxiv.org/abs/2309.04756v1)|**[link](https://github.com/bymaths/probabilistic_triangulation)**|
+|**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
 |**2023-09-07**|**ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation**|Hui Zhang et.al.|[2309.03891v1](http://arxiv.org/abs/2309.03891v1)|null|
 |**2023-09-05**|**An automated, high-resolution phenotypic assay for adult Brugia malayi and microfilaria**|Upender Kalwa et.al.|[2309.03235v1](http://arxiv.org/abs/2309.03235v1)|null|
@@ -271,6 +276,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-11**|**Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP**|Wei Du et.al.|[2309.05619v1](http://arxiv.org/abs/2309.05619v1)|null|
+|**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527v1](http://arxiv.org/abs/2309.05527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|
+|**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499v1](http://arxiv.org/abs/2309.05499v1)|null|
+|**2023-09-11**|**Zero-shot Learning with Minimum Instruction to Extract Social Determinants and Family History from Clinical Notes using GPT Model**|Neel Jitesh Bhate et.al.|[2309.05475v1](http://arxiv.org/abs/2309.05475v1)|null|
+|**2023-09-11**|**Analysing Cross-Lingual Transfer in Low-Resourced African Named Entity Recognition**|Michael Beukman et.al.|[2309.05311v1](http://arxiv.org/abs/2309.05311v1)|**[link](https://github.com/michael-beukman/nertransfer)**|
+|**2023-09-11**|**SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth**|Xihang Yu et.al.|[2309.05184v1](http://arxiv.org/abs/2309.05184v1)|null|
+|**2023-09-10**|**The Impact of AI in Physics Education: A Comprehensive Review from GCSE to University Levels**|Will Yeadon et.al.|[2309.05163v1](http://arxiv.org/abs/2309.05163v1)|null|
+|**2023-09-10**|**Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels**|Bo Wan et.al.|[2309.05069v1](http://arxiv.org/abs/2309.05069v1)|**[link](https://github.com/bobwan1995/zeroshot-hoi-with-clip)**|
+|**2023-09-10**|**Mitigating Word Bias in Zero-shot Prompt-based Classifiers**|Adian Liusie et.al.|[2309.04992v1](http://arxiv.org/abs/2309.04992v1)|null|
+|**2023-09-09**|**Relative representations for cognitive graphs**|Alex B. Kiefer et.al.|[2309.04653v1](http://arxiv.org/abs/2309.04653v1)|null|
 |**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|**[link](https://github.com/yangyi-chen/cotconsistency)**|
 |**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372v1](http://arxiv.org/abs/2309.04372v1)|null|
 |**2023-09-08**|**Zero-Shot Robustification of Zero-Shot Models With Foundation Models**|Dyah Adila et.al.|[2309.04344v1](http://arxiv.org/abs/2309.04344v1)|null|

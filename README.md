@@ -1,4 +1,4 @@
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662v1](http://arxiv.org/abs/2309.05662v1)|null|
 |**2023-09-11**|**Towards Intuitive HMI for UAV Control**|Filip Zoric et.al.|[2309.05460v1](http://arxiv.org/abs/2309.05460v1)|null|
-|**2023-09-10**|**FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild**|Jiong Wang et.al.|[2309.05073v1](http://arxiv.org/abs/2309.05073v1)|**[link](https://github.com/wangjiongw/freeman_api)**|
+|**2023-09-12**|**FreeMan: Towards Benchmarking 3D Human Pose Estimation in the Wild**|Jiong Wang et.al.|[2309.05073v2](http://arxiv.org/abs/2309.05073v2)|**[link](https://github.com/wangjiongw/freeman_api)**|
 |**2023-09-09**|**Probabilistic Triangulation for Uncalibrated Multi-View 3D Human Pose Estimation**|Boyuan Jiang et.al.|[2309.04756v1](http://arxiv.org/abs/2309.04756v1)|**[link](https://github.com/bymaths/probabilistic_triangulation)**|
 |**2023-09-09**|**Mirror-Aware Neural Humans**|Daniel Ajisafe et.al.|[2309.04750v1](http://arxiv.org/abs/2309.04750v1)|null|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147v1](http://arxiv.org/abs/2309.04147v1)|null|
@@ -186,7 +186,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -201,7 +201,7 @@
 |**2023-07-25**|**GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer**|Zheng Qin et.al.|[2308.03768v1](http://arxiv.org/abs/2308.03768v1)|**[link](https://github.com/qinzheng93/geotransformer)**|
 |**2023-07-26**|**One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration**|Yongzhe Yuan et.al.|[2307.14019v1](http://arxiv.org/abs/2307.14019v1)|null|
 |**2023-07-22**|**Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap**|Zhijian Qiao et.al.|[2307.12116v1](http://arxiv.org/abs/2307.12116v1)|**[link](https://github.com/hkust-aerial-robotics/pagor)**|
-|**2023-07-31**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v3](http://arxiv.org/abs/2307.11998v3)|null|
+|**2023-09-12**|**ELiOT : End-to-end Lidar Odometry using Transformer Framework**|Daegyu Lee et.al.|[2307.11998v4](http://arxiv.org/abs/2307.11998v4)|null|
 |**2023-08-08**|**Density-invariant Features for Distant Point Cloud Registration**|Quan Liu et.al.|[2307.09788v2](http://arxiv.org/abs/2307.09788v2)|**[link](https://github.com/liuquan98/gcl)**|
 |**2023-07-18**|**SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration**|Guiyu Zhao et.al.|[2307.09351v1](http://arxiv.org/abs/2307.09351v1)|null|
 |**2023-07-14**|**CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2307.07142v1](http://arxiv.org/abs/2307.07142v1)|null|
@@ -244,7 +244,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -270,7 +270,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -591,5 +591,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 

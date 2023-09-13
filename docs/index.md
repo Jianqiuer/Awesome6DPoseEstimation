@@ -184,6 +184,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**SGFeat: Salient Geometric Feature for Point Cloud Registration**|Qianliang Wu et.al.|[2309.06207v1](http://arxiv.org/abs/2309.06207v1)|null|
 |**2023-09-01**|**Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning**|Ahmed Hatem et.al.|[2308.16481v2](http://arxiv.org/abs/2308.16481v2)|null|
 |**2023-08-21**|**In-Rack Test Tube Pose Estimation Using RGB-D Data**|Hao Chen et.al.|[2308.10411v1](http://arxiv.org/abs/2308.10411v1)|null|
 |**2023-08-18**|**DReg-NeRF: Deep Registration for Neural Radiance Fields**|Yu Chen et.al.|[2308.09386v1](http://arxiv.org/abs/2308.09386v1)|**[link](https://github.com/aibluefisher/dreg-nerf)**|
@@ -264,6 +265,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Characterizing Latent Perspectives of Media Houses Towards Public Figures**|Sharath Srivatsa et.al.|[2309.06112v1](http://arxiv.org/abs/2309.06112v1)|null|
+|**2023-09-12**|**iPhonMatchNet: Zero-Shot User-Defined Keyword Spotting Using Implicit Acoustic Echo Cancellation**|Yong-Hyeok Lee et.al.|[2309.06096v1](http://arxiv.org/abs/2309.06096v1)|null|
+|**2023-09-12**|**Measuring Catastrophic Forgetting in Cross-Lingual Transfer Paradigms: Exploring Tuning Strategies**|Boshko Koloski et.al.|[2309.06089v1](http://arxiv.org/abs/2309.06089v1)|null|
+|**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956v1](http://arxiv.org/abs/2309.05956v1)|null|
+|**2023-09-12**|**SAGE: Structured Attribute Value Generation for Billion-Scale Product Catalogs**|Athanasios N. Nikolakopoulos et.al.|[2309.05920v1](http://arxiv.org/abs/2309.05920v1)|null|
+|**2023-09-12**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v1](http://arxiv.org/abs/2309.05904v1)|null|
+|**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|null|
 |**2023-09-11**|**Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP**|Wei Du et.al.|[2309.05619v1](http://arxiv.org/abs/2309.05619v1)|null|
 |**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527v1](http://arxiv.org/abs/2309.05527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|
 |**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499v1](http://arxiv.org/abs/2309.05499v1)|null|

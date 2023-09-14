@@ -1,4 +1,4 @@
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -186,7 +186,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -245,7 +245,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -271,14 +271,14 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-12**|**Characterizing Latent Perspectives of Media Houses Towards Public Figures**|Sharath Srivatsa et.al.|[2309.06112v1](http://arxiv.org/abs/2309.06112v1)|null|
-|**2023-09-12**|**iPhonMatchNet: Zero-Shot User-Defined Keyword Spotting Using Implicit Acoustic Echo Cancellation**|Yong-Hyeok Lee et.al.|[2309.06096v1](http://arxiv.org/abs/2309.06096v1)|null|
+|**2023-09-13**|**iPhonMatchNet: Zero-Shot User-Defined Keyword Spotting Using Implicit Acoustic Echo Cancellation**|Yong-Hyeok Lee et.al.|[2309.06096v2](http://arxiv.org/abs/2309.06096v2)|null|
 |**2023-09-12**|**Measuring Catastrophic Forgetting in Cross-Lingual Transfer Paradigms: Exploring Tuning Strategies**|Boshko Koloski et.al.|[2309.06089v1](http://arxiv.org/abs/2309.06089v1)|null|
 |**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956v1](http://arxiv.org/abs/2309.05956v1)|null|
 |**2023-09-12**|**SAGE: Structured Attribute Value Generation for Billion-Scale Product Catalogs**|Athanasios N. Nikolakopoulos et.al.|[2309.05920v1](http://arxiv.org/abs/2309.05920v1)|null|
@@ -599,5 +599,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
 

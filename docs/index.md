@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.13
+## Updated on 2023.09.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -266,7 +266,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-12**|**Characterizing Latent Perspectives of Media Houses Towards Public Figures**|Sharath Srivatsa et.al.|[2309.06112v1](http://arxiv.org/abs/2309.06112v1)|null|
-|**2023-09-12**|**iPhonMatchNet: Zero-Shot User-Defined Keyword Spotting Using Implicit Acoustic Echo Cancellation**|Yong-Hyeok Lee et.al.|[2309.06096v1](http://arxiv.org/abs/2309.06096v1)|null|
+|**2023-09-13**|**iPhonMatchNet: Zero-Shot User-Defined Keyword Spotting Using Implicit Acoustic Echo Cancellation**|Yong-Hyeok Lee et.al.|[2309.06096v2](http://arxiv.org/abs/2309.06096v2)|null|
 |**2023-09-12**|**Measuring Catastrophic Forgetting in Cross-Lingual Transfer Paradigms: Exploring Tuning Strategies**|Boshko Koloski et.al.|[2309.06089v1](http://arxiv.org/abs/2309.06089v1)|null|
 |**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956v1](http://arxiv.org/abs/2309.05956v1)|null|
 |**2023-09-12**|**SAGE: Structured Attribute Value Generation for Billion-Scale Product Catalogs**|Athanasios N. Nikolakopoulos et.al.|[2309.05920v1](http://arxiv.org/abs/2309.05920v1)|null|

@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910v1](http://arxiv.org/abs/2309.07910v1)|null|
+|**2023-09-14**|**Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation**|Thorsten Hempel et.al.|[2309.07654v1](http://arxiv.org/abs/2309.07654v1)|null|
+|**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
+|**2023-09-14**|**Unleashing the Power of Depth and Pose Estimation Neural Networks by Designing Compatible Endoscopic Images**|Junyang Wu et.al.|[2309.07390v1](http://arxiv.org/abs/2309.07390v1)|null|
+|**2023-09-13**|**LInKs "Lifting Independent Keypoints" -- Partial Pose Lifting for Occlusion Handling with Improved Accuracy in 2D-3D Human Pose Estimation**|Peter Hardy et.al.|[2309.07243v1](http://arxiv.org/abs/2309.07243v1)|null|
 |**2023-09-13**|**3D Active Metric-Semantic SLAM**|Yuezhan Tao et.al.|[2309.06950v1](http://arxiv.org/abs/2309.06950v1)|null|
 |**2023-09-11**|**ViHOPE: Visuotactile In-Hand Object 6D Pose Estimation with Shape Completion**|Hongyu Li et.al.|[2309.05662v1](http://arxiv.org/abs/2309.05662v1)|null|
 |**2023-09-11**|**Towards Intuitive HMI for UAV Control**|Filip Zoric et.al.|[2309.05460v1](http://arxiv.org/abs/2309.05460v1)|null|
@@ -185,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-12**|**SGFeat: Salient Geometric Feature for Point Cloud Registration**|Qianliang Wu et.al.|[2309.06207v1](http://arxiv.org/abs/2309.06207v1)|null|
 |**2023-09-01**|**Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning**|Ahmed Hatem et.al.|[2308.16481v2](http://arxiv.org/abs/2308.16481v2)|null|
 |**2023-08-21**|**In-Rack Test Tube Pose Estimation Using RGB-D Data**|Hao Chen et.al.|[2308.10411v1](http://arxiv.org/abs/2308.10411v1)|null|
@@ -266,6 +272,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
+|**2023-09-14**|**PRE: Vision-Language Prompt Learning with Reparameterization Encoder**|Anh Pham Thi Minh et.al.|[2309.07760v1](http://arxiv.org/abs/2309.07760v1)|**[link](https://github.com/minhanh151/respro)**|
+|**2023-09-14**|**Zero-shot Audio Topic Reranking using Large Language Models**|Mengjie Qian et.al.|[2309.07606v1](http://arxiv.org/abs/2309.07606v1)|null|
+|**2023-09-14**|**Detecting Misinformation with LLM-Predicted Credibility Signals and Weak Supervision**|João A. Leite et.al.|[2309.07601v1](http://arxiv.org/abs/2309.07601v1)|null|
+|**2023-09-14**|**Speech-to-Speech Translation with Discrete-Unit-Based Style Transfer**|Yongqi Wang et.al.|[2309.07566v1](http://arxiv.org/abs/2309.07566v1)|null|
+|**2023-09-14**|**Efficiently Robustify Pre-trained Models**|Nishant Jain et.al.|[2309.07499v1](http://arxiv.org/abs/2309.07499v1)|null|
+|**2023-09-14**|**DePT: Decoupled Prompt Tuning**|Ji Zhang et.al.|[2309.07439v1](http://arxiv.org/abs/2309.07439v1)|**[link](https://github.com/koorye/dept)**|
 |**2023-09-13**|**SafetyBench: Evaluating the Safety of Large Language Models with Multiple Choice Questions**|Zhexin Zhang et.al.|[2309.07045v1](http://arxiv.org/abs/2309.07045v1)|null|
 |**2023-09-13**|**How (Not) to Use Sociodemographic Information for Subjective NLP Tasks**|Tilman Beck et.al.|[2309.07034v1](http://arxiv.org/abs/2309.07034v1)|null|
 |**2023-09-14**|**Instance Adaptive Prototypical Contrastive Embedding for Generalized Zero Shot Learning**|Riti Paul et.al.|[2309.06987v2](http://arxiv.org/abs/2309.06987v2)|null|

@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**YCB-Ev: Event-vision dataset for 6DoF object pose estimation**|Pavel Rojtberg et.al.|[2309.08482v1](http://arxiv.org/abs/2309.08482v1)|null|
+|**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
+|**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040v1](http://arxiv.org/abs/2309.08040v1)|null|
 |**2023-09-14**|**TEMPO: Efficient Multi-View Pose Estimation, Tracking, and Forecasting**|Rohan Choudhury et.al.|[2309.07910v1](http://arxiv.org/abs/2309.07910v1)|null|
 |**2023-09-14**|**Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation**|Thorsten Hempel et.al.|[2309.07654v1](http://arxiv.org/abs/2309.07654v1)|**[link](https://github.com/thohemp/6drepnet360)**|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
@@ -198,6 +201,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads**|Zixuan Li et.al.|[2309.08164v1](http://arxiv.org/abs/2309.08164v1)|null|
+|**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086v1](http://arxiv.org/abs/2309.08086v1)|null|
 |**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471v1](http://arxiv.org/abs/2309.07471v1)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-12**|**SGFeat: Salient Geometric Feature for Point Cloud Registration**|Qianliang Wu et.al.|[2309.06207v1](http://arxiv.org/abs/2309.06207v1)|null|
 |**2023-09-01**|**Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning**|Ahmed Hatem et.al.|[2308.16481v2](http://arxiv.org/abs/2308.16481v2)|null|
@@ -284,6 +289,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**How Transferable are Attribute Controllers on Pretrained Multilingual Translation Models?**|Danni Liu et.al.|[2309.08565v1](http://arxiv.org/abs/2309.08565v1)|**[link](https://github.com/dannigt/attribute-controller-transfer)**|
+|**2023-09-15**|**MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception**|Gyan Tatiya et.al.|[2309.08508v1](http://arxiv.org/abs/2309.08508v1)|null|
+|**2023-09-15**|**Exploring Meta Information for Audio-based Zero-shot Bird Classification**|Alexander Gebhard et.al.|[2309.08398v1](http://arxiv.org/abs/2309.08398v1)|null|
+|**2023-09-15**|**Audio-free Prompt Tuning for Language-Audio Models**|Yiming Li et.al.|[2309.08357v1](http://arxiv.org/abs/2309.08357v1)|null|
+|**2023-09-15**|**Using Large Language Model to Solve and Explain Physics Word Problems Approaching Human Level**|Jingzhe Ding et.al.|[2309.08182v1](http://arxiv.org/abs/2309.08182v1)|null|
+|**2023-09-14**|**An Empirical Evaluation of Prompting Strategies for Large Language Models in Zero-Shot Clinical Natural Language Processing**|Sonish Sivarajkumar et.al.|[2309.08008v1](http://arxiv.org/abs/2309.08008v1)|null|
+|**2023-09-14**|**Leveraging Contextual Information for Effective Entity Salience Detection**|Rajarshi Bhowmik et.al.|[2309.07990v1](http://arxiv.org/abs/2309.07990v1)|null|
+|**2023-09-14**|**Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping**|Adam Rashid et.al.|[2309.07970v1](http://arxiv.org/abs/2309.07970v1)|null|
 |**2023-09-14**|**MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning**|Haozhe Zhao et.al.|[2309.07915v1](http://arxiv.org/abs/2309.07915v1)|**[link](https://github.com/haozhezhao/mic)**|
 |**2023-09-14**|**PRE: Vision-Language Prompt Learning with Reparameterization Encoder**|Anh Pham Thi Minh et.al.|[2309.07760v1](http://arxiv.org/abs/2309.07760v1)|**[link](https://github.com/minhanh151/respro)**|
 |**2023-09-14**|**Zero-shot Audio Topic Reranking using Large Language Models**|Mengjie Qian et.al.|[2309.07606v1](http://arxiv.org/abs/2309.07606v1)|null|

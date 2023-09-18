@@ -302,7 +302,7 @@
 |**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956v1](http://arxiv.org/abs/2309.05956v1)|null|
 |**2023-09-12**|**SAGE: Structured Attribute Value Generation for Billion-Scale Product Catalogs**|Athanasios N. Nikolakopoulos et.al.|[2309.05920v1](http://arxiv.org/abs/2309.05920v1)|null|
 |**2023-09-12**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v1](http://arxiv.org/abs/2309.05904v1)|null|
-|**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|null|
+|**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|**[link](https://github.com/microsoft/clap)**|
 |**2023-09-11**|**Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP**|Wei Du et.al.|[2309.05619v1](http://arxiv.org/abs/2309.05619v1)|null|
 |**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527v1](http://arxiv.org/abs/2309.05527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|
 |**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499v1](http://arxiv.org/abs/2309.05499v1)|null|
@@ -312,22 +312,22 @@
 |**2023-09-10**|**The Impact of AI in Physics Education: A Comprehensive Review from GCSE to University Levels**|Will Yeadon et.al.|[2309.05163v1](http://arxiv.org/abs/2309.05163v1)|null|
 |**2023-09-10**|**Exploiting CLIP for Zero-shot HOI Detection Requires Knowledge Distillation at Multiple Levels**|Bo Wan et.al.|[2309.05069v1](http://arxiv.org/abs/2309.05069v1)|**[link](https://github.com/bobwan1995/zeroshot-hoi-with-clip)**|
 |**2023-09-10**|**Mitigating Word Bias in Zero-shot Prompt-based Classifiers**|Adian Liusie et.al.|[2309.04992v1](http://arxiv.org/abs/2309.04992v1)|null|
-|**2023-09-09**|**Relative representations for cognitive graphs**|Alex B. Kiefer et.al.|[2309.04653v1](http://arxiv.org/abs/2309.04653v1)|null|
+|**2023-09-09**|**Relative representations for cognitive graphs**|Alex B. Kiefer et.al.|[2309.04653v1](http://arxiv.org/abs/2309.04653v1)|**[link](https://github.com/exilefaker/cscg-rr)**|
 |**2023-09-08**|**Measuring and Improving Chain-of-Thought Reasoning in Vision-Language Models**|Yangyi Chen et.al.|[2309.04461v1](http://arxiv.org/abs/2309.04461v1)|**[link](https://github.com/yangyi-chen/cotconsistency)**|
 |**2023-09-08**|**MoEController: Instruction-based Arbitrary Image Manipulation with Mixture-of-Expert Controllers**|Sijia Li et.al.|[2309.04372v1](http://arxiv.org/abs/2309.04372v1)|null|
-|**2023-09-08**|**Zero-Shot Robustification of Zero-Shot Models With Foundation Models**|Dyah Adila et.al.|[2309.04344v1](http://arxiv.org/abs/2309.04344v1)|null|
+|**2023-09-08**|**Zero-Shot Robustification of Zero-Shot Models With Foundation Models**|Dyah Adila et.al.|[2309.04344v1](http://arxiv.org/abs/2309.04344v1)|**[link](https://github.com/sprocketlab/roboshot)**|
 |**2023-09-08**|**Context-Aware Prompt Tuning for Vision-Language Model with Dual-Alignment**|Hongyu Hu et.al.|[2309.04158v1](http://arxiv.org/abs/2309.04158v1)|null|
 |**2023-09-07**|**S-Adapter: Generalizing Vision Transformer for Face Anti-Spoofing with Statistical Tokens**|Rizhao Cai et.al.|[2309.04038v1](http://arxiv.org/abs/2309.04038v1)|null|
 |**2023-09-07**|**Exploring Sparse MoE in GANs for Text-conditioned Image Synthesis**|Jiapeng Zhu et.al.|[2309.03904v1](http://arxiv.org/abs/2309.03904v1)|**[link](https://github.com/zhujiapeng/aurora)**|
 |**2023-09-07**|**Zero-Shot Audio Captioning via Audibility Guidance**|Tal Shaharabany et.al.|[2309.03884v1](http://arxiv.org/abs/2309.03884v1)|null|
 |**2023-09-07**|**Introducing "Forecast Utterance" for Conversational Data Science**|Md Mahadi Hassan et.al.|[2309.03877v1](http://arxiv.org/abs/2309.03877v1)|null|
 |**2023-09-07**|**Evaluating ChatGPT as a Recommender System: A Rigorous Approach**|Dario Di Palma et.al.|[2309.03613v1](http://arxiv.org/abs/2309.03613v1)|**[link](https://github.com/sisinflab/Recommender-ChatGPT)**|
-|**2023-09-07**|**Evaluating the Efficacy of Supervised Learning vs Large Language Models for Identifying Cognitive Distortions and Suicidal Risks in Chinese Social Media**|Hongzhi Qi et.al.|[2309.03564v1](http://arxiv.org/abs/2309.03564v1)|null|
+|**2023-09-07**|**Evaluating the Efficacy of Supervised Learning vs Large Language Models for Identifying Cognitive Distortions and Suicidal Risks in Chinese Social Media**|Hongzhi Qi et.al.|[2309.03564v1](http://arxiv.org/abs/2309.03564v1)|**[link](https://github.com/thudm/chatglm2-6b)**|
 |**2023-09-08**|**All Labels Together: Low-shot Intent Detection with an Efficient Label Semantic Encoding Paradigm**|Jiangshu Du et.al.|[2309.03563v2](http://arxiv.org/abs/2309.03563v2)|null|
 |**2023-09-07**|**Zero-Shot Scene Graph Generation via Triplet Calibration and Reduction**|Jiankai Li et.al.|[2309.03542v1](http://arxiv.org/abs/2309.03542v1)|null|
 |**2023-09-06**|**Robotic Table Tennis: A Case Study into a High Speed Learning System**|David B. D'Ambrosio et.al.|[2309.03315v1](http://arxiv.org/abs/2309.03315v1)|null|
 |**2023-09-06**|**Knowledge Solver: Teaching LLMs to Search for Domain Knowledge from Knowledge Graphs**|Chao Feng et.al.|[2309.03118v1](http://arxiv.org/abs/2309.03118v1)|null|
-|**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|null|
+|**2023-09-06**|**Prompt-based Effective Input Reformulation for Legal Case Retrieval**|Yanran Tang et.al.|[2309.02962v1](http://arxiv.org/abs/2309.02962v1)|**[link](https://github.com/yanran-tang/promptcase)**|
 |**2023-09-06**|**Prompt-based Node Feature Extractor for Few-shot Learning on Text-Attributed Graphs**|Xuanwen Huang et.al.|[2309.02848v1](http://arxiv.org/abs/2309.02848v1)|null|
 |**2023-09-06**|**GRASS: Unified Generation Model for Speech Semantic Understanding**|Aobo Xia et.al.|[2309.02780v1](http://arxiv.org/abs/2309.02780v1)|**[link](https://github.com/aoboxia/grass)**|
 |**2023-09-06**|**Pre- and post-contact policy decomposition for non-prehensile manipulation with zero-shot sim-to-real transfer**|Minchan Kim et.al.|[2309.02754v1](http://arxiv.org/abs/2309.02754v1)|null|
@@ -340,7 +340,7 @@
 |**2023-09-06**|**An Empirical Analysis for Zero-Shot Multi-Label Classification on COVID-19 CT Scans and Uncurated Reports**|Ethan Dack et.al.|[2309.01740v2](http://arxiv.org/abs/2309.01740v2)|null|
 |**2023-09-04**|**MathAttack: Attacking Large Language Models Towards Math Solving Ability**|Zihao Zhou et.al.|[2309.01686v1](http://arxiv.org/abs/2309.01686v1)|null|
 |**2023-09-04**|**Fine-grained Affective Processing Capabilities Emerging from Large Language Models**|Joost Broekens et.al.|[2309.01664v1](http://arxiv.org/abs/2309.01664v1)|null|
-|**2023-09-04**|**MultiWay-Adapater: Adapting large-scale multi-modal models for scalable image-text retrieval**|Zijun Long et.al.|[2309.01516v1](http://arxiv.org/abs/2309.01516v1)|null|
+|**2023-09-04**|**MultiWay-Adapater: Adapting large-scale multi-modal models for scalable image-text retrieval**|Zijun Long et.al.|[2309.01516v1](http://arxiv.org/abs/2309.01516v1)|**[link](https://github.com/longkukuhi/multiway-adapter)**|
 |**2023-09-04**|**Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images**|Lei Ding et.al.|[2309.01429v1](http://arxiv.org/abs/2309.01429v1)|**[link](https://github.com/ggsding/sam-cd)**|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526v1](http://arxiv.org/abs/2309.00526v1)|null|
 |**2023-09-01**|**BatchPrompt: Accomplish more with less**|Jianzhe Lin et.al.|[2309.00384v1](http://arxiv.org/abs/2309.00384v1)|null|
@@ -352,7 +352,7 @@
 |**2023-08-31**|**Neural Gradient Regularizer**|Shuang Xu et.al.|[2308.16612v1](http://arxiv.org/abs/2308.16612v1)|**[link](https://github.com/yyfz/neural-gradient-regularizer)**|
 |**2023-08-31**|**Effective Test Generation Using Pre-trained Large Language Models and Mutation Testing**|Arghavan Moradi Dakhel et.al.|[2308.16557v1](http://arxiv.org/abs/2308.16557v1)|**[link](https://github.com/expertisemodel/mutap)**|
 |**2023-08-31**|**PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords**|Yong-Hyeok Lee et.al.|[2308.16511v1](http://arxiv.org/abs/2308.16511v1)|**[link](https://github.com/ncsoft/phonmatchnet)**|
-|**2023-08-31**|**Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**|Yupan Huang et.al.|[2308.16463v1](http://arxiv.org/abs/2308.16463v1)|null|
+|**2023-08-31**|**Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models**|Yupan Huang et.al.|[2308.16463v1](http://arxiv.org/abs/2308.16463v1)|**[link](https://github.com/hypjudy/sparkles)**|
 |**2023-08-30**|**Response: Emergent analogical reasoning in large language models**|Damian Hodel et.al.|[2308.16118v1](http://arxiv.org/abs/2308.16118v1)|**[link](https://github.com/hodeld/emergent_analogies_llm_fork)**|
 |**2023-08-30**|**DiffuVolume: Diffusion Model for Volume based Stereo Matching**|Dian Zheng et.al.|[2308.15989v1](http://arxiv.org/abs/2308.15989v1)|null|
 |**2023-08-30**|**AnoVL: Adapting Vision-Language Models for Unified Zero-shot Anomaly Localization**|Hanqiu Deng et.al.|[2308.15939v1](http://arxiv.org/abs/2308.15939v1)|**[link](https://github.com/hq-deng/AnoVL)**|

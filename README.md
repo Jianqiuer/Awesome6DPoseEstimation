@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**|Surbhi Madan et.al.|[2309.10765v1](http://arxiv.org/abs/2309.10765v1)|**[link](https://github.com/surbhimadan92/magic-tbr)**|
+|**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748v1](http://arxiv.org/abs/2309.10748v1)|null|
+|**2023-09-19**|**GloPro: Globally-Consistent Uncertainty-Aware 3D Human Pose Estimation & Tracking in the Wild**|Simon Schaefer et.al.|[2309.10369v1](http://arxiv.org/abs/2309.10369v1)|null|
+|**2023-09-19**|**RGB-based Category-level Object Pose Estimation via Decoupled Metric Scale Recovery**|Jiaxin Wei et.al.|[2309.10255v1](http://arxiv.org/abs/2309.10255v1)|null|
 |**2023-09-18**|**Hierarchical Attention and Graph Neural Networks: Toward Drift-Free Pose Estimation**|Kathia Melbouci et.al.|[2309.09934v1](http://arxiv.org/abs/2309.09934v1)|null|
 |**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563v1](http://arxiv.org/abs/2309.09563v1)|null|
@@ -210,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
 |**2023-09-17**|**Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control**|Abdullah Altawaitan et.al.|[2309.09163v1](http://arxiv.org/abs/2309.09163v1)|null|
 |**2023-09-16**|**FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization**|Nan Ma et.al.|[2309.08966v1](http://arxiv.org/abs/2309.08966v1)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|null|
@@ -301,6 +306,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783v1](http://arxiv.org/abs/2309.10783v1)|null|
+|**2023-09-19**|**Learning Tri-modal Embeddings for Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2309.10667v1](http://arxiv.org/abs/2309.10667v1)|null|
+|**2023-09-19**|**Harnessing the Zero-Shot Power of Instruction-Tuned Large Language Model in End-to-End Speech Recognition**|Yosuke Higuchi et.al.|[2309.10524v1](http://arxiv.org/abs/2309.10524v1)|null|
+|**2023-09-19**|**Augmenting Tactile Simulators with Real-like and Zero-Shot Capabilities**|Osher Azulay et.al.|[2309.10409v1](http://arxiv.org/abs/2309.10409v1)|null|
+|**2023-09-19**|**Computational Approaches for App-to-App Retrieval and Design Consistency Check**|Seokhyeon Park et.al.|[2309.10328v1](http://arxiv.org/abs/2309.10328v1)|null|
+|**2023-09-19**|**Bridging Zero-shot Object Navigation and Foundation Models through Pixel-Guided Navigation Skill**|Wenzhe Cai et.al.|[2309.10309v1](http://arxiv.org/abs/2309.10309v1)|null|
+|**2023-09-19**|**Using fine-tuning and min lookahead beam search to improve Whisper**|Andrea Do et.al.|[2309.10299v1](http://arxiv.org/abs/2309.10299v1)|null|
+|**2023-09-19**|**PolicyGPT: Automated Analysis of Privacy Policies with Large Language Models**|Chenhao Tang et.al.|[2309.10238v1](http://arxiv.org/abs/2309.10238v1)|null|
+|**2023-09-18**|**Image-Text Pre-Training for Logo Recognition**|Mark Hubenthal et.al.|[2309.10206v1](http://arxiv.org/abs/2309.10206v1)|null|
+|**2023-09-18**|**Evaluation of GPT-3 for Anti-Cancer Drug Sensitivity Prediction**|Shaika Chowdhury et.al.|[2309.10016v1](http://arxiv.org/abs/2309.10016v1)|null|
 |**2023-09-18**|**Zero-Shot Policy Transferability for the Control of a Scale Autonomous Vehicle**|Harry Zhang et.al.|[2309.09870v1](http://arxiv.org/abs/2309.09870v1)|null|
 |**2023-09-18**|**Contrastive Learning for Enhancing Robust Scene Transfer in Vision-based Agile Flight**|Jiaxu Xing et.al.|[2309.09865v1](http://arxiv.org/abs/2309.09865v1)|null|
 |**2023-09-18**|**Grasp-Anything: Large-scale Grasp Dataset from Foundation Models**|An Dinh Vuong et.al.|[2309.09818v1](http://arxiv.org/abs/2309.09818v1)|null|

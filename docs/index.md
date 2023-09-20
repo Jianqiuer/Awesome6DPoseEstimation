@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.19
+## Updated on 2023.09.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2023-09-18**|**Application-driven Validation of Posteriors in Inverse Problems**|Tim J. Adler et.al.|[2309.09764v1](http://arxiv.org/abs/2309.09764v1)|null|
 |**2023-09-18**|**RIDE: Self-Supervised Learning of Rotation-Equivariant Keypoint Detection and Invariant Description for Endoscopy**|Mert Asim Karaoglu et.al.|[2309.09563v1](http://arxiv.org/abs/2309.09563v1)|null|
 |**2023-09-18**|**Sparse and Privacy-enhanced Representation for Human Pose Estimation**|Ting-Ying Lin et.al.|[2309.09515v1](http://arxiv.org/abs/2309.09515v1)|null|
-|**2023-09-17**|**RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation**|Lijun Li et.al.|[2309.09301v1](http://arxiv.org/abs/2309.09301v1)|**[link](https://github.com/adwardlee/renderih)**|
+|**2023-09-19**|**RenderIH: A Large-scale Synthetic Dataset for 3D Interacting Hand Pose Estimation**|Lijun Li et.al.|[2309.09301v2](http://arxiv.org/abs/2309.09301v2)|**[link](https://github.com/adwardlee/renderih)**|
 |**2023-09-16**|**Optimal Initialization Strategies for Range-Only Trajectory Estimation**|Abhishek Goudar et.al.|[2309.09011v1](http://arxiv.org/abs/2309.09011v1)|null|
 |**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927v1](http://arxiv.org/abs/2309.08927v1)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|null|

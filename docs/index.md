@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -273,8 +273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**Towards Robust Few-shot Point Cloud Semantic Segmentation**|Yating Xu et.al.|[2309.11228v1](http://arxiv.org/abs/2309.11228v1)|null|
-|**2023-09-20**|**Generalized Few-Shot Point Cloud Segmentation Via Geometric Words**|Yating Xu et.al.|[2309.11222v1](http://arxiv.org/abs/2309.11222v1)|null|
+|**2023-09-20**|**Towards Robust Few-shot Point Cloud Semantic Segmentation**|Yating Xu et.al.|[2309.11228v1](http://arxiv.org/abs/2309.11228v1)|**[link](https://github.com/Pixie8888/R3DFSSeg)**|
+|**2023-09-20**|**Generalized Few-Shot Point Cloud Segmentation Via Geometric Words**|Yating Xu et.al.|[2309.11222v1](http://arxiv.org/abs/2309.11222v1)|**[link](https://github.com/Pixie8888/GFS-3DSeg_GWs)**|
 |**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619v2](http://arxiv.org/abs/2308.14619v2)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
 |**2023-08-22**|**Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation**|Zongyi Xu et.al.|[2308.11166v1](http://arxiv.org/abs/2308.11166v1)|**[link](https://github.com/smiletoe/hpal)**|
 |**2023-08-14**|**Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid**|Alexander Kyuroson et.al.|[2308.07283v1](http://arxiv.org/abs/2308.07283v1)|null|
@@ -299,11 +299,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|null|
+|**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
 |**2023-09-20**|**Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions**|Yuxing Long et.al.|[2309.11382v1](http://arxiv.org/abs/2309.11382v1)|null|
 |**2023-09-20**|**Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning**|Jingkai Sun et.al.|[2309.11359v1](http://arxiv.org/abs/2309.11359v1)|null|
 |**2023-09-20**|**Making Small Language Models Better Multi-task Learners with Mixture-of-Task-Adapters**|Yukang Xie et.al.|[2309.11042v1](http://arxiv.org/abs/2309.11042v1)|null|
-|**2023-09-19**|**Self-Augmentation Improves Zero-Shot Cross-Lingual Transfer**|Fei Wang et.al.|[2309.10891v1](http://arxiv.org/abs/2309.10891v1)|null|
+|**2023-09-19**|**Self-Augmentation Improves Zero-Shot Cross-Lingual Transfer**|Fei Wang et.al.|[2309.10891v1](http://arxiv.org/abs/2309.10891v1)|**[link](https://github.com/luka-group/SALT)**|
 |**2023-09-19**|**Language as the Medium: Multimodal Video Classification through text only**|Laura Hanu et.al.|[2309.10783v1](http://arxiv.org/abs/2309.10783v1)|null|
 |**2023-09-19**|**Learning Tri-modal Embeddings for Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2309.10667v1](http://arxiv.org/abs/2309.10667v1)|null|
 |**2023-09-19**|**Harnessing the Zero-Shot Power of Instruction-Tuned Large Language Model in End-to-End Speech Recognition**|Yosuke Higuchi et.al.|[2309.10524v1](http://arxiv.org/abs/2309.10524v1)|null|

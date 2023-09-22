@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
+|**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
+|**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962v1](http://arxiv.org/abs/2309.11962v1)|null|
+|**2023-09-21**|**A Real-Time Multi-Task Learning System for Joint Detection of Face, Facial Landmark and Head Pose**|Qingtian Wu et.al.|[2309.11773v1](http://arxiv.org/abs/2309.11773v1)|null|
+|**2023-09-20**|**Understanding Pose and Appearance Disentanglement in 3D Human Pose Estimation**|Krishna Kanth Nakka et.al.|[2309.11667v1](http://arxiv.org/abs/2309.11667v1)|null|
+|**2023-09-20**|**Online Supervised Training of Spaceborne Vision during Proximity Operations using Adaptive Kalman Filtering**|Tae Ha Park et.al.|[2309.11645v1](http://arxiv.org/abs/2309.11645v1)|null|
 |**2023-09-20**|**OCC-VO: Dense Mapping via 3D Occupancy-Based Visual Odometry for Autonomous Driving**|Heng Li et.al.|[2309.11011v1](http://arxiv.org/abs/2309.11011v1)|null|
 |**2023-09-19**|**Language-Conditioned Affordance-Pose Detection in 3D Point Clouds**|Toan Nguyen et.al.|[2309.10911v1](http://arxiv.org/abs/2309.10911v1)|null|
 |**2023-09-19**|**MAGIC-TBR: Multiview Attention Fusion for Transformer-based Bodily Behavior Recognition in Group Settings**|Surbhi Madan et.al.|[2309.10765v1](http://arxiv.org/abs/2309.10765v1)|**[link](https://github.com/surbhimadan92/magic-tbr)**|
@@ -299,6 +305,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**|Kan Wu et.al.|[2309.12314v1](http://arxiv.org/abs/2309.12314v1)|null|
+|**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
+|**2023-09-21**|**SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs**|Guangyao Zhai et.al.|[2309.12188v1](http://arxiv.org/abs/2309.12188v1)|null|
+|**2023-09-21**|**SANPO: A Scene Understanding, Accessibility, Navigation, Pathfinding, Obstacle Avoidance Dataset**|Sagar M. Waghmare et.al.|[2309.12172v1](http://arxiv.org/abs/2309.12172v1)|null|
+|**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110v1](http://arxiv.org/abs/2309.12110v1)|null|
+|**2023-09-21**|**BELT:Bootstrapping Electroencephalography-to-Language Decoding and Zero-Shot Sentiment Classification by Natural Language Supervision**|Jinzhao Zhou et.al.|[2309.12056v1](http://arxiv.org/abs/2309.12056v1)|null|
+|**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
+|**2023-09-21**|**Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts**|Shun Lei et.al.|[2309.11977v1](http://arxiv.org/abs/2309.11977v1)|null|
+|**2023-09-21**|**Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation**|Xinyu Tang et.al.|[2309.11765v1](http://arxiv.org/abs/2309.11765v1)|**[link](https://github.com/microsoft/dp-few-shot-generation)**|
+|**2023-09-21**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu et.al.|[2309.11756v1](http://arxiv.org/abs/2309.11756v1)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
 |**2023-09-20**|**Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions**|Yuxing Long et.al.|[2309.11382v1](http://arxiv.org/abs/2309.11382v1)|null|
 |**2023-09-20**|**Prompt, Plan, Perform: LLM-based Humanoid Control via Quantized Imitation Learning**|Jingkai Sun et.al.|[2309.11359v1](http://arxiv.org/abs/2309.11359v1)|null|

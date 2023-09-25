@@ -317,6 +317,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-22**|**Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models**|Haoyu Gao et.al.|[2309.12940v1](http://arxiv.org/abs/2309.12940v1)|null|
+|**2023-09-22**|**Affect Recognition in Conversations Using Large Language Models**|Shutong Feng et.al.|[2309.12881v1](http://arxiv.org/abs/2309.12881v1)|null|
+|**2023-09-22**|**Is it Possible to Modify Text to a Target Readability Level? An Initial Investigation Using Zero-Shot Large Language Models**|Asma Farajidizaji et.al.|[2309.12551v1](http://arxiv.org/abs/2309.12551v1)|null|
+|**2023-09-21**|**Can LLMs Augment Low-Resource Reading Comprehension Datasets? Opportunities and Challenges**|Vinay Samuel et.al.|[2309.12426v1](http://arxiv.org/abs/2309.12426v1)|null|
 |**2023-09-21**|**TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance**|Kan Wu et.al.|[2309.12314v1](http://arxiv.org/abs/2309.12314v1)|null|
 |**2023-09-21**|**LLM-Grounder: Open-Vocabulary 3D Visual Grounding with Large Language Model as an Agent**|Jianing Yang et.al.|[2309.12311v1](http://arxiv.org/abs/2309.12311v1)|null|
 |**2023-09-21**|**SG-Bot: Object Rearrangement via Coarse-to-Fine Robotic Imagination on Scene Graphs**|Guangyao Zhai et.al.|[2309.12188v1](http://arxiv.org/abs/2309.12188v1)|null|

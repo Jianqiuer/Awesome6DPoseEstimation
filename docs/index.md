@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -312,7 +312,7 @@ layout: default
 |**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110v1](http://arxiv.org/abs/2309.12110v1)|null|
 |**2023-09-21**|**BELT:Bootstrapping Electroencephalography-to-Language Decoding and Zero-Shot Sentiment Classification by Natural Language Supervision**|Jinzhao Zhou et.al.|[2309.12056v1](http://arxiv.org/abs/2309.12056v1)|null|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
-|**2023-09-21**|**Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts**|Shun Lei et.al.|[2309.11977v1](http://arxiv.org/abs/2309.11977v1)|null|
+|**2023-09-22**|**Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts**|Shun Lei et.al.|[2309.11977v2](http://arxiv.org/abs/2309.11977v2)|null|
 |**2023-09-21**|**Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation**|Xinyu Tang et.al.|[2309.11765v1](http://arxiv.org/abs/2309.11765v1)|**[link](https://github.com/microsoft/dp-few-shot-generation)**|
 |**2023-09-21**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu et.al.|[2309.11756v1](http://arxiv.org/abs/2309.11756v1)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|

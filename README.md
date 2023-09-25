@@ -1,4 +1,4 @@
-## Updated on 2023.09.24
+## Updated on 2023.09.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -216,7 +216,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -283,7 +283,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -311,7 +311,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -324,7 +324,7 @@
 |**2023-09-21**|**Exploiting CLIP-based Multi-modal Approach for Artwork Classification and Retrieval**|Alberto Baldrati et.al.|[2309.12110v1](http://arxiv.org/abs/2309.12110v1)|null|
 |**2023-09-21**|**BELT:Bootstrapping Electroencephalography-to-Language Decoding and Zero-Shot Sentiment Classification by Natural Language Supervision**|Jinzhao Zhou et.al.|[2309.12056v1](http://arxiv.org/abs/2309.12056v1)|null|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
-|**2023-09-21**|**Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts**|Shun Lei et.al.|[2309.11977v1](http://arxiv.org/abs/2309.11977v1)|null|
+|**2023-09-22**|**Improving Language Model-Based Zero-Shot Text-to-Speech Synthesis with Multi-Scale Acoustic Prompts**|Shun Lei et.al.|[2309.11977v2](http://arxiv.org/abs/2309.11977v2)|null|
 |**2023-09-21**|**Privacy-Preserving In-Context Learning with Differentially Private Few-Shot Generation**|Xinyu Tang et.al.|[2309.11765v1](http://arxiv.org/abs/2309.11765v1)|**[link](https://github.com/microsoft/dp-few-shot-generation)**|
 |**2023-09-21**|**Sparsely Shared LoRA on Whisper for Child Speech Recognition**|Wei Liu et.al.|[2309.11756v1](http://arxiv.org/abs/2309.11756v1)|null|
 |**2023-09-20**|**DreamLLM: Synergistic Multimodal Comprehension and Creation**|Runpei Dong et.al.|[2309.11499v1](http://arxiv.org/abs/2309.11499v1)|**[link](https://github.com/RunpeiDong/DreamLLM)**|
@@ -694,5 +694,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230924>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
 

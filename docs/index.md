@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -215,7 +215,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-20**|**AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration**|Zheng Dang et.al.|[2309.11170v1](http://arxiv.org/abs/2309.11170v1)|null|
-|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|null|
+|**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-17**|**Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control**|Abdullah Altawaitan et.al.|[2309.09163v1](http://arxiv.org/abs/2309.09163v1)|null|
 |**2023-09-16**|**FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization**|Nan Ma et.al.|[2309.08966v1](http://arxiv.org/abs/2309.08966v1)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|null|

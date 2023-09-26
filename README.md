@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**|Yinan Meng et.al.|[2309.14279v1](http://arxiv.org/abs/2309.14279v1)|null|
+|**2023-09-25**|**Industrial Application of 6D Pose Estimation for Robotic Manipulation in Automotive Internal Logistics**|Philipp Quentin et.al.|[2309.14265v1](http://arxiv.org/abs/2309.14265v1)|null|
+|**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072v1](http://arxiv.org/abs/2309.14072v1)|**[link](https://github.com/uyoung-jeong/BoIR)**|
+|**2023-09-24**|**Towards Subcentimeter Accuracy Digital-Twin Tracking via An RGBD-based Transformer Model and A Comprehensive Mobile Dataset**|Zixun Huang et.al.|[2309.13570v1](http://arxiv.org/abs/2309.13570v1)|null|
 |**2023-09-21**|**ORTexME: Occlusion-Robust Human Shape and Pose via Temporal Average Texture and Mesh Encoding**|Yu Cheng et.al.|[2309.12183v1](http://arxiv.org/abs/2309.12183v1)|null|
 |**2023-09-21**|**ZS6D: Zero-shot 6D Object Pose Estimation using Vision Transformers**|Philipp Ausserlechner et.al.|[2309.11986v1](http://arxiv.org/abs/2309.11986v1)|null|
 |**2023-09-21**|**Ego3DPose: Capturing 3D Cues from Binocular Egocentric Views**|Taeho Kang et.al.|[2309.11962v1](http://arxiv.org/abs/2309.11962v1)|null|
@@ -317,6 +321,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289v1](http://arxiv.org/abs/2309.14289v1)|null|
+|**2023-09-25**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v1](http://arxiv.org/abs/2309.14183v1)|null|
+|**2023-09-25**|**VidChapters-7M: Video Chapters at Scale**|Antoine Yang et.al.|[2309.13952v1](http://arxiv.org/abs/2309.13952v1)|**[link](https://github.com/antoyang/VidChapters)**|
+|**2023-09-25**|**Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**|Yifan Peng et.al.|[2309.13876v1](http://arxiv.org/abs/2309.13876v1)|null|
+|**2023-09-25**|**Dual Feature Augmentation Network for Generalized Zero-shot Learning**|Lei Xiang et.al.|[2309.13833v1](http://arxiv.org/abs/2309.13833v1)|null|
+|**2023-09-24**|**Policy Stitching: Learning Transferable Robot Policies**|Pingcheng Jian et.al.|[2309.13753v1](http://arxiv.org/abs/2309.13753v1)|null|
+|**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
+|**2023-09-24**|**MentalLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models**|Kailai Yang et.al.|[2309.13567v1](http://arxiv.org/abs/2309.13567v1)|null|
+|**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|null|
+|**2023-09-24**|**Bridging Semantic Gaps for Language-Supervised Semantic Segmentation**|Yun Xing et.al.|[2309.13505v1](http://arxiv.org/abs/2309.13505v1)|null|
 |**2023-09-22**|**Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models**|Haoyu Gao et.al.|[2309.12940v1](http://arxiv.org/abs/2309.12940v1)|null|
 |**2023-09-22**|**Affect Recognition in Conversations Using Large Language Models**|Shutong Feng et.al.|[2309.12881v1](http://arxiv.org/abs/2309.12881v1)|null|
 |**2023-09-22**|**Is it Possible to Modify Text to a Target Readability Level? An Initial Investigation Using Zero-Shot Large Language Models**|Asma Farajidizaji et.al.|[2309.12551v1](http://arxiv.org/abs/2309.12551v1)|null|

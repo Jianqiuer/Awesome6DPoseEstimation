@@ -1,4 +1,4 @@
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -220,7 +220,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -287,7 +287,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -315,14 +315,14 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289v1](http://arxiv.org/abs/2309.14289v1)|null|
-|**2023-09-25**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v1](http://arxiv.org/abs/2309.14183v1)|null|
+|**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
 |**2023-09-25**|**VidChapters-7M: Video Chapters at Scale**|Antoine Yang et.al.|[2309.13952v1](http://arxiv.org/abs/2309.13952v1)|**[link](https://github.com/antoyang/VidChapters)**|
 |**2023-09-25**|**Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**|Yifan Peng et.al.|[2309.13876v1](http://arxiv.org/abs/2309.13876v1)|null|
 |**2023-09-25**|**Dual Feature Augmentation Network for Generalized Zero-shot Learning**|Lei Xiang et.al.|[2309.13833v1](http://arxiv.org/abs/2309.13833v1)|null|
@@ -712,5 +712,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230927>back to top</a>)</p>
 

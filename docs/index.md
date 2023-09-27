@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.26
+## Updated on 2023.09.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -310,7 +310,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289v1](http://arxiv.org/abs/2309.14289v1)|null|
-|**2023-09-25**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v1](http://arxiv.org/abs/2309.14183v1)|null|
+|**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
 |**2023-09-25**|**VidChapters-7M: Video Chapters at Scale**|Antoine Yang et.al.|[2309.13952v1](http://arxiv.org/abs/2309.13952v1)|**[link](https://github.com/antoyang/VidChapters)**|
 |**2023-09-25**|**Reproducing Whisper-Style Training Using an Open-Source Toolkit and Publicly Available Data**|Yifan Peng et.al.|[2309.13876v1](http://arxiv.org/abs/2309.13876v1)|null|
 |**2023-09-25**|**Dual Feature Augmentation Network for Generalized Zero-shot Learning**|Lei Xiang et.al.|[2309.13833v1](http://arxiv.org/abs/2309.13833v1)|null|

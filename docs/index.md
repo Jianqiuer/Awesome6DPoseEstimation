@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865v1](http://arxiv.org/abs/2309.14865v1)|null|
+|**2023-09-26**|**Learning Vision-Based Bipedal Locomotion for Challenging Terrain**|Helei Duan et.al.|[2309.14594v1](http://arxiv.org/abs/2309.14594v1)|null|
 |**2023-09-25**|**Spring-IMU Fusion Based Proprioception for Feedback Control of Soft Manipulators**|Yinan Meng et.al.|[2309.14279v1](http://arxiv.org/abs/2309.14279v1)|null|
 |**2023-09-25**|**Industrial Application of 6D Pose Estimation for Robotic Manipulation in Automotive Internal Logistics**|Philipp Quentin et.al.|[2309.14265v1](http://arxiv.org/abs/2309.14265v1)|null|
 |**2023-09-25**|**BoIR: Box-Supervised Instance Representation for Multi-Person Pose Estimation**|Uyoung Jeong et.al.|[2309.14072v1](http://arxiv.org/abs/2309.14072v1)|**[link](https://github.com/uyoung-jeong/BoIR)**|
@@ -218,6 +220,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration**|Shuhao Kang et.al.|[2309.14660v1](http://arxiv.org/abs/2309.14660v1)|null|
 |**2023-09-20**|**AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration**|Zheng Dang et.al.|[2309.11170v1](http://arxiv.org/abs/2309.11170v1)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
 |**2023-09-17**|**Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control**|Abdullah Altawaitan et.al.|[2309.09163v1](http://arxiv.org/abs/2309.09163v1)|null|
@@ -283,6 +286,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932v1](http://arxiv.org/abs/2309.14932v1)|null|
 |**2023-09-20**|**Towards Robust Few-shot Point Cloud Semantic Segmentation**|Yating Xu et.al.|[2309.11228v1](http://arxiv.org/abs/2309.11228v1)|null|
 |**2023-09-20**|**Generalized Few-Shot Point Cloud Segmentation Via Geometric Words**|Yating Xu et.al.|[2309.11222v1](http://arxiv.org/abs/2309.11222v1)|**[link](https://github.com/Pixie8888/GFS-3DSeg_GWs)**|
 |**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619v2](http://arxiv.org/abs/2308.14619v2)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
@@ -309,6 +313,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-26**|**Doduo: Learning Dense Visual Correspondence from Unsupervised Semantic-Aware Flow**|Zhenyu Jiang et.al.|[2309.15110v1](http://arxiv.org/abs/2309.15110v1)|null|
+|**2023-09-26**|**RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models**|Ronak Pradeep et.al.|[2309.15088v1](http://arxiv.org/abs/2309.15088v1)|**[link](https://github.com/castorini/rank_llm)**|
+|**2023-09-26**|**Noise-Tolerant Unsupervised Adapter for Vision-Language Models**|Eman Ali et.al.|[2309.14928v1](http://arxiv.org/abs/2309.14928v1)|null|
+|**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779v1](http://arxiv.org/abs/2309.14779v1)|null|
+|**2023-09-26**|**Are Human-generated Demonstrations Necessary for In-context Learning?**|Rui Li et.al.|[2309.14681v1](http://arxiv.org/abs/2309.14681v1)|**[link](https://github.com/ruili33/sec)**|
+|**2023-09-26**|**ZiCo-BC: A Bias Corrected Zero-Shot NAS for Vision Tasks**|Kartikeya Bhardwaj et.al.|[2309.14666v1](http://arxiv.org/abs/2309.14666v1)|null|
+|**2023-09-26**|**CWCL: Cross-Modal Transfer with Continuously Weighted Contrastive Loss**|Rakshith Sharma Srinivasa et.al.|[2309.14580v1](http://arxiv.org/abs/2309.14580v1)|null|
+|**2023-09-25**|**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**|Hanzhuo Huang et.al.|[2309.14494v1](http://arxiv.org/abs/2309.14494v1)|**[link](https://github.com/soolab/free-bloom)**|
 |**2023-09-25**|**CLIP-DIY: CLIP Dense Inference Yields Open-Vocabulary Semantic Segmentation For-Free**|Monika Wysoczańska et.al.|[2309.14289v1](http://arxiv.org/abs/2309.14289v1)|null|
 |**2023-09-26**|**Species196: A One-Million Semi-supervised Dataset for Fine-grained Species Recognition**|Wei He et.al.|[2309.14183v2](http://arxiv.org/abs/2309.14183v2)|null|
 |**2023-09-25**|**VidChapters-7M: Video Chapters at Scale**|Antoine Yang et.al.|[2309.13952v1](http://arxiv.org/abs/2309.13952v1)|**[link](https://github.com/antoyang/VidChapters)**|

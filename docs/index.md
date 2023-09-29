@@ -7,6 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634v1](http://arxiv.org/abs/2309.16634v1)|null|
+|**2023-09-28**|**Off-the-shelf bin picking workcell with visual pose estimation: A case study on the world robot summit 2018 kitting task**|Frederik Hagelskjær et.al.|[2309.16221v1](http://arxiv.org/abs/2309.16221v1)|null|
+|**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189v1](http://arxiv.org/abs/2309.16189v1)|null|
+|**2023-09-28**|**Laboratory Automation: Precision Insertion with Adaptive Fingers utilizing Contact through Sliding with Tactile-based Pose Estimation**|Sameer Pai et.al.|[2309.16170v1](http://arxiv.org/abs/2309.16170v1)|null|
+|**2023-09-28**|**CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**|Shaoxiang Guo et.al.|[2309.16140v1](http://arxiv.org/abs/2309.16140v1)|null|
+|**2023-09-28**|**A Modular Bio-inspired Robotic Hand with High Sensitivity**|Chao Liu et.al.|[2309.16081v1](http://arxiv.org/abs/2309.16081v1)|null|
+|**2023-09-27**|**Handbook on Leveraging Lines for Two-View Relative Pose Estimation**|Petr Hruby et.al.|[2309.16040v1](http://arxiv.org/abs/2309.16040v1)|null|
+|**2023-09-27**|**Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature**|Shengze Jin et.al.|[2309.16023v1](http://arxiv.org/abs/2309.16023v1)|null|
 |**2023-09-27**|**Analysis on Multi-robot Relative 6-DOF Pose Estimation Error Based on UWB Range**|Xinran Li et.al.|[2309.15367v1](http://arxiv.org/abs/2309.15367v1)|null|
 |**2023-09-26**|**Unsupervised Reconstruction of 3D Human Pose Interactions From 2D Poses Alone**|Peter Hardy et.al.|[2309.14865v1](http://arxiv.org/abs/2309.14865v1)|null|
 |**2023-09-26**|**Learning Vision-Based Bipedal Locomotion for Challenging Terrain**|Helei Duan et.al.|[2309.14594v1](http://arxiv.org/abs/2309.14594v1)|null|
@@ -221,6 +229,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-27**|**Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature**|Shengze Jin et.al.|[2309.16023v1](http://arxiv.org/abs/2309.16023v1)|null|
 |**2023-09-27**|**Partial Transport for Point-Cloud Registration**|Yikun Bai et.al.|[2309.15787v1](http://arxiv.org/abs/2309.15787v1)|null|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394v1](http://arxiv.org/abs/2309.15394v1)|null|
 |**2023-09-26**|**CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration**|Shuhao Kang et.al.|[2309.14660v1](http://arxiv.org/abs/2309.14660v1)|null|
@@ -316,6 +325,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|null|
+|**2023-09-28**|**Unlikelihood Tuning on Negative Samples Amazingly Improves Zero-Shot Translation**|Changtong Zan et.al.|[2309.16599v1](http://arxiv.org/abs/2309.16599v1)|**[link](https://github.com/zanchangtong/unions)**|
+|**2023-09-28**|**Toloka Visual Question Answering Benchmark**|Dmitry Ustalov et.al.|[2309.16511v1](http://arxiv.org/abs/2309.16511v1)|null|
+|**2023-09-28**|**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**|Hui Zheng et.al.|[2309.16457v1](http://arxiv.org/abs/2309.16457v1)|null|
+|**2023-09-28**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414v1](http://arxiv.org/abs/2309.16414v1)|null|
+|**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137v1](http://arxiv.org/abs/2309.16137v1)|null|
+|**2023-09-28**|**D $^3$ Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation**|Yixuan Wang et.al.|[2309.16118v1](http://arxiv.org/abs/2309.16118v1)|null|
+|**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915v1](http://arxiv.org/abs/2309.15915v1)|null|
 |**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785v1](http://arxiv.org/abs/2309.15785v1)|null|
 |**2023-09-27**|**Speech collage: code-switched audio generation by collaging monolingual corpora**|Amir Hussein et.al.|[2309.15674v1](http://arxiv.org/abs/2309.15674v1)|null|
 |**2023-09-27**|**Robust Internal Representations for Domain Generalization**|Mohammad Rostami et.al.|[2309.15522v1](http://arxiv.org/abs/2309.15522v1)|null|

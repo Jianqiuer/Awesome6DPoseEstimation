@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -325,12 +325,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-28**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v1](http://arxiv.org/abs/2309.16671v1)|**[link](https://github.com/facebookresearch/metaclip)**|
+|**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v2](http://arxiv.org/abs/2309.16671v2)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Unlikelihood Tuning on Negative Samples Amazingly Improves Zero-Shot Translation**|Changtong Zan et.al.|[2309.16599v1](http://arxiv.org/abs/2309.16599v1)|**[link](https://github.com/zanchangtong/unions)**|
 |**2023-09-28**|**Toloka Visual Question Answering Benchmark**|Dmitry Ustalov et.al.|[2309.16511v1](http://arxiv.org/abs/2309.16511v1)|null|
 |**2023-09-28**|**Universal Sleep Decoder: Aligning awake and sleep neural representation across subjects**|Hui Zheng et.al.|[2309.16457v1](http://arxiv.org/abs/2309.16457v1)|null|
-|**2023-09-28**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414v1](http://arxiv.org/abs/2309.16414v1)|null|
+|**2023-09-29**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414v2](http://arxiv.org/abs/2309.16414v2)|null|
 |**2023-09-28**|**Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2309.16137v1](http://arxiv.org/abs/2309.16137v1)|null|
 |**2023-09-28**|**D $^3$ Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation**|Yixuan Wang et.al.|[2309.16118v1](http://arxiv.org/abs/2309.16118v1)|null|
 |**2023-09-27**|**Zero-Shot and Few-Shot Video Question Answering with Multi-Modal Prompts**|Deniz Engin et.al.|[2309.15915v1](http://arxiv.org/abs/2309.15915v1)|null|

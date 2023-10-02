@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**Revisiting Cephalometric Landmark Detection from the view of Human Pose Estimation with Lightweight Super-Resolution Head**|Qian Wu et.al.|[2309.17143v1](http://arxiv.org/abs/2309.17143v1)|**[link](https://github.com/5k5000/cldetection2023)**|
+|**2023-09-29**|**AdaPose: Towards Cross-Site Device-Free Human Pose Estimation with Commodity WiFi**|Yunjiao Zhou et.al.|[2309.16964v1](http://arxiv.org/abs/2309.16964v1)|null|
 |**2023-09-28**|**End-to-End (Instance)-Image Goal Navigation through Correspondence as an Emergent Phenomenon**|Guillaume Bono et.al.|[2309.16634v1](http://arxiv.org/abs/2309.16634v1)|null|
 |**2023-09-28**|**Off-the-shelf bin picking workcell with visual pose estimation: A case study on the world robot summit 2018 kitting task**|Frederik Hagelskjær et.al.|[2309.16221v1](http://arxiv.org/abs/2309.16221v1)|null|
 |**2023-09-28**|**Cloth2Body: Generating 3D Human Body Mesh from 2D Clothing**|Lu Dai et.al.|[2309.16189v1](http://arxiv.org/abs/2309.16189v1)|null|
@@ -325,6 +327,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-29**|**A Large Language Model Approach to Educational Survey Feedback Analysis**|Michael J. Parker et.al.|[2309.17447v1](http://arxiv.org/abs/2309.17447v1)|null|
+|**2023-09-29**|**L2CEval: Evaluating Language-to-Code Generation Capabilities of Large Language Models**|Ansong Ni et.al.|[2309.17446v1](http://arxiv.org/abs/2309.17446v1)|null|
+|**2023-09-29**|**Data Filtering Networks**|Alex Fang et.al.|[2309.17425v1](http://arxiv.org/abs/2309.17425v1)|null|
+|**2023-09-29**|**Telling Stories for Common Sense Zero-Shot Action Recognition**|Shreyank N Gowda et.al.|[2309.17327v1](http://arxiv.org/abs/2309.17327v1)|null|
+|**2023-09-29**|**Batch Calibration: Rethinking Calibration for In-Context Learning and Prompt Engineering**|Han Zhou et.al.|[2309.17249v1](http://arxiv.org/abs/2309.17249v1)|null|
+|**2023-09-29**|**LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games**|Sahar Abdelnabi et.al.|[2309.17234v1](http://arxiv.org/abs/2309.17234v1)|null|
+|**2023-09-29**|**Promoting Generalized Cross-lingual Question Answering in Few-resource Scenarios via Self-knowledge Distillation**|Casimiro Pio Carrino et.al.|[2309.17134v1](http://arxiv.org/abs/2309.17134v1)|**[link](https://github.com/ccasimiro88/self-distillation-gxlt-qa)**|
+|**2023-09-29**|**Model2Scene: Learning 3D Scene Representation via Contrastive Language-CAD Models Pre-training**|Runnan Chen et.al.|[2309.16956v1](http://arxiv.org/abs/2309.16956v1)|null|
+|**2023-09-28**|**The Lipschitz-Variance-Margin Tradeoff for Enhanced Randomized Smoothing**|Blaise Delattre et.al.|[2309.16883v1](http://arxiv.org/abs/2309.16883v1)|null|
+|**2023-09-28**|**Intriguing properties of generative classifiers**|Priyank Jaini et.al.|[2309.16779v1](http://arxiv.org/abs/2309.16779v1)|null|
 |**2023-09-29**|**Demystifying CLIP Data**|Hu Xu et.al.|[2309.16671v2](http://arxiv.org/abs/2309.16671v2)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2023-09-28**|**FLIP: Cross-domain Face Anti-spoofing with Language Guidance**|Koushik Srivatsan et.al.|[2309.16649v1](http://arxiv.org/abs/2309.16649v1)|**[link](https://github.com/koushiksrivats/flip)**|
 |**2023-09-28**|**Unlikelihood Tuning on Negative Samples Amazingly Improves Zero-Shot Translation**|Changtong Zan et.al.|[2309.16599v1](http://arxiv.org/abs/2309.16599v1)|**[link](https://github.com/zanchangtong/unions)**|

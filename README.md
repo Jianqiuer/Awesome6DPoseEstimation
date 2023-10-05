@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Condition numbers in multiview geometry, instability in relative pose estimation, and RANSAC**|Hongyi Fan et.al.|[2310.02719v1](http://arxiv.org/abs/2310.02719v1)|null|
+|**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897v1](http://arxiv.org/abs/2310.01897v1)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
@@ -348,6 +350,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
+|**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017v1](http://arxiv.org/abs/2310.03017v1)|**[link](https://github.com/osu-nlp-group/mqa)**|
+|**2023-10-04**|**IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**|Pengyuan Lu et.al.|[2310.02995v1](http://arxiv.org/abs/2310.02995v1)|null|
+|**2023-10-04**|**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**|Xichen Pan et.al.|[2310.02992v1](http://arxiv.org/abs/2310.02992v1)|null|
+|**2023-10-04**|**The VoiceMOS Challenge 2023: Zero-shot Subjective Speech Quality Prediction for Multiple Domains**|Erica Cooper et.al.|[2310.02640v1](http://arxiv.org/abs/2310.02640v1)|null|
+|**2023-10-04**|**I $^2$ KD-SLU: An Intra-Inter Knowledge Distillation Framework for Zero-Shot Cross-Lingual Spoken Language Understanding**|Tianjun Mao et.al.|[2310.02594v1](http://arxiv.org/abs/2310.02594v1)|null|
+|**2023-10-03**|**Prioritized Soft Q-Decomposition for Lexicographic Reinforcement Learning**|Finn Rietz et.al.|[2310.02360v1](http://arxiv.org/abs/2310.02360v1)|null|
 |**2023-10-03**|**What do we learn from a large-scale study of pre-trained visual representations in sim and real environments?**|Sneha Silwal et.al.|[2310.02219v1](http://arxiv.org/abs/2310.02219v1)|null|
 |**2023-10-03**|**TWIZ: The Wizard of Multimodal Conversational-Stimulus**|Rafael Ferreira et.al.|[2310.02118v1](http://arxiv.org/abs/2310.02118v1)|null|
 |**2023-10-03**|**Instance Needs More Care: Rewriting Prompts for Instances Yields Better Zero-Shot Performance**|Saurabh Srivastava et.al.|[2310.02107v1](http://arxiv.org/abs/2310.02107v1)|**[link](https://github.com/salokr/promptd)**|

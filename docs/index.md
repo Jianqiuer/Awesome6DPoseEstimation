@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563v1](http://arxiv.org/abs/2310.03563v1)|null|
+|**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534v1](http://arxiv.org/abs/2310.03534v1)|null|
+|**2023-10-05**|**RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation**|Boshi An et.al.|[2310.03478v1](http://arxiv.org/abs/2310.03478v1)|null|
+|**2023-10-05**|**Cyber Physical System Information Collection: Robot Location and Navigation Method Based on QR Code**|Hongwei Li et.al.|[2310.03470v1](http://arxiv.org/abs/2310.03470v1)|null|
 |**2023-10-04**|**Condition numbers in multiview geometry, instability in relative pose estimation, and RANSAC**|Hongyi Fan et.al.|[2310.02719v1](http://arxiv.org/abs/2310.02719v1)|null|
 |**2023-10-04**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v1](http://arxiv.org/abs/2310.02687v1)|null|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|**[link](https://github.com/yoavarad/mfad)**|
@@ -241,6 +245,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
 |**2023-10-02**|**COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry**|Patrick Pfreundschuh et.al.|[2310.01235v1](http://arxiv.org/abs/2310.01235v1)|null|
 |**2023-09-27**|**Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature**|Shengze Jin et.al.|[2309.16023v1](http://arxiv.org/abs/2309.16023v1)|null|
 |**2023-09-27**|**Partial Transport for Point-Cloud Registration**|Yikun Bai et.al.|[2309.15787v1](http://arxiv.org/abs/2309.15787v1)|null|
@@ -338,6 +343,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-05**|**Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer**|Paul-Ambroise Duquenne et.al.|[2310.03724v1](http://arxiv.org/abs/2310.03724v1)|null|
+|**2023-10-05**|**HeaP: Hierarchical Policies for Web Actions using LLMs**|Paloma Sodhi et.al.|[2310.03720v1](http://arxiv.org/abs/2310.03720v1)|null|
+|**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718v1](http://arxiv.org/abs/2310.03718v1)|null|
+|**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710v1](http://arxiv.org/abs/2310.03710v1)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
+|**2023-10-05**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668v1](http://arxiv.org/abs/2310.03668v1)|**[link](https://github.com/hitz-zentroa/gollie)**|
+|**2023-10-05**|**TimeGPT-1**|Azul Garza et.al.|[2310.03589v1](http://arxiv.org/abs/2310.03589v1)|null|
+|**2023-10-05**|**Latent Filling: Latent Space Data Augmentation for Zero-shot Speech Synthesis**|Jae-Sung Bae et.al.|[2310.03538v1](http://arxiv.org/abs/2310.03538v1)|null|
+|**2023-10-05**|**How the level sampling process impacts zero-shot generalisation in deep reinforcement learning**|Samuel Garcin et.al.|[2310.03494v1](http://arxiv.org/abs/2310.03494v1)|null|
+|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|null|
+|**2023-10-05**|**Reformulating Domain Adaptation of Large Language Models as Adapt-Retrieve-Revise**|Zhen wan et.al.|[2310.03328v1](http://arxiv.org/abs/2310.03328v1)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017v1](http://arxiv.org/abs/2310.03017v1)|**[link](https://github.com/osu-nlp-group/mqa)**|
 |**2023-10-05**|**IBCL: Zero-shot Model Generation for Task Trade-offs in Continual Learning**|Pengyuan Lu et.al.|[2310.02995v2](http://arxiv.org/abs/2310.02995v2)|null|

@@ -363,7 +363,7 @@
 |**2023-10-05**|**TimeGPT-1**|Azul Garza et.al.|[2310.03589v1](http://arxiv.org/abs/2310.03589v1)|null|
 |**2023-10-05**|**Latent Filling: Latent Space Data Augmentation for Zero-shot Speech Synthesis**|Jae-Sung Bae et.al.|[2310.03538v1](http://arxiv.org/abs/2310.03538v1)|null|
 |**2023-10-05**|**How the level sampling process impacts zero-shot generalisation in deep reinforcement learning**|Samuel Garcin et.al.|[2310.03494v1](http://arxiv.org/abs/2310.03494v1)|null|
-|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|null|
+|**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|**[link](https://github.com/jd-coderepos/proc-tm)**|
 |**2023-10-05**|**Reformulating Domain Adaptation of Large Language Models as Adapt-Retrieve-Revise**|Zhen wan et.al.|[2310.03328v1](http://arxiv.org/abs/2310.03328v1)|null|
 |**2023-10-04**|**Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models**|Jianglong Ye et.al.|[2310.03020v1](http://arxiv.org/abs/2310.03020v1)|null|
 |**2023-10-04**|**Multimodal Question Answering for Unified Information Extraction**|Yuxuan Sun et.al.|[2310.03017v1](http://arxiv.org/abs/2310.03017v1)|**[link](https://github.com/osu-nlp-group/mqa)**|

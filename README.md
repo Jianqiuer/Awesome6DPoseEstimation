@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360v1](http://arxiv.org/abs/2310.04360v1)|null|
 |**2023-10-05**|**BID-NeRF: RGB-D image pose estimation with inverted Neural Radiance Fields**|Ágoston István Csehi et.al.|[2310.03563v1](http://arxiv.org/abs/2310.03563v1)|null|
 |**2023-10-05**|**3D-Aware Hypothesis & Verification for Generalizable Relative Object Pose Estimation**|Chen Zhao et.al.|[2310.03534v1](http://arxiv.org/abs/2310.03534v1)|null|
 |**2023-10-05**|**RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation**|Boshi An et.al.|[2310.03478v1](http://arxiv.org/abs/2310.03478v1)|null|
@@ -253,7 +254,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|null|
+|**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|null|
+|**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 |**2023-10-02**|**COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry**|Patrick Pfreundschuh et.al.|[2310.01235v1](http://arxiv.org/abs/2310.01235v1)|null|
 |**2023-09-27**|**Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature**|Shengze Jin et.al.|[2309.16023v1](http://arxiv.org/abs/2309.16023v1)|null|
 |**2023-09-27**|**Partial Transport for Point-Cloud Registration**|Yikun Bai et.al.|[2309.15787v1](http://arxiv.org/abs/2309.15787v1)|null|
@@ -355,6 +357,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Functional Interpolation for Relative Positions Improves Long Context Transformers**|Shanda Li et.al.|[2310.04418v1](http://arxiv.org/abs/2310.04418v1)|null|
+|**2023-10-06**|**A Comprehensive Evaluation of Large Language Models on Benchmark Biomedical Text Processing Tasks**|Israt Jahan et.al.|[2310.04270v1](http://arxiv.org/abs/2310.04270v1)|null|
+|**2023-10-06**|**Enhancing Financial Sentiment Analysis via Retrieval Augmented Large Language Models**|Boyu Zhang et.al.|[2310.04027v1](http://arxiv.org/abs/2310.04027v1)|**[link](https://github.com/AI4Finance-Foundation/FinGPT/tree/master/fingpt/FinGPT-RAG)**|
+|**2023-10-06**|**U-Style: Cascading U-nets with Multi-level Speaker and Style Modeling for Zero-Shot Voice Cloning**|Tao Li et.al.|[2310.04004v1](http://arxiv.org/abs/2310.04004v1)|null|
+|**2023-10-06**|**Sub-token ViT Embedding via Stochastic Resonance Transformers**|Dong Lao et.al.|[2310.03967v1](http://arxiv.org/abs/2310.03967v1)|null|
+|**2023-10-06**|**Zero-Shot Emotion Transfer For Cross-Lingual Speech Synthesis**|Yuke Li et.al.|[2310.03963v1](http://arxiv.org/abs/2310.03963v1)|null|
+|**2023-10-06**|**Understanding prompt engineering may not require rethinking generalization**|Victor Akinwande et.al.|[2310.03957v1](http://arxiv.org/abs/2310.03957v1)|null|
+|**2023-10-05**|**Open-Fusion: Real-time Open-Vocabulary 3D Mapping and Queryable Scene Representation**|Kashu Yamazaki et.al.|[2310.03923v1](http://arxiv.org/abs/2310.03923v1)|null|
+|**2023-10-05**|**FNOSeg3D: Resolution-Robust 3D Image Segmentation with Fourier Neural Operator**|Ken C. L. Wong et.al.|[2310.03872v1](http://arxiv.org/abs/2310.03872v1)|**[link](https://github.com/ibm/multimodal-3d-image-segmentation)**|
 |**2023-10-05**|**Modular Speech-to-Text Translation for Zero-Shot Cross-Modal Transfer**|Paul-Ambroise Duquenne et.al.|[2310.03724v1](http://arxiv.org/abs/2310.03724v1)|null|
 |**2023-10-05**|**HeaP: Hierarchical Policies for Web Actions using LLMs**|Paloma Sodhi et.al.|[2310.03720v1](http://arxiv.org/abs/2310.03720v1)|null|
 |**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718v1](http://arxiv.org/abs/2310.03718v1)|null|

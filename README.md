@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763v1](http://arxiv.org/abs/2310.06763v1)|**[link](https://github.com/qizhipei/fabind)**|
+|**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751v1](http://arxiv.org/abs/2310.06751v1)|null|
+|**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068v1](http://arxiv.org/abs/2310.06068v1)|null|
 |**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837v1](http://arxiv.org/abs/2310.04837v1)|null|
 |**2023-10-10**|**1st Place Solution of Egocentric 3D Hand Pose Estimation Challenge 2023 Technical Report:A Concise Pipeline for Egocentric Hand Pose Reconstruction**|Zhishan Zhou et.al.|[2310.04769v2](http://arxiv.org/abs/2310.04769v2)|null|
 |**2023-10-06**|**SwimXYZ: A large-scale dataset of synthetic swimming motions and videos**|Fiche Guénolé et.al.|[2310.04360v1](http://arxiv.org/abs/2310.04360v1)|null|
@@ -361,6 +364,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Uni3D: Exploring Unified 3D Representation at Scale**|Junsheng Zhou et.al.|[2310.06773v1](http://arxiv.org/abs/2310.06773v1)|**[link](https://github.com/baaivision/uni3d)**|
+|**2023-10-10**|**Zero-Shot Transfer in Imitation Learning**|Alvaro Cauderan et.al.|[2310.06710v1](http://arxiv.org/abs/2310.06710v1)|null|
+|**2023-10-10**|**Blind Dates: Examining the Expression of Temporality in Historical Photographs**|Alexandra Barancová et.al.|[2310.06633v1](http://arxiv.org/abs/2310.06633v1)|null|
+|**2023-10-10**|**Automated clinical coding using off-the-shelf large language models**|Joseph S. Boyle et.al.|[2310.06552v1](http://arxiv.org/abs/2310.06552v1)|null|
+|**2023-10-10**|**AutoCycle-VC: Towards Bottleneck-Independent Zero-Shot Cross-Lingual Voice Conversion**|Haeyun Choi et.al.|[2310.06546v1](http://arxiv.org/abs/2310.06546v1)|null|
+|**2023-10-10**|**Solution for SMART-101 Challenge of ICCV Multi-modal Algorithmic Reasoning Task 2023**|Xiangyu Wu et.al.|[2310.06440v1](http://arxiv.org/abs/2310.06440v1)|null|
+|**2023-10-10**|**P5: Plug-and-Play Persona Prompting for Personalized Response Selection**|Joosung Lee et.al.|[2310.06390v1](http://arxiv.org/abs/2310.06390v1)|**[link](https://github.com/rungjoo/plug-and-play-prompt-persona)**|
+|**2023-10-10**|**DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening**|Bowen Gao et.al.|[2310.06367v1](http://arxiv.org/abs/2310.06367v1)|null|
+|**2023-10-09**|**Learning Interactive Real-World Simulators**|Mengjiao Yang et.al.|[2310.06114v1](http://arxiv.org/abs/2310.06114v1)|null|
+|**2023-10-09**|**Auditing Gender Analyzers on Text Data**|Siddharth D Jaiswal et.al.|[2310.06061v1](http://arxiv.org/abs/2310.06061v1)|null|
 |**2023-10-10**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v2](http://arxiv.org/abs/2310.05916v2)|null|
 |**2023-10-09**|**Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models**|Archiki Prasad et.al.|[2310.05861v1](http://arxiv.org/abs/2310.05861v1)|null|
 |**2023-10-09**|**Establishing Trustworthiness: Rethinking Tasks and Model Evaluation**|Robert Litschko et.al.|[2310.05442v1](http://arxiv.org/abs/2310.05442v1)|null|

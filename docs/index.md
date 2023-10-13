@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-11**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v1](http://arxiv.org/abs/2310.07449v1)|null|
+|**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
 |**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
 |**2023-10-11**|**DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation**|Rong Wang et.al.|[2310.07206v1](http://arxiv.org/abs/2310.07206v1)|null|
-|**2023-10-10**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763v1](http://arxiv.org/abs/2310.06763v1)|**[link](https://github.com/qizhipei/fabind)**|
+|**2023-10-12**|**FABind: Fast and Accurate Protein-Ligand Binding**|Qizhi Pei et.al.|[2310.06763v2](http://arxiv.org/abs/2310.06763v2)|**[link](https://github.com/qizhipei/fabind)**|
 |**2023-10-10**|**EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation**|Baichuan Huang et.al.|[2310.06751v1](http://arxiv.org/abs/2310.06751v1)|null|
 |**2023-10-09**|**Augmenting Vision-Based Human Pose Estimation with Rotation Matrix**|Milad Vazan et.al.|[2310.06068v1](http://arxiv.org/abs/2310.06068v1)|null|
 |**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837v1](http://arxiv.org/abs/2310.04837v1)|null|
@@ -255,7 +255,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
-|**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|null|
+|**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|**[link](https://github.com/brenyi/light-loam)**|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
 |**2023-10-02**|**COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry**|Patrick Pfreundschuh et.al.|[2310.01235v1](http://arxiv.org/abs/2310.01235v1)|null|
@@ -357,11 +357,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
 |**2023-10-11**|**LLM4Vis: Explainable Visualization Recommendation using ChatGPT**|Lei Wang et.al.|[2310.07652v1](http://arxiv.org/abs/2310.07652v1)|**[link](https://github.com/demoleiwang/llm4vis)**|
-|**2023-10-11**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v1](http://arxiv.org/abs/2310.07637v1)|null|
+|**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v2](http://arxiv.org/abs/2310.07637v2)|null|
 |**2023-10-11**|**Attribute Localization and Revision Network for Zero-Shot Learning**|Junzhe Xu et.al.|[2310.07548v1](http://arxiv.org/abs/2310.07548v1)|null|
 |**2023-10-11**|**Towards Foundation Models for Learning on Tabular Data**|Han Zhang et.al.|[2310.07338v1](http://arxiv.org/abs/2310.07338v1)|null|
-|**2023-10-11**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v1](http://arxiv.org/abs/2310.07246v1)|null|
-|**2023-10-11**|**LLark: A Multimodal Foundation Model for Music**|Josh Gardner et.al.|[2310.07160v1](http://arxiv.org/abs/2310.07160v1)|null|
+|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v2](http://arxiv.org/abs/2310.07246v2)|null|
+|**2023-10-11**|**LLark: A Multimodal Foundation Model for Music**|Josh Gardner et.al.|[2310.07160v1](http://arxiv.org/abs/2310.07160v1)|**[link](https://github.com/spotify-research/llark)**|
 |**2023-10-10**|**Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models**|Wen-Hsuan Chu et.al.|[2310.06992v1](http://arxiv.org/abs/2310.06992v1)|null|
 |**2023-10-10**|**Uni3D: Exploring Unified 3D Representation at Scale**|Junsheng Zhou et.al.|[2310.06773v1](http://arxiv.org/abs/2310.06773v1)|**[link](https://github.com/baaivision/uni3d)**|
 |**2023-10-10**|**Zero-Shot Transfer in Imitation Learning**|Alvaro Cauderan et.al.|[2310.06710v1](http://arxiv.org/abs/2310.06710v1)|null|

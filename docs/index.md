@@ -374,8 +374,8 @@ layout: default
 |**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v2](http://arxiv.org/abs/2310.07637v2)|null|
 |**2023-10-11**|**Attribute Localization and Revision Network for Zero-Shot Learning**|Junzhe Xu et.al.|[2310.07548v1](http://arxiv.org/abs/2310.07548v1)|null|
 |**2023-10-11**|**Towards Foundation Models for Learning on Tabular Data**|Han Zhang et.al.|[2310.07338v1](http://arxiv.org/abs/2310.07338v1)|null|
-|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v2](http://arxiv.org/abs/2310.07246v2)|null|
-|**2023-10-11**|**LLark: A Multimodal Foundation Model for Music**|Josh Gardner et.al.|[2310.07160v1](http://arxiv.org/abs/2310.07160v1)|**[link](https://github.com/spotify-research/llark)**|
+|**2023-10-12**|**Vec-Tok Speech: speech vectorization and tokenization for neural speech generation**|Xinfa Zhu et.al.|[2310.07246v2](http://arxiv.org/abs/2310.07246v2)|**[link](https://github.com/bakerbunker/vectok)**|
+|**2023-10-11**|**LLark: A Multimodal Foundation Model for Music**|Josh Gardner et.al.|[2310.07160v1](http://arxiv.org/abs/2310.07160v1)|null|
 |**2023-10-10**|**Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models**|Wen-Hsuan Chu et.al.|[2310.06992v1](http://arxiv.org/abs/2310.06992v1)|null|
 |**2023-10-10**|**Uni3D: Exploring Unified 3D Representation at Scale**|Junsheng Zhou et.al.|[2310.06773v1](http://arxiv.org/abs/2310.06773v1)|**[link](https://github.com/baaivision/uni3d)**|
 |**2023-10-10**|**Zero-Shot Transfer in Imitation Learning**|Alvaro Cauderan et.al.|[2310.06710v1](http://arxiv.org/abs/2310.06710v1)|null|

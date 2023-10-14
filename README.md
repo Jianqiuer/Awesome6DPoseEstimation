@@ -1,4 +1,4 @@
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398v1](http://arxiv.org/abs/2310.08398v1)|null|
+|**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
+|**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042v1](http://arxiv.org/abs/2310.08042v1)|**[link](https://github.com/cool-xuan/x-hrnet)**|
 |**2023-10-12**|**PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction**|Jia-Wang Bian et.al.|[2310.07449v2](http://arxiv.org/abs/2310.07449v2)|null|
 |**2023-10-11**|**SAGE-ICP: Semantic Information-Assisted ICP**|Jiaming Cui et.al.|[2310.07237v1](http://arxiv.org/abs/2310.07237v1)|null|
 |**2023-10-11**|**DeepSimHO: Stable Pose Estimation for Hand-Object Interaction via Physics Simulation**|Rong Wang et.al.|[2310.07206v1](http://arxiv.org/abs/2310.07206v1)|null|
@@ -256,7 +259,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231014>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -332,14 +335,15 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231014>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-11**|**PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation**|Haibo Qiu et.al.|[2310.07743v1](http://arxiv.org/abs/2310.07743v1)|**[link](https://github.com/haibo-qiu/PointHR)**|
 |**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932v1](http://arxiv.org/abs/2309.14932v1)|null|
-|**2023-09-20**|**Towards Robust Few-shot Point Cloud Semantic Segmentation**|Yating Xu et.al.|[2309.11228v1](http://arxiv.org/abs/2309.11228v1)|null|
+|**2023-09-20**|**Towards Robust Few-shot Point Cloud Semantic Segmentation**|Yating Xu et.al.|[2309.11228v1](http://arxiv.org/abs/2309.11228v1)|**[link](https://github.com/Pixie8888/R3DFSSeg)**|
 |**2023-09-20**|**Generalized Few-Shot Point Cloud Segmentation Via Geometric Words**|Yating Xu et.al.|[2309.11222v1](http://arxiv.org/abs/2309.11222v1)|**[link](https://github.com/Pixie8888/GFS-3DSeg_GWs)**|
 |**2023-08-29**|**Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation**|Cristiano Saltori et.al.|[2308.14619v2](http://arxiv.org/abs/2308.14619v2)|**[link](https://github.com/saltoricristiano/cosmix-uda)**|
 |**2023-08-22**|**Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation**|Zongyi Xu et.al.|[2308.11166v1](http://arxiv.org/abs/2308.11166v1)|**[link](https://github.com/smiletoe/hpal)**|
@@ -361,12 +365,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231014>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v1](http://arxiv.org/abs/2310.08577v1)|**[link](https://github.com/bethgelab/DataTypeIdentification)**|
+|**2023-10-12**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
+|**2023-10-12**|**Defending Our Privacy With Backdoors**|Dominik Hintersdorf et.al.|[2310.08320v1](http://arxiv.org/abs/2310.08320v1)|**[link](https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors)**|
+|**2023-10-12**|**Fine-Tuning LLaMA for Multi-Stage Text Retrieval**|Xueguang Ma et.al.|[2310.08319v1](http://arxiv.org/abs/2310.08319v1)|null|
+|**2023-10-12**|**GePSAn: Generative Procedure Step Anticipation in Cooking Videos**|Mohamed Ashraf Abdelsalam et.al.|[2310.08312v1](http://arxiv.org/abs/2310.08312v1)|null|
+|**2023-10-12**|**Lag-Llama: Towards Foundation Models for Time Series Forecasting**|Kashif Rasul et.al.|[2310.08278v1](http://arxiv.org/abs/2310.08278v1)|null|
+|**2023-10-12**|**Ziya-VL: Bilingual Large Vision-Language Model via Multi-Task Instruction Tuning**|Junyu Lu et.al.|[2310.08166v1](http://arxiv.org/abs/2310.08166v1)|null|
+|**2023-10-12**|**Context Compression for Auto-regressive Transformers with Sentinel Tokens**|Siyu Ren et.al.|[2310.08152v1](http://arxiv.org/abs/2310.08152v1)|**[link](https://github.com/DRSY/KV_Compression)**|
+|**2023-10-12**|**Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Label Bias in Foundation Models**|Beier Zhu et.al.|[2310.08106v1](http://arxiv.org/abs/2310.08106v1)|**[link](https://github.com/BeierZhu/GLA)**|
+|**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
 |**2023-10-11**|**LLM4Vis: Explainable Visualization Recommendation using ChatGPT**|Lei Wang et.al.|[2310.07652v1](http://arxiv.org/abs/2310.07652v1)|**[link](https://github.com/demoleiwang/llm4vis)**|
 |**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v2](http://arxiv.org/abs/2310.07637v2)|null|
@@ -857,5 +871,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231013>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231014>back to top</a>)</p>
 

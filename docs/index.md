@@ -28,7 +28,7 @@ layout: default
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897v1](http://arxiv.org/abs/2310.01897v1)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
-|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404v1](http://arxiv.org/abs/2310.01404v1)|null|
+|**2023-10-02**|**H-InDex: Visual Reinforcement Learning with Hand-Informed Representations for Dexterous Manipulation**|Yanjie Ze et.al.|[2310.01404v1](http://arxiv.org/abs/2310.01404v1)|**[link](https://github.com/YanjieZe/H-InDex)**|
 |**2023-10-04**|**Self-supervised Learning of Contextualized Local Visual Embeddings**|Thalles Santos Silva et.al.|[2310.00527v3](http://arxiv.org/abs/2310.00527v3)|**[link](https://github.com/sthalles/clove)**|
 |**2023-09-30**|**Diff-DOPE: Differentiable Deep Object Pose Estimation**|Jonathan Tremblay et.al.|[2310.00463v1](http://arxiv.org/abs/2310.00463v1)|null|
 |**2023-09-29**|**Diver Identification Using Anthropometric Data Ratios for Underwater Multi-Human-Robot Collaboration**|Jungseok Hong et.al.|[2310.00146v1](http://arxiv.org/abs/2310.00146v1)|null|
@@ -236,7 +236,7 @@ layout: default
 |**2023-06-21**|**6D Object Pose Estimation from Approximate 3D Models for Orbital Robotics**|Maximilian Ulmer et.al.|[2303.13241v3](http://arxiv.org/abs/2303.13241v3)|null|
 |**2023-03-22**|**Rigidity-Aware Detection for 6D Object Pose Estimation**|Yang Hai et.al.|[2303.12396v1](http://arxiv.org/abs/2303.12396v1)|**[link](https://github.com/yanghai-1218/radet)**|
 |**2023-03-22**|**Object Pose Estimation with Statistical Guarantees: Conformal Keypoint Detection and Geometric Uncertainty Propagation**|Heng Yang et.al.|[2303.12246v1](http://arxiv.org/abs/2303.12246v1)|**[link](https://github.com/nvlabs/conformalkeypoint)**|
-|**2023-03-21**|**Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation**|Fulin Liu et.al.|[2303.11516v1](http://arxiv.org/abs/2303.11516v1)|null|
+|**2023-03-21**|**Linear-Covariance Loss for End-to-End Learning of 6D Pose Estimation**|Fulin Liu et.al.|[2303.11516v1](http://arxiv.org/abs/2303.11516v1)|**[link](https://github.com/fulliu/lc)**|
 |**2023-03-18**|**SOCS: Semantically-aware Object Coordinate Space for Category-Level 6D Object Pose Estimation under Large Shape Variations**|Boyan Wan et.al.|[2303.10346v1](http://arxiv.org/abs/2303.10346v1)|null|
 |**2023-03-12**|**Module-Wise Network Quantization for 6D Object Pose Estimation**|Saqib Javed et.al.|[2303.06753v1](http://arxiv.org/abs/2303.06753v1)|null|
 |**2023-03-09**|**SpyroPose: Importance Sampling Pyramids for Object Pose Distribution Estimation in SE(3)**|Rasmus Laurvig Haugaard et.al.|[2303.05308v1](http://arxiv.org/abs/2303.05308v1)|null|
@@ -388,7 +388,7 @@ layout: default
 |**2023-10-09**|**Learning Interactive Real-World Simulators**|Mengjiao Yang et.al.|[2310.06114v1](http://arxiv.org/abs/2310.06114v1)|null|
 |**2023-10-09**|**Auditing Gender Analyzers on Text Data**|Siddharth D Jaiswal et.al.|[2310.06061v1](http://arxiv.org/abs/2310.06061v1)|null|
 |**2023-10-10**|**Interpreting CLIP's Image Representation via Text-Based Decomposition**|Yossi Gandelsman et.al.|[2310.05916v2](http://arxiv.org/abs/2310.05916v2)|null|
-|**2023-10-09**|**Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models**|Archiki Prasad et.al.|[2310.05861v1](http://arxiv.org/abs/2310.05861v1)|null|
+|**2023-10-09**|**Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models**|Archiki Prasad et.al.|[2310.05861v1](http://arxiv.org/abs/2310.05861v1)|**[link](https://github.com/archiki/repare)**|
 |**2023-10-09**|**Establishing Trustworthiness: Rethinking Tasks and Model Evaluation**|Robert Litschko et.al.|[2310.05442v1](http://arxiv.org/abs/2310.05442v1)|null|
 |**2023-10-08**|**LAN-grasp: Using Large Language Models for Semantic Object Grasping**|Reihaneh Mirjalili et.al.|[2310.05239v1](http://arxiv.org/abs/2310.05239v1)|null|
 |**2023-10-08**|**XLS-R fine-tuning on noisy word boundaries for unsupervised speech segmentation into words**|Robin Algayres et.al.|[2310.05235v1](http://arxiv.org/abs/2310.05235v1)|null|
@@ -805,7 +805,7 @@ layout: default
 |**2023-07-18**|**DiTTO: Diffusion-inspired Temporal Transformer Operator**|Oded Ovadia et.al.|[2307.09072v1](http://arxiv.org/abs/2307.09072v1)|null|
 |**2023-07-19**|**Similarity Min-Max: Zero-Shot Day-Night Domain Adaptation**|Rundong Luo et.al.|[2307.08779v2](http://arxiv.org/abs/2307.08779v2)|null|
 |**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|
-|**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|null|
+|**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|**[link](https://github.com/jiangcong7/legal-syllogism-prompting)**|
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|**[link](https://github.com/zhiyuanpeng/sptar)**|
 |**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|null|
 |**2023-07-17**|**Zero-Shot Image Harmonization with Generative Model Prior**|Jianqi Chen et.al.|[2307.08182v1](http://arxiv.org/abs/2307.08182v1)|**[link](https://github.com/windvchen/diff-harmonization)**|

@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Multi-Robot IMU Preintegration in the Presence of Bias and Communication Constraints**|Mohammed Ayman Shalaby et.al.|[2310.08686v1](http://arxiv.org/abs/2310.08686v1)|null|
 |**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398v1](http://arxiv.org/abs/2310.08398v1)|null|
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
 |**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042v1](http://arxiv.org/abs/2310.08042v1)|**[link](https://github.com/cool-xuan/x-hrnet)**|
@@ -371,6 +372,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
+|**2023-10-13**|**HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling**|Junwen Zhang et.al.|[2310.09135v1](http://arxiv.org/abs/2310.09135v1)|**[link](https://github.com/ai-agi/hicl)**|
+|**2023-10-13**|**Welfare Diplomacy: Benchmarking Language Model Cooperation**|Gabriel Mukobi et.al.|[2310.08901v1](http://arxiv.org/abs/2310.08901v1)|**[link](https://github.com/mukobi/welfare-diplomacy)**|
+|**2023-10-13**|**InstructTODS: Large Language Models for End-to-End Task-Oriented Dialogue Systems**|Willy Chung et.al.|[2310.08885v1](http://arxiv.org/abs/2310.08885v1)|null|
+|**2023-10-13**|**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation**|Jiayu Xiao et.al.|[2310.08872v1](http://arxiv.org/abs/2310.08872v1)|null|
+|**2023-10-13**|**DexCatch: Learning to Catch Arbitrary Objects with Dexterous Hands**|Fengbo Lan et.al.|[2310.08809v1](http://arxiv.org/abs/2310.08809v1)|null|
+|**2023-10-12**|**CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models**|Sreyan Ghosh et.al.|[2310.08753v1](http://arxiv.org/abs/2310.08753v1)|null|
+|**2023-10-12**|**Search-Adaptor: Text Embedding Customization for Information Retrieval**|Jinsung Yoon et.al.|[2310.08750v1](http://arxiv.org/abs/2310.08750v1)|null|
+|**2023-10-12**|**A Zero-Shot Language Agent for Computer Control with Structured Reflection**|Tao Li et.al.|[2310.08740v1](http://arxiv.org/abs/2310.08740v1)|null|
+|**2023-10-12**|**Toward Joint Language Modeling for Speech Units and Text**|Ju-Chieh Chou et.al.|[2310.08715v1](http://arxiv.org/abs/2310.08715v1)|null|
 |**2023-10-12**|**Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models**|Vishaal Udandarao et.al.|[2310.08577v1](http://arxiv.org/abs/2310.08577v1)|**[link](https://github.com/bethgelab/DataTypeIdentification)**|
 |**2023-10-12**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523v1](http://arxiv.org/abs/2310.08523v1)|null|
 |**2023-10-12**|**Defending Our Privacy With Backdoors**|Dominik Hintersdorf et.al.|[2310.08320v1](http://arxiv.org/abs/2310.08320v1)|**[link](https://github.com/D0miH/Defending-Our-Privacy-With-Backdoors)**|

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**Multi-Robot IMU Preintegration in the Presence of Bias and Communication Constraints**|Mohammed Ayman Shalaby et.al.|[2310.08686v1](http://arxiv.org/abs/2310.08686v1)|null|
+|**2023-10-16**|**IMU Preintegration for Multi-Robot Systems in the Presence of Bias and Communication Constraints**|Mohammed Ayman Shalaby et.al.|[2310.08686v2](http://arxiv.org/abs/2310.08686v2)|null|
 |**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398v1](http://arxiv.org/abs/2310.08398v1)|null|
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
 |**2023-10-12**|**X-HRNet: Towards Lightweight Human Pose Estimation with Spatially Unidimensional Self-Attention**|Yixuan Zhou et.al.|[2310.08042v1](http://arxiv.org/abs/2310.08042v1)|**[link](https://github.com/cool-xuan/x-hrnet)**|

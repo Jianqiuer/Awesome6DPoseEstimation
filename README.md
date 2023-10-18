@@ -1,4 +1,4 @@
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-15**|**AP $n$P: A Less-constrained P$n$ P Solver for Pose Estimation with Unknown Anisotropic Scaling or Focal Lengths**|Jiaxin Wei et.al.|[2310.09982v1](http://arxiv.org/abs/2310.09982v1)|null|
+|**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
+|**2023-10-15**|**Socially reactive navigation models for mobile robots in dynamic environments**|Ricarte Ribeiro et.al.|[2310.09916v1](http://arxiv.org/abs/2310.09916v1)|null|
+|**2023-10-15**|**MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection**|David C. Jeong et.al.|[2310.09757v1](http://arxiv.org/abs/2310.09757v1)|null|
 |**2023-10-16**|**IMU Preintegration for Multi-Robot Systems in the Presence of Bias and Communication Constraints**|Mohammed Ayman Shalaby et.al.|[2310.08686v2](http://arxiv.org/abs/2310.08686v2)|null|
 |**2023-10-12**|**Towards Design and Development of an ArUco Markers-Based Quantitative Surface Tactile Sensor**|Ozdemir Can Kara et.al.|[2310.08398v1](http://arxiv.org/abs/2310.08398v1)|null|
 |**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116v1](http://arxiv.org/abs/2310.08116v1)|null|
@@ -260,12 +264,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-15**|**OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer**|Junjie Gao et.al.|[2310.09817v1](http://arxiv.org/abs/2310.09817v1)|null|
 |**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|**[link](https://github.com/brenyi/light-loam)**|
@@ -336,7 +341,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -366,12 +371,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
+|**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|null|
+|**2023-10-16**|**Efficacy of Dual-Encoders for Extreme Multi-Label Classification**|Nilesh Gupta et.al.|[2310.10636v1](http://arxiv.org/abs/2310.10636v1)|null|
+|**2023-10-16**|**On Position Bias in Summarization with Large Language Models**|Mathieu Ravaut et.al.|[2310.10570v1](http://arxiv.org/abs/2310.10570v1)|null|
+|**2023-10-16**|**One For All & All For One: Bypassing Hyperparameter Tuning with Model Averaging For Cross-Lingual Transfer**|Fabian David Schmidt et.al.|[2310.10532v1](http://arxiv.org/abs/2310.10532v1)|**[link](https://github.com/fdschmidt93/ofa-xlt)**|
+|**2023-10-16**|**Semantic Parsing by Large Language Models for Intricate Updating Strategies of Zero-Shot Dialogue State Tracking**|Yuxiang Wu et.al.|[2310.10520v1](http://arxiv.org/abs/2310.10520v1)|null|
+|**2023-10-16**|**Few-Shot Learning Patterns in Financial Time-Series for Trend-Following Strategies**|Kieran Wood et.al.|[2310.10500v1](http://arxiv.org/abs/2310.10500v1)|null|
+|**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
+|**2023-10-16**|**UNO-DST: Leveraging Unlabelled Data in Zero-Shot Dialogue State Tracking**|Chuang Li et.al.|[2310.10492v1](http://arxiv.org/abs/2310.10492v1)|**[link](https://github.com/lichuangnus/uno-dst)**|
+|**2023-10-16**|**Towards a Better Understanding of Variations in Zero-Shot Neural Machine Translation Performance**|Shaomu Tan et.al.|[2310.10385v1](http://arxiv.org/abs/2310.10385v1)|**[link](https://github.com/Smu-Tan/ZS-NMT-Variations)**|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-13**|**HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling**|Junwen Zhang et.al.|[2310.09135v1](http://arxiv.org/abs/2310.09135v1)|**[link](https://github.com/ai-agi/hicl)**|
 |**2023-10-13**|**Welfare Diplomacy: Benchmarking Language Model Cooperation**|Gabriel Mukobi et.al.|[2310.08901v1](http://arxiv.org/abs/2310.08901v1)|**[link](https://github.com/mukobi/welfare-diplomacy)**|
@@ -882,5 +897,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231018>back to top</a>)</p>
 

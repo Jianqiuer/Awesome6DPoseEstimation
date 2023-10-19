@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**One-Shot Imitation Learning: A Pose Estimation Perspective**|Pietro Vitiello et.al.|[2310.12077v1](http://arxiv.org/abs/2310.12077v1)|null|
+|**2023-10-18**|**ShapeGraFormer: GraFormer-Based Network for Hand-Object Reconstruction from a Single Depth Map**|Ahmed Tawfik Aboukhadra et.al.|[2310.11811v1](http://arxiv.org/abs/2310.11811v1)|null|
+|**2023-10-17**|**Holistic Parking Slot Detection with Polygon-Shaped Representations**|Lihao Wang et.al.|[2310.11629v1](http://arxiv.org/abs/2310.11629v1)|null|
+|**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536v1](http://arxiv.org/abs/2310.11536v1)|null|
 |**2023-10-18**|**AP $n$P: A Less-constrained P$n$ P Solver for Pose Estimation with Unknown Anisotropic Scaling or Focal Lengths**|Jiaxin Wei et.al.|[2310.09982v2](http://arxiv.org/abs/2310.09982v2)|**[link](https://github.com/goldoak/APnP)**|
 |**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
 |**2023-10-15**|**Socially reactive navigation models for mobile robots in dynamic environments**|Ricarte Ribeiro et.al.|[2310.09916v1](http://arxiv.org/abs/2310.09916v1)|null|
@@ -262,6 +266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**DBDNet:Partial-to-Partial Point Cloud Registration with Dual Branches Decoupling**|Shiqi Li et.al.|[2310.11733v1](http://arxiv.org/abs/2310.11733v1)|null|
 |**2023-10-15**|**OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer**|Junjie Gao et.al.|[2310.09817v1](http://arxiv.org/abs/2310.09817v1)|null|
 |**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
@@ -365,6 +370,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062v1](http://arxiv.org/abs/2310.12062v1)|null|
+|**2023-10-18**|**Evaluating the Symbol Binding Ability of Large Language Models for Multiple-Choice Questions in Vietnamese General Education**|Duc-Vu Nguyen et.al.|[2310.12059v1](http://arxiv.org/abs/2310.12059v1)|null|
+|**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011v1](http://arxiv.org/abs/2310.12011v1)|**[link](https://github.com/hkust-knowcomp/gold)**|
+|**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867v1](http://arxiv.org/abs/2310.11867v1)|null|
+|**2023-10-18**|**Masked Pretraining for Multi-Agent Decision Making**|Jie Liu et.al.|[2310.11846v1](http://arxiv.org/abs/2310.11846v1)|null|
+|**2023-10-18**|**CLARA: Multilingual Contrastive Learning for Audio Representation Acquisition**|Kari A Noriy et.al.|[2310.11830v1](http://arxiv.org/abs/2310.11830v1)|null|
+|**2023-10-18**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755v1](http://arxiv.org/abs/2310.11755v1)|null|
+|**2023-10-18**|**ChatGPT-guided Semantics for Zero-shot Learning**|Fahimul Hoque Shubho et.al.|[2310.11657v1](http://arxiv.org/abs/2310.11657v1)|**[link](https://github.com/fhshubho/cgs-zsl)**|
+|**2023-10-18**|**Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**|Qi Jia et.al.|[2310.11648v1](http://arxiv.org/abs/2310.11648v1)|**[link](https://github.com/jiaqisjtu/faitheval-fflm)**|
+|**2023-10-17**|**Language Models as Zero-Shot Trajectory Generators**|Teyun Kwon et.al.|[2310.11604v1](http://arxiv.org/abs/2310.11604v1)|null|
 |**2023-10-17**|**Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V**|Jianwei Yang et.al.|[2310.11441v1](http://arxiv.org/abs/2310.11441v1)|null|
 |**2023-10-17**|**QADYNAMICS: Training Dynamics-Driven Synthetic QA Diagnostic for Zero-Shot Commonsense Question Answering**|Haochen Shi et.al.|[2310.11303v1](http://arxiv.org/abs/2310.11303v1)|**[link](https://github.com/hkust-knowcomp/qadynamics)**|
 |**2023-10-17**|**Entity Matching using Large Language Models**|Ralph Peeters et.al.|[2310.11244v1](http://arxiv.org/abs/2310.11244v1)|null|

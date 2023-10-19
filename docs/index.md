@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-15**|**AP $n$P: A Less-constrained P$n$ P Solver for Pose Estimation with Unknown Anisotropic Scaling or Focal Lengths**|Jiaxin Wei et.al.|[2310.09982v1](http://arxiv.org/abs/2310.09982v1)|**[link](https://github.com/goldoak/APnP)**|
+|**2023-10-18**|**AP $n$P: A Less-constrained P$n$ P Solver for Pose Estimation with Unknown Anisotropic Scaling or Focal Lengths**|Jiaxin Wei et.al.|[2310.09982v2](http://arxiv.org/abs/2310.09982v2)|**[link](https://github.com/goldoak/APnP)**|
 |**2023-10-15**|**Tabletop Transparent Scene Reconstruction via Epipolar-Guided Optical Flow with Monocular Depth Completion Prior**|Xiaotong Chen et.al.|[2310.09956v1](http://arxiv.org/abs/2310.09956v1)|null|
 |**2023-10-15**|**Socially reactive navigation models for mobile robots in dynamic environments**|Ricarte Ribeiro et.al.|[2310.09916v1](http://arxiv.org/abs/2310.09916v1)|null|
 |**2023-10-15**|**MoEmo Vision Transformer: Integrating Cross-Attention and Movement Vectors in 3D Pose Estimation for HRI Emotion Detection**|David C. Jeong et.al.|[2310.09757v1](http://arxiv.org/abs/2310.09757v1)|null|

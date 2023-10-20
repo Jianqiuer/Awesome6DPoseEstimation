@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -376,7 +376,7 @@ layout: default
 |**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867v1](http://arxiv.org/abs/2310.11867v1)|null|
 |**2023-10-18**|**Masked Pretraining for Multi-Agent Decision Making**|Jie Liu et.al.|[2310.11846v1](http://arxiv.org/abs/2310.11846v1)|null|
 |**2023-10-18**|**CLARA: Multilingual Contrastive Learning for Audio Representation Acquisition**|Kari A Noriy et.al.|[2310.11830v1](http://arxiv.org/abs/2310.11830v1)|null|
-|**2023-10-18**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755v1](http://arxiv.org/abs/2310.11755v1)|null|
+|**2023-10-18**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755v1](http://arxiv.org/abs/2310.11755v1)|**[link](https://github.com/aim-uofa/rgm)**|
 |**2023-10-18**|**ChatGPT-guided Semantics for Zero-shot Learning**|Fahimul Hoque Shubho et.al.|[2310.11657v1](http://arxiv.org/abs/2310.11657v1)|**[link](https://github.com/fhshubho/cgs-zsl)**|
 |**2023-10-18**|**Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**|Qi Jia et.al.|[2310.11648v1](http://arxiv.org/abs/2310.11648v1)|**[link](https://github.com/jiaqisjtu/faitheval-fflm)**|
 |**2023-10-17**|**Language Models as Zero-Shot Trajectory Generators**|Teyun Kwon et.al.|[2310.11604v1](http://arxiv.org/abs/2310.11604v1)|null|

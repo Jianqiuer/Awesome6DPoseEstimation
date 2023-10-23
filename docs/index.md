@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -378,7 +378,7 @@ layout: default
 |**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921v1](http://arxiv.org/abs/2310.12921v1)|null|
 |**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|null|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
-|**2023-10-19**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v1](http://arxiv.org/abs/2310.12821v1)|null|
+|**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
 |**2023-10-19**|**Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization**|Ningyu Xu et.al.|[2310.12794v1](http://arxiv.org/abs/2310.12794v1)|**[link](https://github.com/ningyuxu/structural_concepts_correspondence)**|
 |**2023-10-19**|**Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning**|Han Zhou et.al.|[2310.12774v1](http://arxiv.org/abs/2310.12774v1)|**[link](https://github.com/cambridgeltl/claps)**|
 |**2023-10-19**|**Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing**|Yue Guo et.al.|[2310.12664v1](http://arxiv.org/abs/2310.12664v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2023.10.22
+## Updated on 2023.10.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -270,7 +270,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -348,7 +348,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -379,7 +379,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -390,7 +390,7 @@
 |**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921v1](http://arxiv.org/abs/2310.12921v1)|null|
 |**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|null|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
-|**2023-10-19**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v1](http://arxiv.org/abs/2310.12821v1)|null|
+|**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
 |**2023-10-19**|**Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization**|Ningyu Xu et.al.|[2310.12794v1](http://arxiv.org/abs/2310.12794v1)|**[link](https://github.com/ningyuxu/structural_concepts_correspondence)**|
 |**2023-10-19**|**Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning**|Han Zhou et.al.|[2310.12774v1](http://arxiv.org/abs/2310.12774v1)|**[link](https://github.com/cambridgeltl/claps)**|
 |**2023-10-19**|**Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing**|Yue Guo et.al.|[2310.12664v1](http://arxiv.org/abs/2310.12664v1)|null|
@@ -932,5 +932,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
 

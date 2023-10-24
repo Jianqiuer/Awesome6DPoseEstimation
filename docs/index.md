@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
+|**2023-10-23**|**Object Pose Estimation Annotation Pipeline for Multi-view Monocular Camera Systems in Industrial Settings**|Hazem Youssef et.al.|[2310.14914v1](http://arxiv.org/abs/2310.14914v1)|null|
+|**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469v1](http://arxiv.org/abs/2310.14469v1)|null|
+|**2023-10-20**|**LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly**|Bowen Fu et.al.|[2310.13819v1](http://arxiv.org/abs/2310.13819v1)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605v1](http://arxiv.org/abs/2310.13605v1)|null|
 |**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320v1](http://arxiv.org/abs/2310.13320v1)|**[link](https://github.com/wsakobe/cylindertag)**|
@@ -377,6 +381,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
+|**2023-10-23**|**FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning**|Kun Song et.al.|[2310.15105v1](http://arxiv.org/abs/2310.15105v1)|**[link](https://github.com/skingorz/fd-align)**|
+|**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061v1](http://arxiv.org/abs/2310.15061v1)|null|
+|**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059v1](http://arxiv.org/abs/2310.15059v1)|null|
+|**2023-10-23**|**Towards LLM-driven Dialogue State Tracking**|Yujie Feng et.al.|[2310.14970v1](http://arxiv.org/abs/2310.14970v1)|**[link](https://github.com/woodscene/ldst)**|
+|**2023-10-23**|**Text2Topic: Multi-Label Text Classification System for Efficient Topic Detection in User Generated Content with Zero-Shot Capabilities**|Fengjun Wang et.al.|[2310.14817v1](http://arxiv.org/abs/2310.14817v1)|null|
+|**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804v1](http://arxiv.org/abs/2310.14804v1)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
+|**2023-10-23**|**Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages**|Libo Qin et.al.|[2310.14799v1](http://arxiv.org/abs/2310.14799v1)|null|
+|**2023-10-23**|**A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v1](http://arxiv.org/abs/2310.14724v1)|null|
 |**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
 |**2023-10-20**|**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**|Dominik Macko et.al.|[2310.13606v1](http://arxiv.org/abs/2310.13606v1)|**[link](https://github.com/kinit-sk/mgt-detection-benchmark)**|
 |**2023-10-20**|**Improving Cross-Lingual Transfer through Subtree-Aware Word Reordering**|Ofir Arviv et.al.|[2310.13583v1](http://arxiv.org/abs/2310.13583v1)|**[link](https://github.com/ofirarviv/ud-based-word-reordering)**|

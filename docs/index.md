@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -380,7 +380,7 @@ layout: default
 |**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
 |**2023-10-20**|**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**|Dominik Macko et.al.|[2310.13606v1](http://arxiv.org/abs/2310.13606v1)|**[link](https://github.com/kinit-sk/mgt-detection-benchmark)**|
 |**2023-10-20**|**Improving Cross-Lingual Transfer through Subtree-Aware Word Reordering**|Ofir Arviv et.al.|[2310.13583v1](http://arxiv.org/abs/2310.13583v1)|**[link](https://github.com/ofirarviv/ud-based-word-reordering)**|
-|**2023-10-20**|**Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning**|Jinyuan Wang et.al.|[2310.13552v1](http://arxiv.org/abs/2310.13552v1)|**[link](https://github.com/noewangjy/sp-cot)**|
+|**2023-10-23**|**Self-prompted Chain-of-Thought on Large Language Models for Open-domain Multi-hop Reasoning**|Jinyuan Wang et.al.|[2310.13552v2](http://arxiv.org/abs/2310.13552v2)|**[link](https://github.com/noewangjy/sp-cot)**|
 |**2023-10-20**|**Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language**|Zekai Qu et.al.|[2310.13540v1](http://arxiv.org/abs/2310.13540v1)|null|
 |**2023-10-20**|**Robust Training for Conversational Question Answering Models with Reinforced Reformulation Generation**|Magdalena Kaiser et.al.|[2310.13505v1](http://arxiv.org/abs/2310.13505v1)|null|
 |**2023-10-20**|**Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation**|Francisco Eiras et.al.|[2310.13479v1](http://arxiv.org/abs/2310.13479v1)|null|

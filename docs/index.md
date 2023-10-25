@@ -12,7 +12,7 @@ layout: default
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469v1](http://arxiv.org/abs/2310.14469v1)|null|
 |**2023-10-20**|**LanPose: Language-Instructed 6D Object Pose Estimation for Robotic Assembly**|Bowen Fu et.al.|[2310.13819v1](http://arxiv.org/abs/2310.13819v1)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605v1](http://arxiv.org/abs/2310.13605v1)|null|
-|**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|null|
+|**2023-10-20**|**ColAG: A Collaborative Air-Ground Framework for Perception-Limited UGVs' Navigation**|Zhehan Li et.al.|[2310.13324v1](http://arxiv.org/abs/2310.13324v1)|**[link](https://github.com/fast-fire/colag)**|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320v1](http://arxiv.org/abs/2310.13320v1)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-19**|**Human Pose-based Estimation, Tracking and Action Recognition with Deep Learning: A Survey**|Lijuan Zhou et.al.|[2310.13039v1](http://arxiv.org/abs/2310.13039v1)|null|
 |**2023-10-19**|**FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects**|Mayank Lunayach et.al.|[2310.12974v1](http://arxiv.org/abs/2310.12974v1)|null|
@@ -381,6 +381,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
+|**2023-10-24**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v1](http://arxiv.org/abs/2310.16042v1)|null|
+|**2023-10-24**|**Visual Cropping Improves Zero-Shot Question Answering of Multimodal Large Language Models**|Jiarui Zhang et.al.|[2310.16033v1](http://arxiv.org/abs/2310.16033v1)|null|
+|**2023-10-24**|**Dissecting In-Context Learning of Translations in GPTs**|Vikas Raunak et.al.|[2310.15987v1](http://arxiv.org/abs/2310.15987v1)|null|
+|**2023-10-24**|**Accented Speech Recognition With Accent-specific Codebooks**|Darshan Prabhu et.al.|[2310.15970v1](http://arxiv.org/abs/2310.15970v1)|**[link](https://github.com/csalt-research/accented-codebooks-asr)**|
+|**2023-10-24**|**This is not a Dataset: A Large Negation Benchmark to Challenge Large Language Models**|Iker García-Ferrero et.al.|[2310.15941v1](http://arxiv.org/abs/2310.15941v1)|**[link](https://github.com/hitz-zentroa/this-is-not-a-dataset)**|
+|**2023-10-24**|**How Much Context Does My Attention-Based ASR System Need?**|Robert Flynn et.al.|[2310.15672v1](http://arxiv.org/abs/2310.15672v1)|**[link](https://github.com/robflynnyh/long-context-asr)**|
+|**2023-10-24**|**CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation**|Minzhi Li et.al.|[2310.15638v1](http://arxiv.org/abs/2310.15638v1)|**[link](https://github.com/salt-nlp/coannotating)**|
+|**2023-10-24**|**POE: Process of Elimination for Multiple Choice Reasoning**|Chenkai Ma et.al.|[2310.15575v1](http://arxiv.org/abs/2310.15575v1)|**[link](https://github.com/kasmasvan/poe)**|
+|**2023-10-24**|**Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**|Jason Lucas et.al.|[2310.15515v1](http://arxiv.org/abs/2310.15515v1)|null|
 |**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|null|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning**|Kun Song et.al.|[2310.15105v1](http://arxiv.org/abs/2310.15105v1)|**[link](https://github.com/skingorz/fd-align)**|

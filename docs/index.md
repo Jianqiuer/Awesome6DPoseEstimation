@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.24
+## Updated on 2023.10.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -390,7 +390,7 @@ layout: default
 |**2023-10-23**|**Text2Topic: Multi-Label Text Classification System for Efficient Topic Detection in User Generated Content with Zero-Shot Capabilities**|Fengjun Wang et.al.|[2310.14817v1](http://arxiv.org/abs/2310.14817v1)|null|
 |**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804v1](http://arxiv.org/abs/2310.14804v1)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
 |**2023-10-23**|**Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages**|Libo Qin et.al.|[2310.14799v1](http://arxiv.org/abs/2310.14799v1)|null|
-|**2023-10-23**|**A Survey on LLM-gernerated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v1](http://arxiv.org/abs/2310.14724v1)|null|
+|**2023-10-24**|**A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v2](http://arxiv.org/abs/2310.14724v2)|null|
 |**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
 |**2023-10-20**|**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**|Dominik Macko et.al.|[2310.13606v1](http://arxiv.org/abs/2310.13606v1)|**[link](https://github.com/kinit-sk/mgt-detection-benchmark)**|
 |**2023-10-20**|**Improving Cross-Lingual Transfer through Subtree-Aware Word Reordering**|Ofir Arviv et.al.|[2310.13583v1](http://arxiv.org/abs/2310.13583v1)|**[link](https://github.com/ofirarviv/ud-based-word-reordering)**|

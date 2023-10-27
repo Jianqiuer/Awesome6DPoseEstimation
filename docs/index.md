@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.26
+## Updated on 2023.10.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -389,11 +389,11 @@ layout: default
 |**2023-10-25**|**Kiki or Bouba? Sound Symbolism in Vision-and-Language Models**|Morris Alper et.al.|[2310.16781v1](http://arxiv.org/abs/2310.16781v1)|null|
 |**2023-10-25**|**Exploring Large Language Models for Code Explanation**|Paheli Bhattacharya et.al.|[2310.16673v1](http://arxiv.org/abs/2310.16673v1)|null|
 |**2023-10-25**|**ChatGPT is a Potential Zero-Shot Dependency Parser**|Boda Lin et.al.|[2310.16654v1](http://arxiv.org/abs/2310.16654v1)|null|
-|**2023-10-25**|**EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition**|Niki Maria Foteinopoulou et.al.|[2310.16640v1](http://arxiv.org/abs/2310.16640v1)|null|
+|**2023-10-25**|**EmoCLIP: A Vision-Language Method for Zero-Shot Video Facial Expression Recognition**|Niki Maria Foteinopoulou et.al.|[2310.16640v1](http://arxiv.org/abs/2310.16640v1)|**[link](https://github.com/nickyfot/emoclip)**|
 |**2023-10-25**|**Learning Robust Deep Visual Representations from EEG Brain Recordings**|Prajwal Singh et.al.|[2310.16532v1](http://arxiv.org/abs/2310.16532v1)|**[link](https://github.com/prajwalsingh/eegstylegan-ada)**|
 |**2023-10-25**|**Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction**|Sebastian Koch et.al.|[2310.16494v1](http://arxiv.org/abs/2310.16494v1)|null|
 |**2023-10-25**|**Diversity Enhanced Narrative Question Generation for Storybooks**|Hokeun Yoon et.al.|[2310.16446v1](http://arxiv.org/abs/2310.16446v1)|**[link](https://github.com/hkyoon95/mqg)**|
-|**2023-10-25**|**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**|Ge Zheng et.al.|[2310.16436v1](http://arxiv.org/abs/2310.16436v1)|null|
+|**2023-10-26**|**DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models**|Ge Zheng et.al.|[2310.16436v2](http://arxiv.org/abs/2310.16436v2)|null|
 |**2023-10-25**|**ZGUL: Zero-shot Generalization to Unseen Languages using Multi-source Ensembling of Language Adapters**|Vipul Rathore et.al.|[2310.16393v1](http://arxiv.org/abs/2310.16393v1)|null|
 |**2023-10-24**|**EquivAct: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation**|Jingyun Yang et.al.|[2310.16050v1](http://arxiv.org/abs/2310.16050v1)|null|
 |**2023-10-25**|**WebWISE: Web Interface Control and Sequential Exploration with Large Language Models**|Heyi Tao et.al.|[2310.16042v2](http://arxiv.org/abs/2310.16042v2)|null|

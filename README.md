@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
-|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|null|
+|**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|**[link](https://github.com/ryota-takedalab/judgeai-lutzedge)**|
 |**2023-10-25**|**Real-time 6-DoF Pose Estimation by an Event-based Camera using Active LED Markers**|Gerald Ebmer et.al.|[2310.16618v1](http://arxiv.org/abs/2310.16618v1)|null|
 |**2023-10-25**|**ChimpACT: A Longitudinal Dataset for Understanding Chimpanzee Behaviors**|Xiaoxuan Ma et.al.|[2310.16447v1](http://arxiv.org/abs/2310.16447v1)|**[link](https://github.com/shirleymaxx/chimpact)**|
 |**2023-10-25**|**MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network**|Soroush Mehraban et.al.|[2310.16288v1](http://arxiv.org/abs/2310.16288v1)|**[link](https://github.com/taatiteam/motionagformer)**|

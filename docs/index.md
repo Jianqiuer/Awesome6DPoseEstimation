@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.29
+## Updated on 2023.10.30
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -392,7 +392,7 @@ layout: default
 |**2023-10-26**|**Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering**|Sukmin Cho et.al.|[2310.17490v1](http://arxiv.org/abs/2310.17490v1)|null|
 |**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419v1](http://arxiv.org/abs/2310.17419v1)|null|
 |**2023-10-26**|**X-SNS: Cross-Lingual Transfer Prediction through Sub-Network Similarity**|Taejun Yun et.al.|[2310.17166v1](http://arxiv.org/abs/2310.17166v1)|null|
-|**2023-10-26**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v1](http://arxiv.org/abs/2310.17075v1)|null|
+|**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v2](http://arxiv.org/abs/2310.17075v2)|null|
 |**2023-10-25**|**Exploring Question Decomposition for Zero-Shot VQA**|Zaid Khan et.al.|[2310.17050v1](http://arxiv.org/abs/2310.17050v1)|null|
 |**2023-10-25**|**STEER: Semantic Turn Extension-Expansion Recognition for Voice Assistants**|Leon Liyang Zhang et.al.|[2310.16990v1](http://arxiv.org/abs/2310.16990v1)|null|
 |**2023-10-25**|**LLM-FP4: 4-Bit Floating-Point Quantized Transformers**|Shih-yang Liu et.al.|[2310.16836v1](http://arxiv.org/abs/2310.16836v1)|**[link](https://github.com/nbasyl/llm-fp4)**|

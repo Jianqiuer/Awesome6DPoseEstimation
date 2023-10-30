@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**ProcNet: Deep Predictive Coding Model for Robust-to-occlusion Visual Segmentation and Pose Estimation**|Michael Zechmair et.al.|[2310.18009v1](http://arxiv.org/abs/2310.18009v1)|null|
+|**2023-10-26**|**Learning Extrinsic Dexterity with Parameterized Manipulation Primitives**|Shih-Min Yang et.al.|[2310.17785v1](http://arxiv.org/abs/2310.17785v1)|null|
 |**2023-10-26**|**6-DoF Stability Field via Diffusion Models**|Takuma Yoneda et.al.|[2310.17649v1](http://arxiv.org/abs/2310.17649v1)|null|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
 |**2023-10-26**|**Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs**|Ryota Tanaka et.al.|[2310.17193v1](http://arxiv.org/abs/2310.17193v1)|**[link](https://github.com/ryota-takedalab/judgeai-lutzedge)**|
@@ -283,6 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|null|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
 |**2023-10-18**|**DBDNet:Partial-to-Partial Point Cloud Registration with Dual Branches Decoupling**|Shiqi Li et.al.|[2310.11733v1](http://arxiv.org/abs/2310.11733v1)|null|
 |**2023-10-15**|**OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer**|Junjie Gao et.al.|[2310.09817v1](http://arxiv.org/abs/2310.09817v1)|null|
@@ -389,6 +392,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models**|Benjamin Feuer et.al.|[2310.18208v1](http://arxiv.org/abs/2310.18208v1)|**[link](https://github.com/penfever/archetype)**|
+|**2023-10-27**|**Lost in Translation, Found in Spans: Identifying Claims in Multilingual Social Media**|Shubham Mittal et.al.|[2310.18205v1](http://arxiv.org/abs/2310.18205v1)|null|
+|**2023-10-27**|**Text Augmented Spatial-aware Zero-shot Referring Image Segmentation**|Yucheng Suo et.al.|[2310.18049v1](http://arxiv.org/abs/2310.18049v1)|null|
+|**2023-10-27**|**Large language models for aspect-based sentiment analysis**|Paul F. Simmering et.al.|[2310.18025v1](http://arxiv.org/abs/2310.18025v1)|**[link](https://github.com/qagentur/absa_llm)**|
+|**2023-10-27**|**SentMix-3L: A Bangla-English-Hindi Code-Mixed Dataset for Sentiment Analysis**|Md Nishat Raihan et.al.|[2310.18023v1](http://arxiv.org/abs/2310.18023v1)|null|
+|**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
+|**2023-10-27**|**Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models**|Wujun Shao et.al.|[2310.17892v1](http://arxiv.org/abs/2310.17892v1)|null|
+|**2023-10-26**|**Large Language Models as Generalizable Policies for Embodied Tasks**|Andrew Szot et.al.|[2310.17722v1](http://arxiv.org/abs/2310.17722v1)|null|
 |**2023-10-26**|**Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering**|Sukmin Cho et.al.|[2310.17490v1](http://arxiv.org/abs/2310.17490v1)|null|
 |**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419v1](http://arxiv.org/abs/2310.17419v1)|null|
 |**2023-10-26**|**X-SNS: Cross-Lingual Transfer Prediction through Sub-Network Similarity**|Taejun Yun et.al.|[2310.17166v1](http://arxiv.org/abs/2310.17166v1)|null|

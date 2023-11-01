@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -400,7 +400,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233v1](http://arxiv.org/abs/2310.19233v1)|null|
 |**2023-10-29**|**MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion**|Pengyue Jia et.al.|[2310.19056v1](http://arxiv.org/abs/2310.19056v1)|null|
-|**2023-10-29**|**TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language Modeling Likewise**|Nan He et.al.|[2310.19019v1](http://arxiv.org/abs/2310.19019v1)|null|
+|**2023-10-31**|**TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language Modeling Likewise**|Nan He et.al.|[2310.19019v2](http://arxiv.org/abs/2310.19019v2)|null|
 |**2023-10-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v1](http://arxiv.org/abs/2310.18961v1)|**[link](https://github.com/zqhang/anomalyclip)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
 |**2023-10-28**|**N-Critics: Self-Refinement of Large Language Models with Ensemble of Critics**|Sajad Mousavi et.al.|[2310.18679v1](http://arxiv.org/abs/2310.18679v1)|null|

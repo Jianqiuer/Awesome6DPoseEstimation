@@ -1,4 +1,4 @@
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -292,7 +292,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -373,7 +373,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -404,7 +404,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -412,7 +412,7 @@
 |---|---|---|---|---|
 |**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233v1](http://arxiv.org/abs/2310.19233v1)|null|
 |**2023-10-29**|**MILL: Mutual Verification with Large Language Models for Zero-Shot Query Expansion**|Pengyue Jia et.al.|[2310.19056v1](http://arxiv.org/abs/2310.19056v1)|null|
-|**2023-10-29**|**TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language Modeling Likewise**|Nan He et.al.|[2310.19019v1](http://arxiv.org/abs/2310.19019v1)|null|
+|**2023-10-31**|**TeacherLM: Teaching to Fish Rather Than Giving the Fish, Language Modeling Likewise**|Nan He et.al.|[2310.19019v2](http://arxiv.org/abs/2310.19019v2)|null|
 |**2023-10-29**|**AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection**|Qihang Zhou et.al.|[2310.18961v1](http://arxiv.org/abs/2310.18961v1)|**[link](https://github.com/zqhang/anomalyclip)**|
 |**2023-10-28**|**Using Large Language Models to Support Thematic Analysis in Empirical Legal Studies**|Jakub Drápal et.al.|[2310.18729v1](http://arxiv.org/abs/2310.18729v1)|null|
 |**2023-10-28**|**N-Critics: Self-Refinement of Large Language Models with Ensemble of Critics**|Sajad Mousavi et.al.|[2310.18679v1](http://arxiv.org/abs/2310.18679v1)|null|
@@ -1017,5 +1017,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 

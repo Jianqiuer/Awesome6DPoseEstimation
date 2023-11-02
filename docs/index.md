@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401v1](http://arxiv.org/abs/2311.00401v1)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695v1](http://arxiv.org/abs/2310.20695v1)|null|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249v1](http://arxiv.org/abs/2310.20249v1)|null|
 |**2023-10-30**|**FetusMapV2: Enhanced Fetal Pose Estimation in 3D Ultrasound**|Chaoyu Chen et.al.|[2310.19293v1](http://arxiv.org/abs/2310.19293v1)|null|
@@ -401,6 +402,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Little Giants: Exploring the Potential of Small LLMs as Evaluation Metrics in Summarization in the Eval4NLP 2023 Shared Task**|Neema Kotonya et.al.|[2311.00686v1](http://arxiv.org/abs/2311.00686v1)|null|
+|**2023-11-01**|**Latent Space Translation via Semantic Alignment**|Valentino Maiorca et.al.|[2311.00664v1](http://arxiv.org/abs/2311.00664v1)|**[link](https://github.com/flegyas/latent-translation)**|
+|**2023-11-01**|**Crosslingual Retrieval Augmented In-context Learning for Bangla**|Xiaoqian Li et.al.|[2311.00587v1](http://arxiv.org/abs/2311.00587v1)|null|
+|**2023-11-01**|**CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection**|Xuhai Chen et.al.|[2311.00453v1](http://arxiv.org/abs/2311.00453v1)|null|
+|**2023-11-01**|**Distil-Whisper: Robust Knowledge Distillation via Large-Scale Pseudo Labelling**|Sanchit Gandhi et.al.|[2311.00430v1](http://arxiv.org/abs/2311.00430v1)|null|
+|**2023-11-01**|**LatentWarp: Consistent Diffusion Latents for Zero-Shot Video-to-Video Translation**|Yuxiang Bao et.al.|[2311.00353v1](http://arxiv.org/abs/2311.00353v1)|null|
+|**2023-11-01**|**Caseformer: Pre-training for Legal Case Retrieval**|Weihang Su et.al.|[2311.00333v1](http://arxiv.org/abs/2311.00333v1)|**[link](https://github.com/caseformer/caseformer)**|
+|**2023-11-01**|**Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks**|Po-Nien Kung et.al.|[2311.00288v1](http://arxiv.org/abs/2311.00288v1)|**[link](https://github.com/pluslabnlp/active-it)**|
+|**2023-11-01**|**Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection**|Min Jae Jung et.al.|[2311.00278v1](http://arxiv.org/abs/2311.00278v1)|null|
+|**2023-11-01**|**Distort, Distract, Decode: Instruction-Tuned Model Can Refine its Response from Noisy Instructions**|Taehyeon Kim et.al.|[2311.00233v1](http://arxiv.org/abs/2311.00233v1)|null|
 |**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588v1](http://arxiv.org/abs/2310.20588v1)|null|
 |**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550v1](http://arxiv.org/abs/2310.20550v1)|null|
 |**2023-10-31**|**Class Incremental Learning with Pre-trained Vision-Language Models**|Xialei Liu et.al.|[2310.20348v1](http://arxiv.org/abs/2310.20348v1)|null|

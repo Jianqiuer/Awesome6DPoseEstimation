@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380v1](http://arxiv.org/abs/2311.01380v1)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
 |**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401v1](http://arxiv.org/abs/2311.00401v1)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695v1](http://arxiv.org/abs/2310.20695v1)|null|
 |**2023-10-31**|**Pose-to-Motion: Cross-Domain Motion Retargeting with Pose Prior**|Qingqing Zhao et.al.|[2310.20249v1](http://arxiv.org/abs/2310.20249v1)|null|
@@ -294,6 +295,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
+|**2023-11-02**|**Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration**|Yifan Xie et.al.|[2311.01202v1](http://arxiv.org/abs/2311.01202v1)|**[link](https://github.com/ivanxie416/cmignet)**|
 |**2023-10-29**|**HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration**|Weiyi Xue et.al.|[2310.18874v1](http://arxiv.org/abs/2310.18874v1)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117v1](http://arxiv.org/abs/2310.18117v1)|**[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)**|
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
@@ -402,6 +405,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization**|Jameel Hassan et.al.|[2311.01459v1](http://arxiv.org/abs/2311.01459v1)|null|
+|**2023-11-02**|**Long Story Short: a Summarize-then-Search Method for Long Video Question Answering**|Jiwan Chung et.al.|[2311.01233v1](http://arxiv.org/abs/2311.01233v1)|null|
+|**2023-11-02**|**Multimodal Foundation Models for Zero-shot Animal Species Recognition in Camera Trap Images**|Zalan Fabian et.al.|[2311.01064v1](http://arxiv.org/abs/2311.01064v1)|null|
+|**2023-11-02**|**Learning to Adapt CLIP for Few-Shot Monocular Depth Estimation**|Xueting Hu et.al.|[2311.01034v1](http://arxiv.org/abs/2311.01034v1)|null|
+|**2023-11-02**|**Replicable Benchmarking of Neural Machine Translation (NMT) on Low-Resource Local Languages in Indonesia**|Lucky Susanto et.al.|[2311.00998v1](http://arxiv.org/abs/2311.00998v1)|**[link](https://github.com/exqrch/indonesiannmt)**|
+|**2023-11-02**|**E3 TTS: Easy End-to-End Diffusion-based Text to Speech**|Yuan Gao et.al.|[2311.00945v1](http://arxiv.org/abs/2311.00945v1)|null|
+|**2023-11-02**|**M2T2: Multi-Task Masked Transformer for Object-centric Pick and Place**|Wentao Yuan et.al.|[2311.00926v1](http://arxiv.org/abs/2311.00926v1)|null|
+|**2023-11-02**|**Task-Agnostic Low-Rank Adapters for Unseen English Dialects**|Zedian Xiao et.al.|[2311.00915v1](http://arxiv.org/abs/2311.00915v1)|null|
+|**2023-11-01**|**RoboVQA: Multimodal Long-Horizon Reasoning for Robotics**|Pierre Sermanet et.al.|[2311.00899v1](http://arxiv.org/abs/2311.00899v1)|null|
+|**2023-11-01**|**Calibrated Seq2seq Models for Efficient and Generalizable Ultra-fine Entity Typing**|Yanlin Feng et.al.|[2311.00835v1](http://arxiv.org/abs/2311.00835v1)|**[link](https://github.com/yanlinf/casent)**|
 |**2023-11-01**|**Little Giants: Exploring the Potential of Small LLMs as Evaluation Metrics in Summarization in the Eval4NLP 2023 Shared Task**|Neema Kotonya et.al.|[2311.00686v1](http://arxiv.org/abs/2311.00686v1)|null|
 |**2023-11-01**|**Latent Space Translation via Semantic Alignment**|Valentino Maiorca et.al.|[2311.00664v1](http://arxiv.org/abs/2311.00664v1)|**[link](https://github.com/flegyas/latent-translation)**|
 |**2023-11-01**|**Crosslingual Retrieval Augmented In-context Learning for Bangla**|Xiaoqian Li et.al.|[2311.00587v1](http://arxiv.org/abs/2311.00587v1)|null|

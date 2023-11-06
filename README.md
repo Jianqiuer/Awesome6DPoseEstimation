@@ -1,4 +1,4 @@
-## Updated on 2023.11.05
+## Updated on 2023.11.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -297,7 +297,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -310,7 +310,7 @@
 |**2023-10-26**|**SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**|Haobo Jiang et.al.|[2310.17359v1](http://arxiv.org/abs/2310.17359v1)|null|
 |**2023-10-18**|**DBDNet:Partial-to-Partial Point Cloud Registration with Dual Branches Decoupling**|Shiqi Li et.al.|[2310.11733v1](http://arxiv.org/abs/2310.11733v1)|null|
 |**2023-10-15**|**OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer**|Junjie Gao et.al.|[2310.09817v1](http://arxiv.org/abs/2310.09817v1)|null|
-|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|null|
+|**2023-10-09**|**FeatSense -- A Feature-based Registration Algorithm with GPU-accelerated TSDF-Mapping Backend for NVIDIA Jetson Boards**|Julian Gaal et.al.|[2310.05766v1](http://arxiv.org/abs/2310.05766v1)|**[link](https://github.com/juliangaal/warpsense)**|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504v1](http://arxiv.org/abs/2310.05504v1)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-06**|**Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching**|Shiquan Yi et.al.|[2310.04162v1](http://arxiv.org/abs/2310.04162v1)|**[link](https://github.com/brenyi/light-loam)**|
 |**2023-10-05**|**FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators**|Haiping Wang et.al.|[2310.03420v1](http://arxiv.org/abs/2310.03420v1)|**[link](https://github.com/WHU-USI3DV/FreeReg)**|
@@ -380,7 +380,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -411,7 +411,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1054,5 +1054,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231106>back to top</a>)</p>
 

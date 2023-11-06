@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Generating Unbiased Pseudo-labels via a Theoretically Guaranteed Chebyshev Constraint to Unify Semi-supervised Classification and Regression**|Jiaqi Wu et.al.|[2311.01782v1](http://arxiv.org/abs/2311.01782v1)|null|
+|**2023-11-03**|**Modeling the Uncertainty with Maximum Discrepant Students for Semi-supervised 2D Pose Estimation**|Jiaqi Wu et.al.|[2311.01770v1](http://arxiv.org/abs/2311.01770v1)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380v1](http://arxiv.org/abs/2311.01380v1)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
 |**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401v1](http://arxiv.org/abs/2311.00401v1)|null|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695v1](http://arxiv.org/abs/2310.20695v1)|**[link](https://github.com/junkunyuan/hap)**|
@@ -386,6 +388,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-11**|**PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation**|Haibo Qiu et.al.|[2310.07743v1](http://arxiv.org/abs/2310.07743v1)|**[link](https://github.com/haibo-qiu/PointHR)**|
 |**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932v1](http://arxiv.org/abs/2309.14932v1)|null|
@@ -417,6 +420,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**Towards Unsupervised Object Detection From LiDAR Point Clouds**|Lunjun Zhang et.al.|[2311.02007v1](http://arxiv.org/abs/2311.02007v1)|null|
+|**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
+|**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|
+|**2023-11-03**|**ForecastPFN: Synthetically-Trained Zero-Shot Forecasting**|Samuel Dooley et.al.|[2311.01933v1](http://arxiv.org/abs/2311.01933v1)|**[link](https://github.com/abacusai/forecastpfn)**|
+|**2023-11-03**|**Domain Randomization via Entropy Maximization**|Gabriele Tiboni et.al.|[2311.01885v1](http://arxiv.org/abs/2311.01885v1)|null|
+|**2023-11-03**|**PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion**|Yiduo Guo et.al.|[2311.01767v1](http://arxiv.org/abs/2311.01767v1)|**[link](https://github.com/gydpku/pptc)**|
+|**2023-11-03**|**CASE: Commonsense-Augmented Score with an Expanded Answer Space**|Wenkai Chen et.al.|[2311.01684v1](http://arxiv.org/abs/2311.01684v1)|**[link](https://github.com/wk-chen/commonsense-augmented-score-with-an-expanded-answer-space)**|
+|**2023-11-02**|**Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers**|Weiwei Sun et.al.|[2311.01555v1](http://arxiv.org/abs/2311.01555v1)|**[link](https://github.com/sunnweiwei/rankgpt)**|
+|**2023-11-02**|**What Makes for Good Visual Instructions? Synthesizing Complex Visual Reasoning Instructions for Visual Instruction Tuning**|Yifan Du et.al.|[2311.01487v1](http://arxiv.org/abs/2311.01487v1)|**[link](https://github.com/rucaibox/comvint)**|
 |**2023-11-02**|**Align Your Prompts: Test-Time Prompting with Distribution Alignment for Zero-Shot Generalization**|Jameel Hassan et.al.|[2311.01459v1](http://arxiv.org/abs/2311.01459v1)|null|
 |**2023-11-02**|**Long Story Short: a Summarize-then-Search Method for Long Video Question Answering**|Jiwan Chung et.al.|[2311.01233v1](http://arxiv.org/abs/2311.01233v1)|null|
 |**2023-11-02**|**Multimodal Foundation Models for Zero-shot Animal Species Recognition in Camera Trap Images**|Zalan Fabian et.al.|[2311.01064v1](http://arxiv.org/abs/2311.01064v1)|null|

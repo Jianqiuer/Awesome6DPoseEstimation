@@ -7,7 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-03**|**Generating Unbiased Pseudo-labels via a Theoretically Guaranteed Chebyshev Constraint to Unify Semi-supervised Classification and Regression**|Jiaqi Wu et.al.|[2311.01782v1](http://arxiv.org/abs/2311.01782v1)|null|
+|**2023-11-06**|**A Single 2D Pose with Context is Worth Hundreds for 3D Human Pose Estimation**|Qitao Zhao et.al.|[2311.03312v1](http://arxiv.org/abs/2311.03312v1)|null|
+|**2023-11-06**|**Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction**|Silvia Romero-Azpitarte et.al.|[2311.03146v1](http://arxiv.org/abs/2311.03146v1)|null|
+|**2023-11-06**|**Simultaneous Time Synchronization and Mutual Localization for Multi-robot System**|Xiangyong Wen et.al.|[2311.02948v1](http://arxiv.org/abs/2311.02948v1)|null|
+|**2023-11-06**|**Initialisation of Autonomous Aircraft Visual Inspection Systems via CNN-Based Camera Pose Estimation**|Xueyan Oh et.al.|[2311.02900v1](http://arxiv.org/abs/2311.02900v1)|null|
+|**2023-11-06**|**Efficient, Self-Supervised Human Pose Estimation with Inductive Prior Tuning**|Nobline Yoo et.al.|[2311.02815v1](http://arxiv.org/abs/2311.02815v1)|**[link](https://github.com/princetonvisualai/hpe-inductive-prior-tuning)**|
+|**2023-11-03**|**Generating Unbiased Pseudo-labels via a Theoretically Guaranteed Chebyshev Constraint to Unify Semi-supervised Classification and Regression**|Jiaqi Wu et.al.|[2311.01782v1](http://arxiv.org/abs/2311.01782v1)|**[link](https://github.com/Qi2019KB/UBPL-PoseEstimation)**|
 |**2023-11-03**|**Modeling the Uncertainty with Maximum Discrepant Students for Semi-supervised 2D Pose Estimation**|Jiaqi Wu et.al.|[2311.01770v1](http://arxiv.org/abs/2311.01770v1)|null|
 |**2023-11-02**|**Sim2Real Bilevel Adaptation for Object Surface Classification using Vision-Based Tactile Sensors**|Gabriele M. Caddeo et.al.|[2311.01380v1](http://arxiv.org/abs/2311.01380v1)|**[link](https://github.com/hsp-iit/sim2real-surface-classification)**|
 |**2023-11-01**|**A Spatial-Temporal Transformer based Framework For Human Pose Assessment And Correction in Education Scenarios**|Wenyang Hu et.al.|[2311.00401v1](http://arxiv.org/abs/2311.00401v1)|null|
@@ -378,7 +383,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
+|**2023-11-06**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v2](http://arxiv.org/abs/2311.01989v2)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-11**|**PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation**|Haibo Qiu et.al.|[2310.07743v1](http://arxiv.org/abs/2310.07743v1)|**[link](https://github.com/haibo-qiu/PointHR)**|
 |**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932v1](http://arxiv.org/abs/2309.14932v1)|null|
@@ -408,6 +413,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Rethinking Evaluation Metrics of Open-Vocabulary Segmentaion**|Hao Zhou et.al.|[2311.03352v1](http://arxiv.org/abs/2311.03352v1)|**[link](https://github.com/qqlu/entity)**|
+|**2023-11-06**|**Cross-Image Attention for Zero-Shot Appearance Transfer**|Yuval Alaluf et.al.|[2311.03335v1](http://arxiv.org/abs/2311.03335v1)|null|
+|**2023-11-06**|**Safurai-Csharp: Harnessing Synthetic Data to improve language-specific Code LLM**|Davide Cifarelli et.al.|[2311.03243v1](http://arxiv.org/abs/2311.03243v1)|null|
+|**2023-11-06**|**Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch**|Le Yu et.al.|[2311.03099v1](http://arxiv.org/abs/2311.03099v1)|**[link](https://github.com/yule-buaa/mergelm)**|
+|**2023-11-06**|**A Simple yet Efficient Ensemble Approach for AI-generated Text Detection**|Harika Abburi et.al.|[2311.03084v1](http://arxiv.org/abs/2311.03084v1)|null|
+|**2023-11-06**|**Zero-shot Bilingual App Reviews Mining with Large Language Models**|Jialiang Wei et.al.|[2311.03058v1](http://arxiv.org/abs/2311.03058v1)|**[link](https://github.com/jl-wei/mini-bar)**|
+|**2023-11-06**|**Masking Hyperspectral Imaging Data with Pretrained Models**|Elias Arbash et.al.|[2311.03053v1](http://arxiv.org/abs/2311.03053v1)|null|
+|**2023-11-06**|**Zero-Shot Enhancement of Low-Light Image Based on Retinex Decomposition**|Wenchao Li et.al.|[2311.02995v1](http://arxiv.org/abs/2311.02995v1)|null|
+|**2023-11-06**|**Transduce and Speak: Neural Transducer for Text-to-Speech with Semantic Token Prediction**|Minchan Kim et.al.|[2311.02898v1](http://arxiv.org/abs/2311.02898v1)|null|
+|**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847v1](http://arxiv.org/abs/2311.02847v1)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
 |**2023-11-03**|**Towards Unsupervised Object Detection From LiDAR Point Clouds**|Lunjun Zhang et.al.|[2311.02007v1](http://arxiv.org/abs/2311.02007v1)|null|
 |**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
 |**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|

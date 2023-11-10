@@ -13,8 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344v1](http://arxiv.org/abs/2311.05344v1)|null|
+|**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
+|**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310v1](http://arxiv.org/abs/2311.05310v1)|null|
+|**2023-11-09**|**Differentiable Cloth Parameter Identification and State Estimation in Manipulation**|Dongzhe Zheng et.al.|[2311.05141v1](http://arxiv.org/abs/2311.05141v1)|null|
+|**2023-11-09**|**POISE: Pose Guided Human Silhouette Extraction under Occlusions**|Arindam Dutta et.al.|[2311.05077v1](http://arxiv.org/abs/2311.05077v1)|**[link](https://github.com/take2rohit/poise)**|
+|**2023-11-08**|**Active Transfer Learning for Efficient Video-Specific Human Pose Estimation**|Hiromu Taketsugu et.al.|[2311.05041v1](http://arxiv.org/abs/2311.05041v1)|**[link](https://github.com/iminthemiddle/vatl4pose-wacv2024)**|
 |**2023-11-08**|**3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud**|Jianchao Ci et.al.|[2311.04699v1](http://arxiv.org/abs/2311.04699v1)|null|
-|**2023-11-08**|**Rethinking Event-based Human Pose Estimation with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591v1](http://arxiv.org/abs/2311.04591v1)|**[link](https://github.com/masterhow/eventpointpose)**|
+|**2023-11-09**|**Rethinking Human Pose Estimation for Autonomous Driving with 3D Event Representations**|Xiaoting Yin et.al.|[2311.04591v2](http://arxiv.org/abs/2311.04591v2)|**[link](https://github.com/masterhow/eventpointpose)**|
 |**2023-11-08**|**Learning Robust Multi-Scale Representation for Neural Radiance Fields from Unposed Images**|Nishant Jain et.al.|[2311.04521v1](http://arxiv.org/abs/2311.04521v1)|null|
 |**2023-11-08**|**PLV-IEKF: Consistent Visual-Inertial Odometry using Points, Lines, and Vanishing Points**|Tong Hua et.al.|[2311.04477v1](http://arxiv.org/abs/2311.04477v1)|null|
 |**2023-11-08**|**UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields**|Injae Kim et.al.|[2311.03784v2](http://arxiv.org/abs/2311.03784v2)|null|
@@ -430,6 +436,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584v1](http://arxiv.org/abs/2311.05584v1)|null|
+|**2023-11-09**|**Mirror: A Universal Framework for Various Information Extraction Tasks**|Tong Zhu et.al.|[2311.05419v1](http://arxiv.org/abs/2311.05419v1)|**[link](https://github.com/Spico197/Mirror)**|
+|**2023-11-09**|**Large Language Models and Prompt Engineering for Biomedical Query Focused Multi-Document Summarisation**|Diego Mollá et.al.|[2311.05169v1](http://arxiv.org/abs/2311.05169v1)|null|
+|**2023-11-09**|**Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks**|Haoyi Duan et.al.|[2311.05152v1](http://arxiv.org/abs/2311.05152v1)|**[link](https://github.com/haoyi-duan/dg-sct)**|
+|**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043v1](http://arxiv.org/abs/2311.05043v1)|**[link](https://github.com/explainableml/zs-a2t)**|
+|**2023-11-08**|**Prompt Sketching for Large Language Models**|Luca Beurer-Kellner et.al.|[2311.04954v1](http://arxiv.org/abs/2311.04954v1)|null|
 |**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693v1](http://arxiv.org/abs/2311.04693v1)|null|
 |**2023-11-07**|**Analysis and Applications of Deep Learning with Finite Samples in Full Life-Cycle Intelligence of Nuclear Power Generation**|Chenwei Tang et.al.|[2311.04247v1](http://arxiv.org/abs/2311.04247v1)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|

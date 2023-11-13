@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**CESPED: a new benchmark for supervised particle pose estimation in Cryo-EM**|Ruben Sanchez-Garcia et.al.|[2311.06194v1](http://arxiv.org/abs/2311.06194v1)|null|
+|**2023-11-10**|**2D Image head pose estimation via latent space regression under occlusion settings**|José Celestino et.al.|[2311.06038v1](http://arxiv.org/abs/2311.06038v1)|**[link](https://github.com/sipg-isr/Occlusion_HPE)**|
+|**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992v1](http://arxiv.org/abs/2311.05992v1)|null|
+|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887v1](http://arxiv.org/abs/2311.05887v1)|null|
 |**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344v1](http://arxiv.org/abs/2311.05344v1)|null|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
 |**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310v1](http://arxiv.org/abs/2311.05310v1)|null|
@@ -394,6 +398,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**U3DS $^3$ : Unsupervised 3D Semantic Scene Segmentation**|Jiaxu Liu et.al.|[2311.06018v1](http://arxiv.org/abs/2311.06018v1)|null|
 |**2023-11-06**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v2](http://arxiv.org/abs/2311.01989v2)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|
 |**2023-10-11**|**PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation**|Haibo Qiu et.al.|[2310.07743v1](http://arxiv.org/abs/2310.07743v1)|**[link](https://github.com/haibo-qiu/PointHR)**|
@@ -424,6 +429,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
+|**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176v1](http://arxiv.org/abs/2311.06176v1)|null|
+|**2023-11-10**|**Is it indeed bigger better? The comprehensive study of claim detection LMs applied for disinformation tackling**|Martin Hyben et.al.|[2311.06121v1](http://arxiv.org/abs/2311.06121v1)|null|
+|**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|
+|**2023-11-10**|**Large Language Models are Zero Shot Hypothesis Proposers**|Biqing Qi et.al.|[2311.05965v1](http://arxiv.org/abs/2311.05965v1)|null|
+|**2023-11-10**|**Chain of Thought with Explicit Evidence Reasoning for Few-shot Relation Extraction**|Xilai Ma et.al.|[2311.05922v1](http://arxiv.org/abs/2311.05922v1)|null|
+|**2023-11-09**|**Real-time Control of Electric Autonomous Mobility-on-Demand Systems via Graph Reinforcement Learning**|Aaryan Singhal et.al.|[2311.05780v1](http://arxiv.org/abs/2311.05780v1)|**[link](https://github.com/stanfordasl/graph-rl-for-eamod)**|
+|**2023-11-09**|**Deep Natural Language Feature Learning for Interpretable Prediction**|Felipe Urrutia et.al.|[2311.05754v1](http://arxiv.org/abs/2311.05754v1)|**[link](https://github.com/furrutiav/nllf-emnlp-2023)**|
+|**2023-11-09**|**GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning**|Guangyue Xu et.al.|[2311.05729v1](http://arxiv.org/abs/2311.05729v1)|null|
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584v1](http://arxiv.org/abs/2311.05584v1)|null|
 |**2023-11-09**|**Mirror: A Universal Framework for Various Information Extraction Tasks**|Tong Zhu et.al.|[2311.05419v1](http://arxiv.org/abs/2311.05419v1)|**[link](https://github.com/Spico197/Mirror)**|
 |**2023-11-09**|**Large Language Models and Prompt Engineering for Biomedical Query Focused Multi-Document Summarisation**|Diego Mollá et.al.|[2311.05169v1](http://arxiv.org/abs/2311.05169v1)|null|

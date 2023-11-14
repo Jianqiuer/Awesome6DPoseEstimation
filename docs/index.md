@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2023-11-13**|**Bio-Inspired Grasping Controller for Sensorized 2-DoF Grippers**|Luca Lach et.al.|[2311.07257v1](http://arxiv.org/abs/2311.07257v1)|null|
 |**2023-11-10**|**CESPED: a new benchmark for supervised particle pose estimation in Cryo-EM**|Ruben Sanchez-Garcia et.al.|[2311.06194v1](http://arxiv.org/abs/2311.06194v1)|null|
 |**2023-11-10**|**2D Image head pose estimation via latent space regression under occlusion settings**|José Celestino et.al.|[2311.06038v1](http://arxiv.org/abs/2311.06038v1)|**[link](https://github.com/sipg-isr/Occlusion_HPE)**|
 |**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992v1](http://arxiv.org/abs/2311.05992v1)|null|
@@ -429,6 +431,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
+|**2023-11-13**|**Using Natural Language Explanations to Improve Robustness of In-context Learning for Natural Language Inference**|Xuanli He et.al.|[2311.07556v1](http://arxiv.org/abs/2311.07556v1)|null|
+|**2023-11-13**|**Leveraging Multiple Teachers for Test-Time Adaptation of Language-Guided Classifiers**|Kangda Wei et.al.|[2311.07538v1](http://arxiv.org/abs/2311.07538v1)|**[link](https://github.com/weikangda/talc)**|
+|**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509v1](http://arxiv.org/abs/2311.07509v1)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345v1](http://arxiv.org/abs/2311.07345v1)|null|
+|**2023-11-13**|**Do large language models and humans have similar behaviors in causal inference with script knowledge?**|Xudong Hong et.al.|[2311.07311v1](http://arxiv.org/abs/2311.07311v1)|**[link](https://github.com/tony-hong/causal-script)**|
+|**2023-11-13**|**SponTTS: modeling and transferring spontaneous style for TTS**|Hanzhao Li et.al.|[2311.07179v1](http://arxiv.org/abs/2311.07179v1)|null|
+|**2023-11-13**|**Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions**|Sachin Kumar et.al.|[2311.07115v1](http://arxiv.org/abs/2311.07115v1)|null|
+|**2023-11-13**|**Explain-then-Translate: An Analysis on Improving Program Translation with Self-generated Explanations**|Zilu Tang et.al.|[2311.07070v1](http://arxiv.org/abs/2311.07070v1)|**[link](https://github.com/pootiet/explain-then-translate)**|
+|**2023-11-13**|**ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models**|Ilker Kesen et.al.|[2311.07022v1](http://arxiv.org/abs/2311.07022v1)|null|
 |**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
 |**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176v1](http://arxiv.org/abs/2311.06176v1)|null|
 |**2023-11-10**|**Is it indeed bigger better? The comprehensive study of claim detection LMs applied for disinformation tackling**|Martin Hyben et.al.|[2311.06121v1](http://arxiv.org/abs/2311.06121v1)|null|

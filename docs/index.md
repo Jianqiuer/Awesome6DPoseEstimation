@@ -431,6 +431,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Zero-shot audio captioning with audio-language model guidance and audio context keywords**|Leonard Salewski et.al.|[2311.08396v1](http://arxiv.org/abs/2311.08396v1)|**[link](https://github.com/explainableml/zeraucap)**|
+|**2023-11-14**|**Anti-LM Decoding for Zero-shot In-context Machine Translation**|Suzanna Sia et.al.|[2311.08324v1](http://arxiv.org/abs/2311.08324v1)|null|
+|**2023-11-14**|**TENT: Connect Language Models with IoT Sensors for Zero-Shot Activity Recognition**|Yunjiao Zhou et.al.|[2311.08245v1](http://arxiv.org/abs/2311.08245v1)|null|
+|**2023-11-14**|**Unlock the Power: Competitive Distillation for Multi-Modal Large Language Models**|Xinwei Li et.al.|[2311.08213v1](http://arxiv.org/abs/2311.08213v1)|null|
+|**2023-11-14**|**Zero-Shot Segmentation of Eye Features Using the Segment Anything Model (SAM)**|Virmarie Maquiling et.al.|[2311.08077v1](http://arxiv.org/abs/2311.08077v1)|null|
+|**2023-11-14**|**Text Retrieval with Multi-Stage Re-Ranking Models**|Yuichi Sasazawa et.al.|[2311.07994v1](http://arxiv.org/abs/2311.07994v1)|**[link](https://github.com/ckdjrkffz/multi-stage-reranking)**|
+|**2023-11-14**|**It's All Relative! -- A Synthetic Query Generation Approach for Improving Zero-Shot Relevance Prediction**|Aditi Chaudhary et.al.|[2311.07930v1](http://arxiv.org/abs/2311.07930v1)|null|
+|**2023-11-14**|**Automated title and abstract screening for scoping reviews using the GPT-4 Large Language Model**|David Wilkins et.al.|[2311.07918v1](http://arxiv.org/abs/2311.07918v1)|null|
+|**2023-11-14**|**Overview of the TREC 2023 Product Product Search Track**|Daniel Campos et.al.|[2311.07861v1](http://arxiv.org/abs/2311.07861v1)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|null|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
 |**2023-11-13**|**Using Natural Language Explanations to Improve Robustness of In-context Learning for Natural Language Inference**|Xuanli He et.al.|[2311.07556v1](http://arxiv.org/abs/2311.07556v1)|null|
 |**2023-11-13**|**Leveraging Multiple Teachers for Test-Time Adaptation of Language-Guided Classifiers**|Kangda Wei et.al.|[2311.07538v1](http://arxiv.org/abs/2311.07538v1)|**[link](https://github.com/weikangda/talc)**|

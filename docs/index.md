@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2023.11.17
+## Updated on 2023.11.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
+|**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
+|**2023-11-16**|**Improved TokenPose with Sparsity**|Anning Li et.al.|[2311.09653v1](http://arxiv.org/abs/2311.09653v1)|null|
+|**2023-11-16**|**Pseudo-keypoints RKHS Learning for Self-supervised 6DoF Pose Estimation**|Yangzheng Wu et.al.|[2311.09500v1](http://arxiv.org/abs/2311.09500v1)|null|
+|**2023-11-15**|**NormNet: Scale Normalization for 6D Pose Estimation in Stacked Scenarios**|En-Te Lin et.al.|[2311.09269v1](http://arxiv.org/abs/2311.09269v1)|**[link](https://github.com/shuttlet/normnet)**|
 |**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056v1](http://arxiv.org/abs/2311.09056v1)|**[link](https://github.com/utiasdsl/ra_lan)**|
 |**2023-11-14**|**LocaliseBot: Multi-view 3D object localisation with differentiable rendering for robot grasping**|Sujal Vijayaraghavan et.al.|[2311.08438v1](http://arxiv.org/abs/2311.08438v1)|null|
 |**2023-11-13**|**SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**|Ziyi Lin et.al.|[2311.07575v1](http://arxiv.org/abs/2311.07575v1)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
@@ -321,6 +326,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change**|Tao Sun et.al.|[2311.09346v1](http://arxiv.org/abs/2311.09346v1)|null|
 |**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
 |**2023-11-02**|**Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration**|Yifan Xie et.al.|[2311.01202v1](http://arxiv.org/abs/2311.01202v1)|**[link](https://github.com/ivanxie416/cmignet)**|
 |**2023-10-29**|**HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration**|Weiyi Xue et.al.|[2310.18874v1](http://arxiv.org/abs/2310.18874v1)|null|
@@ -433,6 +439,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-16**|**Generative AI for Hate Speech Detection: Evaluation and Findings**|Sagi Pendzel et.al.|[2311.09993v1](http://arxiv.org/abs/2311.09993v1)|null|
+|**2023-11-16**|**X-Mark: Towards Lossless Watermarking Through Lexical Redundancy**|Liang Chen et.al.|[2311.09832v1](http://arxiv.org/abs/2311.09832v1)|null|
+|**2023-11-16**|**Neural-Logic Human-Object Interaction Detection**|Liulei Li et.al.|[2311.09817v1](http://arxiv.org/abs/2311.09817v1)|null|
+|**2023-11-16**|**$\textit{Dial BeInfo for Faithfulness}$ : Improving Factuality of Information-Seeking Dialogue via Behavioural Fine-Tuning**|Evgeniia Razumovskaia et.al.|[2311.09800v1](http://arxiv.org/abs/2311.09800v1)|null|
+|**2023-11-16**|**DINO-VITS: Data-Efficient Noise-Robust Zero-Shot Voice Cloning via Multi-Tasking with Self-Supervised Speaker Verification Loss**|Vikentii Pankov et.al.|[2311.09770v1](http://arxiv.org/abs/2311.09770v1)|null|
+|**2023-11-16**|**Back to Basics: A Simple Recipe for Improving Out-of-Domain Retrieval in Dense Encoders**|Hyunji Lee et.al.|[2311.09765v1](http://arxiv.org/abs/2311.09765v1)|**[link](https://github.com/amy-hyunji/lora-for-retrieval)**|
+|**2023-11-16**|**MAFALDA: A Benchmark and Comprehensive Study of Fallacy Detection and Classification**|Chadi Helwe et.al.|[2311.09761v1](http://arxiv.org/abs/2311.09761v1)|null|
+|**2023-11-16**|**GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding**|Andor Diera et.al.|[2311.09707v1](http://arxiv.org/abs/2311.09707v1)|null|
+|**2023-11-16**|**ICXML: An In-Context Learning Framework for Zero-Shot Extreme Multi-Label Classification**|Yaxin Zhu et.al.|[2311.09649v1](http://arxiv.org/abs/2311.09649v1)|null|
+|**2023-11-16**|**Code Models are Zero-shot Precondition Reasoners**|Lajanugen Logeswaran et.al.|[2311.09601v1](http://arxiv.org/abs/2311.09601v1)|null|
 |**2023-11-15**|**Domain Aligned CLIP for Few-shot Classification**|Muhammad Waleed Gondal et.al.|[2311.09191v1](http://arxiv.org/abs/2311.09191v1)|null|
 |**2023-11-15**|**Generate, Filter, and Fuse: Query Expansion via Multi-Step Keyword Generation for Zero-Shot Neural Rankers**|Minghan Li et.al.|[2311.09175v1](http://arxiv.org/abs/2311.09175v1)|null|
 |**2023-11-16**|**AbsPyramid: Benchmarking the Abstraction Ability of Language Models with a Unified Entailment Graph**|Zhaowei Wang et.al.|[2311.09174v2](http://arxiv.org/abs/2311.09174v2)|**[link](https://github.com/hkust-knowcomp/abspyramid)**|

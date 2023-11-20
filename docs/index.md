@@ -468,12 +468,12 @@ layout: default
 |**2023-11-14**|**It's All Relative! -- A Synthetic Query Generation Approach for Improving Zero-Shot Relevance Prediction**|Aditi Chaudhary et.al.|[2311.07930v1](http://arxiv.org/abs/2311.07930v1)|null|
 |**2023-11-14**|**Automated title and abstract screening for scoping reviews using the GPT-4 Large Language Model**|David Wilkins et.al.|[2311.07918v1](http://arxiv.org/abs/2311.07918v1)|**[link](https://github.com/wilkox/gptscreenr)**|
 |**2023-11-14**|**Overview of the TREC 2023 Product Product Search Track**|Daniel Campos et.al.|[2311.07861v1](http://arxiv.org/abs/2311.07861v1)|null|
-|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|null|
+|**2023-11-14**|**Bring Your Own KG: Self-Supervised Program Synthesis for Zero-Shot KGQA**|Dhruv Agarwal et.al.|[2311.07850v1](http://arxiv.org/abs/2311.07850v1)|**[link](https://github.com/dhdhagar/byokg)**|
 |**2023-11-13**|**GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation**|An Yan et.al.|[2311.07562v1](http://arxiv.org/abs/2311.07562v1)|**[link](https://github.com/zzxslp/mm-navigator)**|
 |**2023-11-13**|**Using Natural Language Explanations to Improve Robustness of In-context Learning for Natural Language Inference**|Xuanli He et.al.|[2311.07556v1](http://arxiv.org/abs/2311.07556v1)|null|
 |**2023-11-13**|**Leveraging Multiple Teachers for Test-Time Adaptation of Language-Guided Classifiers**|Kangda Wei et.al.|[2311.07538v1](http://arxiv.org/abs/2311.07538v1)|**[link](https://github.com/weikangda/talc)**|
 |**2023-11-13**|**A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases**|Juan Sequeda et.al.|[2311.07509v1](http://arxiv.org/abs/2311.07509v1)|null|
-|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345v1](http://arxiv.org/abs/2311.07345v1)|null|
+|**2023-11-13**|**Zero-Shot Duet Singing Voices Separation with Diffusion Models**|Chin-Yun Yu et.al.|[2311.07345v1](http://arxiv.org/abs/2311.07345v1)|**[link](https://github.com/yoyololicon/duet-svs-diffusion)**|
 |**2023-11-13**|**Do large language models and humans have similar behaviors in causal inference with script knowledge?**|Xudong Hong et.al.|[2311.07311v1](http://arxiv.org/abs/2311.07311v1)|**[link](https://github.com/tony-hong/causal-script)**|
 |**2023-11-13**|**SponTTS: modeling and transferring spontaneous style for TTS**|Hanzhao Li et.al.|[2311.07179v1](http://arxiv.org/abs/2311.07179v1)|null|
 |**2023-11-13**|**Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions**|Sachin Kumar et.al.|[2311.07115v1](http://arxiv.org/abs/2311.07115v1)|null|
@@ -487,7 +487,7 @@ layout: default
 |**2023-11-10**|**Chain of Thought with Explicit Evidence Reasoning for Few-shot Relation Extraction**|Xilai Ma et.al.|[2311.05922v1](http://arxiv.org/abs/2311.05922v1)|null|
 |**2023-11-09**|**Real-time Control of Electric Autonomous Mobility-on-Demand Systems via Graph Reinforcement Learning**|Aaryan Singhal et.al.|[2311.05780v1](http://arxiv.org/abs/2311.05780v1)|**[link](https://github.com/stanfordasl/graph-rl-for-eamod)**|
 |**2023-11-09**|**Deep Natural Language Feature Learning for Interpretable Prediction**|Felipe Urrutia et.al.|[2311.05754v1](http://arxiv.org/abs/2311.05754v1)|**[link](https://github.com/furrutiav/nllf-emnlp-2023)**|
-|**2023-11-09**|**GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning**|Guangyue Xu et.al.|[2311.05729v1](http://arxiv.org/abs/2311.05729v1)|null|
+|**2023-11-09**|**GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning**|Guangyue Xu et.al.|[2311.05729v1](http://arxiv.org/abs/2311.05729v1)|**[link](https://github.com/hlr/gipcol)**|
 |**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584v1](http://arxiv.org/abs/2311.05584v1)|null|
 |**2023-11-09**|**Mirror: A Universal Framework for Various Information Extraction Tasks**|Tong Zhu et.al.|[2311.05419v1](http://arxiv.org/abs/2311.05419v1)|**[link](https://github.com/Spico197/Mirror)**|
 |**2023-11-09**|**Large Language Models and Prompt Engineering for Biomedical Query Focused Multi-Document Summarisation**|Diego Mollá et.al.|[2311.05169v1](http://arxiv.org/abs/2311.05169v1)|null|
@@ -515,7 +515,7 @@ layout: default
 |**2023-11-06**|**Kinematic-aware Prompting for Generalizable Articulated Object Manipulation with LLMs**|Wenke Xia et.al.|[2311.02847v1](http://arxiv.org/abs/2311.02847v1)|**[link](https://github.com/xwinks/llm_articulated_object_manipulation)**|
 |**2023-11-03**|**Towards Unsupervised Object Detection From LiDAR Point Clouds**|Lunjun Zhang et.al.|[2311.02007v1](http://arxiv.org/abs/2311.02007v1)|null|
 |**2023-11-03**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v1](http://arxiv.org/abs/2311.01989v1)|null|
-|**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|null|
+|**2023-11-03**|**The language of prompting: What linguistic properties make a prompt successful?**|Alina Leidinger et.al.|[2311.01967v1](http://arxiv.org/abs/2311.01967v1)|**[link](https://github.com/aleidinger/language_of_prompting)**|
 |**2023-11-03**|**ForecastPFN: Synthetically-Trained Zero-Shot Forecasting**|Samuel Dooley et.al.|[2311.01933v1](http://arxiv.org/abs/2311.01933v1)|**[link](https://github.com/abacusai/forecastpfn)**|
 |**2023-11-03**|**Domain Randomization via Entropy Maximization**|Gabriele Tiboni et.al.|[2311.01885v1](http://arxiv.org/abs/2311.01885v1)|null|
 |**2023-11-03**|**PPTC Benchmark: Evaluating Large Language Models for PowerPoint Task Completion**|Yiduo Guo et.al.|[2311.01767v1](http://arxiv.org/abs/2311.01767v1)|**[link](https://github.com/gydpku/pptc)**|
@@ -776,7 +776,7 @@ layout: default
 |**2023-09-24**|**Policy Stitching: Learning Transferable Robot Policies**|Pingcheng Jian et.al.|[2309.13753v1](http://arxiv.org/abs/2309.13753v1)|null|
 |**2023-09-24**|**VoiceLDM: Text-to-Speech with Environmental Context**|Yeonghyeon Lee et.al.|[2309.13664v1](http://arxiv.org/abs/2309.13664v1)|null|
 |**2023-09-24**|**MentalLLaMA: Interpretable Mental Health Analysis on Social Media with Large Language Models**|Kailai Yang et.al.|[2309.13567v1](http://arxiv.org/abs/2309.13567v1)|**[link](https://github.com/stevekgyang/mentalllama)**|
-|**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|null|
+|**2023-09-24**|**MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation**|Sekeun Kim et.al.|[2309.13539v1](http://arxiv.org/abs/2309.13539v1)|**[link](https://github.com/kimsekeun/medivista-sam)**|
 |**2023-09-24**|**Bridging Semantic Gaps for Language-Supervised Semantic Segmentation**|Yun Xing et.al.|[2309.13505v1](http://arxiv.org/abs/2309.13505v1)|**[link](https://github.com/xing0047/cocu)**|
 |**2023-09-22**|**Self-Explanation Prompting Improves Dialogue Understanding in Large Language Models**|Haoyu Gao et.al.|[2309.12940v1](http://arxiv.org/abs/2309.12940v1)|null|
 |**2023-09-22**|**Affect Recognition in Conversations Using Large Language Models**|Shutong Feng et.al.|[2309.12881v1](http://arxiv.org/abs/2309.12881v1)|null|

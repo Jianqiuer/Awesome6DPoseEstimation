@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**Hourglass Tokenizer for Efficient Transformer-Based 3D Human Pose Estimation**|Wenhao Li et.al.|[2311.12028v1](http://arxiv.org/abs/2311.12028v1)|null|
+|**2023-11-20**|**SniffyArt: The Dataset of Smelling Persons**|Mathias Zinnen et.al.|[2311.11888v1](http://arxiv.org/abs/2311.11888v1)|null|
+|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808v1](http://arxiv.org/abs/2311.11808v1)|null|
+|**2023-11-18**|**SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation**|Yamei Chen et.al.|[2311.11125v1](http://arxiv.org/abs/2311.11125v1)|null|
+|**2023-11-18**|**Synthetic Data Generation for Bridging Sim2Real Gap in a Production Environment**|Parth Rawal et.al.|[2311.11039v1](http://arxiv.org/abs/2311.11039v1)|null|
+|**2023-11-18**|**Multiple View Geometry Transformers for 3D Human Pose Estimation**|Ziwei Liao et.al.|[2311.10983v1](http://arxiv.org/abs/2311.10983v1)|null|
+|**2023-11-18**|**Jenga Stacking Based on 6D Pose Estimation for Architectural Form Finding Process**|Zixun Huang et.al.|[2311.10918v1](http://arxiv.org/abs/2311.10918v1)|null|
 |**2023-11-17**|**BiHRNet: A Binary high-resolution network for Human Pose Estimation**|Zhicheng Zhang et.al.|[2311.10296v1](http://arxiv.org/abs/2311.10296v1)|null|
 |**2023-11-16**|**Match and Locate: low-frequency monocular odometry based on deep feature matching**|Stepan Konev et.al.|[2311.10034v1](http://arxiv.org/abs/2311.10034v1)|null|
 |**2023-11-16**|**LIO-EKF: High Frequency LiDAR-Inertial Odometry using Extended Kalman Filters**|Yibin Wu et.al.|[2311.09887v1](http://arxiv.org/abs/2311.09887v1)|null|
@@ -440,6 +447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-20**|**GPT-4V(ision) for Robotics: Multimodal Task Planning from Human Demonstration**|Naoki Wake et.al.|[2311.12015v1](http://arxiv.org/abs/2311.12015v1)|null|
+|**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825v1](http://arxiv.org/abs/2311.11825v1)|null|
+|**2023-11-20**|**A Large-Scale Car Parts (LSCP) Dataset for Lightweight Fine-Grained Detection**|Wang Jie et.al.|[2311.11754v1](http://arxiv.org/abs/2311.11754v1)|null|
+|**2023-11-20**|**Encoding Speaker-Specific Latent Speech Feature for Speech Synthesis**|Jungil Kong et.al.|[2311.11745v1](http://arxiv.org/abs/2311.11745v1)|null|
+|**2023-11-20**|**KBioXLM: A Knowledge-anchored Biomedical Multilingual Pretrained Language Model**|Lei Geng et.al.|[2311.11564v1](http://arxiv.org/abs/2311.11564v1)|**[link](https://github.com/ngwlh-gl/kbioxlm)**|
+|**2023-11-20**|**Exploring Prompting Large Language Models as Explainable Metrics**|Ghazaleh Mahmoudi et.al.|[2311.11552v1](http://arxiv.org/abs/2311.11552v1)|**[link](https://github.com/ghazaleh-mahmoodi/Prompting_LLMs_AS_Explainable_Metrics)**|
+|**2023-11-20**|**Which AI Technique Is Better to Classify Requirements? An Experiment with SVM, LSTM, and ChatGPT**|Abdelkarim El-Hajjami et.al.|[2311.11547v1](http://arxiv.org/abs/2311.11547v1)|null|
+|**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417v1](http://arxiv.org/abs/2311.11417v1)|null|
+|**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319v1](http://arxiv.org/abs/2311.11319v1)|null|
+|**2023-11-18**|**Active Prompt Learning in Vision Language Models**|Jihwan Bang et.al.|[2311.11178v1](http://arxiv.org/abs/2311.11178v1)|null|
 |**2023-11-16**|**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**|Xiangru Tang et.al.|[2311.10537v1](http://arxiv.org/abs/2311.10537v1)|**[link](https://github.com/gersteinlab/medagents)**|
 |**2023-11-17**|**Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation**|Shenghao Yang et.al.|[2311.10501v1](http://arxiv.org/abs/2311.10501v1)|**[link](https://github.com/ysh-1998/cowpirec)**|
 |**2023-11-16**|**Generative AI for Hate Speech Detection: Evaluation and Findings**|Sagi Pendzel et.al.|[2311.09993v1](http://arxiv.org/abs/2311.09993v1)|null|

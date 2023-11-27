@@ -33,7 +33,7 @@ layout: default
 |**2023-11-10**|**CESPED: a new benchmark for supervised particle pose estimation in Cryo-EM**|Ruben Sanchez-Garcia et.al.|[2311.06194v1](http://arxiv.org/abs/2311.06194v1)|null|
 |**2023-11-10**|**2D Image head pose estimation via latent space regression under occlusion settings**|José Celestino et.al.|[2311.06038v1](http://arxiv.org/abs/2311.06038v1)|**[link](https://github.com/sipg-isr/Occlusion_HPE)**|
 |**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992v1](http://arxiv.org/abs/2311.05992v1)|null|
-|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887v1](http://arxiv.org/abs/2311.05887v1)|null|
+|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887v1](http://arxiv.org/abs/2311.05887v1)|**[link](https://github.com/szellmann/anari-offaxis-sample-code)**|
 |**2023-11-09**|**Visually Guided Model Predictive Robot Control via 6D Object Pose Localization and Tracking**|Mederic Fourmy et.al.|[2311.05344v1](http://arxiv.org/abs/2311.05344v1)|null|
 |**2023-11-09**|**Spatial Attention-based Distribution Integration Network for Human Pose Estimation**|Sihan Gao et.al.|[2311.05323v1](http://arxiv.org/abs/2311.05323v1)|null|
 |**2023-11-09**|**SPADES: A Realistic Spacecraft Pose Estimation Dataset using Event Sensing**|Arunkumar Rathinam et.al.|[2311.05310v1](http://arxiv.org/abs/2311.05310v1)|null|
@@ -211,7 +211,7 @@ layout: default
 |**2023-08-21**|**Approximately Equivariant Graph Networks**|Ningyuan Huang et.al.|[2308.10436v1](http://arxiv.org/abs/2308.10436v1)|**[link](https://github.com/nhuang37/approx_equivariant_graph_nets)**|
 |**2023-08-21**|**In-Rack Test Tube Pose Estimation Using RGB-D Data**|Hao Chen et.al.|[2308.10411v1](http://arxiv.org/abs/2308.10411v1)|null|
 |**2023-08-20**|**Co-Evolution of Pose and Mesh for 3D Human Body Estimation from Video**|Yingxuan You et.al.|[2308.10305v1](http://arxiv.org/abs/2308.10305v1)|**[link](https://github.com/kasvii/pmce)**|
-|**2023-08-20**|**OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision**|Shujie Zhang et.al.|[2308.10146v1](http://arxiv.org/abs/2308.10146v1)|null|
+|**2023-08-20**|**OCHID-Fi: Occlusion-Robust Hand Pose Estimation in 3D via RF-Vision**|Shujie Zhang et.al.|[2308.10146v1](http://arxiv.org/abs/2308.10146v1)|**[link](https://github.com/deepwise888/ochid-fi)**|
 |**2023-08-19**|**3D-Aware Neural Body Fitting for Occlusion Robust 3D Human Pose Estimation**|Yi Zhang et.al.|[2308.10123v1](http://arxiv.org/abs/2308.10123v1)|**[link](https://github.com/edz-o/3dnbf)**|
 |**2023-08-19**|**Pseudo Flow Consistency for Self-Supervised 6D Object Pose Estimation**|Yang Hai et.al.|[2308.10016v1](http://arxiv.org/abs/2308.10016v1)|**[link](https://github.com/yanghai-1218/pseudoflow)**|
 |**2023-08-19**|**UniAP: Towards Universal Animal Perception in Vision via Few-shot Learning**|Meiqi Sun et.al.|[2308.09953v1](http://arxiv.org/abs/2308.09953v1)|null|
@@ -655,7 +655,7 @@ layout: default
 |**2023-10-19**|**CLAIR: Evaluating Image Captions with Large Language Models**|David Chan et.al.|[2310.12971v1](http://arxiv.org/abs/2310.12971v1)|null|
 |**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931v1](http://arxiv.org/abs/2310.12931v1)|**[link](https://github.com/eureka-research/Eureka)**|
 |**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921v1](http://arxiv.org/abs/2310.12921v1)|null|
-|**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|null|
+|**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|**[link](https://github.com/loginaway/storyanalogy)**|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
 |**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
 |**2023-10-19**|**Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization**|Ningyu Xu et.al.|[2310.12794v1](http://arxiv.org/abs/2310.12794v1)|**[link](https://github.com/ningyuxu/structural_concepts_correspondence)**|
@@ -966,7 +966,7 @@ layout: default
 |**2023-08-24**|**Improving Translation Faithfulness of Large Language Models via Augmenting Instructions**|Yijie Chen et.al.|[2308.12674v1](http://arxiv.org/abs/2308.12674v1)|**[link](https://github.com/pppa2019/swie_overmiss_llm4mt)**|
 |**2023-08-24**|**From Chatter to Matter: Addressing Critical Steps of Emotion Recognition Learning in Task-oriented Dialogue**|Shutong Feng et.al.|[2308.12648v1](http://arxiv.org/abs/2308.12648v1)|null|
 |**2023-08-24**|**Hyperbolic Audio-visual Zero-shot Learning**|Jie Hong et.al.|[2308.12558v1](http://arxiv.org/abs/2308.12558v1)|null|
-|**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469v1](http://arxiv.org/abs/2308.12469v1)|null|
+|**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469v1](http://arxiv.org/abs/2308.12469v1)|**[link](https://github.com/google/diffseg)**|
 |**2023-08-23**|**Vision Transformer Adapters for Generalizable Multitask Learning**|Deblina Bhattacharjee et.al.|[2308.12372v1](http://arxiv.org/abs/2308.12372v1)|null|
 |**2023-08-23**|**Continual Zero-Shot Learning through Semantically Guided Generative Random Walks**|Wenxuan Zhang et.al.|[2308.12366v1](http://arxiv.org/abs/2308.12366v1)|**[link](https://github.com/wx-zhang/igczsl)**|
 |**2023-08-23**|**Language Reward Modulation for Pretraining Reinforcement Learning**|Ademi Adeniji et.al.|[2308.12270v1](http://arxiv.org/abs/2308.12270v1)|**[link](https://github.com/ademiadeniji/lamp)**|
@@ -1147,7 +1147,7 @@ layout: default
 |**2023-07-17**|**Video-Mined Task Graphs for Keystep Recognition in Instructional Videos**|Kumar Ashutosh et.al.|[2307.08763v1](http://arxiv.org/abs/2307.08763v1)|null|
 |**2023-07-17**|**Legal Syllogism Prompting: Teaching Large Language Models for Legal Judgment Prediction**|Cong Jiang et.al.|[2307.08321v1](http://arxiv.org/abs/2307.08321v1)|**[link](https://github.com/jiangcong7/legal-syllogism-prompting)**|
 |**2023-07-17**|**Soft Prompt Tuning for Augmenting Dense Retrieval with Large Language Models**|Zhiyuan Peng et.al.|[2307.08303v1](http://arxiv.org/abs/2307.08303v1)|**[link](https://github.com/zhiyuanpeng/sptar)**|
-|**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|null|
+|**2023-07-17**|**Identifying Vulnerable Third-Party Libraries from Textual Descriptions of Vulnerabilities and Libraries**|Tianyu Chen et.al.|[2307.08206v1](http://arxiv.org/abs/2307.08206v1)|**[link](https://github.com/q5438722/vullibminer)**|
 |**2023-07-17**|**Zero-Shot Image Harmonization with Generative Model Prior**|Jianqi Chen et.al.|[2307.08182v1](http://arxiv.org/abs/2307.08182v1)|**[link](https://github.com/windvchen/diff-harmonization)**|
 |**2023-07-16**|**Is Imitation All You Need? Generalized Decision-Making with Dual-Phase Training**|Yao Wei et.al.|[2307.07909v1](http://arxiv.org/abs/2307.07909v1)|**[link](https://github.com/yunyikristy/dualmind)**|
 |**2023-07-15**|**Zero-shot NLG evaluation through Pairware Comparisons with LLMs**|Adian Liusie et.al.|[2307.07889v1](http://arxiv.org/abs/2307.07889v1)|**[link](https://github.com/adianliusie/comparative-assessment)**|
@@ -1184,7 +1184,7 @@ layout: default
 |**2023-07-07**|**Learning Adversarial Semantic Embeddings for Zero-Shot Recognition in Open Worlds**|Tianqi Li et.al.|[2307.03416v1](http://arxiv.org/abs/2307.03416v1)|**[link](https://github.com/lhrst/ase)**|
 |**2023-07-06**|**Distilling Large Vision-Language Model with Out-of-Distribution Generalizability**|Xuanlin Li et.al.|[2307.03135v1](http://arxiv.org/abs/2307.03135v1)|**[link](https://github.com/xuanlinli17/large_vlm_distillation_ood)**|
 |**2023-07-06**|**AllSight: A Low-Cost and High-Resolution Round Tactile Sensor with Zero-Shot Learning Capability**|Osher Azulay et.al.|[2307.02928v1](http://arxiv.org/abs/2307.02928v1)|**[link](https://github.com/osheraz/allsight)**|
-|**2023-07-06**|**Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting**|Xuefeng Li et.al.|[2307.02830v1](http://arxiv.org/abs/2307.02830v1)|null|
+|**2023-07-06**|**Generative Zero-Shot Prompt Learning for Cross-Domain Slot Filling with Inverse Prompting**|Xuefeng Li et.al.|[2307.02830v1](http://arxiv.org/abs/2307.02830v1)|**[link](https://github.com/lixuefeng2020ai/gzpl)**|
 |**2023-07-06**|**Advancing Zero-Shot Digital Human Quality Assessment through Text-Prompted Evaluation**|Zicheng Zhang et.al.|[2307.02808v1](http://arxiv.org/abs/2307.02808v1)|**[link](https://github.com/zzc-1998/sjtu-h3d)**|
 |**2023-07-06**|**Dense Retrieval Adaptation using Target Domain Description**|Helia Hashemi et.al.|[2307.02740v1](http://arxiv.org/abs/2307.02740v1)|null|
 |**2023-07-05**|**Zero-Shot Dense Video Captioning by Jointly Optimizing Text and Moment**|Yongrae Jo et.al.|[2307.02682v1](http://arxiv.org/abs/2307.02682v1)|null|

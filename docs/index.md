@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-24**|**RSB-Pose: Robust Short-Baseline Binocular 3D Human Pose Estimation with Occlusion Handling**|Xiaoyue Wan et.al.|[2311.14242v1](http://arxiv.org/abs/2311.14242v1)|null|
-|**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175v1](http://arxiv.org/abs/2311.14175v1)|null|
-|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|null|
+|**2023-11-23**|**Appearance-based gaze estimation enhanced with synthetic images using deep neural networks**|Dmytro Herashchenko et.al.|[2311.14175v1](http://arxiv.org/abs/2311.14175v1)|**[link](https://github.com/flakeua/bachelorsthesis)**|
+|**2023-11-23**|**GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence**|Van Nguyen Nguyen et.al.|[2311.14155v1](http://arxiv.org/abs/2311.14155v1)|**[link](https://github.com/nv-nguyen/gigapose)**|
 |**2023-11-23**|**GS-Pose: Category-Level Object Pose Estimation via Geometric and Semantic Correspondence**|Pengyuan Wang et.al.|[2311.13777v1](http://arxiv.org/abs/2311.13777v1)|null|
 |**2023-11-22**|**HEViTPose: High-Efficiency Vision Transformer for Human Pose Estimation**|Chengpeng Wu et.al.|[2311.13615v1](http://arxiv.org/abs/2311.13615v1)|null|
 |**2023-11-24**|**Calibration System and Algorithm Design for a Soft Hinged Micro Scanning Mirror with a Triaxial Hall Effect Sensor**|Di Wang et.al.|[2311.12778v2](http://arxiv.org/abs/2311.12778v2)|null|

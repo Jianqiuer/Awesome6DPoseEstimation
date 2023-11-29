@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**Telling Left from Right: Identifying Geometry-Aware Semantic Correspondence**|Junyi Zhang et.al.|[2311.17034v1](http://arxiv.org/abs/2311.17034v1)|null|
+|**2023-11-28**|**HandyPriors: Physically Consistent Perception of Hand-Object Interactions with Differentiable Priors**|Shutong Zhang et.al.|[2311.16552v1](http://arxiv.org/abs/2311.16552v1)|null|
+|**2023-11-28**|**Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement**|Jian Wang et.al.|[2311.16495v1](http://arxiv.org/abs/2311.16495v1)|null|
+|**2023-11-24**|**UniHPE: Towards Unified Human Pose Estimation via Contrastive Learning**|Zhongyu Jiang et.al.|[2311.16477v1](http://arxiv.org/abs/2311.16477v1)|null|
 |**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060v1](http://arxiv.org/abs/2311.16060v1)|**[link](https://github.com/jeffery9707/diffslva)**|
 |**2023-11-27**|**Uncertainty Quantification of Set-Membership Estimation in Control and Perception: Revisiting the Minimum Enclosing Ellipsoid**|Yukai Tang et.al.|[2311.15962v1](http://arxiv.org/abs/2311.15962v1)|null|
 |**2023-11-27**|**Computer Vision for Carriers: PATRIOT**|Ari Goodman et.al.|[2311.15914v1](http://arxiv.org/abs/2311.15914v1)|null|
@@ -476,6 +480,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
+|**2023-11-28**|**Zero-shot Referring Expression Comprehension via Structural Similarity Between Images and Captions**|Zeyu Han et.al.|[2311.17048v1](http://arxiv.org/abs/2311.17048v1)|null|
+|**2023-11-28**|**Telling Left from Right: Identifying Geometry-Aware Semantic Correspondence**|Junyi Zhang et.al.|[2311.17034v1](http://arxiv.org/abs/2311.17034v1)|null|
+|**2023-11-28**|**Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer**|Danah Yatim et.al.|[2311.17009v1](http://arxiv.org/abs/2311.17009v1)|null|
+|**2023-11-28**|**Goal-conditioned Offline Planning from Curious Exploration**|Marco Bagatella et.al.|[2311.16996v1](http://arxiv.org/abs/2311.16996v1)|null|
+|**2023-11-28**|**ROSO: Improving Robotic Policy Inference via Synthetic Observations**|Yusuke Miyashita et.al.|[2311.16680v1](http://arxiv.org/abs/2311.16680v1)|null|
+|**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664v1](http://arxiv.org/abs/2311.16664v1)|null|
+|**2023-11-28**|**MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation**|Sitong Su et.al.|[2311.16635v1](http://arxiv.org/abs/2311.16635v1)|null|
 |**2023-11-27**|**ViT-Lens-2: Gateway to Omni-modal Intelligence**|Weixian Lei et.al.|[2311.16081v1](http://arxiv.org/abs/2311.16081v1)|**[link](https://github.com/TencentARC/ViT-Lens)**|
 |**2023-11-27**|**DiffSLVA: Harnessing Diffusion Models for Sign Language Video Anonymization**|Zhaoyang Xia et.al.|[2311.16060v1](http://arxiv.org/abs/2311.16060v1)|**[link](https://github.com/jeffery9707/diffslva)**|
 |**2023-11-27**|**Efficient Pre-training for Localized Instruction Generation of Videos**|Anil Batra et.al.|[2311.15964v1](http://arxiv.org/abs/2311.15964v1)|null|

@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2312.00690v1](http://arxiv.org/abs/2312.00690v1)|null|
+|**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500v1](http://arxiv.org/abs/2312.00500v1)|null|
+|**2023-12-01**|**Learning Unorthogonalized Matrices for Rotation Estimation**|Kerui Gu et.al.|[2312.00462v1](http://arxiv.org/abs/2312.00462v1)|null|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
 |**2023-11-30**|**FoundPose: Unseen Object Pose Estimation with Foundation Features**|Evin Pınar Örnek et.al.|[2311.18809v1](http://arxiv.org/abs/2311.18809v1)|null|
 |**2023-11-30**|**Pose Estimation and Tracking for ASIST**|Ari Goodman et.al.|[2311.18665v1](http://arxiv.org/abs/2311.18665v1)|null|
@@ -489,6 +492,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Towards Generalizable Zero-Shot Manipulation via Translating Human Interaction Plans**|Homanga Bharadhwaj et.al.|[2312.00775v1](http://arxiv.org/abs/2312.00775v1)|null|
+|**2023-12-01**|**LightCLIP: Learning Multi-Level Interaction for Lightweight Vision-Language Models**|Ying Nie et.al.|[2312.00674v1](http://arxiv.org/abs/2312.00674v1)|null|
+|**2023-12-01**|**Rethinking the Domain Gap in Near-infrared Face Recognition**|Michail Tarasiou et.al.|[2312.00627v1](http://arxiv.org/abs/2312.00627v1)|null|
+|**2023-12-01**|**Towards Generalizable Referring Image Segmentation via Target Prompt and Visual Coherence**|Yajie Liu et.al.|[2312.00452v1](http://arxiv.org/abs/2312.00452v1)|null|
+|**2023-12-01**|**Large-scale Vision-Language Models Learn Super Images for Efficient and High-Performance Partially Relevant Video Retrieval**|Taichi Nishimura et.al.|[2312.00414v1](http://arxiv.org/abs/2312.00414v1)|null|
+|**2023-12-01**|**A Generalizable Deep Learning System for Cardiac MRI**|Rohan Shad et.al.|[2312.00357v1](http://arxiv.org/abs/2312.00357v1)|null|
+|**2023-12-01**|**UAV-Aided Lifelong Learning for AoI and Energy Optimization in Non-Stationary IoT Networks**|Zhenzhen Gong et.al.|[2312.00334v1](http://arxiv.org/abs/2312.00334v1)|null|
 |**2023-11-30**|**TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios**|Lihao Liu et.al.|[2311.18839v1](http://arxiv.org/abs/2311.18839v1)|null|
 |**2023-11-30**|**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**|Yanhui Wang et.al.|[2311.18829v1](http://arxiv.org/abs/2311.18829v1)|null|
 |**2023-11-30**|**One-step Diffusion with Distribution Matching Distillation**|Tianwei Yin et.al.|[2311.18828v1](http://arxiv.org/abs/2311.18828v1)|null|

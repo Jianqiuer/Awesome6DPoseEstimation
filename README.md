@@ -537,7 +537,7 @@
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601v1](http://arxiv.org/abs/2311.13601v1)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**T-Rex: Counting by Visual Prompting**|Qing Jiang et.al.|[2311.13596v1](http://arxiv.org/abs/2311.13596v1)|null|
 |**2023-11-22**|**Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**|Inderjeet Nair et.al.|[2311.13565v1](http://arxiv.org/abs/2311.13565v1)|null|
-|**2023-11-22**|**Speak Like a Native: Prompting Large Language Models in a Native Style**|Zhicheng Yang et.al.|[2311.13538v1](http://arxiv.org/abs/2311.13538v1)|null|
+|**2023-11-22**|**Speak Like a Native: Prompting Large Language Models in a Native Style**|Zhicheng Yang et.al.|[2311.13538v1](http://arxiv.org/abs/2311.13538v1)|**[link](https://github.com/yangzhch6/aligncot)**|
 |**2023-11-22**|**Guided Flows for Generative Modeling and Decision Making**|Qinqing Zheng et.al.|[2311.13443v1](http://arxiv.org/abs/2311.13443v1)|null|
 |**2023-11-22**|**Self-guided Few-shot Semantic Segmentation for Remote Sensing Imagery Based on Large Vision Models**|Xiyu Qi et.al.|[2311.13200v1](http://arxiv.org/abs/2311.13200v1)|null|
 |**2023-11-22**|**SiGeo: Sub-One-Shot NAS via Information Theory and Geometry of Loss Landscape**|Hua Zheng et.al.|[2311.13169v1](http://arxiv.org/abs/2311.13169v1)|null|
@@ -661,7 +661,7 @@
 |**2023-11-01**|**Caseformer: Pre-training for Legal Case Retrieval**|Weihang Su et.al.|[2311.00333v1](http://arxiv.org/abs/2311.00333v1)|**[link](https://github.com/caseformer/caseformer)**|
 |**2023-11-01**|**Active Instruction Tuning: Improving Cross-Task Generalization by Training on Prompt Sensitive Tasks**|Po-Nien Kung et.al.|[2311.00288v1](http://arxiv.org/abs/2311.00288v1)|**[link](https://github.com/pluslabnlp/active-it)**|
 |**2023-11-01**|**Re-Scoring Using Image-Language Similarity for Few-Shot Object Detection**|Min Jae Jung et.al.|[2311.00278v1](http://arxiv.org/abs/2311.00278v1)|null|
-|**2023-11-01**|**Distort, Distract, Decode: Instruction-Tuned Model Can Refine its Response from Noisy Instructions**|Taehyeon Kim et.al.|[2311.00233v1](http://arxiv.org/abs/2311.00233v1)|null|
+|**2023-11-01**|**Distort, Distract, Decode: Instruction-Tuned Model Can Refine its Response from Noisy Instructions**|Taehyeon Kim et.al.|[2311.00233v1](http://arxiv.org/abs/2311.00233v1)|**[link](https://github.com/joonkeekim/Instructive-Decoding)**|
 |**2023-10-31**|**Zero-Shot Medical Information Retrieval via Knowledge Graph Embedding**|Yuqi Wang et.al.|[2310.20588v1](http://arxiv.org/abs/2310.20588v1)|null|
 |**2023-10-31**|**CapsFusion: Rethinking Image-Text Data at Scale**|Qiying Yu et.al.|[2310.20550v1](http://arxiv.org/abs/2310.20550v1)|**[link](https://github.com/baaivision/capsfusion)**|
 |**2023-10-31**|**Class Incremental Learning with Pre-trained Vision-Language Models**|Xialei Liu et.al.|[2310.20348v1](http://arxiv.org/abs/2310.20348v1)|null|
@@ -831,7 +831,7 @@
 |**2023-10-05**|**Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning**|Yihang Yao et.al.|[2310.03718v1](http://arxiv.org/abs/2310.03718v1)|null|
 |**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710v1](http://arxiv.org/abs/2310.03710v1)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
 |**2023-10-06**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668v2](http://arxiv.org/abs/2310.03668v2)|**[link](https://github.com/hitz-zentroa/gollie)**|
-|**2023-10-05**|**TimeGPT-1**|Azul Garza et.al.|[2310.03589v1](http://arxiv.org/abs/2310.03589v1)|null|
+|**2023-10-05**|**TimeGPT-1**|Azul Garza et.al.|[2310.03589v1](http://arxiv.org/abs/2310.03589v1)|**[link](https://github.com/Nixtla/nixtla)**|
 |**2023-10-05**|**Latent Filling: Latent Space Data Augmentation for Zero-shot Speech Synthesis**|Jae-Sung Bae et.al.|[2310.03538v1](http://arxiv.org/abs/2310.03538v1)|null|
 |**2023-10-05**|**How the level sampling process impacts zero-shot generalisation in deep reinforcement learning**|Samuel Garcin et.al.|[2310.03494v1](http://arxiv.org/abs/2310.03494v1)|null|
 |**2023-10-05**|**Procedural Text Mining with Large Language Models**|Anisa Rula et.al.|[2310.03376v1](http://arxiv.org/abs/2310.03376v1)|**[link](https://github.com/jd-coderepos/proc-tm)**|
@@ -994,7 +994,7 @@
 |**2023-09-06**|**Pre- and post-contact policy decomposition for non-prehensile manipulation with zero-shot sim-to-real transfer**|Minchan Kim et.al.|[2309.02754v1](http://arxiv.org/abs/2309.02754v1)|null|
 |**2023-09-05**|**Scaling Autoregressive Multi-Modal Models: Pretraining and Instruction Tuning**|Lili Yu et.al.|[2309.02591v1](http://arxiv.org/abs/2309.02591v1)|null|
 |**2023-09-05**|**STEP -- Towards Structured Scene-Text Spotting**|Sergi Garcia-Bordils et.al.|[2309.02356v1](http://arxiv.org/abs/2309.02356v1)|null|
-|**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317v1](http://arxiv.org/abs/2309.02317v1)|null|
+|**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317v1](http://arxiv.org/abs/2309.02317v1)|**[link](https://github.com/aresxd/jit_defect_prediciton)**|
 |**2023-09-06**|**NICE 2023 Zero-shot Image Captioning Challenge**|Taehoon Kim et.al.|[2309.01961v2](http://arxiv.org/abs/2309.01961v2)|null|
 |**2023-09-06**|**Automatic Data Transformation Using Large Language Model: An Experimental Study on Building Energy Data**|Ankita Sharma et.al.|[2309.01957v2](http://arxiv.org/abs/2309.01957v2)|null|
 |**2023-09-05**|**QuantEase: Optimization-based Quantization for Language Models -- An Efficient and Intuitive Algorithm**|Kayhan Behdin et.al.|[2309.01885v1](http://arxiv.org/abs/2309.01885v1)|null|
@@ -1253,7 +1253,7 @@
 |**2023-07-10**|**Large Language Models as General Pattern Machines**|Suvir Mirchandani et.al.|[2307.04721v1](http://arxiv.org/abs/2307.04721v1)|null|
 |**2023-07-10**|**Edge Storage Management Recipe with Zero-Shot Data Compression for Road Anomaly Detection**|YeongHyeon Park et.al.|[2307.04298v1](http://arxiv.org/abs/2307.04298v1)|null|
 |**2023-07-09**|**Can Generative Large Language Models Perform ASR Error Correction?**|Rao Ma et.al.|[2307.04172v1](http://arxiv.org/abs/2307.04172v1)|null|
-|**2023-07-09**|**Optimal Transport Posterior Alignment for Cross-lingual Semantic Parsing**|Tom Sherborne et.al.|[2307.04096v1](http://arxiv.org/abs/2307.04096v1)|null|
+|**2023-07-09**|**Optimal Transport Posterior Alignment for Cross-lingual Semantic Parsing**|Tom Sherborne et.al.|[2307.04096v1](http://arxiv.org/abs/2307.04096v1)|**[link](https://github.com/tomsherborne/minotaur)**|
 |**2023-07-08**|**Measuring the Success of Diffusion Models at Imitating Human Artists**|Stephen Casper et.al.|[2307.04028v1](http://arxiv.org/abs/2307.04028v1)|null|
 |**2023-07-08**|**Is ChatGPT a Good Personality Recognizer? A Preliminary Study**|Yu Ji et.al.|[2307.03952v1](http://arxiv.org/abs/2307.03952v1)|null|
 |**2023-07-08**|**Sketch-A-Shape: Zero-Shot Sketch-to-3D Shape Generation**|Aditya Sanghi et.al.|[2307.03869v1](http://arxiv.org/abs/2307.03869v1)|null|

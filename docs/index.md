@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.04
+## Updated on 2023.12.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |

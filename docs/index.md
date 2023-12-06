@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.05
+## Updated on 2023.12.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -492,7 +492,7 @@ layout: default
 |**2023-12-04**|**ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation**|Dar-Yen Chen et.al.|[2312.02109v1](http://arxiv.org/abs/2312.02109v1)|null|
 |**2023-12-04**|**Physics simulation capabilities of LLMs**|Mohamad Ali-Dib et.al.|[2312.02091v1](http://arxiv.org/abs/2312.02091v1)|null|
 |**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|null|
-|**2023-12-04**|**Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models**|Xingyuan Zhang et.al.|[2312.02019v1](http://arxiv.org/abs/2312.02019v1)|null|
+|**2023-12-04**|**Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models**|Xingyuan Zhang et.al.|[2312.02019v1](http://arxiv.org/abs/2312.02019v1)|**[link](https://github.com/argmax-ai/aime)**|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998v1](http://arxiv.org/abs/2312.01998v1)|**[link](https://github.com/navervision/lincir)**|
 |**2023-12-04**|**Bootstrapping SparseFormers from Vision Foundation Models**|Ziteng Gao et.al.|[2312.01987v1](http://arxiv.org/abs/2312.01987v1)|**[link](https://github.com/showlab/sparseformer)**|
 |**2023-12-04**|**Unleashing the Potential of Large Language Model: Zero-shot VQA for Flood Disaster Scenario**|Yimin Sun et.al.|[2312.01882v1](http://arxiv.org/abs/2312.01882v1)|null|

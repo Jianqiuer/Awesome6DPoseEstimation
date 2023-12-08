@@ -13,10 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
+|**2023-12-07**|**Detecting and Restoring Non-Standard Hands in Stable Diffusion Generated Images**|Yiqun Zhang et.al.|[2312.04236v1](http://arxiv.org/abs/2312.04236v1)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703v1](http://arxiv.org/abs/2312.03703v1)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
 |**2023-12-06**|**Cooperative Probabilistic Trajectory Forecasting under Occlusion**|Anshul Nayak et.al.|[2312.03296v1](http://arxiv.org/abs/2312.03296v1)|null|
 |**2023-12-05**|**A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis**|Niccolò Bisagno et.al.|[2312.02613v1](http://arxiv.org/abs/2312.02613v1)|null|
-|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|null|
+|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|**[link](https://github.com/kulunuos/6dapose)**|
 |**2023-12-05**|**PolyFit: A Peg-in-hole Assembly Framework for Unseen Polygon Shapes via Sim-to-real Adaptation**|Geonhyup Lee et.al.|[2312.02531v1](http://arxiv.org/abs/2312.02531v1)|null|
 |**2023-12-04**|**GenEM: Physics-Informed Generative Cryo-Electron Microscopy**|Jiakai Zhang et.al.|[2312.02235v1](http://arxiv.org/abs/2312.02235v1)|null|
 |**2023-12-02**|**Dynamic Inertial Poser (DynaIP): Part-Based Motion Dynamics Learning for Enhanced Human Pose Estimation with Sparse Inertial Sensors**|Yu Zhang et.al.|[2312.02196v1](http://arxiv.org/abs/2312.02196v1)|null|
@@ -388,7 +390,7 @@
 |**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053v1](http://arxiv.org/abs/2312.03053v1)|null|
 |**2023-12-05**|**Zero-Shot Point Cloud Registration**|Weijie Wang et.al.|[2312.03032v1](http://arxiv.org/abs/2312.03032v1)|null|
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877v1](http://arxiv.org/abs/2312.02877v1)|null|
-|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|null|
+|**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|**[link](https://github.com/kulunuos/6dapose)**|
 |**2023-12-04**|**Rotation-Invariant Rapid TRISO-Fueled Pebble Identification Based on Feature Matching and Point Cloud Registration**|Ming Fang et.al.|[2312.02006v1](http://arxiv.org/abs/2312.02006v1)|null|
 |**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v1](http://arxiv.org/abs/2311.18433v1)|**[link](https://github.com/xmu-qcj/e2pnet)**|
 |**2023-11-15**|**Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change**|Tao Sun et.al.|[2311.09346v1](http://arxiv.org/abs/2311.09346v1)|null|
@@ -511,6 +513,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**MuRF: Multi-Baseline Radiance Fields**|Haofei Xu et.al.|[2312.04565v1](http://arxiv.org/abs/2312.04565v1)|**[link](https://github.com/autonomousvision/murf)**|
+|**2023-12-07**|**Dream2Real: Zero-Shot 3D Object Rearrangement with Vision-Language Models**|Ivan Kapelyukh et.al.|[2312.04533v1](http://arxiv.org/abs/2312.04533v1)|null|
+|**2023-12-07**|**RAVE: Randomized Noise Shuffling for Fast and Consistent Video Editing with Diffusion Models**|Ozgur Kara et.al.|[2312.04524v1](http://arxiv.org/abs/2312.04524v1)|**[link](https://github.com/rehg-lab/rave)**|
+|**2023-12-07**|**Multi-View Unsupervised Image Generation with Cross Attention Guidance**|Llukman Cerkezi et.al.|[2312.04337v1](http://arxiv.org/abs/2312.04337v1)|null|
+|**2023-12-07**|**GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding**|Zheng Lian et.al.|[2312.04293v1](http://arxiv.org/abs/2312.04293v1)|null|
+|**2023-12-07**|**Fine-tune vision foundation model for crack segmentation in civil infrastructures**|Kang Ge et.al.|[2312.04233v1](http://arxiv.org/abs/2312.04233v1)|null|
+|**2023-12-07**|**Text as Image: Learning Transferable Adapter for Multi-Label Classification**|Xuelin Zhu et.al.|[2312.04160v1](http://arxiv.org/abs/2312.04160v1)|null|
+|**2023-12-07**|**Large Language Models are Good Prompt Learners for Low-Shot Image Classification**|Zhaoheng Zheng et.al.|[2312.04076v1](http://arxiv.org/abs/2312.04076v1)|null|
+|**2023-12-07**|**Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation**|Thomas Westfechtel et.al.|[2312.04066v1](http://arxiv.org/abs/2312.04066v1)|null|
+|**2023-12-06**|**The Potential of Vision-Language Models for Content Moderation of Children's Videos**|Syed Hammad Ahmed et.al.|[2312.03936v1](http://arxiv.org/abs/2312.03936v1)|null|
 |**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|null|
 |**2023-12-06**|**DreamComposer: Controllable 3D Object Generation via Multi-View Conditions**|Yunhan Yang et.al.|[2312.03611v1](http://arxiv.org/abs/2312.03611v1)|null|
 |**2023-12-06**|**Blueprinting the Future: Automatic Item Categorization using Hierarchical Zero-Shot and Few-Shot Classifiers**|Ting Wang et.al.|[2312.03561v1](http://arxiv.org/abs/2312.03561v1)|null|

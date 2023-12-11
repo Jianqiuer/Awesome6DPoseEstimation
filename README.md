@@ -523,7 +523,7 @@
 |**2023-12-07**|**Large Language Models are Good Prompt Learners for Low-Shot Image Classification**|Zhaoheng Zheng et.al.|[2312.04076v1](http://arxiv.org/abs/2312.04076v1)|null|
 |**2023-12-07**|**Combining inherent knowledge of vision-language models with unsupervised domain adaptation through self-knowledge distillation**|Thomas Westfechtel et.al.|[2312.04066v1](http://arxiv.org/abs/2312.04066v1)|null|
 |**2023-12-06**|**The Potential of Vision-Language Models for Content Moderation of Children's Videos**|Syed Hammad Ahmed et.al.|[2312.03936v1](http://arxiv.org/abs/2312.03936v1)|null|
-|**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|null|
+|**2023-12-06**|**Boosting Segment Anything Model Towards Open-Vocabulary Learning**|Xumeng Han et.al.|[2312.03628v1](http://arxiv.org/abs/2312.03628v1)|**[link](https://github.com/ucas-vg/sambor)**|
 |**2023-12-06**|**DreamComposer: Controllable 3D Object Generation via Multi-View Conditions**|Yunhan Yang et.al.|[2312.03611v1](http://arxiv.org/abs/2312.03611v1)|null|
 |**2023-12-06**|**Blueprinting the Future: Automatic Item Categorization using Hierarchical Zero-Shot and Few-Shot Classifiers**|Ting Wang et.al.|[2312.03561v1](http://arxiv.org/abs/2312.03561v1)|null|
 |**2023-12-06**|**FRDiff: Feature Reuse for Exquisite Zero-shot Acceleration of Diffusion Models**|Junhyuk So et.al.|[2312.03517v1](http://arxiv.org/abs/2312.03517v1)|null|
@@ -540,11 +540,11 @@
 |**2023-12-05**|**MASP: Scalable GNN-based Planning for Multi-Agent Navigation**|Xinyi Yang et.al.|[2312.02522v1](http://arxiv.org/abs/2312.02522v1)|null|
 |**2023-12-05**|**AV2AV: Direct Audio-Visual Speech to Audio-Visual Speech Translation with Unified Audio-Visual Speech Representation**|Jeongsoo Choi et.al.|[2312.02512v1](http://arxiv.org/abs/2312.02512v1)|null|
 |**2023-12-05**|**MUFFIN: Curating Multi-Faceted Instructions for Improving Instruction-Following**|Renze Lou et.al.|[2312.02436v1](http://arxiv.org/abs/2312.02436v1)|null|
-|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|null|
+|**2023-12-04**|**Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation**|Bingxin Ke et.al.|[2312.02145v1](http://arxiv.org/abs/2312.02145v1)|**[link](https://github.com/prs-eth/marigold)**|
 |**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143v1](http://arxiv.org/abs/2312.02143v1)|null|
 |**2023-12-04**|**ArtAdapter: Text-to-Image Style Transfer using Multi-Level Style Encoder and Explicit Adaptation**|Dar-Yen Chen et.al.|[2312.02109v1](http://arxiv.org/abs/2312.02109v1)|null|
 |**2023-12-04**|**Physics simulation capabilities of LLMs**|Mohamad Ali-Dib et.al.|[2312.02091v1](http://arxiv.org/abs/2312.02091v1)|null|
-|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|null|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051v1](http://arxiv.org/abs/2312.02051v1)|**[link](https://github.com/renshuhuai-andy/timechat)**|
 |**2023-12-04**|**Action Inference by Maximising Evidence: Zero-Shot Imitation from Observation with World Models**|Xingyuan Zhang et.al.|[2312.02019v1](http://arxiv.org/abs/2312.02019v1)|**[link](https://github.com/argmax-ai/aime)**|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998v1](http://arxiv.org/abs/2312.01998v1)|**[link](https://github.com/navervision/lincir)**|
 |**2023-12-04**|**Bootstrapping SparseFormers from Vision Foundation Models**|Ziteng Gao et.al.|[2312.01987v1](http://arxiv.org/abs/2312.01987v1)|**[link](https://github.com/showlab/sparseformer)**|
@@ -574,7 +574,7 @@
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737v1](http://arxiv.org/abs/2311.17737v1)|null|
 |**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707v1](http://arxiv.org/abs/2311.17707v1)|null|
 |**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647v1](http://arxiv.org/abs/2311.17647v1)|null|
-|**2023-11-29**|**CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning**|Xu Liu et.al.|[2311.17583v1](http://arxiv.org/abs/2311.17583v1)|null|
+|**2023-11-29**|**CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning**|Xu Liu et.al.|[2311.17583v1](http://arxiv.org/abs/2311.17583v1)|**[link](https://github.com/reilxlx/antispoofing-contrastive-learning)**|
 |**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514v1](http://arxiv.org/abs/2311.17514v1)|null|
 |**2023-11-29**|**Unveiling the Implicit Toxicity in Large Language Models**|Jiaxin Wen et.al.|[2311.17391v1](http://arxiv.org/abs/2311.17391v1)|**[link](https://github.com/thu-coai/implicit-toxicity)**|
 |**2023-11-28**|**MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training**|Pavan Kumar Anasosalu Vasu et.al.|[2311.17049v1](http://arxiv.org/abs/2311.17049v1)|null|
@@ -682,7 +682,7 @@
 |**2023-11-09**|**Cross-modal Prompts: Adapting Large Pre-trained Models for Audio-Visual Downstream Tasks**|Haoyi Duan et.al.|[2311.05152v1](http://arxiv.org/abs/2311.05152v1)|**[link](https://github.com/haoyi-duan/dg-sct)**|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043v1](http://arxiv.org/abs/2311.05043v1)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-08**|**Prompt Sketching for Large Language Models**|Luca Beurer-Kellner et.al.|[2311.04954v1](http://arxiv.org/abs/2311.04954v1)|null|
-|**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693v1](http://arxiv.org/abs/2311.04693v1)|null|
+|**2023-11-08**|**Diff-HierVC: Diffusion-based Hierarchical Voice Conversion with Robust Pitch Generation and Masked Prior for Zero-shot Speaker Adaptation**|Ha-Yeong Choi et.al.|[2311.04693v1](http://arxiv.org/abs/2311.04693v1)|**[link](https://github.com/hayeong0/Diff-HierVC)**|
 |**2023-11-07**|**Analysis and Applications of Deep Learning with Finite Samples in Full Life-Cycle Intelligence of Nuclear Power Generation**|Chenwei Tang et.al.|[2311.04247v1](http://arxiv.org/abs/2311.04247v1)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|
 |**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196v1](http://arxiv.org/abs/2311.04196v1)|**[link](https://github.com/zhongfendeng/jpave)**|
@@ -779,7 +779,7 @@
 |**2023-10-24**|**How Much Context Does My Attention-Based ASR System Need?**|Robert Flynn et.al.|[2310.15672v1](http://arxiv.org/abs/2310.15672v1)|**[link](https://github.com/robflynnyh/long-context-asr)**|
 |**2023-10-24**|**CoAnnotating: Uncertainty-Guided Work Allocation between Human and Large Language Models for Data Annotation**|Minzhi Li et.al.|[2310.15638v1](http://arxiv.org/abs/2310.15638v1)|**[link](https://github.com/salt-nlp/coannotating)**|
 |**2023-10-24**|**POE: Process of Elimination for Multiple Choice Reasoning**|Chenkai Ma et.al.|[2310.15575v1](http://arxiv.org/abs/2310.15575v1)|**[link](https://github.com/kasmasvan/poe)**|
-|**2023-10-24**|**Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**|Jason Lucas et.al.|[2310.15515v1](http://arxiv.org/abs/2310.15515v1)|null|
+|**2023-10-24**|**Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**|Jason Lucas et.al.|[2310.15515v1](http://arxiv.org/abs/2310.15515v1)|**[link](https://github.com/mickeymst/f3)**|
 |**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|**[link](https://github.com/curt-tigges/eliciting-latent-sentiment)**|
 |**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
 |**2023-10-23**|**FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning**|Kun Song et.al.|[2310.15105v1](http://arxiv.org/abs/2310.15105v1)|**[link](https://github.com/skingorz/fd-align)**|
@@ -1147,7 +1147,7 @@
 |**2023-08-20**|**Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi**|Hadi Nekoei et.al.|[2308.10284v1](http://arxiv.org/abs/2308.10284v1)|null|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705v1](http://arxiv.org/abs/2308.09705v1)|null|
 |**2023-08-18**|**Meta-ZSDETR: Zero-shot DETR with Meta-learning**|Lu Zhang et.al.|[2308.09540v1](http://arxiv.org/abs/2308.09540v1)|null|
-|**2023-08-18**|**Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events**|Hoonhee Cho et.al.|[2308.09383v1](http://arxiv.org/abs/2308.09383v1)|null|
+|**2023-08-18**|**Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events**|Hoonhee Cho et.al.|[2308.09383v1](http://arxiv.org/abs/2308.09383v1)|**[link](https://github.com/chohoonhee/ev-lafor)**|
 |**2023-08-18**|**RLIPv2: Fast Scaling of Relational Language-Image Pre-training**|Hangjie Yuan et.al.|[2308.09351v1](http://arxiv.org/abs/2308.09351v1)|**[link](https://github.com/jacobyuan7/rlipv2)**|
 |**2023-08-18**|**DiffDis: Empowering Generative Diffusion Model with Cross-Modal Discrimination Capability**|Runhui Huang et.al.|[2308.09306v1](http://arxiv.org/abs/2308.09306v1)|null|
 |**2023-08-18**|**DiffLLE: Diffusion-guided Domain Calibration for Unsupervised Low-light Image Enhancement**|Shuzhou Yang et.al.|[2308.09279v1](http://arxiv.org/abs/2308.09279v1)|null|

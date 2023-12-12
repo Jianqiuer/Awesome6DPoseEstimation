@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**3D Hand Pose Estimation in Egocentric Images in the Wild**|Aditya Prakash et.al.|[2312.06583v1](http://arxiv.org/abs/2312.06583v1)|null|
+|**2023-12-11**|**PointVoxel: A Simple and Effective Pipeline for Multi-View Multi-Modal 3D Human Pose Estimation**|Zhiyu Pan et.al.|[2312.06409v1](http://arxiv.org/abs/2312.06409v1)|null|
+|**2023-12-11**|**ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation**|Cédric Rommel et.al.|[2312.06386v1](http://arxiv.org/abs/2312.06386v1)|null|
+|**2023-12-10**|**From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation**|Javier Tirado-Garín et.al.|[2312.05995v1](http://arxiv.org/abs/2312.05995v1)|**[link](https://github.com/javrtg/c2p)**|
+|**2023-12-09**|**You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception**|Sheng Jin et.al.|[2312.05525v1](http://arxiv.org/abs/2312.05525v1)|null|
+|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270v1](http://arxiv.org/abs/2312.05270v1)|null|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
 |**2023-12-07**|**Detecting and Restoring Non-Standard Hands in Stable Diffusion Generated Images**|Yiqun Zhang et.al.|[2312.04236v1](http://arxiv.org/abs/2312.04236v1)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703v1](http://arxiv.org/abs/2312.03703v1)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
@@ -379,6 +385,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**PCRDiffusion: Diffusion Probabilistic Models for Point Cloud Registration**|Yue Wu et.al.|[2312.06063v1](http://arxiv.org/abs/2312.06063v1)|null|
 |**2023-12-05**|**DiffusionPCR: Diffusion Models for Robust Multi-Step Point Cloud Registration**|Zhi Chen et.al.|[2312.03053v1](http://arxiv.org/abs/2312.03053v1)|null|
 |**2023-12-08**|**Zero-Shot Point Cloud Registration**|Weijie Wang et.al.|[2312.03032v2](http://arxiv.org/abs/2312.03032v2)|null|
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877v1](http://arxiv.org/abs/2312.02877v1)|null|
@@ -501,6 +508,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653v1](http://arxiv.org/abs/2312.06653v1)|null|
+|**2023-12-11**|**From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"**|Takahide Yoshida et.al.|[2312.06571v1](http://arxiv.org/abs/2312.06571v1)|null|
+|**2023-12-11**|**Large Language Models with Retrieval-Augmented Generation for Zero-Shot Disease Phenotyping**|Will E. Thompson et.al.|[2312.06457v1](http://arxiv.org/abs/2312.06457v1)|null|
+|**2023-12-11**|**UstanceBR: a multimodal language resource for stance prediction**|Camila Pereira et.al.|[2312.06374v1](http://arxiv.org/abs/2312.06374v1)|null|
+|**2023-12-10**|**Language-Conditioned Semantic Search-Based Policy for Robotic Manipulation Tasks**|Jannik Sheikh et.al.|[2312.05925v1](http://arxiv.org/abs/2312.05925v1)|null|
+|**2023-12-10**|**A Video is Worth 256 Bases: Spatial-Temporal Expectation-Maximization Inversion for Zero-Shot Video Editing**|Maomao Li et.al.|[2312.05856v1](http://arxiv.org/abs/2312.05856v1)|null|
+|**2023-12-10**|**RepViT-SAM: Towards Real-Time Segmenting Anything**|Ao Wang et.al.|[2312.05760v1](http://arxiv.org/abs/2312.05760v1)|**[link](https://github.com/THU-MIG/RepViT)**|
+|**2023-12-09**|**Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning**|Subhabrata Dutta et.al.|[2312.05571v1](http://arxiv.org/abs/2312.05571v1)|**[link](https://github.com/joykirat18/syrelm)**|
+|**2023-12-09**|**CSL: Class-Agnostic Structure-Constrained Learning for Segmentation Including the Unseen**|Hao Zhang et.al.|[2312.05538v1](http://arxiv.org/abs/2312.05538v1)|null|
+|**2023-12-08**|**A Review of Machine Learning Methods Applied to Video Analysis Systems**|Marios S. Pattichis et.al.|[2312.05352v1](http://arxiv.org/abs/2312.05352v1)|null|
 |**2023-12-08**|**Physical-Layer Semantic-Aware Network for Zero-Shot Wireless Sensing**|Huixiang Zhu et.al.|[2312.05043v1](http://arxiv.org/abs/2312.05043v1)|null|
 |**2023-12-08**|**Beyond Transduction: A Survey on Inductive, Few Shot, and Zero Shot Link Prediction in Knowledge Graphs**|Nicolas Hubert et.al.|[2312.04997v1](http://arxiv.org/abs/2312.04997v1)|null|
 |**2023-12-08**|**Learning Generalizable Perceptual Representations for Data-Efficient No-Reference Image Quality Assessment**|Suhas Srinath et.al.|[2312.04838v1](http://arxiv.org/abs/2312.04838v1)|**[link](https://github.com/suhas-srinath/grepq)**|

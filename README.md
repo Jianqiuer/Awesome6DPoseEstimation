@@ -1,4 +1,4 @@
-## Updated on 2023.12.13
+## Updated on 2023.12.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2023-12-12**|**RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation**|Peng Lu et.al.|[2312.07526v1](http://arxiv.org/abs/2312.07526v1)|**[link](https://github.com/open-mmlab/mmpose)**|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
 |**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|**[link](https://github.com/ctu-mrs/rms)**|
-|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**Mask as Supervision: Leveraging Unified Mask Information for Unsupervised 3D Pose Estimation**|Yuchen Yang et.al.|[2312.07051v1](http://arxiv.org/abs/2312.07051v1)|null|
 |**2023-12-12**|**Towards Enhanced Human Activity Recognition through Natural Language Generation and Pose Estimation**|Nikhil Kashyap et.al.|[2312.06965v1](http://arxiv.org/abs/2312.06965v1)|null|
 |**2023-12-12**|**Exploring Novel Object Recognition and Spontaneous Location Recognition Machine Learning Analysis Techniques in Alzheimer's Mice**|Soham Bafana et.al.|[2312.06914v1](http://arxiv.org/abs/2312.06914v1)|**[link](https://github.com/bafanas/dlc-object-recognition-analysis)**|
@@ -396,7 +396,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -487,7 +487,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -525,7 +525,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1390,5 +1390,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20231213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231214>back to top</a>)</p>
 

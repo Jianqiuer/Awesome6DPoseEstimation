@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|null|
+|**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268v1](http://arxiv.org/abs/2312.08268v1)|null|
+|**2023-12-13**|**CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation**|Eugenio Chisari et.al.|[2312.08240v1](http://arxiv.org/abs/2312.08240v1)|null|
+|**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060v1](http://arxiv.org/abs/2312.08060v1)|null|
+|**2023-12-13**|**Three-Filters-to-Normal+: Revisiting Discontinuity Discrimination in Depth-to-Normal Translation**|Jingwei Yang et.al.|[2312.07964v1](http://arxiv.org/abs/2312.07964v1)|null|
+|**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
 |**2023-12-12**|**RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation**|Peng Lu et.al.|[2312.07526v1](http://arxiv.org/abs/2312.07526v1)|**[link](https://github.com/open-mmlab/mmpose)**|
 |**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
 |**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|**[link](https://github.com/ctu-mrs/rms)**|
@@ -531,8 +537,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**LD-SDM: Language-Driven Hierarchical Species Distribution Modeling**|Srikumar Sastry et.al.|[2312.08334v1](http://arxiv.org/abs/2312.08334v1)|null|
+|**2023-12-13**|**Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models**|Jiang Zhang et.al.|[2312.08303v1](http://arxiv.org/abs/2312.08303v1)|null|
+|**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|null|
+|**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
+|**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843v1](http://arxiv.org/abs/2312.07843v1)|null|
+|**2023-12-13**|**Native Language Identification with Large Language Models**|Wei Zhang et.al.|[2312.07819v1](http://arxiv.org/abs/2312.07819v1)|null|
+|**2023-12-12**|**CLIP as RNN: Segment Countless Visual Concepts without Training Endeavor**|Shuyang Sun et.al.|[2312.07661v1](http://arxiv.org/abs/2312.07661v1)|null|
 |**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533v1](http://arxiv.org/abs/2312.07533v1)|null|
-|**2023-12-12**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v1](http://arxiv.org/abs/2312.07424v1)|null|
+|**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**ICL Markup: Structuring In-Context Learning using Soft-Token Tags**|Marc-Etienne Brunet et.al.|[2312.07405v1](http://arxiv.org/abs/2312.07405v1)|null|
 |**2023-12-12**|**ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection**|Joonhyun Jeong et.al.|[2312.07266v1](http://arxiv.org/abs/2312.07266v1)|null|
 |**2023-12-12**|**Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation**|Yuanbin Wang et.al.|[2312.07221v1](http://arxiv.org/abs/2312.07221v1)|null|

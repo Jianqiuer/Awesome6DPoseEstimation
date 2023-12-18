@@ -544,6 +544,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Uncovering the Causes of Emotions in Software Developer Communication Using Zero-shot LLMs**|Mia Mohammad Imran et.al.|[2312.09731v1](http://arxiv.org/abs/2312.09731v1)|**[link](https://github.com/vcu-swim-lab/SE-Emotion-Cause-Replication)**|
+|**2023-12-15**|**ParsNets: A Parsimonious Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**|Jingcai Guo et.al.|[2312.09709v1](http://arxiv.org/abs/2312.09709v1)|null|
+|**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682v1](http://arxiv.org/abs/2312.09682v1)|null|
+|**2023-12-15**|**MobileSAMv2: Faster Segment Anything to Everything**|Chaoning Zhang et.al.|[2312.09579v1](http://arxiv.org/abs/2312.09579v1)|**[link](https://github.com/chaoningzhang/mobilesam)**|
+|**2023-12-15**|**Hierarchical Graph Pattern Understanding for Zero-Shot VOS**|Gensheng Pei et.al.|[2312.09525v1](http://arxiv.org/abs/2312.09525v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/hgpu)**|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251v1](http://arxiv.org/abs/2312.09251v1)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231v1](http://arxiv.org/abs/2312.09231v1)|null|
 |**2023-12-14**|**General Object Foundation Model for Images and Videos at Scale**|Junfeng Wu et.al.|[2312.09158v1](http://arxiv.org/abs/2312.09158v1)|null|

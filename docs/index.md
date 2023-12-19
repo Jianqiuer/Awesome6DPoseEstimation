@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**SHaRPose: Sparse High-Resolution Representation for Human Pose Estimation**|Xiaoqi An et.al.|[2312.10758v1](http://arxiv.org/abs/2312.10758v1)|null|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649v1](http://arxiv.org/abs/2312.10649v1)|null|
+|**2023-12-15**|**SoloPose: One-Shot Kinematic 3D Human Pose Estimation with Video Data Augmentation**|David C. Jeong et.al.|[2312.10195v1](http://arxiv.org/abs/2312.10195v1)|null|
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031v1](http://arxiv.org/abs/2312.09031v1)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005v1](http://arxiv.org/abs/2312.09005v1)|null|
 |**2023-12-14**|**CattleEyeView: A Multi-task Top-down View Cattle Dataset for Smarter Precision Livestock Farming**|Kian Eng Ong et.al.|[2312.08764v1](http://arxiv.org/abs/2312.08764v1)|**[link](https://github.com/animaleyeq/cattleeyeview)**|
@@ -495,6 +498,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning**|Weijie Wei et.al.|[2312.10217v1](http://arxiv.org/abs/2312.10217v1)|null|
 |**2023-12-14**|**FAPP: Fast and Adaptive Perception and Planning for UAVs in Dynamic Cluttered Environments**|Minghao Lu et.al.|[2312.08743v1](http://arxiv.org/abs/2312.08743v1)|null|
 |**2023-12-12**|**Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation**|Yuanbin Wang et.al.|[2312.07221v1](http://arxiv.org/abs/2312.07221v1)|null|
 |**2023-12-11**|**Densify Your Labels: Unsupervised Clustering with Bipartite Matching for Weakly Supervised Point Cloud Segmentation**|Shaobo Xia et.al.|[2312.06799v1](http://arxiv.org/abs/2312.06799v1)|null|
@@ -532,6 +536,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Multi-Label Classification of COVID-Tweets Using Large Language Models**|Aniket Deroy et.al.|[2312.10748v1](http://arxiv.org/abs/2312.10748v1)|**[link](https://github.com/anonmous1981/aisome)**|
+|**2023-12-17**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743v1](http://arxiv.org/abs/2312.10743v1)|null|
+|**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|null|
+|**2023-12-17**|**Cross-Domain Robustness of Transformer-based Keyphrase Generation**|Anna Glazkova et.al.|[2312.10700v1](http://arxiv.org/abs/2312.10700v1)|null|
+|**2023-12-17**|**Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**|Xiao Wang et.al.|[2312.10692v1](http://arxiv.org/abs/2312.10692v1)|null|
+|**2023-12-17**|**Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval**|Weihang Su et.al.|[2312.10661v1](http://arxiv.org/abs/2312.10661v1)|**[link](https://github.com/oneal2000/wikiformer)**|
+|**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656v1](http://arxiv.org/abs/2312.10656v1)|null|
+|**2023-12-17**|**An Evaluation of GPT-4V and Gemini in Online VQA**|Mengchen Liu et.al.|[2312.10637v1](http://arxiv.org/abs/2312.10637v1)|null|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320v1](http://arxiv.org/abs/2312.10320v1)|null|
+|**2023-12-16**|**RetailKLIP : Finetuning OpenCLIP backbone using metric learning on a single GPU for Zero-shot retail product image classification**|Muktabh Mayank Srivastava et.al.|[2312.10282v1](http://arxiv.org/abs/2312.10282v1)|null|
 |**2023-12-15**|**Uncovering the Causes of Emotions in Software Developer Communication Using Zero-shot LLMs**|Mia Mohammad Imran et.al.|[2312.09731v1](http://arxiv.org/abs/2312.09731v1)|**[link](https://github.com/vcu-swim-lab/SE-Emotion-Cause-Replication)**|
 |**2023-12-15**|**ParsNets: A Parsimonious Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**|Jingcai Guo et.al.|[2312.09709v1](http://arxiv.org/abs/2312.09709v1)|null|
 |**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682v1](http://arxiv.org/abs/2312.09682v1)|null|

@@ -25,9 +25,9 @@
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031v1](http://arxiv.org/abs/2312.09031v1)|null|
 |**2023-12-14**|**Scene 3-D Reconstruction System in Scattering Medium**|Zhuoyifan Zhang et.al.|[2312.09005v1](http://arxiv.org/abs/2312.09005v1)|null|
 |**2023-12-14**|**CattleEyeView: A Multi-task Top-down View Cattle Dataset for Smarter Precision Livestock Farming**|Kian Eng Ong et.al.|[2312.08764v1](http://arxiv.org/abs/2312.08764v1)|**[link](https://github.com/animaleyeq/cattleeyeview)**|
-|**2023-12-20**|**PnP for Two-Dimensional Pose Estimation**|Joshua Wang et.al.|[2312.08488v2](http://arxiv.org/abs/2312.08488v2)|null|
+|**2023-12-20**|**PnP for Two-Dimensional Pose Estimation**|Joshua Wang et.al.|[2312.08488v2](http://arxiv.org/abs/2312.08488v2)|**[link](https://github.com/25wangj/2dpnptoolbox)**|
 |**2023-12-13**|**Pose and shear-based tactile servoing**|John Lloyd et.al.|[2312.08411v1](http://arxiv.org/abs/2312.08411v1)|null|
-|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|null|
+|**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344v1](http://arxiv.org/abs/2312.08344v1)|**[link](https://github.com/NVlabs/FoundationPose)**|
 |**2023-12-13**|**Efficient Multi-Object Pose Estimation using Multi-Resolution Deformable Attention and Query Aggregation**|Arul Selvam Periyasamy et.al.|[2312.08268v1](http://arxiv.org/abs/2312.08268v1)|null|
 |**2023-12-13**|**CenterGrasp: Object-Aware Implicit Representation Learning for Simultaneous Shape Reconstruction and 6-DoF Grasp Estimation**|Eugenio Chisari et.al.|[2312.08240v1](http://arxiv.org/abs/2312.08240v1)|null|
 |**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060v1](http://arxiv.org/abs/2312.08060v1)|null|
@@ -355,7 +355,7 @@
 |**2023-07-21**|**YOLOPose V2: Understanding and Improving Transformer-based 6D Pose Estimation**|Arul Selvam Periyasamy et.al.|[2307.11550v1](http://arxiv.org/abs/2307.11550v1)|null|
 |**2023-07-21**|**KVN: Keypoints Voting Network with Differentiable RANSAC for Stereo Pose Estimation**|Ivano Donadi et.al.|[2307.11543v1](http://arxiv.org/abs/2307.11543v1)|**[link](https://github.com/ivano-donadi/kvn)**|
 |**2023-07-21**|**Semantically-enhanced Deep Collision Prediction for Autonomous Navigation using Aerial Robots**|Mihir Kulkarni et.al.|[2307.11522v1](http://arxiv.org/abs/2307.11522v1)|null|
-|**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261v1](http://arxiv.org/abs/2307.11261v1)|null|
+|**2023-07-20**|**SimCol3D -- 3D Reconstruction during Colonoscopy Challenge**|Anita Rau et.al.|[2307.11261v1](http://arxiv.org/abs/2307.11261v1)|**[link](https://github.com/anitarau/simcol)**|
 |**2023-07-20**|**MSQNet: Actor-agnostic Action Recognition with Multi-modal Query**|Anindya Mondal et.al.|[2307.10763v1](http://arxiv.org/abs/2307.10763v1)|**[link](https://github.com/mondalanindya/msqnet)**|
 |**2023-07-19**|**POV-Surgery: A Dataset for Egocentric Hand and Tool Pose Estimation During Surgical Activities**|Rui Wang et.al.|[2307.10387v1](http://arxiv.org/abs/2307.10387v1)|**[link](https://github.com/BatFaceWayne/POV_Surgery)**|
 |**2023-07-18**|**ActionPrompt: Action-Guided 3D Human Pose Estimation With Text and Pose Prompting**|Hongwei Zheng et.al.|[2307.09026v1](http://arxiv.org/abs/2307.09026v1)|null|
@@ -583,13 +583,13 @@
 |**2023-12-19**|**Potentials of ChatGPT for Annotating Vaccine Related Tweets**|Md. Rafiul Biswas et.al.|[2312.12016v1](http://arxiv.org/abs/2312.12016v1)|null|
 |**2023-12-19**|**Zero-Shot Fact-Checking with Semantic Triples and Knowledge Graphs**|Zhangdie Yuan et.al.|[2312.11785v1](http://arxiv.org/abs/2312.11785v1)|null|
 |**2023-12-18**|**Agent-based Learning of Materials Datasets from Scientific Literature**|Mehrad Ansari et.al.|[2312.11690v1](http://arxiv.org/abs/2312.11690v1)|**[link](https://github.com/ai4chems/eunomia)**|
-|**2023-12-18**|**Implicit Affordance Acquisition via Causal Action-Effect Modeling in the Video Domain**|Hsiu-Yu Yang et.al.|[2312.11345v1](http://arxiv.org/abs/2312.11345v1)|null|
+|**2023-12-18**|**Implicit Affordance Acquisition via Causal Action-Effect Modeling in the Video Domain**|Hsiu-Yu Yang et.al.|[2312.11345v1](http://arxiv.org/abs/2312.11345v1)|**[link](https://github.com/mallory24/cae_modeling)**|
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075v2](http://arxiv.org/abs/2312.11075v2)|null|
 |**2023-12-17**|**Multi-Label Classification of COVID-Tweets Using Large Language Models**|Aniket Deroy et.al.|[2312.10748v1](http://arxiv.org/abs/2312.10748v1)|**[link](https://github.com/anonmous1981/aisome)**|
 |**2023-12-17**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743v1](http://arxiv.org/abs/2312.10743v1)|null|
 |**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|null|
 |**2023-12-17**|**Cross-Domain Robustness of Transformer-based Keyphrase Generation**|Anna Glazkova et.al.|[2312.10700v1](http://arxiv.org/abs/2312.10700v1)|null|
-|**2023-12-17**|**Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**|Xiao Wang et.al.|[2312.10692v1](http://arxiv.org/abs/2312.10692v1)|null|
+|**2023-12-17**|**Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**|Xiao Wang et.al.|[2312.10692v1](http://arxiv.org/abs/2312.10692v1)|**[link](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)**|
 |**2023-12-17**|**Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval**|Weihang Su et.al.|[2312.10661v1](http://arxiv.org/abs/2312.10661v1)|**[link](https://github.com/oneal2000/wikiformer)**|
 |**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656v1](http://arxiv.org/abs/2312.10656v1)|null|
 |**2023-12-17**|**An Evaluation of GPT-4V and Gemini in Online VQA**|Mengchen Liu et.al.|[2312.10637v1](http://arxiv.org/abs/2312.10637v1)|null|
@@ -612,7 +612,7 @@
 |**2023-12-14**|**SEF-VC: Speaker Embedding Free Zero-Shot Voice Conversion with Cross Attention**|Junjie Li et.al.|[2312.08676v1](http://arxiv.org/abs/2312.08676v1)|null|
 |**2023-12-13**|**LD-SDM: Language-Driven Hierarchical Species Distribution Modeling**|Srikumar Sastry et.al.|[2312.08334v1](http://arxiv.org/abs/2312.08334v1)|null|
 |**2023-12-13**|**Efficient Toxic Content Detection by Bootstrapping and Distilling Large Language Models**|Jiang Zhang et.al.|[2312.08303v1](http://arxiv.org/abs/2312.08303v1)|null|
-|**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|null|
+|**2023-12-13**|**EZ-CLIP: Efficient Zeroshot Video Action Recognition**|Shahzad Ahmad et.al.|[2312.08010v1](http://arxiv.org/abs/2312.08010v1)|**[link](https://github.com/shahzadnit/ez-clip)**|
 |**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
 |**2023-12-13**|**Foundation Models in Robotics: Applications, Challenges, and the Future**|Roya Firoozi et.al.|[2312.07843v1](http://arxiv.org/abs/2312.07843v1)|**[link](https://github.com/robotics-survey/awesome-robotics-foundation-models)**|
 |**2023-12-13**|**Native Language Identification with Large Language Models**|Wei Zhang et.al.|[2312.07819v1](http://arxiv.org/abs/2312.07819v1)|null|
@@ -624,7 +624,7 @@
 |**2023-12-12**|**Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation**|Yuanbin Wang et.al.|[2312.07221v1](http://arxiv.org/abs/2312.07221v1)|null|
 |**2023-12-12**|**Text2AC-Zero: Consistent Synthesis of Animated Characters using 2D Diffusion**|Abdelrahman Eldesokey et.al.|[2312.07133v1](http://arxiv.org/abs/2312.07133v1)|null|
 |**2023-12-12**|**CSI-Based Cross-Domain Activity Recognition via Zero-Shot Prototypical Networks**|Guillermo Diaz et.al.|[2312.07076v1](http://arxiv.org/abs/2312.07076v1)|null|
-|**2023-12-12**|**Diff-OP3D: Bridging 2D Diffusion for Open Pose 3D Zero-Shot Classification**|Weiguang Zhao et.al.|[2312.07039v1](http://arxiv.org/abs/2312.07039v1)|null|
+|**2023-12-12**|**Diff-OP3D: Bridging 2D Diffusion for Open Pose 3D Zero-Shot Classification**|Weiguang Zhao et.al.|[2312.07039v1](http://arxiv.org/abs/2312.07039v1)|**[link](https://github.com/weiguangzhao/diff-op3d)**|
 |**2023-12-12**|**Remote Sensing Vision-Language Foundation Models without Annotations via Ground Remote Alignment**|Utkarsh Mall et.al.|[2312.06960v1](http://arxiv.org/abs/2312.06960v1)|null|
 |**2023-12-11**|**DYAD: A Descriptive Yet Abjuring Density efficient approximation to linear neural network layers**|Sarin Chandy et.al.|[2312.06881v1](http://arxiv.org/abs/2312.06881v1)|**[link](https://github.com/asappresearch/dyad)**|
 |**2023-12-11**|**Adaptive Human Trajectory Prediction via Latent Corridors**|Neerja Thakkar et.al.|[2312.06653v1](http://arxiv.org/abs/2312.06653v1)|null|
@@ -723,7 +723,7 @@
 |**2023-11-27**|**GPT4Vis: What Can GPT-4 Do for Zero-shot Visual Recognition?**|Wenhao Wu et.al.|[2311.15732v1](http://arxiv.org/abs/2311.15732v1)|**[link](https://github.com/whwu95/GPT4Vis)**|
 |**2023-11-27**|**Italian Crossword Generator: Enhancing Education through Interactive Word Puzzles**|Kamyar Zeinalipour et.al.|[2311.15723v1](http://arxiv.org/abs/2311.15723v1)|null|
 |**2023-11-27**|**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**|Jiehong Lin et.al.|[2311.15707v1](http://arxiv.org/abs/2311.15707v1)|**[link](https://github.com/jiehonglin/sam-6d)**|
-|**2023-11-27**|**FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models**|Ruixuan Xiao et.al.|[2311.15614v1](http://arxiv.org/abs/2311.15614v1)|null|
+|**2023-11-27**|**FreeAL: Towards Human-Free Active Learning in the Era of Large Language Models**|Ruixuan Xiao et.al.|[2311.15614v1](http://arxiv.org/abs/2311.15614v1)|**[link](https://github.com/justherozen/freeal)**|
 |**2023-11-24**|**Inferring Latent Class Statistics from Text for Robust Visual Few-Shot Learning**|Yassir Bendou et.al.|[2311.14544v1](http://arxiv.org/abs/2311.14544v1)|**[link](https://github.com/ybendou/fs-text2stats)**|
 |**2023-11-24**|**tinyCLAP: Distilling Constrastive Language-Audio Pretrained Models**|Francesco Paissan et.al.|[2311.14517v1](http://arxiv.org/abs/2311.14517v1)|null|
 |**2023-11-24**|**ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation**|Yuheng Xue et.al.|[2311.14262v1](http://arxiv.org/abs/2311.14262v1)|null|
@@ -917,7 +917,7 @@
 |**2023-10-23**|**Towards LLM-driven Dialogue State Tracking**|Yujie Feng et.al.|[2310.14970v1](http://arxiv.org/abs/2310.14970v1)|**[link](https://github.com/woodscene/ldst)**|
 |**2023-10-23**|**Text2Topic: Multi-Label Text Classification System for Efficient Topic Detection in User Generated Content with Zero-Shot Capabilities**|Fengjun Wang et.al.|[2310.14817v1](http://arxiv.org/abs/2310.14817v1)|null|
 |**2023-10-23**|**Large Language Models can Share Images, Too!**|Young-Jun Lee et.al.|[2310.14804v1](http://arxiv.org/abs/2310.14804v1)|**[link](https://github.com/passing2961/LLM-Share-Image)**|
-|**2023-10-23**|**Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages**|Libo Qin et.al.|[2310.14799v1](http://arxiv.org/abs/2310.14799v1)|null|
+|**2023-10-23**|**Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages**|Libo Qin et.al.|[2310.14799v1](http://arxiv.org/abs/2310.14799v1)|**[link](https://github.com/lightchen233/cross-lingual-prompting)**|
 |**2023-10-24**|**A Survey on LLM-generated Text Detection: Necessity, Methods, and Future Directions**|Junchao Wu et.al.|[2310.14724v2](http://arxiv.org/abs/2310.14724v2)|**[link](https://github.com/nlp2ct/llm-generated-text-detection)**|
 |**2023-10-20**|**CAPIVARA: Cost-Efficient Approach for Improving Multilingual CLIP Performance on Low-Resource Languages**|Gabriel Oliveira dos Santos et.al.|[2310.13683v1](http://arxiv.org/abs/2310.13683v1)|**[link](https://github.com/hiaac-nlp/capivara)**|
 |**2023-10-20**|**MULTITuDE: Large-Scale Multilingual Machine-Generated Text Detection Benchmark**|Dominik Macko et.al.|[2310.13606v1](http://arxiv.org/abs/2310.13606v1)|**[link](https://github.com/kinit-sk/mgt-detection-benchmark)**|
@@ -969,7 +969,7 @@
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
 |**2023-10-13**|**HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling**|Junwen Zhang et.al.|[2310.09135v1](http://arxiv.org/abs/2310.09135v1)|**[link](https://github.com/ai-agi/hicl)**|
 |**2023-10-13**|**Welfare Diplomacy: Benchmarking Language Model Cooperation**|Gabriel Mukobi et.al.|[2310.08901v1](http://arxiv.org/abs/2310.08901v1)|**[link](https://github.com/mukobi/welfare-diplomacy)**|
-|**2023-10-13**|**InstructTODS: Large Language Models for End-to-End Task-Oriented Dialogue Systems**|Willy Chung et.al.|[2310.08885v1](http://arxiv.org/abs/2310.08885v1)|null|
+|**2023-10-13**|**InstructTODS: Large Language Models for End-to-End Task-Oriented Dialogue Systems**|Willy Chung et.al.|[2310.08885v1](http://arxiv.org/abs/2310.08885v1)|**[link](https://github.com/willyhc22/instructtods)**|
 |**2023-10-13**|**R&B: Region and Boundary Aware Zero-shot Grounded Text-to-image Generation**|Jiayu Xiao et.al.|[2310.08872v1](http://arxiv.org/abs/2310.08872v1)|null|
 |**2023-10-13**|**DexCatch: Learning to Catch Arbitrary Objects with Dexterous Hands**|Fengbo Lan et.al.|[2310.08809v1](http://arxiv.org/abs/2310.08809v1)|null|
 |**2023-10-12**|**CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models**|Sreyan Ghosh et.al.|[2310.08753v1](http://arxiv.org/abs/2310.08753v1)|null|
@@ -1414,7 +1414,7 @@
 |**2023-07-19**|**SPRINT: A Unified Toolkit for Evaluating and Demystifying Zero-shot Neural Sparse Retrieval**|Nandan Thakur et.al.|[2307.10488v1](http://arxiv.org/abs/2307.10488v1)|**[link](https://github.com/thakur-nandan/sprint)**|
 |**2023-07-19**|**Can Instruction Fine-Tuned Language Models Identify Social Bias through Prompting?**|Omkar Dige et.al.|[2307.10472v1](http://arxiv.org/abs/2307.10472v1)|null|
 |**2023-07-20**|**DialogStudio: Towards Richest and Most Diverse Unified Dataset Collection for Conversational AI**|Jianguo Zhang et.al.|[2307.10172v2](http://arxiv.org/abs/2307.10172v2)|**[link](https://github.com/salesforce/DialogStudio)**|
-|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|null|
+|**2023-07-18**|**AnyDoor: Zero-shot Object-level Image Customization**|Xi Chen et.al.|[2307.09481v1](http://arxiv.org/abs/2307.09481v1)|**[link](https://github.com/modelscope/modelscope)**|
 |**2023-07-18**|**SLMGAN: Exploiting Speech Language Model Representations for Unsupervised Zero-Shot Voice Conversion in GANs**|Yinghao Aaron Li et.al.|[2307.09435v1](http://arxiv.org/abs/2307.09435v1)|null|
 |**2023-07-18**|**Zero-shot Query Reformulation for Conversational Search**|Dayu Yang et.al.|[2307.09384v1](http://arxiv.org/abs/2307.09384v1)|**[link](https://github.com/dayuyang1999/zeqr)**|
 |**2023-07-18**|**Augmenting CLIP with Improved Visio-Linguistic Reasoning**|Samyadeep Basu et.al.|[2307.09233v1](http://arxiv.org/abs/2307.09233v1)|null|

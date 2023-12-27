@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Graph Context Transformation Learning for Progressive Correspondence Pruning**|Junwen Guo et.al.|[2312.15971v1](http://arxiv.org/abs/2312.15971v1)|null|
+|**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
+|**2023-12-25**|**APTv2: Benchmarking Animal Pose Estimation and Tracking with a Large-scale Dataset and Beyond**|Yuxiang Yang et.al.|[2312.15612v1](http://arxiv.org/abs/2312.15612v1)|null|
+|**2023-12-23**|**PACE: Pose Annotations in Cluttered Environments**|Yang You et.al.|[2312.15130v1](http://arxiv.org/abs/2312.15130v1)|**[link](https://github.com/qq456cvb/pace)**|
 |**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733v1](http://arxiv.org/abs/2312.14733v1)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697v1](http://arxiv.org/abs/2312.14697v1)|null|
@@ -562,6 +566,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|
+|**2023-12-26**|**Scaling Down, LiTting Up: Efficient Zero-Shot Listwise Reranking with Seq2seq Encoder-Decoder Models**|Manveer Singh Tamber et.al.|[2312.16098v1](http://arxiv.org/abs/2312.16098v1)|**[link](https://github.com/castorini/lit5)**|
+|**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066v1](http://arxiv.org/abs/2312.16066v1)|**[link](https://github.com/wssun/promptcs)**|
+|**2023-12-26**|**A Logically Consistent Chain-of-Thought Approach for Stance Detection**|Bowen Zhang et.al.|[2312.16054v1](http://arxiv.org/abs/2312.16054v1)|null|
+|**2023-12-26**|**Large Language Models as Traffic Signal Control Agents: Capacity and Opportunity**|Siqi Lai et.al.|[2312.16044v1](http://arxiv.org/abs/2312.16044v1)|**[link](https://github.com/usail-hkust/llmtscs)**|
+|**2023-12-26**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018v1](http://arxiv.org/abs/2312.16018v1)|null|
+|**2023-12-26**|**Semantic Guidance Tuning for Text-To-Image Diffusion Models**|Hyun Kang et.al.|[2312.15964v1](http://arxiv.org/abs/2312.15964v1)|null|
+|**2023-12-26**|**Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning**|Chenyi Jiang et.al.|[2312.15923v1](http://arxiv.org/abs/2312.15923v1)|**[link](https://github.com/lanchjl/prolt-czsl)**|
+|**2023-12-26**|**Semantic-aware SAM for Point-Prompted Instance Segmentation**|Zhaoyang Wei et.al.|[2312.15895v1](http://arxiv.org/abs/2312.15895v1)|null|
+|**2023-12-26**|**KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph**|Tiezheng Guo et.al.|[2312.15880v1](http://arxiv.org/abs/2312.15880v1)|null|
 |**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670v1](http://arxiv.org/abs/2312.14670v1)|null|
 |**2023-12-22**|**SIG: Speaker Identification in Literature via Prompt-Based Generation**|Zhenlin Su et.al.|[2312.14590v1](http://arxiv.org/abs/2312.14590v1)|null|
 |**2023-12-22**|**Creating New Voices using Normalizing Flows**|Piotr Bilinski et.al.|[2312.14569v1](http://arxiv.org/abs/2312.14569v1)|null|

@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|**[link](https://github.com/chinhsuanwu/ifusion)**|
+|**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
+|**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800v1](http://arxiv.org/abs/2312.16800v1)|null|
+|**2023-12-28**|**L-LO: Enhancing Pose Estimation Precision via a Landmark-Based LiDAR Odometry**|Feiya Li et.al.|[2312.16787v1](http://arxiv.org/abs/2312.16787v1)|null|
+|**2023-12-27**|**HMP: Hand Motion Priors for Pose and Shape Estimation from Video**|Enes Duran et.al.|[2312.16737v1](http://arxiv.org/abs/2312.16737v1)|null|
+|**2023-12-27**|**Camera calibration for the surround-view system: a benchmark and dataset**|L Qin et.al.|[2312.16499v1](http://arxiv.org/abs/2312.16499v1)|null|
+|**2023-12-24**|**TEMP3D: Temporally Continuous 3D Human Pose Estimation Under Occlusions**|Rohit Lal et.al.|[2312.16221v1](http://arxiv.org/abs/2312.16221v1)|null|
 |**2023-12-26**|**Graph Context Transformation Learning for Progressive Correspondence Pruning**|Junwen Guo et.al.|[2312.15971v1](http://arxiv.org/abs/2312.15971v1)|null|
 |**2023-12-25**|**Lifting by Image -- Leveraging Image Cues for Accurate 3D Human Pose Estimation**|Feng Zhou et.al.|[2312.15636v1](http://arxiv.org/abs/2312.15636v1)|null|
 |**2023-12-25**|**APTv2: Benchmarking Animal Pose Estimation and Tracking with a Large-scale Dataset and Beyond**|Yuxiang Yang et.al.|[2312.15612v1](http://arxiv.org/abs/2312.15612v1)|null|
@@ -432,7 +439,7 @@ layout: default
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877v1](http://arxiv.org/abs/2312.02877v1)|null|
 |**2023-12-05**|**6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation**|K. Samarawickrama et.al.|[2312.02593v1](http://arxiv.org/abs/2312.02593v1)|**[link](https://github.com/kulunuos/6dapose)**|
 |**2023-12-04**|**Rotation-Invariant Rapid TRISO-Fueled Pebble Identification Based on Feature Matching and Point Cloud Registration**|Ming Fang et.al.|[2312.02006v1](http://arxiv.org/abs/2312.02006v1)|null|
-|**2023-11-30**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v1](http://arxiv.org/abs/2311.18433v1)|**[link](https://github.com/xmu-qcj/e2pnet)**|
+|**2023-12-27**|**E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning**|Xiuhong Lin et.al.|[2311.18433v2](http://arxiv.org/abs/2311.18433v2)|**[link](https://github.com/xmu-qcj/e2pnet)**|
 |**2023-11-15**|**Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change**|Tao Sun et.al.|[2311.09346v1](http://arxiv.org/abs/2311.09346v1)|null|
 |**2023-11-02**|**Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior**|Xinyi Li et.al.|[2311.01432v1](http://arxiv.org/abs/2311.01432v1)|null|
 |**2023-11-02**|**Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration**|Yifan Xie et.al.|[2311.01202v1](http://arxiv.org/abs/2311.01202v1)|**[link](https://github.com/ivanxie416/cmignet)**|
@@ -515,6 +522,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578v1](http://arxiv.org/abs/2312.16578v1)|null|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880v1](http://arxiv.org/abs/2312.11880v1)|null|
 |**2023-12-15**|**T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning**|Weijie Wei et.al.|[2312.10217v1](http://arxiv.org/abs/2312.10217v1)|null|
 |**2023-12-14**|**FAPP: Fast and Adaptive Perception and Planning for UAVs in Dynamic Cluttered Environments**|Minghao Lu et.al.|[2312.08743v1](http://arxiv.org/abs/2312.08743v1)|null|
@@ -554,6 +562,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-28**|**Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels**|Rui Huang et.al.|[2312.17232v1](http://arxiv.org/abs/2312.17232v1)|null|
+|**2023-12-28**|**FILP-3D: Enhancing 3D Few-shot Class-incremental Learning with Pre-trained Vision-Language Models**|Wan Xu et.al.|[2312.17051v1](http://arxiv.org/abs/2312.17051v1)|null|
+|**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794v1](http://arxiv.org/abs/2312.16794v1)|null|
+|**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648v1](http://arxiv.org/abs/2312.16648v1)|null|
+|**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
+|**2023-12-27**|**VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting**|Seunggu Kang et.al.|[2312.16580v1](http://arxiv.org/abs/2312.16580v1)|null|
+|**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|null|
+|**2023-12-26**|**Task Contamination: Language Models May Not Be Few-Shot Anymore**|Changmao Li et.al.|[2312.16337v1](http://arxiv.org/abs/2312.16337v1)|null|
 |**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|
 |**2023-12-26**|**Scaling Down, LiTting Up: Efficient Zero-Shot Listwise Reranking with Seq2seq Encoder-Decoder Models**|Manveer Singh Tamber et.al.|[2312.16098v1](http://arxiv.org/abs/2312.16098v1)|**[link](https://github.com/castorini/lit5)**|
 |**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066v1](http://arxiv.org/abs/2312.16066v1)|**[link](https://github.com/wssun/promptcs)**|

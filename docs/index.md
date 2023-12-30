@@ -567,7 +567,7 @@ layout: default
 |**2023-12-28**|**ZONE: Zero-Shot Instruction-Guided Local Editing**|Shanglin Li et.al.|[2312.16794v1](http://arxiv.org/abs/2312.16794v1)|null|
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648v1](http://arxiv.org/abs/2312.16648v1)|null|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
-|**2023-12-27**|**VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting**|Seunggu Kang et.al.|[2312.16580v1](http://arxiv.org/abs/2312.16580v1)|null|
+|**2023-12-27**|**VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting**|Seunggu Kang et.al.|[2312.16580v1](http://arxiv.org/abs/2312.16580v1)|**[link](https://github.com/seunggu0305/vlcounter)**|
 |**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|null|
 |**2023-12-26**|**Task Contamination: Language Models May Not Be Few-Shot Anymore**|Changmao Li et.al.|[2312.16337v1](http://arxiv.org/abs/2312.16337v1)|null|
 |**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|

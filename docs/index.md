@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.30
+## Updated on 2023.12.31
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -522,7 +522,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578v1](http://arxiv.org/abs/2312.16578v1)|null|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578v1](http://arxiv.org/abs/2312.16578v1)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880v1](http://arxiv.org/abs/2312.11880v1)|null|
 |**2023-12-15**|**T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning**|Weijie Wei et.al.|[2312.10217v1](http://arxiv.org/abs/2312.10217v1)|null|
 |**2023-12-14**|**FAPP: Fast and Adaptive Perception and Planning for UAVs in Dynamic Cluttered Environments**|Minghao Lu et.al.|[2312.08743v1](http://arxiv.org/abs/2312.08743v1)|null|
@@ -568,7 +568,7 @@ layout: default
 |**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648v1](http://arxiv.org/abs/2312.16648v1)|null|
 |**2023-12-27**|**Learning from small data sets: Patch-based regularizers in inverse problems for image reconstruction**|Moritz Piening et.al.|[2312.16611v1](http://arxiv.org/abs/2312.16611v1)|null|
 |**2023-12-27**|**VLCounter: Text-aware VIsual Representation for Zero-Shot Object Counting**|Seunggu Kang et.al.|[2312.16580v1](http://arxiv.org/abs/2312.16580v1)|**[link](https://github.com/seunggu0305/vlcounter)**|
-|**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|null|
+|**2023-12-27**|**Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings**|Xiaoliang Tan et.al.|[2312.16410v1](http://arxiv.org/abs/2312.16410v1)|**[link](https://github.com/stephenapx/ucd-scm)**|
 |**2023-12-26**|**Task Contamination: Language Models May Not Be Few-Shot Anymore**|Changmao Li et.al.|[2312.16337v1](http://arxiv.org/abs/2312.16337v1)|null|
 |**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159v1](http://arxiv.org/abs/2312.16159v1)|null|
 |**2023-12-26**|**Scaling Down, LiTting Up: Efficient Zero-Shot Listwise Reranking with Seq2seq Encoder-Decoder Models**|Manveer Singh Tamber et.al.|[2312.16098v1](http://arxiv.org/abs/2312.16098v1)|**[link](https://github.com/castorini/lit5)**|

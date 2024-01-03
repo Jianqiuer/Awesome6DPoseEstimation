@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v1](http://arxiv.org/abs/2401.01081v1)|null|
+|**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889v1](http://arxiv.org/abs/2401.00889v1)|null|
+|**2024-01-01**|**Geometry Depth Consistency in RGBD Relative Pose Estimation**|Sourav Kumar et.al.|[2401.00639v1](http://arxiv.org/abs/2401.00639v1)|null|
+|**2023-12-30**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155v1](http://arxiv.org/abs/2401.00155v1)|null|
+|**2024-01-02**|**6D-Diff: A Keypoint Diffusion Framework for 6D Object Pose Estimation**|Li Xu et.al.|[2401.00029v2](http://arxiv.org/abs/2401.00029v2)|null|
 |**2023-12-29**|**MURP: Multi-Agent Ultra-Wideband Relative Pose Estimation with Constrained Communications in 3D Environments**|Andrew Fishberg et.al.|[2312.17731v1](http://arxiv.org/abs/2312.17731v1)|null|
 |**2023-12-28**|**iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views**|Chin-Hsuan Wu et.al.|[2312.17250v1](http://arxiv.org/abs/2312.17250v1)|**[link](https://github.com/chinhsuanwu/ifusion)**|
 |**2023-12-28**|**EvPlug: Learn a Plug-and-Play Module for Event and Image Fusion**|Jianping Jiang et.al.|[2312.16933v1](http://arxiv.org/abs/2312.16933v1)|null|
@@ -431,6 +436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-31**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v1](http://arxiv.org/abs/2401.00436v1)|null|
 |**2023-12-22**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970v2](http://arxiv.org/abs/2312.13970v2)|null|
 |**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970v1](http://arxiv.org/abs/2312.12970v1)|null|
 |**2023-12-14**|**SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration**|Kezheng Xiong et.al.|[2312.08664v1](http://arxiv.org/abs/2312.08664v1)|null|
@@ -563,6 +569,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-02**|**Zero-Shot Position Debiasing for Large Language Models**|Zhongkun Liu et.al.|[2401.01218v1](http://arxiv.org/abs/2401.01218v1)|null|
+|**2024-01-02**|**Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification**|Xuelin Zhu et.al.|[2401.01181v1](http://arxiv.org/abs/2401.01181v1)|null|
+|**2024-01-02**|**En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data**|Yifang Men et.al.|[2401.01173v1](http://arxiv.org/abs/2401.01173v1)|null|
+|**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065v1](http://arxiv.org/abs/2401.01065v1)|null|
+|**2024-01-01**|**Diffusion Models, Image Super-Resolution And Everything: A Survey**|Brian B. Moser et.al.|[2401.00736v1](http://arxiv.org/abs/2401.00736v1)|null|
+|**2024-01-01**|**Student and AI responses to physics problems examined through the lenses of sensemaking and mechanistic reasoning**|Amogh Sirnoorkar et.al.|[2401.00627v1](http://arxiv.org/abs/2401.00627v1)|null|
+|**2023-12-30**|**An $\ell^1$ -Plug-and-Play Approach for Magnetic Particle Imaging Using a Zero Shot Denoiser with Validation on the 3D Open MPI Dataset**|Vladyslav Gapyak et.al.|[2401.00275v1](http://arxiv.org/abs/2401.00275v1)|null|
+|**2023-12-30**|**Investigating Zero-Shot Generalizability on Mandarin-English Code-Switched ASR and Speech-to-text Translation of Recent Foundation Models with Self-Supervision and Weak Supervision**|Chih-Kai Yang et.al.|[2401.00273v1](http://arxiv.org/abs/2401.00273v1)|null|
+|**2023-12-30**|**L3Cube-MahaSocialNER: A Social Media based Marathi NER Dataset and BERT models**|Harsh Chaudhari et.al.|[2401.00170v1](http://arxiv.org/abs/2401.00170v1)|**[link](https://github.com/l3cube-pune/MarathiNLP)**|
+|**2023-12-30**|**Pushing Boundaries: Exploring Zero Shot Object Classification with Large Multimodal Models**|Ashhadul Islam et.al.|[2401.00127v1](http://arxiv.org/abs/2401.00127v1)|null|
 |**2023-12-29**|**Commonsense for Zero-Shot Natural Language Video Localization**|Meghana Holla et.al.|[2312.17429v1](http://arxiv.org/abs/2312.17429v1)|null|
 |**2023-12-28**|**3VL: using Trees to teach Vision & Language models compositional concepts**|Nir Yellinek et.al.|[2312.17345v1](http://arxiv.org/abs/2312.17345v1)|null|
 |**2023-12-28**|**AI Content Self-Detection for Transformer-based Large Language Models**|Antônio Junior Alves Caiado et.al.|[2312.17289v1](http://arxiv.org/abs/2312.17289v1)|null|

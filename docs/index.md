@@ -30,7 +30,7 @@ layout: default
 |**2023-12-23**|**PACE: Pose Annotations in Cluttered Environments**|Yang You et.al.|[2312.15130v1](http://arxiv.org/abs/2312.15130v1)|**[link](https://github.com/qq456cvb/pace)**|
 |**2023-12-22**|**PoseGen: Learning to Generate 3D Human Pose Dataset with NeRF**|Mohsen Gholami et.al.|[2312.14915v1](http://arxiv.org/abs/2312.14915v1)|**[link](https://github.com/mgholamikn/PoseGen)**|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733v1](http://arxiv.org/abs/2312.14733v1)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
-|**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697v1](http://arxiv.org/abs/2312.14697v1)|null|
+|**2023-12-22**|**Pola4All: survey of polarimetric applications and an open-source toolkit to analyze polarization**|Joaquin Rodriguez et.al.|[2312.14697v1](http://arxiv.org/abs/2312.14697v1)|**[link](https://github.com/vibot-lab/pola4all_jei_2023)**|
 |**2023-12-22**|**PoseViNet: Distracted Driver Action Recognition Framework Using Multi-View Pose Estimation and Vision Transformer**|Neha Sengar et.al.|[2312.14577v1](http://arxiv.org/abs/2312.14577v1)|null|
 |**2023-12-22**|**Scalable 3D Reconstruction From Single Particle X-Ray Diffraction Images Based on Online Machine Learning**|Jay Shenoy et.al.|[2312.14432v1](http://arxiv.org/abs/2312.14432v1)|null|
 |**2023-12-21**|**3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera**|Christen Millerdurai et.al.|[2312.14157v1](http://arxiv.org/abs/2312.14157v1)|null|
@@ -590,7 +590,7 @@ layout: default
 |**2024-01-03**|**Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction**|Minchan Kim et.al.|[2401.01498v1](http://arxiv.org/abs/2401.01498v1)|null|
 |**2024-01-03**|**A Pre-trained Sequential Recommendation Framework: Popularity Dynamics for Zero-shot Transfer**|Junting Wang et.al.|[2401.01497v1](http://arxiv.org/abs/2401.01497v1)|null|
 |**2024-01-03**|**Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition**|Kyle Buettner et.al.|[2401.01482v1](http://arxiv.org/abs/2401.01482v1)|null|
-|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456v1](http://arxiv.org/abs/2401.01456v1)|null|
+|**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456v1](http://arxiv.org/abs/2401.01456v1)|**[link](https://github.com/ydk-tellurion/colorizediffusion)**|
 |**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414v1](http://arxiv.org/abs/2401.01414v1)|null|
 |**2024-01-02**|**Zero-Shot Position Debiasing for Large Language Models**|Zhongkun Liu et.al.|[2401.01218v1](http://arxiv.org/abs/2401.01218v1)|null|
 |**2024-01-02**|**Query-Based Knowledge Sharing for Open-Vocabulary Multi-Label Classification**|Xuelin Zhu et.al.|[2401.01181v1](http://arxiv.org/abs/2401.01181v1)|null|
@@ -669,7 +669,7 @@ layout: default
 |**2023-12-17**|**Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval**|Weihang Su et.al.|[2312.10661v1](http://arxiv.org/abs/2312.10661v1)|**[link](https://github.com/oneal2000/wikiformer)**|
 |**2023-12-17**|**VidToMe: Video Token Merging for Zero-Shot Video Editing**|Xirui Li et.al.|[2312.10656v1](http://arxiv.org/abs/2312.10656v1)|null|
 |**2023-12-17**|**An Evaluation of GPT-4V and Gemini in Online VQA**|Mengchen Liu et.al.|[2312.10637v1](http://arxiv.org/abs/2312.10637v1)|null|
-|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320v1](http://arxiv.org/abs/2312.10320v1)|null|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320v1](http://arxiv.org/abs/2312.10320v1)|**[link](https://github.com/zermatt-luo/SBKA)**|
 |**2023-12-16**|**RetailKLIP : Finetuning OpenCLIP backbone using metric learning on a single GPU for Zero-shot retail product image classification**|Muktabh Mayank Srivastava et.al.|[2312.10282v1](http://arxiv.org/abs/2312.10282v1)|null|
 |**2023-12-15**|**Uncovering the Causes of Emotions in Software Developer Communication Using Zero-shot LLMs**|Mia Mohammad Imran et.al.|[2312.09731v1](http://arxiv.org/abs/2312.09731v1)|**[link](https://github.com/vcu-swim-lab/SE-Emotion-Cause-Replication)**|
 |**2023-12-15**|**ParsNets: A Parsimonious Orthogonal and Low-Rank Linear Networks for Zero-Shot Learning**|Jingcai Guo et.al.|[2312.09709v1](http://arxiv.org/abs/2312.09709v1)|null|
@@ -678,7 +678,7 @@ layout: default
 |**2023-12-15**|**Hierarchical Graph Pattern Understanding for Zero-Shot VOS**|Gensheng Pei et.al.|[2312.09525v1](http://arxiv.org/abs/2312.09525v1)|**[link](https://github.com/nust-machine-intelligence-laboratory/hgpu)**|
 |**2023-12-14**|**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**|Jinguo Zhu et.al.|[2312.09251v1](http://arxiv.org/abs/2312.09251v1)|**[link](https://github.com/ailab-cvc/vl-gpt)**|
 |**2023-12-14**|**Reliability in Semantic Segmentation: Can We Use Synthetic Data?**|Thibaut Loiseau et.al.|[2312.09231v1](http://arxiv.org/abs/2312.09231v1)|null|
-|**2023-12-14**|**General Object Foundation Model for Images and Videos at Scale**|Junfeng Wu et.al.|[2312.09158v1](http://arxiv.org/abs/2312.09158v1)|null|
+|**2023-12-14**|**General Object Foundation Model for Images and Videos at Scale**|Junfeng Wu et.al.|[2312.09158v1](http://arxiv.org/abs/2312.09158v1)|**[link](https://github.com/FoundationVision/GLEE)**|
 |**2023-12-14**|**OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers**|Han Liang et.al.|[2312.08985v1](http://arxiv.org/abs/2312.08985v1)|null|
 |**2023-12-14**|**Influence of Prompting Strategies on Segment Anything Model (SAM) for Short-axis Cardiac MRI segmentation**|Josh Stein et.al.|[2312.08932v1](http://arxiv.org/abs/2312.08932v1)|null|
 |**2023-12-14**|**Modeling Complex Mathematical Reasoning via Large Language Model based MathAgent**|Haoran Liao et.al.|[2312.08926v1](http://arxiv.org/abs/2312.08926v1)|**[link](https://github.com/oashua/mathagent)**|
@@ -777,7 +777,7 @@ layout: default
 |**2023-11-29**|**Knowledge Pursuit Prompting for Zero-Shot Multimodal Synthesis**|Jinqi Luo et.al.|[2311.17898v1](http://arxiv.org/abs/2311.17898v1)|null|
 |**2023-11-29**|**Analyzing and Explaining Image Classifiers via Diffusion Guidance**|Maximilian Augustin et.al.|[2311.17833v1](http://arxiv.org/abs/2311.17833v1)|null|
 |**2023-11-29**|**GenZI: Zero-Shot 3D Human-Scene Interaction Generation**|Lei Li et.al.|[2311.17737v1](http://arxiv.org/abs/2311.17737v1)|null|
-|**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707v1](http://arxiv.org/abs/2311.17707v1)|null|
+|**2023-11-29**|**SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation**|Mutian Xu et.al.|[2311.17707v1](http://arxiv.org/abs/2311.17707v1)|**[link](https://github.com/GAP-LAB-CUHK-SZ/SAMPro3D)**|
 |**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647v1](http://arxiv.org/abs/2311.17647v1)|null|
 |**2023-11-29**|**CLIPC8: Face liveness detection algorithm based on image-text pairs and contrastive learning**|Xu Liu et.al.|[2311.17583v1](http://arxiv.org/abs/2311.17583v1)|**[link](https://github.com/reilxlx/antispoofing-contrastive-learning)**|
 |**2023-11-29**|**Reinforcement Replaces Supervision: Query focused Summarization using Deep Reinforcement Learning**|Swaroop Nath et.al.|[2311.17514v1](http://arxiv.org/abs/2311.17514v1)|**[link](https://github.com/swaroop-nath/rl-qfs)**|
@@ -960,7 +960,7 @@ layout: default
 |**2023-10-27**|**Prompt-NER: Zero-shot Named Entity Recognition in Astronomy Literature via Large Language Models**|Wujun Shao et.al.|[2310.17892v1](http://arxiv.org/abs/2310.17892v1)|null|
 |**2023-10-26**|**Large Language Models as Generalizable Policies for Embodied Tasks**|Andrew Szot et.al.|[2310.17722v1](http://arxiv.org/abs/2310.17722v1)|null|
 |**2023-10-26**|**Improving Zero-shot Reader by Reducing Distractions from Irrelevant Documents in Open-Domain Question Answering**|Sukmin Cho et.al.|[2310.17490v1](http://arxiv.org/abs/2310.17490v1)|null|
-|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419v1](http://arxiv.org/abs/2310.17419v1)|null|
+|**2023-10-26**|**AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors**|You-Ming Chang et.al.|[2310.17419v1](http://arxiv.org/abs/2310.17419v1)|**[link](https://github.com/nctu-eva-lab/antifakeprompt)**|
 |**2023-10-26**|**X-SNS: Cross-Lingual Transfer Prediction through Sub-Network Similarity**|Taejun Yun et.al.|[2310.17166v1](http://arxiv.org/abs/2310.17166v1)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v2](http://arxiv.org/abs/2310.17075v2)|null|
 |**2023-10-25**|**Exploring Question Decomposition for Zero-Shot VQA**|Zaid Khan et.al.|[2310.17050v1](http://arxiv.org/abs/2310.17050v1)|null|
@@ -1412,7 +1412,7 @@ layout: default
 |**2023-08-08**|**Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning**|Hanjae Kim et.al.|[2308.04016v1](http://arxiv.org/abs/2308.04016v1)|**[link](https://github.com/hanjaekim98/cot)**|
 |**2023-08-07**|**Zero-shot Skeleton-based Action Recognition via Mutual Information Estimation and Maximization**|Yujie Zhou et.al.|[2308.03950v1](http://arxiv.org/abs/2308.03950v1)|**[link](https://github.com/yujieouo/smie)**|
 |**2023-08-07**|**Extracting detailed oncologic history and treatment plan from medical oncology notes with large language models**|Madhumita Sushil et.al.|[2308.03853v1](http://arxiv.org/abs/2308.03853v1)|**[link](https://github.com/madhumitasushil/oncllmextraction)**|
-|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|null|
+|**2023-08-07**|**AvatarVerse: High-quality & Stable 3D Avatar Creation from Text and Pose**|Huichao Zhang et.al.|[2308.03610v1](http://arxiv.org/abs/2308.03610v1)|**[link](https://github.com/bytedance/AvatarVerse)**|
 |**2023-08-08**|**DiffSynth: Latent In-Iteration Deflickering for Realistic Video Synthesis**|Zhongjie Duan et.al.|[2308.03463v2](http://arxiv.org/abs/2308.03463v2)|**[link](https://github.com/alibaba/EasyNLP)**|
 |**2023-08-07**|**Improving Few-shot and Zero-shot Entity Linking with Coarse-to-Fine Lexicon-based Retriever**|Shijue Huang et.al.|[2308.03365v1](http://arxiv.org/abs/2308.03365v1)|null|
 |**2023-08-07**|**Learning Terrain-Adaptive Locomotion with Agile Behaviors by Imitating Animals**|Tingguang Li et.al.|[2308.03273v1](http://arxiv.org/abs/2308.03273v1)|null|

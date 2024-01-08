@@ -17,7 +17,7 @@
 |**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357v1](http://arxiv.org/abs/2401.02357v1)|null|
 |**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281v1](http://arxiv.org/abs/2401.02281v1)|null|
 |**2024-01-03**|**Real-Time Human Fall Detection using a Lightweight Pose Estimation Technique**|Ekram Alam et.al.|[2401.01587v1](http://arxiv.org/abs/2401.01587v1)|null|
-|**2024-01-02**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v1](http://arxiv.org/abs/2401.01081v1)|**[link](https://github.com/hjmgarmin/ple-slam)**|
+|**2024-01-05**|**PLE-SLAM: A Visual-Inertial SLAM Based on Point-Line Features and Efficient IMU Initialization**|Jiaming He et.al.|[2401.01081v2](http://arxiv.org/abs/2401.01081v2)|**[link](https://github.com/hjmgarmin/ple-slam)**|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889v1](http://arxiv.org/abs/2401.00889v1)|null|
 |**2024-01-01**|**Geometry Depth Consistency in RGBD Relative Pose Estimation**|Sourav Kumar et.al.|[2401.00639v1](http://arxiv.org/abs/2401.00639v1)|null|
 |**2023-12-30**|**A comprehensive framework for occluded human pose estimation**|Linhao Xu et.al.|[2401.00155v1](http://arxiv.org/abs/2401.00155v1)|null|
@@ -448,6 +448,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
 |**2024-01-03**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v2](http://arxiv.org/abs/2401.00436v2)|null|
 |**2023-12-22**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970v2](http://arxiv.org/abs/2312.13970v2)|null|
 |**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970v1](http://arxiv.org/abs/2312.12970v1)|null|
@@ -585,6 +586,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**|Haobo Yuan et.al.|[2401.02955v1](http://arxiv.org/abs/2401.02955v1)|null|
+|**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909v1](http://arxiv.org/abs/2401.02909v1)|null|
+|**2024-01-05**|**VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model**|Pengying Wu et.al.|[2401.02695v1](http://arxiv.org/abs/2401.02695v1)|null|
+|**2024-01-05**|**Zero-shot Microclimate Prediction with Deep Learning**|Iman Deznabi et.al.|[2401.02665v1](http://arxiv.org/abs/2401.02665v1)|null|
+|**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651v1](http://arxiv.org/abs/2401.02651v1)|null|
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418v1](http://arxiv.org/abs/2401.02418v1)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-04**|**Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training**|Longtian Qiu et.al.|[2401.02347v1](http://arxiv.org/abs/2401.02347v1)|**[link](https://github.com/artanic30/maccap)**|
 |**2024-01-04**|**BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model**|Yiran Song et.al.|[2401.02317v1](http://arxiv.org/abs/2401.02317v1)|**[link](https://github.com/zongzi13545329/ba-sam)**|

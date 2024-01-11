@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
+|**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202v1](http://arxiv.org/abs/2401.05202v1)|null|
+|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|null|
 |**2024-01-09**|**Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker**|Jingtao Sun et.al.|[2401.04377v1](http://arxiv.org/abs/2401.04377v1)|**[link](https://github.com/s-jingtao/ick-track)**|
 |**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143v1](http://arxiv.org/abs/2401.04143v1)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
@@ -592,6 +595,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Score Distillation Sampling with Learned Manifold Corrective**|Thiemo Alldieck et.al.|[2401.05293v1](http://arxiv.org/abs/2401.05293v1)|null|
+|**2024-01-10**|**CASA: Causality-driven Argument Sufficiency Assessment**|Xiao Liu et.al.|[2401.05249v1](http://arxiv.org/abs/2401.05249v1)|**[link](https://github.com/xxxiaol/casa)**|
+|**2024-01-10**|**A Novel Prompt-tuning Method: Incorporating Scenario-specific Concepts into a Verbalizer**|Yong Ma et.al.|[2401.05204v1](http://arxiv.org/abs/2401.05204v1)|null|
+|**2024-01-10**|**CLIP-guided Source-free Object Detection in Aerial Images**|Nanqing Liu et.al.|[2401.05168v1](http://arxiv.org/abs/2401.05168v1)|null|
+|**2024-01-10**|**Noise-robust zero-shot text-to-speech synthesis conditioned on self-supervised speech-representation model with adapters**|Kenichi Fujita et.al.|[2401.05111v1](http://arxiv.org/abs/2401.05111v1)|null|
+|**2024-01-10**|**MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector**|Marta R. Costa-jussà et.al.|[2401.05060v1](http://arxiv.org/abs/2401.05060v1)|null|
+|**2024-01-10**|**Less is More : A Closer Look at Multi-Modal Few-Shot Learning**|Chunpeng Zhou et.al.|[2401.05010v1](http://arxiv.org/abs/2401.05010v1)|null|
+|**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
+|**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860v1](http://arxiv.org/abs/2401.04860v1)|null|
+|**2024-01-09**|**MoSECroT: Model Stitching with Static Word Embeddings for Crosslingual Zero-shot Transfer**|Haotian Ye et.al.|[2401.04821v1](http://arxiv.org/abs/2401.04821v1)|null|
 |**2024-01-09**|**DepressionEmo: A novel dataset for multilabel classification of depression emotions**|Abu Bakar Siddiqur Rahman et.al.|[2401.04655v1](http://arxiv.org/abs/2401.04655v1)|**[link](https://github.com/abubakarsiddiqurrahman/depressionemo)**|
 |**2024-01-09**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621v1](http://arxiv.org/abs/2401.04621v1)|**[link](https://github.com/thunlp/debugbench)**|
 |**2024-01-09**|**Effective pruning of web-scale datasets based on complexity of concept clusters**|Amro Abbas et.al.|[2401.04578v1](http://arxiv.org/abs/2401.04578v1)|null|

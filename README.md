@@ -596,6 +596,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769v1](http://arxiv.org/abs/2401.06769v1)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
+|**2024-01-12**|**An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models**|Gantavya Bhatt et.al.|[2401.06692v1](http://arxiv.org/abs/2401.06692v1)|null|
+|**2024-01-12**|**Proximal Causal Inference With Text Data**|Jacob M. Chen et.al.|[2401.06687v1](http://arxiv.org/abs/2401.06687v1)|**[link](https://github.com/jacobmchen/proximal_w_text)**|
+|**2024-01-12**|**LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase**|Angela John et.al.|[2401.06676v1](http://arxiv.org/abs/2401.06676v1)|null|
+|**2024-01-12**|**Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently**|Kanishka Misra et.al.|[2401.06640v1](http://arxiv.org/abs/2401.06640v1)|null|
+|**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469v1](http://arxiv.org/abs/2401.06469v1)|null|
+|**2024-01-12**|**Adapting Large Language Models for Document-Level Machine Translation**|Minghao Wu et.al.|[2401.06468v1](http://arxiv.org/abs/2401.06468v1)|null|
+|**2024-01-12**|**SamLP: A Customized Segment Anything Model for License Plate Detection**|Haoxuan Ding et.al.|[2401.06374v1](http://arxiv.org/abs/2401.06374v1)|null|
+|**2024-01-12**|**Zero-shot Generative Large Language Models for Systematic Review Screening Automation**|Shuai Wang et.al.|[2401.06320v1](http://arxiv.org/abs/2401.06320v1)|null|
+|**2024-01-12**|**MuGI: Enhancing Information Retrieval through Multi-Text Generation Intergration with Large Language Models**|Le Zhang et.al.|[2401.06311v1](http://arxiv.org/abs/2401.06311v1)|**[link](https://github.com/lezhang7/retrieval_mugi)**|
 |**2024-01-11**|**Distilling Vision-Language Models on Millions of Videos**|Yue Zhao et.al.|[2401.06129v1](http://arxiv.org/abs/2401.06129v1)|null|
 |**2024-01-11**|**Surgical-DINO: Adapter Learning of Foundation Model for Depth Estimation in Endoscopic Surgery**|Cui Beilei et.al.|[2401.06013v1](http://arxiv.org/abs/2401.06013v1)|**[link](https://github.com/beileicui/surgicaldino)**|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925v1](http://arxiv.org/abs/2401.05925v1)|null|

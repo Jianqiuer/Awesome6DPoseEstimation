@@ -481,7 +481,7 @@ layout: default
 |**2023-09-26**|**CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration**|Shuhao Kang et.al.|[2309.14660v1](http://arxiv.org/abs/2309.14660v1)|null|
 |**2023-09-20**|**AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration**|Zheng Dang et.al.|[2309.11170v1](http://arxiv.org/abs/2309.11170v1)|null|
 |**2023-09-19**|**LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation**|Haizhou Zhang et.al.|[2309.10436v1](http://arxiv.org/abs/2309.10436v1)|**[link](https://github.com/tiers/ws-lidar-as-camera-odom)**|
-|**2023-09-17**|**Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control**|Abdullah Altawaitan et.al.|[2309.09163v1](http://arxiv.org/abs/2309.09163v1)|null|
+|**2023-09-17**|**Hamiltonian Dynamics Learning from Point Cloud Observations for Nonholonomic Mobile Robot Control**|Abdullah Altawaitan et.al.|[2309.09163v1](http://arxiv.org/abs/2309.09163v1)|**[link](https://github.com/ExistentialRobotics/Differential-Drive-Hamiltonian-NeuralODE)**|
 |**2023-09-16**|**FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization**|Nan Ma et.al.|[2309.08966v1](http://arxiv.org/abs/2309.08966v1)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914v1](http://arxiv.org/abs/2309.08914v1)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads**|Zixuan Li et.al.|[2309.08164v1](http://arxiv.org/abs/2309.08164v1)|null|
@@ -613,11 +613,11 @@ layout: default
 |**2024-01-09**|**LAMPAT: Low-Rank Adaption for Multilingual Paraphrasing Using Adversarial Training**|Khoi M. Le et.al.|[2401.04348v1](http://arxiv.org/abs/2401.04348v1)|**[link](https://github.com/phkhanhtrinh23/LAMPAT)**|
 |**2024-01-08**|**TTMs: Fast Multi-level Tiny Time Mixers for Improved Zero-shot and Few-shot Forecasting of Multivariate Time Series**|Vijay Ekambaram et.al.|[2401.03955v1](http://arxiv.org/abs/2401.03955v1)|null|
 |**2024-01-07**|**LLMs for Robotic Object Disambiguation**|Connie Jiang et.al.|[2401.03388v1](http://arxiv.org/abs/2401.03388v1)|null|
-|**2024-01-07**|**Grimoire is All You Need for Enhancing Large Language Models**|Ding Chen et.al.|[2401.03385v1](http://arxiv.org/abs/2401.03385v1)|null|
+|**2024-01-07**|**Grimoire is All You Need for Enhancing Large Language Models**|Ding Chen et.al.|[2401.03385v1](http://arxiv.org/abs/2401.03385v1)|**[link](https://github.com/iaar-shanghai/grimoire)**|
 |**2024-01-06**|**MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond**|Yupei Lin et.al.|[2401.03221v1](http://arxiv.org/abs/2401.03221v1)|null|
 |**2024-01-06**|**DistFormer: Enhancing Local and Global Features for Monocular Per-Object Distance Estimation**|Aniello Panariello et.al.|[2401.03191v1](http://arxiv.org/abs/2401.03191v1)|null|
 |**2024-01-06**|**TimeGraphs: Graph-based Temporal Reasoning**|Paridhi Maheshwari et.al.|[2401.03134v1](http://arxiv.org/abs/2401.03134v1)|null|
-|**2024-01-05**|**UMIE: Unified Multimodal Information Extraction with Instruction Tuning**|Lin Sun et.al.|[2401.03082v1](http://arxiv.org/abs/2401.03082v1)|null|
+|**2024-01-05**|**UMIE: Unified Multimodal Information Extraction with Instruction Tuning**|Lin Sun et.al.|[2401.03082v1](http://arxiv.org/abs/2401.03082v1)|**[link](https://github.com/ZUCC-AI/UMIE)**|
 |**2024-01-05**|**Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively**|Haobo Yuan et.al.|[2401.02955v1](http://arxiv.org/abs/2401.02955v1)|**[link](https://github.com/harboryuan/ovsam)**|
 |**2024-01-05**|**Introducing Bode: A Fine-Tuned Large Language Model for Portuguese Prompt-Based Task**|Gabriel Lino Garcia et.al.|[2401.02909v1](http://arxiv.org/abs/2401.02909v1)|null|
 |**2024-01-05**|**VoroNav: Voronoi-based Zero-shot Object Navigation with Large Language Model**|Pengying Wu et.al.|[2401.02695v1](http://arxiv.org/abs/2401.02695v1)|null|
@@ -1289,7 +1289,7 @@ layout: default
 |**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|**[link](https://github.com/microsoft/clap)**|
 |**2023-09-11**|**Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP**|Wei Du et.al.|[2309.05619v1](http://arxiv.org/abs/2309.05619v1)|null|
 |**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527v1](http://arxiv.org/abs/2309.05527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|
-|**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499v1](http://arxiv.org/abs/2309.05499v1)|null|
+|**2023-09-11**|**Zero-Shot Co-salient Object Detection Framework**|Haoke Xiao et.al.|[2309.05499v1](http://arxiv.org/abs/2309.05499v1)|**[link](https://github.com/hkxiao/zs-cosod)**|
 |**2023-09-11**|**Zero-shot Learning with Minimum Instruction to Extract Social Determinants and Family History from Clinical Notes using GPT Model**|Neel Jitesh Bhate et.al.|[2309.05475v1](http://arxiv.org/abs/2309.05475v1)|null|
 |**2023-09-11**|**Analysing Cross-Lingual Transfer in Low-Resourced African Named Entity Recognition**|Michael Beukman et.al.|[2309.05311v1](http://arxiv.org/abs/2309.05311v1)|**[link](https://github.com/michael-beukman/nertransfer)**|
 |**2023-09-11**|**SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth**|Xihang Yu et.al.|[2309.05184v1](http://arxiv.org/abs/2309.05184v1)|**[link](https://github.com/computationalrobotics/sim-sync)**|

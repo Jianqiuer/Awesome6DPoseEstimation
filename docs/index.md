@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160v1](http://arxiv.org/abs/2401.09160v1)|null|
+|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2024-01-16**|**AdaSem: Adaptive Goal-Oriented Semantic Communications for End-to-End Camera Relocalization**|Qi Liao et.al.|[2401.08360v1](http://arxiv.org/abs/2401.08360v1)|null|
 |**2024-01-16**|**S3M: Semantic Segmentation Sparse Mapping for UAVs with RGB-D Camera**|Thanh Nguyen Canh et.al.|[2401.08134v1](http://arxiv.org/abs/2401.08134v1)|null|
 |**2024-01-15**|**Collaboratively Self-supervised Video Representation Learning for Action Recognition**|Jie Zhang et.al.|[2401.07584v1](http://arxiv.org/abs/2401.07584v1)|null|
@@ -452,10 +454,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Registration of algebraic varieties using Riemannian optimization**|Florentin Goyens et.al.|[2401.08562v1](http://arxiv.org/abs/2401.08562v1)|**[link](https://github.com/flgoyens/variety-registration)**|
 |**2024-01-09**|**Iterative Feedback Network for Unsupervised Point Cloud Registration**|Yifan Xie et.al.|[2401.04357v1](http://arxiv.org/abs/2401.04357v1)|**[link](https://github.com/ivanxie416/ifnet)**|
 |**2024-01-06**|**PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations**|Rui She et.al.|[2401.03167v1](http://arxiv.org/abs/2401.03167v1)|null|
 |**2024-01-04**|**OptFlow: Fast Optimization-based Scene Flow Estimation without Supervision**|Rahul Ahuja et.al.|[2401.02550v1](http://arxiv.org/abs/2401.02550v1)|null|
-|**2024-01-16**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v3](http://arxiv.org/abs/2401.00436v3)|null|
+|**2024-01-17**|**Diff-PCR: Diffusion-Based Correspondence Searching in Doubly Stochastic Matrix Space for Point Cloud Registration**|Qianliang Wu et.al.|[2401.00436v4](http://arxiv.org/abs/2401.00436v4)|null|
 |**2023-12-22**|**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**|Anh Duc Nguyen et.al.|[2312.13970v2](http://arxiv.org/abs/2312.13970v2)|null|
 |**2023-12-20**|**D3Former: Jointly Learning Repeatable Dense Detectors and Feature-enhanced Descriptors via Saliency-guided Transformer**|Junjie Gao et.al.|[2312.12970v1](http://arxiv.org/abs/2312.12970v1)|null|
 |**2023-12-14**|**SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration**|Kezheng Xiong et.al.|[2312.08664v1](http://arxiv.org/abs/2312.08664v1)|null|
@@ -588,6 +591,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Vlogger: Make Your Dream A Vlog**|Shaobin Zhuang et.al.|[2401.09414v1](http://arxiv.org/abs/2401.09414v1)|**[link](https://github.com/zhuangshaobin/vlogger)**|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413v1](http://arxiv.org/abs/2401.09413v1)|null|
+|**2024-01-17**|**SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding**|Baoxiong Jia et.al.|[2401.09340v1](http://arxiv.org/abs/2401.09340v1)|null|
+|**2024-01-17**|**Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)**|Hongruixuan Chen et.al.|[2401.09019v1](http://arxiv.org/abs/2401.09019v1)|null|
+|**2024-01-17**|**MicroNAS: Zero-Shot Neural Architecture Search for MCUs**|Ye Qiao et.al.|[2401.08996v1](http://arxiv.org/abs/2401.08996v1)|null|
+|**2024-01-16**|**Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping**|Wenwen Li et.al.|[2401.08787v1](http://arxiv.org/abs/2401.08787v1)|null|
+|**2024-01-16**|**Bayes Conditional Distribution Estimation for Knowledge Distillation Based on Conditional Mutual Information**|Linfeng Ye et.al.|[2401.08732v1](http://arxiv.org/abs/2401.08732v1)|**[link](https://github.com/iclr2024mcmi/iclrmcmi)**|
+|**2024-01-16**|**Connect, Collapse, Corrupt: Learning Cross-Modal Tasks with Uni-Modal Data**|Yuhui Zhang et.al.|[2401.08567v1](http://arxiv.org/abs/2401.08567v1)|**[link](https://github.com/yuhui-zh15/c3)**|
+|**2024-01-16**|**Solving Continual Offline Reinforcement Learning with Decision Transformer**|Kaixin Huang et.al.|[2401.08478v1](http://arxiv.org/abs/2401.08478v1)|null|
 |**2024-01-16**|**Large Language Models are Null-Shot Learners**|Pittawat Taveekitworachai et.al.|[2401.08273v1](http://arxiv.org/abs/2401.08273v1)|null|
 |**2024-01-15**|**Prompting open-source and commercial language models for grammatical error correction of English learner text**|Christopher Davis et.al.|[2401.07702v1](http://arxiv.org/abs/2401.07702v1)|null|
 |**2024-01-15**|**FiGCLIP: Fine-Grained CLIP Adaptation via Densely Annotated Videos**|Darshan Singh S et.al.|[2401.07669v1](http://arxiv.org/abs/2401.07669v1)|null|

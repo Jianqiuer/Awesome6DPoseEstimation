@@ -24,7 +24,7 @@
 |**2024-01-11**|**On the representation and methodology for wide and short range head pose estimation**|Alejandro Cobo et.al.|[2401.05807v1](http://arxiv.org/abs/2401.05807v1)|**[link](https://github.com/pcr-upm/opal23_headpose)**|
 |**2024-01-10**|**Structure from Duplicates: Neural Inverse Graphics from a Pile of Objects**|Tianhang Cheng et.al.|[2401.05236v1](http://arxiv.org/abs/2401.05236v1)|**[link](https://github.com/tianhang-cheng/sfd)**|
 |**2024-01-10**|**Video-based Automatic Lameness Detection of Dairy Cows using Pose Estimation and Multiple Locomotion Traits**|Helena Russello et.al.|[2401.05202v1](http://arxiv.org/abs/2401.05202v1)|null|
-|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|null|
+|**2024-01-10**|**Diffusion-based Pose Refinement and Muti-hypothesis Generation for 3D Human Pose Estimaiton**|Hongbo Kang et.al.|[2401.04921v1](http://arxiv.org/abs/2401.04921v1)|**[link](https://github.com/khb1698/drpose)**|
 |**2024-01-15**|**Towards Real-World Aerial Vision Guidance with Categorical 6D Pose Tracker**|Jingtao Sun et.al.|[2401.04377v2](http://arxiv.org/abs/2401.04377v2)|**[link](https://github.com/s-jingtao/ick-track)**|
 |**2024-01-07**|**RHOBIN Challenge: Reconstruction of Human Object Interaction**|Xianghui Xie et.al.|[2401.04143v1](http://arxiv.org/abs/2401.04143v1)|null|
 |**2024-01-08**|**D3PRefiner: A Diffusion-based Denoise Method for 3D Human Pose Refinement**|Danqi Yan et.al.|[2401.03914v1](http://arxiv.org/abs/2401.03914v1)|null|
@@ -655,7 +655,7 @@
 |**2024-01-10**|**A Novel Prompt-tuning Method: Incorporating Scenario-specific Concepts into a Verbalizer**|Yong Ma et.al.|[2401.05204v1](http://arxiv.org/abs/2401.05204v1)|null|
 |**2024-01-10**|**CLIP-guided Source-free Object Detection in Aerial Images**|Nanqing Liu et.al.|[2401.05168v1](http://arxiv.org/abs/2401.05168v1)|null|
 |**2024-01-10**|**Noise-robust zero-shot text-to-speech synthesis conditioned on self-supervised speech-representation model with adapters**|Kenichi Fujita et.al.|[2401.05111v1](http://arxiv.org/abs/2401.05111v1)|null|
-|**2024-01-10**|**MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector**|Marta R. Costa-jussà et.al.|[2401.05060v1](http://arxiv.org/abs/2401.05060v1)|null|
+|**2024-01-10**|**MuTox: Universal MUltilingual Audio-based TOXicity Dataset and Zero-shot Detector**|Marta R. Costa-jussà et.al.|[2401.05060v1](http://arxiv.org/abs/2401.05060v1)|**[link](https://github.com/facebookresearch/seamless_communication)**|
 |**2024-01-10**|**Less is More : A Closer Look at Multi-Modal Few-Shot Learning**|Chunpeng Zhou et.al.|[2401.05010v1](http://arxiv.org/abs/2401.05010v1)|null|
 |**2024-01-10**|**From low resource information extraction to identifying influential nodes in knowledge graphs**|Erica Cai et.al.|[2401.04915v1](http://arxiv.org/abs/2401.04915v1)|null|
 |**2024-01-10**|**Modality-Aware Representation Learning for Zero-shot Sketch-based Image Retrieval**|Eunyi Lyou et.al.|[2401.04860v1](http://arxiv.org/abs/2401.04860v1)|null|
@@ -684,7 +684,7 @@
 |**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418v1](http://arxiv.org/abs/2401.02418v1)|**[link](https://github.com/muzairkhattak/protext)**|
 |**2024-01-04**|**Mining Fine-Grained Image-Text Alignment for Zero-Shot Captioning via Text-Only Training**|Longtian Qiu et.al.|[2401.02347v1](http://arxiv.org/abs/2401.02347v1)|**[link](https://github.com/artanic30/maccap)**|
 |**2024-01-04**|**BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model**|Yiran Song et.al.|[2401.02317v1](http://arxiv.org/abs/2401.02317v1)|**[link](https://github.com/zongzi13545329/ba-sam)**|
-|**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208v1](http://arxiv.org/abs/2401.02208v1)|null|
+|**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208v1](http://arxiv.org/abs/2401.02208v1)|**[link](https://github.com/cambridgeltl/e2e_tod_toolkit)**|
 |**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137v1](http://arxiv.org/abs/2401.02137v1)|null|
 |**2024-01-04**|**CLAPP: Contrastive Language-Audio Pre-training in Passive Underwater Vessel Classification**|Zeyu Li et.al.|[2401.02099v1](http://arxiv.org/abs/2401.02099v1)|null|
 |**2024-01-04**|**Improving Diffusion-Based Image Synthesis with Context Prediction**|Ling Yang et.al.|[2401.02015v1](http://arxiv.org/abs/2401.02015v1)|null|
@@ -999,7 +999,7 @@
 |**2023-11-07**|**Analysis and Applications of Deep Learning with Finite Samples in Full Life-Cycle Intelligence of Nuclear Power Generation**|Chenwei Tang et.al.|[2311.04247v1](http://arxiv.org/abs/2311.04247v1)|null|
 |**2023-11-07**|**Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study**|Peilin Zhou et.al.|[2311.04199v1](http://arxiv.org/abs/2311.04199v1)|null|
 |**2023-11-07**|**JPAVE: A Generation and Classification-based Model for Joint Product Attribute Prediction and Value Extraction**|Zhongfen Deng et.al.|[2311.04196v1](http://arxiv.org/abs/2311.04196v1)|**[link](https://github.com/zhongfendeng/jpave)**|
-|**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071v1](http://arxiv.org/abs/2311.04071v1)|null|
+|**2023-11-07**|**Energy-based Calibrated VAE with Test Time Free Lunch**|Yihong Luo et.al.|[2311.04071v1](http://arxiv.org/abs/2311.04071v1)|**[link](https://github.com/DJ-LYH/EC-VAE)**|
 |**2023-11-07**|**OLaLa: Ontology Matching with Large Language Models**|Sven Hertling et.al.|[2311.03837v1](http://arxiv.org/abs/2311.03837v1)|null|
 |**2023-11-07**|**Detecting Any Human-Object Interaction Relationship: Universal HOI Detector with Spatial Prompt Learning on Foundation Models**|Yichao Cao et.al.|[2311.03799v1](http://arxiv.org/abs/2311.03799v1)|**[link](https://github.com/caoyichao/unihoi)**|
 |**2023-11-07**|**Meta-Adapter: An Online Few-shot Learner for Vision-Language Model**|Cheng Cheng et.al.|[2311.03774v1](http://arxiv.org/abs/2311.03774v1)|null|
@@ -1414,7 +1414,7 @@
 |**2023-08-27**|**Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars**|Weijia Feng et.al.|[2308.14133v1](http://arxiv.org/abs/2308.14133v1)|null|
 |**2023-08-27**|**Semi-Supervised Learning in the Few-Shot Zero-Shot Scenario**|Noam Fluss et.al.|[2308.14119v1](http://arxiv.org/abs/2308.14119v1)|null|
 |**2023-08-27**|**MM-AU:Towards Multimodal Understanding of Advertisement Videos**|Digbalay Bose et.al.|[2308.14052v1](http://arxiv.org/abs/2308.14052v1)|null|
-|**2023-08-25**|**Decoding Natural Images from EEG for Object Recognition**|Yonghao Song et.al.|[2308.13234v1](http://arxiv.org/abs/2308.13234v1)|null|
+|**2023-08-25**|**Decoding Natural Images from EEG for Object Recognition**|Yonghao Song et.al.|[2308.13234v1](http://arxiv.org/abs/2308.13234v1)|**[link](https://github.com/eeyhsong/nice-eeg)**|
 |**2023-08-25**|**MultiCapCLIP: Auto-Encoding Prompts for Zero-Shot Multilingual Visual Captioning**|Bang Yang et.al.|[2308.13218v1](http://arxiv.org/abs/2308.13218v1)|**[link](https://github.com/yangbang18/multicapclip)**|
 |**2023-08-24**|**Interpretable Image Quality Assessment via CLIP with Multiple Antonym-Prompt Pairs**|Takamichi Miyata et.al.|[2308.13094v1](http://arxiv.org/abs/2308.13094v1)|null|
 |**2023-08-24**|**Preserving Modality Structure Improves Multi-Modal Learning**|Swetha Sirnam et.al.|[2308.13077v1](http://arxiv.org/abs/2308.13077v1)|null|
@@ -1453,7 +1453,7 @@
 |**2023-08-21**|**Image-free Classifier Injection for Zero-Shot Classification**|Anders Christensen et.al.|[2308.10599v1](http://arxiv.org/abs/2308.10599v1)|**[link](https://github.com/explainableml/imagefreezsl)**|
 |**2023-08-21**|**Improving Diversity in Zero-Shot GAN Adaptation with Semantic Variations**|Seogkyu Jeon et.al.|[2308.10554v1](http://arxiv.org/abs/2308.10554v1)|null|
 |**2023-08-21**|**Towards Accelerated Model Training via Bayesian Data Selection**|Zhijie Deng et.al.|[2308.10544v1](http://arxiv.org/abs/2308.10544v1)|null|
-|**2023-08-21**|**Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models**|Martin Weyssow et.al.|[2308.10462v1](http://arxiv.org/abs/2308.10462v1)|null|
+|**2023-08-21**|**Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models**|Martin Weyssow et.al.|[2308.10462v1](http://arxiv.org/abs/2308.10462v1)|**[link](https://github.com/martin-wey/peft-llm-code)**|
 |**2023-08-21**|**Dynamic Strategy Chain: Dynamic Zero-Shot CoT for Long Mental Health Support Generation**|Qi Chen et.al.|[2308.10444v1](http://arxiv.org/abs/2308.10444v1)|null|
 |**2023-08-21**|**FairBench: A Four-Stage Automatic Framework for Detecting Stereotypes and Biases in Large Language Models**|Yanhong Bai et.al.|[2308.10397v1](http://arxiv.org/abs/2308.10397v1)|null|
 |**2023-08-20**|**Imaginations of WALL-E : Reconstructing Experiences with an Imagination-Inspired Module for Advanced AI Systems**|Zeinab Sadat Taghavi et.al.|[2308.10354v1](http://arxiv.org/abs/2308.10354v1)|null|

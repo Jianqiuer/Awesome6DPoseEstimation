@@ -7,9 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
 |**2024-01-19**|**Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation**|Prakhar Kaushik et.al.|[2401.10848v1](http://arxiv.org/abs/2401.10848v1)|null|
-|**2024-01-18**|**Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Antonia Bronars et.al.|[2401.10230v1](http://arxiv.org/abs/2401.10230v1)|null|
+|**2024-01-22**|**TEXterity: Tactile Extrinsic deXterity**|Antonia Bronars et.al.|[2401.10230v2](http://arxiv.org/abs/2401.10230v2)|null|
 |**2024-01-18**|**Exploring Latent Cross-Channel Embedding for Accurate 3D Human Pose Reconstruction in a Diffusion Framework**|Junkun Jiang et.al.|[2401.09836v1](http://arxiv.org/abs/2401.09836v1)|null|
 |**2024-01-17**|**DK-SLAM: Monocular Visual SLAM with Deep Keypoints Adaptive Learning, Tracking and Loop-Closing**|Hao Qu et.al.|[2401.09160v1](http://arxiv.org/abs/2401.09160v1)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101v1](http://arxiv.org/abs/2401.09101v1)|**[link](https://github.com/prbonn/pin_slam)**|
@@ -596,6 +597,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
+|**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
+|**2024-01-22**|**Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text**|Abhimanyu Hans et.al.|[2401.12070v1](http://arxiv.org/abs/2401.12070v1)|null|
+|**2024-01-22**|**NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction**|Xinrui Jiang et.al.|[2401.12004v1](http://arxiv.org/abs/2401.12004v1)|**[link](https://github.com/Xinrui-Jiang/NLCG-Net)**|
+|**2024-01-22**|**ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition**|Jiaming Zhou et.al.|[2401.11654v1](http://arxiv.org/abs/2401.11654v1)|null|
+|**2024-01-22**|**M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition**|Mengmeng Wang et.al.|[2401.11649v1](http://arxiv.org/abs/2401.11649v1)|null|
+|**2024-01-22**|**Zoom-shot: Fast and Efficient Unsupervised Zero-Shot Transfer of CLIP to Vision Encoders with Multimodal Loss**|Jordan Shipard et.al.|[2401.11633v1](http://arxiv.org/abs/2401.11633v1)|null|
+|**2024-01-21**|**Simple Domain Adaptation for Sparse Retrievers**|Mathias Vast et.al.|[2401.11509v1](http://arxiv.org/abs/2401.11509v1)|null|
+|**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506v1](http://arxiv.org/abs/2401.11506v1)|null|
+|**2024-01-21**|**General Flow as Foundation Affordance for Scalable Robot Learning**|Chengbo Yuan et.al.|[2401.11439v1](http://arxiv.org/abs/2401.11439v1)|null|
 |**2024-01-19**|**Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data**|Lihe Yang et.al.|[2401.10891v1](http://arxiv.org/abs/2401.10891v1)|**[link](https://github.com/LiheYoung/Depth-Anything)**|
 |**2024-01-19**|**LangBridge: Multilingual Reasoning Without Multilingual Supervision**|Dongkeun Yoon et.al.|[2401.10695v1](http://arxiv.org/abs/2401.10695v1)|null|
 |**2024-01-19**|**SAGE-HB: Swift Adaptation and Generalization in Massive MIMO Hybrid Beamforming**|Ali Hasanzadeh Karkan et.al.|[2401.10513v1](http://arxiv.org/abs/2401.10513v1)|null|

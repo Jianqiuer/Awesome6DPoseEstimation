@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.23
+## Updated on 2024.01.24
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -556,7 +556,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|null|
+|**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|**[link](https://github.com/nicehuster/sympoint)**|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578v2](http://arxiv.org/abs/2312.16578v2)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880v1](http://arxiv.org/abs/2312.11880v1)|null|
 |**2023-12-15**|**T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning**|Weijie Wei et.al.|[2312.10217v1](http://arxiv.org/abs/2312.10217v1)|null|

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v1](http://arxiv.org/abs/2401.12592v1)|null|
+|**2024-01-24**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v2](http://arxiv.org/abs/2401.12592v2)|null|
 |**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
 |**2024-01-19**|**Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation**|Prakhar Kaushik et.al.|[2401.10848v1](http://arxiv.org/abs/2401.10848v1)|null|
@@ -607,7 +607,7 @@ layout: default
 |**2024-01-23**|**Zero Shot Open-ended Video Inference**|Ee Yeo Keat et.al.|[2401.12471v1](http://arxiv.org/abs/2401.12471v1)|null|
 |**2024-01-23**|**The Neglected Tails of Vision-Language Models**|Shubham Parashar et.al.|[2401.12425v1](http://arxiv.org/abs/2401.12425v1)|null|
 |**2024-01-22**|**How Far Can 100 Samples Go? Unlocking Overall Zero-Shot Multilingual Translation via Tiny Multi-Parallel Data**|Di Wu et.al.|[2401.12413v1](http://arxiv.org/abs/2401.12413v1)|null|
-|**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|null|
+|**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|**[link](https://github.com/cuplv/text-to-sql-wizardcoder)**|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
 |**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
 |**2024-01-22**|**Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text**|Abhimanyu Hans et.al.|[2401.12070v1](http://arxiv.org/abs/2401.12070v1)|null|

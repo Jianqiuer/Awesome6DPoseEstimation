@@ -1,4 +1,4 @@
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-23**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v1](http://arxiv.org/abs/2401.12592v1)|null|
+|**2024-01-24**|**RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos**|Hongchi Xia et.al.|[2401.12592v2](http://arxiv.org/abs/2401.12592v2)|null|
 |**2024-01-21**|**MobileARLoc: On-device Robust Absolute Localisation for Pervasive Markerless Mobile AR**|Changkun Liu et.al.|[2401.11511v1](http://arxiv.org/abs/2401.11511v1)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
 |**2024-01-19**|**Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation**|Prakhar Kaushik et.al.|[2401.10848v1](http://arxiv.org/abs/2401.10848v1)|null|
@@ -462,7 +462,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240125>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -561,7 +561,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240125>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -604,7 +604,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240125>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -619,7 +619,7 @@
 |**2024-01-23**|**Zero Shot Open-ended Video Inference**|Ee Yeo Keat et.al.|[2401.12471v1](http://arxiv.org/abs/2401.12471v1)|null|
 |**2024-01-23**|**The Neglected Tails of Vision-Language Models**|Shubham Parashar et.al.|[2401.12425v1](http://arxiv.org/abs/2401.12425v1)|null|
 |**2024-01-22**|**How Far Can 100 Samples Go? Unlocking Overall Zero-Shot Multilingual Translation via Tiny Multi-Parallel Data**|Di Wu et.al.|[2401.12413v1](http://arxiv.org/abs/2401.12413v1)|null|
-|**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|null|
+|**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|**[link](https://github.com/cuplv/text-to-sql-wizardcoder)**|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
 |**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
 |**2024-01-22**|**Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text**|Abhimanyu Hans et.al.|[2401.12070v1](http://arxiv.org/abs/2401.12070v1)|null|
@@ -1690,5 +1690,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240124>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240125>back to top</a>)</p>
 

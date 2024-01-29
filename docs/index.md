@@ -90,7 +90,7 @@ layout: default
 |**2023-12-11**|**ManiPose: Manifold-Constrained Multi-Hypothesis 3D Human Pose Estimation**|Cédric Rommel et.al.|[2312.06386v1](http://arxiv.org/abs/2312.06386v1)|null|
 |**2023-12-10**|**From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation**|Javier Tirado-Garín et.al.|[2312.05995v1](http://arxiv.org/abs/2312.05995v1)|**[link](https://github.com/javrtg/c2p)**|
 |**2023-12-09**|**You Only Learn One Query: Learning Unified Human Query for Single-Stage Multi-Person Multi-Task Human-Centric Perception**|Sheng Jin et.al.|[2312.05525v1](http://arxiv.org/abs/2312.05525v1)|null|
-|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270v1](http://arxiv.org/abs/2312.05270v1)|null|
+|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270v1](http://arxiv.org/abs/2312.05270v1)|**[link](https://github.com/egulsoylu/image-ais-fusion)**|
 |**2023-12-07**|**Correspondences of the Third Kind: Camera Pose Estimation from Object Reflection**|Kohei Yamashita et.al.|[2312.04527v1](http://arxiv.org/abs/2312.04527v1)|null|
 |**2023-12-07**|**Detecting and Restoring Non-Standard Hands in Stable Diffusion Generated Images**|Yiqun Zhang et.al.|[2312.04236v1](http://arxiv.org/abs/2312.04236v1)|null|
 |**2023-12-06**|**Skeleton-in-Context: Unified Skeleton Sequence Modeling with In-Context Learning**|Xinshun Wang et.al.|[2312.03703v1](http://arxiv.org/abs/2312.03703v1)|**[link](https://github.com/fanglaosi/skeleton-in-context)**|
@@ -615,7 +615,7 @@ layout: default
 |**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613v1](http://arxiv.org/abs/2401.13613v1)|null|
 |**2024-01-24**|**Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction**|Qi Sun et.al.|[2401.13598v1](http://arxiv.org/abs/2401.13598v1)|null|
 |**2024-01-24**|**SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation**|Dong Zhang et.al.|[2401.13527v1](http://arxiv.org/abs/2401.13527v1)|**[link](https://github.com/0nutation/speechgpt)**|
-|**2024-01-24**|**SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval**|Siwei Wu et.al.|[2401.13478v1](http://arxiv.org/abs/2401.13478v1)|null|
+|**2024-01-24**|**SciMMIR: Benchmarking Scientific Multi-modal Information Retrieval**|Siwei Wu et.al.|[2401.13478v1](http://arxiv.org/abs/2401.13478v1)|**[link](https://github.com/wusiwei0410/scimmir)**|
 |**2024-01-24**|**UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion**|Wei Li et.al.|[2401.13388v1](http://arxiv.org/abs/2401.13388v1)|null|
 |**2024-01-24**|**Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons**|Zhe Xu et.al.|[2401.13363v1](http://arxiv.org/abs/2401.13363v1)|null|
 |**2024-01-24**|**InstructDoc: A Dataset for Zero-Shot Generalization of Visual Document Understanding with Instructions**|Ryota Tanaka et.al.|[2401.13313v1](http://arxiv.org/abs/2401.13313v1)|**[link](https://github.com/nttmdlab-nlp/instructdoc)**|
@@ -633,7 +633,7 @@ layout: default
 |**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|**[link](https://github.com/cuplv/text-to-sql-wizardcoder)**|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
 |**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
-|**2024-01-22**|**Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text**|Abhimanyu Hans et.al.|[2401.12070v1](http://arxiv.org/abs/2401.12070v1)|null|
+|**2024-01-22**|**Spotting LLMs With Binoculars: Zero-Shot Detection of Machine-Generated Text**|Abhimanyu Hans et.al.|[2401.12070v1](http://arxiv.org/abs/2401.12070v1)|**[link](https://github.com/ahans30/binoculars)**|
 |**2024-01-22**|**NLCG-Net: A Model-Based Zero-Shot Learning Framework for Undersampled Quantitative MRI Reconstruction**|Xinrui Jiang et.al.|[2401.12004v1](http://arxiv.org/abs/2401.12004v1)|**[link](https://github.com/Xinrui-Jiang/NLCG-Net)**|
 |**2024-01-22**|**ActionHub: A Large-scale Action Video Description Dataset for Zero-shot Action Recognition**|Jiaming Zhou et.al.|[2401.11654v1](http://arxiv.org/abs/2401.11654v1)|null|
 |**2024-01-22**|**M2-CLIP: A Multimodal, Multi-task Adapting Framework for Video Action Recognition**|Mengmeng Wang et.al.|[2401.11649v1](http://arxiv.org/abs/2401.11649v1)|null|
@@ -1458,7 +1458,7 @@ layout: default
 |**2023-08-25**|**Decoding Natural Images from EEG for Object Recognition**|Yonghao Song et.al.|[2308.13234v1](http://arxiv.org/abs/2308.13234v1)|**[link](https://github.com/eeyhsong/nice-eeg)**|
 |**2023-08-25**|**MultiCapCLIP: Auto-Encoding Prompts for Zero-Shot Multilingual Visual Captioning**|Bang Yang et.al.|[2308.13218v1](http://arxiv.org/abs/2308.13218v1)|**[link](https://github.com/yangbang18/multicapclip)**|
 |**2023-08-24**|**Interpretable Image Quality Assessment via CLIP with Multiple Antonym-Prompt Pairs**|Takamichi Miyata et.al.|[2308.13094v1](http://arxiv.org/abs/2308.13094v1)|null|
-|**2023-08-24**|**Preserving Modality Structure Improves Multi-Modal Learning**|Swetha Sirnam et.al.|[2308.13077v1](http://arxiv.org/abs/2308.13077v1)|null|
+|**2023-08-24**|**Preserving Modality Structure Improves Multi-Modal Learning**|Swetha Sirnam et.al.|[2308.13077v1](http://arxiv.org/abs/2308.13077v1)|**[link](https://github.com/swetha5/multi_sinkhorn_knopp)**|
 |**2023-08-24**|**ZeroLeak: Using LLMs for Scalable and Cost Effective Side-Channel Patching**|M. Caner Tol et.al.|[2308.13062v1](http://arxiv.org/abs/2308.13062v1)|null|
 |**2023-08-24**|**Generalizable Zero-Shot Speaker Adaptive Speech Synthesis with Disentangled Representations**|Wenbin Wang et.al.|[2308.13007v1](http://arxiv.org/abs/2308.13007v1)|null|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966v1](http://arxiv.org/abs/2308.12966v1)|**[link](https://github.com/qwenlm/qwen-vl)**|
@@ -1521,7 +1521,7 @@ layout: default
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847v1](http://arxiv.org/abs/2308.07847v1)|null|
 |**2023-08-15**|**Exploring Transfer Learning in Medical Image Segmentation using Vision-Language Models**|Kanchan Poudel et.al.|[2308.07706v1](http://arxiv.org/abs/2308.07706v1)|**[link](https://github.com/naamiinepal/medvlsm)**|
 |**2023-08-15**|**Better Zero-Shot Reasoning with Role-Play Prompting**|Aobo Kong et.al.|[2308.07702v1](http://arxiv.org/abs/2308.07702v1)|**[link](https://github.com/HLT-NLP/Role-Play-Prompting)**|
-|**2023-08-15**|**LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis**|Yilun Liu et.al.|[2308.07610v1](http://arxiv.org/abs/2308.07610v1)|null|
+|**2023-08-15**|**LogPrompt: Prompt Engineering Towards Zero-Shot and Interpretable Log Analysis**|Yilun Liu et.al.|[2308.07610v1](http://arxiv.org/abs/2308.07610v1)|**[link](https://github.com/lunyiliu/logprompt)**|
 |**2023-08-15**|**Visual and Textual Prior Guided Mask Assemble for Few-Shot Segmentation and Beyond**|Chen Shuai et.al.|[2308.07539v1](http://arxiv.org/abs/2308.07539v1)|null|
 |**2023-08-14**|**Jurassic World Remake: Bringing Ancient Fossils Back to Life via Zero-Shot Long Image-to-Image Translation**|Alexander Martin et.al.|[2308.07316v1](http://arxiv.org/abs/2308.07316v1)|**[link](https://github.com/alexmartin1722/Revive-2I)**|
 |**2023-08-14**|**SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation**|An Wang et.al.|[2308.07156v1](http://arxiv.org/abs/2308.07156v1)|null|

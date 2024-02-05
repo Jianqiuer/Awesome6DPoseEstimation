@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**mmID: High-Resolution mmWave Imaging for Human Identification**|Sakila S. Jayaweera et.al.|[2402.00996v1](http://arxiv.org/abs/2402.00996v1)|null|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700v1](http://arxiv.org/abs/2402.00700v1)|null|
 |**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683v1](http://arxiv.org/abs/2402.00683v1)|null|
 |**2024-01-31**|**CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration**|Daniele Cattaneo et.al.|[2402.00129v1](http://arxiv.org/abs/2402.00129v1)|null|
@@ -627,6 +628,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495v1](http://arxiv.org/abs/2402.01495v1)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
+|**2024-02-02**|**Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization**|Jack Foster et.al.|[2402.01401v1](http://arxiv.org/abs/2402.01401v1)|**[link](https://github.com/jwf40/zeroshot-unlearning-at-scale)**|
+|**2024-02-02**|**Simulator-Free Visual Domain Randomization via Video Games**|Chintan Trivedi et.al.|[2402.01335v1](http://arxiv.org/abs/2402.01335v1)|**[link](https://github.com/nrasajski/behave)**|
+|**2024-02-02**|**Direct side information learning for zero-shot regression**|Miriam Fdez-Díaz et.al.|[2402.01264v1](http://arxiv.org/abs/2402.01264v1)|**[link](https://github.com/uo231492/dsilzsr)**|
+|**2024-02-02**|**Target inductive methods for zero-shot regression**|Miriam Fdez-Díaz et.al.|[2402.01252v1](http://arxiv.org/abs/2402.01252v1)|**[link](https://github.com/uo231492/mplc)**|
+|**2024-02-02**|**Segment Any Change**|Zhuo Zheng et.al.|[2402.01188v1](http://arxiv.org/abs/2402.01188v1)|null|
+|**2024-02-02**|**AccentFold: A Journey through African Accents for Zero-Shot ASR Adaptation to Target Accents**|Abraham Toluwase Owodunni et.al.|[2402.01152v1](http://arxiv.org/abs/2402.01152v1)|null|
+|**2024-02-01**|**Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model**|Andrew Brown et.al.|[2402.01051v1](http://arxiv.org/abs/2402.01051v1)|null|
+|**2024-02-01**|**SPARQL Generation with Entity Pre-trained GPT for KG Question Answering**|Diego Bustamante et.al.|[2402.00969v1](http://arxiv.org/abs/2402.00969v1)|**[link](https://github.com/diegoemilio01/sparql-generation-with-entity-pre-trained-gpt-for-kg-question-answering)**|
 |**2024-02-01**|**Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization?**|Xue-Yong Fu et.al.|[2402.00841v1](http://arxiv.org/abs/2402.00841v1)|null|
 |**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795v1](http://arxiv.org/abs/2402.00795v1)|null|
 |**2024-02-01**|**Instruction Makes a Difference**|Tosin Adewumi et.al.|[2402.00453v1](http://arxiv.org/abs/2402.00453v1)|**[link](https://github.com/ltu-machine-learning/idocvqa)**|

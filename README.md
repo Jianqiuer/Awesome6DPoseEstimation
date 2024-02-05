@@ -638,7 +638,7 @@
 |**2024-01-31**|**Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators**|Daniel Geng et.al.|[2401.18085v1](http://arxiv.org/abs/2401.18085v1)|null|
 |**2024-01-31**|**Binding Touch to Everything: Learning Unified Multimodal Tactile Representations**|Fengyu Yang et.al.|[2401.18084v1](http://arxiv.org/abs/2401.18084v1)|null|
 |**2024-01-31**|**GUMsley: Evaluating Entity Salience in Summarization for 12 English Genres**|Jessica Lin et.al.|[2401.17974v1](http://arxiv.org/abs/2401.17974v1)|null|
-|**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868v1](http://arxiv.org/abs/2401.17868v1)|null|
+|**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868v1](http://arxiv.org/abs/2401.17868v1)|**[link](https://github.com/autogluon/autogluon)**|
 |**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du et.al.|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
 |**2024-01-31**|**M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval**|Xingning Dong et.al.|[2401.17797v1](http://arxiv.org/abs/2401.17797v1)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework)**|
 |**2024-01-31**|**Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects**|Jingcai Guo et.al.|[2401.17766v1](http://arxiv.org/abs/2401.17766v1)|null|
@@ -656,16 +656,16 @@
 |**2024-01-29**|**ToPro: Token-Level Prompt Decomposition for Cross-Lingual Sequence Labeling Tasks**|Bolei Ma et.al.|[2401.16589v1](http://arxiv.org/abs/2401.16589v1)|**[link](https://github.com/boleima/topro)**|
 |**2024-01-29**|**Zero-shot Imitation Policy via Search in Demonstration Dataset**|Federco Malato et.al.|[2401.16398v1](http://arxiv.org/abs/2401.16398v1)|null|
 |**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380v1](http://arxiv.org/abs/2401.16380v1)|null|
-|**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355v1](http://arxiv.org/abs/2401.16355v1)|null|
-|**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293v1](http://arxiv.org/abs/2401.16293v1)|null|
+|**2024-01-29**|**PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology**|Yuxuan Sun et.al.|[2401.16355v1](http://arxiv.org/abs/2401.16355v1)|**[link](https://github.com/PathMMU-Benchmark/PathMMU)**|
+|**2024-01-29**|**Textual Entailment for Effective Triple Validation in Object Prediction**|Andrés García-Silva et.al.|[2401.16293v1](http://arxiv.org/abs/2401.16293v1)|**[link](https://github.com/expertailab/textual-entailment-for-effective-triple-validation-in-object-prediction)**|
 |**2024-01-29**|**Motion-I2V: Consistent and Controllable Image-to-Video Generation with Explicit Motion Modeling**|Xiaoyu Shi et.al.|[2401.15977v1](http://arxiv.org/abs/2401.15977v1)|null|
 |**2024-01-29**|**Overcoming the Pitfalls of Vision-Language Model Finetuning for OOD Generalization**|Yuhang Zang et.al.|[2401.15914v1](http://arxiv.org/abs/2401.15914v1)|null|
-|**2024-01-29**|**$\boldsymbol{M^2}$ -Encoder: Advancing Bilingual Image-Text Understanding by Large-scale Efficient Pretraining**|Qingpei Guo et.al.|[2401.15896v1](http://arxiv.org/abs/2401.15896v1)|null|
-|**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843v1](http://arxiv.org/abs/2401.15843v1)|null|
+|**2024-01-29**|**$\boldsymbol{M^2}$ -Encoder: Advancing Bilingual Image-Text Understanding by Large-scale Efficient Pretraining**|Qingpei Guo et.al.|[2401.15896v1](http://arxiv.org/abs/2401.15896v1)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework/tree/main/prj/M2_Encoder)**|
+|**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843v1](http://arxiv.org/abs/2401.15843v1)|**[link](https://github.com/hitcoderr/apigen)**|
 |**2024-01-28**|**Data-Free Generalized Zero-Shot Learning**|Bowen Tang et.al.|[2401.15657v1](http://arxiv.org/abs/2401.15657v1)|null|
 |**2024-01-27**|**DataFrame QA: A Universal LLM Framework on DataFrame Question Answering Without Data Exposure**|Junyi Ye et.al.|[2401.15463v1](http://arxiv.org/abs/2401.15463v1)|null|
-|**2024-01-26**|**SliceGPT: Compress Large Language Models by Deleting Rows and Columns**|Saleh Ashkboos et.al.|[2401.15024v1](http://arxiv.org/abs/2401.15024v1)|null|
-|**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966v1](http://arxiv.org/abs/2401.14966v1)|null|
+|**2024-01-26**|**SliceGPT: Compress Large Language Models by Deleting Rows and Columns**|Saleh Ashkboos et.al.|[2401.15024v1](http://arxiv.org/abs/2401.15024v1)|**[link](https://github.com/microsoft/transformercompression)**|
+|**2024-01-26**|**Masked Pre-trained Model Enables Universal Zero-shot Denoiser**|Xiaoxiao Ma et.al.|[2401.14966v1](http://arxiv.org/abs/2401.14966v1)|**[link](https://github.com/krennic999/mpi)**|
 |**2024-01-26**|**Spatial Transcriptomics Analysis of Zero-shot Gene Expression Prediction**|Yan Yang et.al.|[2401.14772v1](http://arxiv.org/abs/2401.14772v1)|null|
 |**2024-01-25**|**MEDs for PETs: Multilingual Euphemism Disambiguation for Potentially Euphemistic Terms**|Patrick Lee et.al.|[2401.14526v1](http://arxiv.org/abs/2401.14526v1)|null|
 |**2024-01-25**|**pix2gestalt: Amodal Segmentation by Synthesizing Wholes**|Ege Ozguroglu et.al.|[2401.14398v1](http://arxiv.org/abs/2401.14398v1)|**[link](https://github.com/cvlab-columbia/pix2gestalt)**|
@@ -678,7 +678,7 @@
 |**2024-01-25**|**BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models**|Senthil Purushwalkam et.al.|[2401.13974v1](http://arxiv.org/abs/2401.13974v1)|null|
 |**2024-01-25**|**TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images**|Jia Wan et.al.|[2401.13961v1](http://arxiv.org/abs/2401.13961v1)|null|
 |**2024-01-25**|**Intelli-Z: Toward Intelligible Zero-Shot TTS**|Sunghee Jung et.al.|[2401.13921v1](http://arxiv.org/abs/2401.13921v1)|null|
-|**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641v1](http://arxiv.org/abs/2401.13641v1)|null|
+|**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641v1](http://arxiv.org/abs/2401.13641v1)|**[link](https://github.com/bidalab/chatgpt_facebiometrics)**|
 |**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613v1](http://arxiv.org/abs/2401.13613v1)|null|
 |**2024-01-24**|**Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction**|Qi Sun et.al.|[2401.13598v1](http://arxiv.org/abs/2401.13598v1)|null|
 |**2024-01-24**|**SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation**|Dong Zhang et.al.|[2401.13527v1](http://arxiv.org/abs/2401.13527v1)|**[link](https://github.com/0nutation/speechgpt)**|
@@ -1044,7 +1044,7 @@
 |**2023-11-20**|**Exploring Prompting Large Language Models as Explainable Metrics**|Ghazaleh Mahmoudi et.al.|[2311.11552v1](http://arxiv.org/abs/2311.11552v1)|**[link](https://github.com/ghazaleh-mahmoodi/Prompting_LLMs_AS_Explainable_Metrics)**|
 |**2023-11-20**|**Which AI Technique Is Better to Classify Requirements? An Experiment with SVM, LSTM, and ChatGPT**|Abdelkarim El-Hajjami et.al.|[2311.11547v1](http://arxiv.org/abs/2311.11547v1)|null|
 |**2023-11-19**|**DiffSCI: Zero-Shot Snapshot Compressive Imaging via Iterative Spectral Diffusion Model**|Zhenghao Pan et.al.|[2311.11417v1](http://arxiv.org/abs/2311.11417v1)|null|
-|**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319v1](http://arxiv.org/abs/2311.11319v1)|null|
+|**2023-11-19**|**GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure**|Rafi Ibn Sultan et.al.|[2311.11319v1](http://arxiv.org/abs/2311.11319v1)|**[link](https://github.com/rafiibnsultan/geosam)**|
 |**2023-11-18**|**Active Prompt Learning in Vision Language Models**|Jihwan Bang et.al.|[2311.11178v1](http://arxiv.org/abs/2311.11178v1)|null|
 |**2023-11-16**|**MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning**|Xiangru Tang et.al.|[2311.10537v1](http://arxiv.org/abs/2311.10537v1)|**[link](https://github.com/gersteinlab/medagents)**|
 |**2023-11-17**|**Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation**|Shenghao Yang et.al.|[2311.10501v1](http://arxiv.org/abs/2311.10501v1)|**[link](https://github.com/ysh-1998/cowpirec)**|
@@ -1278,7 +1278,7 @@
 |**2023-10-12**|**Context Compression for Auto-regressive Transformers with Sentinel Tokens**|Siyu Ren et.al.|[2310.08152v1](http://arxiv.org/abs/2310.08152v1)|**[link](https://github.com/DRSY/KV_Compression)**|
 |**2023-10-12**|**Generalized Logit Adjustment: Calibrating Fine-tuned Models by Removing Label Bias in Foundation Models**|Beier Zhu et.al.|[2310.08106v1](http://arxiv.org/abs/2310.08106v1)|**[link](https://github.com/BeierZhu/GLA)**|
 |**2023-10-12**|**Consistent123: Improve Consistency for One Image to 3D Object Synthesis**|Haohan Weng et.al.|[2310.08092v1](http://arxiv.org/abs/2310.08092v1)|null|
-|**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|null|
+|**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713v1](http://arxiv.org/abs/2310.07713v1)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 |**2023-10-11**|**LLM4Vis: Explainable Visualization Recommendation using ChatGPT**|Lei Wang et.al.|[2310.07652v1](http://arxiv.org/abs/2310.07652v1)|**[link](https://github.com/demoleiwang/llm4vis)**|
 |**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637v2](http://arxiv.org/abs/2310.07637v2)|null|
 |**2023-10-11**|**Attribute Localization and Revision Network for Zero-Shot Learning**|Junzhe Xu et.al.|[2310.07548v1](http://arxiv.org/abs/2310.07548v1)|null|
@@ -1764,7 +1764,7 @@
 |**2023-07-05**|**A ChatGPT Aided Explainable Framework for Zero-Shot Medical Image Diagnosis**|Jiaxiang Liu et.al.|[2307.01981v1](http://arxiv.org/abs/2307.01981v1)|null|
 |**2023-07-04**|**Knowledge-Aware Audio-Grounded Generative Slot Filling for Limited Annotated Data**|Guangzhi Sun et.al.|[2307.01764v1](http://arxiv.org/abs/2307.01764v1)|**[link](https://github.com/the-anonymous-bs/espnet)**|
 |**2023-07-04**|**Continual Learning in Open-vocabulary Classification with Complementary Memory Systems**|Zhen Zhu et.al.|[2307.01430v1](http://arxiv.org/abs/2307.01430v1)|null|
-|**2023-07-04**|**Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Rapid Multiparametric Quantitative MRI Using 3D-QALAS**|Yohan Jun et.al.|[2307.01410v1](http://arxiv.org/abs/2307.01410v1)|null|
+|**2023-07-04**|**Zero-DeepSub: Zero-Shot Deep Subspace Reconstruction for Rapid Multiparametric Quantitative MRI Using 3D-QALAS**|Yohan Jun et.al.|[2307.01410v1](http://arxiv.org/abs/2307.01410v1)|**[link](https://github.com/yohan-jun/zero-deepsub)**|
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 

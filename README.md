@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
+|**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800v1](http://arxiv.org/abs/2402.02800v1)|null|
+|**2024-02-04**|**Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation**|Ti Wang et.al.|[2402.02339v1](http://arxiv.org/abs/2402.02339v1)|null|
 |**2024-02-01**|**mmID: High-Resolution mmWave Imaging for Human Identification**|Sakila S. Jayaweera et.al.|[2402.00996v1](http://arxiv.org/abs/2402.00996v1)|null|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700v1](http://arxiv.org/abs/2402.00700v1)|null|
 |**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683v1](http://arxiv.org/abs/2402.00683v1)|null|
@@ -628,6 +631,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v1](http://arxiv.org/abs/2402.03292v1)|null|
+|**2024-02-05**|**English Prompts are Better for NLI-based Zero-Shot Emotion Classification than Target-Language Prompts**|Patrick Barreiß et.al.|[2402.03223v1](http://arxiv.org/abs/2402.03223v1)|null|
+|**2024-02-05**|**Mastering Zero-Shot Interactions in Cooperative and Competitive Simultaneous Games**|Yannik Mahlau et.al.|[2402.03136v1](http://arxiv.org/abs/2402.03136v1)|null|
+|**2024-02-05**|**Constrained Decoding for Cross-lingual Label Projection**|Duong Minh Le et.al.|[2402.03131v1](http://arxiv.org/abs/2402.03131v1)|null|
+|**2024-02-05**|**Shortened LLaMA: A Simple Depth Pruning for Large Language Models**|Bo-Kyeong Kim et.al.|[2402.02834v1](http://arxiv.org/abs/2402.02834v1)|null|
+|**2024-02-05**|**Large Language Models are Geographically Biased**|Rohin Manvi et.al.|[2402.02680v1](http://arxiv.org/abs/2402.02680v1)|null|
+|**2024-02-05**|**Image-Caption Encoding for Improving Zero-Shot Generalization**|Eric Yang Yu et.al.|[2402.02662v1](http://arxiv.org/abs/2402.02662v1)|**[link](https://github.com/chris210634/ice)**|
+|**2024-02-04**|**Unified Training of Universal Time Series Forecasting Transformers**|Gerald Woo et.al.|[2402.02592v1](http://arxiv.org/abs/2402.02592v1)|null|
+|**2024-02-04**|**Are Large Language Models Table-based Fact-Checkers?**|Hangwen Zhang et.al.|[2402.02549v1](http://arxiv.org/abs/2402.02549v1)|null|
+|**2024-02-04**|**Knowledge Generation for Zero-shot Knowledge-based VQA**|Rui Cao et.al.|[2402.02541v1](http://arxiv.org/abs/2402.02541v1)|**[link](https://github.com/abril4416/kgen_vqa)**|
 |**2024-02-02**|**A Comparative Analysis of Conversational Large Language Models in Knowledge-Based Text Generation**|Phillip Schneider et.al.|[2402.01495v1](http://arxiv.org/abs/2402.01495v1)|**[link](https://github.com/sebischair/llm-kg-d2t)**|
 |**2024-02-02**|**Zero-Shot Machine Unlearning at Scale via Lipschitz Regularization**|Jack Foster et.al.|[2402.01401v1](http://arxiv.org/abs/2402.01401v1)|**[link](https://github.com/jwf40/zeroshot-unlearning-at-scale)**|
 |**2024-02-02**|**Simulator-Free Visual Domain Randomization via Video Games**|Chintan Trivedi et.al.|[2402.01335v1](http://arxiv.org/abs/2402.01335v1)|**[link](https://github.com/nrasajski/behave)**|

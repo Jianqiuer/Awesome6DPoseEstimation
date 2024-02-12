@@ -658,7 +658,7 @@ layout: default
 |**2024-02-05**|**Zero-shot Object-Level OOD Detection with Context-Aware Inpainting**|Quang-Huy Nguyen et.al.|[2402.03292v1](http://arxiv.org/abs/2402.03292v1)|null|
 |**2024-02-05**|**English Prompts are Better for NLI-based Zero-Shot Emotion Classification than Target-Language Prompts**|Patrick Barreiß et.al.|[2402.03223v1](http://arxiv.org/abs/2402.03223v1)|null|
 |**2024-02-05**|**Mastering Zero-Shot Interactions in Cooperative and Competitive Simultaneous Games**|Yannik Mahlau et.al.|[2402.03136v1](http://arxiv.org/abs/2402.03136v1)|null|
-|**2024-02-05**|**Constrained Decoding for Cross-lingual Label Projection**|Duong Minh Le et.al.|[2402.03131v1](http://arxiv.org/abs/2402.03131v1)|null|
+|**2024-02-05**|**Constrained Decoding for Cross-lingual Label Projection**|Duong Minh Le et.al.|[2402.03131v1](http://arxiv.org/abs/2402.03131v1)|**[link](https://github.com/duonglm38/codec)**|
 |**2024-02-05**|**Shortened LLaMA: A Simple Depth Pruning for Large Language Models**|Bo-Kyeong Kim et.al.|[2402.02834v1](http://arxiv.org/abs/2402.02834v1)|null|
 |**2024-02-05**|**Large Language Models are Geographically Biased**|Rohin Manvi et.al.|[2402.02680v1](http://arxiv.org/abs/2402.02680v1)|null|
 |**2024-02-05**|**Image-Caption Encoding for Improving Zero-Shot Generalization**|Eric Yang Yu et.al.|[2402.02662v1](http://arxiv.org/abs/2402.02662v1)|**[link](https://github.com/chris210634/ice)**|
@@ -886,7 +886,7 @@ layout: default
 |**2023-12-26**|**Revealing the Proximate Long-Tail Distribution in Compositional Zero-Shot Learning**|Chenyi Jiang et.al.|[2312.15923v1](http://arxiv.org/abs/2312.15923v1)|**[link](https://github.com/lanchjl/prolt-czsl)**|
 |**2023-12-26**|**Semantic-aware SAM for Point-Prompted Instance Segmentation**|Zhaoyang Wei et.al.|[2312.15895v1](http://arxiv.org/abs/2312.15895v1)|null|
 |**2023-12-26**|**KnowledgeNavigator: Leveraging Large Language Models for Enhanced Reasoning over Knowledge Graph**|Tiezheng Guo et.al.|[2312.15880v1](http://arxiv.org/abs/2312.15880v1)|null|
-|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670v1](http://arxiv.org/abs/2312.14670v1)|null|
+|**2023-12-22**|**Zero-shot Causal Graph Extrapolation from Text via LLMs**|Alessandro Antonucci et.al.|[2312.14670v1](http://arxiv.org/abs/2312.14670v1)|**[link](https://github.com/idsia-papers/causal-llms)**|
 |**2023-12-22**|**SIG: Speaker Identification in Literature via Prompt-Based Generation**|Zhenlin Su et.al.|[2312.14590v1](http://arxiv.org/abs/2312.14590v1)|null|
 |**2023-12-22**|**Creating New Voices using Normalizing Flows**|Piotr Bilinski et.al.|[2312.14569v1](http://arxiv.org/abs/2312.14569v1)|null|
 |**2023-12-22**|**Aurora:Activating Chinese chat capability for Mistral-8x7B sparse Mixture-of-Experts through Instruction-Tuning**|Rongsheng Wang et.al.|[2312.14557v1](http://arxiv.org/abs/2312.14557v1)|**[link](https://github.com/WangRongsheng/Aurora)**|
@@ -1612,7 +1612,7 @@ layout: default
 |**2023-08-21**|**Dynamic Strategy Chain: Dynamic Zero-Shot CoT for Long Mental Health Support Generation**|Qi Chen et.al.|[2308.10444v1](http://arxiv.org/abs/2308.10444v1)|null|
 |**2023-08-21**|**FairBench: A Four-Stage Automatic Framework for Detecting Stereotypes and Biases in Large Language Models**|Yanhong Bai et.al.|[2308.10397v1](http://arxiv.org/abs/2308.10397v1)|null|
 |**2023-08-20**|**Imaginations of WALL-E : Reconstructing Experiences with an Imagination-Inspired Module for Advanced AI Systems**|Zeinab Sadat Taghavi et.al.|[2308.10354v1](http://arxiv.org/abs/2308.10354v1)|null|
-|**2023-08-20**|**Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi**|Hadi Nekoei et.al.|[2308.10284v1](http://arxiv.org/abs/2308.10284v1)|null|
+|**2023-08-20**|**Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi**|Hadi Nekoei et.al.|[2308.10284v1](http://arxiv.org/abs/2308.10284v1)|**[link](https://github.com/chandar-lab/adaptive-hanabi)**|
 |**2023-08-18**|**Guide3D: Create 3D Avatars from Text and Image Guidance**|Yukang Cao et.al.|[2308.09705v1](http://arxiv.org/abs/2308.09705v1)|null|
 |**2023-08-18**|**Meta-ZSDETR: Zero-shot DETR with Meta-learning**|Lu Zhang et.al.|[2308.09540v1](http://arxiv.org/abs/2308.09540v1)|null|
 |**2023-08-18**|**Label-Free Event-based Object Recognition via Joint Learning with Image Reconstruction from Events**|Hoonhee Cho et.al.|[2308.09383v1](http://arxiv.org/abs/2308.09383v1)|**[link](https://github.com/chohoonhee/ev-lafor)**|

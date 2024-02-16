@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Lester: rotoscope animation through video object segmentation and tracking**|Ruben Tous et.al.|[2402.09883v1](http://arxiv.org/abs/2402.09883v1)|**[link](https://github.com/rtous/lester)**|
+|**2024-02-15**|**Foul prediction with estimated poses from soccer broadcast video**|Jiale Fang et.al.|[2402.09650v1](http://arxiv.org/abs/2402.09650v1)|null|
 |**2024-02-14**|**IMUOptimize: A Data-Driven Approach to Optimal IMU Placement for Human Pose Estimation with Transformer Architecture**|Varun Ramani et.al.|[2402.08923v1](http://arxiv.org/abs/2402.08923v1)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671v1](http://arxiv.org/abs/2402.08671v1)|null|
 |**2024-02-13**|**Gaussian-Sum Filter for Range-based 3D Relative Pose Estimation in the Presence of Ambiguities**|Syed S. Ahmed et.al.|[2402.08566v1](http://arxiv.org/abs/2402.08566v1)|null|
@@ -648,6 +650,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200v1](http://arxiv.org/abs/2402.10200v1)|null|
+|**2024-02-15**|**Zero-Shot Reasoning: Personalized Content Generation Without the Cold Start Problem**|Davor Hafnar et.al.|[2402.10133v1](http://arxiv.org/abs/2402.10133v1)|null|
+|**2024-02-15**|**Self-Augmented In-Context Learning for Unsupervised Word Translation**|Yaoyiran Li et.al.|[2402.10024v1](http://arxiv.org/abs/2402.10024v1)|null|
+|**2024-02-15**|**Zero-Shot Unsupervised and Text-Based Audio Editing Using DDPM Inversion**|Hila Manor et.al.|[2402.10009v1](http://arxiv.org/abs/2402.10009v1)|null|
+|**2024-02-15**|**Mind the Modality Gap: Towards a Remote Sensing Vision-Language Model via Cross-modal Alignment**|Angelos Zavras et.al.|[2402.09816v1](http://arxiv.org/abs/2402.09816v1)|null|
+|**2024-02-15**|**NutePrune: Efficient Progressive Pruning with Numerous Teachers for Large Language Models**|Shengrui Li et.al.|[2402.09773v1](http://arxiv.org/abs/2402.09773v1)|null|
+|**2024-02-15**|**Seed Optimization with Frozen Generator for Superior Zero-shot Low-light Enhancement**|Yuxuan Gu et.al.|[2402.09694v1](http://arxiv.org/abs/2402.09694v1)|null|
+|**2024-02-15**|**How to Train Data-Efficient LLMs**|Noveen Sachdeva et.al.|[2402.09668v1](http://arxiv.org/abs/2402.09668v1)|null|
+|**2024-02-14**|**Quantified Task Misalignment to Inform PEFT: An Exploration of Domain Generalization and Catastrophic Forgetting in CLIP**|Laura Niss et.al.|[2402.09613v1](http://arxiv.org/abs/2402.09613v1)|null|
+|**2024-02-14**|**Towards Privacy-Aware Sign Language Translation at Scale**|Phillip Rust et.al.|[2402.09611v1](http://arxiv.org/abs/2402.09611v1)|null|
 |**2024-02-14**|**MobileSpeech: A Fast and High-Fidelity Framework for Mobile Zero-Shot Text-to-Speech**|Shengpeng Ji et.al.|[2402.09378v1](http://arxiv.org/abs/2402.09378v1)|null|
 |**2024-02-14**|**Personalized Large Language Models**|Stanisław Woźniak et.al.|[2402.09269v1](http://arxiv.org/abs/2402.09269v1)|null|
 |**2024-02-14**|**Synthesizing Knowledge-enhanced Features for Real-world Zero-shot Food Detection**|Pengfei Zhou et.al.|[2402.09242v1](http://arxiv.org/abs/2402.09242v1)|**[link](https://github.com/lancezpf/kefs)**|

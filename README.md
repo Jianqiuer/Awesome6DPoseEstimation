@@ -28,7 +28,7 @@
 |**2024-02-09**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532v2](http://arxiv.org/abs/2402.05532v2)|null|
 |**2024-02-07**|**Detection and Pose Estimation of flat, Texture-less Industry Objects on HoloLens using synthetic Training**|Thomas Pöllabauer et.al.|[2402.04979v1](http://arxiv.org/abs/2402.04979v1)|null|
 |**2024-02-07**|**4-Dimensional deformation part model for pose estimation using Kalman filter constraints**|Enrique Martinez-Berti et.al.|[2402.04953v1](http://arxiv.org/abs/2402.04953v1)|null|
-|**2024-02-07**|**STAR: Shape-focused Texture Agnostic Representations for Improved Object Detection and 6D Pose Estimation**|Peter Hönig et.al.|[2402.04878v1](http://arxiv.org/abs/2402.04878v1)|null|
+|**2024-02-07**|**STAR: Shape-focused Texture Agnostic Representations for Improved Object Detection and 6D Pose Estimation**|Peter Hönig et.al.|[2402.04878v1](http://arxiv.org/abs/2402.04878v1)|**[link](https://github.com/hoenigpeter/randomized_texturing)**|
 |**2024-02-05**|**A Computer Vision Based Approach for Stalking Detection Using a CNN-LSTM-MLP Hybrid Fusion Model**|Murad Hasan et.al.|[2402.03417v1](http://arxiv.org/abs/2402.03417v1)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246v1](http://arxiv.org/abs/2402.03246v1)|null|
 |**2024-02-05**|**Extreme Two-View Geometry From Object Poses with Diffusion Models**|Yujing Sun et.al.|[2402.02800v1](http://arxiv.org/abs/2402.02800v1)|**[link](https://github.com/scy639/extreme-two-view-geometry-from-object-poses-with-diffusion-models)**|
@@ -461,7 +461,7 @@
 |**2023-07-06**|**A Real-time Human Pose Estimation Approach for Optimal Sensor Placement in Sensor-based Human Activity Recognition**|Orhan Konak et.al.|[2307.02906v1](http://arxiv.org/abs/2307.02906v1)|null|
 |**2023-07-04**|**Secure Deep Learning-based Distributed Intelligence on Pocket-sized Drones**|Elia Cereda et.al.|[2307.01559v1](http://arxiv.org/abs/2307.01559v1)|null|
 |**2023-07-03**|**Joint Coordinate Regression and Association For Multi-Person Pose Estimation, A Pure Neural Network Approach**|Dongyang Yu et.al.|[2307.01004v1](http://arxiv.org/abs/2307.01004v1)|null|
-|**2023-07-01**|**Automatic Solver Generator for Systems of Laurent Polynomial Equations**|Evgeniy Martyushev et.al.|[2307.00320v1](http://arxiv.org/abs/2307.00320v1)|null|
+|**2023-07-01**|**Automatic Solver Generator for Systems of Laurent Polynomial Equations**|Evgeniy Martyushev et.al.|[2307.00320v1](http://arxiv.org/abs/2307.00320v1)|**[link](https://github.com/martyushev/eliminationtemplates)**|
 |**2023-07-01**|**SyMFM6D: Symmetry-aware Multi-directional Fusion for Multi-View 6D Object Pose Estimation**|Fabian Duffhauss et.al.|[2307.00306v1](http://arxiv.org/abs/2307.00306v1)|**[link](https://github.com/boschresearch/symfm6d)**|
 |**2023-06-30**|**GIRA: Gaussian Mixture Models for Inference and Robot Autonomy**|Kshitij Goel et.al.|[2307.00071v1](http://arxiv.org/abs/2307.00071v1)|null|
 |**2023-06-30**|**Towards the extraction of robust sign embeddings for low resource sign language recognition**|Mathieu De Coster et.al.|[2306.17558v1](http://arxiv.org/abs/2306.17558v1)|null|
@@ -692,7 +692,7 @@
 |**2024-02-09**|**A Unified Causal View of Instruction Tuning**|Lu Chen et.al.|[2402.06220v1](http://arxiv.org/abs/2402.06220v1)|null|
 |**2024-02-09**|**MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models**|Yixiao Zhang et.al.|[2402.06178v1](http://arxiv.org/abs/2402.06178v1)|null|
 |**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932v1](http://arxiv.org/abs/2402.05932v1)|null|
-|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|null|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930v1](http://arxiv.org/abs/2402.05930v1)|**[link](https://github.com/McGill-NLP/weblinx)**|
 |**2024-02-08**|**Learning to Route Among Specialized Experts for Zero-Shot Generalization**|Mohammed Muqeeth et.al.|[2402.05859v1](http://arxiv.org/abs/2402.05859v1)|**[link](https://github.com/r-three/phatgoose)**|
 |**2024-02-08**|**FusionSF: Fuse Heterogeneous Modalities in a Vector Quantized Framework for Robust Solar Power Forecasting**|Ziqing Ma et.al.|[2402.05823v1](http://arxiv.org/abs/2402.05823v1)|null|
 |**2024-02-08**|**GPT-4 Generated Narratives of Life Events using a Structured Narrative Prompt: A Validation Study**|Christopher J. Lynch et.al.|[2402.05435v1](http://arxiv.org/abs/2402.05435v1)|null|
@@ -739,7 +739,7 @@
 |**2024-02-01**|**Generation, Distillation and Evaluation of Motivational Interviewing-Style Reflections with a Foundational Language Model**|Andrew Brown et.al.|[2402.01051v1](http://arxiv.org/abs/2402.01051v1)|null|
 |**2024-02-01**|**SPARQL Generation with Entity Pre-trained GPT for KG Question Answering**|Diego Bustamante et.al.|[2402.00969v1](http://arxiv.org/abs/2402.00969v1)|**[link](https://github.com/diegoemilio01/sparql-generation-with-entity-pre-trained-gpt-for-kg-question-answering)**|
 |**2024-02-01**|**Tiny Titans: Can Smaller Large Language Models Punch Above Their Weight in the Real World for Meeting Summarization?**|Xue-Yong Fu et.al.|[2402.00841v1](http://arxiv.org/abs/2402.00841v1)|null|
-|**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795v1](http://arxiv.org/abs/2402.00795v1)|null|
+|**2024-02-01**|**LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law**|Toni J. B. Liu et.al.|[2402.00795v1](http://arxiv.org/abs/2402.00795v1)|**[link](https://github.com/AntonioLiu97/llmICL)**|
 |**2024-02-01**|**Instruction Makes a Difference**|Tosin Adewumi et.al.|[2402.00453v1](http://arxiv.org/abs/2402.00453v1)|**[link](https://github.com/ltu-machine-learning/idocvqa)**|
 |**2024-02-01**|**Prompt-Time Symbolic Knowledge Capture with Large Language Models**|Tolga Çöplü et.al.|[2402.00414v1](http://arxiv.org/abs/2402.00414v1)|**[link](https://github.com/haltiaai/paper-ptskc)**|
 |**2024-02-01**|**Multimodal Embodied Interactive Agent for Cafe Scene**|Yang Liu et.al.|[2402.00290v1](http://arxiv.org/abs/2402.00290v1)|null|
@@ -856,7 +856,7 @@
 |**2024-01-12**|**Proximal Causal Inference With Text Data**|Jacob M. Chen et.al.|[2401.06687v1](http://arxiv.org/abs/2401.06687v1)|**[link](https://github.com/jacobmchen/proximal_w_text)**|
 |**2024-01-12**|**LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase**|Angela John et.al.|[2401.06676v1](http://arxiv.org/abs/2401.06676v1)|null|
 |**2024-01-12**|**Experimental Contexts Can Facilitate Robust Semantic Property Inference in Language Models, but Inconsistently**|Kanishka Misra et.al.|[2401.06640v1](http://arxiv.org/abs/2401.06640v1)|null|
-|**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469v1](http://arxiv.org/abs/2401.06469v1)|null|
+|**2024-01-12**|**Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning**|Kaiyi Zhang et.al.|[2401.06469v1](http://arxiv.org/abs/2401.06469v1)|**[link](https://github.com/cardinalere/batch-icl)**|
 |**2024-01-12**|**Adapting Large Language Models for Document-Level Machine Translation**|Minghao Wu et.al.|[2401.06468v1](http://arxiv.org/abs/2401.06468v1)|null|
 |**2024-01-12**|**SamLP: A Customized Segment Anything Model for License Plate Detection**|Haoxuan Ding et.al.|[2401.06374v1](http://arxiv.org/abs/2401.06374v1)|null|
 |**2024-01-12**|**Zero-shot Generative Large Language Models for Systematic Review Screening Automation**|Shuai Wang et.al.|[2401.06320v1](http://arxiv.org/abs/2401.06320v1)|null|
@@ -1023,7 +1023,7 @@
 |**2023-12-14**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533v2](http://arxiv.org/abs/2312.07533v2)|null|
 |**2023-12-13**|**How Well Does GPT-4V(ision) Adapt to Distribution Shifts? A Preliminary Investigation**|Zhongyi Han et.al.|[2312.07424v2](http://arxiv.org/abs/2312.07424v2)|**[link](https://github.com/jameszhou-gl/gpt-4v-distribution-shift)**|
 |**2023-12-12**|**ICL Markup: Structuring In-Context Learning using Soft-Token Tags**|Marc-Etienne Brunet et.al.|[2312.07405v1](http://arxiv.org/abs/2312.07405v1)|null|
-|**2023-12-12**|**ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection**|Joonhyun Jeong et.al.|[2312.07266v1](http://arxiv.org/abs/2312.07266v1)|null|
+|**2023-12-12**|**ProxyDet: Synthesizing Proxy Novel Classes via Classwise Mixup for Open Vocabulary Object Detection**|Joonhyun Jeong et.al.|[2312.07266v1](http://arxiv.org/abs/2312.07266v1)|**[link](https://github.com/clovaai/proxydet)**|
 |**2023-12-12**|**Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation**|Yuanbin Wang et.al.|[2312.07221v1](http://arxiv.org/abs/2312.07221v1)|null|
 |**2023-12-12**|**Text2AC-Zero: Consistent Synthesis of Animated Characters using 2D Diffusion**|Abdelrahman Eldesokey et.al.|[2312.07133v1](http://arxiv.org/abs/2312.07133v1)|null|
 |**2023-12-12**|**CSI-Based Cross-Domain Activity Recognition via Zero-Shot Prototypical Networks**|Guillermo Diaz et.al.|[2312.07076v1](http://arxiv.org/abs/2312.07076v1)|null|

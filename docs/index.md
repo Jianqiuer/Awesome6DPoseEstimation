@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation**|Takuya Ikeda et.al.|[2402.12647v1](http://arxiv.org/abs/2402.12647v1)|null|
+|**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551v1](http://arxiv.org/abs/2402.12551v1)|null|
 |**2024-02-18**|**Boosting Semi-Supervised 2D Human Pose Estimation by Revisiting Data Augmentation and Consistency Training**|Huayi Zhou et.al.|[2402.11566v1](http://arxiv.org/abs/2402.11566v1)|**[link](https://github.com/hnuzhy/multiaugs)**|
 |**2024-02-17**|**Enhancing Surgical Performance in Cardiothoracic Surgery with Innovations from Computer Vision and Artificial Intelligence: A Narrative Review**|Merryn D. Constable et.al.|[2402.11288v1](http://arxiv.org/abs/2402.11288v1)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287v1](http://arxiv.org/abs/2402.11287v1)|null|
@@ -643,6 +645,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models**|Yizhi LI et.al.|[2402.13109v1](http://arxiv.org/abs/2402.13109v1)|null|
+|**2024-02-20**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984v1](http://arxiv.org/abs/2402.12984v1)|null|
+|**2024-02-20**|**GlórIA - A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
+|**2024-02-20**|**Identifying Factual Inconsistency in Summaries: Towards Effective Utilization of Large Language Model**|Liyan Xu et.al.|[2402.12821v1](http://arxiv.org/abs/2402.12821v1)|null|
+|**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749v1](http://arxiv.org/abs/2402.12749v1)|null|
+|**2024-02-20**|**FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning**|Xiao Li et.al.|[2402.12692v1](http://arxiv.org/abs/2402.12692v1)|**[link](https://github.com/nju-websoft/formulaqa)**|
+|**2024-02-20**|**PDEformer: Towards a Foundation Model for One-Dimensional Partial Differential Equations**|Zhanhong Ye et.al.|[2402.12652v1](http://arxiv.org/abs/2402.12652v1)|null|
 |**2024-02-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al.|[2402.12336v1](http://arxiv.org/abs/2402.12336v1)|**[link](https://github.com/chs20/robustvlm)**|
 |**2024-02-19**|**Triple-Encoders: Representations That Fire Together, Wire Together**|Justus-Jonas Erker et.al.|[2402.12332v1](http://arxiv.org/abs/2402.12332v1)|null|
 |**2024-02-19**|**Is Open-Source There Yet? A Comparative Study on Commercial and Open-Source LLMs in Their Ability to Label Chest X-Ray Reports**|Felix J. Dorfner et.al.|[2402.12298v1](http://arxiv.org/abs/2402.12298v1)|null|

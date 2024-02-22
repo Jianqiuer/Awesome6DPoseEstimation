@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.21
+## Updated on 2024.02.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -647,7 +647,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-20**|**CIF-Bench: A Chinese Instruction-Following Benchmark for Evaluating the Generalizability of Large Language Models**|Yizhi LI et.al.|[2402.13109v1](http://arxiv.org/abs/2402.13109v1)|null|
 |**2024-02-20**|**Can GNN be Good Adapter for LLMs?**|Xuanwen Huang et.al.|[2402.12984v1](http://arxiv.org/abs/2402.12984v1)|null|
-|**2024-02-20**|**GlórIA - A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
+|**2024-02-20**|**GlórIA -- A Generative and Open Large Language Model for Portuguese**|Ricardo Lopes et.al.|[2402.12969v1](http://arxiv.org/abs/2402.12969v1)|null|
 |**2024-02-20**|**Identifying Factual Inconsistency in Summaries: Towards Effective Utilization of Large Language Model**|Liyan Xu et.al.|[2402.12821v1](http://arxiv.org/abs/2402.12821v1)|null|
 |**2024-02-20**|**Me LLaMA: Foundation Large Language Models for Medical Applications**|Qianqian Xie et.al.|[2402.12749v1](http://arxiv.org/abs/2402.12749v1)|null|
 |**2024-02-20**|**FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning**|Xiao Li et.al.|[2402.12692v1](http://arxiv.org/abs/2402.12692v1)|**[link](https://github.com/nju-websoft/formulaqa)**|

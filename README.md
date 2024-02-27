@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308v1](http://arxiv.org/abs/2402.16308v1)|null|
+|**2024-02-25**|**XAI-based gait analysis of patients walking with Knee-Ankle-Foot orthosis using video cameras**|Arnav Mishra et.al.|[2402.16175v1](http://arxiv.org/abs/2402.16175v1)|null|
+|**2024-02-25**|**VOLoc: Visual Place Recognition by Querying Compressed Lidar Map**|Xudong Cai et.al.|[2402.15961v1](http://arxiv.org/abs/2402.15961v1)|**[link](https://github.com/master-cai/voloc)**|
+|**2024-02-24**|**CLIPose: Category-Level Object Pose Estimation with Pre-trained Vision-Language Knowledge**|Xiao Lin et.al.|[2402.15726v1](http://arxiv.org/abs/2402.15726v1)|null|
 |**2024-02-23**|**Optimized Deployment of Deep Neural Networks for Visual Pose Estimation on Nano-drones**|Matteo Risso et.al.|[2402.15273v1](http://arxiv.org/abs/2402.15273v1)|null|
 |**2024-02-22**|**Cameras as Rays: Pose Estimation via Ray Diffusion**|Jason Y. Zhang et.al.|[2402.14817v1](http://arxiv.org/abs/2402.14817v1)|null|
 |**2024-02-22**|**S^2Former-OR: Single-Stage Bimodal Transformer for Scene Graph Generation in OR**|Jialun Pei et.al.|[2402.14461v1](http://arxiv.org/abs/2402.14461v1)|null|
@@ -667,6 +671,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508v1](http://arxiv.org/abs/2402.16508v1)|**[link](https://github.com/fantabulous-j/class)**|
+|**2024-02-26**|**COMAE: COMprehensive Attribute Exploration for Zero-shot Hashing**|Yihang Zhou et.al.|[2402.16424v1](http://arxiv.org/abs/2402.16424v1)|null|
+|**2024-02-26**|**Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition**|Dylan Cope et.al.|[2402.16247v1](http://arxiv.org/abs/2402.16247v1)|null|
+|**2024-02-25**|**ChatMusician: Understanding and Generating Music Intrinsically with LLM**|Ruibin Yuan et.al.|[2402.16153v1](http://arxiv.org/abs/2402.16153v1)|null|
+|**2024-02-25**|**LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting**|Haoxin Liu et.al.|[2402.16132v1](http://arxiv.org/abs/2402.16132v1)|null|
+|**2024-02-25**|**Building Flexible Machine Learning Models for Scientific Computing at Scale**|Tianyu Chen et.al.|[2402.16014v1](http://arxiv.org/abs/2402.16014v1)|null|
+|**2024-02-24**|**Evaluating Prompting Strategies for Grammatical Error Correction Based on Language Proficiency**|Min Zeng et.al.|[2402.15930v1](http://arxiv.org/abs/2402.15930v1)|null|
+|**2024-02-24**|**Multimodal Instruction Tuning with Conditional Mixture of LoRA**|Ying Shen et.al.|[2402.15896v1](http://arxiv.org/abs/2402.15896v1)|null|
+|**2024-02-24**|**ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval**|Soyoung Yoon et.al.|[2402.15838v1](http://arxiv.org/abs/2402.15838v1)|**[link](https://github.com/soyoung97/listt5)**|
+|**2024-02-24**|**Linguistic Intelligence in Large Language Models for Telecommunications**|Tasnim Ahmed et.al.|[2402.15818v1](http://arxiv.org/abs/2402.15818v1)|null|
 |**2024-02-23**|**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**|Hanxiao Jiang et.al.|[2402.15487v1](http://arxiv.org/abs/2402.15487v1)|null|
 |**2024-02-23**|**Repetition Improves Language Model Embeddings**|Jacob Mitchell Springer et.al.|[2402.15449v1](http://arxiv.org/abs/2402.15449v1)|**[link](https://github.com/jakespringer/echo-embeddings)**|
 |**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422v1](http://arxiv.org/abs/2402.15422v1)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|

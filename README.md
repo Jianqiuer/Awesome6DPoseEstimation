@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v1](http://arxiv.org/abs/2402.19062v1)|null|
+|**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844v1](http://arxiv.org/abs/2402.18844v1)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
 |**2024-02-28**|**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**|Taeho Kang et.al.|[2402.18330v1](http://arxiv.org/abs/2402.18330v1)|**[link](https://github.com/tho-kn/egotap)**|
 |**2024-02-28**|**Location-guided Head Pose Estimation for Fisheye Image**|Bing Li et.al.|[2402.18320v1](http://arxiv.org/abs/2402.18320v1)|null|
 |**2024-02-28**|**NToP: NeRF-Powered Large-scale Dataset Generation for 2D and 3D Human Pose Estimation in Top-View Fisheye Images**|Jingrui Yu et.al.|[2402.18196v1](http://arxiv.org/abs/2402.18196v1)|null|
@@ -533,6 +535,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934v1](http://arxiv.org/abs/2402.18934v1)|null|
 |**2024-02-28**|**PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers**|Seong Hun Lee et.al.|[2402.16598v2](http://arxiv.org/abs/2402.16598v2)|**[link](https://github.com/sunghoon031/pcr-99)**|
 |**2024-02-23**|**CLIPPER+: A Fast Maximal Clique Algorithm for Robust Global Registration**|Kaveh Fathian et.al.|[2402.15464v1](http://arxiv.org/abs/2402.15464v1)|null|
 |**2024-02-11**|**CLIPPER: Robust Data Association without an Initial Guess**|Parker C. Lusk et.al.|[2402.07284v1](http://arxiv.org/abs/2402.07284v1)|null|
@@ -680,6 +683,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Humanoid Locomotion as Next Token Prediction**|Ilija Radosavovic et.al.|[2402.19469v1](http://arxiv.org/abs/2402.19469v1)|null|
+|**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467v1](http://arxiv.org/abs/2402.19467v1)|null|
+|**2024-02-29**|**Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation**|Jonathan Yang et.al.|[2402.19432v1](http://arxiv.org/abs/2402.19432v1)|null|
+|**2024-02-29**|**Navigating Hallucinations for Reasoning of Unintentional Activities**|Shresth Grover et.al.|[2402.19405v1](http://arxiv.org/abs/2402.19405v1)|null|
+|**2024-02-29**|**Entity-Aware Multimodal Alignment Framework for News Image Captioning**|Junzhe Zhang et.al.|[2402.19404v1](http://arxiv.org/abs/2402.19404v1)|null|
+|**2024-02-29**|**A Scalable and Transferable Time Series Prediction Framework for Demand Forecasting**|Young-Jin Park et.al.|[2402.19402v1](http://arxiv.org/abs/2402.19402v1)|null|
+|**2024-02-29**|**OpenMedLM: Prompt engineering can out-perform fine-tuning in medical question-answering with open-source large language models**|Jenish Maharjan et.al.|[2402.19371v1](http://arxiv.org/abs/2402.19371v1)|null|
+|**2024-02-29**|**Mirage: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting**|Lawrence Yunliang Chen et.al.|[2402.19249v1](http://arxiv.org/abs/2402.19249v1)|null|
+|**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150v1](http://arxiv.org/abs/2402.19150v1)|null|
+|**2024-02-29**|**A SOUND APPROACH: Using Large Language Models to generate audio descriptions for egocentric text-audio retrieval**|Andreea-Maria Oncescu et.al.|[2402.19106v1](http://arxiv.org/abs/2402.19106v1)|null|
 |**2024-02-28**|**TAMM: TriAdapter Multi-Modal Learning for 3D Shape Understanding**|Zhihao Zhang et.al.|[2402.18490v1](http://arxiv.org/abs/2402.18490v1)|null|
 |**2024-02-28**|**CafkNet: GNN-Empowered Forward Kinematic Modeling for Cable-Driven Parallel Robots**|Zeqing Zhang et.al.|[2402.18420v1](http://arxiv.org/abs/2402.18420v1)|null|
 |**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400v1](http://arxiv.org/abs/2402.18400v1)|null|

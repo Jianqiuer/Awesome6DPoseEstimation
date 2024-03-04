@@ -294,7 +294,7 @@ layout: default
 |**2023-10-05**|**RGBManip: Monocular Image-based Robotic Manipulation through Active Object Pose Estimation**|Boshi An et.al.|[2310.03478v1](http://arxiv.org/abs/2310.03478v1)|null|
 |**2023-10-05**|**Cyber Physical System Information Collection: Robot Location and Navigation Method Based on QR Code**|Hongwei Li et.al.|[2310.03470v1](http://arxiv.org/abs/2310.03470v1)|null|
 |**2023-10-04**|**Condition numbers in multiview geometry, instability in relative pose estimation, and RANSAC**|Hongyi Fan et.al.|[2310.02719v1](http://arxiv.org/abs/2310.02719v1)|null|
-|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|null|
+|**2023-10-05**|**USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields**|Moyang Li et.al.|[2310.02687v2](http://arxiv.org/abs/2310.02687v2)|**[link](https://github.com/WU-CVGL/USB-NeRF)**|
 |**2023-10-03**|**Beyond the Benchmark: Detecting Diverse Anomalies in Videos**|Yoav Arad et.al.|[2310.01904v1](http://arxiv.org/abs/2310.01904v1)|**[link](https://github.com/yoavarad/mfad)**|
 |**2023-10-03**|**MFOS: Model-Free & One-Shot Object Pose Estimation**|JongMin Lee et.al.|[2310.01897v1](http://arxiv.org/abs/2310.01897v1)|null|
 |**2023-10-02**|**LEAP: Liberate Sparse-view 3D Modeling from Camera Poses**|Hanwen Jiang et.al.|[2310.01410v1](http://arxiv.org/abs/2310.01410v1)|null|
@@ -692,7 +692,7 @@ layout: default
 |**2024-02-28**|**Multi-objective Differentiable Neural Architecture Search**|Rhea Sanjay Sukthanker et.al.|[2402.18213v1](http://arxiv.org/abs/2402.18213v1)|null|
 |**2024-02-28**|**Unsupervised Information Refinement Training of Large Language Models for Retrieval-Augmented Generation**|Shicheng Xu et.al.|[2402.18150v1](http://arxiv.org/abs/2402.18150v1)|**[link](https://github.com/xsc1234/info-rag)**|
 |**2024-02-27**|**Opening Cabinets and Drawers in the Real World using a Commodity Mobile Manipulator**|Arjun Gupta et.al.|[2402.17767v1](http://arxiv.org/abs/2402.17767v1)|null|
-|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682v1](http://arxiv.org/abs/2402.17682v1)|null|
+|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682v1](http://arxiv.org/abs/2402.17682v1)|**[link](https://github.com/aiintelligentsystems/next-level-bert)**|
 |**2024-02-27**|**Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images**|Jintao Ren et.al.|[2402.17454v1](http://arxiv.org/abs/2402.17454v1)|null|
 |**2024-02-27**|**CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification**|Haoran Lai et.al.|[2402.17417v1](http://arxiv.org/abs/2402.17417v1)|null|
 |**2024-02-27**|**ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks**|Yang Liu et.al.|[2402.17298v1](http://arxiv.org/abs/2402.17298v1)|null|
@@ -704,14 +704,14 @@ layout: default
 |**2024-02-26**|**Pre-training Cross-lingual Open Domain Question Answering with Large-scale Synthetic Supervision**|Fan Jiang et.al.|[2402.16508v1](http://arxiv.org/abs/2402.16508v1)|**[link](https://github.com/fantabulous-j/class)**|
 |**2024-02-26**|**COMAE: COMprehensive Attribute Exploration for Zero-shot Hashing**|Yihang Zhou et.al.|[2402.16424v1](http://arxiv.org/abs/2402.16424v1)|null|
 |**2024-02-26**|**Learning Translations: Emergent Communication Pretraining for Cooperative Language Acquisition**|Dylan Cope et.al.|[2402.16247v1](http://arxiv.org/abs/2402.16247v1)|null|
-|**2024-02-25**|**ChatMusician: Understanding and Generating Music Intrinsically with LLM**|Ruibin Yuan et.al.|[2402.16153v1](http://arxiv.org/abs/2402.16153v1)|null|
+|**2024-02-25**|**ChatMusician: Understanding and Generating Music Intrinsically with LLM**|Ruibin Yuan et.al.|[2402.16153v1](http://arxiv.org/abs/2402.16153v1)|**[link](https://github.com/hf-lin/ChatMusician)**|
 |**2024-02-25**|**LSTPrompt: Large Language Models as Zero-Shot Time Series Forecasters by Long-Short-Term Prompting**|Haoxin Liu et.al.|[2402.16132v1](http://arxiv.org/abs/2402.16132v1)|null|
 |**2024-02-25**|**Building Flexible Machine Learning Models for Scientific Computing at Scale**|Tianyu Chen et.al.|[2402.16014v1](http://arxiv.org/abs/2402.16014v1)|null|
 |**2024-02-24**|**Evaluating Prompting Strategies for Grammatical Error Correction Based on Language Proficiency**|Min Zeng et.al.|[2402.15930v1](http://arxiv.org/abs/2402.15930v1)|null|
 |**2024-02-24**|**Multimodal Instruction Tuning with Conditional Mixture of LoRA**|Ying Shen et.al.|[2402.15896v1](http://arxiv.org/abs/2402.15896v1)|null|
 |**2024-02-24**|**ListT5: Listwise Reranking with Fusion-in-Decoder Improves Zero-shot Retrieval**|Soyoung Yoon et.al.|[2402.15838v1](http://arxiv.org/abs/2402.15838v1)|**[link](https://github.com/soyoung97/listt5)**|
 |**2024-02-24**|**Linguistic Intelligence in Large Language Models for Telecommunications**|Tasnim Ahmed et.al.|[2402.15818v1](http://arxiv.org/abs/2402.15818v1)|null|
-|**2024-02-23**|**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**|Hanxiao Jiang et.al.|[2402.15487v1](http://arxiv.org/abs/2402.15487v1)|null|
+|**2024-02-23**|**RoboEXP: Action-Conditioned Scene Graph via Interactive Exploration for Robotic Manipulation**|Hanxiao Jiang et.al.|[2402.15487v1](http://arxiv.org/abs/2402.15487v1)|**[link](https://github.com/Jianghanxiao/RoboEXP)**|
 |**2024-02-23**|**Repetition Improves Language Model Embeddings**|Jacob Mitchell Springer et.al.|[2402.15449v1](http://arxiv.org/abs/2402.15449v1)|**[link](https://github.com/jakespringer/echo-embeddings)**|
 |**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422v1](http://arxiv.org/abs/2402.15422v1)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|
 |**2024-02-23**|**PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**|Simon Holk et.al.|[2402.15420v1](http://arxiv.org/abs/2402.15420v1)|null|
@@ -923,7 +923,7 @@ layout: default
 |**2024-01-23**|**Self-Supervised Vision Transformers Are Efficient Segmentation Learners for Imperfect Labels**|Seungho Lee et.al.|[2401.12535v1](http://arxiv.org/abs/2401.12535v1)|null|
 |**2024-01-23**|**Zero Shot Open-ended Video Inference**|Ee Yeo Keat et.al.|[2401.12471v1](http://arxiv.org/abs/2401.12471v1)|null|
 |**2024-01-23**|**The Neglected Tails of Vision-Language Models**|Shubham Parashar et.al.|[2401.12425v1](http://arxiv.org/abs/2401.12425v1)|null|
-|**2024-01-22**|**How Far Can 100 Samples Go? Unlocking Overall Zero-Shot Multilingual Translation via Tiny Multi-Parallel Data**|Di Wu et.al.|[2401.12413v1](http://arxiv.org/abs/2401.12413v1)|null|
+|**2024-01-22**|**How Far Can 100 Samples Go? Unlocking Overall Zero-Shot Multilingual Translation via Tiny Multi-Parallel Data**|Di Wu et.al.|[2401.12413v1](http://arxiv.org/abs/2401.12413v1)|**[link](https://github.com/research-anonymous/multiparallelfinetuning4mmt)**|
 |**2024-01-22**|**Analyzing the Effectiveness of Large Language Models on Text-to-SQL Synthesis**|Richard Roberson et.al.|[2401.12379v1](http://arxiv.org/abs/2401.12379v1)|**[link](https://github.com/cuplv/text-to-sql-wizardcoder)**|
 |**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097v1](http://arxiv.org/abs/2401.12097v1)|null|
 |**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078v1](http://arxiv.org/abs/2401.12078v1)|**[link](https://github.com/jwallat/temporalblindspots)**|
@@ -1457,7 +1457,7 @@ layout: default
 |**2023-10-19**|**Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization**|Ningyu Xu et.al.|[2310.12794v1](http://arxiv.org/abs/2310.12794v1)|**[link](https://github.com/ningyuxu/structural_concepts_correspondence)**|
 |**2023-10-19**|**Survival of the Most Influential Prompts: Efficient Black-Box Prompt Search via Clustering and Pruning**|Han Zhou et.al.|[2310.12774v1](http://arxiv.org/abs/2310.12774v1)|**[link](https://github.com/cambridgeltl/claps)**|
 |**2023-10-19**|**Is ChatGPT a Financial Expert? Evaluating Language Models on Financial Natural Language Processing**|Yue Guo et.al.|[2310.12664v1](http://arxiv.org/abs/2310.12664v1)|null|
-|**2023-10-19**|**Large Language Model for Multi-objective Evolutionary Optimization**|Fei Liu et.al.|[2310.12541v1](http://arxiv.org/abs/2310.12541v1)|null|
+|**2023-10-19**|**Large Language Model for Multi-objective Evolutionary Optimization**|Fei Liu et.al.|[2310.12541v1](http://arxiv.org/abs/2310.12541v1)|**[link](https://github.com/FeiLiu36/LLM4MOEA)**|
 |**2023-10-18**|**On the use of Vision-Language models for Visual Sentiment Analysis: a study on CLIP**|Cristina Bustos et.al.|[2310.12062v1](http://arxiv.org/abs/2310.12062v1)|**[link](https://github.com/cristinabustos16/clip-e)**|
 |**2023-10-18**|**Evaluating the Symbol Binding Ability of Large Language Models for Multiple-Choice Questions in Vietnamese General Education**|Duc-Vu Nguyen et.al.|[2310.12059v1](http://arxiv.org/abs/2310.12059v1)|null|
 |**2023-10-18**|**Gold: A Global and Local-aware Denoising Framework for Commonsense Knowledge Graph Noise Detection**|Zheye Deng et.al.|[2310.12011v1](http://arxiv.org/abs/2310.12011v1)|**[link](https://github.com/hkust-knowcomp/gold)**|
@@ -1485,7 +1485,7 @@ layout: default
 |**2023-10-16**|**Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation**|SeungKyu Kim et.al.|[2310.10493v1](http://arxiv.org/abs/2310.10493v1)|null|
 |**2023-10-16**|**UNO-DST: Leveraging Unlabelled Data in Zero-Shot Dialogue State Tracking**|Chuang Li et.al.|[2310.10492v1](http://arxiv.org/abs/2310.10492v1)|**[link](https://github.com/lichuangnus/uno-dst)**|
 |**2023-10-16**|**Towards a Better Understanding of Variations in Zero-Shot Neural Machine Translation Performance**|Shaomu Tan et.al.|[2310.10385v1](http://arxiv.org/abs/2310.10385v1)|**[link](https://github.com/Smu-Tan/ZS-NMT-Variations)**|
-|**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|null|
+|**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291v1](http://arxiv.org/abs/2310.09291v1)|**[link](https://github.com/explainableml/vision_by_language)**|
 |**2023-10-13**|**HierarchicalContrast: A Coarse-to-Fine Contrastive Learning Framework for Cross-Domain Zero-Shot Slot Filling**|Junwen Zhang et.al.|[2310.09135v1](http://arxiv.org/abs/2310.09135v1)|**[link](https://github.com/ai-agi/hicl)**|
 |**2023-10-13**|**Welfare Diplomacy: Benchmarking Language Model Cooperation**|Gabriel Mukobi et.al.|[2310.08901v1](http://arxiv.org/abs/2310.08901v1)|**[link](https://github.com/mukobi/welfare-diplomacy)**|
 |**2023-10-13**|**InstructTODS: Large Language Models for End-to-End Task-Oriented Dialogue Systems**|Willy Chung et.al.|[2310.08885v1](http://arxiv.org/abs/2310.08885v1)|**[link](https://github.com/willyhc22/instructtods)**|

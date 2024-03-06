@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation**|Chris Rockwell et.al.|[2403.03221v1](http://arxiv.org/abs/2403.03221v1)|null|
+|**2024-03-05**|**NRDF: Neural Riemannian Distance Fields for Learning Articulated Pose Priors**|Yannan He et.al.|[2403.03122v1](http://arxiv.org/abs/2403.03122v1)|null|
+|**2024-03-05**|**Improved LiDAR Odometry and Mapping using Deep Semantic Segmentation and Novel Outliers Detection**|Mohamed Afifi et.al.|[2403.03111v1](http://arxiv.org/abs/2403.03111v1)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751v1](http://arxiv.org/abs/2403.02751v1)|null|
+|**2024-03-04**|**PowerSkel: A Device-Free Framework Using CSI Signal for Human Skeleton Estimation in Power Station**|Cunyi Yin et.al.|[2403.01913v1](http://arxiv.org/abs/2403.01913v1)|null|
+|**2024-03-04**|**A Simple Baseline for Efficient Hand Mesh Reconstruction**|Zhishan Zhou et.al.|[2403.01813v1](http://arxiv.org/abs/2403.01813v1)|null|
+|**2024-03-03**|**MatchU: Matching Unseen Objects for 6D Pose Estimation from RGB-D Images**|Junwen Huang et.al.|[2403.01517v1](http://arxiv.org/abs/2403.01517v1)|null|
 |**2024-03-02**|**Single-image camera calibration with model-free distortion correction**|Katia Genovese et.al.|[2403.01263v1](http://arxiv.org/abs/2403.01263v1)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
 |**2024-03-01**|**Optimal Robot Formations: Balancing Range-Based Observability and User-Defined Configurations**|Syed Shabbir Ahmed et.al.|[2403.00988v1](http://arxiv.org/abs/2403.00988v1)|null|
@@ -633,6 +640,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-03**|**Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation**|Dipesh Gyawali et.al.|[2403.01407v1](http://arxiv.org/abs/2403.01407v1)|null|
 |**2024-01-29**|**Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation**|Jie Liu et.al.|[2401.16051v1](http://arxiv.org/abs/2401.16051v1)|null|
 |**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|**[link](https://github.com/nicehuster/sympoint)**|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578v2](http://arxiv.org/abs/2312.16578v2)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
@@ -675,6 +683,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174v1](http://arxiv.org/abs/2403.03174v1)|null|
+|**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167v1](http://arxiv.org/abs/2403.03167v1)|**[link](https://github.com/gglab-ku/paradise)**|
+|**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100v1](http://arxiv.org/abs/2403.03100v1)|null|
+|**2024-03-05**|**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**|Sungho Ko et.al.|[2403.02966v1](http://arxiv.org/abs/2403.02966v1)|null|
+|**2024-03-05**|**RulePrompt: Weakly Supervised Text Classification with Prompting PLMs and Self-Iterative Logical Rules**|Miaomiao Li et.al.|[2403.02932v1](http://arxiv.org/abs/2403.02932v1)|null|
+|**2024-03-05**|**Zero-Shot Cross-Lingual Document-Level Event Causality Identification with Heterogeneous Graph Contrastive Transfer Learning**|Zhitao He et.al.|[2403.02893v1](http://arxiv.org/abs/2403.02893v1)|null|
+|**2024-03-05**|**A Zero-Shot Reinforcement Learning Strategy for Autonomous Guidewire Navigation**|Valentina Scarponi et.al.|[2403.02777v1](http://arxiv.org/abs/2403.02777v1)|null|
+|**2024-03-05**|**Fast, Scale-Adaptive, and Uncertainty-Aware Downscaling of Earth System Model Fields with Generative Foundation Models**|Philipp Hess et.al.|[2403.02774v1](http://arxiv.org/abs/2403.02774v1)|null|
+|**2024-03-05**|**HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?**|Sijie Ji et.al.|[2403.02727v1](http://arxiv.org/abs/2403.02727v1)|null|
+|**2024-03-05**|**Android in the Zoo: Chain-of-Action-Thought for GUI Agents**|Jiwen Zhang et.al.|[2403.02713v1](http://arxiv.org/abs/2403.02713v1)|**[link](https://github.com/imnearth/coat)**|
 |**2024-03-02**|**LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems**|Tasnim Ahmed et.al.|[2403.01342v1](http://arxiv.org/abs/2403.01342v1)|null|
 |**2024-03-02**|**Data-free Multi-label Image Recognition via LLM-powered Prompt Tuning**|Shuo Yang et.al.|[2403.01209v1](http://arxiv.org/abs/2403.01209v1)|null|
 |**2024-03-02**|**Text-guided Explorable Image Super-resolution**|Kanchana Vaishnavi Gandikota et.al.|[2403.01124v1](http://arxiv.org/abs/2403.01124v1)|null|

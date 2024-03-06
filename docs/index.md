@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.05
+## Updated on 2024.03.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2024-03-02**|**Single-image camera calibration with model-free distortion correction**|Katia Genovese et.al.|[2403.01263v1](http://arxiv.org/abs/2403.01263v1)|null|
 |**2024-03-02**|**Grid-based Fast and Structural Visual Odometry**|Zhang Zhihe et.al.|[2403.01110v1](http://arxiv.org/abs/2403.01110v1)|null|
 |**2024-03-01**|**Optimal Robot Formations: Balancing Range-Based Observability and User-Defined Configurations**|Syed Shabbir Ahmed et.al.|[2403.00988v1](http://arxiv.org/abs/2403.00988v1)|null|
-|**2024-03-04**|**TEXterity - Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049v2](http://arxiv.org/abs/2403.00049v2)|null|
+|**2024-03-04**|**TEXterity -- Tactile Extrinsic deXterity: Simultaneous Tactile Estimation and Control for Extrinsic Dexterity**|Sangwoon Kim et.al.|[2403.00049v2](http://arxiv.org/abs/2403.00049v2)|null|
 |**2024-03-01**|**Graph Convolutional Neural Networks for Automated Echocardiography View Recognition: A Holistic Approach**|Sarina Thomas et.al.|[2402.19062v2](http://arxiv.org/abs/2402.19062v2)|null|
 |**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844v1](http://arxiv.org/abs/2402.18844v1)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
 |**2024-02-28**|**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**|Taeho Kang et.al.|[2402.18330v1](http://arxiv.org/abs/2402.18330v1)|**[link](https://github.com/tho-kn/egotap)**|

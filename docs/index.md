@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -687,7 +687,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-07**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634v1](http://arxiv.org/abs/2403.04634v1)|null|
+|**2024-03-08**|**Pix2Gif: Motion-Guided Diffusion for GIF Generation**|Hitesh Kandala et.al.|[2403.04634v2](http://arxiv.org/abs/2403.04634v2)|null|
 |**2024-03-07**|**MedFLIP: Medical Vision-and-Language Self-supervised Fast Pre-Training with Masked Autoencoder**|Lei Li et.al.|[2403.04626v1](http://arxiv.org/abs/2403.04626v1)|null|
 |**2024-03-07**|**Zero-shot cross-modal transfer of Reinforcement Learning policies through a Global Workspace**|Léopold Maytié et.al.|[2403.04588v1](http://arxiv.org/abs/2403.04588v1)|null|
 |**2024-03-07**|**Low-Resource Court Judgment Summarization for Common Law Systems**|Shuaiqi Liu et.al.|[2403.04454v1](http://arxiv.org/abs/2403.04454v1)|null|

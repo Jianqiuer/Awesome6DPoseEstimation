@@ -13,7 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-08**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450v1](http://arxiv.org/abs/2403.05450v1)|null|
+|**2024-03-11**|**Real-Time Simulated Avatar from Head-Mounted Sensors**|Zhengyi Luo et.al.|[2403.06862v1](http://arxiv.org/abs/2403.06862v1)|null|
+|**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577v1](http://arxiv.org/abs/2403.06577v1)|null|
+|**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164v1](http://arxiv.org/abs/2403.06164v1)|null|
+|**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090v1](http://arxiv.org/abs/2403.06090v1)|null|
+|**2024-03-08**|**Prepared for the Worst: A Learning-Based Adversarial Attack for Resilience Analysis of the ICP Algorithm**|Ziyu Zhang et.al.|[2403.05666v1](http://arxiv.org/abs/2403.05666v1)|null|
+|**2024-03-11**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450v2](http://arxiv.org/abs/2403.05450v2)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
 |**2024-03-07**|**That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation**|Georgi Pramatarov et.al.|[2403.04755v1](http://arxiv.org/abs/2403.04755v1)|null|
 |**2024-03-07**|**Disentangled Diffusion-Based 3D Human Pose Estimation with Hierarchical Spatial and Temporal Denoiser**|Qingyuan Cai et.al.|[2403.04444v1](http://arxiv.org/abs/2403.04444v1)|null|
@@ -551,6 +556,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-10**|**PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2403.06124v1](http://arxiv.org/abs/2403.06124v1)|null|
 |**2024-03-06**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532v1](http://arxiv.org/abs/2403.03532v1)|**[link](https://github.com/liuquan98/eyoc)**|
 |**2024-02-29**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934v1](http://arxiv.org/abs/2402.18934v1)|null|
 |**2024-02-28**|**PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers**|Seong Hun Lee et.al.|[2402.16598v2](http://arxiv.org/abs/2402.16598v2)|**[link](https://github.com/sunghoon031/pcr-99)**|
@@ -656,6 +662,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[2403.06538v1](http://arxiv.org/abs/2403.06538v1)|null|
+|**2024-03-11**|**Refining Segmentation On-the-Fly: An Interactive Framework for Point Cloud Semantic Segmentation**|Peng Zhang et.al.|[2403.06401v1](http://arxiv.org/abs/2403.06401v1)|null|
 |**2024-03-03**|**Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation**|Dipesh Gyawali et.al.|[2403.01407v1](http://arxiv.org/abs/2403.01407v1)|null|
 |**2024-01-29**|**Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation**|Jie Liu et.al.|[2401.16051v1](http://arxiv.org/abs/2401.16051v1)|null|
 |**2024-01-19**|**Symbol as Points: Panoptic Symbol Spotting via Point-based Representation**|Wenlong Liu et.al.|[2401.10556v1](http://arxiv.org/abs/2401.10556v1)|**[link](https://github.com/nicehuster/sympoint)**|
@@ -701,6 +709,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Optimizing Latent Graph Representations of Surgical Scenes for Zero-Shot Domain Transfer**|Siddhant Satyanaik et.al.|[2403.06953v1](http://arxiv.org/abs/2403.06953v1)|null|
+|**2024-03-11**|**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**|Xinyao Li et.al.|[2403.06946v1](http://arxiv.org/abs/2403.06946v1)|**[link](https://github.com/tl-uestc/unimos)**|
+|**2024-03-11**|**FocusCLIP: Multimodal Subject-Level Guidance for Zero-Shot Transfer in Human-Centric Tasks**|Muhammad Saif Ullah Khan et.al.|[2403.06904v1](http://arxiv.org/abs/2403.06904v1)|null|
+|**2024-03-11**|**Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head**|Tiancheng Zhao et.al.|[2403.06892v1](http://arxiv.org/abs/2403.06892v1)|null|
+|**2024-03-11**|**Semantic Residual Prompts for Continual Learning**|Martin Menabue et.al.|[2403.06870v1](http://arxiv.org/abs/2403.06870v1)|null|
+|**2024-03-11**|**Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction**|Souhaib Attaiki et.al.|[2403.06804v1](http://arxiv.org/abs/2403.06804v1)|null|
+|**2024-03-11**|**Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement**|Che Liu et.al.|[2403.06659v1](http://arxiv.org/abs/2403.06659v1)|null|
+|**2024-03-11**|**Towards Zero-Shot Interpretable Human Recognition: A 2D-3D Registration Framework**|Henrique Jesus et.al.|[2403.06658v1](http://arxiv.org/abs/2403.06658v1)|null|
+|**2024-03-10**|**FastVideoEdit: Leveraging Consistency Models for Efficient Text-to-Video Editing**|Youyuan Zhang et.al.|[2403.06269v1](http://arxiv.org/abs/2403.06269v1)|null|
+|**2024-03-10**|**Personalized LoRA for Human-Centered Text Understanding**|You Zhang et.al.|[2403.06208v1](http://arxiv.org/abs/2403.06208v1)|**[link](https://github.com/yoyo-yun/plora)**|
 |**2024-03-08**|**RAT: Retrieval Augmented Thoughts Elicit Context-Aware Reasoning in Long-Horizon Generation**|Zihao Wang et.al.|[2403.05313v1](http://arxiv.org/abs/2403.05313v1)|null|
 |**2024-03-08**|**PEEB: Part-based Image Classifiers with an Explainable and Editable Language Bottleneck**|Thang M. Pham et.al.|[2403.05297v1](http://arxiv.org/abs/2403.05297v1)|null|
 |**2024-03-08**|**Cross-lingual Transfer or Machine Translation? On Data Augmentation for Monolingual Semantic Textual Similarity**|Sho Hoshino et.al.|[2403.05257v1](http://arxiv.org/abs/2403.05257v1)|null|

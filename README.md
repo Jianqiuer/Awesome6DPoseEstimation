@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650v1](http://arxiv.org/abs/2403.08650v1)|null|
+|**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586v1](http://arxiv.org/abs/2403.08586v1)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
+|**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125v1](http://arxiv.org/abs/2403.08125v1)|null|
+|**2024-03-12**|**MRC-Net: 6-DoF Pose Estimation with MultiScale Residual Correlation**|Yuelong Li et.al.|[2403.08019v1](http://arxiv.org/abs/2403.08019v1)|null|
 |**2024-03-12**|**Uncertainty Quantification with Deep Ensembles for 6D Object Pose Estimation**|Kira Wursthorn et.al.|[2403.07741v1](http://arxiv.org/abs/2403.07741v1)|null|
 |**2024-03-12**|**Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**|JunDa Cheng et.al.|[2403.07535v1](http://arxiv.org/abs/2403.07535v1)|null|
 |**2024-03-12**|**Category-Agnostic Pose Estimation for Point Clouds**|Bowen Liu et.al.|[2403.07437v1](http://arxiv.org/abs/2403.07437v1)|null|
@@ -560,6 +565,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770v1](http://arxiv.org/abs/2403.08770v1)|null|
+|**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
 |**2024-03-10**|**PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2403.06124v1](http://arxiv.org/abs/2403.06124v1)|null|
 |**2024-03-06**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532v1](http://arxiv.org/abs/2403.03532v1)|**[link](https://github.com/liuquan98/eyoc)**|
 |**2024-02-29**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934v1](http://arxiv.org/abs/2402.18934v1)|null|
@@ -713,6 +720,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761v1](http://arxiv.org/abs/2403.08761v1)|null|
+|**2024-03-13**|**iCONTRA: Toward Thematic Collection Design Via Interactive Concept Transfer**|Dinh-Khoi Vo et.al.|[2403.08746v1](http://arxiv.org/abs/2403.08746v1)|**[link](https://github.com/vdkhoi20/icontra)**|
+|**2024-03-13**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664v1](http://arxiv.org/abs/2403.08664v1)|null|
+|**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629v1](http://arxiv.org/abs/2403.08629v1)|null|
+|**2024-03-13**|**Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation**|Daniel Honerkamp et.al.|[2403.08605v1](http://arxiv.org/abs/2403.08605v1)|null|
+|**2024-03-13**|**Unleashing the Power of Meta-tuning for Few-shot Generalization Through Sparse Interpolated Experts**|Shengzhuang Chen et.al.|[2403.08477v1](http://arxiv.org/abs/2403.08477v1)|**[link](https://github.com/szc12153/sparse_meta_tuning)**|
+|**2024-03-13**|**Search-based Optimisation of LLM Learning Shots for Story Point Estimation**|Vali Tawosi et.al.|[2403.08430v1](http://arxiv.org/abs/2403.08430v1)|null|
+|**2024-03-13**|**Software Vulnerability and Functionality Assessment using LLMs**|Rasmus Ingemann Tuffveson Jensen et.al.|[2403.08429v1](http://arxiv.org/abs/2403.08429v1)|null|
+|**2024-03-13**|**Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation**|Zicheng Zhang et.al.|[2403.08426v1](http://arxiv.org/abs/2403.08426v1)|null|
+|**2024-03-13**|**Learning to Describe for Predicting Zero-shot Drug-Drug Interactions**|Fangqi Zhu et.al.|[2403.08377v1](http://arxiv.org/abs/2403.08377v1)|**[link](https://github.com/zhufq00/ddis-prediction)**|
 |**2024-03-12**|**MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric**|Haokun Lin et.al.|[2403.07839v1](http://arxiv.org/abs/2403.07839v1)|null|
 |**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815v1](http://arxiv.org/abs/2403.07815v1)|**[link](https://github.com/amazon-science/chronos-forecasting)**|
 |**2024-03-12**|**SemEval-2024 Shared Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes**|Timothee Mickus et.al.|[2403.07726v1](http://arxiv.org/abs/2403.07726v1)|null|

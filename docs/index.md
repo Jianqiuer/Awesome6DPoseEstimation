@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.14
+## Updated on 2024.03.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -710,9 +710,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-13**|**Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches**|Yun Xin Teoh et.al.|[2403.08761v1](http://arxiv.org/abs/2403.08761v1)|null|
 |**2024-03-13**|**iCONTRA: Toward Thematic Collection Design Via Interactive Concept Transfer**|Dinh-Khoi Vo et.al.|[2403.08746v1](http://arxiv.org/abs/2403.08746v1)|**[link](https://github.com/vdkhoi20/icontra)**|
-|**2024-03-13**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664v1](http://arxiv.org/abs/2403.08664v1)|null|
+|**2024-03-14**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664v2](http://arxiv.org/abs/2403.08664v2)|null|
 |**2024-03-13**|**Scaling Up Dynamic Human-Scene Interaction Modeling**|Nan Jiang et.al.|[2403.08629v1](http://arxiv.org/abs/2403.08629v1)|null|
-|**2024-03-13**|**Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation**|Daniel Honerkamp et.al.|[2403.08605v1](http://arxiv.org/abs/2403.08605v1)|null|
+|**2024-03-14**|**Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation**|Daniel Honerkamp et.al.|[2403.08605v2](http://arxiv.org/abs/2403.08605v2)|null|
 |**2024-03-13**|**Unleashing the Power of Meta-tuning for Few-shot Generalization Through Sparse Interpolated Experts**|Shengzhuang Chen et.al.|[2403.08477v1](http://arxiv.org/abs/2403.08477v1)|**[link](https://github.com/szc12153/sparse_meta_tuning)**|
 |**2024-03-13**|**Search-based Optimisation of LLM Learning Shots for Story Point Estimation**|Vali Tawosi et.al.|[2403.08430v1](http://arxiv.org/abs/2403.08430v1)|null|
 |**2024-03-13**|**Software Vulnerability and Functionality Assessment using LLMs**|Rasmus Ingemann Tuffveson Jensen et.al.|[2403.08429v1](http://arxiv.org/abs/2403.08429v1)|null|

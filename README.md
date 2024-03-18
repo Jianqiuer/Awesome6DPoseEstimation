@@ -100,7 +100,7 @@
 |**2024-02-04**|**Uncertainty-Aware Testing-Time Optimization for 3D Human Pose Estimation**|Ti Wang et.al.|[2402.02339v1](http://arxiv.org/abs/2402.02339v1)|null|
 |**2024-02-01**|**mmID: High-Resolution mmWave Imaging for Human Identification**|Sakila S. Jayaweera et.al.|[2402.00996v1](http://arxiv.org/abs/2402.00996v1)|null|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700v1](http://arxiv.org/abs/2402.00700v1)|null|
-|**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683v1](http://arxiv.org/abs/2402.00683v1)|null|
+|**2024-02-01**|**WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness**|Mateus Valverde Gasparino et.al.|[2402.00683v1](http://arxiv.org/abs/2402.00683v1)|**[link](https://github.com/matval/wayfaster)**|
 |**2024-02-02**|**CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration**|Daniele Cattaneo et.al.|[2402.00129v2](http://arxiv.org/abs/2402.00129v2)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083v1](http://arxiv.org/abs/2401.18083v1)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-30**|**Navigating the Unknown: Uncertainty-Aware Compute-in-Memory Autonomy of Edge Robotics**|Nastaran Darabi et.al.|[2401.17481v1](http://arxiv.org/abs/2401.17481v1)|null|
@@ -781,7 +781,7 @@
 |**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956v1](http://arxiv.org/abs/2403.03956v1)|**[link](https://github.com/rosewang2008/backtracing)**|
 |**2024-03-06**|**X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification**|Hanzi Xu et.al.|[2403.03863v1](http://arxiv.org/abs/2403.03863v1)|**[link](https://github.com/xhz0809/x-shot)**|
 |**2024-03-06**|**Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**|Wei Zhang et.al.|[2403.03790v1](http://arxiv.org/abs/2403.03790v1)|null|
-|**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715v1](http://arxiv.org/abs/2403.03715v1)|null|
+|**2024-03-06**|**MeaCap: Memory-Augmented Zero-shot Image Captioning**|Zequn Zeng et.al.|[2403.03715v1](http://arxiv.org/abs/2403.03715v1)|**[link](https://github.com/joeyz0z/meacap)**|
 |**2024-03-06**|**Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision**|Yajie Liu et.al.|[2403.03707v1](http://arxiv.org/abs/2403.03707v1)|null|
 |**2024-03-06**|**A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation**|Xiangci Li et.al.|[2403.03496v1](http://arxiv.org/abs/2403.03496v1)|null|
 |**2024-03-05**|**Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse**|Joseph Gatto et.al.|[2403.03336v1](http://arxiv.org/abs/2403.03336v1)|null|
@@ -1003,7 +1003,7 @@
 |**2024-01-31**|**Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model**|Zihan Zhong et.al.|[2401.17868v1](http://arxiv.org/abs/2401.17868v1)|**[link](https://github.com/autogluon/autogluon)**|
 |**2024-01-31**|**Instruction-Guided Scene Text Recognition**|Yongkun Du et.al.|[2401.17851v1](http://arxiv.org/abs/2401.17851v1)|null|
 |**2024-01-31**|**M2-RAAP: A Multi-Modal Recipe for Advancing Adaptation-based Pre-training towards Effective and Efficient Zero-shot Video-text Retrieval**|Xingning Dong et.al.|[2401.17797v1](http://arxiv.org/abs/2401.17797v1)|**[link](https://github.com/alipay/Ant-Multi-Modal-Framework)**|
-|**2024-01-31**|**Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects**|Jingcai Guo et.al.|[2401.17766v1](http://arxiv.org/abs/2401.17766v1)|null|
+|**2024-01-31**|**Fine-Grained Zero-Shot Learning: Advances, Challenges, and Prospects**|Jingcai Guo et.al.|[2401.17766v1](http://arxiv.org/abs/2401.17766v1)|**[link](https://github.com/eigenailab/awesome-fine-grained-zero-shot-learning)**|
 |**2024-01-31**|**ReSLLM: Large Language Models are Strong Resource Selectors for Federated Search**|Shuai Wang et.al.|[2401.17645v1](http://arxiv.org/abs/2401.17645v1)|null|
 |**2024-01-31**|**Spatial-and-Frequency-aware Restoration method for Images based on Diffusion Models**|Kyungsung Lee et.al.|[2401.17629v1](http://arxiv.org/abs/2401.17629v1)|null|
 |**2024-01-30**|**YOLO-World: Real-Time Open-Vocabulary Object Detection**|Tianheng Cheng et.al.|[2401.17270v1](http://arxiv.org/abs/2401.17270v1)|**[link](https://github.com/ailab-cvc/yolo-world)**|
@@ -1132,7 +1132,7 @@
 |**2024-01-09**|**MoSECroT: Model Stitching with Static Word Embeddings for Crosslingual Zero-shot Transfer**|Haotian Ye et.al.|[2401.04821v1](http://arxiv.org/abs/2401.04821v1)|null|
 |**2024-01-09**|**DepressionEmo: A novel dataset for multilabel classification of depression emotions**|Abu Bakar Siddiqur Rahman et.al.|[2401.04655v1](http://arxiv.org/abs/2401.04655v1)|**[link](https://github.com/abubakarsiddiqurrahman/depressionemo)**|
 |**2024-01-09**|**DebugBench: Evaluating Debugging Capability of Large Language Models**|Runchu Tian et.al.|[2401.04621v1](http://arxiv.org/abs/2401.04621v1)|**[link](https://github.com/thunlp/debugbench)**|
-|**2024-01-09**|**Effective pruning of web-scale datasets based on complexity of concept clusters**|Amro Abbas et.al.|[2401.04578v1](http://arxiv.org/abs/2401.04578v1)|null|
+|**2024-01-09**|**Effective pruning of web-scale datasets based on complexity of concept clusters**|Amro Abbas et.al.|[2401.04578v1](http://arxiv.org/abs/2401.04578v1)|**[link](https://github.com/amro-kamal/effective_pruning)**|
 |**2024-01-09**|**Exploring Prompt-Based Methods for Zero-Shot Hypernym Prediction with Large Language Models**|Mikhail Tikhomirov et.al.|[2401.04515v1](http://arxiv.org/abs/2401.04515v1)|null|
 |**2024-01-09**|**Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search**|Haochen Li et.al.|[2401.04514v1](http://arxiv.org/abs/2401.04514v1)|null|
 |**2024-01-09**|**Zero Shot Audio to Audio Emotion Transfer With Speaker Disentanglement**|Soumya Dutta et.al.|[2401.04511v1](http://arxiv.org/abs/2401.04511v1)|**[link](https://github.com/iiscleap/zest)**|
@@ -1428,7 +1428,7 @@
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 |**2023-11-15**|**Fast Certification of Vision-Language Models Using Incremental Randomized Smoothing**|A K Nirala et.al.|[2311.09024v1](http://arxiv.org/abs/2311.09024v1)|null|
 |**2023-11-15**|**Exploring the Potential of Large Language Models in Computational Argumentation**|Guizhen Chen et.al.|[2311.09022v1](http://arxiv.org/abs/2311.09022v1)|**[link](https://github.com/damo-nlp-sg/llm-argumentation)**|
-|**2023-11-15**|**Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models**|Tingyu Xie et.al.|[2311.08921v1](http://arxiv.org/abs/2311.08921v1)|null|
+|**2023-11-15**|**Self-Improving for Zero-Shot Named Entity Recognition with Large Language Models**|Tingyu Xie et.al.|[2311.08921v1](http://arxiv.org/abs/2311.08921v1)|**[link](https://github.com/Emma1066/Self-Improve-Zero-Shot-NER)**|
 |**2023-11-15**|**Combining Transfer Learning with In-context Learning using Blackbox LLMs for Zero-shot Knowledge Base Question Answering**|Mayur Patidar et.al.|[2311.08894v1](http://arxiv.org/abs/2311.08894v1)|null|
 |**2023-11-14**|**Zero-shot audio captioning with audio-language model guidance and audio context keywords**|Leonard Salewski et.al.|[2311.08396v1](http://arxiv.org/abs/2311.08396v1)|**[link](https://github.com/explainableml/zeraucap)**|
 |**2023-11-14**|**Anti-LM Decoding for Zero-shot In-context Machine Translation**|Suzanna Sia et.al.|[2311.08324v1](http://arxiv.org/abs/2311.08324v1)|null|
@@ -1585,7 +1585,7 @@
 |**2023-10-20**|**Zero-Shot Sharpness-Aware Quantization for Pre-trained Language Models**|Miaoxi Zhu et.al.|[2310.13315v1](http://arxiv.org/abs/2310.13315v1)|null|
 |**2023-10-19**|**CLAIR: Evaluating Image Captions with Large Language Models**|David Chan et.al.|[2310.12971v1](http://arxiv.org/abs/2310.12971v1)|null|
 |**2023-10-19**|**Eureka: Human-Level Reward Design via Coding Large Language Models**|Yecheng Jason Ma et.al.|[2310.12931v1](http://arxiv.org/abs/2310.12931v1)|**[link](https://github.com/eureka-research/Eureka)**|
-|**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921v1](http://arxiv.org/abs/2310.12921v1)|null|
+|**2023-10-19**|**Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning**|Juan Rocamonde et.al.|[2310.12921v1](http://arxiv.org/abs/2310.12921v1)|**[link](https://github.com/alignmentresearch/vlmrm)**|
 |**2023-10-19**|**StoryAnalogy: Deriving Story-level Analogies from Large Language Models to Unlock Analogical Understanding**|Cheng Jiayang et.al.|[2310.12874v1](http://arxiv.org/abs/2310.12874v1)|**[link](https://github.com/loginaway/storyanalogy)**|
 |**2023-10-19**|**Probing LLMs for hate speech detection: strengths and vulnerabilities**|Sarthak Roy et.al.|[2310.12860v1](http://arxiv.org/abs/2310.12860v1)|null|
 |**2023-10-20**|**GestureGPT: Zero-shot Interactive Gesture Understanding and Grounding with Large Language Model Agents**|Xin Zeng et.al.|[2310.12821v2](http://arxiv.org/abs/2310.12821v2)|null|
@@ -1608,7 +1608,7 @@
 |**2023-10-17**|**Entity Matching using Large Language Models**|Ralph Peeters et.al.|[2310.11244v1](http://arxiv.org/abs/2310.11244v1)|**[link](https://github.com/wbsg-uni-mannheim/matchgpt)**|
 |**2023-10-17**|**Revisiting Sentiment Analysis for Software Engineering in the Era of Large Language Models**|Ting Zhang et.al.|[2310.11113v1](http://arxiv.org/abs/2310.11113v1)|**[link](https://github.com/soarsmu/LLM4SA4SE)**|
 |**2023-10-17**|**MeKB-Rec: Personal Knowledge Graph Learning for Cross-Domain Recommendation**|Xin Su et.al.|[2310.11088v1](http://arxiv.org/abs/2310.11088v1)|null|
-|**2023-10-17**|**Understanding writing style in social media with a supervised contrastively pre-trained transformer**|Javier Huertas-Tato et.al.|[2310.11081v1](http://arxiv.org/abs/2310.11081v1)|null|
+|**2023-10-17**|**Understanding writing style in social media with a supervised contrastively pre-trained transformer**|Javier Huertas-Tato et.al.|[2310.11081v1](http://arxiv.org/abs/2310.11081v1)|**[link](https://github.com/jahuerta92/star)**|
 |**2023-10-17**|**VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System**|Abdul Waheed et.al.|[2310.11069v1](http://arxiv.org/abs/2310.11069v1)|null|
 |**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644v1](http://arxiv.org/abs/2310.10644v1)|null|
 |**2023-10-16**|**Zero-Shot Robotic Manipulation with Pretrained Image-Editing Diffusion Models**|Kevin Black et.al.|[2310.10639v1](http://arxiv.org/abs/2310.10639v1)|**[link](https://github.com/kvablack/susie)**|

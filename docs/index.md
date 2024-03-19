@@ -2,18 +2,21 @@
 layout: default
 ---
 
-## Updated on 2024.03.18
+## Updated on 2024.03.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990v1](http://arxiv.org/abs/2403.09990v1)|null|
+|**2024-03-14**|**ThermoHands: A Benchmark for 3D Hand Pose Estimation from Egocentric Thermal Image**|Fangqiang Ding et.al.|[2403.09871v1](http://arxiv.org/abs/2403.09871v1)|null|
+|**2024-03-14**|**BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects**|Tomas Hodan et.al.|[2403.09799v1](http://arxiv.org/abs/2403.09799v1)|null|
 |**2024-03-14**|**Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**|Sebastián Barbas Laina et.al.|[2403.09596v1](http://arxiv.org/abs/2403.09596v1)|null|
 |**2024-03-14**|**Improving Real-Time Omnidirectional 3D Multi-Person Human Pose Estimation with People Matching and Unsupervised 2D-3D Lifting**|Pawel Knap et.al.|[2403.09437v1](http://arxiv.org/abs/2403.09437v1)|null|
 |**2024-03-14**|**LM2D: Lyrics- and Music-Driven Dance Synthesis**|Wenjie Yin et.al.|[2403.09407v1](http://arxiv.org/abs/2403.09407v1)|null|
 |**2024-03-14**|**SD-Net: Symmetric-Aware Keypoint Prediction and Domain Adaptation for 6D Pose Estimation In Bin-picking Scenarios**|Ding-Tao Huang et.al.|[2403.09317v1](http://arxiv.org/abs/2403.09317v1)|**[link](https://github.com/dingthuang/sd-net)**|
 |**2024-03-14**|**MOTPose: Multi-object 6D Pose Estimation for Dynamic Video Sequences using Attention-based Temporal Fusion**|Arul Selvam Periyasamy et.al.|[2403.09309v1](http://arxiv.org/abs/2403.09309v1)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650v1](http://arxiv.org/abs/2403.08650v1)|null|
-|**2024-03-13**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586v1](http://arxiv.org/abs/2403.08586v1)|null|
+|**2024-03-15**|**PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections**|Matteo Taiana et.al.|[2403.08586v2](http://arxiv.org/abs/2403.08586v2)|null|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
 |**2024-03-12**|**Q-SLAM: Quadric Representations for Monocular SLAM**|Chensheng Peng et.al.|[2403.08125v1](http://arxiv.org/abs/2403.08125v1)|null|
 |**2024-03-12**|**MRC-Net: 6-DoF Pose Estimation with MultiScale Residual Correlation**|Yuelong Li et.al.|[2403.08019v1](http://arxiv.org/abs/2403.08019v1)|null|
@@ -562,6 +565,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085v1](http://arxiv.org/abs/2403.10085v1)|**[link](https://github.com/guiyuzhao/vrhcf)**|
+|**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996v1](http://arxiv.org/abs/2403.09996v1)|null|
+|**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990v1](http://arxiv.org/abs/2403.09990v1)|null|
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770v1](http://arxiv.org/abs/2403.08770v1)|**[link](https://github.com/forrest-110/fastmac)**|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
 |**2024-03-10**|**PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2403.06124v1](http://arxiv.org/abs/2403.06124v1)|null|
@@ -713,6 +719,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517v1](http://arxiv.org/abs/2403.10517v1)|null|
+|**2024-03-15**|**Benchmarking Zero-Shot Robustness of Multimodal Foundation Models: A Pilot Study**|Chenguang Wang et.al.|[2403.10499v1](http://arxiv.org/abs/2403.10499v1)|**[link](https://github.com/wang-research-lab/roz)**|
+|**2024-03-15**|**Mitigating Dialogue Hallucination for Large Multi-modal Models via Adversarial Instruction Tuning**|Dongmin Park et.al.|[2403.10492v1](http://arxiv.org/abs/2403.10492v1)|null|
+|**2024-03-15**|**A Thorough Comparison of Cross-Encoders and LLMs for Reranking SPLADE**|Hervé Déjean et.al.|[2403.10407v1](http://arxiv.org/abs/2403.10407v1)|null|
+|**2024-03-15**|**CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning**|Yukun Li et.al.|[2403.10245v1](http://arxiv.org/abs/2403.10245v1)|null|
+|**2024-03-15**|**Generative Region-Language Pretraining for Open-Ended Object Detection**|Chuang Lin et.al.|[2403.10191v1](http://arxiv.org/abs/2403.10191v1)|**[link](https://github.com/foundationvision/generateu)**|
+|**2024-03-15**|**Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects**|Malte Mosbach et.al.|[2403.10187v1](http://arxiv.org/abs/2403.10187v1)|null|
+|**2024-03-15**|**Improving Medical Multi-modal Contrastive Learning with Expert Annotations**|Yogesh Kumar et.al.|[2403.10153v1](http://arxiv.org/abs/2403.10153v1)|null|
+|**2024-03-15**|**E4C: Enhance Editability for Text-Based Image Editing by Harnessing Efficient CLIP Guidance**|Tianrui Huang et.al.|[2403.10133v1](http://arxiv.org/abs/2403.10133v1)|null|
+|**2024-03-15**|**Cardiac Magnetic Resonance 2D+T Short- and Long-axis Segmentation via Spatio-temporal SAM Adaptation**|Zhennong Chen et.al.|[2403.10009v1](http://arxiv.org/abs/2403.10009v1)|null|
 |**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630v1](http://arxiv.org/abs/2403.09630v1)|**[link](https://github.com/opendrivelab/driveagi)**|
 |**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629v1](http://arxiv.org/abs/2403.09629v1)|null|
 |**2024-03-15**|**ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models**|Runyu Ma et.al.|[2403.09583v2](http://arxiv.org/abs/2403.09583v2)|null|

@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960v1](http://arxiv.org/abs/2403.12960v1)|null|
+|**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
+|**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728v1](http://arxiv.org/abs/2403.12728v1)|**[link](https://github.com/s-jingtao/self-srpe)**|
+|**2024-03-19**|**IFFNeRF: Initialisation Free and Fast 6DoF pose estimation from a single image and a NeRF model**|Matteo Bortolon et.al.|[2403.12682v1](http://arxiv.org/abs/2403.12682v1)|null|
+|**2024-03-19**|**In-Hand Following of Deformable Linear Objects Using Dexterous Fingers with Tactile Sensing**|Mingrui Yu et.al.|[2403.12676v1](http://arxiv.org/abs/2403.12676v1)|null|
+|**2024-03-19**|**Self-learning Canonical Space for Multi-view 3D Human Pose Estimation**|Xiaoben Li et.al.|[2403.12440v1](http://arxiv.org/abs/2403.12440v1)|null|
+|**2024-03-19**|**Human Mesh Recovery from Arbitrary Multi-view Images**|Xiaoben Li et.al.|[2403.12434v1](http://arxiv.org/abs/2403.12434v1)|null|
+|**2024-03-19**|**XPose: eXplainable Human Pose Estimation**|Luyu Qiu et.al.|[2403.12370v1](http://arxiv.org/abs/2403.12370v1)|null|
+|**2024-03-18**|**HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data**|Mengqi Zhang et.al.|[2403.12011v1](http://arxiv.org/abs/2403.12011v1)|null|
 |**2024-03-18**|**Normalized Validity Scores for DNNs in Regression based Eye Feature Extraction**|Wolfgang Fuhl et.al.|[2403.11665v1](http://arxiv.org/abs/2403.11665v1)|null|
 |**2024-03-18**|**An Accurate and Real-time Relative Pose Estimation from Triple Point-line Images by Decoupling Rotation and Translation**|Zewen Xu et.al.|[2403.11639v1](http://arxiv.org/abs/2403.11639v1)|null|
 |**2024-03-18**|**LoRA-Composer: Leveraging Low-Rank Adaptation for Multi-Concept Customization in Training-Free Diffusion Models**|Yang Yang et.al.|[2403.11627v1](http://arxiv.org/abs/2403.11627v1)|**[link](https://github.com/young98cn/lora_composer)**|
@@ -693,6 +702,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317v1](http://arxiv.org/abs/2403.12317v1)|null|
 |**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[2403.06538v1](http://arxiv.org/abs/2403.06538v1)|null|
 |**2024-03-11**|**Refining Segmentation On-the-Fly: An Interactive Framework for Point Cloud Semantic Segmentation**|Peng Zhang et.al.|[2403.06401v1](http://arxiv.org/abs/2403.06401v1)|null|
 |**2024-03-03**|**Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation**|Dipesh Gyawali et.al.|[2403.01407v1](http://arxiv.org/abs/2403.01407v1)|null|
@@ -740,6 +750,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962v1](http://arxiv.org/abs/2403.12962v1)|**[link](https://github.com/williamyang1991/fresco)**|
+|**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952v1](http://arxiv.org/abs/2403.12952v1)|**[link](https://github.com/elaine-sui/tps)**|
+|**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910v1](http://arxiv.org/abs/2403.12910v1)|null|
+|**2024-03-19**|**TexDreamer: Towards Zero-Shot High-Fidelity 3D Human Texture Generation**|Yufei Liu et.al.|[2403.12906v1](http://arxiv.org/abs/2403.12906v1)|null|
+|**2024-03-19**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894v1](http://arxiv.org/abs/2403.12894v1)|null|
+|**2024-03-19**|**Adaptive Visual Imitation Learning for Robotic Assisted Feeding Across Varied Bowl Configurations and Food Types**|Rui Liu et.al.|[2403.12891v1](http://arxiv.org/abs/2403.12891v1)|null|
+|**2024-03-19**|**ICE: Interactive 3D Game Character Editing via Dialogue**|Haoqian Wu et.al.|[2403.12667v1](http://arxiv.org/abs/2403.12667v1)|null|
+|**2024-03-19**|**LHMKE: A Large-scale Holistic Multi-subject Knowledge Evaluation Benchmark for Chinese Large Language Models**|Chuang Liu et.al.|[2403.12601v1](http://arxiv.org/abs/2403.12601v1)|null|
+|**2024-03-19**|**Compound Expression Recognition via Multi Model Ensemble**|Jun Yu et.al.|[2403.12572v1](http://arxiv.org/abs/2403.12572v1)|null|
+|**2024-03-19**|**Adapting Visual-Language Models for Generalizable Anomaly Detection in Medical Images**|Chaoqin Huang et.al.|[2403.12570v1](http://arxiv.org/abs/2403.12570v1)|**[link](https://github.com/mediabrain-sjtu/mvfa-ad)**|
 |**2024-03-18**|**Prioritized Semantic Learning for Zero-shot Instance Navigation**|Xander Sun et.al.|[2403.11650v1](http://arxiv.org/abs/2403.11650v1)|null|
 |**2024-03-18**|**Arc2Face: A Foundation Model of Human Faces**|Foivos Paraperas Papantoniou et.al.|[2403.11641v1](http://arxiv.org/abs/2403.11641v1)|null|
 |**2024-03-18**|**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**|Jiazuo Yu et.al.|[2403.11549v1](http://arxiv.org/abs/2403.11549v1)|**[link](https://github.com/jiazuoyu/moe-adapters4cl)**|

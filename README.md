@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**DVMNet: Computing Relative Pose for Unseen Objects Beyond Hypotheses**|Chen Zhao et.al.|[2403.13683v1](http://arxiv.org/abs/2403.13683v1)|null|
+|**2024-03-20**|**Meta-Point Learning and Refining for Category-Agnostic Pose Estimation**|Junjie Chen et.al.|[2403.13647v1](http://arxiv.org/abs/2403.13647v1)|**[link](https://github.com/chenbys/metapoint)**|
+|**2024-03-20**|**Advancing 6D Pose Estimation in Augmented Reality -- Overcoming Projection Ambiguity with Uncontrolled Imagery**|Mayura Manawadu et.al.|[2403.13434v1](http://arxiv.org/abs/2403.13434v1)|null|
+|**2024-03-20**|**DOR3D-Net: Dense Ordinal Regression Network for 3D Hand Pose Estimation**|Yamin Mao et.al.|[2403.13405v1](http://arxiv.org/abs/2403.13405v1)|null|
+|**2024-03-20**|**ManiPose: A Comprehensive Benchmark for Pose-aware Object Manipulation in Robotics**|Qiaojun Yu et.al.|[2403.13365v1](http://arxiv.org/abs/2403.13365v1)|null|
+|**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348v1](http://arxiv.org/abs/2403.13348v1)|null|
 |**2024-03-19**|**FaceXFormer: A Unified Transformer for Facial Analysis**|Kartik Narayan et.al.|[2403.12960v1](http://arxiv.org/abs/2403.12960v1)|null|
 |**2024-03-19**|**WHAC: World-grounded Humans and Cameras**|Wanqi Yin et.al.|[2403.12959v1](http://arxiv.org/abs/2403.12959v1)|null|
 |**2024-03-19**|**Diffusion-Driven Self-Supervised Learning for Shape Reconstruction and Pose Estimation**|Jingtao Sun et.al.|[2403.12728v1](http://arxiv.org/abs/2403.12728v1)|**[link](https://github.com/s-jingtao/self-srpe)**|
@@ -750,6 +756,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805v1](http://arxiv.org/abs/2403.13805v1)|null|
+|**2024-03-20**|**Bridge the Modality and Capacity Gaps in Vision-Language Model Selection**|Chao Yi et.al.|[2403.13797v1](http://arxiv.org/abs/2403.13797v1)|null|
+|**2024-03-20**|**HierCode: A Lightweight Hierarchical Codebook for Zero-shot Chinese Text Recognition**|Yuyi Zhang et.al.|[2403.13761v1](http://arxiv.org/abs/2403.13761v1)|null|
+|**2024-03-20**|**ZoDi: Zero-Shot Domain Adaptation with Diffusion-Based Image Transfer**|Hiroki Azuma et.al.|[2403.13652v1](http://arxiv.org/abs/2403.13652v1)|null|
+|**2024-03-20**|**Teacher-Student Training for Debiasing: General Permutation Debiasing for Large Language Models**|Adian Liusie et.al.|[2403.13590v1](http://arxiv.org/abs/2403.13590v1)|null|
+|**2024-03-20**|**Reading Users' Minds from What They Say: An Investigation into LLM-based Empathic Mental Inference**|Qihao Zhu et.al.|[2403.13301v1](http://arxiv.org/abs/2403.13301v1)|null|
+|**2024-03-20**|**Community Needs and Assets: A Computational Analysis of Community Conversations**|Md Towhidul Absar Chowdhury et.al.|[2403.13272v1](http://arxiv.org/abs/2403.13272v1)|null|
+|**2024-03-20**|**Federated reinforcement learning for robot motion planning with zero-shot generalization**|Zhenyuan Yuan et.al.|[2403.13245v1](http://arxiv.org/abs/2403.13245v1)|null|
+|**2024-03-20**|**Instruction Multi-Constraint Molecular Generation Using a Teacher-Student Large Language Model**|Peng Zhou et.al.|[2403.13244v1](http://arxiv.org/abs/2403.13244v1)|null|
+|**2024-03-20**|**SumTra: A Differentiable Pipeline for Few-Shot Cross-Lingual Summarization**|Jacob Parnell et.al.|[2403.13240v1](http://arxiv.org/abs/2403.13240v1)|null|
 |**2024-03-19**|**FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation**|Shuai Yang et.al.|[2403.12962v1](http://arxiv.org/abs/2403.12962v1)|**[link](https://github.com/williamyang1991/fresco)**|
 |**2024-03-19**|**Just Shift It: Test-Time Prototype Shifting for Zero-Shot Generalization with Vision-Language Models**|Elaine Sui et.al.|[2403.12952v1](http://arxiv.org/abs/2403.12952v1)|**[link](https://github.com/elaine-sui/tps)**|
 |**2024-03-19**|**Yell At Your Robot: Improving On-the-Fly from Language Corrections**|Lucy Xiaoyang Shi et.al.|[2403.12910v1](http://arxiv.org/abs/2403.12910v1)|null|

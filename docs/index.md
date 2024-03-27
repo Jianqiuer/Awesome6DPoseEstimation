@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -775,6 +775,7 @@ layout: default
 |**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005v1](http://arxiv.org/abs/2403.16005v1)|null|
 |**2024-03-23**|**Risk-Calibrated Human-Robot Interaction via Set-Valued Intent Prediction**|Justin Lidard et.al.|[2403.15959v1](http://arxiv.org/abs/2403.15959v1)|null|
 |**2024-03-23**|**Leveraging Zero-Shot Prompting for Efficient Language Model Distillation**|Lukas Vöge et.al.|[2403.15886v1](http://arxiv.org/abs/2403.15886v1)|null|
+|**2024-03-23**|**LAMPER: LanguAge Model and Prompt EngineeRing for zero-shot time series classification**|Zhicheng Du et.al.|[2403.15875v1](http://arxiv.org/abs/2403.15875v1)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378v1](http://arxiv.org/abs/2403.15378v1)|null|
 |**2024-03-22**|**Machine learning-based compression of quantum many body physics: PCA and autoencoder representation of the vertex function**|Jiawei Zang et.al.|[2403.15372v1](http://arxiv.org/abs/2403.15372v1)|null|
 |**2024-03-22**|**Towards Knowledge-Grounded Natural Language Understanding and Generation**|Chenxi Whitehouse et.al.|[2403.15364v1](http://arxiv.org/abs/2403.15364v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -620,7 +620,7 @@ layout: default
 |**2024-03-13**|**FastMAC: Stochastic Spectral Sampling of Correspondence Graph**|Yifei Zhang et.al.|[2403.08770v1](http://arxiv.org/abs/2403.08770v1)|**[link](https://github.com/forrest-110/fastmac)**|
 |**2024-03-13**|**NeRF-Supervised Feature Point Detection and Description**|Ali Youssef et.al.|[2403.08156v1](http://arxiv.org/abs/2403.08156v1)|null|
 |**2024-03-10**|**PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2403.06124v1](http://arxiv.org/abs/2403.06124v1)|null|
-|**2024-03-06**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532v1](http://arxiv.org/abs/2403.03532v1)|**[link](https://github.com/liuquan98/eyoc)**|
+|**2024-03-27**|**Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension**|Quan Liu et.al.|[2403.03532v2](http://arxiv.org/abs/2403.03532v2)|**[link](https://github.com/liuquan98/eyoc)**|
 |**2024-03-15**|**RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments**|Zhiqiang Chen et.al.|[2402.18934v2](http://arxiv.org/abs/2402.18934v2)|null|
 |**2024-02-28**|**PCR-99: A Practical Method for Point Cloud Registration with 99% Outliers**|Seong Hun Lee et.al.|[2402.16598v2](http://arxiv.org/abs/2402.16598v2)|**[link](https://github.com/sunghoon031/pcr-99)**|
 |**2024-02-23**|**CLIPPER+: A Fast Maximal Clique Algorithm for Robust Global Registration**|Kaveh Fathian et.al.|[2402.15464v1](http://arxiv.org/abs/2402.15464v1)|**[link](https://github.com/ariarobotics/clipperp)**|
@@ -723,7 +723,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794v1](http://arxiv.org/abs/2403.16794v1)|null|
+|**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794v1](http://arxiv.org/abs/2403.16794v1)|**[link](https://github.com/guoyangzhao/curbnet)**|
 |**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317v1](http://arxiv.org/abs/2403.12317v1)|null|
 |**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[2403.06538v1](http://arxiv.org/abs/2403.06538v1)|null|
 |**2024-03-11**|**Refining Segmentation On-the-Fly: An Interactive Framework for Point Cloud Semantic Segmentation**|Peng Zhang et.al.|[2403.06401v1](http://arxiv.org/abs/2403.06401v1)|null|
@@ -778,7 +778,7 @@ layout: default
 |**2024-03-26**|**WordRobe: Text-Guided Generation of Textured 3D Garments**|Astitva Srivastava et.al.|[2403.17541v1](http://arxiv.org/abs/2403.17541v1)|null|
 |**2024-03-26**|**ILLUMINER: Instruction-tuned Large Language Models as Few-shot Intent Classifier and Slot Filler**|Paramita Mirza et.al.|[2403.17536v1](http://arxiv.org/abs/2403.17536v1)|**[link](https://github.com/opengptx/illuminer)**|
 |**2024-03-26**|**ELLEN: Extremely Lightly Supervised Learning For Efficient Named Entity Recognition**|Haris Riaz et.al.|[2403.17385v1](http://arxiv.org/abs/2403.17385v1)|**[link](https://github.com/hriaz17/ellen)**|
-|**2024-03-26**|**RoboDuet: A Framework Affording Mobile-Manipulation and Cross-Embodiment**|Guoping Pan et.al.|[2403.17367v1](http://arxiv.org/abs/2403.17367v1)|null|
+|**2024-03-27**|**RoboDuet: A Framework Affording Mobile-Manipulation and Cross-Embodiment**|Guoping Pan et.al.|[2403.17367v2](http://arxiv.org/abs/2403.17367v2)|null|
 |**2024-03-26**|**Extracting Biomedical Entities from Noisy Audio Transcripts**|Nima Ebadi et.al.|[2403.17363v1](http://arxiv.org/abs/2403.17363v1)|null|
 |**2024-03-25**|**Synthetic Data Generation and Joint Learning for Robust Code-Mixed Translation**|Kartik et.al.|[2403.16771v1](http://arxiv.org/abs/2403.16771v1)|null|
 |**2024-03-25**|**Skill Q-Network: Learning Adaptive Skill Ensemble for Mapless Navigation in Unknown Environments**|Hyunki Seong et.al.|[2403.16664v1](http://arxiv.org/abs/2403.16664v1)|null|

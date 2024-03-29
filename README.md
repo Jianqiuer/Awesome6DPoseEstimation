@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527v1](http://arxiv.org/abs/2403.19527v1)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791v1](http://arxiv.org/abs/2403.18791v1)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259v1](http://arxiv.org/abs/2403.18259v1)|null|
 |**2024-03-26**|**Mathematical Foundation and Corrections for Full Range Head Pose Estimation**|Huei-Chung Hu et.al.|[2403.18104v1](http://arxiv.org/abs/2403.18104v1)|null|
@@ -625,8 +626,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|**[link](https://github.com/dfki-av/sg-pgm)**|
 |**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040v1](http://arxiv.org/abs/2403.18040v1)|null|
-|**2024-03-24**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|unhong Zhao et.al.|[2403.15981v1](http://arxiv.org/abs/2403.15981v1)|null|
+|**2024-03-28**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|Junhong Zhao et.al.|[2403.15981v2](http://arxiv.org/abs/2403.15981v2)|null|
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085v1](http://arxiv.org/abs/2403.10085v1)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996v1](http://arxiv.org/abs/2403.09996v1)|null|
 |**2024-03-15**|**CLOSURE: Fast Quantification of Pose Uncertainty Sets**|Yihuai Gao et.al.|[2403.09990v1](http://arxiv.org/abs/2403.09990v1)|null|
@@ -738,6 +740,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation**|Chongkai Gao et.al.|[2403.19460v1](http://arxiv.org/abs/2403.19460v1)|null|
 |**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794v1](http://arxiv.org/abs/2403.16794v1)|**[link](https://github.com/guoyangzhao/curbnet)**|
 |**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317v1](http://arxiv.org/abs/2403.12317v1)|null|
 |**2024-03-11**|**3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data**|Xiting Zhao et.al.|[2403.06538v1](http://arxiv.org/abs/2403.06538v1)|null|
@@ -787,6 +790,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
+|**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
+|**2024-03-28**|**Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models**|Ang Lv et.al.|[2403.19521v1](http://arxiv.org/abs/2403.19521v1)|null|
+|**2024-03-28**|**On the Robustness of LDP Protocols for Numerical Attributes under Data Poisoning Attacks**|Xiaoguang Li et.al.|[2403.19510v1](http://arxiv.org/abs/2403.19510v1)|null|
+|**2024-03-28**|**IVLMap: Instance-Aware Visual Language Grounding for Consumer Robot Navigation**|Jiacui Huang et.al.|[2403.19336v1](http://arxiv.org/abs/2403.19336v1)|null|
+|**2024-03-28**|**Generate then Retrieve: Conversational Response Retrieval Using LLMs as Answer and Query Generators**|Zahra Abbasiantaeb et.al.|[2403.19302v1](http://arxiv.org/abs/2403.19302v1)|null|
+|**2024-03-27**|**Evaluating Large Language Models for Health-Related Text Classification Tasks with Public Social Media Data**|Yuting Guo et.al.|[2403.19031v1](http://arxiv.org/abs/2403.19031v1)|null|
+|**2024-03-27**|**Towards LLM-RecSys Alignment with Textual ID Learning**|Juntao Tan et.al.|[2403.19021v1](http://arxiv.org/abs/2403.19021v1)|**[link](https://github.com/agiresearch/idgenrec)**|
+|**2024-03-27**|**LORD: Large Models based Opposite Reward Design for Autonomous Driving**|Xin Ye et.al.|[2403.18965v1](http://arxiv.org/abs/2403.18965v1)|null|
+|**2024-03-27**|**Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models**|Keyan Guo et.al.|[2403.18957v1](http://arxiv.org/abs/2403.18957v1)|**[link](https://github.com/cactilab/ugcg-guard)**|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v2](http://arxiv.org/abs/2403.18807v2)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628v1](http://arxiv.org/abs/2403.18628v1)|null|

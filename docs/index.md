@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.28
+## Updated on 2024.03.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -776,14 +776,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814v1](http://arxiv.org/abs/2403.18814v1)|**[link](https://github.com/dvlab-research/minigemini)**|
-|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v1](http://arxiv.org/abs/2403.18807v1)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-03-28**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807v2](http://arxiv.org/abs/2403.18807v2)|**[link](https://github.com/aradhye2002/ecodepth)**|
 |**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628v1](http://arxiv.org/abs/2403.18628v1)|null|
 |**2024-03-27**|**$\mathrm{F^2Depth}$ : Self-supervised Indoor Monocular Depth Estimation via Optical Flow Consistency and Feature Map Synthesis**|Xiaotong Guo et.al.|[2403.18443v1](http://arxiv.org/abs/2403.18443v1)|null|
 |**2024-03-27**|**An Image Grid Can Be Worth a Video: Zero-shot Video Question Answering Using a VLM**|Wonkyun Kim et.al.|[2403.18406v1](http://arxiv.org/abs/2403.18406v1)|null|
 |**2024-03-27**|**Multi-Modal Contrastive Learning for Online Clinical Time-Series Applications**|Fabian Baldenweg et.al.|[2403.18316v1](http://arxiv.org/abs/2403.18316v1)|null|
 |**2024-03-27**|**Toward Interactive Regional Understanding in Vision-Large Language Models**|Jungbeom Lee et.al.|[2403.18260v1](http://arxiv.org/abs/2403.18260v1)|null|
 |**2024-03-27**|**Online Embedding Multi-Scale CLIP Features into 3D Maps**|Shun Taguchi et.al.|[2403.18178v1](http://arxiv.org/abs/2403.18178v1)|null|
-|**2024-03-26**|**Every Shot Counts: Using Exemplars for Repetition Counting in Videos**|Saptarshi Sinha et.al.|[2403.18074v1](http://arxiv.org/abs/2403.18074v1)|null|
+|**2024-03-26**|**Every Shot Counts: Using Exemplars for Repetition Counting in Videos**|Saptarshi Sinha et.al.|[2403.18074v1](http://arxiv.org/abs/2403.18074v1)|**[link](https://github.com/sinhasaptarshi/EveryShotCounts)**|
 |**2024-03-26**|**ShapeGrasp: Zero-Shot Task-Oriented Grasping with Large Language Models through Geometric Decomposition**|Samuel Li et.al.|[2403.18062v1](http://arxiv.org/abs/2403.18062v1)|null|
 |**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876v1](http://arxiv.org/abs/2403.17876v1)|**[link](https://github.com/andreeaiana/xmind)**|
 |**2024-03-26**|**A foundation model utilizing chest CT volumes and radiology reports for supervised-level zero-shot detection of abnormalities**|Ibrahim Ethem Hamamci et.al.|[2403.17834v1](http://arxiv.org/abs/2403.17834v1)|**[link](https://github.com/ibrahimethemhamamci/ct-clip)**|

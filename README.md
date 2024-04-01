@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Latent Embedding Clustering for Occlusion Robust Head Pose Estimation**|José Celestino et.al.|[2403.20251v1](http://arxiv.org/abs/2403.20251v1)|null|
+|**2024-03-29**|**A Unified Framework for Human-centric Point Cloud Video Understanding**|Yiteng Xu et.al.|[2403.20031v1](http://arxiv.org/abs/2403.20031v1)|null|
+|**2024-03-29**|**Video-Based Human Pose Regression via Decoupled Space-Time Aggregation**|Jijie He et.al.|[2403.19926v1](http://arxiv.org/abs/2403.19926v1)|**[link](https://github.com/zgspose/dsta)**|
 |**2024-03-28**|**Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**|Xiao Lin et.al.|[2403.19527v1](http://arxiv.org/abs/2403.19527v1)|**[link](https://github.com/leeiieeo/ag-pose)**|
 |**2024-03-27**|**Object Pose Estimation via the Aggregation of Diffusion Features**|Tianfu Wang et.al.|[2403.18791v1](http://arxiv.org/abs/2403.18791v1)|**[link](https://github.com/tianfu18/diff-feats-pose)**|
 |**2024-03-27**|**RoboKeyGen: Robot Pose and Joint Angles Estimation via Diffusion-based 3D Keypoint Generation**|Yang Tian et.al.|[2403.18259v1](http://arxiv.org/abs/2403.18259v1)|null|
@@ -790,6 +793,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-29**|**Learn "No" to Say "Yes" Better: Improving Vision-Language Models via Negations**|Jaisidh Singh et.al.|[2403.20312v1](http://arxiv.org/abs/2403.20312v1)|**[link](https://github.com/jaisidhsingh/con-clip)**|
+|**2024-03-29**|**MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation**|Taha Koleilat et.al.|[2403.20253v1](http://arxiv.org/abs/2403.20253v1)|null|
+|**2024-03-29**|**Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science**|Yazheng Yang et.al.|[2403.20208v1](http://arxiv.org/abs/2403.20208v1)|null|
+|**2024-03-29**|**The Impact of Prompts on Zero-Shot Detection of AI-Generated Text**|Kaito Taguchi et.al.|[2403.20127v1](http://arxiv.org/abs/2403.20127v1)|**[link](https://github.com/kaito25atugich/detector)**|
+|**2024-03-29**|**FreeSeg-Diff: Training-Free Open-Vocabulary Segmentation with Diffusion Models**|Barbara Toniella Corradini et.al.|[2403.20105v1](http://arxiv.org/abs/2403.20105v1)|null|
+|**2024-03-29**|**An Efficient Approach for Studying Cross-Lingual Transfer in Multilingual Language Models**|Fahim Faisal et.al.|[2403.20088v1](http://arxiv.org/abs/2403.20088v1)|**[link](https://github.com/ffaisal93/neg_inf)**|
+|**2024-03-28**|**X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization**|Anna Kukleva et.al.|[2403.19811v1](http://arxiv.org/abs/2403.19811v1)|**[link](https://github.com/annusha/xmic)**|
+|**2024-03-28**|**Zero-shot Prompt-based Video Encoder for Surgical Gesture Recognition**|Mingxing Rao et.al.|[2403.19786v1](http://arxiv.org/abs/2403.19786v1)|**[link](https://github.com/mx-ethan-rao/robotic_gesture_tools)**|
 |**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652v1](http://arxiv.org/abs/2403.19652v1)|null|
 |**2024-03-28**|**SAID-NeRF: Segmentation-AIDed NeRF for Depth Completion of Transparent Objects**|Avinash Ummadisingu et.al.|[2403.19607v1](http://arxiv.org/abs/2403.19607v1)|null|
 |**2024-03-28**|**Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models**|Ang Lv et.al.|[2403.19521v1](http://arxiv.org/abs/2403.19521v1)|null|

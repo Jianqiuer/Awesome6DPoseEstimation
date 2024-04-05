@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518v1](http://arxiv.org/abs/2404.03518v1)|**[link](https://github.com/martyrpenink/sdpose)**|
+|**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256v1](http://arxiv.org/abs/2404.03256v1)|null|
+|**2024-04-04**|**HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**|Wencan Cheng et.al.|[2404.03159v1](http://arxiv.org/abs/2404.03159v1)|**[link](https://github.com/cwc1260/handdiff)**|
 |**2024-04-03**|**Fusing Multi-sensor Input with State Information on TinyML Brains for Autonomous Nano-drones**|Luca Crupi et.al.|[2404.02567v1](http://arxiv.org/abs/2404.02567v1)|null|
 |**2024-04-03**|**Semi-Supervised Unconstrained Head Pose Estimation in the Wild**|Huayi Zhou et.al.|[2404.02544v1](http://arxiv.org/abs/2404.02544v1)|**[link](https://github.com/hnuzhy/semiuhpe)**|
 |**2024-04-02**|**3D Congealing: 3D-Aware Image Alignment in the Wild**|Yunzhi Zhang et.al.|[2404.02125v1](http://arxiv.org/abs/2404.02125v1)|null|
@@ -743,6 +746,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
 |**2024-03-28**|**RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation**|Chongkai Gao et.al.|[2403.19460v1](http://arxiv.org/abs/2403.19460v1)|null|
 |**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794v1](http://arxiv.org/abs/2403.16794v1)|**[link](https://github.com/guoyangzhao/curbnet)**|
 |**2024-03-18**|**EffiPerception: an Efficient Framework for Various Perception Tasks**|Xinhao Xiang et.al.|[2403.12317v1](http://arxiv.org/abs/2403.12317v1)|null|
@@ -791,6 +795,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
+|**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
+|**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618v1](http://arxiv.org/abs/2404.03618v1)|null|
+|**2024-04-04**|**Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity**|Jake Varley et.al.|[2404.03570v1](http://arxiv.org/abs/2404.03570v1)|null|
+|**2024-04-04**|**LongVLM: Efficient Long Video Understanding via Large Language Models**|Yuetian Weng et.al.|[2404.03384v1](http://arxiv.org/abs/2404.03384v1)|null|
+|**2024-04-04**|**Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks**|Lei Zhang et.al.|[2404.03340v1](http://arxiv.org/abs/2404.03340v1)|null|
+|**2024-04-04**|**RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis**|Detai Xin et.al.|[2404.03204v1](http://arxiv.org/abs/2404.03204v1)|null|
+|**2024-04-04**|**Diverse and Tailored Image Generation for Zero-shot Multi-label Classification**|Kaixin Zhang et.al.|[2404.03144v1](http://arxiv.org/abs/2404.03144v1)|null|
+|**2024-04-03**|**GPT-DETOX: An In-Context Learning-Based Paraphraser for Text Detoxification**|Ali Pesaranghader et.al.|[2404.03052v1](http://arxiv.org/abs/2404.03052v1)|null|
 |**2024-04-03**|**Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction**|Keyu Tian et.al.|[2404.02905v1](http://arxiv.org/abs/2404.02905v1)|**[link](https://github.com/FoundationVision/VAR)**|
 |**2024-04-03**|**CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech**|Jaehyeon Kim et.al.|[2404.02781v1](http://arxiv.org/abs/2404.02781v1)|null|
 |**2024-04-03**|**Automatic Prompt Selection for Large Language Models**|Viet-Tung Do et.al.|[2404.02717v1](http://arxiv.org/abs/2404.02717v1)|null|

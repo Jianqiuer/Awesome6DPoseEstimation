@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**ToolEENet: Tool Affordance 6D Pose Estimation**|Yunlong Wang et.al.|[2404.04193v1](http://arxiv.org/abs/2404.04193v1)|null|
 |**2024-04-04**|**SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation**|Sichen Chen et.al.|[2404.03518v1](http://arxiv.org/abs/2404.03518v1)|**[link](https://github.com/martyrpenink/sdpose)**|
 |**2024-04-04**|**Multi Positive Contrastive Learning with Pose-Consistent Generated Images**|Sho Inayoshi et.al.|[2404.03256v1](http://arxiv.org/abs/2404.03256v1)|null|
 |**2024-04-04**|**HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**|Wencan Cheng et.al.|[2404.03159v1](http://arxiv.org/abs/2404.03159v1)|**[link](https://github.com/cwc1260/handdiff)**|
@@ -807,6 +808,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242v1](http://arxiv.org/abs/2404.04242v1)|null|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169v1](http://arxiv.org/abs/2404.04169v1)|null|
+|**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić et.al.|[2404.04072v1](http://arxiv.org/abs/2404.04072v1)|**[link](https://github.com/vladan-stojnic/zlap)**|
+|**2024-04-05**|**Forget NLI, Use a Dictionary: Zero-Shot Topic Classification for Low-Resource Languages with Application to Luxembourgish**|Fred Philippy et.al.|[2404.03912v1](http://arxiv.org/abs/2404.03912v1)|**[link](https://github.com/fredxlpy/letz)**|
+|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906v1](http://arxiv.org/abs/2404.03906v1)|null|
+|**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869v1](http://arxiv.org/abs/2404.03869v1)|null|
+|**2024-04-04**|**GenQREnsemble: Zero-Shot LLM Ensemble Prompting for Generative Query Reformulation**|Kaustubh Dhole et.al.|[2404.03746v1](http://arxiv.org/abs/2404.03746v1)|null|
+|**2024-04-04**|**SHROOM-INDElab at SemEval-2024 Task 6: Zero- and Few-Shot LLM-Based Classification for Hallucination Detection**|Bradley P. Allen et.al.|[2404.03732v1](http://arxiv.org/abs/2404.03732v1)|**[link](https://github.com/bradleypallen/shroom)**|
 |**2024-04-04**|**Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning**|Rui Li et.al.|[2404.03658v1](http://arxiv.org/abs/2404.03658v1)|**[link](https://github.com/ruili3/Know-Your-Neighbors)**|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
 |**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618v1](http://arxiv.org/abs/2404.03618v1)|null|

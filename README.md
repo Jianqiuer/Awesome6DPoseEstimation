@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Measuring proximity to standard planes during fetal brain ultrasound scanning**|Chiara Di Vece et.al.|[2404.07124v1](http://arxiv.org/abs/2404.07124v1)|null|
+|**2024-04-10**|**MoCap-to-Visual Domain Adaptation for Efficient Human Mesh Estimation from 2D Keypoints**|Bedirhan Uguz et.al.|[2404.07094v1](http://arxiv.org/abs/2404.07094v1)|null|
+|**2024-04-10**|**Gaussian-LIC: Photo-realistic LiDAR-Inertial-Camera SLAM with 3D Gaussian Splatting**|Xiaolei Lang et.al.|[2404.06926v1](http://arxiv.org/abs/2404.06926v1)|null|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337v1](http://arxiv.org/abs/2404.06337v1)|null|
 |**2024-04-09**|**Incremental Joint Learning of Depth, Pose and Implicit Scene Representation on Monocular Camera in Large-scale Scenes**|Tianchen Deng et.al.|[2404.06050v1](http://arxiv.org/abs/2404.06050v1)|null|
 |**2024-04-08**|**Learning 3D-Aware GANs from Unposed Images with Template Feature Field**|Xinya Chen et.al.|[2404.05705v1](http://arxiv.org/abs/2404.05705v1)|null|
@@ -819,6 +822,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-10**|**Zero-shot Logical Query Reasoning on any Knowledge Graph**|Mikhail Galkin et.al.|[2404.07198v1](http://arxiv.org/abs/2404.07198v1)|null|
+|**2024-04-10**|**Unified Language-driven Zero-shot Domain Adaptation**|Senqiao Yang et.al.|[2404.07155v1](http://arxiv.org/abs/2404.07155v1)|null|
+|**2024-04-10**|**A Computational Analysis of the Dehumanisation of Migrants from Syria and Ukraine in Slovene News Media**|Jaya Caporusso et.al.|[2404.07036v1](http://arxiv.org/abs/2404.07036v1)|null|
+|**2024-04-10**|**FiP: a Fixed-Point Approach for Causal Generative Modeling**|Meyer Scetbon et.al.|[2404.06969v1](http://arxiv.org/abs/2404.06969v1)|null|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814v1](http://arxiv.org/abs/2404.06814v1)|null|
+|**2024-04-10**|**Efficient and Scalable Chinese Vector Font Generation via Component Composition**|Jinyu Song et.al.|[2404.06779v1](http://arxiv.org/abs/2404.06779v1)|null|
+|**2024-04-10**|**CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations**|Leying Zhang et.al.|[2404.06690v1](http://arxiv.org/abs/2404.06690v1)|null|
+|**2024-04-10**|**VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing**|Philip Anastassiou et.al.|[2404.06674v1](http://arxiv.org/abs/2404.06674v1)|null|
+|**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v1](http://arxiv.org/abs/2404.06638v1)|null|
+|**2024-04-09**|**GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis**|Srikumar Sastry et.al.|[2404.06637v1](http://arxiv.org/abs/2404.06637v1)|**[link](https://github.com/mvrl/geosynth)**|
 |**2024-04-10**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|
 |**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425v1](http://arxiv.org/abs/2404.06425v1)|null|
 |**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v1](http://arxiv.org/abs/2404.06362v1)|null|

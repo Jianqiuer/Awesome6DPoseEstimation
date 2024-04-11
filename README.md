@@ -1,4 +1,4 @@
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -643,7 +643,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -651,7 +651,7 @@
 |---|---|---|---|---|
 |**2024-04-09**|**Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search**|Tianyu Huang et.al.|[2404.06155v1](http://arxiv.org/abs/2404.06155v1)|**[link](https://github.com/tyhuang98/here-release)**|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
-|**2024-04-06**|**Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes**|Zhiyuan Yu et.al.|[2404.04557v1](http://arxiv.org/abs/2404.04557v1)|**[link](https://github.com/zhiyuanyu134/miretr)**|
+|**2024-04-06**|**Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes**|Zhiyuan Yu et.al.|[2404.04557v1](http://arxiv.org/abs/2404.04557v1)|null|
 |**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404v1](http://arxiv.org/abs/2404.04404v1)|null|
 |**2024-04-01**|**FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features**|Keisuke Sugiura et.al.|[2404.01237v1](http://arxiv.org/abs/2404.01237v1)|null|
 |**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|**[link](https://github.com/dfki-av/sg-pgm)**|
@@ -762,7 +762,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -813,13 +813,13 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v1](http://arxiv.org/abs/2404.06479v1)|null|
+|**2024-04-10**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|
 |**2024-04-09**|**ZeST: Zero-Shot Material Transfer from a Single Image**|Ta-Ying Cheng et.al.|[2404.06425v1](http://arxiv.org/abs/2404.06425v1)|null|
 |**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362v1](http://arxiv.org/abs/2404.06362v1)|null|
 |**2024-04-09**|**Audio-Visual Generalized Zero-Shot Learning using Pre-Trained Large Multi-Modal Models**|David Kurzendörfer et.al.|[2404.06309v1](http://arxiv.org/abs/2404.06309v1)|**[link](https://github.com/dkurzend/clipclap-gzsl)**|
@@ -828,7 +828,7 @@
 |**2024-04-09**|**Low-Cost Generation and Evaluation of Dictionary Example Sentences**|Bill Cai et.al.|[2404.06224v1](http://arxiv.org/abs/2404.06224v1)|null|
 |**2024-04-09**|**Zero-Shot Relational Learning for Multimodal Knowledge Graphs**|Rui Cai et.al.|[2404.06220v1](http://arxiv.org/abs/2404.06220v1)|null|
 |**2024-04-09**|**The impact of data set similarity and diversity on transfer learning success in time series forecasting**|Claudia Ehrig et.al.|[2404.06198v1](http://arxiv.org/abs/2404.06198v1)|null|
-|**2024-04-09**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194v1](http://arxiv.org/abs/2404.06194v1)|**[link](https://github.com/ltttpku/cmd-se-release)**|
+|**2024-04-10**|**Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**|Ting Lei et.al.|[2404.06194v2](http://arxiv.org/abs/2404.06194v2)|**[link](https://github.com/ltttpku/cmd-se-release)**|
 |**2024-04-08**|**A Large-Scale Exploration of $μ$ -Transfer**|Lucas Lingle et.al.|[2404.05728v1](http://arxiv.org/abs/2404.05728v1)|null|
 |**2024-04-08**|**Language-Independent Representations Improve Zero-Shot Summarization**|Vladimir Solovyev et.al.|[2404.05720v1](http://arxiv.org/abs/2404.05720v1)|null|
 |**2024-04-08**|**Humanoid-Gym: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer**|Xinyang Gu et.al.|[2404.05695v1](http://arxiv.org/abs/2404.05695v1)|null|
@@ -2390,5 +2390,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240411>back to top</a>)</p>
 

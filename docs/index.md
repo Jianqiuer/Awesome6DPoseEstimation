@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -817,7 +817,7 @@ layout: default
 |**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814v1](http://arxiv.org/abs/2404.06814v1)|null|
 |**2024-04-10**|**Efficient and Scalable Chinese Vector Font Generation via Component Composition**|Jinyu Song et.al.|[2404.06779v1](http://arxiv.org/abs/2404.06779v1)|null|
 |**2024-04-10**|**CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations**|Leying Zhang et.al.|[2404.06690v1](http://arxiv.org/abs/2404.06690v1)|null|
-|**2024-04-10**|**VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing**|Philip Anastassiou et.al.|[2404.06674v1](http://arxiv.org/abs/2404.06674v1)|null|
+|**2024-04-11**|**VoiceShop: A Unified Speech-to-Speech Framework for Identity-Preserving Zero-Shot Voice Editing**|Philip Anastassiou et.al.|[2404.06674v2](http://arxiv.org/abs/2404.06674v2)|null|
 |**2024-04-09**|**SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation**|Waqwoya Abebe et.al.|[2404.06638v1](http://arxiv.org/abs/2404.06638v1)|null|
 |**2024-04-09**|**GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis**|Srikumar Sastry et.al.|[2404.06637v1](http://arxiv.org/abs/2404.06637v1)|**[link](https://github.com/mvrl/geosynth)**|
 |**2024-04-10**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479v2](http://arxiv.org/abs/2404.06479v2)|null|

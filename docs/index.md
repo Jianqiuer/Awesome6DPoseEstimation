@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748v1](http://arxiv.org/abs/2404.09748v1)|null|
 |**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|null|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928v1](http://arxiv.org/abs/2404.08928v1)|**[link](https://github.com/parskatt/dedode)**|
-|**2024-04-12**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v1](http://arxiv.org/abs/2404.08504v1)|null|
+|**2024-04-16**|**3D Human Scan With A Moving Event Camera**|Kai Kohyama et.al.|[2404.08504v2](http://arxiv.org/abs/2404.08504v2)|null|
 |**2024-04-11**|**Separated Attention: An Improved Cycle GAN Based Under Water Image Enhancement Method**|Tashmoy Ghosh et.al.|[2404.07649v1](http://arxiv.org/abs/2404.07649v1)|null|
 |**2024-04-11**|**GLID: Pre-training a Generalist Encoder-Decoder Vision Model**|Jihao Liu et.al.|[2404.07603v1](http://arxiv.org/abs/2404.07603v1)|null|
 |**2024-04-10**|**Measuring proximity to standard planes during fetal brain ultrasound scanning**|Chiara Di Vece et.al.|[2404.07124v1](http://arxiv.org/abs/2404.07124v1)|null|
@@ -818,7 +818,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695v1](http://arxiv.org/abs/2404.09695v1)|null|
 |**2024-04-15**|**Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection**|Jiaqi Zhu et.al.|[2404.09654v1](http://arxiv.org/abs/2404.09654v1)|null|
-|**2024-04-15**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v1](http://arxiv.org/abs/2404.09640v1)|**[link](https://github.com/JethroJames/CREST)**|
+|**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v2](http://arxiv.org/abs/2404.09640v2)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-15**|**Inferring Behavior-Specific Context Improves Zero-Shot Generalization in Reinforcement Learning**|Tidiane Camaret Ndir et.al.|[2404.09521v1](http://arxiv.org/abs/2404.09521v1)|**[link](https://github.com/tidiane-camaret/contextual_rl_zero_shot)**|
 |**2024-04-15**|**Leveraging Temporal Contextualization for Video Action Recognition**|Minji Kim et.al.|[2404.09490v1](http://arxiv.org/abs/2404.09490v1)|null|
 |**2024-04-15**|**kNN-CLIP: Retrieval Enables Training-Free Segmentation on Continually Expanding Large Vocabularies**|Zhongrui Gui et.al.|[2404.09447v1](http://arxiv.org/abs/2404.09447v1)|null|

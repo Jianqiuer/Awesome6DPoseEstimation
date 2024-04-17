@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
+|**2024-04-16**|**The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement**|Gabriele Trivigno et.al.|[2404.10438v1](http://arxiv.org/abs/2404.10438v1)|null|
+|**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213v1](http://arxiv.org/abs/2404.10213v1)|null|
+|**2024-04-16**|**LWIRPOSE: A novel LWIR Thermal Image Dataset and Benchmark**|Avinash Upadhyay et.al.|[2404.10212v1](http://arxiv.org/abs/2404.10212v1)|**[link](https://github.com/avinres/lwirpose)**|
 |**2024-04-15**|**LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives**|Jiadi Cui et.al.|[2404.09748v1](http://arxiv.org/abs/2404.09748v1)|null|
 |**2024-04-14**|**In My Perspective, In My Hands: Accurate Egocentric 2D Hand Pose and Action Recognition**|Wiktor Mucha et.al.|[2404.09308v1](http://arxiv.org/abs/2404.09308v1)|null|
 |**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928v1](http://arxiv.org/abs/2404.08928v1)|**[link](https://github.com/parskatt/dedode)**|
@@ -767,6 +771,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation**|Iaroslav Melekhov et.al.|[2404.10699v1](http://arxiv.org/abs/2404.10699v1)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650v1](http://arxiv.org/abs/2404.03650v1)|null|
 |**2024-03-28**|**RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation**|Chongkai Gao et.al.|[2403.19460v1](http://arxiv.org/abs/2403.19460v1)|null|
 |**2024-03-25**|**CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation**|Guoyang Zhao et.al.|[2403.16794v1](http://arxiv.org/abs/2403.16794v1)|**[link](https://github.com/guoyangzhao/curbnet)**|
@@ -816,6 +821,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**Bootstrapping Linear Models for Fast Online Adaptation in Human-Agent Collaboration**|Benjamin A Newman et.al.|[2404.10733v1](http://arxiv.org/abs/2404.10733v1)|null|
+|**2024-04-16**|**MOWA: Multiple-in-One Image Warping Model**|Kang Liao et.al.|[2404.10716v1](http://arxiv.org/abs/2404.10716v1)|null|
+|**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704v1](http://arxiv.org/abs/2404.10704v1)|null|
+|**2024-04-16**|**Retrieval Augmented Verification : Unveiling Disinformation with Structured Representations for Zero-Shot Real-Time Evidence-guided Fact-Checking of Multi-modal Social media posts**|Arka Ujjal Dey et.al.|[2404.10702v1](http://arxiv.org/abs/2404.10702v1)|null|
+|**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626v1](http://arxiv.org/abs/2404.10626v1)|null|
+|**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
+|**2024-04-16**|**LLMs4OM: Matching Ontologies with Large Language Models**|Hamed Babaei Giglou et.al.|[2404.10317v1](http://arxiv.org/abs/2404.10317v1)|null|
+|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v1](http://arxiv.org/abs/2404.10312v1)|null|
+|**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228v1](http://arxiv.org/abs/2404.10228v1)|null|
+|**2024-04-15**|**Cross-Modal Self-Training: Aligning Images and Pointclouds to Learn Classification without Labels**|Amaya Dharmasiri et.al.|[2404.10146v1](http://arxiv.org/abs/2404.10146v1)|**[link](https://github.com/theamaya/crossmost)**|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695v1](http://arxiv.org/abs/2404.09695v1)|null|
 |**2024-04-15**|**Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection**|Jiaqi Zhu et.al.|[2404.09654v1](http://arxiv.org/abs/2404.09654v1)|null|
 |**2024-04-16**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640v2](http://arxiv.org/abs/2404.09640v2)|**[link](https://github.com/JethroJames/CREST)**|

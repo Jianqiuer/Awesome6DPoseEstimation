@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -828,7 +828,7 @@ layout: default
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626v1](http://arxiv.org/abs/2404.10626v1)|null|
 |**2024-04-16**|**Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences**|Seungwook Kim et.al.|[2404.10603v1](http://arxiv.org/abs/2404.10603v1)|null|
 |**2024-04-16**|**LLMs4OM: Matching Ontologies with Large Language Models**|Hamed Babaei Giglou et.al.|[2404.10317v1](http://arxiv.org/abs/2404.10317v1)|null|
-|**2024-04-16**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v1](http://arxiv.org/abs/2404.10312v1)|null|
+|**2024-04-17**|**OmniSSR: Zero-shot Omnidirectional Image Super-Resolution using Stable Diffusion Model**|Runyi Li et.al.|[2404.10312v2](http://arxiv.org/abs/2404.10312v2)|null|
 |**2024-04-16**|**Two-Stage Stance Labeling: User-Hashtag Heuristics with Graph Neural Networks**|Joshua Melton et.al.|[2404.10228v1](http://arxiv.org/abs/2404.10228v1)|null|
 |**2024-04-15**|**Cross-Modal Self-Training: Aligning Images and Pointclouds to Learn Classification without Labels**|Amaya Dharmasiri et.al.|[2404.10146v1](http://arxiv.org/abs/2404.10146v1)|**[link](https://github.com/theamaya/crossmost)**|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695v1](http://arxiv.org/abs/2404.09695v1)|null|

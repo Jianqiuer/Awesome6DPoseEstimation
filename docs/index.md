@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Kathakali Hand Gesture Recognition With Minimal Data**|Kavitha Raju et.al.|[2404.11205v1](http://arxiv.org/abs/2404.11205v1)|null|
+|**2024-04-17**|**GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement**|Linfang Zheng et.al.|[2404.11139v1](http://arxiv.org/abs/2404.11139v1)|null|
+|**2024-04-17**|**CorrNet+: Sign Language Recognition and Translation via Spatial-Temporal Correlation**|Lianyu Hu et.al.|[2404.11111v1](http://arxiv.org/abs/2404.11111v1)|**[link](https://github.com/hulianyuyy/corrnet_plus)**|
+|**2024-04-16**|**HumMUSS: Human Motion Understanding using State Space Models**|Arnab Kumar Mondal et.al.|[2404.10880v1](http://arxiv.org/abs/2404.10880v1)|null|
 |**2024-04-16**|**Invariant Kalman Filtering with Noise-Free Pseudo-Measurements**|Sven Goffin et.al.|[2404.10687v1](http://arxiv.org/abs/2404.10687v1)|null|
 |**2024-04-16**|**The Unreasonable Effectiveness of Pre-Trained Features for Camera Pose Refinement**|Gabriele Trivigno et.al.|[2404.10438v1](http://arxiv.org/abs/2404.10438v1)|null|
 |**2024-04-16**|**GaitPoint+: A Gait Recognition Network Incorporating Point Cloud Analysis and Recycling**|Huantao Ren et.al.|[2404.10213v1](http://arxiv.org/abs/2404.10213v1)|null|
@@ -821,6 +825,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Factorized Diffusion: Perceptual Illusions by Noise Decomposition**|Daniel Geng et.al.|[2404.11615v1](http://arxiv.org/abs/2404.11615v1)|null|
+|**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317v1](http://arxiv.org/abs/2404.11317v1)|null|
+|**2024-04-17**|**A Progressive Framework of Vision-language Knowledge Distillation and Alignment for Multilingual Scene**|Wenbo Zhang et.al.|[2404.11249v1](http://arxiv.org/abs/2404.11249v1)|null|
+|**2024-04-17**|**In-Context Learning State Vector with Inner and Momentum Optimization**|Dongfang Li et.al.|[2404.11225v1](http://arxiv.org/abs/2404.11225v1)|**[link](https://github.com/hitsz-tmg/icl-state-vector)**|
+|**2024-04-17**|**Small Language Models are Good Too: An Empirical Study of Zero-Shot Classification**|Pierre Lepagnol et.al.|[2404.11122v1](http://arxiv.org/abs/2404.11122v1)|null|
+|**2024-04-17**|**On the Causal Nature of Sentiment Analysis**|Zhiheng Lyu et.al.|[2404.11055v1](http://arxiv.org/abs/2404.11055v1)|**[link](https://github.com/cogito233/causal-sa)**|
+|**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046v1](http://arxiv.org/abs/2404.11046v1)|null|
+|**2024-04-16**|**Can Language Models Solve Olympiad Programming?**|Quan Shi et.al.|[2404.10952v1](http://arxiv.org/abs/2404.10952v1)|null|
+|**2024-04-16**|**Teaching a Multilingual Large Language Model to Understand Multilingual Speech via Multi-Instructional Training**|Pavel Denisov et.al.|[2404.10922v1](http://arxiv.org/abs/2404.10922v1)|**[link](https://github.com/akreal/bloomzmms)**|
+|**2024-04-16**|**Exploring Augmentation and Cognitive Strategies for AI based Synthetic Personae**|Rafael Arias Gonzalez et.al.|[2404.10890v1](http://arxiv.org/abs/2404.10890v1)|null|
 |**2024-04-16**|**Bootstrapping Linear Models for Fast Online Adaptation in Human-Agent Collaboration**|Benjamin A Newman et.al.|[2404.10733v1](http://arxiv.org/abs/2404.10733v1)|null|
 |**2024-04-16**|**MOWA: Multiple-in-One Image Warping Model**|Kang Liao et.al.|[2404.10716v1](http://arxiv.org/abs/2404.10716v1)|null|
 |**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704v1](http://arxiv.org/abs/2404.10704v1)|null|

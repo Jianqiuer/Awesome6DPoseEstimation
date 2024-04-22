@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440v1](http://arxiv.org/abs/2404.12440v1)|null|
 |**2024-04-18**|**Gait Recognition from Highly Compressed Videos**|Andrei Niculae et.al.|[2404.12183v1](http://arxiv.org/abs/2404.12183v1)|null|
 |**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144v1](http://arxiv.org/abs/2404.12144v1)|**[link](https://github.com/georgeretsi/mushroom-pose)**|
 |**2024-04-17**|**Kathakali Hand Gesture Recognition With Minimal Data**|Kavitha Raju et.al.|[2404.11205v1](http://arxiv.org/abs/2404.11205v1)|null|
@@ -827,6 +828,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043v1](http://arxiv.org/abs/2404.13043v1)|null|
+|**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033v1](http://arxiv.org/abs/2404.13033v1)|**[link](https://github.com/beyondguo/llm-tuning)**|
+|**2024-04-19**|**Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models**|Konstantinos Vilouras et.al.|[2404.12920v1](http://arxiv.org/abs/2404.12920v1)|null|
+|**2024-04-19**|**Zero-Shot Stitching in Reinforcement Learning using Relative Representations**|Antonio Pio Ricciardi et.al.|[2404.12917v1](http://arxiv.org/abs/2404.12917v1)|null|
+|**2024-04-19**|**Enabling Natural Zero-Shot Prompting on Encoder Models via Statement-Tuning**|Ahmed Elshabrawy et.al.|[2404.12897v1](http://arxiv.org/abs/2404.12897v1)|null|
+|**2024-04-19**|**ECOR: Explainable CLIP for Object Recognition**|Ali Rasekh et.al.|[2404.12839v1](http://arxiv.org/abs/2404.12839v1)|null|
+|**2024-04-19**|**How Far Can We Go with Practical Function-Level Program Repair?**|Jiahong Xiang et.al.|[2404.12833v1](http://arxiv.org/abs/2404.12833v1)|null|
+|**2024-04-19**|**The Solution for the CVPR2024 NICE Image Captioning Challenge**|Longfei Huang et.al.|[2404.12739v1](http://arxiv.org/abs/2404.12739v1)|null|
+|**2024-04-19**|**Show and Grasp: Few-shot Semantic Segmentation for Robot Grasping through Zero-shot Foundation Models**|Leonardo Barcellona et.al.|[2404.12717v1](http://arxiv.org/abs/2404.12717v1)|null|
+|**2024-04-19**|**Exploring Interactive Semantic Alignment for Efficient HOI Detection with Vision-language Model**|Jihao Dong et.al.|[2404.12678v1](http://arxiv.org/abs/2404.12678v1)|null|
 |**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342v1](http://arxiv.org/abs/2404.12342v1)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
 |**2024-04-18**|**Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment**|Zhaofeng Wu et.al.|[2404.12318v1](http://arxiv.org/abs/2404.12318v1)|null|
 |**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285v1](http://arxiv.org/abs/2404.12285v1)|null|

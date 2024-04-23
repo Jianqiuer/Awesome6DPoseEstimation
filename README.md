@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation**|Yonghao Dang et.al.|[2404.14025v1](http://arxiv.org/abs/2404.14025v1)|null|
+|**2024-04-22**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v1](http://arxiv.org/abs/2404.13896v1)|null|
+|**2024-04-21**|**Resampling-free Particle Filters in High-dimensions**|Akhilan Boopathy et.al.|[2404.13698v1](http://arxiv.org/abs/2404.13698v1)|null|
+|**2024-04-20**|**EC-SLAM: Real-time Dense Neural RGB-D SLAM System with Effectively Constrained Global Bundle Adjustment**|Guanghao Li et.al.|[2404.13346v1](http://arxiv.org/abs/2404.13346v1)|null|
 |**2024-04-18**|**Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds**|Oliver Lemke et.al.|[2404.12440v1](http://arxiv.org/abs/2404.12440v1)|null|
 |**2024-04-18**|**Gait Recognition from Highly Compressed Videos**|Andrei Niculae et.al.|[2404.12183v1](http://arxiv.org/abs/2404.12183v1)|null|
 |**2024-04-17**|**Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding**|George Retsinas et.al.|[2404.12144v1](http://arxiv.org/abs/2404.12144v1)|**[link](https://github.com/georgeretsi/mushroom-pose)**|
@@ -669,6 +673,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034v1](http://arxiv.org/abs/2404.14034v1)|null|
+|**2024-04-22**|**A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning**|Yu-Xin Zhang et.al.|[2404.13830v1](http://arxiv.org/abs/2404.13830v1)|null|
 |**2024-04-09**|**Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search**|Tianyu Huang et.al.|[2404.06155v1](http://arxiv.org/abs/2404.06155v1)|**[link](https://github.com/tyhuang98/here-release)**|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164v1](http://arxiv.org/abs/2404.05164v1)|null|
 |**2024-04-06**|**Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes**|Zhiyuan Yu et.al.|[2404.04557v1](http://arxiv.org/abs/2404.04557v1)|null|
@@ -840,6 +846,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
+|**2024-04-22**|**Zero-shot Cross-lingual Stance Detection via Adversarial Language Adaptation**|Bharathi A et.al.|[2404.14339v1](http://arxiv.org/abs/2404.14339v1)|null|
+|**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|
+|**2024-04-22**|**Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras**|Mhairi Dunion et.al.|[2404.14064v1](http://arxiv.org/abs/2404.14064v1)|**[link](https://github.com/uoe-agents/mvd)**|
+|**2024-04-22**|**Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**|Yingxuan Li et.al.|[2404.13993v1](http://arxiv.org/abs/2404.13993v1)|null|
+|**2024-04-22**|**Information Re-Organization Improves Reasoning in Large Language Models**|Xiaoxia Cheng et.al.|[2404.13985v1](http://arxiv.org/abs/2404.13985v1)|null|
+|**2024-04-22**|**Generating Attractive and Authentic Copywriting from Customer Reviews**|Yu-Xiang Lin et.al.|[2404.13906v1](http://arxiv.org/abs/2404.13906v1)|null|
+|**2024-04-21**|**BC-MRI-SEG: A Breast Cancer MRI Tumor Segmentation Benchmark**|Anthony Bilic et.al.|[2404.13756v1](http://arxiv.org/abs/2404.13756v1)|null|
+|**2024-04-21**|**PoseAnimate: Zero-shot high fidelity pose controllable character animation**|Bingwen Zhu et.al.|[2404.13680v1](http://arxiv.org/abs/2404.13680v1)|null|
+|**2024-04-21**|**FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization**|Zhaopeng Gu et.al.|[2404.13671v1](http://arxiv.org/abs/2404.13671v1)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043v1](http://arxiv.org/abs/2404.13043v1)|null|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033v1](http://arxiv.org/abs/2404.13033v1)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-19**|**Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models**|Konstantinos Vilouras et.al.|[2404.12920v1](http://arxiv.org/abs/2404.12920v1)|null|

@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
+|**2024-04-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al.|[2404.14885v1](http://arxiv.org/abs/2404.14885v1)|null|
+|**2024-04-23**|**Semi-supervised 2D Human Pose Estimation via Adaptive Keypoint Masking**|Kexin Meng et.al.|[2404.14835v1](http://arxiv.org/abs/2404.14835v1)|null|
+|**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|
 |**2024-04-22**|**DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation**|Yonghao Dang et.al.|[2404.14025v1](http://arxiv.org/abs/2404.14025v1)|null|
 |**2024-04-23**|**CT-NeRF: Incremental Optimizing Neural Radiance Field and Poses with Complex Trajectory**|Yunlong Ran et.al.|[2404.13896v2](http://arxiv.org/abs/2404.13896v2)|null|
 |**2024-04-21**|**Resampling-free Particle Filters in High-dimensions**|Akhilan Boopathy et.al.|[2404.13698v1](http://arxiv.org/abs/2404.13698v1)|null|
@@ -834,6 +838,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**ID-Animator: Zero-Shot Identity-Preserving Human Video Generation**|Xuanhua He et.al.|[2404.15275v1](http://arxiv.org/abs/2404.15275v1)|**[link](https://github.com/id-animator/id-animator)**|
+|**2024-04-23**|**CT-GLIP: 3D Grounded Language-Image Pretraining with CT Scans and Radiology Reports for Full-Body Scenarios**|Jingyang Lin et.al.|[2404.15272v1](http://arxiv.org/abs/2404.15272v1)|null|
+|**2024-04-23**|**From Parts to Whole: A Unified Reference Framework for Controllable Human Image Generation**|Zehuan Huang et.al.|[2404.15267v1](http://arxiv.org/abs/2404.15267v1)|null|
+|**2024-04-23**|**CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**|Weiyan Shi et.al.|[2404.15238v1](http://arxiv.org/abs/2404.15238v1)|**[link](https://github.com/salt-nlp/culturebank)**|
+|**2024-04-23**|**Re-Thinking Inverse Graphics With Large Language Models**|Peter Kulits et.al.|[2404.15228v1](http://arxiv.org/abs/2404.15228v1)|null|
+|**2024-04-23**|**Does Instruction Tuning Make LLMs More Consistent?**|Constanza Fierro et.al.|[2404.15206v1](http://arxiv.org/abs/2404.15206v1)|null|
+|**2024-04-23**|**Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**|Qihuang Zhong et.al.|[2404.14963v1](http://arxiv.org/abs/2404.14963v1)|null|
+|**2024-04-23**|**Visual-Augmented Dynamic Semantic Prototype for Generative Zero-Shot Learning**|Wenjin Hou et.al.|[2404.14808v1](http://arxiv.org/abs/2404.14808v1)|null|
+|**2024-04-23**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700v1](http://arxiv.org/abs/2404.14700v1)|null|
+|**2024-04-23**|**Pegasus-v1 Technical Report**|Raehyuk Jung et.al.|[2404.14687v1](http://arxiv.org/abs/2404.14687v1)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
 |**2024-04-22**|**Zero-shot Cross-lingual Stance Detection via Adversarial Language Adaptation**|Bharathi A et.al.|[2404.14339v1](http://arxiv.org/abs/2404.14339v1)|null|
 |**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|

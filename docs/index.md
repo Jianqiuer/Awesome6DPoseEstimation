@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-23**|**SMPLer: Taming Transformers for Monocular 3D Human Shape and Pose Estimation**|Xiangyu Xu et.al.|[2404.15276v1](http://arxiv.org/abs/2404.15276v1)|**[link](https://github.com/xuxy09/smpler)**|
-|**2024-04-23**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al.|[2404.14885v1](http://arxiv.org/abs/2404.14885v1)|null|
+|**2024-04-25**|**Domain adaptive pose estimation via multi-level alignment**|Yugan Chen et.al.|[2404.14885v2](http://arxiv.org/abs/2404.14885v2)|null|
 |**2024-04-23**|**Semi-supervised 2D Human Pose Estimation via Adaptive Keypoint Masking**|Kexin Meng et.al.|[2404.14835v1](http://arxiv.org/abs/2404.14835v1)|null|
 |**2024-04-23**|**UPose3D: Uncertainty-Aware 3D Human Pose Estimation with Cross-View and Temporal Cues**|Vandad Davoodnia et.al.|[2404.14634v1](http://arxiv.org/abs/2404.14634v1)|null|
 |**2024-04-22**|**DHRNet: A Dual-Path Hierarchical Relation Network for Multi-Person Pose Estimation**|Yonghao Dang et.al.|[2404.14025v1](http://arxiv.org/abs/2404.14025v1)|null|
@@ -847,7 +847,7 @@ layout: default
 |**2024-04-23**|**Does Instruction Tuning Make LLMs More Consistent?**|Constanza Fierro et.al.|[2404.15206v1](http://arxiv.org/abs/2404.15206v1)|null|
 |**2024-04-23**|**Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**|Qihuang Zhong et.al.|[2404.14963v1](http://arxiv.org/abs/2404.14963v1)|null|
 |**2024-04-23**|**Visual-Augmented Dynamic Semantic Prototype for Generative Zero-Shot Learning**|Wenjin Hou et.al.|[2404.14808v1](http://arxiv.org/abs/2404.14808v1)|null|
-|**2024-04-24**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700v2](http://arxiv.org/abs/2404.14700v2)|null|
+|**2024-04-25**|**FlashSpeech: Efficient Zero-Shot Speech Synthesis**|Zhen Ye et.al.|[2404.14700v3](http://arxiv.org/abs/2404.14700v3)|null|
 |**2024-04-23**|**Pegasus-v1 Technical Report**|Raehyuk Jung et.al.|[2404.14687v1](http://arxiv.org/abs/2404.14687v1)|null|
 |**2024-04-22**|**GeoDiffuser: Geometry-Based Image Editing with Diffusion Models**|Rahul Sajnani et.al.|[2404.14403v1](http://arxiv.org/abs/2404.14403v1)|null|
 |**2024-04-22**|**Zero-shot Cross-lingual Stance Detection via Adversarial Language Adaptation**|Bharathi A et.al.|[2404.14339v1](http://arxiv.org/abs/2404.14339v1)|null|

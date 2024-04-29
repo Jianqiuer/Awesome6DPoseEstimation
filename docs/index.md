@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**SLAM for Indoor Mapping of Wide Area Construction Environments**|Vincent Ress et.al.|[2404.17215v1](http://arxiv.org/abs/2404.17215v1)|null|
+|**2024-04-25**|**WheelPose: Data Synthesis Techniques to Improve Pose Estimation Performance on Wheelchair Users**|William Huang et.al.|[2404.17063v1](http://arxiv.org/abs/2404.17063v1)|**[link](https://github.com/hilab-open-source/wheelpose)**|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802v1](http://arxiv.org/abs/2404.16802v1)|null|
 |**2024-04-25**|**DeepKalPose: An Enhanced Deep-Learning Kalman Filter for Temporally Consistent Monocular Vehicle Pose Estimation**|Leandro Di Bella et.al.|[2404.16558v1](http://arxiv.org/abs/2404.16558v1)|null|
 |**2024-04-25**|**Efficient Solution of Point-Line Absolute Pose**|Petr Hruby et.al.|[2404.16552v1](http://arxiv.org/abs/2404.16552v1)|**[link](https://github.com/petrhruby97/efficient_absolute)**|
@@ -844,6 +846,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498v1](http://arxiv.org/abs/2404.17498v1)|null|
+|**2024-04-26**|**Prompting Techniques for Reducing Social Bias in LLMs through System 1 and System 2 Cognitive Processes**|Mahammed Kamruzzaman et.al.|[2404.17218v1](http://arxiv.org/abs/2404.17218v1)|null|
+|**2024-04-26**|**Prevalent Frequency of Emotional and Physical Symptoms in Social Anxiety using Zero Shot Classification: An Observational Study**|Muhammad Rizwan et.al.|[2404.17183v1](http://arxiv.org/abs/2404.17183v1)|null|
+|**2024-04-26**|**MovieChat+: Question-aware Sparse Memory for Long Video Question Answering**|Enxin Song et.al.|[2404.17176v1](http://arxiv.org/abs/2404.17176v1)|**[link](https://github.com/rese1f/MovieChat)**|
+|**2024-04-25**|**Evaluating Class Membership Relations in Knowledge Graphs using Large Language Models**|Bradley P. Allen et.al.|[2404.17000v1](http://arxiv.org/abs/2404.17000v1)|**[link](https://github.com/bradleypallen/evaluating-kg-class-memberships-using-llms)**|
 |**2024-04-25**|**The Third Monocular Depth Estimation Challenge**|Jaime Spencer et.al.|[2404.16831v1](http://arxiv.org/abs/2404.16831v1)|null|
 |**2024-04-25**|**AAPL: Adding Attributes to Prompt Learning for Vision-Language Models**|Gahyeon Kim et.al.|[2404.16804v1](http://arxiv.org/abs/2404.16804v1)|**[link](https://github.com/Gahyeonkim09/AAPL)**|
 |**2024-04-25**|**Embracing Diversity: Interpretable Zero-shot classification beyond one vector per class**|Mazda Moayeri et.al.|[2404.16717v1](http://arxiv.org/abs/2404.16717v1)|null|

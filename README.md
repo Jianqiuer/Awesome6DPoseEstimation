@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541v1](http://arxiv.org/abs/2404.19541v1)|null|
+|**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401v1](http://arxiv.org/abs/2404.19401v1)|null|
+|**2024-04-30**|**Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training**|Xingyu Song et.al.|[2404.19279v1](http://arxiv.org/abs/2404.19279v1)|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174v1](http://arxiv.org/abs/2404.19174v1)|null|
 |**2024-04-29**|**Self-Avatar Animation in Virtual Reality: Impact of Motion Signals Artifacts on the Full-Body Pose Reconstruction**|Antoine Maiorca et.al.|[2404.18628v1](http://arxiv.org/abs/2404.18628v1)|null|
 |**2024-04-29**|**Mesh-based Photorealistic and Real-time 3D Mapping for Robust Visual Perception of Autonomous Underwater Vehicle**|Jungwoo Lee et.al.|[2404.18395v1](http://arxiv.org/abs/2404.18395v1)|null|
 |**2024-04-29**|**Reconstructing Satellites in 3D from Amateur Telescope Images**|Zhiming Chang et.al.|[2404.18394v1](http://arxiv.org/abs/2404.18394v1)|null|
@@ -864,6 +868,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696v1](http://arxiv.org/abs/2404.19696v1)|null|
+|**2024-04-30**|**ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud**|Jiayi Han et.al.|[2404.19639v1](http://arxiv.org/abs/2404.19639v1)|null|
+|**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525v1](http://arxiv.org/abs/2404.19525v1)|**[link](https://github.com/ml-gsai/microdreamer)**|
+|**2024-04-30**|**InstantFamily: Masked Attention for Zero-shot Multi-ID Image Generation**|Chanran Kim et.al.|[2404.19427v1](http://arxiv.org/abs/2404.19427v1)|null|
+|**2024-04-30**|**CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation**|Weiquan Huang et.al.|[2404.19394v1](http://arxiv.org/abs/2404.19394v1)|**[link](https://github.com/raytrun/mamba-clip)**|
+|**2024-04-30**|**Soft Prompt Generation for Domain Generalization**|Shuanghao Bai et.al.|[2404.19286v1](http://arxiv.org/abs/2404.19286v1)|null|
+|**2024-04-30**|**DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets**|Xiaoyu Huang et.al.|[2404.19264v1](http://arxiv.org/abs/2404.19264v1)|null|
+|**2024-04-30**|**Understanding Multimodal Contrastive Learning Through Pointwise Mutual Information**|Toshimitsu Uesaka et.al.|[2404.19228v1](http://arxiv.org/abs/2404.19228v1)|null|
+|**2024-04-30**|**Transcrib3D: 3D Referring Expression Resolution through Large Language Models**|Jiading Fang et.al.|[2404.19221v1](http://arxiv.org/abs/2404.19221v1)|null|
+|**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217v1](http://arxiv.org/abs/2404.19217v1)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832v1](http://arxiv.org/abs/2404.18832v1)|null|
 |**2024-04-29**|**Adaptive Reinforcement Learning for Robot Control**|Yu Tang Liu et.al.|[2404.18713v1](http://arxiv.org/abs/2404.18713v1)|null|
 |**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695v1](http://arxiv.org/abs/2404.18695v1)|null|

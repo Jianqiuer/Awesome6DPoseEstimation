@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.01
+## Updated on 2024.05.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -865,7 +865,7 @@ layout: default
 |**2024-04-30**|**DiffuseLoco: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets**|Xiaoyu Huang et.al.|[2404.19264v1](http://arxiv.org/abs/2404.19264v1)|null|
 |**2024-04-30**|**Understanding Multimodal Contrastive Learning Through Pointwise Mutual Information**|Toshimitsu Uesaka et.al.|[2404.19228v1](http://arxiv.org/abs/2404.19228v1)|null|
 |**2024-04-30**|**Transcrib3D: 3D Referring Expression Resolution through Large Language Models**|Jiading Fang et.al.|[2404.19221v1](http://arxiv.org/abs/2404.19221v1)|null|
-|**2024-04-30**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217v1](http://arxiv.org/abs/2404.19217v1)|null|
+|**2024-05-01**|**FOTS: A Fast Optical Tactile Simulator for Sim2Real Learning of Tactile-motor Robot Manipulation Skills**|Yongqiang Zhao et.al.|[2404.19217v2](http://arxiv.org/abs/2404.19217v2)|null|
 |**2024-04-29**|**It's Difficult to be Neutral -- Human and LLM-based Sentiment Annotation of Patient Comments**|Petter Mæhlum et.al.|[2404.18832v1](http://arxiv.org/abs/2404.18832v1)|null|
 |**2024-04-29**|**Adaptive Reinforcement Learning for Robot Control**|Yu Tang Liu et.al.|[2404.18713v1](http://arxiv.org/abs/2404.18713v1)|null|
 |**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695v1](http://arxiv.org/abs/2404.18695v1)|null|

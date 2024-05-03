@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
+|**2024-05-02**|**Behavior Imitation for Manipulator Control and Grasping with Deep Reinforcement Learning**|Liu Qiyuan et.al.|[2405.01284v1](http://arxiv.org/abs/2405.01284v1)|null|
+|**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112v1](http://arxiv.org/abs/2405.01112v1)|null|
+|**2024-05-02**|**CoViS-Net: A Cooperative Visual Spatial Foundation Model for Multi-Robot Applications**|Jan Blumenkamp et.al.|[2405.01107v1](http://arxiv.org/abs/2405.01107v1)|null|
+|**2024-05-02**|**HandSSCA: 3D Hand Mesh Reconstruction with State Space Channel Attention from RGB images**|Zixun Jiao et.al.|[2405.01066v1](http://arxiv.org/abs/2405.01066v1)|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600v1](http://arxiv.org/abs/2405.00600v1)|null|
 |**2024-04-30**|**Ultra Inertial Poser: Scalable Motion Capture and Tracking from Sparse Inertial Sensors and Ultra-Wideband Ranging**|Rayan Armani et.al.|[2404.19541v1](http://arxiv.org/abs/2404.19541v1)|null|
 |**2024-04-30**|**UniFS: Universal Few-shot Instance Perception with Point Representations**|Sheng Jin et.al.|[2404.19401v1](http://arxiv.org/abs/2404.19401v1)|null|
@@ -857,6 +862,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation**|Homanga Bharadhwaj et.al.|[2405.01527v1](http://arxiv.org/abs/2405.01527v1)|null|
+|**2024-05-02**|**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation**|Yupeng Zhou et.al.|[2405.01434v1](http://arxiv.org/abs/2405.01434v1)|**[link](https://github.com/hvision-nku/storydiffusion)**|
+|**2024-05-02**|**Generative Relevance Feedback and Convergence of Adaptive Re-Ranking: University of Glasgow Terrier Team at TREC DL 2023**|Andrew Parry et.al.|[2405.01122v1](http://arxiv.org/abs/2405.01122v1)|null|
+|**2024-05-02**|**Learning Object States from Actions via Large Language Models**|Masatoshi Tateno et.al.|[2405.01090v1](http://arxiv.org/abs/2405.01090v1)|null|
+|**2024-05-02**|**MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts**|Jianan Zhou et.al.|[2405.01029v1](http://arxiv.org/abs/2405.01029v1)|**[link](https://github.com/royalskye/routing-mvmoe)**|
+|**2024-05-02**|**Technical Report of NICE Challenge at CVPR 2024: Caption Re-ranking Evaluation Using Ensembled CLIP and Consensus Scores**|Kiyoon Jeong et.al.|[2405.01028v1](http://arxiv.org/abs/2405.01028v1)|**[link](https://github.com/DSBA-Lab/ECO)**|
+|**2024-05-02**|**UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation**|Juhwan Choi et.al.|[2405.01022v1](http://arxiv.org/abs/2405.01022v1)|null|
 |**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611v1](http://arxiv.org/abs/2405.00611v1)|null|
 |**2024-05-01**|**EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model**|Deng Li et.al.|[2405.00574v1](http://arxiv.org/abs/2405.00574v1)|null|
 |**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571v1](http://arxiv.org/abs/2405.00571v1)|null|

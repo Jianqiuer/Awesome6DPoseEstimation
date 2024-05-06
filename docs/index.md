@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**WeightedPose: Generalizable Cross-Pose Estimation via Weighted SVD**|Xuxin Cheng et.al.|[2405.02241v1](http://arxiv.org/abs/2405.02241v1)|null|
+|**2024-05-03**|**Probablistic Restoration with Adaptive Noise Sampling for 3D Human Pose Estimation**|Xianzhou Zeng et.al.|[2405.02114v1](http://arxiv.org/abs/2405.02114v1)|**[link](https://github.com/xzhouzeng/prpose)**|
+|**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918v1](http://arxiv.org/abs/2405.01918v1)|null|
+|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673v1](http://arxiv.org/abs/2405.01673v1)|null|
 |**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
 |**2024-05-02**|**Behavior Imitation for Manipulator Control and Grasping with Deep Reinforcement Learning**|Liu Qiyuan et.al.|[2405.01284v1](http://arxiv.org/abs/2405.01284v1)|null|
 |**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112v1](http://arxiv.org/abs/2405.01112v1)|null|
@@ -862,6 +866,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266v1](http://arxiv.org/abs/2405.02266v1)|**[link](https://github.com/maxzanella/mta)**|
+|**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198v1](http://arxiv.org/abs/2405.02198v1)|null|
+|**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155v1](http://arxiv.org/abs/2405.02155v1)|null|
+|**2024-05-03**|**Argumentative Large Language Models for Explainable and Contestable Decision-Making**|Gabriel Freedman et.al.|[2405.02079v1](http://arxiv.org/abs/2405.02079v1)|null|
+|**2024-05-03**|**Exploring Combinatorial Problem Solving with Large Language Models: A Case Study on the Travelling Salesman Problem Using GPT-3.5 Turbo**|Mahmoud Masoud et.al.|[2405.01997v1](http://arxiv.org/abs/2405.01997v1)|null|
+|**2024-05-03**|**Understanding LLMs Requires More Than Statistical Generalization**|Patrik Reizinger et.al.|[2405.01964v1](http://arxiv.org/abs/2405.01964v1)|null|
+|**2024-05-03**|**Exploiting ChatGPT for Diagnosing Autism-Associated Language Disorders and Identifying Distinct Features**|Chuanbo Hu et.al.|[2405.01799v1](http://arxiv.org/abs/2405.01799v1)|null|
+|**2024-05-02**|**Large Language Models are Inconsistent and Biased Evaluators**|Rickard Stureborg et.al.|[2405.01724v1](http://arxiv.org/abs/2405.01724v1)|null|
+|**2024-05-02**|**Zero-Shot Monocular Motion Segmentation in the Wild by Combining Deep Learning with Geometric Motion Model Fusion**|Yuxiang Huang et.al.|[2405.01723v1](http://arxiv.org/abs/2405.01723v1)|null|
+|**2024-05-02**|**Requirements-driven Slicing of Simulink Models Using LLMs**|Dipeeka Luitel et.al.|[2405.01695v1](http://arxiv.org/abs/2405.01695v1)|null|
 |**2024-05-02**|**Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation**|Homanga Bharadhwaj et.al.|[2405.01527v1](http://arxiv.org/abs/2405.01527v1)|null|
 |**2024-05-02**|**StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation**|Yupeng Zhou et.al.|[2405.01434v1](http://arxiv.org/abs/2405.01434v1)|**[link](https://github.com/hvision-nku/storydiffusion)**|
 |**2024-05-02**|**Generative Relevance Feedback and Convergence of Adaptive Re-Ranking: University of Glasgow Terrier Team at TREC DL 2023**|Andrew Parry et.al.|[2405.01122v1](http://arxiv.org/abs/2405.01122v1)|**[link](https://github.com/Parry-Parry/terrier_trec_2023)**|

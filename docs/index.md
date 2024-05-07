@@ -7,10 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
+|**2024-05-06**|**Optimizing Hand Region Detection in MediaPipe Holistic Full-Body Pose Estimation to Improve Accuracy and Avoid Downstream Errors**|Amit Moryossef et.al.|[2405.03545v1](http://arxiv.org/abs/2405.03545v1)|**[link](https://github.com/sign-language-processing/mediapipe-hand-crop-fix)**|
+|**2024-05-05**|**Multi-hop graph transformer network for 3D human pose estimation**|Zaedul Islam et.al.|[2405.03055v1](http://arxiv.org/abs/2405.03055v1)|null|
+|**2024-05-05**|**Blending Distributed NeRFs with Tri-stage Robust Pose Optimization**|Baijun Ye et.al.|[2405.02880v1](http://arxiv.org/abs/2405.02880v1)|null|
 |**2024-05-03**|**WeightedPose: Generalizable Cross-Pose Estimation via Weighted SVD**|Xuxin Cheng et.al.|[2405.02241v1](http://arxiv.org/abs/2405.02241v1)|null|
 |**2024-05-03**|**Probablistic Restoration with Adaptive Noise Sampling for 3D Human Pose Estimation**|Xianzhou Zeng et.al.|[2405.02114v1](http://arxiv.org/abs/2405.02114v1)|**[link](https://github.com/xzhouzeng/prpose)**|
 |**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918v1](http://arxiv.org/abs/2405.01918v1)|null|
-|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673v1](http://arxiv.org/abs/2405.01673v1)|null|
+|**2024-05-06**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673v2](http://arxiv.org/abs/2405.01673v2)|null|
 |**2024-05-02**|**IntervenGen: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning**|Ryan Hoque et.al.|[2405.01472v1](http://arxiv.org/abs/2405.01472v1)|null|
 |**2024-05-02**|**Behavior Imitation for Manipulator Control and Grasping with Deep Reinforcement Learning**|Liu Qiyuan et.al.|[2405.01284v1](http://arxiv.org/abs/2405.01284v1)|null|
 |**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112v1](http://arxiv.org/abs/2405.01112v1)|null|
@@ -696,6 +700,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery**|Maximilian Weber et.al.|[2405.03314v1](http://arxiv.org/abs/2405.03314v1)|null|
 |**2024-04-27**|**FRAME: A Modular Framework for Autonomous Map-merging: Advancements in the Field**|Nikolaos Stathoulopoulos et.al.|[2404.18006v1](http://arxiv.org/abs/2404.18006v1)|null|
 |**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034v1](http://arxiv.org/abs/2404.14034v1)|null|
 |**2024-04-22**|**A Comprehensive Survey and Taxonomy on Point Cloud Registration Based on Deep Learning**|Yu-Xin Zhang et.al.|[2404.13830v1](http://arxiv.org/abs/2404.13830v1)|**[link](https://github.com/yxzhang15/pcr)**|
@@ -866,6 +871,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
+|**2024-05-06**|**CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification**|Sankalp Sinha et.al.|[2405.03660v1](http://arxiv.org/abs/2405.03660v1)|null|
+|**2024-05-06**|**Dual Relation Mining Network for Zero-Shot Learning**|Jinwei Han et.al.|[2405.03613v1](http://arxiv.org/abs/2405.03613v1)|null|
+|**2024-05-06**|**Liberating Seen Classes: Boosting Few-Shot and Zero-Shot Text Classification via Anchor Generation and Classification Reframing**|Han Liu et.al.|[2405.03565v1](http://arxiv.org/abs/2405.03565v1)|null|
+|**2024-05-06**|**AntiFold: Improved antibody structure-based design using inverse folding**|Magnus Haraldson Høie et.al.|[2405.03370v1](http://arxiv.org/abs/2405.03370v1)|null|
+|**2024-05-06**|**Enhancing Q-Learning with Large Language Model Heuristics**|Xiefeng Wu et.al.|[2405.03341v1](http://arxiv.org/abs/2405.03341v1)|null|
+|**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190v1](http://arxiv.org/abs/2405.03190v1)|null|
+|**2024-05-06**|**Quantifying the Capabilities of LLMs across Scale and Precision**|Sher Badshah et.al.|[2405.03146v1](http://arxiv.org/abs/2405.03146v1)|null|
+|**2024-05-05**|**Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training**|Wenyu Zhang et.al.|[2405.02954v1](http://arxiv.org/abs/2405.02954v1)|null|
+|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951v1](http://arxiv.org/abs/2405.02951v1)|**[link](https://github.com/miccunifi/searle)**|
 |**2024-05-03**|**On the test-time zero-shot generalization of vision-language models: Do we really need prompt learning?**|Maxime Zanella et.al.|[2405.02266v1](http://arxiv.org/abs/2405.02266v1)|**[link](https://github.com/maxzanella/mta)**|
 |**2024-05-03**|**The Cambridge RoboMaster: An Agile Multi-Robot Research Platform**|Jan Blumenkamp et.al.|[2405.02198v1](http://arxiv.org/abs/2405.02198v1)|null|
 |**2024-05-03**|**Multi-method Integration with Confidence-based Weighting for Zero-shot Image Classification**|Siqi Yin et.al.|[2405.02155v1](http://arxiv.org/abs/2405.02155v1)|null|

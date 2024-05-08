@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
+|**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969v1](http://arxiv.org/abs/2405.03969v1)|null|
+|**2024-05-07**|**Joint Estimation of Identity Verification and Relative Pose for Partial Fingerprints**|Xiongjun Guan et.al.|[2405.03959v1](http://arxiv.org/abs/2405.03959v1)|null|
 |**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
 |**2024-05-06**|**Optimizing Hand Region Detection in MediaPipe Holistic Full-Body Pose Estimation to Improve Accuracy and Avoid Downstream Errors**|Amit Moryossef et.al.|[2405.03545v1](http://arxiv.org/abs/2405.03545v1)|**[link](https://github.com/sign-language-processing/mediapipe-hand-crop-fix)**|
 |**2024-05-05**|**Multi-hop graph transformer network for 3D human pose estimation**|Zaedul Islam et.al.|[2405.03055v1](http://arxiv.org/abs/2405.03055v1)|null|
@@ -700,6 +703,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969v1](http://arxiv.org/abs/2405.03969v1)|null|
 |**2024-05-06**|**Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery**|Maximilian Weber et.al.|[2405.03314v1](http://arxiv.org/abs/2405.03314v1)|null|
 |**2024-04-27**|**FRAME: A Modular Framework for Autonomous Map-merging: Advancements in the Field**|Nikolaos Stathoulopoulos et.al.|[2404.18006v1](http://arxiv.org/abs/2404.18006v1)|null|
 |**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034v1](http://arxiv.org/abs/2404.14034v1)|null|
@@ -871,6 +875,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore**|Junchao Wu et.al.|[2405.04286v1](http://arxiv.org/abs/2405.04286v1)|null|
+|**2024-05-07**|**MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization**|Gunjan Balde et.al.|[2405.04163v1](http://arxiv.org/abs/2405.04163v1)|**[link](https://github.com/gb-kgp/medvoc)**|
+|**2024-05-06**|**VSA4VQA: Scaling a Vector Symbolic Architecture to Visual Question Answering on Natural Images**|Anna Penzkofer et.al.|[2405.03852v1](http://arxiv.org/abs/2405.03852v1)|null|
+|**2024-05-06**|**Tilt your Head: Activating the Hidden Spatial-Invariance of Classifiers**|Johann Schmidt et.al.|[2405.03730v1](http://arxiv.org/abs/2405.03730v1)|null|
 |**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689v1](http://arxiv.org/abs/2405.03689v1)|null|
 |**2024-05-06**|**CICA: Content-Injected Contrastive Alignment for Zero-Shot Document Image Classification**|Sankalp Sinha et.al.|[2405.03660v1](http://arxiv.org/abs/2405.03660v1)|null|
 |**2024-05-06**|**Dual Relation Mining Network for Zero-Shot Learning**|Jinwei Han et.al.|[2405.03613v1](http://arxiv.org/abs/2405.03613v1)|null|

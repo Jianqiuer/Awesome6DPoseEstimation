@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**FinePOSE: Fine-Grained Prompt-Driven 3D Human Pose Estimation via Diffusion Models**|Jinglin Xu et.al.|[2405.05216v1](http://arxiv.org/abs/2405.05216v1)|**[link](https://github.com/PKU-ICST-MIPL/FinePOSE_CVPR2024)**|
+|**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164v1](http://arxiv.org/abs/2405.05164v1)|null|
+|**2024-05-08**|**GISR: Geometric Initialization and Silhouette-based Refinement for Single-View Robot Pose and Configuration Estimation**|Ivan Bilić et.al.|[2405.04890v1](http://arxiv.org/abs/2405.04890v1)|null|
+|**2024-05-07**|**Learning Distributional Demonstration Spaces for Task-Specific Cross-Pose Estimation**|Jenny Wang et.al.|[2405.04609v1](http://arxiv.org/abs/2405.04609v1)|null|
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290v1](http://arxiv.org/abs/2405.04290v1)|null|
 |**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969v1](http://arxiv.org/abs/2405.03969v1)|null|
 |**2024-05-07**|**Joint Estimation of Identity Verification and Relative Pose for Partial Fingerprints**|Xiongjun Guan et.al.|[2405.03959v1](http://arxiv.org/abs/2405.03959v1)|null|
@@ -875,6 +879,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Zero-shot LLM-guided Counterfactual Generation for Text**|Amrita Bhattacharjee et.al.|[2405.04793v1](http://arxiv.org/abs/2405.04793v1)|null|
+|**2024-05-08**|**DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector**|Kaiyu Li et.al.|[2405.04788v1](http://arxiv.org/abs/2405.04788v1)|**[link](https://github.com/likyoo/diffmatch)**|
+|**2024-05-08**|**Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection**|Zhaoxiang Zhang et.al.|[2405.04782v1](http://arxiv.org/abs/2405.04782v1)|null|
+|**2024-05-08**|**Exploring Vision Transformers for 3D Human Motion-Language Models with Motion Patches**|Qing Yu et.al.|[2405.04771v1](http://arxiv.org/abs/2405.04771v1)|null|
+|**2024-05-08**|**AttacKG+:Boosting Attack Knowledge Graph Construction with Large Language Models**|Yongheng Zhang et.al.|[2405.04753v1](http://arxiv.org/abs/2405.04753v1)|null|
+|**2024-05-08**|**All in One Framework for Multimodal Re-identification in the Wild**|He Li et.al.|[2405.04741v1](http://arxiv.org/abs/2405.04741v1)|null|
+|**2024-05-07**|**SingIt! Singer Voice Transformation**|Amit Eliav et.al.|[2405.04627v1](http://arxiv.org/abs/2405.04627v1)|null|
 |**2024-05-07**|**Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore**|Junchao Wu et.al.|[2405.04286v1](http://arxiv.org/abs/2405.04286v1)|null|
 |**2024-05-07**|**MEDVOC: Vocabulary Adaptation for Fine-tuning Pre-trained Language Models on Medical Text Summarization**|Gunjan Balde et.al.|[2405.04163v1](http://arxiv.org/abs/2405.04163v1)|**[link](https://github.com/gb-kgp/medvoc)**|
 |**2024-05-06**|**VSA4VQA: Scaling a Vector Symbolic Architecture to Visual Question Answering on Natural Images**|Anna Penzkofer et.al.|[2405.03852v1](http://arxiv.org/abs/2405.03852v1)|null|

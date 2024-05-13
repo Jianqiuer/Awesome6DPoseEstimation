@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.05.12
+## Updated on 2024.05.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-09**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858v1](http://arxiv.org/abs/2405.05858v1)|null|
+|**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858v2](http://arxiv.org/abs/2405.05858v2)|null|
 |**2024-05-09**|**Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**|Huanyu Tian et.al.|[2405.05817v1](http://arxiv.org/abs/2405.05817v1)|null|
 |**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807v1](http://arxiv.org/abs/2405.05807v1)|null|
 |**2024-05-09**|**Benchmarking Neural Radiance Fields for Autonomous Robots: An Overview**|Yuhang Ming et.al.|[2405.05526v1](http://arxiv.org/abs/2405.05526v1)|null|

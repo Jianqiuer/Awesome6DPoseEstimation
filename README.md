@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
 |**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858v2](http://arxiv.org/abs/2405.05858v2)|null|
 |**2024-05-09**|**Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**|Huanyu Tian et.al.|[2405.05817v1](http://arxiv.org/abs/2405.05817v1)|null|
 |**2024-05-09**|**NeuRSS: Enhancing AUV Localization and Bathymetric Mapping with Neural Rendering for Sidescan SLAM**|Yiping Xie et.al.|[2405.05807v1](http://arxiv.org/abs/2405.05807v1)|null|
@@ -720,6 +721,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279v1](http://arxiv.org/abs/2405.06279v1)|null|
 |**2024-05-09**|**Rotation Initialization and Stepwise Refinement for Universal LiDAR Calibration**|Yifan Duan et.al.|[2405.05589v1](http://arxiv.org/abs/2405.05589v1)|null|
 |**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969v1](http://arxiv.org/abs/2405.03969v1)|null|
 |**2024-05-06**|**Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery**|Maximilian Weber et.al.|[2405.03314v1](http://arxiv.org/abs/2405.03314v1)|null|
@@ -897,6 +899,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|null|
+|**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468v1](http://arxiv.org/abs/2405.06468v1)|null|
+|**2024-05-10**|**Decoding Emotions in Abstract Art: Cognitive Plausibility of CLIP in Recognizing Color-Emotion Associations**|Hanna-Sophia Widhoelzl et.al.|[2405.06319v1](http://arxiv.org/abs/2405.06319v1)|null|
+|**2024-05-10**|**XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare**|Fatemeh Nazary et.al.|[2405.06270v1](http://arxiv.org/abs/2405.06270v1)|null|
+|**2024-05-10**|**HC $^2$ L: Hybrid and Cooperative Contrastive Learning for Cross-lingual Spoken Language Understanding**|Bowen Xing et.al.|[2405.06204v1](http://arxiv.org/abs/2405.06204v1)|null|
+|**2024-05-10**|**Zero-shot Degree of Ill-posedness Estimation for Active Small Object Change Detection**|Koji Takeda et.al.|[2405.06185v1](http://arxiv.org/abs/2405.06185v1)|null|
+|**2024-05-09**|**Scalable Learning of Segment-Level Traffic Congestion Functions**|Shushman Choudhury et.al.|[2405.06080v1](http://arxiv.org/abs/2405.06080v1)|null|
+|**2024-05-09**|**A Minimalist Prompt for Zero-Shot Policy Learning**|Meng Song et.al.|[2405.06063v1](http://arxiv.org/abs/2405.06063v1)|null|
+|**2024-05-09**|**A Mixture-of-Experts Approach to Few-Shot Task Transfer in Open-Ended Text Worlds**|Christopher Z. Cui et.al.|[2405.06059v1](http://arxiv.org/abs/2405.06059v1)|null|
 |**2024-05-09**|**Distilling Diffusion Models into Conditional GANs**|Minguk Kang et.al.|[2405.05967v1](http://arxiv.org/abs/2405.05967v1)|null|
 |**2024-05-09**|**RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation**|Sourav Garg et.al.|[2405.05792v1](http://arxiv.org/abs/2405.05792v1)|null|
 |**2024-05-09**|**From Human Judgements to Predictive Models: Unravelling Acceptability in Code-Mixed Sentences**|Prashant Kodali et.al.|[2405.05572v1](http://arxiv.org/abs/2405.05572v1)|null|

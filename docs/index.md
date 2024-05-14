@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v1](http://arxiv.org/abs/2405.07801v1)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429v1](http://arxiv.org/abs/2405.07429v1)|null|
+|**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|null|
+|**2024-05-11**|**AHPPEBot: Autonomous Robot for Tomato Harvesting based on Phenotyping and Pose Estimation**|Xingxu Li et.al.|[2405.06959v1](http://arxiv.org/abs/2405.06959v1)|null|
+|**2024-05-10**|**CasCalib: Cascaded Calibration for Motion Capture from Sparse Unsynchronized Cameras**|James Tang et.al.|[2405.06845v1](http://arxiv.org/abs/2405.06845v1)|**[link](https://github.com/jamestang1998/cascalib)**|
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241v1](http://arxiv.org/abs/2405.06241v1)|null|
 |**2024-05-10**|**Free-Moving Object Reconstruction and Pose Estimation with Virtual Camera**|Haixin Shi et.al.|[2405.05858v2](http://arxiv.org/abs/2405.05858v2)|null|
 |**2024-05-09**|**Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion**|Huanyu Tian et.al.|[2405.05817v1](http://arxiv.org/abs/2405.05817v1)|null|
@@ -713,6 +718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594v1](http://arxiv.org/abs/2405.07594v1)|null|
 |**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279v1](http://arxiv.org/abs/2405.06279v1)|null|
 |**2024-05-09**|**Rotation Initialization and Stepwise Refinement for Universal LiDAR Calibration**|Yifan Duan et.al.|[2405.05589v1](http://arxiv.org/abs/2405.05589v1)|null|
 |**2024-05-07**|**Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform**|Zhijian Qiao et.al.|[2405.03969v1](http://arxiv.org/abs/2405.03969v1)|null|
@@ -887,6 +893,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-13**|**Investigating the Semantic Robustness of CLIP-based Zero-Shot Anomaly Segmentation**|Kevin Stangl et.al.|[2405.07969v1](http://arxiv.org/abs/2405.07969v1)|null|
+|**2024-05-13**|**CTRLorALTer: Conditional LoRAdapter for Efficient 0-Shot Control & Altering of T2I Models**|Nick Stracke et.al.|[2405.07913v1](http://arxiv.org/abs/2405.07913v1)|null|
+|**2024-05-13**|**Zero-Shot Tokenizer Transfer**|Benjamin Minixhofer et.al.|[2405.07883v1](http://arxiv.org/abs/2405.07883v1)|null|
+|**2024-05-13**|**FreeVA: Offline MLLM as Training-Free Video Assistant**|Wenhao Wu et.al.|[2405.07798v1](http://arxiv.org/abs/2405.07798v1)|**[link](https://github.com/whwu95/freeva)**|
+|**2024-05-13**|**DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS**|Qingyang Li et.al.|[2405.07638v1](http://arxiv.org/abs/2405.07638v1)|null|
+|**2024-05-13**|**PromptLink: Leveraging Large Language Models for Cross-Source Biomedical Concept Linking**|Yuzhang Xie et.al.|[2405.07500v1](http://arxiv.org/abs/2405.07500v1)|**[link](https://github.com/constantjxyz/promptlink)**|
+|**2024-05-12**|**AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**|Max Yang et.al.|[2405.07391v1](http://arxiv.org/abs/2405.07391v1)|null|
+|**2024-05-12**|**MedConceptsQA -- Open Source Medical Concepts QA Benchmark**|Ofir Ben Shoham et.al.|[2405.07348v1](http://arxiv.org/abs/2405.07348v1)|null|
+|**2024-05-12**|**Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)**|Saaketh Koundinya Gundavarapu et.al.|[2405.07284v1](http://arxiv.org/abs/2405.07284v1)|null|
+|**2024-05-12**|**Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**|Alexey Tikhonov et.al.|[2405.07280v1](http://arxiv.org/abs/2405.07280v1)|**[link](https://github.com/altsoph/humor-mechanics)**|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|null|
 |**2024-05-10**|**Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification**|Yaoqin Ye et.al.|[2405.06468v1](http://arxiv.org/abs/2405.06468v1)|null|
 |**2024-05-10**|**Decoding Emotions in Abstract Art: Cognitive Plausibility of CLIP in Recognizing Color-Emotion Associations**|Hanna-Sophia Widhoelzl et.al.|[2405.06319v1](http://arxiv.org/abs/2405.06319v1)|null|

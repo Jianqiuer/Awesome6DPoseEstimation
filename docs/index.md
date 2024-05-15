@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -900,7 +900,7 @@ layout: default
 |**2024-05-13**|**DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS**|Qingyang Li et.al.|[2405.07638v1](http://arxiv.org/abs/2405.07638v1)|null|
 |**2024-05-13**|**PromptLink: Leveraging Large Language Models for Cross-Source Biomedical Concept Linking**|Yuzhang Xie et.al.|[2405.07500v1](http://arxiv.org/abs/2405.07500v1)|**[link](https://github.com/constantjxyz/promptlink)**|
 |**2024-05-12**|**AnyRotate: Gravity-Invariant In-Hand Object Rotation with Sim-to-Real Touch**|Max Yang et.al.|[2405.07391v1](http://arxiv.org/abs/2405.07391v1)|null|
-|**2024-05-12**|**MedConceptsQA -- Open Source Medical Concepts QA Benchmark**|Ofir Ben Shoham et.al.|[2405.07348v1](http://arxiv.org/abs/2405.07348v1)|null|
+|**2024-05-14**|**MedConceptsQA: Open Source Medical Concepts QA Benchmark**|Ofir Ben Shoham et.al.|[2405.07348v2](http://arxiv.org/abs/2405.07348v2)|**[link](https://github.com/nadavlab/MedConceptsQA)**|
 |**2024-05-12**|**Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)**|Saaketh Koundinya Gundavarapu et.al.|[2405.07284v1](http://arxiv.org/abs/2405.07284v1)|null|
 |**2024-05-12**|**Humor Mechanics: Advancing Humor Generation with Multistep Reasoning**|Alexey Tikhonov et.al.|[2405.07280v1](http://arxiv.org/abs/2405.07280v1)|**[link](https://github.com/altsoph/humor-mechanics)**|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634v1](http://arxiv.org/abs/2405.06634v1)|null|

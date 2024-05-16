@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Task-adaptive Q-Face**|Haomiao Sun et.al.|[2405.09059v1](http://arxiv.org/abs/2405.09059v1)|null|
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434v1](http://arxiv.org/abs/2405.08434v1)|null|
 |**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v1](http://arxiv.org/abs/2405.07801v1)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
@@ -895,6 +896,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Tell Me Why: Explainable Public Health Fact-Checking with Large Language Models**|Majid Zarharan et.al.|[2405.09454v1](http://arxiv.org/abs/2405.09454v1)|**[link](https://github.com/Zarharan/NLE-for-fact-checking)**|
+|**2024-05-15**|**Sign of the Times: Evaluating the use of Large Language Models for Idiomaticity Detection**|Dylan Phelps et.al.|[2405.09279v1](http://arxiv.org/abs/2405.09279v1)|null|
+|**2024-05-14**|**Contextual Emotion Recognition using Large Vision Language Models**|Yasaman Etesam et.al.|[2405.08992v1](http://arxiv.org/abs/2405.08992v1)|null|
+|**2024-05-14**|**Zero-Shot Transfer of Neural ODEs**|Tyler Ingebrand et.al.|[2405.08954v1](http://arxiv.org/abs/2405.08954v1)|null|
+|**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911v1](http://arxiv.org/abs/2405.08911v1)|null|
 |**2024-05-14**|**From Text to Context: An Entailment Approach for News Stakeholder Classification**|Alapan Kuila et.al.|[2405.08751v1](http://arxiv.org/abs/2405.08751v1)|null|
 |**2024-05-14**|**The impact of Compositionality in Zero-shot Multi-label action recognition for Object-based tasks**|Carmela Calabrese et.al.|[2405.08695v1](http://arxiv.org/abs/2405.08695v1)|null|
 |**2024-05-14**|**GPT-3.5 for Grammatical Error Correction**|Anisia Katinskaia et.al.|[2405.08469v1](http://arxiv.org/abs/2405.08469v1)|null|

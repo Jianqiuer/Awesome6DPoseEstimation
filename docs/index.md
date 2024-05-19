@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434v1](http://arxiv.org/abs/2405.08434v1)|null|
 |**2024-05-13**|**Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**|Jian Liu et.al.|[2405.07801v1](http://arxiv.org/abs/2405.07801v1)|**[link](https://github.com/cnjianliu/awesome-object-pose-estimation)**|
-|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429v1](http://arxiv.org/abs/2405.07429v1)|null|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429v1](http://arxiv.org/abs/2405.07429v1)|**[link](https://github.com/luoxubo/jointloc)**|
 |**2024-05-11**|**TD-NeRF: Novel Truncated Depth Prior for Joint Camera Pose and Neural Radiance Field Optimization**|Zhen Tan et.al.|[2405.07027v1](http://arxiv.org/abs/2405.07027v1)|null|
 |**2024-05-11**|**AHPPEBot: Autonomous Robot for Tomato Harvesting based on Phenotyping and Pose Estimation**|Xingxu Li et.al.|[2405.06959v1](http://arxiv.org/abs/2405.06959v1)|null|
 |**2024-05-10**|**CasCalib: Cascaded Calibration for Motion Capture from Sparse Unsynchronized Cameras**|James Tang et.al.|[2405.06845v1](http://arxiv.org/abs/2405.06845v1)|**[link](https://github.com/jamestang1998/cascalib)**|

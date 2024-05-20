@@ -7,7 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-16**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320v1](http://arxiv.org/abs/2405.10320v1)|null|
+|**2024-05-17**|**Resolving Symmetry Ambiguity in Correspondence-based Methods for Instance-level Object Pose Estimation**|Yongliang Lin et.al.|[2405.10557v1](http://arxiv.org/abs/2405.10557v1)|null|
+|**2024-05-16**|**Diversity-Aware Sign Language Production through a Pose Encoding Variational Autoencoder**|Mohamed Ilyes Lakhal et.al.|[2405.10423v1](http://arxiv.org/abs/2405.10423v1)|null|
+|**2024-05-17**|**Toon3D: Seeing Cartoons from a New Perspective**|Ethan Weber et.al.|[2405.10320v2](http://arxiv.org/abs/2405.10320v2)|null|
 |**2024-05-15**|**Task-adaptive Q-Face**|Haomiao Sun et.al.|[2405.09059v1](http://arxiv.org/abs/2405.09059v1)|null|
 |**2024-05-14**|**RDPN6D: Residual-based Dense Point-wise Network for 6Dof Object Pose Estimation Based on RGB-D Images**|Zong-Wei Hong et.al.|[2405.08483v1](http://arxiv.org/abs/2405.08483v1)|**[link](https://github.com/ai-application-and-integration-lab/rdpn6d)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434v1](http://arxiv.org/abs/2405.08434v1)|null|
@@ -898,6 +900,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**HARIS: Human-Like Attention for Reference Image Segmentation**|Mengxi Zhang et.al.|[2405.10707v1](http://arxiv.org/abs/2405.10707v1)|null|
+|**2024-05-17**|**Revolutionizing Process Mining: A Novel Architecture for ChatGPT Integration and Enhanced User Experience through Optimized Prompt Engineering**|Mehrdad Agha Mohammad Ali Kermani et.al.|[2405.10689v1](http://arxiv.org/abs/2405.10689v1)|null|
+|**2024-05-17**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548v1](http://arxiv.org/abs/2405.10548v1)|null|
+|**2024-05-17**|**Smart Expert System: Large Language Models as Text Classifiers**|Zhiqiang Wang et.al.|[2405.10523v1](http://arxiv.org/abs/2405.10523v1)|**[link](https://github.com/yeyimilk/llm-zero-shot-classifiers)**|
+|**2024-05-16**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448v1](http://arxiv.org/abs/2405.10448v1)|**[link](https://github.com/gmp007/propertyextractor)**|
+|**2024-05-16**|**Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification**|Jinge Wu et.al.|[2405.10440v1](http://arxiv.org/abs/2405.10440v1)|null|
 |**2024-05-16**|**Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection**|Tianhe Ren et.al.|[2405.10300v1](http://arxiv.org/abs/2405.10300v1)|**[link](https://github.com/idea-research/grounding-dino-1.5-api)**|
 |**2024-05-16**|**PRISM: A Multi-Modal Generative Foundation Model for Slide-Level Histopathology**|George Shaikovski et.al.|[2405.10254v1](http://arxiv.org/abs/2405.10254v1)|null|
 |**2024-05-16**|**LFED: A Literary Fiction Evaluation Dataset for Large Language Models**|Linhao Yu et.al.|[2405.10166v1](http://arxiv.org/abs/2405.10166v1)|**[link](https://github.com/tjunlp-lab/lfed)**|

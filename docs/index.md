@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -902,7 +902,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-17**|**HARIS: Human-Like Attention for Reference Image Segmentation**|Mengxi Zhang et.al.|[2405.10707v1](http://arxiv.org/abs/2405.10707v1)|null|
 |**2024-05-17**|**Revolutionizing Process Mining: A Novel Architecture for ChatGPT Integration and Enhanced User Experience through Optimized Prompt Engineering**|Mehrdad Agha Mohammad Ali Kermani et.al.|[2405.10689v1](http://arxiv.org/abs/2405.10689v1)|null|
-|**2024-05-17**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548v1](http://arxiv.org/abs/2405.10548v1)|null|
+|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548v2](http://arxiv.org/abs/2405.10548v2)|null|
 |**2024-05-17**|**Smart Expert System: Large Language Models as Text Classifiers**|Zhiqiang Wang et.al.|[2405.10523v1](http://arxiv.org/abs/2405.10523v1)|**[link](https://github.com/yeyimilk/llm-zero-shot-classifiers)**|
 |**2024-05-16**|**Dynamic In-context Learning with Conversational Models for Data Extraction and Materials Property Prediction**|Chinedu Ekuma et.al.|[2405.10448v1](http://arxiv.org/abs/2405.10448v1)|**[link](https://github.com/gmp007/propertyextractor)**|
 |**2024-05-16**|**Retrieving and Refining: A Hybrid Framework with Large Language Models for Rare Disease Identification**|Jinge Wu et.al.|[2405.10440v1](http://arxiv.org/abs/2405.10440v1)|null|

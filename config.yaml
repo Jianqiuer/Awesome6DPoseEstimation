@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "6D Pose": 
-        filters: ["6D Pose", "Pose Estimation"]
+        filters: ["6D Pose", "Object Pose Estimation", "Pose Estimation", "Unseen Pose Estimation"]
     "Point Cloud Registration":
         filters: ["Point Cloud Registration"]
     "Point Cloud Segmentation":

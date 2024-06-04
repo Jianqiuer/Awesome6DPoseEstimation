@@ -927,12 +927,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991v1](http://arxiv.org/abs/2405.20991v1)|**[link](https://github.com/kth-rpl/detect_vlm)**|
-|**2024-05-31**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v1](http://arxiv.org/abs/2405.20962v1)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
+|**2024-06-03**|**Large Language Models are Zero-Shot Next Location Predictors**|Ciro Beneduce et.al.|[2405.20962v2](http://arxiv.org/abs/2405.20962v2)|**[link](https://github.com/ssai-trento/llm-zero-shot-nl)**|
 |**2024-05-31**|**Don't Buy it! Reassessing the Ad Understanding Abilities of Contrastive Multimodal Models**|A. Bavaresco et.al.|[2405.20846v1](http://arxiv.org/abs/2405.20846v1)|null|
 |**2024-05-30**|**Unveiling the Impact of Coding Data Instruction Fine-Tuning on Large Language Models Reasoning**|Xinlu Zhang et.al.|[2405.20535v1](http://arxiv.org/abs/2405.20535v1)|null|
 |**2024-05-30**|**How Multilingual Are Large Language Models Fine-Tuned for Translation?**|Aquia Richburg et.al.|[2405.20512v1](http://arxiv.org/abs/2405.20512v1)|null|
 |**2024-05-30**|**From Zero to Hero: Cold-Start Anomaly Detection**|Tal Reiss et.al.|[2405.20341v1](http://arxiv.org/abs/2405.20341v1)|**[link](https://github.com/talreiss/coldfusion)**|
-|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309v1](http://arxiv.org/abs/2405.20309v1)|null|
+|**2024-05-30**|**Large Language Models Can Self-Improve At Web Agent Tasks**|Ajay Patel et.al.|[2405.20309v1](http://arxiv.org/abs/2405.20309v1)|**[link](https://github.com/AjayP13/webdreamer)**|
 |**2024-05-30**|**Towards Hierarchical Multi-Agent Workflows for Zero-Shot Prompt Optimization**|Yuchi Liu et.al.|[2405.20252v1](http://arxiv.org/abs/2405.20252v1)|**[link](https://github.com/liuyvchi/HMAW)**|
 |**2024-05-30**|**MotionDreamer: Zero-Shot 3D Mesh Animation from Video Diffusion Models**|Lukas Uzolas et.al.|[2405.20155v1](http://arxiv.org/abs/2405.20155v1)|null|
 |**2024-05-30**|**OpenDAS: Domain Adaptation for Open-Vocabulary Segmentation**|Gonca Yilmaz et.al.|[2405.20141v1](http://arxiv.org/abs/2405.20141v1)|null|

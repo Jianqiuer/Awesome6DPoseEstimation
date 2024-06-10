@@ -949,6 +949,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Large Generative Graph Models**|Yu Wang et.al.|[2406.05109v1](http://arxiv.org/abs/2406.05109v1)|null|
+|**2024-06-07**|**BAMO at SemEval-2024 Task 9: BRAINTEASER: A Novel Task Defying Common Sense**|Baktash Ansari et.al.|[2406.04947v1](http://arxiv.org/abs/2406.04947v1)|null|
+|**2024-06-07**|**XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model**|Edresson Casanova et.al.|[2406.04904v1](http://arxiv.org/abs/2406.04904v1)|null|
+|**2024-06-07**|**Zero-Shot Video Editing through Adaptive Sliding Score Distillation**|Lianghan Zhu et.al.|[2406.04888v1](http://arxiv.org/abs/2406.04888v1)|null|
+|**2024-06-07**|**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**|Yuxing Long et.al.|[2406.04882v1](http://arxiv.org/abs/2406.04882v1)|null|
+|**2024-06-07**|**Skill-aware Mutual Information Optimisation for Generalisation in Reinforcement Learning**|Xuehui Yu et.al.|[2406.04815v1](http://arxiv.org/abs/2406.04815v1)|**[link](https://github.com/uoe-agents/sami)**|
+|**2024-06-07**|**Multi-Label Requirements Classification with Large Taxonomies**|Waleed Abdeen et.al.|[2406.04797v1](http://arxiv.org/abs/2406.04797v1)|null|
+|**2024-06-07**|**LinkGPT: Teaching Large Language Models To Predict Missing Links**|Zhongmou He et.al.|[2406.04640v1](http://arxiv.org/abs/2406.04640v1)|null|
+|**2024-06-07**|**Large Language Model-guided Document Selection**|Xiang Kong et.al.|[2406.04638v1](http://arxiv.org/abs/2406.04638v1)|null|
+|**2024-06-07**|**Low-Resource Cross-Lingual Summarization through Few-Shot Learning with Large Language Models**|Gyutae Park et.al.|[2406.04630v1](http://arxiv.org/abs/2406.04630v1)|null|
 |**2024-06-06**|**Interpreting the Second-Order Effects of Neurons in CLIP**|Yossi Gandelsman et.al.|[2406.04341v1](http://arxiv.org/abs/2406.04341v1)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|null|
 |**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329v1](http://arxiv.org/abs/2406.04329v1)|null|

@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v1](http://arxiv.org/abs/2406.07500v1)|null|
+|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328v1](http://arxiv.org/abs/2406.07328v1)|null|
+|**2024-06-11**|**SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale**|Shester Gueuwou et.al.|[2406.06907v1](http://arxiv.org/abs/2406.06907v1)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-08**|**A preprocessing-based planning framework for utilizing contacts in high-precision insertion tasks**|Muhammad Suhail Saleem et.al.|[2406.05522v1](http://arxiv.org/abs/2406.05522v1)|null|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340v1](http://arxiv.org/abs/2406.04340v1)|**[link](https://github.com/cvg/glace)**|
@@ -951,6 +954,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Zero-shot Image Editing with Reference Imitation**|Xi Chen et.al.|[2406.07547v1](http://arxiv.org/abs/2406.07547v1)|null|
+|**2024-06-11**|**Understanding Visual Concepts Across Models**|Brandon Trabucco et.al.|[2406.07506v1](http://arxiv.org/abs/2406.07506v1)|**[link](https://github.com/visual-words/visual-words)**|
+|**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496v1](http://arxiv.org/abs/2406.07496v1)|**[link](https://github.com/zou-group/textgrad)**|
+|**2024-06-11**|**Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning**|Shuvendu Roy et.al.|[2406.07450v1](http://arxiv.org/abs/2406.07450v1)|**[link](https://github.com/shuvenduroy/multimodal)**|
+|**2024-06-11**|**Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection**|Haiming Yao et.al.|[2406.07333v1](http://arxiv.org/abs/2406.07333v1)|null|
+|**2024-06-11**|**Can We Achieve High-quality Direct Speech-to-Speech Translation without Parallel Speech Data?**|Qingkai Fang et.al.|[2406.07289v1](http://arxiv.org/abs/2406.07289v1)|null|
+|**2024-06-11**|**Is One GPU Enough? Pushing Image Generation at Higher-Resolutions with Foundation Models**|Athanasios Tragakis et.al.|[2406.07251v1](http://arxiv.org/abs/2406.07251v1)|null|
+|**2024-06-11**|**Let Go of Your Labels with Unsupervised Transfer**|Artyom Gadetsky et.al.|[2406.07236v1](http://arxiv.org/abs/2406.07236v1)|**[link](https://github.com/mlbio-epfl/turtle)**|
+|**2024-06-11**|**Open-World Human-Object Interaction Detection via Multi-modal Prompts**|Jie Yang et.al.|[2406.07221v1](http://arxiv.org/abs/2406.07221v1)|null|
+|**2024-06-11**|**MS-Diffusion: Multi-subject Zero-shot Image Personalization with Layout Guidance**|X. Wang et.al.|[2406.07209v1](http://arxiv.org/abs/2406.07209v1)|**[link](https://github.com/MS-Diffusion/MS-Diffusion)**|
 |**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512v1](http://arxiv.org/abs/2406.06512v1)|null|
 |**2024-06-10**|**Monkey See, Monkey Do: Harnessing Self-attention in Motion Diffusion for Zero-shot Motion Transfer**|Sigal Raab et.al.|[2406.06508v1](http://arxiv.org/abs/2406.06508v1)|**[link](https://github.com/monkeyseedocg/momo-code)**|
 |**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484v1](http://arxiv.org/abs/2406.06484v1)|null|

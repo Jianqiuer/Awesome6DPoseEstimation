@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -944,7 +944,7 @@ layout: default
 |**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484v1](http://arxiv.org/abs/2406.06484v1)|null|
 |**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435v1](http://arxiv.org/abs/2406.06435v1)|**[link](https://github.com/itm-kitware/llm-alignable-dm)**|
 |**2024-06-10**|**Foundation Inference Models for Markov Jump Processes**|David Berghaus et.al.|[2406.06419v1](http://arxiv.org/abs/2406.06419v1)|null|
-|**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403v1](http://arxiv.org/abs/2406.06403v1)|null|
+|**2024-06-10**|**Meta Learning Text-to-Speech Synthesis in over 7000 Languages**|Florian Lux et.al.|[2406.06403v1](http://arxiv.org/abs/2406.06403v1)|**[link](https://github.com/digitalphonetics/ims-toucan)**|
 |**2024-06-10**|**Zero-Shot Audio Captioning Using Soft and Hard Prompts**|Yiming Zhang et.al.|[2406.06295v1](http://arxiv.org/abs/2406.06295v1)|null|
 |**2024-06-09**|**Are Large Language Models Actually Good at Text Style Transfer?**|Sourabrata Mukherjee et.al.|[2406.05885v1](http://arxiv.org/abs/2406.05885v1)|null|
 |**2024-06-09**|**Zero-Shot End-To-End Spoken Question Answering In Medical Domain**|Yanis Labrak et.al.|[2406.05876v1](http://arxiv.org/abs/2406.05876v1)|null|

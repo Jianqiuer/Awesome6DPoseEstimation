@@ -1,4 +1,4 @@
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,12 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|null|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2024-06-12**|**Asymptotic Unbiased Sample Sampling to Speed Up Sharpness-Aware Minimization**|Jiaxin Deng et.al.|[2406.08001v1](http://arxiv.org/abs/2406.08001v1)|null|
-|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937v1](http://arxiv.org/abs/2406.07937v1)|null|
-|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|null|
-|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|null|
-|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328v1](http://arxiv.org/abs/2406.07328v1)|null|
+|**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937v1](http://arxiv.org/abs/2406.07937v1)|**[link](https://github.com/EinsTian1/iftd)**|
+|**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|**[link](https://github.com/swami1995/v2v)**|
+|**2024-06-12**|**SPIN: Spacecraft Imagery for Navigation**|Javier Montalvo et.al.|[2406.07500v2](http://arxiv.org/abs/2406.07500v2)|**[link](https://github.com/vpulab/spin)**|
+|**2024-06-11**|**Realistic Data Generation for 6D Pose Estimation of Surgical Instruments**|Juan Antonio Barragan et.al.|[2406.07328v1](http://arxiv.org/abs/2406.07328v1)|**[link](https://github.com/surgical-robotics-ai/realistic-6dof-data-generation)**|
 |**2024-06-11**|**SignMusketeers: An Efficient Multi-Stream Approach for Sign Language Translation at Scale**|Shester Gueuwou et.al.|[2406.06907v1](http://arxiv.org/abs/2406.06907v1)|null|
 |**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374v1](http://arxiv.org/abs/2406.06374v1)|**[link](https://github.com/alterpang/multi_orb_slam)**|
 |**2024-06-08**|**A preprocessing-based planning framework for utilizing contacts in high-precision insertion tasks**|Muhammad Suhail Saleem et.al.|[2406.05522v1](http://arxiv.org/abs/2406.05522v1)|null|
@@ -767,7 +767,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -897,7 +897,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -952,7 +952,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -963,7 +963,7 @@
 |**2024-06-12**|**Diffusion Soup: Model Merging for Text-to-Image Diffusion Models**|Benjamin Biggs et.al.|[2406.08431v1](http://arxiv.org/abs/2406.08431v1)|null|
 |**2024-06-12**|**cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers**|Anirudh Sundar et.al.|[2406.08398v1](http://arxiv.org/abs/2406.08398v1)|null|
 |**2024-06-12**|**DistilDoc: Knowledge Distillation for Visually-Rich Document Applications**|Jordy Van Landeghem et.al.|[2406.08226v1](http://arxiv.org/abs/2406.08226v1)|null|
-|**2024-06-12**|**Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation**|Zhi Qu et.al.|[2406.08092v1](http://arxiv.org/abs/2406.08092v1)|null|
+|**2024-06-12**|**Languages Transferred Within the Encoder: On Representation Transfer in Zero-Shot Multilingual Translation**|Zhi Qu et.al.|[2406.08092v1](http://arxiv.org/abs/2406.08092v1)|**[link](https://github.com/zhiqu22/ZeroTrans)**|
 |**2024-06-12**|**OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding**|Yinan Deng et.al.|[2406.08009v1](http://arxiv.org/abs/2406.08009v1)|**[link](https://github.com/BIT-DYN/OpenObj)**|
 |**2024-06-12**|**Multi-Teacher Multi-Objective Meta-Learning for Zero-Shot Hyperspectral Band Selection**|Jie Feng et.al.|[2406.07949v1](http://arxiv.org/abs/2406.07949v1)|null|
 |**2024-06-12**|**VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment**|Bing Han et.al.|[2406.07855v1](http://arxiv.org/abs/2406.07855v1)|null|
@@ -2906,5 +2906,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240613>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240614>back to top</a>)</p>
 

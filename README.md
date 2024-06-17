@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**OpenCapBench: A Benchmark to Bridge Pose Estimation and Biomechanics**|Yoni Gozlan et.al.|[2406.09788v1](http://arxiv.org/abs/2406.09788v1)|null|
+|**2024-06-13**|**ImageNet3D: Towards General-Purpose Object-Level 3D Understanding**|Wufei Ma et.al.|[2406.09613v1](http://arxiv.org/abs/2406.09613v1)|**[link](https://github.com/wufeim/imagenet3d)**|
 |**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260v1](http://arxiv.org/abs/2406.09260v1)|null|
 |**2024-06-14**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039v2](http://arxiv.org/abs/2406.09039v2)|null|
 |**2024-06-14**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v2](http://arxiv.org/abs/2406.08394v2)|**[link](https://github.com/opengvlab/visionllm)**|
@@ -960,6 +962,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind et.al.|[2406.10223v1](http://arxiv.org/abs/2406.10223v1)|null|
+|**2024-06-14**|**Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models**|Carson Denison et.al.|[2406.10162v1](http://arxiv.org/abs/2406.10162v1)|**[link](https://github.com/anthropics/sycophancy-to-subterfuge-paper)**|
+|**2024-06-14**|**Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition**|Guinan Li et.al.|[2406.10152v1](http://arxiv.org/abs/2406.10152v1)|null|
+|**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115v1](http://arxiv.org/abs/2406.10115v1)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939v1](http://arxiv.org/abs/2406.09939v1)|null|
+|**2024-06-14**|**POWN: Prototypical Open-World Node Classification**|Marcel Hoffmann et.al.|[2406.09926v1](http://arxiv.org/abs/2406.09926v1)|**[link](https://github.com/bobowner/pown)**|
+|**2024-06-14**|**CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**|Mingyu Derek Ma et.al.|[2406.09923v1](http://arxiv.org/abs/2406.09923v1)|**[link](https://github.com/clibench/clibench)**|
+|**2024-06-14**|**Vec-Tok-VC+: Residual-enhanced Robust Zero-shot Voice Conversion with Progressive Constraints in a Dual-mode Training Strategy**|Linhan Ma et.al.|[2406.09844v1](http://arxiv.org/abs/2406.09844v1)|null|
+|**2024-06-14**|**Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting**|Ce Hao et.al.|[2406.09767v1](http://arxiv.org/abs/2406.09767v1)|null|
+|**2024-06-14**|**Learning Language Structures through Grounding**|Freda Shi et.al.|[2406.09662v1](http://arxiv.org/abs/2406.09662v1)|null|
 |**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418v1](http://arxiv.org/abs/2406.09418v1)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|
 |**2024-06-13**|**Exploring the Spectrum of Visio-Linguistic Compositionality and Recognition**|Youngtaek Oh et.al.|[2406.09388v1](http://arxiv.org/abs/2406.09388v1)|**[link](https://github.com/ytaek-oh/vl_compo)**|
 |**2024-06-13**|**Scale-Invariant Monocular Depth Estimation via SSI Depth**|S. Mahdi H. Miangoleh et.al.|[2406.09374v1](http://arxiv.org/abs/2406.09374v1)|null|

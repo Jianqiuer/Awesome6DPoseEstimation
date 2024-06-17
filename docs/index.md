@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-13**|**Deep Transformer Network for Monocular Pose Estimation of Ship-Based UAV**|Maneesha Wickramasuriya et.al.|[2406.09260v1](http://arxiv.org/abs/2406.09260v1)|null|
-|**2024-06-13**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039v1](http://arxiv.org/abs/2406.09039v1)|null|
-|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v1](http://arxiv.org/abs/2406.08394v1)|**[link](https://github.com/opengvlab/visionllm)**|
+|**2024-06-14**|**Language-Driven Closed-Loop Grasping with Model-Predictive Trajectory Replanning**|Huy Hoang Nguyen et.al.|[2406.09039v2](http://arxiv.org/abs/2406.09039v2)|null|
+|**2024-06-14**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394v2](http://arxiv.org/abs/2406.08394v2)|**[link](https://github.com/opengvlab/visionllm)**|
 |**2024-06-12**|**Asymptotic Unbiased Sample Sampling to Speed Up Sharpness-Aware Minimization**|Jiaxin Deng et.al.|[2406.08001v1](http://arxiv.org/abs/2406.08001v1)|null|
 |**2024-06-12**|**IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes**|Fengtian Lang et.al.|[2406.07937v1](http://arxiv.org/abs/2406.07937v1)|**[link](https://github.com/EinsTian1/iftd)**|
 |**2024-06-12**|**From Variance to Veracity: Unbundling and Mitigating Gradient Variance in Differentiable Bundle Adjustment Layers**|Swaminathan Gurumurthy et.al.|[2406.07785v1](http://arxiv.org/abs/2406.07785v1)|**[link](https://github.com/swami1995/v2v)**|

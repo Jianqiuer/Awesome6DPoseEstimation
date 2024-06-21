@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -961,7 +961,7 @@ layout: default
 |**2024-06-18**|**Depth Anywhere: Enhancing 360 Monocular Depth Estimation via Perspective Distillation and Unlabeled Data Augmentation**|Ning-Hsu Wang et.al.|[2406.12849v1](http://arxiv.org/abs/2406.12849v1)|null|
 |**2024-06-18**|**Generating Educational Materials with Different Levels of Readability using LLMs**|Chieh-Yang Huang et.al.|[2406.12787v1](http://arxiv.org/abs/2406.12787v1)|null|
 |**2024-06-18**|**MAC: A Benchmark for Multiple Attributes Compositional Zero-Shot Learning**|Shuo Xu et.al.|[2406.12757v1](http://arxiv.org/abs/2406.12757v1)|null|
-|**2024-06-18**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v1](http://arxiv.org/abs/2406.12746v1)|null|
+|**2024-06-19**|**Rationale-based Ensemble of Multiple QA Strategies for Zero-shot Knowledge-based VQA**|Miaoyu Li et.al.|[2406.12746v2](http://arxiv.org/abs/2406.12746v2)|null|
 |**2024-06-18**|**Large Language Model as a Universal Clinical Multi-task Decoder**|Yujiang Wu et.al.|[2406.12738v1](http://arxiv.org/abs/2406.12738v1)|null|
 |**2024-06-18**|**BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity**|Zahra Gharaee et.al.|[2406.12723v1](http://arxiv.org/abs/2406.12723v1)|**[link](https://github.com/zahrag/BIOSCAN-5M)**|
 |**2024-06-18**|**GeoBench: Benchmarking and Analyzing Monocular Geometry Estimation Models**|Yongtao Ge et.al.|[2406.12671v1](http://arxiv.org/abs/2406.12671v1)|**[link](https://github.com/aim-uofa/geobench)**|

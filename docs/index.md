@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382v1](http://arxiv.org/abs/2406.17382v1)|null|
 |**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384v1](http://arxiv.org/abs/2406.16384v1)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204v1](http://arxiv.org/abs/2406.16204v1)|null|
 |**2024-06-21**|**Efficient Human Pose Estimation: Leveraging Advanced Techniques with MediaPipe**|Sandeep Singh Sengar et.al.|[2406.15649v1](http://arxiv.org/abs/2406.15649v1)|**[link](https://github.com/avhixd/human_pose_estimation)**|
@@ -787,6 +788,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530v1](http://arxiv.org/abs/2406.17530v1)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732v1](http://arxiv.org/abs/2406.11732v1)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298v1](http://arxiv.org/abs/2406.03298v1)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085v1](http://arxiv.org/abs/2405.16085v1)|null|
@@ -916,6 +918,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442v1](http://arxiv.org/abs/2406.17442v1)|null|
 |**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735v1](http://arxiv.org/abs/2405.19735v1)|null|
 |**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286v1](http://arxiv.org/abs/2405.15286v1)|**[link](https://github.com/sbysbysbys/uov)**|
 |**2024-05-25**|**Filling Missing Values Matters for Range Image-Based Point Cloud Segmentation**|Bike Chen et.al.|[2405.10175v2](http://arxiv.org/abs/2405.10175v2)|null|
@@ -969,6 +972,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity**|Chih-Hsuan Yang et.al.|[2406.17720v1](http://arxiv.org/abs/2406.17720v1)|null|
+|**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
+|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672v1](http://arxiv.org/abs/2406.17672v1)|null|
+|**2024-06-25**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v1](http://arxiv.org/abs/2406.17639v1)|null|
+|**2024-06-25**|**Advancing Cell Detection in Anterior Segment Optical Coherence Tomography Images**|Boyu Chen et.al.|[2406.17577v1](http://arxiv.org/abs/2406.17577v1)|null|
+|**2024-06-25**|**High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model**|Joun Yeop Lee et.al.|[2406.17310v1](http://arxiv.org/abs/2406.17310v1)|null|
+|**2024-06-25**|**Zero-Shot Long-Form Video Understanding through Screenplay**|Yongliang Wu et.al.|[2406.17309v1](http://arxiv.org/abs/2406.17309v1)|null|
+|**2024-06-24**|**CLERC: A Dataset for Legal Case Retrieval and Retrieval-Augmented Analysis Generation**|Abe Bohan Hou et.al.|[2406.17186v1](http://arxiv.org/abs/2406.17186v1)|null|
+|**2024-06-24**|**Multi-LogiEval: Towards Evaluating Multi-Step Logical Reasoning Ability of Large Language Models**|Nisarg Patel et.al.|[2406.17169v1](http://arxiv.org/abs/2406.17169v1)|**[link](https://github.com/mihir3009/multi-logieval)**|
+|**2024-06-24**|**Vastextures: Vast repository of textures and PBR materials extracted from real-world images using unsupervised methods**|Sagi Eppel et.al.|[2406.17146v1](http://arxiv.org/abs/2406.17146v1)|null|
 |**2024-06-24**|**Can Quantum Computers Do Nothing?**|Alexander Nico-Katz et.al.|[2406.16861v1](http://arxiv.org/abs/2406.16861v1)|null|
 |**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833v1](http://arxiv.org/abs/2406.16833v1)|null|
 |**2024-06-25**|**Towards Zero-Shot Text-To-Speech for Arabic Dialects**|Khai Duy Doan et.al.|[2406.16751v2](http://arxiv.org/abs/2406.16751v2)|null|

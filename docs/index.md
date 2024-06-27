@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -974,8 +974,8 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-25**|**Arboretum: A Large Multimodal Dataset Enabling AI for Biodiversity**|Chih-Hsuan Yang et.al.|[2406.17720v1](http://arxiv.org/abs/2406.17720v1)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673v1](http://arxiv.org/abs/2406.17673v1)|null|
-|**2024-06-25**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunita et.al.|[2406.17672v1](http://arxiv.org/abs/2406.17672v1)|null|
-|**2024-06-25**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v1](http://arxiv.org/abs/2406.17639v1)|null|
+|**2024-06-26**|**SpecMaskGIT: Masked Generative Modeling of Audio Spectrograms for Efficient Audio Synthesis and Beyond**|Marco Comunità et.al.|[2406.17672v2](http://arxiv.org/abs/2406.17672v2)|null|
+|**2024-06-26**|**Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP**|Sedigheh Eslami et.al.|[2406.17639v2](http://arxiv.org/abs/2406.17639v2)|null|
 |**2024-06-25**|**Advancing Cell Detection in Anterior Segment Optical Coherence Tomography Images**|Boyu Chen et.al.|[2406.17577v1](http://arxiv.org/abs/2406.17577v1)|null|
 |**2024-06-25**|**High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model**|Joun Yeop Lee et.al.|[2406.17310v1](http://arxiv.org/abs/2406.17310v1)|null|
 |**2024-06-25**|**Zero-Shot Long-Form Video Understanding through Screenplay**|Yongliang Wu et.al.|[2406.17309v1](http://arxiv.org/abs/2406.17309v1)|null|

@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Multimodal Visual-haptic pose estimation in the presence of transient occlusion**|Michael Zechmair et.al.|[2406.19323v1](http://arxiv.org/abs/2406.19323v1)|null|
+|**2024-06-27**|**Human Modelling and Pose Estimation Overview**|Pawel Knap et.al.|[2406.19290v1](http://arxiv.org/abs/2406.19290v1)|null|
 |**2024-06-26**|**Towards Human-Level 3D Relative Pose Estimation: Generalizable, Training-Free, with Single Reference**|Yuan Gao et.al.|[2406.18453v1](http://arxiv.org/abs/2406.18453v1)|**[link](https://github.com/ethanygao/training-free_generalizable_relative_pose)**|
 |**2024-06-27**|**Automatic infant 2D pose estimation from videos: comparing seven deep neural network methods**|Filipe Gama et.al.|[2406.17382v2](http://arxiv.org/abs/2406.17382v2)|null|
 |**2024-06-24**|**High-resolution open-vocabulary object 6D pose estimation**|Jaime Corsetti et.al.|[2406.16384v1](http://arxiv.org/abs/2406.16384v1)|null|
@@ -985,6 +987,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**The Model Arena for Cross-lingual Sentiment Analysis: A Comparative Study in the Era of Large Language Models**|Xiliang Zhu et.al.|[2406.19358v1](http://arxiv.org/abs/2406.19358v1)|null|
+|**2024-06-27**|**IndoToxic2024: A Demographically-Enriched Dataset of Hate Speech and Toxicity Types for Indonesian Language**|Lucky Susanto et.al.|[2406.19349v1](http://arxiv.org/abs/2406.19349v1)|null|
+|**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
+|**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
+|**2024-06-27**|**Zero-shot domain adaptation based on dual-level mix and contrast**|Yu Zhe et.al.|[2406.18996v1](http://arxiv.org/abs/2406.18996v1)|null|
+|**2024-06-27**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915v1](http://arxiv.org/abs/2406.18915v1)|null|
+|**2024-06-27**|**DeSTA: Enhancing Speech Language Models through Descriptive Speech-Text Alignment**|Ke-Han Lu et.al.|[2406.18871v1](http://arxiv.org/abs/2406.18871v1)|null|
+|**2024-06-27**|**Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models**|Yicheng Xu et.al.|[2406.18868v1](http://arxiv.org/abs/2406.18868v1)|null|
+|**2024-06-27**|**Dense Monocular Motion Segmentation Using Optical Flow and Pseudo Depth Map: A Zero-Shot Approach**|Yuxiang Huang et.al.|[2406.18837v1](http://arxiv.org/abs/2406.18837v1)|null|
+|**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836v1](http://arxiv.org/abs/2406.18836v1)|null|
 |**2024-06-26**|**Role-Play Zero-Shot Prompting with Large Language Models for Open-Domain Human-Machine Conversation**|Ahmed Njifenjou et.al.|[2406.18460v1](http://arxiv.org/abs/2406.18460v1)|null|
 |**2024-06-26**|**Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets**|Simon Münker et.al.|[2406.18239v1](http://arxiv.org/abs/2406.18239v1)|null|
 |**2024-06-26**|**Open-vocabulary Mobile Manipulation in Unseen Dynamic Environments with 3D Semantic Maps**|Dicong Qiu et.al.|[2406.18115v1](http://arxiv.org/abs/2406.18115v1)|null|

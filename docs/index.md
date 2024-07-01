@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -980,7 +980,7 @@ layout: default
 |**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255v1](http://arxiv.org/abs/2406.19255v1)|null|
 |**2024-06-27**|**Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO**|Fuseini Mumuni et.al.|[2406.19057v1](http://arxiv.org/abs/2406.19057v1)|null|
 |**2024-06-27**|**Zero-shot domain adaptation based on dual-level mix and contrast**|Yu Zhe et.al.|[2406.18996v1](http://arxiv.org/abs/2406.18996v1)|null|
-|**2024-06-27**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915v1](http://arxiv.org/abs/2406.18915v1)|null|
+|**2024-06-28**|**Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**|Jiafei Duan et.al.|[2406.18915v2](http://arxiv.org/abs/2406.18915v2)|null|
 |**2024-06-27**|**DeSTA: Enhancing Speech Language Models through Descriptive Speech-Text Alignment**|Ke-Han Lu et.al.|[2406.18871v1](http://arxiv.org/abs/2406.18871v1)|null|
 |**2024-06-27**|**Advancing Cross-domain Discriminability in Continual Learning of Vison-Language Models**|Yicheng Xu et.al.|[2406.18868v1](http://arxiv.org/abs/2406.18868v1)|null|
 |**2024-06-27**|**Dense Monocular Motion Segmentation Using Optical Flow and Pseudo Depth Map: A Zero-Shot Approach**|Yuxiang Huang et.al.|[2406.18837v1](http://arxiv.org/abs/2406.18837v1)|null|

@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455v1](http://arxiv.org/abs/2407.02455v1)|null|
+|**2024-07-02**|**ReliaAvatar: A Robust Real-Time Avatar Animator with Integrated Motion Prediction**|Bo Qian et.al.|[2407.02129v1](http://arxiv.org/abs/2407.02129v1)|null|
+|**2024-07-02**|**Joint-Dataset Learning and Cross-Consistent Regularization for Text-to-Motion Retrieval**|Nicola Messina et.al.|[2407.02104v1](http://arxiv.org/abs/2407.02104v1)|null|
+|**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811v1](http://arxiv.org/abs/2407.01811v1)|null|
+|**2024-07-01**|**RoDyn-SLAM: Robust Dynamic Dense RGB-D SLAM with Neural Radiance Fields**|Haochen Jiang et.al.|[2407.01303v1](http://arxiv.org/abs/2407.01303v1)|null|
+|**2024-07-01**|**Collaborative Graph Exploration with Reduced Pose-SLAM Uncertainty via Submodular Optimization**|Ruofei Bai et.al.|[2407.01013v1](http://arxiv.org/abs/2407.01013v1)|null|
+|**2024-06-30**|**Ego-to-Exo: Interfacing Third Person Visuals from Egocentric Views in Real-time for Improved ROV Teleoperation**|Adnan Abdullah et.al.|[2407.00848v1](http://arxiv.org/abs/2407.00848v1)|null|
+|**2024-06-29**|**When Robots Get Chatty: Grounding Multimodal Human-Robot Conversation and Collaboration**|Philipp Allgeuer et.al.|[2407.00518v1](http://arxiv.org/abs/2407.00518v1)|null|
+|**2024-06-28**|**Assistive Image Annotation Systems with Deep Learning and Natural Language Capabilities: A Review**|Moseli Mots'oehli et.al.|[2407.00252v1](http://arxiv.org/abs/2407.00252v1)|null|
 |**2024-06-28**|**EPOCH: Jointly Estimating the 3D Pose of Cameras and Humans**|Nicola Garau et.al.|[2406.19726v1](http://arxiv.org/abs/2406.19726v1)|null|
 |**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634v1](http://arxiv.org/abs/2406.19634v1)|null|
 |**2024-06-27**|**Multimodal Visual-haptic pose estimation in the presence of transient occlusion**|Michael Zechmair et.al.|[2406.19323v1](http://arxiv.org/abs/2406.19323v1)|null|
@@ -923,6 +932,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence**|Francis Williams et.al.|[2407.01781v1](http://arxiv.org/abs/2407.01781v1)|null|
 |**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442v1](http://arxiv.org/abs/2406.17442v1)|null|
 |**2024-05-30**|**Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes**|Yong-Qiang Mao et.al.|[2405.19735v1](http://arxiv.org/abs/2405.19735v1)|null|
 |**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286v1](http://arxiv.org/abs/2405.15286v1)|**[link](https://github.com/sbysbysbys/uov)**|
@@ -977,6 +987,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Open Scene Graphs for Open World Object-Goal Navigation**|Joel Loo et.al.|[2407.02473v1](http://arxiv.org/abs/2407.02473v1)|null|
+|**2024-07-02**|**SafaRi:Adaptive Sequence Transformer for Weakly Supervised Referring Expression Segmentation**|Sayan Nag et.al.|[2407.02389v1](http://arxiv.org/abs/2407.02389v1)|null|
+|**2024-07-02**|**Exploring the Role of Transliteration in In-Context Learning for Low-resource Languages Written in Non-Latin Scripts**|Chunlan Ma et.al.|[2407.02320v1](http://arxiv.org/abs/2407.02320v1)|null|
+|**2024-07-02**|**Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization**|Yuchen Hu et.al.|[2407.02243v1](http://arxiv.org/abs/2407.02243v1)|null|
+|**2024-07-02**|**FineCLIPER: Multi-modal Fine-grained CLIP for Dynamic Facial Expression Recognition with AdaptERs**|Haodong Chen et.al.|[2407.02157v1](http://arxiv.org/abs/2407.02157v1)|null|
+|**2024-07-02**|**Zero-shot Video Restoration and Enhancement Using Pre-Trained Image Diffusion Model**|Cong Cao et.al.|[2407.01960v1](http://arxiv.org/abs/2407.01960v1)|null|
+|**2024-07-02**|**Text-Aware Diffusion for Policy Learning**|Calvin Luo et.al.|[2407.01903v1](http://arxiv.org/abs/2407.01903v1)|null|
+|**2024-07-01**|**DiffIR2VR-Zero: Zero-Shot Video Restoration with Diffusion-based Image Restoration Models**|Chang-Han Yeh et.al.|[2407.01519v1](http://arxiv.org/abs/2407.01519v1)|null|
+|**2024-07-01**|**Semantic Compositions Enhance Vision-Language Contrastive Learning**|Maxwell Aladago et.al.|[2407.01408v1](http://arxiv.org/abs/2407.01408v1)|null|
+|**2024-07-01**|**PanopticRecon: Leverage Open-vocabulary Instance Segmentation for Zero-shot Panoptic Reconstruction**|Xuan Yu et.al.|[2407.01349v1](http://arxiv.org/abs/2407.01349v1)|null|
 |**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973v1](http://arxiv.org/abs/2406.19973v1)|null|
 |**2024-06-28**|**Perception Stitching: Zero-Shot Perception Encoder Transfer for Visuomotor Robot Policies**|Pingcheng Jian et.al.|[2406.19971v1](http://arxiv.org/abs/2406.19971v1)|null|
 |**2024-06-28**|**Untangling the Unrestricted Web: Automatic Identification of Multilingual Registers**|Erik Henriksson et.al.|[2406.19892v1](http://arxiv.org/abs/2406.19892v1)|null|

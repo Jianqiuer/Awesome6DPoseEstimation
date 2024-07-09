@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
+|**2024-07-07**|**On the power of data augmentation for head pose estimation**|Michael Welter et.al.|[2407.05357v1](http://arxiv.org/abs/2407.05357v1)|null|
+|**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|**[link](https://github.com/fengyi233/SCIPaD)**|
 |**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384v1](http://arxiv.org/abs/2407.04384v1)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
 |**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041v1](http://arxiv.org/abs/2407.04041v1)|null|
 |**2024-07-04**|**Markerless Multi-view 3D Human Pose Estimation: a survey**|Ana Filipa Rodrigues Nogueira et.al.|[2407.03817v1](http://arxiv.org/abs/2407.03817v1)|null|
@@ -808,6 +811,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
+|**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
+|**2024-07-06**|**Incremental Multiview Point Cloud Registration**|Xiaoya Cheng et.al.|[2407.05021v1](http://arxiv.org/abs/2407.05021v1)|null|
 |**2024-06-25**|**Point Tree Transformer for Point Cloud Registration**|Meiling Wang et.al.|[2406.17530v1](http://arxiv.org/abs/2406.17530v1)|null|
 |**2024-06-17**|**Correspondence Free Multivector Cloud Registration using Conformal Geometric Algebra**|Francisco Xavier Vasconcelos et.al.|[2406.11732v1](http://arxiv.org/abs/2406.11732v1)|**[link](https://github.com/numerical-geometric-algebra/registrationga)**|
 |**2024-06-05**|**L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration**|Yibo Liu et.al.|[2406.03298v1](http://arxiv.org/abs/2406.03298v1)|**[link](https://github.com/yorklyb/LiDAR-SFM)**|
@@ -993,6 +999,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**CrowdMoGen: Zero-Shot Text-Driven Collective Motion Generation**|Xinying Guo et.al.|[2407.06188v1](http://arxiv.org/abs/2407.06188v1)|null|
+|**2024-07-08**|**C2C: Component-to-Composition Learning for Zero-Shot Compositional Action Recognition**|Rongchang Li et.al.|[2407.06113v1](http://arxiv.org/abs/2407.06113v1)|**[link](https://github.com/rongchangli/zscar_c2c)**|
+|**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001v1](http://arxiv.org/abs/2407.06001v1)|null|
+|**2024-07-08**|**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**|Jiaqi Chen et.al.|[2407.05890v1](http://arxiv.org/abs/2407.05890v1)|null|
+|**2024-07-08**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795v1](http://arxiv.org/abs/2407.05795v1)|null|
+|**2024-07-08**|**When is the consistent prediction likely to be a correct prediction?**|Alex Nguyen et.al.|[2407.05778v1](http://arxiv.org/abs/2407.05778v1)|null|
+|**2024-07-08**|**Is GPT-4 Alone Sufficient for Automated Essay Scoring?: A Comparative Judgment Approach Based on Rater Cognition**|Seungju Kim et.al.|[2407.05733v1](http://arxiv.org/abs/2407.05733v1)|null|
+|**2024-07-08**|**Learning to Adapt Category Consistent Meta-Feature of CLIP for Few-Shot Classification**|Jiaying Shi et.al.|[2407.05647v1](http://arxiv.org/abs/2407.05647v1)|null|
+|**2024-07-08**|**GenFollower: Enhancing Car-Following Prediction with Large Language Models**|Xianda Chen et.al.|[2407.05611v1](http://arxiv.org/abs/2407.05611v1)|null|
+|**2024-07-08**|**Open-world Multi-label Text Classification with Extremely Weak Supervision**|Xintong Li et.al.|[2407.05609v1](http://arxiv.org/abs/2407.05609v1)|null|
 |**2024-07-05**|**LaRa: Efficient Large-Baseline Radiance Fields**|Anpei Chen et.al.|[2407.04699v1](http://arxiv.org/abs/2407.04699v1)|null|
 |**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693v1](http://arxiv.org/abs/2407.04693v1)|null|
 |**2024-07-05**|**RAM: Retrieval-Based Affordance Transfer for Generalizable Zero-Shot Robotic Manipulation**|Yuxuan Kuang et.al.|[2407.04689v1](http://arxiv.org/abs/2407.04689v1)|**[link](https://github.com/yxKryptonite/RAM_code)**|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.15
+## Updated on 2024.07.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1017,7 +1017,7 @@ layout: default
 |**2024-07-12**|**From Easy to Hard: Learning Curricular Shape-aware Features for Robust Panoptic Scene Graph Generation**|Hanrong Shi et.al.|[2407.09191v1](http://arxiv.org/abs/2407.09191v1)|null|
 |**2024-07-12**|**STD-LLM: Understanding Both Spatial and Temporal Properties of Spatial-Temporal Data with LLMs**|Yiheng Huang et.al.|[2407.09096v1](http://arxiv.org/abs/2407.09096v1)|null|
 |**2024-07-12**|**OVExp: Open Vocabulary Exploration for Object-Oriented Navigation**|Meng Wei et.al.|[2407.09016v1](http://arxiv.org/abs/2407.09016v1)|null|
-|**2024-07-12**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940v1](http://arxiv.org/abs/2407.08940v1)|null|
+|**2024-07-15**|**Large Language Models as Biomedical Hypothesis Generators: A Comprehensive Evaluation**|Biqing Qi et.al.|[2407.08940v2](http://arxiv.org/abs/2407.08940v2)|null|
 |**2024-07-11**|**DegustaBot: Zero-Shot Visual Preference Estimation for Personalized Multi-Object Rearrangement**|Benjamin A. Newman et.al.|[2407.08876v1](http://arxiv.org/abs/2407.08876v1)|null|
 |**2024-07-11**|**Data Adaptive Traceback for Vision-Language Foundation Models in Image Classification**|Wenshuo Peng et.al.|[2407.08787v1](http://arxiv.org/abs/2407.08787v1)|null|
 |**2024-07-11**|**Real-Time Anomaly Detection and Reactive Planning with Large Language Models**|Rohan Sinha et.al.|[2407.08735v1](http://arxiv.org/abs/2407.08735v1)|null|

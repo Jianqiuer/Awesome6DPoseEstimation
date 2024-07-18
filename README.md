@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|**[link](https://github.com/iris-cyy/sg-nerf)**|
+|**2024-07-17**|**Invertible Neural Warp for NeRF**|Shin-Fang Chng et.al.|[2407.12354v1](http://arxiv.org/abs/2407.12354v1)|null|
+|**2024-07-16**|**NeuSurfEmb: A Complete Pipeline for Dense Correspondence-based 6D Object Pose Estimation without CAD Models**|Francesco Milano et.al.|[2407.12207v1](http://arxiv.org/abs/2407.12207v1)|**[link](https://github.com/ethz-asl/neusurfemb)**|
+|**2024-07-16**|**Monocular pose estimation of articulated surgical instruments in open surgery**|Robert Spektor et.al.|[2407.12138v1](http://arxiv.org/abs/2407.12138v1)|null|
 |**2024-07-17**|**GV-Bench: Benchmarking Local Feature Matching for Geometric Verification of Long-term Loop Closure Detection**|Jingwen Yu et.al.|[2407.11736v2](http://arxiv.org/abs/2407.11736v2)|**[link](https://github.com/jarvisyjw/gv-bench)**|
 |**2024-07-16**|**TCFormer: Visual Recognition via Token Clustering Transformer**|Wang Zeng et.al.|[2407.11321v1](http://arxiv.org/abs/2407.11321v1)|**[link](https://github.com/zengwang430521/tcformer)**|
 |**2024-07-15**|**A BlueROV2-based platform for underwater mapping experiments**|Tudor Alinei-Poiana et.al.|[2407.10901v1](http://arxiv.org/abs/2407.10901v1)|null|
@@ -983,6 +987,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489v1](http://arxiv.org/abs/2407.12489v1)|null|
+|**2024-07-17**|**HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation**|Tianpei Zou et.al.|[2407.12387v1](http://arxiv.org/abs/2407.12387v1)|**[link](https://github.com/tpzou/hgl)**|
+|**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319v1](http://arxiv.org/abs/2407.12319v1)|null|
 |**2024-07-12**|**Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**|Shiqi Tan et.al.|[2407.09697v1](http://arxiv.org/abs/2407.09697v1)|null|
 |**2024-07-01**|**fVDB: A Deep-Learning Framework for Sparse, Large-Scale, and High-Performance Spatial Intelligence**|Francis Williams et.al.|[2407.01781v1](http://arxiv.org/abs/2407.01781v1)|null|
 |**2024-06-25**|**Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model**|Zhuoyuan Li et.al.|[2406.17442v1](http://arxiv.org/abs/2406.17442v1)|null|
@@ -1041,6 +1048,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Zero-shot Text-guided Infinite Image Synthesis with LLM guidance**|Soyeong Kwon et.al.|[2407.12642v1](http://arxiv.org/abs/2407.12642v1)|null|
+|**2024-07-17**|**Evaluating the transferability potential of deep learning models for climate downscaling**|Ayush Prasad et.al.|[2407.12517v1](http://arxiv.org/abs/2407.12517v1)|null|
+|**2024-07-17**|**Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning**|Mustafa Dogan et.al.|[2407.12498v1](http://arxiv.org/abs/2407.12498v1)|null|
+|**2024-07-17**|**TurkishMMLU: Measuring Massive Multitask Language Understanding in Turkish**|Arda Yüksel et.al.|[2407.12402v1](http://arxiv.org/abs/2407.12402v1)|null|
+|**2024-07-17**|**Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection**|Zhenni Yu et.al.|[2407.12339v1](http://arxiv.org/abs/2407.12339v1)|null|
+|**2024-07-17**|**ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map**|Yilin Ye et.al.|[2407.12315v1](http://arxiv.org/abs/2407.12315v1)|null|
+|**2024-07-17**|**VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation**|Zhen Qu et.al.|[2407.12276v1](http://arxiv.org/abs/2407.12276v1)|null|
+|**2024-07-17**|**Compound Expression Recognition via Multi Model Ensemble for the ABAW7 Challenge**|Xuxiong Liu et.al.|[2407.12257v1](http://arxiv.org/abs/2407.12257v1)|null|
+|**2024-07-17**|**Laugh Now Cry Later: Controlling Time-Varying Emotional States of Flow-Matching-Based Zero-Shot Text-to-Speech**|Haibin Wu et.al.|[2407.12229v1](http://arxiv.org/abs/2407.12229v1)|null|
 |**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855v1](http://arxiv.org/abs/2407.11855v1)|null|
 |**2024-07-16**|**Zero-shot Cross-Lingual Transfer for Synthetic Data Generation in Grammatical Error Detection**|Gaetan Lopez Latouche et.al.|[2407.11854v1](http://arxiv.org/abs/2407.11854v1)|null|
 |**2024-07-16**|**Mask-guided cross-image attention for zero-shot in-silico histopathologic image generation with a diffusion model**|Dominik Winter et.al.|[2407.11664v1](http://arxiv.org/abs/2407.11664v1)|null|

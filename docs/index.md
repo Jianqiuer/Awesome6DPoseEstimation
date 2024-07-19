@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -977,7 +977,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489v1](http://arxiv.org/abs/2407.12489v1)|null|
+|**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489v1](http://arxiv.org/abs/2407.12489v1)|**[link](https://github.com/RikkiXu/NCD_PC)**|
 |**2024-07-17**|**HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation**|Tianpei Zou et.al.|[2407.12387v1](http://arxiv.org/abs/2407.12387v1)|**[link](https://github.com/tpzou/hgl)**|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319v1](http://arxiv.org/abs/2407.12319v1)|null|
 |**2024-07-12**|**Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**|Shiqi Tan et.al.|[2407.09697v1](http://arxiv.org/abs/2407.09697v1)|null|

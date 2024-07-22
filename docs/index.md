@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry**|Sungho Chun et.al.|[2407.14136v1](http://arxiv.org/abs/2407.14136v1)|**[link](https://github.com/asw91666/trg-release)**|
+|**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930v1](http://arxiv.org/abs/2407.13930v1)|null|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537v2](http://arxiv.org/abs/2407.13537v2)|null|
 |**2024-07-18**|**SCAPE: A Simple and Strong Category-Agnostic Pose Estimator**|Yujia Liang et.al.|[2407.13483v1](http://arxiv.org/abs/2407.13483v1)|**[link](https://github.com/tiny-smart/SCAPE)**|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667v1](http://arxiv.org/abs/2407.12667v1)|**[link](https://github.com/iris-cyy/sg-nerf)**|
@@ -840,6 +842,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054v1](http://arxiv.org/abs/2407.14054v1)|**[link](https://github.com/chen-suyi/pointreggpt)**|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537v2](http://arxiv.org/abs/2407.13537v2)|null|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v1](http://arxiv.org/abs/2407.11705v1)|null|
 |**2024-07-14**|**PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration**|Runzhao Yao et.al.|[2407.10142v1](http://arxiv.org/abs/2407.10142v1)|**[link](https://github.com/yaorz97/parenet)**|
@@ -980,6 +983,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Scale Disparity of Instances in Interactive Point Cloud Segmentation**|Chenrui Han et.al.|[2407.14009v1](http://arxiv.org/abs/2407.14009v1)|null|
 |**2024-07-18**|**SegPoint: Segment Any Point Cloud via Large Language Model**|Shuting He et.al.|[2407.13761v1](http://arxiv.org/abs/2407.13761v1)|null|
 |**2024-07-17**|**Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation**|Ruijie Xu et.al.|[2407.12489v1](http://arxiv.org/abs/2407.12489v1)|**[link](https://github.com/RikkiXu/NCD_PC)**|
 |**2024-07-17**|**HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation**|Tianpei Zou et.al.|[2407.12387v1](http://arxiv.org/abs/2407.12387v1)|**[link](https://github.com/tpzou/hgl)**|
@@ -1040,6 +1044,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Enhancing Zero-shot Audio Classification using Sound Attribute Knowledge from Large Language Models**|Xuenan Xu et.al.|[2407.14355v1](http://arxiv.org/abs/2407.14355v1)|null|
+|**2024-07-19**|**Multimodal Misinformation Detection using Large Vision-Language Models**|Sahar Tahmasebi et.al.|[2407.14321v1](http://arxiv.org/abs/2407.14321v1)|null|
+|**2024-07-19**|**Foundation Models for Autonomous Robots in Unstructured Environments**|Hossein Naderi et.al.|[2407.14296v1](http://arxiv.org/abs/2407.14296v1)|null|
+|**2024-07-19**|**OpenSU3D: Open World 3D Scene Understanding using Foundation Models**|Rafay Mohiuddin et.al.|[2407.14279v1](http://arxiv.org/abs/2407.14279v1)|null|
+|**2024-07-19**|**ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation**|Qing Xu et.al.|[2407.14153v1](http://arxiv.org/abs/2407.14153v1)|null|
+|**2024-07-19**|**Zero-Shot Underwater Gesture Recognition**|Sandipan Sarma et.al.|[2407.14103v1](http://arxiv.org/abs/2407.14103v1)|**[link](https://github.com/sandipan211/zsugr)**|
+|**2024-07-19**|**Multi-modal Relation Distillation for Unified 3D Representation Learning**|Huiqun Wang et.al.|[2407.14007v1](http://arxiv.org/abs/2407.14007v1)|null|
+|**2024-07-19**|**Enhancing Data-Limited Graph Neural Networks by Actively Distilling Knowledge from Large Language Models**|Quan Li et.al.|[2407.13989v1](http://arxiv.org/abs/2407.13989v1)|null|
 |**2024-07-18**|**Attention Based Simple Primitives for Open World Compositional Zero-Shot Learning**|Ans Munir et.al.|[2407.13715v1](http://arxiv.org/abs/2407.13715v1)|**[link](https://github.com/ans92/ASP)**|
 |**2024-07-18**|**MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis**|Ziming Zhong et.al.|[2407.13675v1](http://arxiv.org/abs/2407.13675v1)|**[link](https://github.com/zimingzhong/MeshSegmenter)**|
 |**2024-07-18**|**Robust Calibration of Large Vision-Language Adapters**|Balamurali Murugesan et.al.|[2407.13588v1](http://arxiv.org/abs/2407.13588v1)|**[link](https://github.com/Bala93/CLIPCalib)**|

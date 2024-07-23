@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791v1](http://arxiv.org/abs/2407.15791v1)|null|
+|**2024-07-22**|**Local Occupancy-Enhanced Object Grasping with Multiple Triplanar Projection**|Kangqi Ma et.al.|[2407.15771v1](http://arxiv.org/abs/2407.15771v1)|null|
+|**2024-07-22**|**6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model**|Matteo Bortolon et.al.|[2407.15484v1](http://arxiv.org/abs/2407.15484v1)|null|
+|**2024-07-22**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451v1](http://arxiv.org/abs/2407.15451v1)|null|
+|**2024-07-22**|**avaTTAR: Table Tennis Stroke Training with On-body and Detached Visualization in Augmented Reality**|Dizhi Ma et.al.|[2407.15373v1](http://arxiv.org/abs/2407.15373v1)|null|
+|**2024-07-20**|**From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM**|Lorenzo Montano-Oliván et.al.|[2407.14797v1](http://arxiv.org/abs/2407.14797v1)|null|
+|**2024-07-19**|**ESCAPE: Energy-based Selective Adaptive Correction for Out-of-distribution 3D Human Pose Estimation**|Luke Bidulka et.al.|[2407.14605v1](http://arxiv.org/abs/2407.14605v1)|null|
 |**2024-07-19**|**6DoF Head Pose Estimation through Explicit Bidirectional Interaction with Face Geometry**|Sungho Chun et.al.|[2407.14136v1](http://arxiv.org/abs/2407.14136v1)|**[link](https://github.com/asw91666/trg-release)**|
 |**2024-07-18**|**RT-Pose: A 4D Radar Tensor-based 3D Human Pose Estimation and Localization Benchmark**|Yuan-Hao Ho et.al.|[2407.13930v1](http://arxiv.org/abs/2407.13930v1)|null|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537v2](http://arxiv.org/abs/2407.13537v2)|null|
@@ -852,7 +859,7 @@
 |---|---|---|---|---|
 |**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054v1](http://arxiv.org/abs/2407.14054v1)|**[link](https://github.com/chen-suyi/pointreggpt)**|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537v2](http://arxiv.org/abs/2407.13537v2)|null|
-|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v1](http://arxiv.org/abs/2407.11705v1)|null|
+|**2024-07-22**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
 |**2024-07-14**|**PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration**|Runzhao Yao et.al.|[2407.10142v1](http://arxiv.org/abs/2407.10142v1)|**[link](https://github.com/yaorz97/parenet)**|
 |**2024-07-13**|**ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency**|Shaocheng Yan et.al.|[2407.09862v1](http://arxiv.org/abs/2407.09862v1)|**[link](https://github.com/laka-3dv/ml-semreg)**|
 |**2024-07-11**|**BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration**|Stefanos Pertigkiozoglou et.al.|[2407.08729v1](http://arxiv.org/abs/2407.08729v1)|null|
@@ -1056,6 +1063,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850v1](http://arxiv.org/abs/2407.15850v1)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
+|**2024-07-22**|**Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget**|Vikash Sehwag et.al.|[2407.15811v1](http://arxiv.org/abs/2407.15811v1)|null|
+|**2024-07-22**|**AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection**|Yunkang Cao et.al.|[2407.15795v1](http://arxiv.org/abs/2407.15795v1)|**[link](https://github.com/caoyunkang/adaclip)**|
+|**2024-07-22**|**CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning**|Emanuele Frascaroli et.al.|[2407.15793v1](http://arxiv.org/abs/2407.15793v1)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-07-22**|**Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders**|Laura Niss et.al.|[2407.15731v1](http://arxiv.org/abs/2407.15731v1)|null|
+|**2024-07-22**|**Multi-Modality Co-Learning for Efficient Skeleton-based Action Recognition**|Jinfu Liu et.al.|[2407.15706v1](http://arxiv.org/abs/2407.15706v1)|**[link](https://github.com/liujf69/MMCL-Action)**|
+|**2024-07-22**|**SLVideo: A Sign Language Video Moment Retrieval Framework**|Gonçalo Vinagre Martins et.al.|[2407.15668v1](http://arxiv.org/abs/2407.15668v1)|null|
+|**2024-07-22**|**Visual-Semantic Decomposition and Partial Alignment for Document-based Zero-Shot Learning**|Xiangyan Qu et.al.|[2407.15613v1](http://arxiv.org/abs/2407.15613v1)|**[link](https://github.com/morningstarovo/emdepart)**|
+|**2024-07-22**|**High-flexibility reconstruction of small-scale motions in wall turbulence using a generalized zero-shot learning**|Haokai Wu et.al.|[2407.15604v1](http://arxiv.org/abs/2407.15604v1)|null|
+|**2024-07-22**|**X-Recon: Learning-based Patient-specific High-Resolution CT Reconstruction from Orthogonal X-Ray Images**|Yunpeng Wang et.al.|[2407.15356v1](http://arxiv.org/abs/2407.15356v1)|**[link](https://github.com/wangyunpengbio/x-recon)**|
 |**2024-07-19**|**Enhancing Zero-shot Audio Classification using Sound Attribute Knowledge from Large Language Models**|Xuenan Xu et.al.|[2407.14355v1](http://arxiv.org/abs/2407.14355v1)|null|
 |**2024-07-19**|**Multimodal Misinformation Detection using Large Vision-Language Models**|Sahar Tahmasebi et.al.|[2407.14321v1](http://arxiv.org/abs/2407.14321v1)|null|
 |**2024-07-19**|**Foundation Models for Autonomous Robots in Unstructured Environments**|Hossein Naderi et.al.|[2407.14296v1](http://arxiv.org/abs/2407.14296v1)|null|

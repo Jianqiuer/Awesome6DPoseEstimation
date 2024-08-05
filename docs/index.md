@@ -1041,7 +1041,7 @@ layout: default
 |**2023-12-11**|**Densify Your Labels: Unsupervised Clustering with Bipartite Matching for Weakly Supervised Point Cloud Segmentation**|Shaobo Xia et.al.|[2312.06799v1](http://arxiv.org/abs/2312.06799v1)|null|
 |**2024-01-15**|**Provable Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More**|Jan Schuchardt et.al.|[2312.02708v2](http://arxiv.org/abs/2312.02708v2)|null|
 |**2023-11-24**|**OneFormer3D: One Transformer for Unified Point Cloud Segmentation**|Maxim Kolodiazhnyi et.al.|[2311.14405v1](http://arxiv.org/abs/2311.14405v1)|null|
-|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063v1](http://arxiv.org/abs/2311.12063v1)|null|
+|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063v1](http://arxiv.org/abs/2311.12063v1)|**[link](https://github.com/genintel/datasetnerf)**|
 |**2023-11-10**|**U3DS $^3$ : Unsupervised 3D Semantic Scene Segmentation**|Jiaxu Liu et.al.|[2311.06018v1](http://arxiv.org/abs/2311.06018v1)|null|
 |**2023-11-06**|**Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation**|Shichao Dong et.al.|[2311.01989v2](http://arxiv.org/abs/2311.01989v2)|null|
 |**2023-10-19**|**2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision**|Cheng-Kun Yang et.al.|[2310.12817v1](http://arxiv.org/abs/2310.12817v1)|null|

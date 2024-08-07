@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|null|
+|**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168v1](http://arxiv.org/abs/2408.03168v1)|null|
+|**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078v1](http://arxiv.org/abs/2408.03078v1)|null|
+|**2024-08-06**|**Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network**|Xinyi Zhang et.al.|[2408.02922v1](http://arxiv.org/abs/2408.02922v1)|null|
+|**2024-08-05**|**Analyzing Data Efficiency and Performance of Machine Learning Algorithms for Assessing Low Back Pain Physical Rehabilitation Exercises**|Aleksa Marusic et.al.|[2408.02855v1](http://arxiv.org/abs/2408.02855v1)|null|
 |**2024-08-05**|**Joint-Motion Mutual Learning for Pose Estimation in Videos**|Sifan Wu et.al.|[2408.02285v1](http://arxiv.org/abs/2408.02285v1)|null|
 |**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110v1](http://arxiv.org/abs/2408.02110v1)|null|
 |**2024-08-04**|**Generalized Maximum Likelihood Estimation for Perspective-n-Point Problem**|Tian Zhan et.al.|[2408.01945v1](http://arxiv.org/abs/2408.01945v1)|null|
@@ -1097,6 +1102,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964v1](http://arxiv.org/abs/2408.02964v1)|null|
+|**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949v1](http://arxiv.org/abs/2408.02949v1)|null|
 |**2024-08-05**|**Interactive 3D Medical Image Segmentation with SAM 2**|Chuyun Shen et.al.|[2408.02635v1](http://arxiv.org/abs/2408.02635v1)|null|
 |**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484v1](http://arxiv.org/abs/2408.02484v1)|null|
 |**2024-08-05**|**TGS: Trajectory Generation and Selection using Vision Language Models in Mapless Outdoor Environments**|Daeun Song et.al.|[2408.02454v1](http://arxiv.org/abs/2408.02454v1)|null|

@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979v1](http://arxiv.org/abs/2408.04979v1)|null|
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540v1](http://arxiv.org/abs/2408.03540v1)|null|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|**[link](https://github.com/zibin6/lopet)**|
 |**2024-08-06**|**Training on the Fly: On-device Self-supervised Learning aboard Nano-drones within 20 mW**|Elia Cereda et.al.|[2408.03168v1](http://arxiv.org/abs/2408.03168v1)|null|
@@ -1103,6 +1104,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement**|Weiqing Yang et.al.|[2408.05006v1](http://arxiv.org/abs/2408.05006v1)|null|
+|**2024-08-09**|**SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement**|Chaofan Li et.al.|[2408.04919v1](http://arxiv.org/abs/2408.04919v1)|null|
+|**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|
+|**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883v1](http://arxiv.org/abs/2408.04883v1)|**[link](https://github.com/mc-lan/proxyclip)**|
+|**2024-08-09**|**On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey**|Jingcai Guo et.al.|[2408.04879v1](http://arxiv.org/abs/2408.04879v1)|null|
+|**2024-08-09**|**ChatGPT Meets Iris Biometrics**|Parisa Farmanifard et.al.|[2408.04868v1](http://arxiv.org/abs/2408.04868v1)|null|
+|**2024-08-09**|**An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting**|Rui Cao et.al.|[2408.04867v1](http://arxiv.org/abs/2408.04867v1)|null|
+|**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823v1](http://arxiv.org/abs/2408.04823v1)|null|
+|**2024-08-09**|**FUSE-ing Language Models: Zero-Shot Adapter Discovery for Prompt Optimization Across Tokenizers**|Joshua Nathaniel Williams et.al.|[2408.04816v1](http://arxiv.org/abs/2408.04816v1)|**[link](https://github.com/jnwilliams/fuse_prompt_inversion)**|
+|**2024-08-08**|**Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2**|Andrew Seohwan Yu et.al.|[2408.04762v1](http://arxiv.org/abs/2408.04762v1)|null|
 |**2024-08-08**|**Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics**|Ruining Li et.al.|[2408.04631v1](http://arxiv.org/abs/2408.04631v1)|null|
 |**2024-08-08**|**SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation**|Jieming Yu et.al.|[2408.04593v1](http://arxiv.org/abs/2408.04593v1)|null|
 |**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575v1](http://arxiv.org/abs/2408.04575v1)|null|

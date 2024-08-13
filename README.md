@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Moo-ving Beyond Tradition: Revolutionizing Cattle Behavioural Phenotyping with Pose Estimation Techniques**|Navid Ghassemi et.al.|[2408.06336v1](http://arxiv.org/abs/2408.06336v1)|null|
+|**2024-08-12**|**CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments**|Yanpeng Jia et.al.|[2408.05981v1](http://arxiv.org/abs/2408.05981v1)|null|
+|**2024-08-12**|**PAFormer: Part Aware Transformer for Person Re-identification**|Hyeono Jung et.al.|[2408.05918v1](http://arxiv.org/abs/2408.05918v1)|null|
+|**2024-08-11**|**SABER-6D: Shape Representation Based Implicit Object Pose Estimation**|Shishir Reddy Vutukur et.al.|[2408.05867v1](http://arxiv.org/abs/2408.05867v1)|null|
+|**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635v1](http://arxiv.org/abs/2408.05635v1)|null|
+|**2024-08-10**|**Anticipation through Head Pose Estimation: a preliminary study**|Federico Figari Tomenotti et.al.|[2408.05516v1](http://arxiv.org/abs/2408.05516v1)|null|
 |**2024-08-09**|**Mesh-based Object Tracking for Dynamic Semantic 3D Scene Graphs via Ray Tracing**|Lennart Niecksch et.al.|[2408.04979v1](http://arxiv.org/abs/2408.04979v1)|null|
 |**2024-08-07**|**PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model**|Yunlong Huang et.al.|[2408.03540v1](http://arxiv.org/abs/2408.03540v1)|null|
 |**2024-08-06**|**Line-based 6-DoF Object Pose Estimation and Tracking With an Event Camera**|Zibin Liu et.al.|[2408.03225v1](http://arxiv.org/abs/2408.03225v1)|**[link](https://github.com/zibin6/lopet)**|
@@ -895,7 +901,7 @@
 |**2024-08-05**|**MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval**|Gongxin Yao et.al.|[2408.02392v1](http://arxiv.org/abs/2408.02392v1)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223v1](http://arxiv.org/abs/2407.20223v1)|null|
 |**2024-07-24**|**Robust Point Cloud Registration in Robotic Inspection with Locally Consistent Gaussian Mixture Model**|Lingjie Su et.al.|[2407.17183v1](http://arxiv.org/abs/2407.17183v1)|null|
-|**2024-07-23**|**SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration**|Chien Erh Lin et.al.|[2407.16823v1](http://arxiv.org/abs/2407.16823v1)|null|
+|**2024-07-23**|**SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration**|Chien Erh Lin et.al.|[2407.16823v1](http://arxiv.org/abs/2407.16823v1)|**[link](https://github.com/UMich-CURLY/SE3ET)**|
 |**2024-07-19**|**PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training**|Suyi Chen et.al.|[2407.14054v1](http://arxiv.org/abs/2407.14054v1)|**[link](https://github.com/chen-suyi/pointreggpt)**|
 |**2024-07-19**|**GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation**|Bangyan Liao et.al.|[2407.13537v2](http://arxiv.org/abs/2407.13537v2)|null|
 |**2024-07-22**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705v2](http://arxiv.org/abs/2407.11705v2)|null|
@@ -1104,6 +1110,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model**|Athulya Sundaresan Geetha et.al.|[2408.06305v1](http://arxiv.org/abs/2408.06305v1)|null|
+|**2024-08-12**|**Synthetic Patient-Physician Dialogue Generation from Clinical Notes Using LLM**|Trisha Das et.al.|[2408.06285v1](http://arxiv.org/abs/2408.06285v1)|null|
+|**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272v1](http://arxiv.org/abs/2408.06272v1)|null|
+|**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244v1](http://arxiv.org/abs/2408.06244v1)|null|
+|**2024-08-12**|**Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging**|Yosuke Yamagishi et.al.|[2408.06170v1](http://arxiv.org/abs/2408.06170v1)|null|
+|**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158v1](http://arxiv.org/abs/2408.06158v1)|null|
+|**2024-08-12**|**Text2Interaction: Establishing Safe and Preferable Human-Robot Interaction**|Jakob Thumm et.al.|[2408.06105v1](http://arxiv.org/abs/2408.06105v1)|null|
+|**2024-08-12**|**Towards Robust Monocular Depth Estimation in Non-Lambertian Surfaces**|Junrui Zhang et.al.|[2408.06083v1](http://arxiv.org/abs/2408.06083v1)|null|
+|**2024-08-12**|**Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games**|Chiu-Chou Lin et.al.|[2408.06051v1](http://arxiv.org/abs/2408.06051v1)|**[link](https://github.com/DSobscure/cgi_drl_platform)**|
+|**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974v1](http://arxiv.org/abs/2408.05974v1)|**[link](https://github.com/soberguo/hoigen)**|
 |**2024-08-09**|**Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement**|Weiqing Yang et.al.|[2408.05006v1](http://arxiv.org/abs/2408.05006v1)|null|
 |**2024-08-09**|**SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement**|Chaofan Li et.al.|[2408.04919v1](http://arxiv.org/abs/2408.04919v1)|null|
 |**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|

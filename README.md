@@ -1,4 +1,4 @@
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -894,7 +894,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1042,7 +1042,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1107,13 +1107,13 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-14**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v1](http://arxiv.org/abs/2408.07680v1)|**[link](https://github.com/dsb-ifi/spit)**|
+|**2024-08-15**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v2](http://arxiv.org/abs/2408.07680v2)|**[link](https://github.com/dsb-ifi/spit)**|
 |**2024-08-14**|**Enhanced Detection of Conversational Mental Manipulation Through Advanced Prompting Techniques**|Ivory Yang et.al.|[2408.07676v1](http://arxiv.org/abs/2408.07676v1)|null|
 |**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644v1](http://arxiv.org/abs/2408.07644v1)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
 |**2024-08-14**|**Exploring Large-Scale Language Models to Evaluate EEG-Based Multimodal Data for Mental Health**|Yongquan Hu et.al.|[2408.07313v1](http://arxiv.org/abs/2408.07313v1)|null|
@@ -1121,7 +1121,7 @@
 |**2024-08-14**|**GQE: Generalized Query Expansion for Enhanced Text-Video Retrieval**|Zechen Bai et.al.|[2408.07249v1](http://arxiv.org/abs/2408.07249v1)|null|
 |**2024-08-13**|**Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents**|Pranav Putta et.al.|[2408.07199v1](http://arxiv.org/abs/2408.07199v1)|null|
 |**2024-08-13**|**PSM: Learning Probabilistic Embeddings for Multi-scale Zero-Shot Soundscape Mapping**|Subash Khanal et.al.|[2408.07050v1](http://arxiv.org/abs/2408.07050v1)|null|
-|**2024-08-13**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v1](http://arxiv.org/abs/2408.06970v1)|null|
+|**2024-08-15**|**Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2**|Osher Rafaeli et.al.|[2408.06970v2](http://arxiv.org/abs/2408.06970v2)|null|
 |**2024-08-13**|**How Aligned are Human Chart Takeaways and LLM Predictions? A Case Study on Bar Charts with Varying Layouts**|Huichen Will Wang et.al.|[2408.06837v1](http://arxiv.org/abs/2408.06837v1)|null|
 |**2024-08-13**|**PRESENT: Zero-Shot Text-to-Prosody Control**|Perry Lam et.al.|[2408.06827v1](http://arxiv.org/abs/2408.06827v1)|null|
 |**2024-08-13**|**Visual Neural Decoding via Improved Visual-EEG Semantic Consistency**|Hongzhou Chen et.al.|[2408.06788v1](http://arxiv.org/abs/2408.06788v1)|null|
@@ -3431,5 +3431,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240816>back to top</a>)</p>
 

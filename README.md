@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723v1](http://arxiv.org/abs/2408.08723v1)|null|
+|**2024-08-16**|**SketchRef: A Benchmark Dataset and Evaluation Metrics for Automated Sketch Synthesis**|Xingyue Lin et.al.|[2408.08623v1](http://arxiv.org/abs/2408.08623v1)|null|
 |**2024-08-15**|**HyperTaxel: Hyper-Resolution for Taxel-Based Tactile Signals Through Contrastive Learning**|Hongyu Li et.al.|[2408.08312v1](http://arxiv.org/abs/2408.08312v1)|null|
 |**2024-08-15**|**Comparative Evaluation of 3D Reconstruction Methods for Object Pose Estimation**|Varun Burde et.al.|[2408.08234v1](http://arxiv.org/abs/2408.08234v1)|**[link](https://github.com/varunburde/reconstruction_pose_benchmark)**|
 |**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202v1](http://arxiv.org/abs/2408.08202v1)|null|
@@ -1119,6 +1121,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855v1](http://arxiv.org/abs/2408.08855v1)|null|
+|**2024-08-16**|**ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis**|Yubao Zhao et.al.|[2408.08849v1](http://arxiv.org/abs/2408.08849v1)|null|
+|**2024-08-16**|**EasyRec: Simple yet Effective Language Models for Recommendation**|Xubin Ren et.al.|[2408.08821v1](http://arxiv.org/abs/2408.08821v1)|**[link](https://github.com/hkuds/easyrec)**|
+|**2024-08-16**|**ChatZero:Zero-shot Cross-Lingual Dialogue Generation via Pseudo-Target Language**|Yongkang Liu et.al.|[2408.08724v1](http://arxiv.org/abs/2408.08724v1)|null|
+|**2024-08-16**|**TsCA: On the Semantic Consistency Alignment via Conditional Transport for Compositional Zero-Shot Learning**|Miaoge Li et.al.|[2408.08703v1](http://arxiv.org/abs/2408.08703v1)|null|
+|**2024-08-16**|**A Mean Field Ansatz for Zero-Shot Weight Transfer**|Xingyuan Chen et.al.|[2408.08681v1](http://arxiv.org/abs/2408.08681v1)|null|
+|**2024-08-16**|**GAPS: A Large and Diverse Classical Guitar Dataset and Benchmark Transcription Model**|Xavier Riley et.al.|[2408.08653v1](http://arxiv.org/abs/2408.08653v1)|null|
+|**2024-08-16**|**Persona is a Double-edged Sword: Enhancing the Zero-shot Reasoning by Ensembling the Role-playing and Neutral Prompts**|Junseok Kim et.al.|[2408.08631v1](http://arxiv.org/abs/2408.08631v1)|null|
+|**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591v1](http://arxiv.org/abs/2408.08591v1)|null|
+|**2024-08-16**|**CommunityKG-RAG: Leveraging Community Structures in Knowledge Graphs for Advanced Retrieval-Augmented Generation in Fact-Checking**|Rong-Ching Chang et.al.|[2408.08535v1](http://arxiv.org/abs/2408.08535v1)|null|
 |**2024-08-15**|**ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws**|Ruihang Li et.al.|[2408.08310v1](http://arxiv.org/abs/2408.08310v1)|null|
 |**2024-08-16**|**Covert Bias: The Severity of Social Views' Unalignment in Language Models Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212v2](http://arxiv.org/abs/2408.08212v2)|null|
 |**2024-08-15**|**Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**|Stefano Woerner et.al.|[2408.08058v1](http://arxiv.org/abs/2408.08058v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1108,7 +1108,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-15**|**ScalingFilter: Assessing Data Quality through Inverse Utilization of Scaling Laws**|Ruihang Li et.al.|[2408.08310v1](http://arxiv.org/abs/2408.08310v1)|null|
-|**2024-08-15**|**Covert Bias: The Severity of Social Views' Unalignment Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212v1](http://arxiv.org/abs/2408.08212v1)|null|
+|**2024-08-16**|**Covert Bias: The Severity of Social Views' Unalignment in Language Models Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212v2](http://arxiv.org/abs/2408.08212v2)|null|
 |**2024-08-15**|**Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**|Stefano Woerner et.al.|[2408.08058v1](http://arxiv.org/abs/2408.08058v1)|null|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981v1](http://arxiv.org/abs/2408.07981v1)|null|
 |**2024-08-15**|**Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training**|Yiming Li et.al.|[2408.07919v1](http://arxiv.org/abs/2408.07919v1)|null|

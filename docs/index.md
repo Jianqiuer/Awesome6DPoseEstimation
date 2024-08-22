@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.21
+## Updated on 2024.08.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1119,7 +1119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-20**|**CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**|Zijian Zhao et.al.|[2408.10919v1](http://arxiv.org/abs/2408.10919v1)|null|
+|**2024-08-21**|**CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network**|Zijian Zhao et.al.|[2408.10919v2](http://arxiv.org/abs/2408.10919v2)|null|
 |**2024-08-20**|**ViLReF: A Chinese Vision-Language Retinal Foundation Model**|Shengzhu Yang et.al.|[2408.10894v1](http://arxiv.org/abs/2408.10894v1)|**[link](https://github.com/t6yang/vilref)**|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880v1](http://arxiv.org/abs/2408.10880v1)|null|
 |**2024-08-20**|**SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS**|Karl El Hajal et.al.|[2408.10771v1](http://arxiv.org/abs/2408.10771v1)|null|

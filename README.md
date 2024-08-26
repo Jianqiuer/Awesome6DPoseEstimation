@@ -1137,6 +1137,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**On Class Separability Pitfalls In Audio-Text Contrastive Zero-Shot Learning**|Tiago Tavares et.al.|[2408.13068v1](http://arxiv.org/abs/2408.13068v1)|null|
+|**2024-08-23**|**WildFusion: Individual Animal Identification with Calibrated Similarity Fusion**|Vojtěch Cermak et.al.|[2408.12934v1](http://arxiv.org/abs/2408.12934v1)|null|
+|**2024-08-23**|**Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey**|Yichi Zhang et.al.|[2408.12889v1](http://arxiv.org/abs/2408.12889v1)|**[link](https://github.com/yichizhang98/sam4mis)**|
+|**2024-08-23**|**Predicting Affective States from Screen Text Sentiment**|Songyan Teng et.al.|[2408.12844v1](http://arxiv.org/abs/2408.12844v1)|null|
+|**2024-08-23**|**Examining the Commitments and Difficulties Inherent in Multimodal Foundation Models for Street View Imagery**|Zhenyuan Yang et.al.|[2408.12821v1](http://arxiv.org/abs/2408.12821v1)|null|
+|**2024-08-23**|**VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models**|Purushothaman Natarajan et.al.|[2408.12808v1](http://arxiv.org/abs/2408.12808v1)|null|
+|**2024-08-23**|**Cap2Sum: Learning to Summarize Videos by Generating Captions**|Cairong Zhao et.al.|[2408.12800v1](http://arxiv.org/abs/2408.12800v1)|null|
+|**2024-08-22**|**Segment Anything Model for Grain Characterization in Hard Drive Design**|Kai Nichols et.al.|[2408.12732v1](http://arxiv.org/abs/2408.12732v1)|null|
 |**2024-08-22**|**Cell-ontology guided transcriptome foundation model**|Xinyu Yuan et.al.|[2408.12373v1](http://arxiv.org/abs/2408.12373v1)|null|
 |**2024-08-22**|**SAM-SP: Self-Prompting Makes SAM Great Again**|Chunpeng Zhou et.al.|[2408.12364v1](http://arxiv.org/abs/2408.12364v1)|null|
 |**2024-08-22**|**Adapt CLIP as Aggregation Instructor for Image Dehazing**|Xiaozhe Zhang et.al.|[2408.12317v1](http://arxiv.org/abs/2408.12317v1)|null|

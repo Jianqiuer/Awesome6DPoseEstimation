@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2024-08-25**|**InterTrack: Tracking Human Object Interaction without Object Templates**|Xianghui Xie et.al.|[2408.13953v1](http://arxiv.org/abs/2408.13953v1)|null|
 |**2024-08-24**|**Temporally-consistent 3D Reconstruction of Birds**|Johannes Hägerlind et.al.|[2408.13629v1](http://arxiv.org/abs/2408.13629v1)|null|
 |**2024-08-24**|**Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation**|Jianing Song et.al.|[2408.13587v1](http://arxiv.org/abs/2408.13587v1)|null|
-|**2024-08-23**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569v2](http://arxiv.org/abs/2408.12569v2)|null|
+|**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569v3](http://arxiv.org/abs/2408.12569v3)|null|
 |**2024-08-21**|**GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**|Wanshui Gan et.al.|[2408.11447v1](http://arxiv.org/abs/2408.11447v1)|**[link](https://github.com/ganwanshui/gaussianocc)**|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831v1](http://arxiv.org/abs/2408.10831v1)|null|

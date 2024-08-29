@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1129,13 +1129,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-27**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v1](http://arxiv.org/abs/2408.15063v1)|null|
+|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v2](http://arxiv.org/abs/2408.15063v2)|null|
 |**2024-08-26**|**MONAS: Efficient Zero-Shot Neural Architecture Search for MCUs**|Ye Qiao et.al.|[2408.15034v1](http://arxiv.org/abs/2408.15034v1)|null|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964v1](http://arxiv.org/abs/2408.14964v1)|null|
 |**2024-08-27**|**ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**|Wenjin Hou et.al.|[2408.14868v1](http://arxiv.org/abs/2408.14868v1)|null|
 |**2024-08-27**|**Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics**|Yixuan Huang et.al.|[2408.14769v1](http://arxiv.org/abs/2408.14769v1)|null|
 |**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|null|
-|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438v1](http://arxiv.org/abs/2408.14438v1)|null|
+|**2024-08-28**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438v2](http://arxiv.org/abs/2408.14438v2)|null|
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
 |**2024-08-26**|**Self-supervised Speech Representations Still Struggle with African American Vernacular English**|Kalvin Chang et.al.|[2408.14262v1](http://arxiv.org/abs/2408.14262v1)|**[link](https://github.com/cmu-llab/s3m-aave)**|
 |**2024-08-26**|**AgentMove: Predicting Human Mobility Anywhere Using Large Language Model based Agentic Framework**|Jie Feng et.al.|[2408.13986v1](http://arxiv.org/abs/2408.13986v1)|**[link](https://github.com/tsinghua-fib-lab/agentmove)**|

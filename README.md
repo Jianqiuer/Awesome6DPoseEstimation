@@ -1,4 +1,4 @@
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -918,7 +918,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1069,7 +1069,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1135,19 +1135,19 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-27**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v1](http://arxiv.org/abs/2408.15063v1)|null|
+|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v2](http://arxiv.org/abs/2408.15063v2)|null|
 |**2024-08-26**|**MONAS: Efficient Zero-Shot Neural Architecture Search for MCUs**|Ye Qiao et.al.|[2408.15034v1](http://arxiv.org/abs/2408.15034v1)|null|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964v1](http://arxiv.org/abs/2408.14964v1)|null|
 |**2024-08-27**|**ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**|Wenjin Hou et.al.|[2408.14868v1](http://arxiv.org/abs/2408.14868v1)|null|
 |**2024-08-27**|**Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics**|Yixuan Huang et.al.|[2408.14769v1](http://arxiv.org/abs/2408.14769v1)|null|
 |**2024-08-26**|**Advancing Humanoid Locomotion: Mastering Challenging Terrains with Denoising World Model Learning**|Xinyang Gu et.al.|[2408.14472v1](http://arxiv.org/abs/2408.14472v1)|null|
-|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438v1](http://arxiv.org/abs/2408.14438v1)|null|
+|**2024-08-28**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu et.al.|[2408.14438v2](http://arxiv.org/abs/2408.14438v2)|null|
 |**2024-08-26**|**Uncertainties of Latent Representations in Computer Vision**|Michael Kirchhof et.al.|[2408.14281v1](http://arxiv.org/abs/2408.14281v1)|null|
 |**2024-08-26**|**Self-supervised Speech Representations Still Struggle with African American Vernacular English**|Kalvin Chang et.al.|[2408.14262v1](http://arxiv.org/abs/2408.14262v1)|**[link](https://github.com/cmu-llab/s3m-aave)**|
 |**2024-08-26**|**AgentMove: Predicting Human Mobility Anywhere Using Large Language Model based Agentic Framework**|Jie Feng et.al.|[2408.13986v1](http://arxiv.org/abs/2408.13986v1)|**[link](https://github.com/tsinghua-fib-lab/agentmove)**|
@@ -3538,5 +3538,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240829>back to top</a>)</p>
 

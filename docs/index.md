@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2024-08-29**|**GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**|Xiangchen Yin et.al.|[2408.16540v1](http://arxiv.org/abs/2408.16540v1)|null|
 |**2024-08-28**|**Are Pose Estimators Ready for the Open World? STAGE: Synthetic Data Generation Toolkit for Auditing 3D Human Pose Estimators**|Nikita Kister et.al.|[2408.16536v1](http://arxiv.org/abs/2408.16536v1)|null|
 |**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810v1](http://arxiv.org/abs/2408.15810v1)|**[link](https://github.com/laurabragagnolo/human3.6m-occluded)**|
-|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v1](http://arxiv.org/abs/2408.15761v1)|null|
+|**2024-08-30**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v2](http://arxiv.org/abs/2408.15761v2)|null|
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
 |**2024-08-28**|**Benchmarking ML Approaches to UWB-Based Range-Only Posture Recognition for Human Robot-Interaction**|Salma Salimi et.al.|[2408.15717v1](http://arxiv.org/abs/2408.15717v1)|null|
 |**2024-08-26**|**Bengali Sign Language Recognition through Hand Pose Estimation using Multi-Branch Spatial-Temporal Attention Model**|Abu Saleh Musa Miah et.al.|[2408.14111v1](http://arxiv.org/abs/2408.14111v1)|null|

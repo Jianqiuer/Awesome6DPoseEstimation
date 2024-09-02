@@ -1,4 +1,4 @@
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2024-08-29**|**GRPose: Learning Graph Relations for Human Image Generation with Pose Priors**|Xiangchen Yin et.al.|[2408.16540v1](http://arxiv.org/abs/2408.16540v1)|null|
 |**2024-08-28**|**Are Pose Estimators Ready for the Open World? STAGE: Synthetic Data Generation Toolkit for Auditing 3D Human Pose Estimators**|Nikita Kister et.al.|[2408.16536v1](http://arxiv.org/abs/2408.16536v1)|null|
 |**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810v1](http://arxiv.org/abs/2408.15810v1)|**[link](https://github.com/laurabragagnolo/human3.6m-occluded)**|
-|**2024-08-28**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v1](http://arxiv.org/abs/2408.15761v1)|null|
+|**2024-08-30**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761v2](http://arxiv.org/abs/2408.15761v2)|null|
 |**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750v1](http://arxiv.org/abs/2408.15750v1)|null|
 |**2024-08-28**|**Benchmarking ML Approaches to UWB-Based Range-Only Posture Recognition for Human Robot-Interaction**|Salma Salimi et.al.|[2408.15717v1](http://arxiv.org/abs/2408.15717v1)|null|
 |**2024-08-26**|**Bengali Sign Language Recognition through Hand Pose Estimation using Multi-Branch Spatial-Temporal Attention Model**|Abu Saleh Musa Miah et.al.|[2408.14111v1](http://arxiv.org/abs/2408.14111v1)|null|
@@ -926,7 +926,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240902>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1077,7 +1077,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240902>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1144,7 +1144,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240902>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -3565,5 +3565,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240902>back to top</a>)</p>
 

@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-01**|**Recoverable Anonymization for Pose Estimation: A Privacy-Enhancing Approach**|Wenjun Huang et.al.|[2409.02715v1](http://arxiv.org/abs/2409.02715v1)|null|
+|**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581v1](http://arxiv.org/abs/2409.02581v1)|null|
+|**2024-09-03**|**EgoPressure: A Dataset for Hand Pressure and Pose Estimation in Egocentric Vision**|Yiming Zhao et.al.|[2409.02224v1](http://arxiv.org/abs/2409.02224v1)|null|
+|**2024-09-03**|**Deep learning for objective estimation of Parkinsonian tremor severity**|Felipe Duque-Quiceno et.al.|[2409.02011v1](http://arxiv.org/abs/2409.02011v1)|null|
+|**2024-09-03**|**SPiKE: 3D Human Pose from Point Cloud Sequences**|Irene Ballester et.al.|[2409.01879v1](http://arxiv.org/abs/2409.01879v1)|**[link](https://github.com/iballester/SPiKE)**|
+|**2024-09-02**|**Kalman Filtering for Precise Indoor Position and Orientation Estimation Using IMU and Acoustics on Riemannian Manifolds**|Mohammed H. AlSharif et.al.|[2409.01002v1](http://arxiv.org/abs/2409.01002v1)|null|
+|**2024-09-01**|**Detection, Recognition and Pose Estimation of Tabletop Objects**|Sanjuksha Nirgude et.al.|[2409.00869v1](http://arxiv.org/abs/2409.00869v1)|null|
+|**2024-09-01**|**DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation**|Huixin Zhang et.al.|[2409.00744v1](http://arxiv.org/abs/2409.00744v1)|**[link](https://github.com/irmvlab/dslo)**|
+|**2024-09-01**|**MoManifold: Learning to Measure 3D Human Motion via Decoupled Joint Acceleration Manifolds**|Ziqiang Dang et.al.|[2409.00736v1](http://arxiv.org/abs/2409.00736v1)|null|
+|**2024-08-31**|**ActionPose: Pretraining 3D Human Pose Estimation with the Dark Knowledge of Action**|Longyun Liao et.al.|[2409.00449v1](http://arxiv.org/abs/2409.00449v1)|null|
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373v3](http://arxiv.org/abs/2408.17373v3)|null|
 |**2024-08-30**|**BOP-D: Revisiting 6D Pose Estimation Benchmark for Better Evaluation under Visual Ambiguities**|Boris Meden et.al.|[2408.17297v1](http://arxiv.org/abs/2408.17297v1)|null|
 |**2024-08-30**|**EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs**|Zhen Fan et.al.|[2408.17168v1](http://arxiv.org/abs/2408.17168v1)|null|
@@ -1076,6 +1086,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-03**|**When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels**|Yifan Liu et.al.|[2409.01691v1](http://arxiv.org/abs/2409.01691v1)|null|
+|**2024-09-03**|**Efficiently Expanding Receptive Fields: Local Split Attention and Parallel Aggregation for Enhanced Large-scale Point Cloud Semantic Segmentation**|Haodong Wang et.al.|[2409.01662v1](http://arxiv.org/abs/2409.01662v1)|null|
 |**2024-08-29**|**Towards Modality-agnostic Label-efficient Segmentation with Entropy-Regularized Distribution Alignment**|Liyao Tang et.al.|[2408.16520v1](http://arxiv.org/abs/2408.16520v1)|**[link](https://github.com/LiyaoTang/ERDA)**|
 |**2024-08-21**|**GSTran: Joint Geometric and Semantic Coherence for Point Cloud Segmentation**|Abiao Li et.al.|[2408.11558v1](http://arxiv.org/abs/2408.11558v1)|**[link](https://github.com/lab123-tech/gstran)**|
 |**2024-08-02**|**Trainable Pointwise Decoder Module for Point Cloud Segmentation**|Bike Chen et.al.|[2408.01548v1](http://arxiv.org/abs/2408.01548v1)|null|
@@ -1141,6 +1153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection**|Kaiqing Lin et.al.|[2409.02664v1](http://arxiv.org/abs/2409.02664v1)|null|
+|**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|null|
+|**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543v1](http://arxiv.org/abs/2409.02543v1)|**[link](https://github.com/alipay/style-tokenizer)**|
+|**2024-09-04**|**Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts**|Arianna Muti et.al.|[2409.02519v1](http://arxiv.org/abs/2409.02519v1)|null|
+|**2024-09-04**|**Dispelling Four Challenges in Inertial Motion Tracking with One Recurrent Inertial Graph-based Estimator (RING)**|Simon Bachhuber et.al.|[2409.02502v1](http://arxiv.org/abs/2409.02502v1)|null|
+|**2024-09-04**|**Boosting Generalizability towards Zero-Shot Cross-Dataset Single-Image Indoor Depth by Meta-Initialization**|Cho-Ying Wu et.al.|[2409.02486v1](http://arxiv.org/abs/2409.02486v1)|null|
+|**2024-09-04**|**Large Language Models as Efficient Reward Function Searchers for Custom-Environment Multi-Objective Reinforcement Learning**|Guanwen Xie et.al.|[2409.02428v1](http://arxiv.org/abs/2409.02428v1)|null|
+|**2024-09-03**|**Evaluation and Comparison of Visual Language Models for Transportation Engineering Problems**|Sanjita Prajapati et.al.|[2409.02278v1](http://arxiv.org/abs/2409.02278v1)|null|
+|**2024-09-03**|**LinFusion: 1 GPU, 1 Minute, 16K Image**|Songhua Liu et.al.|[2409.02097v1](http://arxiv.org/abs/2409.02097v1)|**[link](https://github.com/huage001/linfusion)**|
+|**2024-09-03**|**DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos**|Wenbo Hu et.al.|[2409.02095v1](http://arxiv.org/abs/2409.02095v1)|null|
 |**2024-08-30**|**Bridging Episodes and Semantics: A Novel Framework for Long-Form Video Understanding**|Gueter Josmy Faure et.al.|[2408.17443v1](http://arxiv.org/abs/2408.17443v1)|**[link](https://github.com/joslefaure/HERMES)**|
 |**2024-08-30**|**VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters**|Mouxiang Chen et.al.|[2408.17253v1](http://arxiv.org/abs/2408.17253v1)|**[link](https://github.com/keytoyze/visionts)**|
 |**2024-08-30**|**Reasoning AI Performance Degradation in 6G Networks with Large Language Models**|Liming Huang et.al.|[2408.17097v1](http://arxiv.org/abs/2408.17097v1)|null|

@@ -1165,7 +1165,7 @@ layout: default
 |**2024-09-05**|**iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models**|Yassir Lairgi et.al.|[2409.03284v1](http://arxiv.org/abs/2409.03284v1)|**[link](https://github.com/AuvaLab/itext2kg)**|
 |**2024-09-05**|**FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications**|Hao-Han Guo et.al.|[2409.03283v1](http://arxiv.org/abs/2409.03283v1)|null|
 |**2024-09-04**|**Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection**|Kaiqing Lin et.al.|[2409.02664v1](http://arxiv.org/abs/2409.02664v1)|null|
-|**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|null|
+|**2024-09-04**|**Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation**|Tiantian Zhang et.al.|[2409.02567v1](http://arxiv.org/abs/2409.02567v1)|**[link](https://github.com/PJLallen/InstanceSAM2Eval)**|
 |**2024-09-04**|**StyleTokenizer: Defining Image Style by a Single Instance for Controlling Diffusion Models**|Wen Li et.al.|[2409.02543v1](http://arxiv.org/abs/2409.02543v1)|**[link](https://github.com/alipay/style-tokenizer)**|
 |**2024-09-04**|**Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompts**|Arianna Muti et.al.|[2409.02519v1](http://arxiv.org/abs/2409.02519v1)|null|
 |**2024-09-04**|**Dispelling Four Challenges in Inertial Motion Tracking with One Recurrent Inertial Graph-based Estimator (RING)**|Simon Bachhuber et.al.|[2409.02502v1](http://arxiv.org/abs/2409.02502v1)|null|
@@ -1198,7 +1198,7 @@ layout: default
 |**2024-08-28**|**Merging and Splitting Diffusion Paths for Semantically Coherent Panoramas**|Fabio Quattrini et.al.|[2408.15660v1](http://arxiv.org/abs/2408.15660v1)|**[link](https://github.com/aimagelab/mad)**|
 |**2024-08-28**|**Learning dynamics models for velocity estimation in autonomous racing**|Jan Węgrzynowski et.al.|[2408.15610v1](http://arxiv.org/abs/2408.15610v1)|null|
 |**2024-08-28**|**Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation**|Ziqian Ning et.al.|[2408.15474v1](http://arxiv.org/abs/2408.15474v1)|null|
-|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v2](http://arxiv.org/abs/2408.15063v2)|null|
+|**2024-08-28**|**Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance**|Kunpeng Wang et.al.|[2408.15063v2](http://arxiv.org/abs/2408.15063v2)|**[link](https://github.com/angknpng/sammese)**|
 |**2024-08-26**|**MONAS: Efficient Zero-Shot Neural Architecture Search for MCUs**|Ye Qiao et.al.|[2408.15034v1](http://arxiv.org/abs/2408.15034v1)|null|
 |**2024-08-27**|**Cross-Modal Learning for Chemistry Property Prediction: Large Language Models Meet Graph Machine Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14964v1](http://arxiv.org/abs/2408.14964v1)|null|
 |**2024-08-27**|**ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning**|Wenjin Hou et.al.|[2408.14868v1](http://arxiv.org/abs/2408.14868v1)|null|
@@ -1941,7 +1941,7 @@ layout: default
 |**2024-04-22**|**Zero-shot Cross-lingual Stance Detection via Adversarial Language Adaptation**|Bharathi A et.al.|[2404.14339v1](http://arxiv.org/abs/2404.14339v1)|**[link](https://github.com/bharathi-a-7/mtab-cross-lingual-vaccine-stance-detection)**|
 |**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|
 |**2024-04-22**|**Multi-view Disentanglement for Reinforcement Learning with Multiple Cameras**|Mhairi Dunion et.al.|[2404.14064v1](http://arxiv.org/abs/2404.14064v1)|**[link](https://github.com/uoe-agents/mvd)**|
-|**2024-04-22**|**Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**|Yingxuan Li et.al.|[2404.13993v1](http://arxiv.org/abs/2404.13993v1)|null|
+|**2024-04-22**|**Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**|Yingxuan Li et.al.|[2404.13993v1](http://arxiv.org/abs/2404.13993v1)|**[link](https://github.com/liyingxuan1012/zeroshot-speaker-prediction)**|
 |**2024-04-22**|**Information Re-Organization Improves Reasoning in Large Language Models**|Xiaoxia Cheng et.al.|[2404.13985v1](http://arxiv.org/abs/2404.13985v1)|null|
 |**2024-04-22**|**Generating Attractive and Authentic Copywriting from Customer Reviews**|Yu-Xiang Lin et.al.|[2404.13906v1](http://arxiv.org/abs/2404.13906v1)|null|
 |**2024-04-21**|**BC-MRI-SEG: A Breast Cancer MRI Tumor Segmentation Benchmark**|Anthony Bilic et.al.|[2404.13756v1](http://arxiv.org/abs/2404.13756v1)|null|
@@ -2250,7 +2250,7 @@ layout: default
 |**2024-03-06**|**Multi-Grained Cross-modal Alignment for Learning Open-vocabulary Semantic Segmentation from Text Supervision**|Yajie Liu et.al.|[2403.03707v1](http://arxiv.org/abs/2403.03707v1)|null|
 |**2024-03-06**|**A Knowledge Plug-and-Play Test Bed for Open-domain Dialogue Generation**|Xiangci Li et.al.|[2403.03496v1](http://arxiv.org/abs/2403.03496v1)|**[link](https://github.com/jacklxc/ms.wow)**|
 |**2024-03-05**|**Scope of Large Language Models for Mining Emerging Opinions in Online Health Discourse**|Joseph Gatto et.al.|[2403.03336v1](http://arxiv.org/abs/2403.03336v1)|null|
-|**2024-03-05**|**Learning Zero-Shot Material States Segmentation, by Implanting Natural Image Patterns in Synthetic Data**|Sagi Eppel et.al.|[2403.03309v1](http://arxiv.org/abs/2403.03309v1)|null|
+|**2024-03-05**|**Learning Zero-Shot Material States Segmentation, by Implanting Natural Image Patterns in Synthetic Data**|Sagi Eppel et.al.|[2403.03309v1](http://arxiv.org/abs/2403.03309v1)|**[link](https://github.com/sagieppel/matseg)**|
 |**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174v1](http://arxiv.org/abs/2403.03174v1)|null|
 |**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167v1](http://arxiv.org/abs/2403.03167v1)|**[link](https://github.com/gglab-ku/paradise)**|
 |**2024-03-05**|**NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models**|Zeqian Ju et.al.|[2403.03100v1](http://arxiv.org/abs/2403.03100v1)|null|
@@ -3029,7 +3029,7 @@ layout: default
 |**2023-10-24**|**POE: Process of Elimination for Multiple Choice Reasoning**|Chenkai Ma et.al.|[2310.15575v1](http://arxiv.org/abs/2310.15575v1)|**[link](https://github.com/kasmasvan/poe)**|
 |**2023-10-24**|**Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation**|Jason Lucas et.al.|[2310.15515v1](http://arxiv.org/abs/2310.15515v1)|**[link](https://github.com/mickeymst/f3)**|
 |**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154v1](http://arxiv.org/abs/2310.15154v1)|**[link](https://github.com/curt-tigges/eliciting-latent-sentiment)**|
-|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|null|
+|**2023-10-23**|**Matryoshka Diffusion Models**|Jiatao Gu et.al.|[2310.15111v1](http://arxiv.org/abs/2310.15111v1)|**[link](https://github.com/apple/ml-mdm)**|
 |**2023-10-23**|**FD-Align: Feature Discrimination Alignment for Fine-tuning Pre-Trained Models in Few-Shot Learning**|Kun Song et.al.|[2310.15105v1](http://arxiv.org/abs/2310.15105v1)|**[link](https://github.com/skingorz/fd-align)**|
 |**2023-10-23**|**The BLA Benchmark: Investigating Basic Language Abilities of Pre-Trained Multimodal Models**|Xinyi Chen et.al.|[2310.15061v1](http://arxiv.org/abs/2310.15061v1)|**[link](https://github.com/shin-ee-chen/bla)**|
 |**2023-10-23**|**Robot Skill Generalization via Keypoint Integrated Soft Actor-Critic Gaussian Mixture Models**|Iman Nematollahi et.al.|[2310.15059v1](http://arxiv.org/abs/2310.15059v1)|null|
@@ -3278,7 +3278,7 @@ layout: default
 |**2023-09-12**|**Measuring Catastrophic Forgetting in Cross-Lingual Transfer Paradigms: Exploring Tuning Strategies**|Boshko Koloski et.al.|[2309.06089v1](http://arxiv.org/abs/2309.06089v1)|null|
 |**2023-09-12**|**Beyond Generation: Harnessing Text to Image Models for Object Detection and Segmentation**|Yunhao Ge et.al.|[2309.05956v1](http://arxiv.org/abs/2309.05956v1)|**[link](https://github.com/gyhandy/text2image-for-detection)**|
 |**2023-09-12**|**SAGE: Structured Attribute Value Generation for Billion-Scale Product Catalogs**|Athanasios N. Nikolakopoulos et.al.|[2309.05920v1](http://arxiv.org/abs/2309.05920v1)|null|
-|**2023-09-12**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v1](http://arxiv.org/abs/2309.05904v1)|null|
+|**2023-09-12**|**Enhancing Representation in Radiography-Reports Foundation Model: A Granular Alignment Algorithm Using Masked Contrastive Learning**|Weijian Huang et.al.|[2309.05904v1](http://arxiv.org/abs/2309.05904v1)|**[link](https://github.com/szuhvern/maco)**|
 |**2023-09-11**|**Natural Language Supervision for General-Purpose Audio Representations**|Benjamin Elizalde et.al.|[2309.05767v1](http://arxiv.org/abs/2309.05767v1)|**[link](https://github.com/microsoft/clap)**|
 |**2023-09-11**|**Effective Proxy for Human Labeling: Ensemble Disagreement Scores in Large Language Models for Industrial NLP**|Wei Du et.al.|[2309.05619v1](http://arxiv.org/abs/2309.05619v1)|null|
 |**2023-09-11**|**ReSimAD: Zero-Shot 3D Domain Transfer for Autonomous Driving with Source Reconstruction and Target Simulation**|Bo Zhang et.al.|[2309.05527v1](http://arxiv.org/abs/2309.05527v1)|**[link](https://github.com/pjlab-adg/3dtrans)**|

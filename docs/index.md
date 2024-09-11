@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1165,7 +1165,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|null|
-|**2024-09-09**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862v1](http://arxiv.org/abs/2409.05862v1)|**[link](https://github.com/tzler/mochi_code)**|
+|**2024-09-10**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862v2](http://arxiv.org/abs/2409.05862v2)|**[link](https://github.com/tzler/mochi_code)**|
 |**2024-09-09**|**A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**|Qi Jiang et.al.|[2409.05809v1](http://arxiv.org/abs/2409.05809v1)|null|
 |**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|null|
 |**2024-09-09**|**Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!**|Yuchen Shen et.al.|[2409.05672v1](http://arxiv.org/abs/2409.05672v1)|null|

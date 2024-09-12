@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Benchmarking 2D Egocentric Hand Pose Datasets**|Olga Taran et.al.|[2409.07337v1](http://arxiv.org/abs/2409.07337v1)|null|
+|**2024-09-11**|**iKalibr-RGBD: Partially-Specialized Target-Free Visual-Inertial Spatiotemporal Calibration For RGBDs via Continuous-Time Velocity Estimation**|Shuolong Chen et.al.|[2409.07116v1](http://arxiv.org/abs/2409.07116v1)|**[link](https://github.com/unsigned-long/ikalibr)**|
+|**2024-09-11**|**Equivariant Filter for Tightly Coupled LiDAR-Inertial Odometry**|Anbo Tao et.al.|[2409.06948v1](http://arxiv.org/abs/2409.06948v1)|null|
+|**2024-09-10**|**A Bayesian framework for active object recognition, pose estimation and shape transfer learning through touch**|Haodong Zheng et.al.|[2409.06912v1](http://arxiv.org/abs/2409.06912v1)|null|
 |**2024-09-11**|**Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences**|Shishir Reddy Vutukur et.al.|[2409.06683v2](http://arxiv.org/abs/2409.06683v2)|null|
 |**2024-09-10**|**PoseEmbroider: Towards a 3D, Visual, Semantic-aware Human Pose Representation**|Ginger Delmas et.al.|[2409.06535v1](http://arxiv.org/abs/2409.06535v1)|null|
 |**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240v1](http://arxiv.org/abs/2409.06240v1)|null|
@@ -1168,6 +1172,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**Online Decision MetaMorphFormer: A Casual Transformer-Based Reinforcement Learning Framework of Universal Embodied Intelligence**|Luo Ji et.al.|[2409.07341v1](http://arxiv.org/abs/2409.07341v1)|null|
+|**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331v1](http://arxiv.org/abs/2409.07331v1)|null|
+|**2024-09-11**|**PaveSAM Segment Anything for Pavement Distress**|Neema Jakisa Owor et.al.|[2409.07295v1](http://arxiv.org/abs/2409.07295v1)|null|
+|**2024-09-11**|**A Fine-grained Sentiment Analysis of App Reviews using Large Language Models: An Evaluation Study**|Faiz Ali Shah et.al.|[2409.07162v1](http://arxiv.org/abs/2409.07162v1)|**[link](https://github.com/faiz-ut/eval-feature-sentiment-extraction-llms)**|
+|**2024-09-11**|**Zero-Shot Text-to-Speech as Golden Speech Generator: A Systematic Framework and its Applicability in Automatic Pronunciation Assessment**|Tien-Hong Lo et.al.|[2409.07151v1](http://arxiv.org/abs/2409.07151v1)|null|
+|**2024-09-11**|**Pushing the Limits of Vision-Language Models in Remote Sensing without Human Annotations**|Keumgang Cha et.al.|[2409.07048v1](http://arxiv.org/abs/2409.07048v1)|null|
+|**2024-09-10**|**ExIQA: Explainable Image Quality Assessment Using Distortion Attributes**|Sepehr Kazemi Ranjbar et.al.|[2409.06853v1](http://arxiv.org/abs/2409.06853v1)|null|
+|**2024-09-10**|**Translating Step-by-Step: Decomposing the Translation Process for Improved Translation Quality of Long-Form Texts**|Eleftheria Briakou et.al.|[2409.06790v1](http://arxiv.org/abs/2409.06790v1)|null|
 |**2024-09-11**|**EyeCLIP: A visual-language foundation model for multi-modal ophthalmic image analysis**|Danli Shi et.al.|[2409.06644v2](http://arxiv.org/abs/2409.06644v2)|null|
 |**2024-09-10**|**DemoStart: Demonstration-led auto-curriculum applied to sim-to-real with multi-fingered robots**|Maria Bauza et.al.|[2409.06613v1](http://arxiv.org/abs/2409.06613v1)|null|
 |**2024-09-10**|**An Effective Context-Balanced Adaptation Approach for Long-Tailed Speech Recognition**|Yi-Cheng Wang et.al.|[2409.06468v1](http://arxiv.org/abs/2409.06468v1)|null|

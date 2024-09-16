@@ -1202,11 +1202,11 @@ layout: default
 |**2024-09-10**|**SpeechTaxi: On Multilingual Semantic Speech Classification**|Lennart Keller et.al.|[2409.06372v1](http://arxiv.org/abs/2409.06372v1)|null|
 |**2024-09-10**|**MAGDA: Multi-agent guideline-driven diagnostic assistance**|David Bani-Harouni et.al.|[2409.06351v1](http://arxiv.org/abs/2409.06351v1)|null|
 |**2024-09-10**|**PharmacoMatch: Efficient 3D Pharmacophore Screening through Neural Subgraph Matching**|Daniel Rose et.al.|[2409.06316v1](http://arxiv.org/abs/2409.06316v1)|null|
-|**2024-09-10**|**Advancing Topic Segmentation of Broadcasted Speech with Multilingual Semantic Embeddings**|Sakshi Deo Shukla et.al.|[2409.06222v1](http://arxiv.org/abs/2409.06222v1)|null|
+|**2024-09-10**|**Advancing Topic Segmentation of Broadcasted Speech with Multilingual Semantic Embeddings**|Sakshi Deo Shukla et.al.|[2409.06222v1](http://arxiv.org/abs/2409.06222v1)|**[link](https://github.com/sakshishukla1996/SpeechTopSeg)**|
 |**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166v1](http://arxiv.org/abs/2409.06166v1)|null|
 |**2024-09-09**|**Differentiable programming across the PDE and Machine Learning barrier**|Nacime Bouziani et.al.|[2409.06085v1](http://arxiv.org/abs/2409.06085v1)|null|
 |**2024-09-09**|**FairHome: A Fair Housing and Fair Lending Dataset**|Anusha Bagalkotkar et.al.|[2409.05990v1](http://arxiv.org/abs/2409.05990v1)|null|
-|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|null|
+|**2024-09-09**|**Robot Utility Models: General Policies for Zero-Shot Deployment in New Environments**|Haritheja Etukuru et.al.|[2409.05865v1](http://arxiv.org/abs/2409.05865v1)|**[link](https://github.com/haritheja-e/robot-utility-models)**|
 |**2024-09-10**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862v2](http://arxiv.org/abs/2409.05862v2)|**[link](https://github.com/tzler/mochi_code)**|
 |**2024-09-09**|**A Flexible Framework for Universal Computational Aberration Correction via Automatic Lens Library Generation and Domain Adaptation**|Qi Jiang et.al.|[2409.05809v1](http://arxiv.org/abs/2409.05809v1)|null|
 |**2024-09-09**|**AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations**|Jingtao Li et.al.|[2409.05679v1](http://arxiv.org/abs/2409.05679v1)|null|
@@ -1219,8 +1219,8 @@ layout: default
 |**2024-09-06**|**FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning**|Yunhao Bai et.al.|[2409.04298v1](http://arxiv.org/abs/2409.04298v1)|**[link](https://github.com/deepmed-lab-ecnu/fs_medsam2)**|
 |**2024-09-06**|**Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering**|Jan Hofmann et.al.|[2409.04122v1](http://arxiv.org/abs/2409.04122v1)|null|
 |**2024-09-06**|**UI-JEPA: Towards Active Perception of User Intent through Onscreen User Activity**|Yicheng Fu et.al.|[2409.04081v1](http://arxiv.org/abs/2409.04081v1)|null|
-|**2024-09-06**|**AnyMatch -- Efficient Zero-Shot Entity Matching with a Small Language Model**|Zeyu Zhang et.al.|[2409.04073v1](http://arxiv.org/abs/2409.04073v1)|null|
-|**2024-09-06**|**Refining Wikidata Taxonomy using Large Language Models**|Yiwen Peng et.al.|[2409.04056v1](http://arxiv.org/abs/2409.04056v1)|null|
+|**2024-09-06**|**AnyMatch -- Efficient Zero-Shot Entity Matching with a Small Language Model**|Zeyu Zhang et.al.|[2409.04073v1](http://arxiv.org/abs/2409.04073v1)|**[link](https://github.com/Jantory/anymatch)**|
+|**2024-09-06**|**Refining Wikidata Taxonomy using Large Language Models**|Yiwen Peng et.al.|[2409.04056v1](http://arxiv.org/abs/2409.04056v1)|**[link](https://github.com/peng-yiwen/WiKC)**|
 |**2024-09-05**|**Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning**|Isaac Ray et.al.|[2409.03938v1](http://arxiv.org/abs/2409.03938v1)|null|
 |**2024-09-05**|**A deep learning approach to wall-shear stress quantification: From numerical training to zero-shot experimental application**|Esther Lagemann et.al.|[2409.03933v1](http://arxiv.org/abs/2409.03933v1)|null|
 |**2024-09-05**|**Few-shot Adaptation of Medical Vision-Language Models**|Fereshteh Shakeri et.al.|[2409.03868v1](http://arxiv.org/abs/2409.03868v1)|**[link](https://github.com/fereshteshakeri/few-shot-medvlms)**|
@@ -1559,7 +1559,7 @@ layout: default
 |**2024-07-11**|**Toto: Time Series Optimized Transformer for Observability**|Ben Cohen et.al.|[2407.07874v2](http://arxiv.org/abs/2407.07874v2)|null|
 |**2024-07-10**|**OV-DINO: Unified Open-Vocabulary Detection with Language-Aware Selective Fusion**|Hao Wang et.al.|[2407.07844v1](http://arxiv.org/abs/2407.07844v1)|**[link](https://github.com/wanghao9610/ov-dino)**|
 |**2024-07-10**|**Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR**|Nandan Thakur et.al.|[2407.07790v1](http://arxiv.org/abs/2407.07790v1)|**[link](https://github.com/castorini/touche-error-analysis)**|
-|**2024-07-11**|**SaMoye: Zero-shot Singing Voice Conversion Based on Feature Disentanglement and Synthesis**|Zihao Wang et.al.|[2407.07728v2](http://arxiv.org/abs/2407.07728v2)|null|
+|**2024-07-11**|**SaMoye: Zero-shot Singing Voice Conversion Based on Feature Disentanglement and Synthesis**|Zihao Wang et.al.|[2407.07728v2](http://arxiv.org/abs/2407.07728v2)|**[link](https://github.com/carlwangchina/samoye-svc)**|
 |**2024-07-10**|**Scaling Law in Neural Data: Non-Invasive Speech Decoding with 175 Hours of EEG Data**|Motoshige Sato et.al.|[2407.07595v1](http://arxiv.org/abs/2407.07595v1)|null|
 |**2024-07-10**|**Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction**|Yili Liu et.al.|[2407.07587v1](http://arxiv.org/abs/2407.07587v1)|null|
 |**2024-07-11**|**InstructLayout: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2407.07580v2](http://arxiv.org/abs/2407.07580v2)|null|
@@ -1630,7 +1630,7 @@ layout: default
 |**2024-06-26**|**Zero-shot prompt-based classification: topic labeling in times of foundation models in German Tweets**|Simon Münker et.al.|[2406.18239v1](http://arxiv.org/abs/2406.18239v1)|null|
 |**2024-06-26**|**Open-vocabulary Mobile Manipulation in Unseen Dynamic Environments with 3D Semantic Maps**|Dicong Qiu et.al.|[2406.18115v1](http://arxiv.org/abs/2406.18115v1)|null|
 |**2024-06-26**|**Boosting Soft Q-Learning by Bounding**|Jacob Adamczyk et.al.|[2406.18033v1](http://arxiv.org/abs/2406.18033v1)|**[link](https://github.com/jacobha/rlc-softqbounding)**|
-|**2024-06-26**|**E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**|Sefik Emre Eskimez et.al.|[2406.18009v1](http://arxiv.org/abs/2406.18009v1)|null|
+|**2024-06-26**|**E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS**|Sefik Emre Eskimez et.al.|[2406.18009v1](http://arxiv.org/abs/2406.18009v1)|**[link](https://github.com/microsoft/e2tts-test-suite)**|
 |**2024-06-26**|**Changen2: Multi-Temporal Remote Sensing Generative Change Foundation Model**|Zhuo Zheng et.al.|[2406.17998v1](http://arxiv.org/abs/2406.17998v1)|**[link](https://github.com/Z-Zheng/pytorch-change-models)**|
 |**2024-06-25**|**Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts**|Xuyang Wu et.al.|[2406.17974v1](http://arxiv.org/abs/2406.17974v1)|**[link](https://github.com/elviswxy/LVLM_fairness)**|
 |**2024-06-25**|**Efficient Document Ranking with Learnable Late Interactions**|Ziwei Ji et.al.|[2406.17968v1](http://arxiv.org/abs/2406.17968v1)|null|
@@ -1699,7 +1699,7 @@ layout: default
 |**2024-06-14**|**Diffusion Synthesizer for Efficient Multilingual Speech to Speech Translation**|Nameer Hirschkind et.al.|[2406.10223v1](http://arxiv.org/abs/2406.10223v1)|null|
 |**2024-06-14**|**Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models**|Carson Denison et.al.|[2406.10162v1](http://arxiv.org/abs/2406.10162v1)|**[link](https://github.com/anthropics/sycophancy-to-subterfuge-paper)**|
 |**2024-06-14**|**Joint Speaker Features Learning for Audio-visual Multichannel Speech Separation and Recognition**|Guinan Li et.al.|[2406.10152v1](http://arxiv.org/abs/2406.10152v1)|null|
-|**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115v1](http://arxiv.org/abs/2406.10115v1)|null|
+|**2024-06-14**|**Shelf-Supervised Multi-Modal Pre-Training for 3D Object Detection**|Mehar Khurana et.al.|[2406.10115v1](http://arxiv.org/abs/2406.10115v1)|**[link](https://github.com/meharkhurana03/cm3d)**|
 |**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939v1](http://arxiv.org/abs/2406.09939v1)|null|
 |**2024-06-14**|**POWN: Prototypical Open-World Node Classification**|Marcel Hoffmann et.al.|[2406.09926v1](http://arxiv.org/abs/2406.09926v1)|**[link](https://github.com/bobowner/pown)**|
 |**2024-06-14**|**CliBench: Multifaceted Evaluation of Large Language Models in Clinical Decisions on Diagnoses, Procedures, Lab Tests Orders and Prescriptions**|Mingyu Derek Ma et.al.|[2406.09923v1](http://arxiv.org/abs/2406.09923v1)|**[link](https://github.com/clibench/clibench)**|
@@ -2775,7 +2775,7 @@ layout: default
 |**2023-12-19**|**Split and Rephrase with Large Language Models**|David Ponce et.al.|[2312.11075v2](http://arxiv.org/abs/2312.11075v2)|null|
 |**2023-12-17**|**Multi-Label Classification of COVID-Tweets Using Large Language Models**|Aniket Deroy et.al.|[2312.10748v1](http://arxiv.org/abs/2312.10748v1)|**[link](https://github.com/anonmous1981/aisome)**|
 |**2023-12-17**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743v1](http://arxiv.org/abs/2312.10743v1)|**[link](https://github.com/archersama/uni-ctr)**|
-|**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|null|
+|**2023-12-17**|**StyleSinger: Style Transfer for Out-Of-Domain Singing Voice Synthesis**|Yu Zhang et.al.|[2312.10741v1](http://arxiv.org/abs/2312.10741v1)|**[link](https://github.com/AaronZ345/StyleSinger)**|
 |**2023-12-17**|**Cross-Domain Robustness of Transformer-based Keyphrase Generation**|Anna Glazkova et.al.|[2312.10700v1](http://arxiv.org/abs/2312.10700v1)|null|
 |**2023-12-17**|**Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion**|Xiao Wang et.al.|[2312.10692v1](http://arxiv.org/abs/2312.10692v1)|**[link](https://github.com/wangxiao5791509/Pedestrian-Attribute-Recognition-Paper-List)**|
 |**2023-12-17**|**Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval**|Weihang Su et.al.|[2312.10661v1](http://arxiv.org/abs/2312.10661v1)|**[link](https://github.com/oneal2000/wikiformer)**|

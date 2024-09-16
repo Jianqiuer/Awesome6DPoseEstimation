@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|**[link](https://github.com/ybkurt/vift)**|
+|**2024-09-13**|**WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users**|Yunzhi Li et.al.|[2409.08494v1](http://arxiv.org/abs/2409.08494v1)|null|
+|**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|null|
 |**2024-09-12**|**Touch2Touch: Cross-Modal Tactile Generation for Object Manipulation**|Samanta Rodriguez et.al.|[2409.08269v1](http://arxiv.org/abs/2409.08269v1)|null|
 |**2024-09-12**|**Covariance Intersection-based Invariant Kalman Filtering(DInCIKF) for Distributed Pose Estimation**|Haoying Li et.al.|[2409.07933v1](http://arxiv.org/abs/2409.07933v1)|null|
 |**2024-09-12**|**GateAttentionPose: Enhancing Pose Estimation with Agent Attention and Improved Gated Convolutions**|Liang Feng et.al.|[2409.07798v1](http://arxiv.org/abs/2409.07798v1)|null|
@@ -1178,6 +1181,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Data Efficient Child-Adult Speaker Diarization with Simulated Conversations**|Anfeng Xu et.al.|[2409.08881v1](http://arxiv.org/abs/2409.08881v1)|**[link](https://github.com/usc-sail/child-adult-diarization)**|
+|**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820v1](http://arxiv.org/abs/2409.08820v1)|null|
+|**2024-09-13**|**Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling**|Jialu Tang et.al.|[2409.08788v1](http://arxiv.org/abs/2409.08788v1)|null|
+|**2024-09-13**|**HOLA-Drone: Hypergraphic Open-ended Learning for Zero-Shot Multi-Drone Cooperative Pursuit**|Yang Li et.al.|[2409.08767v1](http://arxiv.org/abs/2409.08767v1)|null|
+|**2024-09-13**|**DFADD: The Diffusion and Flow-Matching Based Audio Deepfake Dataset**|Jiawei Du et.al.|[2409.08731v1](http://arxiv.org/abs/2409.08731v1)|null|
+|**2024-09-13**|**Eir: Thai Medical Large Language Models**|Yutthakorn Thiprak et.al.|[2409.08523v1](http://arxiv.org/abs/2409.08523v1)|null|
+|**2024-09-13**|**GroundingBooth: Grounding Text-to-Image Customization**|Zhexiao Xiong et.al.|[2409.08520v1](http://arxiv.org/abs/2409.08520v1)|null|
+|**2024-09-13**|**Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection**|Haoxuan Wang et.al.|[2409.08513v1](http://arxiv.org/abs/2409.08513v1)|**[link](https://github.com/Xuan-World/Mamba-YOLO-World)**|
+|**2024-09-12**|**SoloAudio: Target Sound Extraction with Language-oriented Audio Diffusion Transformer**|Helin Wang et.al.|[2409.08425v1](http://arxiv.org/abs/2409.08425v1)|null|
+|**2024-09-12**|**Sequential Discrete Action Selection via Blocking Conditions and Resolutions**|Liam Merz Hoffmeister et.al.|[2409.08410v1](http://arxiv.org/abs/2409.08410v1)|null|
 |**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278v1](http://arxiv.org/abs/2409.08278v1)|null|
 |**2024-09-12**|**AnySkin: Plug-and-play Skin Sensing for Robotic Touch**|Raunaq Bhirangi et.al.|[2409.08276v1](http://arxiv.org/abs/2409.08276v1)|null|
 |**2024-09-12**|**Fine-tuning Large Language Models for Entity Matching**|Aaron Steiner et.al.|[2409.08185v1](http://arxiv.org/abs/2409.08185v1)|**[link](https://github.com/wbsg-uni-mannheim/tailormatch)**|

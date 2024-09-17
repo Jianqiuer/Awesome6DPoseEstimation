@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441v1](http://arxiv.org/abs/2409.10441v1)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419v1](http://arxiv.org/abs/2409.10419v1)|null|
+|**2024-09-16**|**2D or not 2D: How Does the Dimensionality of Gesture Representation Affect 3D Co-Speech Gesture Generation?**|Téo Guichoux et.al.|[2409.10357v1](http://arxiv.org/abs/2409.10357v1)|null|
+|**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095v1](http://arxiv.org/abs/2409.10095v1)|null|
+|**2024-09-15**|**Precise Pick-and-Place using Score-Based Diffusion Networks**|Shih-Wei Guo et.al.|[2409.09725v1](http://arxiv.org/abs/2409.09725v1)|null|
+|**2024-09-15**|**Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild**|Nie Lin et.al.|[2409.09714v1](http://arxiv.org/abs/2409.09714v1)|null|
+|**2024-09-15**|**Proximity operations of CubeSats via sensor fusion of ultra-wideband range measurements with rate gyroscopes, accelerometers and monocular vision**|Deep Parikh et.al.|[2409.09665v1](http://arxiv.org/abs/2409.09665v1)|null|
+|**2024-09-15**|**A Scalable Tabletop Satellite Automation Testbed:Design And Experiments**|Deep Parikh et.al.|[2409.09633v1](http://arxiv.org/abs/2409.09633v1)|null|
+|**2024-09-14**|**MAC-VO: Metrics-aware Covariance for Learning-based Stereo Visual Odometry**|Yuheng Qiu et.al.|[2409.09479v1](http://arxiv.org/abs/2409.09479v1)|null|
+|**2024-09-14**|**Distributed Invariant Kalman Filter for Object-level Multi-robot Pose SLAM**|Haoying Li et.al.|[2409.09410v1](http://arxiv.org/abs/2409.09410v1)|null|
 |**2024-09-13**|**Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry**|Yunus Bilge Kurt et.al.|[2409.08769v1](http://arxiv.org/abs/2409.08769v1)|**[link](https://github.com/ybkurt/vift)**|
 |**2024-09-13**|**WheelPoser: Sparse-IMU Based Body Pose Estimation for Wheelchair Users**|Yunzhi Li et.al.|[2409.08494v1](http://arxiv.org/abs/2409.08494v1)|null|
 |**2024-09-12**|**Bayesian Inverse Graphics for Few-Shot Concept Learning**|Octavio Arriaga et.al.|[2409.08351v1](http://arxiv.org/abs/2409.08351v1)|null|
@@ -961,6 +971,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-14**|**Registration between Point Cloud Streams and Sequential Bounding Boxes via Gradient Descent**|Xuesong Li et.al.|[2409.09312v1](http://arxiv.org/abs/2409.09312v1)|null|
 |**2024-09-11**|**Unsupervised Point Cloud Registration with Self-Distillation**|Christian Löwens et.al.|[2409.07558v1](http://arxiv.org/abs/2409.07558v1)|**[link](https://github.com/boschresearch/direg)**|
 |**2024-09-10**|**Mahalanobis k-NN: A Statistical Lens for Robust Point-Cloud Registrations**|Tejas Anvekar et.al.|[2409.06267v1](http://arxiv.org/abs/2409.06267v1)|**[link](https://github.com/TejasAnvekar/Mahalanobis-k-NN)**|
 |**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413v1](http://arxiv.org/abs/2409.05413v1)|null|
@@ -1181,6 +1192,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488v1](http://arxiv.org/abs/2409.10488v1)|null|
+|**2024-09-16**|**Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation**|Hanbo Bi et.al.|[2409.10389v1](http://arxiv.org/abs/2409.10389v1)|null|
+|**2024-09-16**|**beeFormer: Bridging the Gap Between Semantic and Interaction Similarity in Recommender Systems**|Vojtěch Vančura et.al.|[2409.10309v1](http://arxiv.org/abs/2409.10309v1)|**[link](https://github.com/recombee/beeformer)**|
+|**2024-09-16**|**SteeredMarigold: Steering Diffusion Towards Depth Completion of Largely Incomplete Depth Maps**|Jakub Gregorek et.al.|[2409.10202v1](http://arxiv.org/abs/2409.10202v1)|null|
+|**2024-09-16**|**SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting**|Mohammad Nomaan Qureshi et.al.|[2409.10161v1](http://arxiv.org/abs/2409.10161v1)|null|
+|**2024-09-16**|**StyleTTS-ZS: Efficient High-Quality Zero-Shot Text-to-Speech Synthesis with Distilled Time-Varying Style Diffusion**|Yinghao Aaron Li et.al.|[2409.10058v1](http://arxiv.org/abs/2409.10058v1)|null|
+|**2024-09-16**|**A Study on Zero-shot Non-intrusive Speech Assessment using Large Language Models**|Ryandhimas E. Zezario et.al.|[2409.09914v1](http://arxiv.org/abs/2409.09914v1)|null|
+|**2024-09-15**|**GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion**|Vitor Guizilini et.al.|[2409.09896v1](http://arxiv.org/abs/2409.09896v1)|null|
+|**2024-09-15**|**PROSE-FD: A Multimodal PDE Foundation Model for Learning Multiple Operators for Forecasting Fluid Dynamics**|Yuxuan Liu et.al.|[2409.09811v1](http://arxiv.org/abs/2409.09811v1)|null|
+|**2024-09-15**|**Reasoning Paths with Reference Objects Elicit Quantitative Spatial Reasoning in Large Vision-Language Models**|Yuan-Hong Liao et.al.|[2409.09788v1](http://arxiv.org/abs/2409.09788v1)|null|
 |**2024-09-13**|**Data Efficient Child-Adult Speaker Diarization with Simulated Conversations**|Anfeng Xu et.al.|[2409.08881v1](http://arxiv.org/abs/2409.08881v1)|**[link](https://github.com/usc-sail/child-adult-diarization)**|
 |**2024-09-13**|**A RAG Approach for Generating Competency Questions in Ontology Engineering**|Xueli Pan et.al.|[2409.08820v1](http://arxiv.org/abs/2409.08820v1)|null|
 |**2024-09-13**|**Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling**|Jialu Tang et.al.|[2409.08788v1](http://arxiv.org/abs/2409.08788v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.24
+## Updated on 2024.09.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1203,7 +1203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-23**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139v2](http://arxiv.org/abs/2409.12139v2)|null|
+|**2024-09-24**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|Sijing Chen et.al.|[2409.12139v3](http://arxiv.org/abs/2409.12139v3)|null|
 |**2024-09-18**|**IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition**|Rui Liu et.al.|[2409.12092v1](http://arxiv.org/abs/2409.12092v1)|null|
 |**2024-09-18**|**Efficacy of Synthetic Data as a Benchmark**|Gaurav Maheshwari et.al.|[2409.11968v1](http://arxiv.org/abs/2409.11968v1)|null|
 |**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|Jiawen Wang et.al.|[2409.11941v1](http://arxiv.org/abs/2409.11941v1)|null|

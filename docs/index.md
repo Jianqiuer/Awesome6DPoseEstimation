@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
+|**2024-09-26**|**Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes**|Katja Ludwig et.al.|[2409.17671v1](http://arxiv.org/abs/2409.17671v1)|null|
+|**2024-09-25**|**Safe Leaf Manipulation for Accurate Shape and Pose Estimation of Occluded Fruits**|Shaoxiong Yao et.al.|[2409.17389v1](http://arxiv.org/abs/2409.17389v1)|null|
 |**2024-09-25**|**Hierarchical Tri-manual Planning for Vision-assisted Fruit Harvesting with Quadrupedal Robots**|Zhichao Liu et.al.|[2409.17116v1](http://arxiv.org/abs/2409.17116v1)|null|
 |**2024-09-25**|**Self-Sensing for Proprioception and Contact Detection in Soft Robots Using Shape Memory Alloy Artificial Muscles**|Ran Jing et.al.|[2409.17111v1](http://arxiv.org/abs/2409.17111v1)|null|
 |**2024-09-25**|**Online 6DoF Pose Estimation in Forests using Cross-View Factor Graph Optimisation and Deep Learned Re-localisation**|Lucas Carvalho de Lima et.al.|[2409.16680v1](http://arxiv.org/abs/2409.16680v1)|null|
@@ -1224,6 +1227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
+|**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|null|
+|**2024-09-26**|**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction**|Runze He et.al.|[2409.18071v1](http://arxiv.org/abs/2409.18071v1)|null|
+|**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053v1](http://arxiv.org/abs/2409.18053v1)|null|
+|**2024-09-26**|**IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning**|Soeun Lee et.al.|[2409.18046v1](http://arxiv.org/abs/2409.18046v1)|null|
+|**2024-09-26**|**Learning to Love Edge Cases in Formative Math Assessment: Using the AMMORE Dataset and Chain-of-Thought Prompting to Improve Grading Accuracy**|Owen Henkel et.al.|[2409.17904v1](http://arxiv.org/abs/2409.17904v1)|null|
+|**2024-09-26**|**Language Models as Zero-shot Lossless Gradient Compressors: Towards General Neural Parameter Prior Models**|Hui-Po Wang et.al.|[2409.17836v1](http://arxiv.org/abs/2409.17836v1)|null|
+|**2024-09-26**|**Few-shot Pairwise Rank Prompting: An Effective Non-Parametric Retrieval Model**|Nilanjan Sinhababu et.al.|[2409.17745v1](http://arxiv.org/abs/2409.17745v1)|null|
+|**2024-09-26**|**AnyLogo: Symbiotic Subject-Driven Diffusion System with Gemini Status**|Jinghao Zhang et.al.|[2409.17740v1](http://arxiv.org/abs/2409.17740v1)|null|
+|**2024-09-26**|**Robust Ladder Climbing with a Quadrupedal Robot**|Dylan Vogel et.al.|[2409.17731v1](http://arxiv.org/abs/2409.17731v1)|null|
 |**2024-09-25**|**Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?**|Bowen Zhao et.al.|[2409.17080v1](http://arxiv.org/abs/2409.17080v1)|null|
 |**2024-09-25**|**ControlCity: A Multimodal Diffusion Model Based Approach for Accurate Geospatial Data Generation and Urban Morphology Analysis**|Fangshuo Zhou et.al.|[2409.17049v1](http://arxiv.org/abs/2409.17049v1)|**[link](https://github.com/fangshuoz/controlcity)**|
 |**2024-09-25**|**Detecting Temporal Ambiguity in Questions**|Bhawna Piryani et.al.|[2409.17046v1](http://arxiv.org/abs/2409.17046v1)|null|

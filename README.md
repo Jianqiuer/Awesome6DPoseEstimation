@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673v1](http://arxiv.org/abs/2409.18673v1)|null|
+|**2024-09-27**|**DynaWeightPnP: Toward global real-time 3D-2D solver in PnP without correspondences**|Jingwei Song et.al.|[2409.18457v1](http://arxiv.org/abs/2409.18457v1)|null|
+|**2024-09-26**|**Omni6D: Large-Vocabulary 3D Object Dataset for Category-Level 6D Object Pose Estimation**|Mengchen Zhang et.al.|[2409.18261v1](http://arxiv.org/abs/2409.18261v1)|null|
 |**2024-09-26**|**AI-Powered Augmented Reality for Satellite Assembly, Integration and Test**|Alvaro Patricio et.al.|[2409.18101v1](http://arxiv.org/abs/2409.18101v1)|null|
 |**2024-09-27**|**Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes**|Katja Ludwig et.al.|[2409.17671v2](http://arxiv.org/abs/2409.17671v2)|null|
 |**2024-09-25**|**Safe Leaf Manipulation for Accurate Shape and Pose Estimation of Occluded Fruits**|Shaoxiong Yao et.al.|[2409.17389v1](http://arxiv.org/abs/2409.17389v1)|null|
@@ -1239,6 +1242,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**|Yanyuan Qiao et.al.|[2409.18794v1](http://arxiv.org/abs/2409.18794v1)|null|
+|**2024-09-27**|**When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation**|Yuli Zhou et.al.|[2409.18653v1](http://arxiv.org/abs/2409.18653v1)|**[link](https://github.com/zhoustan/sam2-vcos)**|
+|**2024-09-27**|**Do LLMs suffer from Multi-Party Hangover? A Diagnostic Approach to Addressee Recognition and Response Selection in Conversations**|Nicolò Penzo et.al.|[2409.18602v1](http://arxiv.org/abs/2409.18602v1)|null|
+|**2024-09-27**|**"Oh LLM, I'm Asking Thee, Please Give Me a Decision Tree": Zero-Shot Decision Tree Induction and Embedding with Large Language Models**|Ricardo Knauer et.al.|[2409.18594v1](http://arxiv.org/abs/2409.18594v1)|null|
+|**2024-09-27**|**EmoPro: A Prompt Selection Strategy for Emotional Expression in LM-based Speech Synthesis**|Haoyu Wang et.al.|[2409.18512v1](http://arxiv.org/abs/2409.18512v1)|null|
+|**2024-09-27**|**Exploring Language Model Generalization in Low-Resource Extractive QA**|Saptarshi Sengupta et.al.|[2409.18446v1](http://arxiv.org/abs/2409.18446v1)|null|
+|**2024-09-26**|**AER-LLM: Ambiguity-aware Emotion Recognition Leveraging Large Language Models**|Xin Hong et.al.|[2409.18339v1](http://arxiv.org/abs/2409.18339v1)|null|
+|**2024-09-26**|**Learning to Drive via Asymmetric Self-Play**|Chris Zhang et.al.|[2409.18218v1](http://arxiv.org/abs/2409.18218v1)|null|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124v1](http://arxiv.org/abs/2409.18124v1)|null|
 |**2024-09-26**|**GSON: A Group-based Social Navigation Framework with Large Multimodal Model**|Shangyi Luo et.al.|[2409.18084v1](http://arxiv.org/abs/2409.18084v1)|null|
 |**2024-09-26**|**FreeEdit: Mask-free Reference-based Image Editing with Multi-modal Instruction**|Runze He et.al.|[2409.18071v1](http://arxiv.org/abs/2409.18071v1)|null|

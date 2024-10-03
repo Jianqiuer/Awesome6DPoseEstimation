@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1244,7 +1244,7 @@ layout: default
 |**2024-09-30**|**FreeMask: Rethinking the Importance of Attention Masks for Zero-Shot Video Editing**|Lingling Cai et.al.|[2409.20500v1](http://arxiv.org/abs/2409.20500v1)|null|
 |**2024-10-01**|**Instance-adaptive Zero-shot Chain-of-Thought Prompting**|Xiaosong Yuan et.al.|[2409.20441v2](http://arxiv.org/abs/2409.20441v2)|null|
 |**2024-09-30**|**VideoINSTA: Zero-shot Long Video Understanding via Informative Spatial-Temporal Reasoning with LLMs**|Ruotong Liao et.al.|[2409.20365v1](http://arxiv.org/abs/2409.20365v1)|null|
-|**2024-09-30**|**CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset**|Akshatha Arodi et.al.|[2409.20353v1](http://arxiv.org/abs/2409.20353v1)|null|
+|**2024-09-30**|**CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset**|Akshatha Arodi et.al.|[2409.20353v1](http://arxiv.org/abs/2409.20353v1)|**[link](https://github.com/mila-iqia/cableinspect-ad-code)**|
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291v1](http://arxiv.org/abs/2409.20291v1)|null|
 |**2024-09-30**|**Analysing Zero-Shot Readability-Controlled Sentence Simplification**|Abdullah Barayan et.al.|[2409.20246v1](http://arxiv.org/abs/2409.20246v1)|null|
 |**2024-09-30**|**VMAD: Visual-enhanced Multimodal Large Language Model for Zero-Shot Anomaly Detection**|Huilin Deng et.al.|[2409.20146v1](http://arxiv.org/abs/2409.20146v1)|null|

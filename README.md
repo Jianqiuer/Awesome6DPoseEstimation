@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Why Sample Space Matters: Keyframe Sampling Optimization for LiDAR-based Place Recognition**|Nikolaos Stathoulopoulos et.al.|[2410.02643v1](http://arxiv.org/abs/2410.02643v1)|null|
+|**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237v1](http://arxiv.org/abs/2410.02237v1)|null|
 |**2024-10-02**|**SGBA: Semantic Gaussian Mixture Model-Based LiDAR Bundle Adjustment**|Xingyu Ji et.al.|[2410.01618v1](http://arxiv.org/abs/2410.01618v1)|null|
 |**2024-10-02**|**SurgeoNet: Realtime 3D Pose Estimation of Articulated Surgical Instruments from Stereo Images using a Synthetically-trained Network**|Ahmed Tawfik Aboukhadra et.al.|[2410.01293v1](http://arxiv.org/abs/2410.01293v1)|null|
 |**2024-10-01**|**Pose Estimation of Buried Deep-Sea Objects using 3D Vision Deep Learning Models**|Jerry Yan et.al.|[2410.01061v1](http://arxiv.org/abs/2410.01061v1)|null|
@@ -1023,6 +1025,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420v1](http://arxiv.org/abs/2410.02420v1)|null|
 |**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589v1](http://arxiv.org/abs/2410.00589v1)|null|
 |**2024-10-01**|**TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration**|Muyao Peng et.al.|[2410.00360v1](http://arxiv.org/abs/2410.00360v1)|**[link](https://github.com/muyao99/tfct-i2p)**|
 |**2024-09-23**|**KISS-Matcher: Fast and Robust Point Cloud Registration Revisited**|Hyungtae Lim et.al.|[2409.15615v1](http://arxiv.org/abs/2409.15615v1)|**[link](https://github.com/mit-spark/kiss-matcher)**|
@@ -1257,6 +1260,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762v1](http://arxiv.org/abs/2410.02762v1)|**[link](https://github.com/nickjiang2378/vl-interp)**|
+|**2024-10-03**|**Training Language Models on Synthetic Edit Sequences Improves Code Synthesis**|Ulyana Piterbarg et.al.|[2410.02749v1](http://arxiv.org/abs/2410.02749v1)|null|
+|**2024-10-03**|**Attention in Large Language Models Yields Efficient Zero-Shot Re-Rankers**|Shijie Chen et.al.|[2410.02642v1](http://arxiv.org/abs/2410.02642v1)|null|
+|**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637v1](http://arxiv.org/abs/2410.02637v1)|null|
+|**2024-10-03**|**LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model**|Duy M. H. Nguyen et.al.|[2410.02615v1](http://arxiv.org/abs/2410.02615v1)|null|
+|**2024-10-03**|**Dog-IQA: Standard-guided Zero-shot MLLM for Mix-grained Image Quality Assessment**|Kai Liu et.al.|[2410.02505v1](http://arxiv.org/abs/2410.02505v1)|**[link](https://github.com/kai-liu001/dog-iqa)**|
+|**2024-10-03**|**Cross-Embodiment Dexterous Grasping with Reinforcement Learning**|Haoqi Yuan et.al.|[2410.02479v1](http://arxiv.org/abs/2410.02479v1)|null|
+|**2024-10-03**|**Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations**|Bohan Zhou et.al.|[2410.02477v1](http://arxiv.org/abs/2410.02477v1)|null|
+|**2024-10-03**|**Unsupervised Meta-Learning via Dynamic Head and Heterogeneous Task Construction for Few-Shot Classification**|Yunchuan Guan et.al.|[2410.02267v1](http://arxiv.org/abs/2410.02267v1)|null|
+|**2024-10-03**|**Visual Prompting in LLMs for Enhancing Emotion Recognition**|Qixuan Zhang et.al.|[2410.02244v1](http://arxiv.org/abs/2410.02244v1)|null|
 |**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704v1](http://arxiv.org/abs/2410.01704v1)|null|
 |**2024-10-02**|**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**|Aleksandr Gordeev et.al.|[2410.01615v1](http://arxiv.org/abs/2410.01615v1)|**[link](https://github.com/ai-forever/sg-detr)**|
 |**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577v1](http://arxiv.org/abs/2410.01577v1)|null|

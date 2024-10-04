@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1248,7 +1248,7 @@ layout: default
 |**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704v1](http://arxiv.org/abs/2410.01704v1)|null|
 |**2024-10-02**|**Saliency-Guided DETR for Moment Retrieval and Highlight Detection**|Aleksandr Gordeev et.al.|[2410.01615v1](http://arxiv.org/abs/2410.01615v1)|**[link](https://github.com/ai-forever/sg-detr)**|
 |**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577v1](http://arxiv.org/abs/2410.01577v1)|null|
-|**2024-10-02**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536v1](http://arxiv.org/abs/2410.01536v1)|null|
+|**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536v2](http://arxiv.org/abs/2410.01536v2)|null|
 |**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|Weijie Tu et.al.|[2410.01534v1](http://arxiv.org/abs/2410.01534v1)|null|
 |**2024-10-02**|**SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation**|Osher Rafaeli et.al.|[2410.01473v1](http://arxiv.org/abs/2410.01473v1)|**[link](https://github.com/osherr1996/sinksam)**|
 |**2024-10-02**|**The Labyrinth of Links: Navigating the Associative Maze of Multi-modal LLMs**|Hong Li et.al.|[2410.01417v1](http://arxiv.org/abs/2410.01417v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1023,7 +1023,7 @@ layout: default
 |**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420v1](http://arxiv.org/abs/2410.02420v1)|null|
 |**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589v1](http://arxiv.org/abs/2410.00589v1)|null|
 |**2024-10-01**|**TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration**|Muyao Peng et.al.|[2410.00360v1](http://arxiv.org/abs/2410.00360v1)|**[link](https://github.com/muyao99/tfct-i2p)**|
-|**2024-09-23**|**KISS-Matcher: Fast and Robust Point Cloud Registration Revisited**|Hyungtae Lim et.al.|[2409.15615v1](http://arxiv.org/abs/2409.15615v1)|**[link](https://github.com/mit-spark/kiss-matcher)**|
+|**2024-10-06**|**KISS-Matcher: Fast and Robust Point Cloud Registration Revisited**|Hyungtae Lim et.al.|[2409.15615v2](http://arxiv.org/abs/2409.15615v2)|**[link](https://github.com/mit-spark/kiss-matcher)**|
 |**2024-09-23**|**MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**|Haojie Huang et.al.|[2409.15517v1](http://arxiv.org/abs/2409.15517v1)|null|
 |**2024-09-22**|**SynBench: A Synthetic Benchmark for Non-rigid 3D Point Cloud Registration**|Sara Monji-Azad et.al.|[2409.14474v1](http://arxiv.org/abs/2409.14474v1)|null|
 |**2024-09-27**|**FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator**|Bang-Shien Chen et.al.|[2409.13978v2](http://arxiv.org/abs/2409.13978v2)|**[link](https://github.com/StephLin/FracGM)**|

@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**CVAM-Pose: Conditional Variational Autoencoder for Multi-Object Monocular Pose Estimation**|Jianyu Zhao et.al.|[2410.09010v1](http://arxiv.org/abs/2410.09010v1)|**[link](https://github.com/jzhao12/cvam-pose)**|
+|**2024-10-11**|**Look Gauss, No Pose: Novel View Synthesis using Gaussian Splatting without Accurate Pose Initialization**|Christian Schmidt et.al.|[2410.08743v1](http://arxiv.org/abs/2410.08743v1)|**[link](https://github.com/schmiddo/noposegs)**|
 |**2024-10-10**|**Generalizing Stochastic Smoothing for Differentiation and Gradient Estimation**|Felix Petersen et.al.|[2410.08125v1](http://arxiv.org/abs/2410.08125v1)|null|
 |**2024-10-10**|**Robotic framework for autonomous manipulation of laboratory equipment with different degrees of transparency via 6D pose estimation**|Maria Makarova et.al.|[2410.07801v1](http://arxiv.org/abs/2410.07801v1)|null|
 |**2024-10-10**|**Optimal-State Dynamics Estimation for Physics-based Human Motion Capture from Videos**|Cuong Le et.al.|[2410.07795v1](http://arxiv.org/abs/2410.07795v1)|**[link](https://github.com/cuongle1206/osdcap)**|
@@ -1285,6 +1287,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Extra Global Attention Designation Using Keyword Detection in Sparse Transformer Architectures**|Evan Lucas et.al.|[2410.08971v1](http://arxiv.org/abs/2410.08971v1)|null|
+|**2024-10-11**|**NoVo: Norm Voting off Hallucinations with Attention Heads in Large Language Models**|Zheng Yi Ho et.al.|[2410.08970v1](http://arxiv.org/abs/2410.08970v1)|null|
+|**2024-10-11**|**Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images**|Virmarie Maquiling et.al.|[2410.08926v1](http://arxiv.org/abs/2410.08926v1)|null|
+|**2024-10-11**|**SegGrasp: Zero-Shot Task-Oriented Grasping via Semantic and Geometric Guided Segmentation**|Haosheng Li et.al.|[2410.08901v1](http://arxiv.org/abs/2410.08901v1)|null|
+|**2024-10-11**|**A Benchmark for Cross-Domain Argumentative Stance Classification on Social Media**|Jiaqing Yuan et.al.|[2410.08900v1](http://arxiv.org/abs/2410.08900v1)|null|
+|**2024-10-11**|**RoRA-VLM: Robust Retrieval-Augmented Vision Language Models**|Jingyuan Qi et.al.|[2410.08876v1](http://arxiv.org/abs/2410.08876v1)|null|
+|**2024-10-11**|**One-shot Generative Domain Adaptation in 3D GANs**|Ziqiang Li et.al.|[2410.08824v1](http://arxiv.org/abs/2410.08824v1)|**[link](https://github.com/iceli1007/3d-adapter)**|
+|**2024-10-11**|**Zero-Shot Offline Imitation Learning via Optimal Transport**|Thomas Rupf et.al.|[2410.08751v1](http://arxiv.org/abs/2410.08751v1)|null|
+|**2024-10-11**|**Chain-of-Restoration: Multi-Task Image Restoration Models are Zero-Shot Step-by-Step Universal Image Restorers**|Jin Cao et.al.|[2410.08688v1](http://arxiv.org/abs/2410.08688v1)|**[link](https://github.com/toummhus/chain-of-restoration)**|
+|**2024-10-11**|**Boosting Open-Vocabulary Object Detection by Handling Background Samples**|Ruizhe Zeng et.al.|[2410.08645v1](http://arxiv.org/abs/2410.08645v1)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211v1](http://arxiv.org/abs/2410.08211v1)|null|
 |**2024-10-10**|**SG-Nav: Online 3D Scene Graph Prompting for LLM-based Zero-shot Object Navigation**|Hang Yin et.al.|[2410.08189v1](http://arxiv.org/abs/2410.08189v1)|null|
 |**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172v1](http://arxiv.org/abs/2410.08172v1)|null|

@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
+|**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
 |**2024-10-16**|**Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation**|Francesco Evangelisti et.al.|[2410.12679v1](http://arxiv.org/abs/2410.12679v1)|null|
 |**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|
 |**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167v1](http://arxiv.org/abs/2410.10167v1)|null|
@@ -1296,6 +1298,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863v1](http://arxiv.org/abs/2410.13863v1)|null|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860v1](http://arxiv.org/abs/2410.13860v1)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-10-17**|**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**|Yujie Wei et.al.|[2410.13830v1](http://arxiv.org/abs/2410.13830v1)|null|
+|**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825v1](http://arxiv.org/abs/2410.13825v1)|null|
+|**2024-10-17**|**Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers**|Yuchen Liang et.al.|[2410.13746v1](http://arxiv.org/abs/2410.13746v1)|null|
+|**2024-10-17**|**ActionCOMET: A Zero-shot Approach to Learn Image-specific Commonsense Concepts about Actions**|Shailaja Keyur Sampat et.al.|[2410.13662v1](http://arxiv.org/abs/2410.13662v1)|null|
+|**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651v1](http://arxiv.org/abs/2410.13651v1)|null|
+|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v1](http://arxiv.org/abs/2410.13621v1)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604v1](http://arxiv.org/abs/2410.13604v1)|null|
+|**2024-10-17**|**Representing Model Weights with Language using Tree Experts**|Eliahu Horwitz et.al.|[2410.13569v1](http://arxiv.org/abs/2410.13569v1)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782v1](http://arxiv.org/abs/2410.12782v1)|null|
 |**2024-10-16**|**Towards Zero-Shot Camera Trap Image Categorization**|Jiří Vyskočil et.al.|[2410.12769v1](http://arxiv.org/abs/2410.12769v1)|null|
 |**2024-10-16**|**Towards Graph Foundation Models: The Perspective of Zero-shot Reasoning on Knowledge Graphs**|Kai Wang et.al.|[2410.12609v1](http://arxiv.org/abs/2410.12609v1)|null|

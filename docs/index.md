@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1051,7 +1051,7 @@ layout: default
 |**2024-10-10**|**LiPO: LiDAR Inertial Odometry for ICP Comparison**|Darwin Mick et.al.|[2410.08097v1](http://arxiv.org/abs/2410.08097v1)|null|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729v1](http://arxiv.org/abs/2410.05729v1)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-07**|**Enhanced Multi-Robot SLAM System with Cross-Validation Matching and Exponential Threshold Keyframe Selection**|Ang He et.al.|[2410.05017v1](http://arxiv.org/abs/2410.05017v1)|null|
-|**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420v1](http://arxiv.org/abs/2410.02420v1)|null|
+|**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420v1](http://arxiv.org/abs/2410.02420v1)|**[link](https://github.com/karim416/LoGDesc)**|
 |**2024-10-01**|**GERA: Geometric Embedding for Efficient Point Registration Analysis**|Geng Li et.al.|[2410.00589v1](http://arxiv.org/abs/2410.00589v1)|null|
 |**2024-10-01**|**TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration**|Muyao Peng et.al.|[2410.00360v1](http://arxiv.org/abs/2410.00360v1)|**[link](https://github.com/muyao99/tfct-i2p)**|
 |**2024-10-06**|**KISS-Matcher: Fast and Robust Point Cloud Registration Revisited**|Hyungtae Lim et.al.|[2409.15615v2](http://arxiv.org/abs/2409.15615v2)|**[link](https://github.com/mit-spark/kiss-matcher)**|

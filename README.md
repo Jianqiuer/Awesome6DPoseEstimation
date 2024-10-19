@@ -1303,8 +1303,8 @@
 |**2024-10-17**|**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**|Yujie Wei et.al.|[2410.13830v1](http://arxiv.org/abs/2410.13830v1)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825v1](http://arxiv.org/abs/2410.13825v1)|null|
 |**2024-10-17**|**Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers**|Yuchen Liang et.al.|[2410.13746v1](http://arxiv.org/abs/2410.13746v1)|null|
-|**2024-10-17**|**ActionCOMET: A Zero-shot Approach to Learn Image-specific Commonsense Concepts about Actions**|Shailaja Keyur Sampat et.al.|[2410.13662v1](http://arxiv.org/abs/2410.13662v1)|null|
-|**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651v1](http://arxiv.org/abs/2410.13651v1)|null|
+|**2024-10-17**|**ActionCOMET: A Zero-shot Approach to Learn Image-specific Commonsense Concepts about Actions**|Shailaja Keyur Sampat et.al.|[2410.13662v1](http://arxiv.org/abs/2410.13662v1)|**[link](https://github.com/shailaja183/actionconceptlearning)**|
+|**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651v1](http://arxiv.org/abs/2410.13651v1)|**[link](https://github.com/shailaja183/objectconceptlearning)**|
 |**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v1](http://arxiv.org/abs/2410.13621v1)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604v1](http://arxiv.org/abs/2410.13604v1)|null|
 |**2024-10-17**|**Representing Model Weights with Language using Tree Experts**|Eliahu Horwitz et.al.|[2410.13569v1](http://arxiv.org/abs/2410.13569v1)|null|

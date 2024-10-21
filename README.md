@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
+|**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540v1](http://arxiv.org/abs/2410.14540v1)|null|
+|**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419v1](http://arxiv.org/abs/2410.14419v1)|null|
+|**2024-10-18**|**Unlabeled Action Quality Assessment Based on Multi-dimensional Adaptive Constrained Dynamic Time Warping**|Renguang Chen et.al.|[2410.14161v1](http://arxiv.org/abs/2410.14161v1)|null|
+|**2024-10-15**|**From Real Artifacts to Virtual Reference: A Robust Framework for Translating Endoscopic Images**|unyang Wu et.al.|[2410.13896v1](http://arxiv.org/abs/2410.13896v1)|null|
 |**2024-10-17**|**DualQuat-LOAM: LiDAR Odometry and Mapping parametrized on Dual Quaternions**|Edison P. Velasco-Sánchez et.al.|[2410.13541v1](http://arxiv.org/abs/2410.13541v1)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
 |**2024-10-16**|**Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation**|Francesco Evangelisti et.al.|[2410.12679v1](http://arxiv.org/abs/2410.12679v1)|null|
@@ -1298,6 +1303,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672v1](http://arxiv.org/abs/2410.14672v1)|**[link](https://github.com/haoosz/BiGR)**|
+|**2024-10-18**|**Dialetto, ma Quanto Dialetto? Transcribing and Evaluating Dialects on a Continuum**|Ryan Soh-Eun Shim et.al.|[2410.14589v1](http://arxiv.org/abs/2410.14589v1)|null|
+|**2024-10-18**|**SylloBio-NLI: Evaluating Large Language Models on Biomedical Syllogistic Reasoning**|Magdalena Wysocka et.al.|[2410.14399v1](http://arxiv.org/abs/2410.14399v1)|null|
+|**2024-10-18**|**AnomalyNCD: Towards Novel Anomaly Class Discovery in Industrial Scenarios**|Ziming Huang et.al.|[2410.14379v1](http://arxiv.org/abs/2410.14379v1)|**[link](https://github.com/hust-slow/anomalyncd)**|
+|**2024-10-18**|**Zero-shot Action Localization via the Confidence of Large Vision-Language Models**|Josiah Aklilu et.al.|[2410.14340v1](http://arxiv.org/abs/2410.14340v1)|null|
+|**2024-10-18**|**Storyboard guided Alignment for Fine-grained Video Action Recognition**|Enqi Liu et.al.|[2410.14238v1](http://arxiv.org/abs/2410.14238v1)|null|
+|**2024-10-18**|**Assessing Open-world Forgetting in Generative Image Model Customization**|Héctor Laria et.al.|[2410.14159v1](http://arxiv.org/abs/2410.14159v1)|null|
+|**2024-10-17**|**Measuring and Modifying the Readability of English Texts with GPT-4**|Sean Trott et.al.|[2410.14028v1](http://arxiv.org/abs/2410.14028v1)|**[link](https://github.com/seantrott/llm_readability)**|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863v1](http://arxiv.org/abs/2410.13863v1)|null|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860v1](http://arxiv.org/abs/2410.13860v1)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
 |**2024-10-17**|**DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control**|Yujie Wei et.al.|[2410.13830v1](http://arxiv.org/abs/2410.13830v1)|null|

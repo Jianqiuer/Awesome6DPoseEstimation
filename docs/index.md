@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465v1](http://arxiv.org/abs/2410.13465v1)|null|
 |**2024-10-16**|**Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation**|Francesco Evangelisti et.al.|[2410.12679v1](http://arxiv.org/abs/2410.12679v1)|null|
 |**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|
-|**2024-10-14**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167v1](http://arxiv.org/abs/2410.10167v1)|null|
+|**2024-10-18**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167v2](http://arxiv.org/abs/2410.10167v2)|null|
 |**2024-10-13**|**Occluded Human Pose Estimation based on Limb Joint Augmentation**|Gangtao Han et.al.|[2410.09885v1](http://arxiv.org/abs/2410.09885v1)|null|
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467v1](http://arxiv.org/abs/2410.09467v1)|null|
 |**2024-10-12**|**Towards Multi-Modal Animal Pose Estimation: An In-Depth Analysis**|Qianyi Deng et.al.|[2410.09312v1](http://arxiv.org/abs/2410.09312v1)|**[link](https://github.com/chennydeng/mm-ape)**|
@@ -1293,7 +1293,7 @@ layout: default
 |**2024-10-17**|**Theory on Score-Mismatched Diffusion Models and Zero-Shot Conditional Samplers**|Yuchen Liang et.al.|[2410.13746v1](http://arxiv.org/abs/2410.13746v1)|null|
 |**2024-10-17**|**ActionCOMET: A Zero-shot Approach to Learn Image-specific Commonsense Concepts about Actions**|Shailaja Keyur Sampat et.al.|[2410.13662v1](http://arxiv.org/abs/2410.13662v1)|**[link](https://github.com/shailaja183/actionconceptlearning)**|
 |**2024-10-17**|**Help Me Identify: Is an LLM+VQA System All We Need to Identify Visual Concepts?**|Shailaja Keyur Sampat et.al.|[2410.13651v1](http://arxiv.org/abs/2410.13651v1)|**[link](https://github.com/shailaja183/objectconceptlearning)**|
-|**2024-10-17**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v1](http://arxiv.org/abs/2410.13621v1)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
+|**2024-10-18**|**Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything**|Joonhyeon Song et.al.|[2410.13621v2](http://arxiv.org/abs/2410.13621v2)|**[link](https://github.com/qi-nemosong/eplc-sam)**|
 |**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604v1](http://arxiv.org/abs/2410.13604v1)|null|
 |**2024-10-17**|**Representing Model Weights with Language using Tree Experts**|Eliahu Horwitz et.al.|[2410.13569v1](http://arxiv.org/abs/2410.13569v1)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782v1](http://arxiv.org/abs/2410.12782v1)|null|

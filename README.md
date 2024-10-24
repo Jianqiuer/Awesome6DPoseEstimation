@@ -1,4 +1,4 @@
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2024-10-21**|**Assisted Physical Interaction: Autonomous Aerial Robots with Neural Network Detection, Navigation, and Safety Layers**|Andrea Berra et.al.|[2410.15802v1](http://arxiv.org/abs/2410.15802v1)|null|
 |**2024-10-21**|**ARTS: Semi-Analytical Regressor using Disentangled Skeletal Representations for Human Mesh Recovery from Videos**|Tao Tang et.al.|[2410.15582v1](http://arxiv.org/abs/2410.15582v1)|**[link](https://github.com/tangtao-pku/arts)**|
 |**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378v1](http://arxiv.org/abs/2410.15378v1)|null|
-|**2024-10-20**|**POSE: Pose estimation Of virtual Sync Exhibit system**|Hao-Tang Tsui et.al.|[2410.15343v1](http://arxiv.org/abs/2410.15343v1)|null|
+|**2024-10-20**|**POSE: Pose estimation Of virtual Sync Exhibit system**|Hao-Tang Tsui et.al.|[2410.15343v1](http://arxiv.org/abs/2410.15343v1)|**[link](https://github.com/henrytsui000/pose)**|
 |**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
 |**2024-10-18**|**Multi-modal Pose Diffuser: A Multimodal Generative Conditional Pose Prior**|Calvin-Khang Ta et.al.|[2410.14540v1](http://arxiv.org/abs/2410.14540v1)|null|
 |**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419v1](http://arxiv.org/abs/2410.14419v1)|null|
@@ -1059,7 +1059,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1229,7 +1229,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1302,7 +1302,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1311,10 +1311,10 @@
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251v1](http://arxiv.org/abs/2410.17251v1)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149v1](http://arxiv.org/abs/2410.17149v1)|null|
-|**2024-10-22**|**LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging**|Ke Wang et.al.|[2410.17146v1](http://arxiv.org/abs/2410.17146v1)|null|
+|**2024-10-22**|**LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging**|Ke Wang et.al.|[2410.17146v1](http://arxiv.org/abs/2410.17146v1)|**[link](https://github.com/wang-kee/lines)**|
 |**2024-10-22**|**SG-FSM: A Self-Guiding Zero-Shot Prompting Paradigm for Multi-Hop Question Answering Based on Finite State Machine**|Xiaochen Wang et.al.|[2410.17021v1](http://arxiv.org/abs/2410.17021v1)|null|
 |**2024-10-22**|**Towards Real Zero-Shot Camouflaged Object Segmentation without Camouflaged Annotations**|Cheng Lei et.al.|[2410.16953v1](http://arxiv.org/abs/2410.16953v1)|null|
-|**2024-10-22**|**DNAHLM -- DNA sequence and Human Language mixed large language Model**|Wang Liang et.al.|[2410.16917v1](http://arxiv.org/abs/2410.16917v1)|null|
+|**2024-10-22**|**DNAHLM -- DNA sequence and Human Language mixed large language Model**|Wang Liang et.al.|[2410.16917v1](http://arxiv.org/abs/2410.16917v1)|**[link](https://github.com/maris205/dnahl)**|
 |**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|Yongjian Wu et.al.|[2410.16820v1](http://arxiv.org/abs/2410.16820v1)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-22**|**PLDR-LLM: Large Language Model from Power Law Decoder Representations**|Burc Gokden et.al.|[2410.16703v1](http://arxiv.org/abs/2410.16703v1)|**[link](https://github.com/burcgokden/llm-from-power-law-decoder-representations)**|
 |**2024-10-22**|**GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting**|Pai Zhu et.al.|[2410.16647v1](http://arxiv.org/abs/2410.16647v1)|null|
@@ -4020,5 +4020,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 

@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983v1](http://arxiv.org/abs/2410.17983v1)|**[link](https://github.com/vladpyatov/ihls)**|
+|**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725v1](http://arxiv.org/abs/2410.17725v1)|null|
 |**2024-10-21**|**Assisted Physical Interaction: Autonomous Aerial Robots with Neural Network Detection, Navigation, and Safety Layers**|Andrea Berra et.al.|[2410.15802v1](http://arxiv.org/abs/2410.15802v1)|null|
 |**2024-10-21**|**ARTS: Semi-Analytical Regressor using Disentangled Skeletal Representations for Human Mesh Recovery from Videos**|Tao Tang et.al.|[2410.15582v1](http://arxiv.org/abs/2410.15582v1)|**[link](https://github.com/tangtao-pku/arts)**|
 |**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378v1](http://arxiv.org/abs/2410.15378v1)|null|
@@ -1296,6 +1298,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040v1](http://arxiv.org/abs/2410.18040v1)|null|
+|**2024-10-23**|**Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models**|Nils Blank et.al.|[2410.17772v1](http://arxiv.org/abs/2410.17772v1)|null|
+|**2024-10-23**|**Learning Versatile Skills with Curriculum Masking**|Yao Tang et.al.|[2410.17744v1](http://arxiv.org/abs/2410.17744v1)|**[link](https://github.com/yaotang23/currmask)**|
+|**2024-10-23**|**Entity-based Reinforcement Learning for Autonomous Cyber Defence**|Isaac Symes Thompson et.al.|[2410.17647v1](http://arxiv.org/abs/2410.17647v1)|null|
+|**2024-10-23**|**Incremental Learning of Affordances using Markov Logic Networks**|George Potter et.al.|[2410.17624v1](http://arxiv.org/abs/2410.17624v1)|null|
+|**2024-10-23**|**Graphusion: A RAG Framework for Knowledge Graph Construction with a Global Perspective**|Rui Yang et.al.|[2410.17600v1](http://arxiv.org/abs/2410.17600v1)|null|
+|**2024-10-23**|**Multimodal Information Bottleneck for Deep Reinforcement Learning with Multiple Sensors**|Bang You et.al.|[2410.17551v1](http://arxiv.org/abs/2410.17551v1)|null|
+|**2024-10-23**|**Generalizable Motion Planning via Operator Learning**|Sharath Matada et.al.|[2410.17547v1](http://arxiv.org/abs/2410.17547v1)|null|
+|**2024-10-23**|**X-MOBILITY: End-To-End Generalizable Navigation via World Modeling**|Wei Liu et.al.|[2410.17491v1](http://arxiv.org/abs/2410.17491v1)|null|
+|**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393v1](http://arxiv.org/abs/2410.17393v1)|null|
 |**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251v1](http://arxiv.org/abs/2410.17251v1)|null|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149v1](http://arxiv.org/abs/2410.17149v1)|null|

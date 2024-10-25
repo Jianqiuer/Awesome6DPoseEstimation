@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Where Am I and What Will I See: An Auto-Regressive Model for Spatial Localization and View Prediction**|Junyi Chen et.al.|[2410.18962v1](http://arxiv.org/abs/2410.18962v1)|null|
+|**2024-10-24**|**VoxelKeypointFusion: Generalizable Multi-View Multi-Person Pose Estimation**|Daniel Bermuth et.al.|[2410.18723v1](http://arxiv.org/abs/2410.18723v1)|null|
 |**2024-10-23**|**Robust Two-View Geometry Estimation with Implicit Differentiation**|Vladislav Pyatov et.al.|[2410.17983v1](http://arxiv.org/abs/2410.17983v1)|**[link](https://github.com/vladpyatov/ihls)**|
 |**2024-10-23**|**YOLOv11: An Overview of the Key Architectural Enhancements**|Rahima Khanam et.al.|[2410.17725v1](http://arxiv.org/abs/2410.17725v1)|null|
 |**2024-10-21**|**Assisted Physical Interaction: Autonomous Aerial Robots with Neural Network Detection, Navigation, and Safety Layers**|Andrea Berra et.al.|[2410.15802v1](http://arxiv.org/abs/2410.15802v1)|null|
@@ -1298,6 +1300,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970v1](http://arxiv.org/abs/2410.18970v1)|null|
+|**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955v1](http://arxiv.org/abs/2410.18955v1)|null|
+|**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907v1](http://arxiv.org/abs/2410.18907v1)|null|
+|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857v1](http://arxiv.org/abs/2410.18857v1)|null|
+|**2024-10-24**|**Task Calibration: Calibrating Large Language Models on Inference Tasks**|Yingjie Li et.al.|[2410.18764v1](http://arxiv.org/abs/2410.18764v1)|null|
+|**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647v1](http://arxiv.org/abs/2410.18647v1)|null|
+|**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588v1](http://arxiv.org/abs/2410.18588v1)|null|
+|**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570v1](http://arxiv.org/abs/2410.18570v1)|null|
+|**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|Jinghao Hu et.al.|[2410.18537v1](http://arxiv.org/abs/2410.18537v1)|null|
+|**2024-10-24**|**Scaling up Masked Diffusion Models on Text**|Shen Nie et.al.|[2410.18514v1](http://arxiv.org/abs/2410.18514v1)|**[link](https://github.com/ml-gsai/smdm)**|
 |**2024-10-23**|**Key Algorithms for Keyphrase Generation: Instruction-Based LLMs for Russian Scientific Keyphrases**|Anna Glazkova et.al.|[2410.18040v1](http://arxiv.org/abs/2410.18040v1)|null|
 |**2024-10-23**|**Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models**|Nils Blank et.al.|[2410.17772v1](http://arxiv.org/abs/2410.17772v1)|null|
 |**2024-10-23**|**Learning Versatile Skills with Curriculum Masking**|Yao Tang et.al.|[2410.17744v1](http://arxiv.org/abs/2410.17744v1)|**[link](https://github.com/yaotang23/currmask)**|

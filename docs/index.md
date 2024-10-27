@@ -1303,7 +1303,7 @@ layout: default
 |**2024-10-24**|**ConceptDrift: Uncovering Biases through the Lens of Foundational Models**|Cristian Daniel Păduraru et.al.|[2410.18970v1](http://arxiv.org/abs/2410.18970v1)|null|
 |**2024-10-24**|**BioMistral-NLU: Towards More Generalizable Medical Language Understanding through Instruction Tuning**|Yujuan Velvin Fu et.al.|[2410.18955v1](http://arxiv.org/abs/2410.18955v1)|null|
 |**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907v1](http://arxiv.org/abs/2410.18907v1)|null|
-|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857v1](http://arxiv.org/abs/2410.18857v1)|null|
+|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857v1](http://arxiv.org/abs/2410.18857v1)|**[link](https://github.com/naver-ai/prolip)**|
 |**2024-10-24**|**Task Calibration: Calibrating Large Language Models on Inference Tasks**|Yingjie Li et.al.|[2410.18764v1](http://arxiv.org/abs/2410.18764v1)|null|
 |**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647v1](http://arxiv.org/abs/2410.18647v1)|null|
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588v1](http://arxiv.org/abs/2410.18588v1)|null|

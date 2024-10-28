@@ -264,7 +264,7 @@
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984v1](http://arxiv.org/abs/2407.06984v1)|null|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513v1](http://arxiv.org/abs/2407.06513v1)|null|
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
-|**2024-07-10**|**On the power of data augmentation for head pose estimation**|Michael Welter et.al.|[2407.05357v2](http://arxiv.org/abs/2407.05357v2)|null|
+|**2024-07-10**|**On the power of data augmentation for head pose estimation**|Michael Welter et.al.|[2407.05357v2](http://arxiv.org/abs/2407.05357v2)|**[link](https://github.com/opentrack/neuralnet-tracker-traincode)**|
 |**2024-07-07**|**SCIPaD: Incorporating Spatial Clues into Unsupervised Pose-Depth Joint Learning**|Yi Feng et.al.|[2407.05283v1](http://arxiv.org/abs/2407.05283v1)|**[link](https://github.com/fengyi233/SCIPaD)**|
 |**2024-07-05**|**Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos**|Leonhard Sommer et.al.|[2407.04384v1](http://arxiv.org/abs/2407.04384v1)|**[link](https://github.com/genintel/uns-obj-pose3d)**|
 |**2024-07-04**|**Towards Cross-View-Consistent Self-Supervised Surround Depth Estimation**|Laiyan Ding et.al.|[2407.04041v1](http://arxiv.org/abs/2407.04041v1)|null|
@@ -529,7 +529,7 @@
 |**2024-03-11**|**Real-Time Simulated Avatar from Head-Mounted Sensors**|Zhengyi Luo et.al.|[2403.06862v1](http://arxiv.org/abs/2403.06862v1)|null|
 |**2024-03-11**|**Transformer-based Fusion of 2D-pose and Spatio-temporal Embeddings for Distracted Driver Action Recognition**|Erkut Akdag et.al.|[2403.06577v1](http://arxiv.org/abs/2403.06577v1)|null|
 |**2024-03-10**|**Platypose: Calibrated Zero-Shot Multi-Hypothesis 3D Human Motion Estimation**|Paweł A. Pierzchlewicz et.al.|[2403.06164v1](http://arxiv.org/abs/2403.06164v1)|**[link](https://github.com/sinzlab/platypose)**|
-|**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090v1](http://arxiv.org/abs/2403.06090v1)|null|
+|**2024-03-10**|**Diffusion Models Trained with Large Data Are Transferable Visual Models**|Guangkai Xu et.al.|[2403.06090v1](http://arxiv.org/abs/2403.06090v1)|**[link](https://github.com/aim-uofa/genpercept)**|
 |**2024-03-08**|**Prepared for the Worst: A Learning-Based Adversarial Attack for Resilience Analysis of the ICP Algorithm**|Ziyu Zhang et.al.|[2403.05666v1](http://arxiv.org/abs/2403.05666v1)|null|
 |**2024-03-11**|**Exploiting polar symmetry in designing equivariant observers for vision-based motion estimation**|Tarek Bouazza et.al.|[2403.05450v2](http://arxiv.org/abs/2403.05450v2)|null|
 |**2024-03-07**|**Real-Time Planning Under Uncertainty for AUVs Using Virtual Maps**|Ivana Collado-Gonzalez et.al.|[2403.04936v1](http://arxiv.org/abs/2403.04936v1)|null|
@@ -1332,7 +1332,7 @@
 |**2024-10-23**|**Generalizable Motion Planning via Operator Learning**|Sharath Matada et.al.|[2410.17547v1](http://arxiv.org/abs/2410.17547v1)|null|
 |**2024-10-23**|**X-MOBILITY: End-To-End Generalizable Navigation via World Modeling**|Wei Liu et.al.|[2410.17491v1](http://arxiv.org/abs/2410.17491v1)|null|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393v1](http://arxiv.org/abs/2410.17393v1)|null|
-|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251v1](http://arxiv.org/abs/2410.17251v1)|null|
+|**2024-10-22**|**Altogether: Image Captioning via Re-aligning Alt-text**|Hu Xu et.al.|[2410.17251v1](http://arxiv.org/abs/2410.17251v1)|**[link](https://github.com/facebookresearch/metaclip)**|
 |**2024-10-22**|**LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias**|Haian Jin et.al.|[2410.17242v1](http://arxiv.org/abs/2410.17242v1)|null|
 |**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|Mahmoud Ali et.al.|[2410.17149v1](http://arxiv.org/abs/2410.17149v1)|null|
 |**2024-10-22**|**LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging**|Ke Wang et.al.|[2410.17146v1](http://arxiv.org/abs/2410.17146v1)|**[link](https://github.com/wang-kee/lines)**|
@@ -1724,7 +1724,7 @@
 |**2024-08-16**|**Covert Bias: The Severity of Social Views' Unalignment in Language Models Towards Implicit and Explicit Opinion**|Abeer Aldayel et.al.|[2408.08212v2](http://arxiv.org/abs/2408.08212v2)|null|
 |**2024-08-15**|**Navigating Data Scarcity using Foundation Models: A Benchmark of Few-Shot and Zero-Shot Learning Approaches in Medical Imaging**|Stefano Woerner et.al.|[2408.08058v1](http://arxiv.org/abs/2408.08058v1)|**[link](https://github.com/stefanowoerner/medimeta-fsl-benchmark)**|
 |**2024-08-15**|**LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning**|Jiajie Li et.al.|[2408.07981v1](http://arxiv.org/abs/2408.07981v1)|null|
-|**2024-08-15**|**Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training**|Yiming Li et.al.|[2408.07919v1](http://arxiv.org/abs/2408.07919v1)|null|
+|**2024-08-15**|**Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training**|Yiming Li et.al.|[2408.07919v1](http://arxiv.org/abs/2408.07919v1)|**[link](https://github.com/ming-er/mga-clap)**|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910v1](http://arxiv.org/abs/2408.07910v1)|null|
 |**2024-08-15**|**A Spitting Image: Modular Superpixel Tokenization in Vision Transformers**|Marius Aasan et.al.|[2408.07680v2](http://arxiv.org/abs/2408.07680v2)|**[link](https://github.com/dsb-ifi/spit)**|
 |**2024-08-14**|**Enhanced Detection of Conversational Mental Manipulation Through Advanced Prompting Techniques**|Ivory Yang et.al.|[2408.07676v1](http://arxiv.org/abs/2408.07676v1)|null|
@@ -1943,7 +1943,7 @@
 |**2024-07-10**|**Scaling Law in Neural Data: Non-Invasive Speech Decoding with 175 Hours of EEG Data**|Motoshige Sato et.al.|[2407.07595v1](http://arxiv.org/abs/2407.07595v1)|null|
 |**2024-07-10**|**Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction**|Yili Liu et.al.|[2407.07587v1](http://arxiv.org/abs/2407.07587v1)|null|
 |**2024-07-11**|**InstructLayout: Instruction-Driven 2D and 3D Layout Synthesis with Semantic Graph Prior**|Chenguo Lin et.al.|[2407.07580v2](http://arxiv.org/abs/2407.07580v2)|null|
-|**2024-07-10**|**Swiss DINO: Efficient and Versatile Vision Framework for On-device Personal Object Search**|Kirill Paramonov et.al.|[2407.07541v1](http://arxiv.org/abs/2407.07541v1)|null|
+|**2024-07-10**|**Swiss DINO: Efficient and Versatile Vision Framework for On-device Personal Object Search**|Kirill Paramonov et.al.|[2407.07541v1](http://arxiv.org/abs/2407.07541v1)|**[link](https://github.com/samsunglabs/swissdino)**|
 |**2024-07-10**|**IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection**|Mingjin Zhang et.al.|[2407.07520v1](http://arxiv.org/abs/2407.07520v1)|**[link](https://github.com/ipic-lab/irsam)**|
 |**2024-07-09**|**Induction Heads as an Essential Mechanism for Pattern Matching in In-context Learning**|J. Crosbie et.al.|[2407.07011v1](http://arxiv.org/abs/2407.07011v1)|null|
 |**2024-07-09**|**Measuring Sustainability Intention of ESG Fund Disclosure using Few-Shot Learning**|Mayank Singh et.al.|[2407.06893v1](http://arxiv.org/abs/2407.06893v1)|null|
@@ -2339,7 +2339,7 @@
 |**2024-05-01**|**Addressing Topic Granularity and Hallucination in Large Language Models for Topic Modelling**|Yida Mu et.al.|[2405.00611v1](http://arxiv.org/abs/2405.00611v1)|**[link](https://github.com/gatenlp/topicllm_granularity_hallucination)**|
 |**2024-05-01**|**EALD-MLLM: Emotion Analysis in Long-sequential and De-identity videos with Multi-modal Large Language Model**|Deng Li et.al.|[2405.00574v1](http://arxiv.org/abs/2405.00574v1)|null|
 |**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571v1](http://arxiv.org/abs/2405.00571v1)|null|
-|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355v1](http://arxiv.org/abs/2405.00355v1)|null|
+|**2024-05-01**|**Exploring Self-Supervised Vision Transformers for Deepfake Detection: A Comparative Analysis**|Huy H. Nguyen et.al.|[2405.00355v1](http://arxiv.org/abs/2405.00355v1)|**[link](https://github.com/nii-yamagishilab/ssl_vits_df)**|
 |**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696v1](http://arxiv.org/abs/2404.19696v1)|null|
 |**2024-04-30**|**ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud**|Jiayi Han et.al.|[2404.19639v1](http://arxiv.org/abs/2404.19639v1)|null|
 |**2024-04-30**|**MicroDreamer: Zero-shot 3D Generation in $\sim$ 20 Seconds by Score-based Iterative Reconstruction**|Luxi Chen et.al.|[2404.19525v1](http://arxiv.org/abs/2404.19525v1)|**[link](https://github.com/ml-gsai/microdreamer)**|
@@ -2772,7 +2772,7 @@
 |**2024-02-22**|**Zero-Shot Pediatric Tuberculosis Detection in Chest X-Rays using Self-Supervised Learning**|Daniel Capellán-Martín et.al.|[2402.14741v1](http://arxiv.org/abs/2402.14741v1)|null|
 |**2024-02-22**|**IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus**|Honghao Gui et.al.|[2402.14710v1](http://arxiv.org/abs/2402.14710v1)|**[link](https://github.com/zjunlp/iepile)**|
 |**2024-02-22**|**INSTRAUG: Automatic Instruction Augmentation for Multimodal Instruction Fine-tuning**|Wei Han et.al.|[2402.14492v1](http://arxiv.org/abs/2402.14492v1)|**[link](https://github.com/declare-lab/instraug)**|
-|**2024-02-22**|**Mitigating Biases of Large Language Models in Stance Detection with Calibration**|Ang Li et.al.|[2402.14296v1](http://arxiv.org/abs/2402.14296v1)|null|
+|**2024-02-22**|**Mitigating Biases of Large Language Models in Stance Detection with Calibration**|Ang Li et.al.|[2402.14296v1](http://arxiv.org/abs/2402.14296v1)|**[link](https://github.com/leon-francis/factual)**|
 |**2024-02-22**|**Leveraging Large Language Models for Concept Graph Recovery and Question Answering in NLP Education**|Rui Yang et.al.|[2402.14293v1](http://arxiv.org/abs/2402.14293v1)|**[link](https://github.com/irenezihuili/cgprompt)**|
 |**2024-02-22**|**Can Large Language Models Detect Misinformation in Scientific News Reporting?**|Yupeng Cao et.al.|[2402.14268v1](http://arxiv.org/abs/2402.14268v1)|null|
 |**2024-02-21**|**On Large Visual Language Models for Medical Imaging Analysis: An Empirical Study**|Minh-Hao Van et.al.|[2402.14162v1](http://arxiv.org/abs/2402.14162v1)|null|
@@ -3080,7 +3080,7 @@
 |**2024-01-03**|**Zero-shot Active Learning Using Self Supervised Learning**|Abhishek Sinha et.al.|[2401.01690v1](http://arxiv.org/abs/2401.01690v1)|null|
 |**2024-01-03**|**Learning Prompt with Distribution-Based Feature Replay for Few-Shot Class-Incremental Learning**|Zitong Huang et.al.|[2401.01598v1](http://arxiv.org/abs/2401.01598v1)|**[link](https://github.com/1170300714/lp-dif)**|
 |**2024-01-03**|**Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction**|Minchan Kim et.al.|[2401.01498v1](http://arxiv.org/abs/2401.01498v1)|null|
-|**2024-01-03**|**A Pre-trained Sequential Recommendation Framework: Popularity Dynamics for Zero-shot Transfer**|Junting Wang et.al.|[2401.01497v1](http://arxiv.org/abs/2401.01497v1)|null|
+|**2024-01-03**|**A Pre-trained Sequential Recommendation Framework: Popularity Dynamics for Zero-shot Transfer**|Junting Wang et.al.|[2401.01497v1](http://arxiv.org/abs/2401.01497v1)|**[link](https://github.com/crowddynamicslab/preprec)**|
 |**2024-01-03**|**Incorporating Geo-Diverse Knowledge into Prompting for Increased Geographical Robustness in Object Recognition**|Kyle Buettner et.al.|[2401.01482v1](http://arxiv.org/abs/2401.01482v1)|null|
 |**2024-01-02**|**ColorizeDiffusion: Adjustable Sketch Colorization with Reference Image and Text**|Dingkun Yan et.al.|[2401.01456v1](http://arxiv.org/abs/2401.01456v1)|**[link](https://github.com/ydk-tellurion/colorizediffusion)**|
 |**2024-01-02**|**VALD-MD: Visual Attribution via Latent Diffusion for Medical Diagnostics**|Ammar A. Siddiqui et.al.|[2401.01414v1](http://arxiv.org/abs/2401.01414v1)|null|
@@ -3364,7 +3364,7 @@
 |**2023-11-13**|**Gen-Z: Generative Zero-Shot Text Classification with Contextualized Label Descriptions**|Sachin Kumar et.al.|[2311.07115v1](http://arxiv.org/abs/2311.07115v1)|null|
 |**2023-11-13**|**Explain-then-Translate: An Analysis on Improving Program Translation with Self-generated Explanations**|Zilu Tang et.al.|[2311.07070v1](http://arxiv.org/abs/2311.07070v1)|**[link](https://github.com/pootiet/explain-then-translate)**|
 |**2023-11-13**|**ViLMA: A Zero-Shot Benchmark for Linguistic and Temporal Grounding in Video-Language Models**|Ilker Kesen et.al.|[2311.07022v1](http://arxiv.org/abs/2311.07022v1)|null|
-|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|null|
+|**2023-11-10**|**Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks**|Bin Xiao et.al.|[2311.06242v1](http://arxiv.org/abs/2311.06242v1)|**[link](https://github.com/retkowsky/florence-2)**|
 |**2023-11-10**|**Automatic Report Generation for Histopathology images using pre-trained Vision Transformers**|Saurav Sengupta et.al.|[2311.06176v1](http://arxiv.org/abs/2311.06176v1)|**[link](https://github.com/ssen7/histo_cap_generation_2)**|
 |**2023-11-10**|**Is it indeed bigger better? The comprehensive study of claim detection LMs applied for disinformation tackling**|Martin Hyben et.al.|[2311.06121v1](http://arxiv.org/abs/2311.06121v1)|null|
 |**2023-11-10**|**Plasma Surrogate Modelling using Fourier Neural Operators**|Vignesh Gopakumar et.al.|[2311.05967v1](http://arxiv.org/abs/2311.05967v1)|null|

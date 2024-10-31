@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2024-10-29**|**HRPVT: High-Resolution Pyramid Vision Transformer for medium and small-scale human pose estimation**|Zhoujie Xu et.al.|[2410.22079v1](http://arxiv.org/abs/2410.22079v1)|null|
 |**2024-10-29**|**EI-Nexus: Towards Unmediated and Flexible Inter-Modality Local Feature Extraction and Matching for Event-Image Data**|Zhonghua Yi et.al.|[2410.21743v1](http://arxiv.org/abs/2410.21743v1)|null|
 |**2024-10-28**|**Synthetica: Large Scale Synthetic Data for Robot Perception**|Ritvik Singh et.al.|[2410.21153v1](http://arxiv.org/abs/2410.21153v1)|null|
-|**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731v2](http://arxiv.org/abs/2410.20731v2)|null|
+|**2024-10-29**|**BLAPose: Enhancing 3D Human Pose Estimation with Bone Length Adjustment**|Chih-Hsiang Hsu et.al.|[2410.20731v2](http://arxiv.org/abs/2410.20731v2)|**[link](https://github.com/hs1ang-hsu/BLAPose)**|
 |**2024-10-27**|**RopeTP: Global Human Motion Recovery via Integrating Robust Pose Estimation with Diffusion Trajectory Prior**|Mingjiang Liang et.al.|[2410.20358v1](http://arxiv.org/abs/2410.20358v1)|null|
 |**2024-10-27**|**Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions**|Rawal Khirodkar et.al.|[2410.20294v1](http://arxiv.org/abs/2410.20294v1)|null|
 |**2024-10-26**|**Neural Fields in Robotics: A Survey**|Muhammad Zubair Irshad et.al.|[2410.20220v1](http://arxiv.org/abs/2410.20220v1)|null|
@@ -1319,7 +1319,7 @@ layout: default
 |**2024-10-29**|**Data Generation for Hardware-Friendly Post-Training Quantization**|Lior Dikstein et.al.|[2410.22110v1](http://arxiv.org/abs/2410.22110v1)|null|
 |**2024-10-29**|**PACA: Perspective-Aware Cross-Attention Representation for Zero-Shot Scene Rearrangement**|Shutong Jin et.al.|[2410.22059v1](http://arxiv.org/abs/2410.22059v1)|null|
 |**2024-10-29**|**Reliable Semantic Understanding for Real World Zero-shot Object Goal Navigation**|Halil Utku Unlu et.al.|[2410.21926v1](http://arxiv.org/abs/2410.21926v1)|null|
-|**2024-10-29**|**Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**|Lu Yu et.al.|[2410.21802v1](http://arxiv.org/abs/2410.21802v1)|null|
+|**2024-10-30**|**Text-Guided Attention is All You Need for Zero-Shot Robustness in Vision-Language Models**|Lu Yu et.al.|[2410.21802v2](http://arxiv.org/abs/2410.21802v2)|**[link](https://github.com/zhyblue424/tga-zsr)**|
 |**2024-10-29**|**Pushing the Limits of All-Atom Geometric Graph Neural Networks: Pre-Training, Scaling and Zero-Shot Transfer**|Zihan Pengmei et.al.|[2410.21683v1](http://arxiv.org/abs/2410.21683v1)|null|
 |**2024-10-28**|**SandboxAQ's submission to MRL 2024 Shared Task on Multi-lingual Multi-task Information Retrieval**|Isidora Chara Tourni et.al.|[2410.21501v1](http://arxiv.org/abs/2410.21501v1)|null|
 |**2024-10-28**|**SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization**|Wanhua Li et.al.|[2410.21411v1](http://arxiv.org/abs/2410.21411v1)|**[link](https://github.com/mengzibin/socialgpt)**|

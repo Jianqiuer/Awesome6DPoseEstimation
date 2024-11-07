@@ -13,13 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v1](http://arxiv.org/abs/2411.03807v1)|null|
+|**2024-11-06**|**Estimation of Psychosocial Work Environment Exposures Through Video Object Detection. Proof of Concept Using CCTV Footage**|Claus D. Hansen et.al.|[2411.03724v1](http://arxiv.org/abs/2411.03724v1)|null|
+|**2024-11-05**|**Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data**|Seunggeun Chi et.al.|[2411.03561v1](http://arxiv.org/abs/2411.03561v1)|null|
 |**2024-11-05**|**HFGaussian: Learning Generalizable Gaussian Human with Integrated Human Features**|Arnab Dey et.al.|[2411.03086v1](http://arxiv.org/abs/2411.03086v1)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804v1](http://arxiv.org/abs/2411.01804v1)|null|
-|**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443v1](http://arxiv.org/abs/2411.01443v1)|null|
+|**2024-11-03**|**Activating Self-Attention for Multi-Scene Absolute Pose Regression**|Miso Lee et.al.|[2411.01443v1](http://arxiv.org/abs/2411.01443v1)|**[link](https://github.com/dlalth557/ActMST)**|
 |**2024-11-04**|**3D Equivariant Pose Regression via Direct Wigner-D Harmonics Prediction**|Jongmin Lee et.al.|[2411.00543v2](http://arxiv.org/abs/2411.00543v2)|null|
 |**2024-10-31**|**Whole-Herd Elephant Pose Estimation from Drone Data for Collective Behavior Analysis**|Brody McNutt et.al.|[2411.00196v1](http://arxiv.org/abs/2411.00196v1)|null|
 |**2024-10-31**|**No Pose, No Problem: Surprisingly Simple 3D Gaussian Splats from Sparse Unposed Images**|Botao Ye et.al.|[2410.24207v1](http://arxiv.org/abs/2410.24207v1)|**[link](https://github.com/cvg/NoPoSplat)**|
-|**2024-10-31**|**SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation**|Aditya Agarwal et.al.|[2410.23643v1](http://arxiv.org/abs/2410.23643v1)|null|
+|**2024-11-06**|**SceneComplete: Open-World 3D Scene Completion in Complex Real World Environments for Robot Manipulation**|Aditya Agarwal et.al.|[2410.23643v2](http://arxiv.org/abs/2410.23643v2)|null|
 |**2024-10-30**|**SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark**|HyunJun Jung et.al.|[2410.22715v1](http://arxiv.org/abs/2410.22715v1)|null|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128v1](http://arxiv.org/abs/2410.22128v1)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
@@ -1337,6 +1340,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|**[link](https://github.com/stanford-aimi/ravl)**|
+|**2024-11-06**|**Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models**|Minh Duc Bui et.al.|[2411.03888v1](http://arxiv.org/abs/2411.03888v1)|**[link](https://github.com/minhducbui/multi3hate)**|
+|**2024-11-06**|**SA3DIP: Segment Any 3D Instance with Potential 3D Priors**|Xi Yang et.al.|[2411.03819v1](http://arxiv.org/abs/2411.03819v1)|**[link](https://github.com/ryang41/sa3dip)**|
+|**2024-11-06**|**No Culture Left Behind: ArtELingo-28, a Benchmark of WikiArt with Captions in 28 Languages**|Youssef Mohamed et.al.|[2411.03769v1](http://arxiv.org/abs/2411.03769v1)|null|
+|**2024-11-06**|**Zero-shot Dynamic MRI Reconstruction with Global-to-local Diffusion Model**|Yu Guan et.al.|[2411.03723v1](http://arxiv.org/abs/2411.03723v1)|null|
+|**2024-11-06**|**Fine-Tuning Vision-Language Model for Automated Engineering Drawing Information Extraction**|Muhammad Tayyab Khan et.al.|[2411.03707v1](http://arxiv.org/abs/2411.03707v1)|null|
+|**2024-11-06**|**3DGS-CD: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement**|Ziqi Lu et.al.|[2411.03706v1](http://arxiv.org/abs/2411.03706v1)|null|
+|**2024-11-06**|**Towards Scalable Automated Grading: Leveraging Large Language Models for Conceptual Question Evaluation in Engineering**|Rujun Gao et.al.|[2411.03659v1](http://arxiv.org/abs/2411.03659v1)|null|
+|**2024-11-05**|**Exploring the Benefits of Domain-Pretraining of Generative Large Language Models for Chemistry**|Anurag Acharya et.al.|[2411.03542v1](http://arxiv.org/abs/2411.03542v1)|null|
 |**2024-11-05**|**A Mamba Foundation Model for Time Series Forecasting**|Haoyu Ma et.al.|[2411.02941v1](http://arxiv.org/abs/2411.02941v1)|null|
 |**2024-11-05**|**DDFAV: Remote Sensing Large Vision Language Models Dataset and Evaluation Benchmark**|Haodong Li et.al.|[2411.02733v1](http://arxiv.org/abs/2411.02733v1)|**[link](https://github.com/haodongli2024/rspope)**|
 |**2024-11-04**|**EmoSphere++: Emotion-Controllable Zero-Shot Text-to-Speech via Emotion-Adaptive Spherical Vector**|Deok-Hyeon Cho et.al.|[2411.02625v1](http://arxiv.org/abs/2411.02625v1)|**[link](https://github.com/Choddeok/EmoSpherepp)**|

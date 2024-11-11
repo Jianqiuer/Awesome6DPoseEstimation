@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734v1](http://arxiv.org/abs/2411.05734v1)|null|
+|**2024-11-08**|**DeepArUco++: Improved detection of square fiducial markers in challenging lighting conditions**|Rafael Berral-Soler et.al.|[2411.05552v1](http://arxiv.org/abs/2411.05552v1)|**[link](https://github.com/avauco/deeparuco)**|
+|**2024-11-08**|**Tightly-Coupled, Speed-aided Monocular Visual-Inertial Localization in Topological Map**|Chanuk Yang et.al.|[2411.05497v1](http://arxiv.org/abs/2411.05497v1)|null|
+|**2024-11-08**|**Relative Pose Estimation for Nonholonomic Robot Formation with UWB-IO Measurements**|Kunrui Ze et.al.|[2411.05481v1](http://arxiv.org/abs/2411.05481v1)|null|
 |**2024-11-07**|**Social EgoMesh Estimation**|Luca Scofano et.al.|[2411.04598v1](http://arxiv.org/abs/2411.04598v1)|**[link](https://github.com/l-scofano/seeme)**|
 |**2024-11-07**|**Pose2Trajectory: Using Transformers on Body Pose to Predict Tennis Player's Trajectory**|Ali K. AlShami et.al.|[2411.04501v1](http://arxiv.org/abs/2411.04501v1)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386v1](http://arxiv.org/abs/2411.04386v1)|null|
@@ -1343,6 +1347,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755v1](http://arxiv.org/abs/2411.05755v1)|null|
+|**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691v1](http://arxiv.org/abs/2411.05691v1)|null|
+|**2024-11-08**|**Assessing Open-Source Large Language Models on Argumentation Mining Subtasks**|Mohammad Yeghaneh Abkenar et.al.|[2411.05639v1](http://arxiv.org/abs/2411.05639v1)|null|
+|**2024-11-08**|**An Early FIRST Reproduction and Improvements to Single-Token Decoding for Fast Listwise Reranking**|Zijian Chen et.al.|[2411.05508v1](http://arxiv.org/abs/2411.05508v1)|null|
+|**2024-11-08**|**WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models**|Shengda Fan et.al.|[2411.05451v1](http://arxiv.org/abs/2411.05451v1)|**[link](https://github.com/openbmb/workflowllm)**|
+|**2024-11-08**|**Enhancing Visual Classification using Comparative Descriptors**|Hankyeol Lee et.al.|[2411.05357v1](http://arxiv.org/abs/2411.05357v1)|null|
+|**2024-11-08**|**ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving**|Tao Ma et.al.|[2411.05311v1](http://arxiv.org/abs/2411.05311v1)|null|
+|**2024-11-07**|**Abstract2Appendix: Academic Reviews Enhance LLM Long-Context Capabilities**|Shengzhi Li et.al.|[2411.05232v1](http://arxiv.org/abs/2411.05232v1)|null|
+|**2024-11-07**|**Audiobox TTA-RAG: Improving Zero-Shot and Few-Shot Text-To-Audio with Retrieval-Augmented Generation**|Mu Yang et.al.|[2411.05141v1](http://arxiv.org/abs/2411.05141v1)|null|
 |**2024-11-07**|**SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation**|Koichi Namekata et.al.|[2411.04989v1](http://arxiv.org/abs/2411.04989v1)|null|
 |**2024-11-07**|**DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning**|Gaoyue Zhou et.al.|[2411.04983v1](http://arxiv.org/abs/2411.04983v1)|null|
 |**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976v1](http://arxiv.org/abs/2411.04976v1)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|

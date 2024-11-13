@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1346,7 +1346,7 @@ layout: default
 |**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186v1](http://arxiv.org/abs/2411.07186v1)|null|
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184v1](http://arxiv.org/abs/2411.07184v1)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**Decoding Visual Experience and Mapping Semantics through Whole-Brain Analysis Using fMRI Foundation Models**|Yanchen Wang et.al.|[2411.07121v1](http://arxiv.org/abs/2411.07121v1)|**[link](https://github.com/ppwangyc/wave)**|
-|**2024-11-11**|**Transformer verbatim in-context retrieval across time and scale**|Kristijan Armeni et.al.|[2411.07075v1](http://arxiv.org/abs/2411.07075v1)|null|
+|**2024-11-11**|**Transformer verbatim in-context retrieval across time and scale**|Kristijan Armeni et.al.|[2411.07075v1](http://arxiv.org/abs/2411.07075v1)|**[link](https://github.com/kristijanarmeni/verbatim-memory-in-nlms)**|
 |**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971v1](http://arxiv.org/abs/2411.06971v1)|null|
 |**2024-11-11**|**Robust Fine-tuning of Zero-shot Models via Variance Reduction**|Beier Zhu et.al.|[2411.06966v1](http://arxiv.org/abs/2411.06966v1)|null|
 |**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921v1](http://arxiv.org/abs/2411.06921v1)|null|

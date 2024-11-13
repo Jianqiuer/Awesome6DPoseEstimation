@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v1](http://arxiv.org/abs/2411.07699v1)|null|
+|**2024-11-12**|**Human Arm Pose Estimation with a Shoulder-worn Force-Myography Device for Human-Robot Interaction**|Rotem Atari et.al.|[2411.07644v1](http://arxiv.org/abs/2411.07644v1)|null|
+|**2024-11-12**|**Towards Seamless Integration of Magnetic Tracking into Fluoroscopy-guided Interventions**|Shuwei Xing et.al.|[2411.07495v1](http://arxiv.org/abs/2411.07495v1)|null|
 |**2024-11-08**|**Acoustic-based 3D Human Pose Estimation Robust to Human Position**|Yusuke Oumi et.al.|[2411.07165v1](http://arxiv.org/abs/2411.07165v1)|null|
 |**2024-11-11**|**CapeLLM: Support-Free Category-Agnostic Pose Estimation with Multimodal Large Language Models**|Junho Kim et.al.|[2411.06869v1](http://arxiv.org/abs/2411.06869v1)|null|
 |**2024-11-11**|**GenZ-ICP: Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**|Daehan Lee et.al.|[2411.06766v1](http://arxiv.org/abs/2411.06766v1)|null|
@@ -1095,6 +1098,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740v1](http://arxiv.org/abs/2411.07740v1)|null|
 |**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870v1](http://arxiv.org/abs/2411.01870v1)|null|
 |**2024-10-30**|**UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration**|Geng Li et.al.|[2410.22909v1](http://arxiv.org/abs/2410.22909v1)|null|
 |**2024-10-29**|**Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy**|Rongling Zhang et.al.|[2410.21857v1](http://arxiv.org/abs/2410.21857v1)|null|
@@ -1341,6 +1345,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027v1](http://arxiv.org/abs/2411.08027v1)|null|
+|**2024-11-12**|**Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models**|Cong Wu et.al.|[2411.07498v1](http://arxiv.org/abs/2411.07498v1)|null|
+|**2024-11-11**|**Untangling Hate Speech Definitions: A Semantic Componential Analysis Across Cultures and Domains**|Katerina Korre et.al.|[2411.07417v1](http://arxiv.org/abs/2411.07417v1)|null|
+|**2024-11-11**|**Warmstarting for Scaling Language Models**|Neeratyoy Mallik et.al.|[2411.07340v1](http://arxiv.org/abs/2411.07340v1)|null|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239v1](http://arxiv.org/abs/2411.07239v1)|null|
 |**2024-11-11**|**The Super Weight in Large Language Models**|Mengxia Yu et.al.|[2411.07191v1](http://arxiv.org/abs/2411.07191v1)|**[link](https://github.com/mengxiayu/llmsuperweight)**|
 |**2024-11-11**|**NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics**|David Robinson et.al.|[2411.07186v1](http://arxiv.org/abs/2411.07186v1)|null|

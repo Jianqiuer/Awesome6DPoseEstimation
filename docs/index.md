@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603v1](http://arxiv.org/abs/2411.08603v1)|null|
+|**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373v1](http://arxiv.org/abs/2411.08373v1)|null|
 |**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v1](http://arxiv.org/abs/2411.07699v1)|null|
 |**2024-11-12**|**Human Arm Pose Estimation with a Shoulder-worn Force-Myography Device for Human-Robot Interaction**|Rotem Atari et.al.|[2411.07644v1](http://arxiv.org/abs/2411.07644v1)|null|
 |**2024-11-12**|**Towards Seamless Integration of Magnetic Tracking into Fluoroscopy-guided Interventions**|Shuwei Xing et.al.|[2411.07495v1](http://arxiv.org/abs/2411.07495v1)|null|
@@ -1271,6 +1273,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453v1](http://arxiv.org/abs/2411.08453v1)|null|
+|**2024-11-13**|**Multiscale Graph Construction Using Non-local Cluster Features**|Reina Kaneko et.al.|[2411.08371v1](http://arxiv.org/abs/2411.08371v1)|null|
 |**2024-10-30**|**Automated Image-Based Identification and Consistent Classification of Fire Patterns with Quantitative Shape Analysis and Spatial Location Identification**|Pengkun Liu et.al.|[2410.23105v1](http://arxiv.org/abs/2410.23105v1)|null|
 |**2024-11-03**|**Multimodality Helps Few-Shot 3D Point Cloud Semantic Segmentation**|Zhaochong An et.al.|[2410.22489v2](http://arxiv.org/abs/2410.22489v2)|null|
 |**2024-10-28**|**Exploring contextual modeling with linear complexity for point cloud segmentation**|Yong Xien Chng et.al.|[2410.21211v1](http://arxiv.org/abs/2410.21211v1)|null|
@@ -1345,6 +1349,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785v1](http://arxiv.org/abs/2411.08785v1)|null|
+|**2024-11-13**|**Measuring similarity between embedding spaces using induced neighborhood graphs**|Tiago F. Tavares et.al.|[2411.08687v1](http://arxiv.org/abs/2411.08687v1)|null|
+|**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629v1](http://arxiv.org/abs/2411.08629v1)|null|
+|**2024-11-13**|**Grammarization-Based Grasping with Deep Multi-Autoencoder Latent Space Exploration by Reinforcement Learning Agent**|Leonidas Askianakis et.al.|[2411.08566v1](http://arxiv.org/abs/2411.08566v1)|null|
+|**2024-11-13**|**CorrSynth -- A Correlated Sampling Method for Diverse Dataset Generation from LLMs**|Suhas S Kowshik et.al.|[2411.08553v1](http://arxiv.org/abs/2411.08553v1)|null|
+|**2024-11-13**|**An Information Theoretic Approach to Operationalize Right to Data Protection**|Abhinav Java et.al.|[2411.08506v1](http://arxiv.org/abs/2411.08506v1)|null|
+|**2024-11-13**|**Enhancing Multimodal Query Representation via Visual Dialogues for End-to-End Knowledge Retrieval**|Yeong-Joon Ju et.al.|[2411.08334v1](http://arxiv.org/abs/2411.08334v1)|**[link](https://github.com/yeongjoonju/ret_xknow)**|
+|**2024-11-12**|**Retrieval Augmented Time Series Forecasting**|Kutay Tire et.al.|[2411.08249v1](http://arxiv.org/abs/2411.08249v1)|**[link](https://github.com/kutaytire/retrieval-augmented-time-series-forecasting)**|
+|**2024-11-12**|**Latent Space Disentanglement in Diffusion Transformers Enables Precise Zero-shot Semantic Editing**|Zitao Shuai et.al.|[2411.08196v1](http://arxiv.org/abs/2411.08196v1)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027v1](http://arxiv.org/abs/2411.08027v1)|null|
 |**2024-11-12**|**Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models**|Cong Wu et.al.|[2411.07498v1](http://arxiv.org/abs/2411.07498v1)|null|
 |**2024-11-11**|**Untangling Hate Speech Definitions: A Semantic Componential Analysis Across Cultures and Domains**|Katerina Korre et.al.|[2411.07417v1](http://arxiv.org/abs/2411.07417v1)|null|

@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435v1](http://arxiv.org/abs/2411.09435v1)|null|
 |**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603v1](http://arxiv.org/abs/2411.08603v1)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373v1](http://arxiv.org/abs/2411.08373v1)|null|
 |**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699v1](http://arxiv.org/abs/2411.07699v1)|null|
@@ -1361,6 +1362,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|null|
+|**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413v1](http://arxiv.org/abs/2411.09413v1)|null|
+|**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|
+|**2024-11-14**|**Exploring Zero-Shot Anomaly Detection with CLIP in Medical Imaging: Are We There Yet?**|Aldo Marzullo et.al.|[2411.09310v1](http://arxiv.org/abs/2411.09310v1)|null|
+|**2024-11-14**|**Mono2Stereo: Monocular Knowledge Transfer for Enhanced Stereo Matching**|Yuran Wang et.al.|[2411.09151v1](http://arxiv.org/abs/2411.09151v1)|null|
+|**2024-11-14**|**UniHOI: Learning Fast, Dense and Generalizable 4D Reconstruction for Egocentric Hand Object Interaction Videos**|Chengbo Yuan et.al.|[2411.09145v1](http://arxiv.org/abs/2411.09145v1)|null|
 |**2024-11-13**|**Zero-shot Cross-lingual Transfer Learning with Multiple Source and Target Languages for Information Extraction: Language Selection and Adversarial Training**|Nghia Trung Ngo et.al.|[2411.08785v1](http://arxiv.org/abs/2411.08785v1)|null|
 |**2024-11-13**|**Measuring similarity between embedding spaces using induced neighborhood graphs**|Tiago F. Tavares et.al.|[2411.08687v1](http://arxiv.org/abs/2411.08687v1)|null|
 |**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629v1](http://arxiv.org/abs/2411.08629v1)|null|

@@ -1102,7 +1102,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740v1](http://arxiv.org/abs/2411.07740v1)|null|
-|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870v1](http://arxiv.org/abs/2411.01870v1)|null|
+|**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870v1](http://arxiv.org/abs/2411.01870v1)|**[link](https://github.com/kezheng1204/integer)**|
 |**2024-10-30**|**UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration**|Geng Li et.al.|[2410.22909v1](http://arxiv.org/abs/2410.22909v1)|null|
 |**2024-10-29**|**Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy**|Rongling Zhang et.al.|[2410.21857v1](http://arxiv.org/abs/2410.21857v1)|null|
 |**2024-10-29**|**Memory-Efficient Point Cloud Registration via Overlapping Region Sampling**|Tomoyasu Shimada et.al.|[2410.21753v1](http://arxiv.org/abs/2410.21753v1)|null|

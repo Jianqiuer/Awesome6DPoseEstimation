@@ -1350,6 +1350,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309v1](http://arxiv.org/abs/2411.10309v1)|**[link](https://github.com/yayoyo66/rdistitcher)**|
+|**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086v1](http://arxiv.org/abs/2411.10086v1)|null|
+|**2024-11-15**|**'What did the Robot do in my Absence?' Video Foundation Models to Enhance Intermittent Supervision**|Kavindie Katuwandeniya et.al.|[2411.10016v1](http://arxiv.org/abs/2411.10016v1)|null|
+|**2024-11-15**|**Zero-shot Voice Conversion with Diffusion Transformers**|Songting Liu et.al.|[2411.09943v1](http://arxiv.org/abs/2411.09943v1)|null|
 |**2024-11-14**|**LLM Hallucination Reasoning with Zero-shot Knowledge Test**|Seongmin Lee et.al.|[2411.09689v1](http://arxiv.org/abs/2411.09689v1)|null|
 |**2024-11-14**|**Script-centric behavior understanding for assisted autism spectrum disorder diagnosis**|Wenxing Liu et.al.|[2411.09413v1](http://arxiv.org/abs/2411.09413v1)|null|
 |**2024-11-14**|**Less is More: Unseen Domain Fake News Detection via Causal Propagation Substructures**|Shuzhi Gong et.al.|[2411.09389v1](http://arxiv.org/abs/2411.09389v1)|null|

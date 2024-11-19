@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409v1](http://arxiv.org/abs/2411.11409v1)|null|
+|**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v1](http://arxiv.org/abs/2411.10504v1)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435v1](http://arxiv.org/abs/2411.09435v1)|null|
 |**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603v1](http://arxiv.org/abs/2411.08603v1)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373v1](http://arxiv.org/abs/2411.08373v1)|null|
@@ -1101,6 +1103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**Deep Loss Convexification for Learning Iterative Models**|Ziming Zhang et.al.|[2411.10649v1](http://arxiv.org/abs/2411.10649v1)|null|
 |**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740v1](http://arxiv.org/abs/2411.07740v1)|null|
 |**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870v1](http://arxiv.org/abs/2411.01870v1)|**[link](https://github.com/kezheng1204/integer)**|
 |**2024-10-30**|**UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration**|Geng Li et.al.|[2410.22909v1](http://arxiv.org/abs/2410.22909v1)|null|
@@ -1350,6 +1353,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**|Bangguo Yu et.al.|[2411.11609v1](http://arxiv.org/abs/2411.11609v1)|null|
+|**2024-11-18**|**Unveiling the Inflexibility of Adaptive Embedding in Traffic Forecasting**|Hongjun Wang et.al.|[2411.11448v1](http://arxiv.org/abs/2411.11448v1)|null|
+|**2024-11-18**|**Scalable Autoregressive Monocular Depth Estimation**|Jinhong Wang et.al.|[2411.11361v1](http://arxiv.org/abs/2411.11361v1)|null|
+|**2024-11-18**|**Text-guided Zero-Shot Object Localization**|Jingjing Wang et.al.|[2411.11357v1](http://arxiv.org/abs/2411.11357v1)|null|
+|**2024-11-18**|**Visual-Semantic Graph Matching Net for Zero-Shot Learning**|Bowen Duan et.al.|[2411.11351v1](http://arxiv.org/abs/2411.11351v1)|**[link](https://github.com/dbwfd/vsgmn)**|
+|**2024-11-18**|**Zero-Shot Load Forecasting with Large Language Models**|Wenlong Liao et.al.|[2411.11350v1](http://arxiv.org/abs/2411.11350v1)|null|
+|**2024-11-18**|**Transcending Language Boundaries: Harnessing LLMs for Low-Resource Language Translation**|Peng Shu et.al.|[2411.11295v1](http://arxiv.org/abs/2411.11295v1)|null|
+|**2024-11-18**|**Neuron: Learning Context-Aware Evolving Representations for Zero-Shot Skeleton Action Recognition**|Yang Chen et.al.|[2411.11288v1](http://arxiv.org/abs/2411.11288v1)|null|
+|**2024-11-18**|**Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development**|Ranjan Sapkota et.al.|[2411.11285v1](http://arxiv.org/abs/2411.11285v1)|null|
+|**2024-11-18**|**ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification**|Son T. Luu et.al.|[2411.11247v1](http://arxiv.org/abs/2411.11247v1)|null|
 |**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309v1](http://arxiv.org/abs/2411.10309v1)|**[link](https://github.com/yayoyo66/rdistitcher)**|
 |**2024-11-15**|**CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation**|Dengke Zhang et.al.|[2411.10086v1](http://arxiv.org/abs/2411.10086v1)|null|
 |**2024-11-15**|**'What did the Robot do in my Absence?' Video Foundation Models to Enhance Intermittent Supervision**|Kavindie Katuwandeniya et.al.|[2411.10016v1](http://arxiv.org/abs/2411.10016v1)|null|

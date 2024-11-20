@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676v1](http://arxiv.org/abs/2411.12676v1)|null|
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592v1](http://arxiv.org/abs/2411.12592v1)|null|
+|**2024-11-19**|**GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping**|Teli Ma et.al.|[2411.12286v1](http://arxiv.org/abs/2411.12286v1)|null|
 |**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409v1](http://arxiv.org/abs/2411.11409v1)|null|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v1](http://arxiv.org/abs/2411.10504v1)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435v1](http://arxiv.org/abs/2411.09435v1)|null|
@@ -1111,6 +1114,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514v1](http://arxiv.org/abs/2411.12514v1)|null|
 |**2024-11-16**|**Deep Loss Convexification for Learning Iterative Models**|Ziming Zhang et.al.|[2411.10649v1](http://arxiv.org/abs/2411.10649v1)|null|
 |**2024-11-12**|**3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration**|Liyuan Zhang et.al.|[2411.07740v1](http://arxiv.org/abs/2411.07740v1)|null|
 |**2024-11-04**|**Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration**|Kezheng Xiong et.al.|[2411.01870v1](http://arxiv.org/abs/2411.01870v1)|**[link](https://github.com/kezheng1204/integer)**|
@@ -1365,6 +1369,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**Improving Controllability and Editability for Pretrained Text-to-Music Generation Models**|Yixiao Zhang et.al.|[2411.12641v1](http://arxiv.org/abs/2411.12641v1)|null|
+|**2024-11-19**|**Instant Policy: In-Context Imitation Learning via Graph Diffusion**|Vitalis Vosylius et.al.|[2411.12633v1](http://arxiv.org/abs/2411.12633v1)|null|
+|**2024-11-19**|**SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation**|Ron Keuth et.al.|[2411.12602v1](http://arxiv.org/abs/2411.12602v1)|**[link](https://github.com/multimodallearning/samcarriestheburden)**|
+|**2024-11-19**|**Probe-Me-Not: Protecting Pre-trained Encoders from Malicious Probing**|Ruyi Ding et.al.|[2411.12508v1](http://arxiv.org/abs/2411.12508v1)|null|
+|**2024-11-19**|**Predicting User Intents and Musical Attributes from Music Discovery Conversations**|Daeyong Kwon et.al.|[2411.12254v1](http://arxiv.org/abs/2411.12254v1)|null|
+|**2024-11-19**|**Zero-Shot Crate Digging: DJ Tool Retrieval Using Speech Activity, Music Structure And CLAP Embeddings**|Iroro Orife et.al.|[2411.12209v1](http://arxiv.org/abs/2411.12209v1)|null|
+|**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196v1](http://arxiv.org/abs/2411.12196v1)|null|
+|**2024-11-19**|**UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning**|Yuan Yuan et.al.|[2411.12164v1](http://arxiv.org/abs/2411.12164v1)|null|
+|**2024-11-19**|**HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments**|Shuijing Liu et.al.|[2411.12150v1](http://arxiv.org/abs/2411.12150v1)|null|
 |**2024-11-18**|**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**|Bangguo Yu et.al.|[2411.11609v1](http://arxiv.org/abs/2411.11609v1)|null|
 |**2024-11-18**|**Unveiling the Inflexibility of Adaptive Embedding in Traffic Forecasting**|Hongjun Wang et.al.|[2411.11448v1](http://arxiv.org/abs/2411.11448v1)|null|
 |**2024-11-18**|**Scalable Autoregressive Monocular Depth Estimation**|Jinhong Wang et.al.|[2411.11361v1](http://arxiv.org/abs/2411.11361v1)|null|

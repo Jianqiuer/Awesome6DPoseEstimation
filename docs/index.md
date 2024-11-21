@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676v1](http://arxiv.org/abs/2411.12676v1)|null|
-|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592v1](http://arxiv.org/abs/2411.12592v1)|null|
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592v1](http://arxiv.org/abs/2411.12592v1)|**[link](https://github.com/snldmt/SPARS3R)**|
 |**2024-11-19**|**GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping**|Teli Ma et.al.|[2411.12286v1](http://arxiv.org/abs/2411.12286v1)|null|
-|**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409v1](http://arxiv.org/abs/2411.11409v1)|null|
+|**2024-11-18**|**IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos**|Yunong Liu et.al.|[2411.11409v1](http://arxiv.org/abs/2411.11409v1)|**[link](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)**|
 |**2024-11-15**|**USP-Gaussian: Unifying Spike-based Image Reconstruction, Pose Correction and Gaussian Splatting**|Kang Chen et.al.|[2411.10504v1](http://arxiv.org/abs/2411.10504v1)|**[link](https://github.com/chenkang455/usp-gaussian)**|
 |**2024-11-13**|**ReMP: Reusable Motion Prior for Multi-domain 3D Human Pose Estimation and Motion Inbetweening**|Hojun Jang et.al.|[2411.09435v1](http://arxiv.org/abs/2411.09435v1)|null|
 |**2024-11-13**|**Generalized Pose Space Embeddings for Training In-the-Wild using Anaylis-by-Synthesis**|Dominik Borer et.al.|[2411.08603v1](http://arxiv.org/abs/2411.08603v1)|null|
@@ -1364,7 +1364,7 @@ layout: default
 |**2024-11-19**|**Predicting User Intents and Musical Attributes from Music Discovery Conversations**|Daeyong Kwon et.al.|[2411.12254v1](http://arxiv.org/abs/2411.12254v1)|null|
 |**2024-11-19**|**Zero-Shot Crate Digging: DJ Tool Retrieval Using Speech Activity, Music Structure And CLAP Embeddings**|Iroro Orife et.al.|[2411.12209v1](http://arxiv.org/abs/2411.12209v1)|null|
 |**2024-11-19**|**A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs**|Zixin Liu et.al.|[2411.12196v1](http://arxiv.org/abs/2411.12196v1)|null|
-|**2024-11-19**|**UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning**|Yuan Yuan et.al.|[2411.12164v1](http://arxiv.org/abs/2411.12164v1)|null|
+|**2024-11-19**|**UrbanDiT: A Foundation Model for Open-World Urban Spatio-Temporal Learning**|Yuan Yuan et.al.|[2411.12164v1](http://arxiv.org/abs/2411.12164v1)|**[link](https://github.com/YuanYuan98/UrbanDiT)**|
 |**2024-11-19**|**HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments**|Shuijing Liu et.al.|[2411.12150v1](http://arxiv.org/abs/2411.12150v1)|null|
 |**2024-11-18**|**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**|Bangguo Yu et.al.|[2411.11609v1](http://arxiv.org/abs/2411.11609v1)|null|
 |**2024-11-18**|**Unveiling the Inflexibility of Adaptive Embedding in Traffic Forecasting**|Hongjun Wang et.al.|[2411.11448v1](http://arxiv.org/abs/2411.11448v1)|null|

@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377v1](http://arxiv.org/abs/2411.18377v1)|null|
+|**2024-11-27**|**Manual-PA: Learning 3D Part Assembly from Instruction Diagrams**|Jiahao Zhang et.al.|[2411.18011v1](http://arxiv.org/abs/2411.18011v1)|null|
+|**2024-11-26**|**Self-supervised Monocular Depth and Pose Estimation for Endoscopy with Generative Latent Priors**|Ziang Xu et.al.|[2411.17790v1](http://arxiv.org/abs/2411.17790v1)|null|
+|**2024-11-26**|**Geometric Point Attention Transformer for 3D Shape Reassembly**|Jiahan Li et.al.|[2411.17788v1](http://arxiv.org/abs/2411.17788v1)|null|
 |**2024-11-26**|**RoboPEPP: Vision-Based Robot Pose and Joint Angle Estimation through Embedding Predictive Pre-Training**|Raktim Gautam Goswami et.al.|[2411.17662v1](http://arxiv.org/abs/2411.17662v1)|null|
 |**2024-11-26**|**Communication-Efficient Cooperative SLAMMOT via Determining the Number of Collaboration Vehicles**|Susu Fang et.al.|[2411.17432v1](http://arxiv.org/abs/2411.17432v1)|null|
 |**2024-11-26**|**Boost 3D Reconstruction using Diffusion-based Monocular Camera Calibration**|Junyuan Deng et.al.|[2411.17240v1](http://arxiv.org/abs/2411.17240v1)|null|
@@ -1138,6 +1142,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377v1](http://arxiv.org/abs/2411.18377v1)|null|
 |**2024-11-22**|**EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration**|Linrui Gong et.al.|[2411.15271v1](http://arxiv.org/abs/2411.15271v1)|null|
 |**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069v1](http://arxiv.org/abs/2411.13069v1)|null|
 |**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514v1](http://arxiv.org/abs/2411.12514v1)|null|
@@ -1317,6 +1322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Towards Cross-device and Training-free Robotic Grasping in 3D Open World**|Weiguang Zhao et.al.|[2411.18133v1](http://arxiv.org/abs/2411.18133v1)|null|
 |**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251v1](http://arxiv.org/abs/2411.13251v1)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453v1](http://arxiv.org/abs/2411.08453v1)|null|
 |**2024-11-13**|**Multiscale Graph Construction Using Non-local Cluster Features**|Reina Kaneko et.al.|[2411.08371v1](http://arxiv.org/abs/2411.08371v1)|null|
@@ -1396,6 +1402,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616v1](http://arxiv.org/abs/2411.18616v1)|null|
+|**2024-11-27**|**Isolating authorship from content with semantic embeddings and contrastive learning**|Javier Huertas-Tato et.al.|[2411.18472v1](http://arxiv.org/abs/2411.18472v1)|null|
+|**2024-11-27**|**SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation**|Duc-Hai Pham et.al.|[2411.18229v1](http://arxiv.org/abs/2411.18229v1)|null|
+|**2024-11-27**|**DRS: Deep Question Reformulation With Structured Output**|Zhecheng Li et.al.|[2411.17993v1](http://arxiv.org/abs/2411.17993v1)|null|
+|**2024-11-26**|**Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient**|Zigeng Chen et.al.|[2411.17787v1](http://arxiv.org/abs/2411.17787v1)|**[link](https://github.com/czg1225/code)**|
 |**2024-11-26**|**MALMM: Multi-Agent Large Language Models for Zero-Shot Robotics Manipulation**|Harsh Singh et.al.|[2411.17636v1](http://arxiv.org/abs/2411.17636v1)|null|
 |**2024-11-26**|**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**|Kevin Qinghong Lin et.al.|[2411.17465v1](http://arxiv.org/abs/2411.17465v1)|**[link](https://github.com/showlab/showui)**|
 |**2024-11-26**|**FLEX-CLIP: Feature-Level GEneration Network Enhanced CLIP for X-shot Cross-modal Retrieval**|Jingyou Xie et.al.|[2411.17454v1](http://arxiv.org/abs/2411.17454v1)|null|

@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**ProbPose: A Probabilistic Approach to 2D Human Pose Estimation**|Miroslav Purkrabek et.al.|[2412.02254v1](http://arxiv.org/abs/2412.02254v1)|null|
+|**2024-12-03**|**Cascaded Multi-Scale Attention for Enhanced Multi-Scale Feature Extraction and Interaction with Low-Resolution Images**|Xiangyong Lu et.al.|[2412.02197v1](http://arxiv.org/abs/2412.02197v1)|null|
+|**2024-12-03**|**CLERF: Contrastive LEaRning for Full Range Head Pose Estimation**|Ting-Ruen Wei et.al.|[2412.02066v1](http://arxiv.org/abs/2412.02066v1)|null|
+|**2024-12-02**|**Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle**|Miroslav Purkrabek et.al.|[2412.01562v1](http://arxiv.org/abs/2412.01562v1)|**[link](https://github.com/MiraPurkrabek/BBoxMaskPose)**|
+|**2024-12-02**|**6DOPE-GS: Online 6D Object Pose Estimation using Gaussian Splatting**|Yufeng Jin et.al.|[2412.01543v1](http://arxiv.org/abs/2412.01543v1)|null|
+|**2024-12-02**|**HandOS: 3D Hand Reconstruction in One Stage**|Xingyu Chen et.al.|[2412.01537v1](http://arxiv.org/abs/2412.01537v1)|null|
+|**2024-12-02**|**SF-Loc: A Visual Mapping and Geo-Localization System based on Sparse Visual Structure Frames**|Yuxuan Zhou et.al.|[2412.01500v1](http://arxiv.org/abs/2412.01500v1)|null|
+|**2024-12-02**|**MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection**|Yonghao Dang et.al.|[2412.01422v1](http://arxiv.org/abs/2412.01422v1)|null|
+|**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299v1](http://arxiv.org/abs/2412.01299v1)|null|
+|**2024-12-02**|**CRISP: Object Pose and Shape Estimation with Test-Time Adaptation**|Jingnan Shi et.al.|[2412.01052v1](http://arxiv.org/abs/2412.01052v1)|null|
 |**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492v1](http://arxiv.org/abs/2411.19492v1)|null|
 |**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458v1](http://arxiv.org/abs/2411.19458v1)|null|
 |**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289v1](http://arxiv.org/abs/2411.19289v1)|null|
@@ -1142,6 +1152,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-01**|**FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting**|Phu Pham et.al.|[2412.00682v1](http://arxiv.org/abs/2412.00682v1)|null|
 |**2024-11-27**|**XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration**|Denys Rozumnyi et.al.|[2411.18377v1](http://arxiv.org/abs/2411.18377v1)|null|
 |**2024-11-22**|**EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration**|Linrui Gong et.al.|[2411.15271v1](http://arxiv.org/abs/2411.15271v1)|null|
 |**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069v1](http://arxiv.org/abs/2411.13069v1)|null|
@@ -1320,6 +1331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539v1](http://arxiv.org/abs/2412.01539v1)|null|
+|**2024-11-30**|**Density-aware Global-Local Attention Network for Point Cloud Segmentation**|Chade Li et.al.|[2412.00489v1](http://arxiv.org/abs/2412.00489v1)|null|
 |**2024-11-28**|**Textured As-Is BIM via GIS-informed Point Cloud Segmentation**|Mohamed S. H. Alabassy et.al.|[2411.18898v1](http://arxiv.org/abs/2411.18898v1)|null|
 |**2024-11-27**|**Towards Cross-device and Training-free Robotic Grasping in 3D Open World**|Weiguang Zhao et.al.|[2411.18133v1](http://arxiv.org/abs/2411.18133v1)|null|
 |**2024-11-20**|**BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation**|Umamaheswaran Raman Kumar et.al.|[2411.13251v1](http://arxiv.org/abs/2411.13251v1)|null|
@@ -1399,6 +1412,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**FoundHand: Large-Scale Domain-Specific Learning for Controllable Hand Image Generation**|Kefan Chen et.al.|[2412.02690v1](http://arxiv.org/abs/2412.02690v1)|null|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|Jinjin Cai et.al.|[2412.02531v1](http://arxiv.org/abs/2412.02531v1)|null|
+|**2024-12-03**|**LoRA Diffusion: Zero-Shot LoRA Synthesis for Diffusion Model Personalization**|Ethan Smith et.al.|[2412.02352v1](http://arxiv.org/abs/2412.02352v1)|null|
+|**2024-12-03**|**Improving Language Transfer Capability of Decoder-only Architecture in Multilingual Neural Machine Translation**|Zhi Qu et.al.|[2412.02101v1](http://arxiv.org/abs/2412.02101v1)|null|
+|**2024-12-03**|**Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion**|Liu Liu et.al.|[2412.02075v1](http://arxiv.org/abs/2412.02075v1)|null|
+|**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[2412.02025v1](http://arxiv.org/abs/2412.02025v1)|null|
+|**2024-12-02**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955v1](http://arxiv.org/abs/2412.01955v1)|null|
+|**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827v1](http://arxiv.org/abs/2412.01827v1)|null|
+|**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|Sanghwan Kim et.al.|[2412.01814v1](http://arxiv.org/abs/2412.01814v1)|null|
+|**2024-12-02**|**Hard Constraint Guided Flow Matching for Gradient-Free Generation of PDE Solutions**|Chaoran Cheng et.al.|[2412.01786v1](http://arxiv.org/abs/2412.01786v1)|null|
 |**2024-12-02**|**T2Vid: Translating Long Text into Multi-Image is the Catalyst for Video-LLMs**|Shukang Yin et.al.|[2411.19951v2](http://arxiv.org/abs/2411.19951v2)|**[link](https://github.com/xjtupanda/t2vid)**|
 |**2024-11-29**|**Reverse Thinking Makes LLMs Stronger Reasoners**|Justin Chih-Yao Chen et.al.|[2411.19865v1](http://arxiv.org/abs/2411.19865v1)|null|
 |**2024-11-29**|**Zero-shot Musical Stem Retrieval with Joint-Embedding Predictive Architectures**|Alain Riou et.al.|[2411.19806v1](http://arxiv.org/abs/2411.19806v1)|null|

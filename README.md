@@ -1,4 +1,4 @@
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1154,7 +1154,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1335,7 +1335,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1418,7 +1418,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1430,7 +1430,7 @@
 |**2024-12-03**|**Improving Language Transfer Capability of Decoder-only Architecture in Multilingual Neural Machine Translation**|Zhi Qu et.al.|[2412.02101v1](http://arxiv.org/abs/2412.02101v1)|null|
 |**2024-12-03**|**Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion**|Liu Liu et.al.|[2412.02075v1](http://arxiv.org/abs/2412.02075v1)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[2412.02025v1](http://arxiv.org/abs/2412.02025v1)|null|
-|**2024-12-02**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955v1](http://arxiv.org/abs/2412.01955v1)|null|
+|**2024-12-04**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955v2](http://arxiv.org/abs/2412.01955v2)|null|
 |**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827v1](http://arxiv.org/abs/2412.01827v1)|null|
 |**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|Sanghwan Kim et.al.|[2412.01814v1](http://arxiv.org/abs/2412.01814v1)|null|
 |**2024-12-02**|**Hard Constraint Guided Flow Matching for Gradient-Free Generation of PDE Solutions**|Chaoran Cheng et.al.|[2412.01786v1](http://arxiv.org/abs/2412.01786v1)|null|
@@ -4368,5 +4368,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241205>back to top</a>)</p>
 

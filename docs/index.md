@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1418,7 +1418,7 @@ layout: default
 |**2024-12-03**|**Improving Language Transfer Capability of Decoder-only Architecture in Multilingual Neural Machine Translation**|Zhi Qu et.al.|[2412.02101v1](http://arxiv.org/abs/2412.02101v1)|null|
 |**2024-12-03**|**Gaussian Object Carver: Object-Compositional Gaussian Splatting with surfaces completion**|Liu Liu et.al.|[2412.02075v1](http://arxiv.org/abs/2412.02075v1)|null|
 |**2024-12-02**|**PKRD-CoT: A Unified Chain-of-thought Prompting for Multi-Modal Large Language Models in Autonomous Driving**|Xuewen Luo et.al.|[2412.02025v1](http://arxiv.org/abs/2412.02025v1)|null|
-|**2024-12-02**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955v1](http://arxiv.org/abs/2412.01955v1)|null|
+|**2024-12-04**|**The use of large language models to enhance cancer clinical trial educational materials**|Mingye Gao et.al.|[2412.01955v2](http://arxiv.org/abs/2412.01955v2)|null|
 |**2024-12-02**|**RandAR: Decoder-only Autoregressive Visual Generation in Random Orders**|Ziqi Pang et.al.|[2412.01827v1](http://arxiv.org/abs/2412.01827v1)|null|
 |**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|Sanghwan Kim et.al.|[2412.01814v1](http://arxiv.org/abs/2412.01814v1)|null|
 |**2024-12-02**|**Hard Constraint Guided Flow Matching for Gradient-Free Generation of PDE Solutions**|Chaoran Cheng et.al.|[2412.01786v1](http://arxiv.org/abs/2412.01786v1)|null|

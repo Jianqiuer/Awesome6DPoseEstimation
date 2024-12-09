@@ -13,10 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821v1](http://arxiv.org/abs/2412.04821v1)|null|
+|**2024-12-05**|**ProPLIKS: Probablistic 3D human body pose estimation**|Karthik Shetty et.al.|[2412.04665v1](http://arxiv.org/abs/2412.04665v1)|null|
 |**2024-12-05**|**DualPM: Dual Posed-Canonical Point Maps for 3D Shape and Pose Reconstruction**|Ben Kaye et.al.|[2412.04464v1](http://arxiv.org/abs/2412.04464v1)|null|
 |**2024-12-05**|**Targeted Hard Sample Synthesis Based on Estimated Pose and Occlusion Error for Improved Object Pose Estimation**|Alan Li et.al.|[2412.04279v1](http://arxiv.org/abs/2412.04279v1)|null|
 |**2024-12-04**|**Sparse-view Pose Estimation and Reconstruction via Analysis by Generative Synthesis**|Qitao Zhao et.al.|[2412.03570v1](http://arxiv.org/abs/2412.03570v1)|null|
-|**2024-12-04**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517v1](http://arxiv.org/abs/2412.03517v1)|null|
+|**2024-12-06**|**NVComposer: Boosting Generative Novel View Synthesis with Multiple Sparse and Unposed Images**|Lingen Li et.al.|[2412.03517v2](http://arxiv.org/abs/2412.03517v2)|null|
 |**2024-12-05**|**A Bidirectional Siamese Recurrent Neural Network for Accurate Gait Recognition Using Body Landmarks**|Proma Hossain Progga et.al.|[2412.03498v2](http://arxiv.org/abs/2412.03498v2)|null|
 |**2024-12-04**|**MCVO: A Generic Visual Odometry for Arbitrarily Arranged Multi-Cameras**|Huai Yu et.al.|[2412.03146v1](http://arxiv.org/abs/2412.03146v1)|**[link](https://github.com/junhaowang615/mcvo)**|
 |**2024-12-04**|**An indoor DSO-based ceiling-vision odometry system for indoor industrial environments**|Abdelhak Bougouffa et.al.|[2412.02950v1](http://arxiv.org/abs/2412.02950v1)|null|
@@ -1169,6 +1171,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**GS-Matching: Reconsidering Feature Matching task in Point Cloud Registration**|Yaojie Zhang et.al.|[2412.04855v1](http://arxiv.org/abs/2412.04855v1)|null|
 |**2024-12-04**|**AffordDP: Generalizable Diffusion Policy with Transferable Affordance**|Shijie Wu et.al.|[2412.03142v1](http://arxiv.org/abs/2412.03142v1)|null|
 |**2024-12-04**|**QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives**|Ji Wu et.al.|[2412.02998v1](http://arxiv.org/abs/2412.02998v1)|null|
 |**2024-12-01**|**FlashSLAM: Accelerated RGB-D SLAM for Real-Time 3D Scene Reconstruction with Gaussian Splatting**|Phu Pham et.al.|[2412.00682v1](http://arxiv.org/abs/2412.00682v1)|null|
@@ -1435,6 +1438,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from a Single Demo**|Junzhe Zhu et.al.|[2412.05268v1](http://arxiv.org/abs/2412.05268v1)|null|
+|**2024-12-06**|**Enhancing Foundation Models for Time Series Forecasting via Wavelet-based Tokenization**|Luca Masserano et.al.|[2412.05244v1](http://arxiv.org/abs/2412.05244v1)|null|
+|**2024-12-06**|**Towards Understanding the Role of Sharpness-Aware Minimization Algorithms for Out-of-Distribution Generalization**|Samuel Schapiro et.al.|[2412.05169v1](http://arxiv.org/abs/2412.05169v1)|null|
+|**2024-12-06**|**A Practical Examination of AI-Generated Text Detectors for Large Language Models**|Brian Tufts et.al.|[2412.05139v1](http://arxiv.org/abs/2412.05139v1)|null|
+|**2024-12-06**|**Can Large Language Models Serve as Effective Classifiers for Hierarchical Multi-Label Classification of Scientific Documents at Industrial Scale?**|Seyed Amin Tabatabaei et.al.|[2412.05137v1](http://arxiv.org/abs/2412.05137v1)|null|
+|**2024-12-06**|**The Silent Prompt: Initial Noise as Implicit Guidance for Goal-Driven Image Generation**|Ruoyu Wang et.al.|[2412.05101v1](http://arxiv.org/abs/2412.05101v1)|null|
+|**2024-12-06**|**HOLa: HoloLens Object Labeling**|Michael Schwimmbeck et.al.|[2412.04945v1](http://arxiv.org/abs/2412.04945v1)|**[link](https://github.com/mschwimmbeck/hola)**|
+|**2024-12-06**|**$S^3$ : Synonymous Semantic Space for Improving Zero-Shot Generalization of Vision-Language Models**|Xiaojie Yin et.al.|[2412.04925v1](http://arxiv.org/abs/2412.04925v1)|null|
+|**2024-12-06**|**StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching**|Jixun Yao et.al.|[2412.04724v1](http://arxiv.org/abs/2412.04724v1)|null|
+|**2024-12-06**|**LLM-Align: Utilizing Large Language Models for Entity Alignment in Knowledge Graphs**|Xuan Chen et.al.|[2412.04690v1](http://arxiv.org/abs/2412.04690v1)|null|
 |**2024-12-05**|**Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail**|Luca Bartolomei et.al.|[2412.04472v1](http://arxiv.org/abs/2412.04472v1)|**[link](https://github.com/bartn8/stereoanywhere)**|
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429v1](http://arxiv.org/abs/2412.04429v1)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**SeeGround: See and Ground for Zero-Shot Open-Vocabulary 3D Visual Grounding**|Rong Li et.al.|[2412.04383v1](http://arxiv.org/abs/2412.04383v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1432,9 +1432,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|null|
+|**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772v1](http://arxiv.org/abs/2412.07772v1)|null|
-|**2024-12-10**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[2412.07768v1](http://arxiv.org/abs/2412.07768v1)|null|
+|**2024-12-11**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[2412.07768v2](http://arxiv.org/abs/2412.07768v2)|null|
 |**2024-12-10**|**SAT: Spatial Aptitude Training for Multimodal Language Models**|Arijit Ray et.al.|[2412.07755v1](http://arxiv.org/abs/2412.07755v1)|null|
 |**2024-12-10**|**Zero-Shot ATC Coding with Large Language Models for Clinical Assessments**|Zijian Chen et.al.|[2412.07743v1](http://arxiv.org/abs/2412.07743v1)|null|
 |**2024-12-10**|**DriveMM: All-in-One Large Multimodal Model for Autonomous Driving**|Zhijian Huang et.al.|[2412.07689v1](http://arxiv.org/abs/2412.07689v1)|**[link](https://github.com/zhijian11/DriveMM)**|

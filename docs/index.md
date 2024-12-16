@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868v1](http://arxiv.org/abs/2412.09868v1)|null|
 |**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621v1](http://arxiv.org/abs/2412.09621v1)|null|
 |**2024-12-12**|**FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction**|Jiale Xu et.al.|[2412.09573v1](http://arxiv.org/abs/2412.09573v1)|null|
 |**2024-12-11**|**BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation**|Shengze Wang et.al.|[2412.08640v1](http://arxiv.org/abs/2412.08640v1)|null|
@@ -1172,6 +1173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308v1](http://arxiv.org/abs/2412.10308v1)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
 |**2024-12-07**|**AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration**|Jiong Lin et.al.|[2412.05507v1](http://arxiv.org/abs/2412.05507v1)|null|
 |**2024-12-06**|**GS-Matching: Reconsidering Feature Matching task in Point Cloud Registration**|Yaojie Zhang et.al.|[2412.04855v1](http://arxiv.org/abs/2412.04855v1)|null|
@@ -1437,6 +1439,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
+|**2024-12-13**|**Reasoner Outperforms: Generative Stance Detection with Rationalization for Social Media**|Jiaqing Yuan et.al.|[2412.10266v1](http://arxiv.org/abs/2412.10266v1)|null|
+|**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208v1](http://arxiv.org/abs/2412.10208v1)|null|
+|**2024-12-13**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137v1](http://arxiv.org/abs/2412.10137v1)|null|
+|**2024-12-13**|**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data**|Jonas Golde et.al.|[2412.10121v1](http://arxiv.org/abs/2412.10121v1)|null|
+|**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895v1](http://arxiv.org/abs/2412.09895v1)|**[link](https://github.com/mia-yatingyu/stdd)**|
+|**2024-12-13**|**CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection**|Qibo Chen et.al.|[2412.09799v1](http://arxiv.org/abs/2412.09799v1)|null|
+|**2024-12-12**|**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**|Yunfei Luo et.al.|[2412.09758v1](http://arxiv.org/abs/2412.09758v1)|**[link](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)**|
+|**2024-12-12**|**Should We Learn Contact-Rich Manipulation Policies from Sampling-Based Planners?**|Huaijiang Zhu et.al.|[2412.09743v1](http://arxiv.org/abs/2412.09743v1)|null|
+|**2024-12-12**|**TransferLight: Zero-Shot Traffic Signal Control on any Road-Network**|Johann Schmidt et.al.|[2412.09719v1](http://arxiv.org/abs/2412.09719v1)|null|
 |**2024-12-12**|**EasyRef: Omni-Generalized Group Image Reference for Diffusion Models via Multimodal LLM**|Zhuofan Zong et.al.|[2412.09618v1](http://arxiv.org/abs/2412.09618v1)|null|
 |**2024-12-12**|**Learning to Adapt: Bio-Inspired Gait Strategies for Versatile Quadruped Locomotion**|Joseph Humphreys et.al.|[2412.09440v1](http://arxiv.org/abs/2412.09440v1)|null|
 |**2024-12-12**|**Distribution free uncertainty quantification in neuroscience-inspired deep operators**|Shailesh Garg et.al.|[2412.09369v1](http://arxiv.org/abs/2412.09369v1)|null|

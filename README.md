@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
+|**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573v1](http://arxiv.org/abs/2412.10573v1)|null|
+|**2024-12-11**|**CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty**|Harry Zhang et.al.|[2412.10431v1](http://arxiv.org/abs/2412.10431v1)|null|
 |**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868v1](http://arxiv.org/abs/2412.09868v1)|null|
 |**2024-12-12**|**Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos**|Linyi Jin et.al.|[2412.09621v1](http://arxiv.org/abs/2412.09621v1)|null|
 |**2024-12-12**|**FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction**|Jiale Xu et.al.|[2412.09573v1](http://arxiv.org/abs/2412.09573v1)|null|
@@ -1451,6 +1454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|
+|**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077v1](http://arxiv.org/abs/2412.12077v1)|null|
+|**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048v1](http://arxiv.org/abs/2412.12048v1)|null|
+|**2024-12-16**|**Learning to Navigate in Mazes with Novel Layouts using Abstract Top-down Maps**|Linfeng Zhao et.al.|[2412.12024v1](http://arxiv.org/abs/2412.12024v1)|null|
+|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983v1](http://arxiv.org/abs/2412.11983v1)|null|
+|**2024-12-16**|**Advancing Comprehensive Aesthetic Insight with Multi-Scale Text-Guided Self-Supervised Learning**|Yuti Liu et.al.|[2412.11952v1](http://arxiv.org/abs/2412.11952v1)|null|
+|**2024-12-16**|**Stepwise Reasoning Error Disruption Attack of LLMs**|Jingyu Peng et.al.|[2412.11934v1](http://arxiv.org/abs/2412.11934v1)|null|
+|**2024-12-16**|**PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection**|Sepideh Mamooler et.al.|[2412.11923v1](http://arxiv.org/abs/2412.11923v1)|null|
+|**2024-12-16**|**Improved Models for Media Bias Detection and Subcategorization**|Tim Menzner et.al.|[2412.11835v1](http://arxiv.org/abs/2412.11835v1)|null|
+|**2024-12-16**|**A Distributed Collaborative Retrieval Framework Excelling in All Queries and Corpora based on Zero-shot Rank-Oriented Automatic Evaluation**|Tian-Yi Che et.al.|[2412.11832v1](http://arxiv.org/abs/2412.11832v1)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372v1](http://arxiv.org/abs/2412.10372v1)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**Reasoner Outperforms: Generative Stance Detection with Rationalization for Social Media**|Jiaqing Yuan et.al.|[2412.10266v1](http://arxiv.org/abs/2412.10266v1)|null|
 |**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208v1](http://arxiv.org/abs/2412.10208v1)|null|

@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058v1](http://arxiv.org/abs/2412.13058v1)|null|
+|**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675v1](http://arxiv.org/abs/2412.12675v1)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
 |**2024-12-13**|**ExeChecker: Where Did I Go Wrong?**|Yiwen Gu et.al.|[2412.10573v1](http://arxiv.org/abs/2412.10573v1)|null|
 |**2024-12-11**|**CUPS: Improving Human Pose-Shape Estimators with Conformalized Deep Uncertainty**|Harry Zhang et.al.|[2412.10431v1](http://arxiv.org/abs/2412.10431v1)|null|
@@ -1454,6 +1456,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193v1](http://arxiv.org/abs/2412.13193v1)|**[link](https://github.com/hustvl/gausstr)**|
+|**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126v1](http://arxiv.org/abs/2412.13126v1)|null|
+|**2024-12-17**|**Enabling Low-Resource Language Retrieval: Establishing Baselines for Urdu MS MARCO**|Umer Butt et.al.|[2412.12997v1](http://arxiv.org/abs/2412.12997v1)|null|
+|**2024-12-17**|**An Agentic Approach to Automatic Creation of P&ID Diagrams from Natural Language Descriptions**|Shreeyash Gowaikar et.al.|[2412.12898v1](http://arxiv.org/abs/2412.12898v1)|null|
+|**2024-12-17**|**Question: How do Large Language Models perform on the Question Answering tasks? Answer:**|Kevin Fischer et.al.|[2412.12893v1](http://arxiv.org/abs/2412.12893v1)|null|
+|**2024-12-17**|**MIVE: New Design and Benchmark for Multi-Instance Video Editing**|Samuel Teodoro et.al.|[2412.12877v1](http://arxiv.org/abs/2412.12877v1)|null|
+|**2024-12-17**|**Comparative Analysis of Zero-Shot Capability of Time-Series Foundation Models in Short-Term Load Prediction**|Nan Lin et.al.|[2412.12834v1](http://arxiv.org/abs/2412.12834v1)|null|
+|**2024-12-17**|**FocusChat: Text-guided Long Video Understanding via Spatiotemporal Information Filtering**|Zheng Cheng et.al.|[2412.12833v1](http://arxiv.org/abs/2412.12833v1)|null|
+|**2024-12-17**|**Cross-Dialect Information Retrieval: Information Access in Low-Resource and High-Variance Languages**|Robert Litschko et.al.|[2412.12806v1](http://arxiv.org/abs/2412.12806v1)|null|
+|**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798v1](http://arxiv.org/abs/2412.12798v1)|**[link](https://github.com/huangshiqi128/zori)**|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077v1](http://arxiv.org/abs/2412.12077v1)|null|
 |**2024-12-16**|**A LoRA is Worth a Thousand Pictures**|Chenxi Liu et.al.|[2412.12048v1](http://arxiv.org/abs/2412.12048v1)|null|

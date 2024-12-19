@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Level-Set Parameters: Novel Representation for 3D Shape Analysis**|Huan Lei et.al.|[2412.13502v1](http://arxiv.org/abs/2412.13502v1)|null|
+|**2024-12-18**|**Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation**|Xiaoqi An et.al.|[2412.13454v1](http://arxiv.org/abs/2412.13454v1)|null|
 |**2024-12-17**|**CondiMen: Conditional Multi-Person Mesh Recovery**|Brégier Romain et.al.|[2412.13058v1](http://arxiv.org/abs/2412.13058v1)|null|
 |**2024-12-17**|**ShotVL: Human-Centric Highlight Frame Retrieval via Language Queries**|Wangyu Xue et.al.|[2412.12675v1](http://arxiv.org/abs/2412.12675v1)|null|
 |**2024-12-16**|**Category Level 6D Object Pose Estimation from a Single RGB Image using Diffusion**|Adam Bethell et.al.|[2412.11420v1](http://arxiv.org/abs/2412.11420v1)|null|
@@ -1178,6 +1180,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735v1](http://arxiv.org/abs/2412.13735v1)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|
 |**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308v1](http://arxiv.org/abs/2412.10308v1)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513v1](http://arxiv.org/abs/2412.07513v1)|null|
 |**2024-12-07**|**AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration**|Jiong Lin et.al.|[2412.05507v1](http://arxiv.org/abs/2412.05507v1)|null|
@@ -1444,6 +1447,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Autoregressive Video Generation without Vector Quantization**|Haoge Deng et.al.|[2412.14169v1](http://arxiv.org/abs/2412.14169v1)|**[link](https://github.com/baaivision/nova)**|
+|**2024-12-18**|**Incorporating Feature Pyramid Tokenization and Open Vocabulary Semantic Segmentation**|Jianyu Zhang et.al.|[2412.14145v1](http://arxiv.org/abs/2412.14145v1)|null|
+|**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103v1](http://arxiv.org/abs/2412.14103v1)|null|
+|**2024-12-18**|**FarExStance: Explainable Stance Detection for Farsi**|Majid Zarharan et.al.|[2412.14008v1](http://arxiv.org/abs/2412.14008v1)|**[link](https://github.com/dadmatech/farexstance)**|
+|**2024-12-18**|**Real Classification by Description: Extending CLIP's Limits of Part Attributes Recognition**|Ethan Baron et.al.|[2412.13947v1](http://arxiv.org/abs/2412.13947v1)|null|
+|**2024-12-18**|**Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer**|Xinyuan Shao et.al.|[2412.13908v1](http://arxiv.org/abs/2412.13908v1)|**[link](https://github.com/swedfr/memorizingsam)**|
+|**2024-12-18**|**Zero-Shot Prompting and Few-Shot Fine-Tuning: Revisiting Document Image Classification Using Large Language Models**|Anna Scius-Bertrand et.al.|[2412.13859v1](http://arxiv.org/abs/2412.13859v1)|null|
+|**2024-12-18**|**SongEditor: Adapting Zero-Shot Song Generation Language Model as a Multi-Task Editor**|Chenyu Yang et.al.|[2412.13786v1](http://arxiv.org/abs/2412.13786v1)|null|
+|**2024-12-18**|**G-VEval: A Versatile Metric for Evaluating Image and Video Captions Using GPT-4o**|Tony Cheng Tong et.al.|[2412.13647v1](http://arxiv.org/abs/2412.13647v1)|**[link](https://github.com/ztangaj/gveval)**|
+|**2024-12-18**|**Reverse Region-to-Entity Annotation for Pixel-Level Visual Entity Linking**|Zhengfei Xu et.al.|[2412.13614v1](http://arxiv.org/abs/2412.13614v1)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193v1](http://arxiv.org/abs/2412.13193v1)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126v1](http://arxiv.org/abs/2412.13126v1)|null|
 |**2024-12-17**|**Enabling Low-Resource Language Retrieval: Establishing Baselines for Urdu MS MARCO**|Umer Butt et.al.|[2412.12997v1](http://arxiv.org/abs/2412.12997v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.28
+## Updated on 2024.12.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1464,7 +1464,7 @@ layout: default
 |**2024-12-24**|**Extract Free Dense Misalignment from CLIP**|JeongYeon Nam et.al.|[2412.18404v1](http://arxiv.org/abs/2412.18404v1)|null|
 |**2024-12-24**|**A Zero-Shot Physics-Informed Dictionary Learning Approach for Sound Field Reconstruction**|Stefano Damiano et.al.|[2412.18348v1](http://arxiv.org/abs/2412.18348v1)|null|
 |**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303v1](http://arxiv.org/abs/2412.18303v1)|null|
-|**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|**[link](https://github.com/Darcyddx/VAD-LLM)**|
+|**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-24**|**Improved Feature Generating Framework for Transductive Zero-shot Learning**|Zihan Ye et.al.|[2412.18282v1](http://arxiv.org/abs/2412.18282v1)|null|
 |**2024-12-23**|**CiteBART: Learning to Generate Citations for Local Citation Recommendation**|Ege Yiğit Çelik et.al.|[2412.17534v1](http://arxiv.org/abs/2412.17534v1)|null|
 |**2024-12-23**|**Multiple Consistency-guided Test-Time Adaptation for Contrastive Audio-Language Models with Unlabeled Audio**|Gongyu Chen et.al.|[2412.17306v1](http://arxiv.org/abs/2412.17306v1)|null|

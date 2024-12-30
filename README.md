@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**Optimizing Local-Global Dependencies for Accurate 3D Human Pose Estimation**|Guangsheng Xu et.al.|[2412.19676v1](http://arxiv.org/abs/2412.19676v1)|**[link](https://github.com/poker-xu/ssr-stf)**|
+|**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518v1](http://arxiv.org/abs/2412.19518v1)|null|
+|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806v1](http://arxiv.org/abs/2412.17806v1)|null|
 |**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v1](http://arxiv.org/abs/2412.16923v1)|null|
 |**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742v1](http://arxiv.org/abs/2412.16742v1)|null|
@@ -1196,6 +1199,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-26**|**Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery with Patches-to-Partial Matching**|Zixin Yang et.al.|[2412.19328v1](http://arxiv.org/abs/2412.19328v1)|null|
+|**2024-12-25**|**Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework**|Guiyu Zhao et.al.|[2412.18873v1](http://arxiv.org/abs/2412.18873v1)|null|
 |**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390v1](http://arxiv.org/abs/2412.17390v1)|null|
 |**2024-12-19**|**3D Registration in 30 Years: A Survey**|Jiaqi Yang et.al.|[2412.13735v2](http://arxiv.org/abs/2412.13735v2)|**[link](https://github.com/amyyyy11/3d-registration-in-30-years-a-survey)**|
 |**2024-12-13**|**TrafficLoc: Localizing Traffic Surveillance Cameras in 3D Scenes**|Yan Xia et.al.|[2412.10308v1](http://arxiv.org/abs/2412.10308v1)|null|
@@ -1468,6 +1473,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-27**|**EEG-Reptile: An Automatized Reptile-Based Meta-Learning Library for BCIs**|Daniil A. Berdyshev et.al.|[2412.19725v1](http://arxiv.org/abs/2412.19725v1)|**[link](https://github.com/gasiki/eeg-reptile)**|
+|**2024-12-27**|**VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models**|Tao Wu et.al.|[2412.19645v1](http://arxiv.org/abs/2412.19645v1)|null|
+|**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412v1](http://arxiv.org/abs/2412.19412v1)|**[link](https://github.com/LSXI7/MINIMA)**|
+|**2024-12-26**|**Task Preference Optimization: Improving Multimodal Large Language Models with Vision Task Alignment**|Ziang Yan et.al.|[2412.19326v1](http://arxiv.org/abs/2412.19326v1)|**[link](https://github.com/opengvlab/tpo)**|
+|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302v1](http://arxiv.org/abs/2412.19302v1)|null|
+|**2024-12-26**|**Time Series Foundational Models: Their Role in Anomaly Detection and Prediction**|Chathurangi Shyalika et.al.|[2412.19286v1](http://arxiv.org/abs/2412.19286v1)|**[link](https://github.com/smtmnfg/tsfm)**|
+|**2024-12-26**|**Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval**|Yang Du et.al.|[2412.19178v1](http://arxiv.org/abs/2412.19178v1)|**[link](https://github.com/qyr0403/reversed-in-time)**|
+|**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142v1](http://arxiv.org/abs/2412.19142v1)|null|
+|**2024-12-26**|**Semantic Residual for Multimodal Unified Discrete Representation**|Hai Huang et.al.|[2412.19128v1](http://arxiv.org/abs/2412.19128v1)|null|
+|**2024-12-26**|**Advanced Knowledge Transfer: Refined Feature Distillation for Zero-Shot Quantization in Edge Computing**|Inpyo Hong et.al.|[2412.19125v1](http://arxiv.org/abs/2412.19125v1)|**[link](https://github.com/Inpyo-Hong/AKT-Advanced-knowledge-Transfer)**|
 |**2024-12-24**|**Orient Anything: Learning Robust Object Orientation Estimation from Rendering 3D Models**|Zehan Wang et.al.|[2412.18605v1](http://arxiv.org/abs/2412.18605v1)|null|
 |**2024-12-24**|**ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation**|Hongjie Li et.al.|[2412.18600v1](http://arxiv.org/abs/2412.18600v1)|null|
 |**2024-12-24**|**Distilling Fine-grained Sentiment Understanding from Large Language Models**|Yice Zhang et.al.|[2412.18552v1](http://arxiv.org/abs/2412.18552v1)|**[link](https://github.com/hitsz-hlt/fsa-distillation)**|

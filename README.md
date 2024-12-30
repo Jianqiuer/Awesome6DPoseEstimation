@@ -1478,7 +1478,7 @@
 |**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303v1](http://arxiv.org/abs/2412.18303v1)|null|
 |**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298v1](http://arxiv.org/abs/2412.18298v1)|**[link](https://github.com/Darcyddx/Video-LLM)**|
 |**2024-12-24**|**Improved Feature Generating Framework for Transductive Zero-shot Learning**|Zihan Ye et.al.|[2412.18282v1](http://arxiv.org/abs/2412.18282v1)|null|
-|**2024-12-23**|**CiteBART: Learning to Generate Citations for Local Citation Recommendation**|Ege Yiğit Çelik et.al.|[2412.17534v1](http://arxiv.org/abs/2412.17534v1)|null|
+|**2024-12-23**|**CiteBART: Learning to Generate Citations for Local Citation Recommendation**|Ege Yiğit Çelik et.al.|[2412.17534v1](http://arxiv.org/abs/2412.17534v1)|**[link](https://github.com/eyclk/citationrecommendation)**|
 |**2024-12-23**|**Multiple Consistency-guided Test-Time Adaptation for Contrastive Audio-Language Models with Unlabeled Audio**|Gongyu Chen et.al.|[2412.17306v1](http://arxiv.org/abs/2412.17306v1)|null|
 |**2024-12-23**|**Discriminative Image Generation with Diffusion Models for Zero-Shot Learning**|Dingjie Fu et.al.|[2412.17219v1](http://arxiv.org/abs/2412.17219v1)|null|
 |**2024-12-22**|**Incremental Disentanglement for Environment-Aware Zero-Shot Text-to-Speech Synthesis**|Ye-Xin Lu et.al.|[2412.16977v1](http://arxiv.org/abs/2412.16977v1)|null|
@@ -1502,7 +1502,7 @@
 |**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182v1](http://arxiv.org/abs/2412.15182v1)|null|
 |**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127v1](http://arxiv.org/abs/2412.15127v1)|null|
 |**2024-12-19**|**Scale This, Not That: Investigating Key Dataset Attributes for Efficient Speech Enhancement Scaling**|Leying Zhang et.al.|[2412.14890v1](http://arxiv.org/abs/2412.14890v1)|null|
-|**2024-12-19**|**Zero-Shot Artifact2Artifact: Self-incentive artifact removal for photoacoustic imaging without any data**|Shuang Li et.al.|[2412.14873v1](http://arxiv.org/abs/2412.14873v1)|null|
+|**2024-12-19**|**Zero-Shot Artifact2Artifact: Self-incentive artifact removal for photoacoustic imaging without any data**|Shuang Li et.al.|[2412.14873v1](http://arxiv.org/abs/2412.14873v1)|**[link](https://github.com/jaegercq/zs-a2a)**|
 |**2024-12-19**|**Extending TWIG: Zero-Shot Predictive Hyperparameter Selection for KGEs based on Graph Structure**|Jeffrey Sardina et.al.|[2412.14801v1](http://arxiv.org/abs/2412.14801v1)|null|
 |**2024-12-19**|**Beyond Guilt: Legal Judgment Prediction with Trichotomous Reasoning**|Kepu Zhang et.al.|[2412.14588v1](http://arxiv.org/abs/2412.14588v1)|null|
 |**2024-12-19**|**MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval**|Junjie Zhou et.al.|[2412.14475v1](http://arxiv.org/abs/2412.14475v1)|null|
@@ -2656,11 +2656,11 @@
 |**2024-06-07**|**Low-Resource Cross-Lingual Summarization through Few-Shot Learning with Large Language Models**|Gyutae Park et.al.|[2406.04630v1](http://arxiv.org/abs/2406.04630v1)|null|
 |**2024-06-06**|**Interpreting the Second-Order Effects of Neurons in CLIP**|Yossi Gandelsman et.al.|[2406.04341v1](http://arxiv.org/abs/2406.04341v1)|null|
 |**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337v1](http://arxiv.org/abs/2406.04337v1)|null|
-|**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329v1](http://arxiv.org/abs/2406.04329v1)|null|
+|**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329v1](http://arxiv.org/abs/2406.04329v1)|**[link](https://github.com/google-deepmind/md4)**|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292v1](http://arxiv.org/abs/2406.04292v1)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2024-06-06**|**Matching Anything by Segmenting Anything**|Siyuan Li et.al.|[2406.04221v1](http://arxiv.org/abs/2406.04221v1)|**[link](https://github.com/siyuanliii/masa)**|
 |**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143v1](http://arxiv.org/abs/2406.04143v1)|**[link](https://github.com/LuanaBulla/Detection-of-Morality-in-Text)**|
-|**2024-06-06**|**Assessing LLMs for Zero-shot Abstractive Summarization Through the Lens of Relevance Paraphrasing**|Hadi Askari et.al.|[2406.03993v1](http://arxiv.org/abs/2406.03993v1)|null|
+|**2024-06-06**|**Assessing LLMs for Zero-shot Abstractive Summarization Through the Lens of Relevance Paraphrasing**|Hadi Askari et.al.|[2406.03993v1](http://arxiv.org/abs/2406.03993v1)|**[link](https://github.com/HadiAskari/Relevance-Paraphrasing)**|
 |**2024-06-06**|**Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech**|Neemesh Yadav et.al.|[2406.03953v1](http://arxiv.org/abs/2406.03953v1)|**[link](https://github.com/LCS2-IIITD/TOXBART)**|
 |**2024-06-06**|**Vectorized Conditional Neural Fields: A Framework for Solving Time-dependent Parametric Partial Differential Equations**|Jan Hagnberger et.al.|[2406.03919v1](http://arxiv.org/abs/2406.03919v1)|**[link](https://github.com/jhagnberger/vcnef)**|
 |**2024-06-06**|**Exploring the Zero-Shot Capabilities of Vision-Language Models for Improving Gaze Following**|Anshul Gupta et.al.|[2406.03907v1](http://arxiv.org/abs/2406.03907v1)|null|
@@ -2713,7 +2713,7 @@
 |**2024-05-28**|**Text-only Synthesis for Image Captioning**|Qing Zhou et.al.|[2405.18258v1](http://arxiv.org/abs/2405.18258v1)|null|
 |**2024-05-28**|**EffoVPR: Effective Foundation Model Utilization for Visual Place Recognition**|Issar Tzachor et.al.|[2405.18065v1](http://arxiv.org/abs/2405.18065v1)|null|
 |**2024-05-28**|**Trust and Terror: Hazards in Text Reveal Negatively Biased Credulity and Partisan Negativity Bias**|Keith Burghardt et.al.|[2405.17838v1](http://arxiv.org/abs/2405.17838v1)|**[link](https://github.com/keithburghardt/hazards)**|
-|**2024-05-28**|**LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space**|Jinho Chang et.al.|[2405.17829v1](http://arxiv.org/abs/2405.17829v1)|null|
+|**2024-05-28**|**LDMol: Text-Conditioned Molecule Diffusion Model Leveraging Chemically Informative Latent Space**|Jinho Chang et.al.|[2405.17829v1](http://arxiv.org/abs/2405.17829v1)|**[link](https://github.com/jinhojsk515/ldmol)**|
 |**2024-05-28**|**Multi-level Interaction Modeling for Protein Mutational Effect Prediction**|Yuanle Mo et.al.|[2405.17802v1](http://arxiv.org/abs/2405.17802v1)|null|
 |**2024-05-27**|**TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability**|Fengji Ma et.al.|[2405.17678v1](http://arxiv.org/abs/2405.17678v1)|null|
 |**2024-05-27**|**Generative Query Reformulation Using Ensemble Prompting, Document Fusion, and Relevance Feedback**|Kaustubh D. Dhole et.al.|[2405.17658v1](http://arxiv.org/abs/2405.17658v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.01.06
+## Updated on 2025.01.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1208,7 +1208,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250107>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1400,7 +1400,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250107>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1483,7 +1483,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250107>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1493,10 +1493,10 @@
 |**2025-01-03**|**LLMs & Legal Aid: Understanding Legal Needs Exhibited Through User Queries**|Michal Kuk et.al.|[2501.01711v1](http://arxiv.org/abs/2501.01711v1)|null|
 |**2025-01-03**|**GPT4Scene: Understand 3D Scenes from Videos with Vision-Language Models**|Zhangyang Qi et.al.|[2501.01428v2](http://arxiv.org/abs/2501.01428v2)|null|
 |**2025-01-02**|**VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control**|Yuanpeng Tu et.al.|[2501.01427v1](http://arxiv.org/abs/2501.01427v1)|null|
-|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|null|
+|**2025-01-02**|**Unifying Specialized Visual Encoders for Video Language Models**|Jihoon Chung et.al.|[2501.01426v1](http://arxiv.org/abs/2501.01426v1)|**[link](https://github.com/princetonvisualai/merv)**|
 |**2025-01-03**|**AdaptVC: High Quality Voice Conversion with Adaptive Learning**|Jaehun Kim et.al.|[2501.01347v2](http://arxiv.org/abs/2501.01347v2)|null|
 |**2025-01-02**|**Digital Guardians: Can GPT-4, Perspective API, and Moderation API reliably detect hate speech in reader comments of German online newspapers?**|Manuel Weber et.al.|[2501.01256v1](http://arxiv.org/abs/2501.01256v1)|null|
-|**2025-01-02**|**Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|null|
+|**2025-01-02**|**Automated Self-Refinement and Self-Correction for LLM-based Product Attribute Value Extraction**|Alexander Brinkmann et.al.|[2501.01237v1](http://arxiv.org/abs/2501.01237v1)|**[link](https://github.com/wbsg-uni-mannheim/selfrefinement4extractgpt)**|
 |**2025-01-02**|**Symmetries-enhanced Multi-Agent Reinforcement Learning**|Nikolaos Bousias et.al.|[2501.01136v1](http://arxiv.org/abs/2501.01136v1)|null|
 |**2025-01-03**|**MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization**|Haina Zhu et.al.|[2501.01108v2](http://arxiv.org/abs/2501.01108v2)|**[link](https://github.com/tencent-ailab/muq)**|
 |**2025-01-02**|**Are LLMs effective psychological assessors? Leveraging adaptive RAG for interpretable mental health screening through psychometric practice**|Federico Ravenda et.al.|[2501.00982v1](http://arxiv.org/abs/2501.00982v1)|null|
@@ -4611,5 +4611,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250106>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250107>back to top</a>)</p>
 

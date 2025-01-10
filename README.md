@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446v1](http://arxiv.org/abs/2501.05446v1)|null|
+|**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
+|**2025-01-09**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264v1](http://arxiv.org/abs/2501.05264v1)|null|
 |**2025-01-08**|**KN-LIO: Geometric Kinematics and Neural Field Coupled LiDAR-Inertial Odometry**|Zhong Wang et.al.|[2501.04263v1](http://arxiv.org/abs/2501.04263v1)|null|
 |**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841v1](http://arxiv.org/abs/2501.03841v1)|null|
 |**2025-01-07**|**MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer**|Junsheng Luan et.al.|[2501.03630v1](http://arxiv.org/abs/2501.03630v1)|null|
@@ -1227,7 +1230,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|null|
+|**2025-01-09**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|null|
 |**2025-01-03**|**MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration**|Songjie Han et.al.|[2501.02041v1](http://arxiv.org/abs/2501.02041v1)|null|
 |**2024-12-29**|**Towards Explaining Uncertainty Estimates in Point Cloud Registration**|Ziyuan Qin et.al.|[2412.20612v1](http://arxiv.org/abs/2412.20612v1)|null|
 |**2024-12-26**|**Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery with Patches-to-Partial Matching**|Zixin Yang et.al.|[2412.19328v1](http://arxiv.org/abs/2412.19328v1)|null|
@@ -1505,11 +1508,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models**|Fabian Hörst et.al.|[2501.05269v1](http://arxiv.org/abs/2501.05269v1)|null|
+|**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228v1](http://arxiv.org/abs/2501.05228v1)|null|
+|**2025-01-09**|**Leveraging Large Language Models for Zero-shot Lay Summarisation in Biomedicine and Beyond**|Tomas Goldsack et.al.|[2501.05224v1](http://arxiv.org/abs/2501.05224v1)|null|
+|**2025-01-09**|**SpaLLM-Guard: Pairing SMS Spam Detection Using Open-source and Commercial LLMs**|Muhammad Salman et.al.|[2501.04985v1](http://arxiv.org/abs/2501.04985v1)|null|
 |**2025-01-08**|**Test-Time Optimization for Domain Adaptive Open Vocabulary Segmentation**|Ulindu De Silva et.al.|[2501.04696v1](http://arxiv.org/abs/2501.04696v1)|**[link](https://github.com/ulindup/segtto)**|
 |**2025-01-08**|**Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding**|Joshua Jones et.al.|[2501.04693v1](http://arxiv.org/abs/2501.04693v1)|null|
 |**2025-01-08**|**DRIVINGVQA: Analyzing Visual Chain-of-Thought Reasoning of Vision Language Models in Real-World Scenarios with Driving Theory Tests**|Charles Corbière et.al.|[2501.04671v1](http://arxiv.org/abs/2501.04671v1)|null|
 |**2025-01-08**|**A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI**|Kazusato Oko et.al.|[2501.04641v1](http://arxiv.org/abs/2501.04641v1)|**[link](https://github.com/willcai7/multimodal-ghm)**|
-|**2025-01-08**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561v1](http://arxiv.org/abs/2501.04561v1)|null|
+|**2025-01-09**|**OpenOmni: Large Language Models Pivot Zero-shot Omnimodal Alignment across Language with Real-time Self-Aware Emotional Speech Synthesis**|Run Luo et.al.|[2501.04561v2](http://arxiv.org/abs/2501.04561v2)|null|
 |**2025-01-08**|**Hidden Entity Detection from GitHub Leveraging Large Language Models**|Lu Gan et.al.|[2501.04455v1](http://arxiv.org/abs/2501.04455v1)|**[link](https://github.com/louisegan514/hidden-entity-detection-from-github-leveraging-llms)**|
 |**2025-01-08**|**Dual-Force: Enhanced Offline Diversity Maximization under Imitation Constraints**|Pavel Kolev et.al.|[2501.04426v1](http://arxiv.org/abs/2501.04426v1)|null|
 |**2025-01-08**|**ZSVC: Zero-shot Style Voice Conversion with Disentangled Latent Diffusion Models and Adversarial Training**|Xinfa Zhu et.al.|[2501.04416v1](http://arxiv.org/abs/2501.04416v1)|null|

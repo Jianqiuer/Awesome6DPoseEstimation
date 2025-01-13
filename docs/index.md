@@ -7,12 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688v1](http://arxiv.org/abs/2501.05688v1)|null|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446v1](http://arxiv.org/abs/2501.05446v1)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
 |**2025-01-09**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264v1](http://arxiv.org/abs/2501.05264v1)|null|
 |**2025-01-08**|**KN-LIO: Geometric Kinematics and Neural Field Coupled LiDAR-Inertial Odometry**|Zhong Wang et.al.|[2501.04263v1](http://arxiv.org/abs/2501.04263v1)|null|
 |**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841v1](http://arxiv.org/abs/2501.03841v1)|null|
-|**2025-01-07**|**MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer**|Junsheng Luan et.al.|[2501.03630v1](http://arxiv.org/abs/2501.03630v1)|null|
+|**2025-01-10**|**MC-VTON: Minimal Control Virtual Try-On Diffusion Transformer**|Junsheng Luan et.al.|[2501.03630v2](http://arxiv.org/abs/2501.03630v2)|null|
 |**2025-01-07**|**TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes**|Alakh Aggarwal et.al.|[2501.03525v1](http://arxiv.org/abs/2501.03525v1)|**[link](https://github.com/alakhag/texhoi)**|
 |**2025-01-06**|**Mobile Augmented Reality Framework with Fusional Localization and Pose Estimation**|Songlin Hou et.al.|[2501.03336v1](http://arxiv.org/abs/2501.03336v1)|null|
 |**2025-01-06**|**SurgRIPE challenge: Benchmark of Surgical Robot Instrument Pose Estimation**|Haozheng Xu et.al.|[2501.02990v1](http://arxiv.org/abs/2501.02990v1)|null|
@@ -1222,6 +1223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669v1](http://arxiv.org/abs/2501.05669v1)|null|
 |**2025-01-09**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|**[link](https://github.com/xuqingyuan2000/lp-icp)**|
 |**2025-01-03**|**MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration**|Songjie Han et.al.|[2501.02041v1](http://arxiv.org/abs/2501.02041v1)|null|
 |**2024-12-29**|**Towards Explaining Uncertainty Estimates in Point Cloud Registration**|Ziyuan Qin et.al.|[2412.20612v1](http://arxiv.org/abs/2412.20612v1)|null|
@@ -1414,6 +1416,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**The 2nd Place Solution from the 3D Semantic Segmentation Track in the 2024 Waymo Open Dataset Challenge**|Qing Wu et.al.|[2501.05472v1](http://arxiv.org/abs/2501.05472v1)|null|
 |**2025-01-03**|**MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration**|Songjie Han et.al.|[2501.02041v1](http://arxiv.org/abs/2501.02041v1)|null|
 |**2024-12-02**|**The Bare Necessities: Designing Simple, Effective Open-Vocabulary Scene Graphs**|Christina Kassab et.al.|[2412.01539v1](http://arxiv.org/abs/2412.01539v1)|null|
 |**2024-11-30**|**Density-aware Global-Local Attention Network for Point Cloud Segmentation**|Chade Li et.al.|[2412.00489v1](http://arxiv.org/abs/2412.00489v1)|null|
@@ -1496,6 +1499,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058v1](http://arxiv.org/abs/2501.06058v1)|null|
+|**2025-01-10**|**Generate, Transduct, Adapt: Iterative Transduction with VLMs**|Oindrila Saha et.al.|[2501.06031v1](http://arxiv.org/abs/2501.06031v1)|null|
+|**2025-01-10**|**Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron**|Kishor Kayyar Lakshminarayana et.al.|[2501.05976v1](http://arxiv.org/abs/2501.05976v1)|null|
+|**2025-01-10**|**MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model**|Matthew Baas et.al.|[2501.05787v1](http://arxiv.org/abs/2501.05787v1)|null|
+|**2025-01-10**|**Super-class guided Transformer for Zero-Shot Attribute Classification**|Sehyung Kim et.al.|[2501.05728v1](http://arxiv.org/abs/2501.05728v1)|**[link](https://github.com/mlvlab/SugaFormer)**|
+|**2025-01-10**|**Zero-shot Shark Tracking and Biometrics from Aerial Imagery**|Chinmay K Lalgudi et.al.|[2501.05717v1](http://arxiv.org/abs/2501.05717v1)|null|
+|**2025-01-10**|**The Impact of Model Scaling on Seen and Unseen Language Performance**|Rhitabrat Pokharel et.al.|[2501.05629v1](http://arxiv.org/abs/2501.05629v1)|null|
+|**2025-01-09**|**FreeSVC: Towards Zero-shot Multilingual Singing Voice Conversion**|Alef Iury Siqueira Ferreira et.al.|[2501.05586v1](http://arxiv.org/abs/2501.05586v1)|null|
+|**2025-01-09**|**Vision-Language Models for Autonomous Driving: CLIP-Based Dynamic Scene Understanding**|Mohammed Elhenawy et.al.|[2501.05566v1](http://arxiv.org/abs/2501.05566v1)|null|
+|**2025-01-09**|**Improving Zero-Shot Object-Level Change Detection by Incorporating Visual Correspondence**|Hung Huy Nguyen et.al.|[2501.05555v1](http://arxiv.org/abs/2501.05555v1)|**[link](https://github.com/anguyen8/image-diff)**|
 |**2025-01-09**|**CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models**|Fabian Hörst et.al.|[2501.05269v1](http://arxiv.org/abs/2501.05269v1)|**[link](https://github.com/tio-ikim/cellvit-plus-plus)**|
 |**2025-01-09**|**Harnessing Large Language and Vision-Language Models for Robust Out-of-Distribution Detection**|Pei-Kang Lee et.al.|[2501.05228v1](http://arxiv.org/abs/2501.05228v1)|null|
 |**2025-01-09**|**Leveraging Large Language Models for Zero-shot Lay Summarisation in Biomedicine and Beyond**|Tomas Goldsack et.al.|[2501.05224v1](http://arxiv.org/abs/2501.05224v1)|null|

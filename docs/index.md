@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v1](http://arxiv.org/abs/2501.08659v1)|null|
+|**2025-01-14**|**Poseidon: A ViT-based Architecture for Multi-Frame Pose Estimation with Adaptive Frame Weighting and Multi-Scale Feature Fusion**|Cesare Davide Pace et.al.|[2501.08446v1](http://arxiv.org/abs/2501.08446v1)|**[link](https://github.com/CesareDavidePace/poseidon)**|
+|**2025-01-14**|**Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation**|Hansoo Park et.al.|[2501.08408v1](http://arxiv.org/abs/2501.08408v1)|null|
 |**2025-01-14**|**Predicting 4D Hand Trajectory from Monocular Videos**|Yufei Ye et.al.|[2501.08329v1](http://arxiv.org/abs/2501.08329v1)|null|
 |**2025-01-14**|**A Critical Synthesis of Uncertainty Quantification and Foundation Models in Monocular Depth Estimation**|Steven Landgraf et.al.|[2501.08188v1](http://arxiv.org/abs/2501.08188v1)|null|
 |**2025-01-14**|**AgentPose: Progressive Distribution Alignment via Feature Agent for Human Pose Distillation**|Feng Zhang et.al.|[2501.08088v1](http://arxiv.org/abs/2501.08088v1)|null|
@@ -1508,6 +1511,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|**[link](https://github.com/songrise/mllm4art)**|
+|**2025-01-15**|**Exploring ChatGPT for Face Presentation Attack Detection in Zero and Few-Shot in-Context Learning**|Alain Komaty et.al.|[2501.08799v1](http://arxiv.org/abs/2501.08799v1)|null|
+|**2025-01-15**|**StereoGen: High-quality Stereo Image Generation from a Single Image**|Xianqi Wang et.al.|[2501.08654v1](http://arxiv.org/abs/2501.08654v1)|null|
+|**2025-01-15**|**MonSter: Marry Monodepth to Stereo Unleashes Power**|Junda Cheng et.al.|[2501.08643v1](http://arxiv.org/abs/2501.08643v1)|**[link](https://github.com/junda24/monster)**|
+|**2025-01-15**|**Towards Lightweight and Stable Zero-shot TTS with Self-distilled Representation Disentanglement**|Qianniu Chen et.al.|[2501.08566v1](http://arxiv.org/abs/2501.08566v1)|null|
+|**2025-01-14**|**FLAVARS: A Multimodal Foundational Language and Vision Alignment Model for Remote Sensing**|Isaac Corley et.al.|[2501.08490v1](http://arxiv.org/abs/2501.08490v1)|null|
+|**2025-01-14**|**Towards Zero-Shot & Explainable Video Description by Reasoning over Graphs of Events in Space and Time**|Mihai Masala et.al.|[2501.08460v1](http://arxiv.org/abs/2501.08460v1)|null|
+|**2025-01-14**|**Toward Zero-Shot User Intent Recognition in Shared Autonomy**|Atharv Belsare et.al.|[2501.08389v1](http://arxiv.org/abs/2501.08389v1)|null|
 |**2025-01-14**|**I Can Find You in Seconds! Leveraging Large Language Models for Code Authorship Attribution**|Soohyeon Choi et.al.|[2501.08165v1](http://arxiv.org/abs/2501.08165v1)|null|
 |**2025-01-14**|**HydroelasticTouch: Simulation of Tactile Sensors with Hydroelastic Contact Surfaces**|David P. Leins et.al.|[2501.08077v1](http://arxiv.org/abs/2501.08077v1)|null|
 |**2025-01-14**|**Skeleton and Font Generation Network for Zero-shot Chinese Character Generation**|Mobai Xue et.al.|[2501.08062v1](http://arxiv.org/abs/2501.08062v1)|null|

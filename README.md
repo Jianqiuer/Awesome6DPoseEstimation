@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**A New Teacher-Reviewer-Student Framework for Semi-supervised 2D Human Pose Estimation**|Wulian Yun et.al.|[2501.09565v1](http://arxiv.org/abs/2501.09565v1)|null|
+|**2025-01-16**|**Towards Robust and Realistic Human Pose Estimation via WiFi Signals**|Yang Chen et.al.|[2501.09411v1](http://arxiv.org/abs/2501.09411v1)|null|
+|**2025-01-16**|**RoboReflect: Robotic Reflective Reasoning for Grasping Ambiguous-Condition Objects**|Zhen Luo et.al.|[2501.09307v1](http://arxiv.org/abs/2501.09307v1)|null|
 |**2025-01-16**|**BRIGHT-VO: Brightness-Guided Hybrid Transformer for Visual Odometry with Multi-modality Refinement Module**|Dongzhihan Wang et.al.|[2501.08659v2](http://arxiv.org/abs/2501.08659v2)|null|
 |**2025-01-14**|**Poseidon: A ViT-based Architecture for Multi-Frame Pose Estimation with Adaptive Frame Weighting and Multi-Scale Feature Fusion**|Cesare Davide Pace et.al.|[2501.08446v1](http://arxiv.org/abs/2501.08446v1)|**[link](https://github.com/CesareDavidePace/poseidon)**|
 |**2025-01-14**|**Leveraging 2D Masked Reconstruction for Domain Adaptation of 3D Pose Estimation**|Hansoo Park et.al.|[2501.08408v1](http://arxiv.org/abs/2501.08408v1)|null|
@@ -1523,6 +1526,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719v1](http://arxiv.org/abs/2501.09719v1)|null|
+|**2025-01-16**|**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**|Hualie Jiang et.al.|[2501.09466v1](http://arxiv.org/abs/2501.09466v1)|**[link](https://github.com/insta360-research-team/defom-stereo)**|
+|**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446v1](http://arxiv.org/abs/2501.09446v1)|null|
+|**2025-01-16**|**Efficient Few-Shot Medical Image Analysis via Hierarchical Contrastive Vision-Language Learning**|Harrison Fuller et.al.|[2501.09294v1](http://arxiv.org/abs/2501.09294v1)|null|
+|**2025-01-16**|**Text-guided Synthetic Geometric Augmentation for Zero-shot 3D Understanding**|Kohei Torimi et.al.|[2501.09278v1](http://arxiv.org/abs/2501.09278v1)|null|
+|**2025-01-15**|**Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation**|Xingxin He et.al.|[2501.09138v1](http://arxiv.org/abs/2501.09138v1)|null|
+|**2025-01-15**|**Tracking the Takes and Trajectories of English-Language News Narratives across Trustworthy and Worrisome Websites**|Hans W. A. Hanley et.al.|[2501.09102v1](http://arxiv.org/abs/2501.09102v1)|**[link](https://github.com/hanshanley/tracking-takes)**|
 |**2025-01-15**|**Multimodal LLMs Can Reason about Aesthetics in Zero-Shot**|Ruixiang Jiang et.al.|[2501.09012v1](http://arxiv.org/abs/2501.09012v1)|**[link](https://github.com/songrise/mllm4art)**|
 |**2025-01-15**|**Exploring ChatGPT for Face Presentation Attack Detection in Zero and Few-Shot in-Context Learning**|Alain Komaty et.al.|[2501.08799v1](http://arxiv.org/abs/2501.08799v1)|null|
 |**2025-01-15**|**StereoGen: High-quality Stereo Image Generation from a Single Image**|Xianqi Wang et.al.|[2501.08654v1](http://arxiv.org/abs/2501.08654v1)|null|

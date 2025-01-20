@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**landmarker: a Toolkit for Anatomical Landmark Localization in 2D/3D Images**|Jef Jonkers et.al.|[2501.10098v1](http://arxiv.org/abs/2501.10098v1)|null|
 |**2025-01-16**|**A New Teacher-Reviewer-Student Framework for Semi-supervised 2D Human Pose Estimation**|Wulian Yun et.al.|[2501.09565v1](http://arxiv.org/abs/2501.09565v1)|null|
 |**2025-01-16**|**Towards Robust and Realistic Human Pose Estimation via WiFi Signals**|Yang Chen et.al.|[2501.09411v1](http://arxiv.org/abs/2501.09411v1)|null|
 |**2025-01-16**|**RoboReflect: Robotic Reflective Reasoning for Grasping Ambiguous-Condition Objects**|Zhen Luo et.al.|[2501.09307v1](http://arxiv.org/abs/2501.09307v1)|null|
@@ -1526,6 +1527,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**FaceXBench: Evaluating Multimodal LLMs on Face Understanding**|Kartik Narayan et.al.|[2501.10360v1](http://arxiv.org/abs/2501.10360v1)|**[link](https://github.com/kartik-3004/facexbench)**|
+|**2025-01-17**|**Zero-Shot Monocular Scene Flow Estimation in the Wild**|Yiqing Liang et.al.|[2501.10357v1](http://arxiv.org/abs/2501.10357v1)|null|
+|**2025-01-17**|**Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics**|Chenhao Li et.al.|[2501.10100v1](http://arxiv.org/abs/2501.10100v1)|null|
+|**2025-01-17**|**FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization**|Zhaopeng Gu et.al.|[2501.10067v1](http://arxiv.org/abs/2501.10067v1)|**[link](https://github.com/casia-iva-lab/filo)**|
+|**2025-01-17**|**X-Dyna: Expressive Dynamic Human Image Animation**|Di Chang et.al.|[2501.10021v1](http://arxiv.org/abs/2501.10021v1)|**[link](https://github.com/bytedance/x-dyna)**|
+|**2025-01-17**|**Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models**|Qiang Liu et.al.|[2501.09997v1](http://arxiv.org/abs/2501.09997v1)|null|
+|**2025-01-17**|**GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions**|Heda Zuo et.al.|[2501.09972v1](http://arxiv.org/abs/2501.09972v1)|null|
+|**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949v1](http://arxiv.org/abs/2501.09949v1)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
+|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898v1](http://arxiv.org/abs/2501.09898v1)|null|
+|**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887v1](http://arxiv.org/abs/2501.09887v1)|null|
 |**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719v1](http://arxiv.org/abs/2501.09719v1)|null|
 |**2025-01-16**|**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**|Hualie Jiang et.al.|[2501.09466v1](http://arxiv.org/abs/2501.09466v1)|**[link](https://github.com/insta360-research-team/defom-stereo)**|
 |**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446v1](http://arxiv.org/abs/2501.09446v1)|null|

@@ -21,7 +21,7 @@ layout: default
 |**2025-01-13**|**Fixing the Scale and Shift in Monocular Depth For Camera Pose Estimation**|Yaqing Ding et.al.|[2501.07742v1](http://arxiv.org/abs/2501.07742v1)|**[link](https://github.com/yaqding/pose_monodepth)**|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399v1](http://arxiv.org/abs/2501.07399v1)|null|
 |**2025-01-13**|**Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics**|Tze Ho Elden Tse et.al.|[2501.07100v1](http://arxiv.org/abs/2501.07100v1)|null|
-|**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688v1](http://arxiv.org/abs/2501.05688v1)|null|
+|**2025-01-10**|**eKalibr: Dynamic Intrinsic Calibration for Event Cameras From First Principles of Events**|Shuolong Chen et.al.|[2501.05688v1](http://arxiv.org/abs/2501.05688v1)|**[link](https://github.com/unsigned-long/ekalibr)**|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446v1](http://arxiv.org/abs/2501.05446v1)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439v1](http://arxiv.org/abs/2501.05439v1)|null|
 |**2025-01-11**|**Towards Balanced Continual Multi-Modal Learning in Human Pose Estimation**|Jiaxuan Peng et.al.|[2501.05264v2](http://arxiv.org/abs/2501.05264v2)|null|
@@ -38,7 +38,7 @@ layout: default
 |**2025-01-06**|**WorldPose: A World Cup Dataset for Global 3D Human Pose Estimation**|Tianjian Jiang et.al.|[2501.02771v1](http://arxiv.org/abs/2501.02771v1)|null|
 |**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v1](http://arxiv.org/abs/2501.02580v1)|**[link](https://github.com/xuqingyuan2000/lp-icp)**|
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166v1](http://arxiv.org/abs/2501.02166v1)|**[link](https://github.com/sdwyc/rolo)**|
-|**2025-01-03**|**TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**|Jiajie Liu et.al.|[2501.01770v1](http://arxiv.org/abs/2501.01770v1)|null|
+|**2025-01-03**|**TCPFormer: Learning Temporal Correlation with Implicit Pose Proxy for 3D Human Pose Estimation**|Jiajie Liu et.al.|[2501.01770v1](http://arxiv.org/abs/2501.01770v1)|**[link](https://github.com/asukacamellia/tcpformer)**|
 |**2025-01-03**|**Laparoscopic Scene Analysis for Intraoperative Visualisation of Gamma Probe Signals in Minimally Invasive Cancer Surgery**|Baoru Huang et.al.|[2501.01752v1](http://arxiv.org/abs/2501.01752v1)|null|
 |**2025-01-03**|**Free-Form Motion Control: A Synthetic Video Generation Dataset with Controllable Camera and Object Motions**|Xincheng Shuai et.al.|[2501.01425v2](http://arxiv.org/abs/2501.01425v2)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409v1](http://arxiv.org/abs/2501.01409v1)|null|
@@ -1541,7 +1541,7 @@ layout: default
 |**2025-01-14**|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano et.al.|[2501.07171v2](http://arxiv.org/abs/2501.07171v2)|**[link](https://github.com/minwoosun/biomedica-etl)**|
 |**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114v1](http://arxiv.org/abs/2501.07114v1)|null|
 |**2025-01-10**|**OpenFOAMGPT: a RAG-Augmented LLM Agent for OpenFOAM-Based Computational Fluid Dynamics**|Sandeep Pandey et.al.|[2501.06327v1](http://arxiv.org/abs/2501.06327v1)|null|
-|**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058v1](http://arxiv.org/abs/2501.06058v1)|null|
+|**2025-01-10**|**Learning Flexible Heterogeneous Coordination with Capability-Aware Shared Hypernetworks**|Kevin Fu et.al.|[2501.06058v1](http://arxiv.org/abs/2501.06058v1)|**[link](https://github.com/kfu02/jaxmarl)**|
 |**2025-01-10**|**Generate, Transduct, Adapt: Iterative Transduction with VLMs**|Oindrila Saha et.al.|[2501.06031v1](http://arxiv.org/abs/2501.06031v1)|null|
 |**2025-01-10**|**Low-Resource Text-to-Speech Synthesis Using Noise-Augmented Training of ForwardTacotron**|Kishor Kayyar Lakshminarayana et.al.|[2501.05976v1](http://arxiv.org/abs/2501.05976v1)|null|
 |**2025-01-10**|**MARS6: A Small and Robust Hierarchical-Codec Text-to-Speech Model**|Matthew Baas et.al.|[2501.05787v1](http://arxiv.org/abs/2501.05787v1)|null|
@@ -1665,13 +1665,13 @@ layout: default
 |**2024-12-18**|**Reverse Region-to-Entity Annotation for Pixel-Level Visual Entity Linking**|Zhengfei Xu et.al.|[2412.13614v1](http://arxiv.org/abs/2412.13614v1)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193v1](http://arxiv.org/abs/2412.13193v1)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126v1](http://arxiv.org/abs/2412.13126v1)|null|
-|**2024-12-17**|**Enabling Low-Resource Language Retrieval: Establishing Baselines for Urdu MS MARCO**|Umer Butt et.al.|[2412.12997v1](http://arxiv.org/abs/2412.12997v1)|null|
+|**2024-12-17**|**Enabling Low-Resource Language Retrieval: Establishing Baselines for Urdu MS MARCO**|Umer Butt et.al.|[2412.12997v1](http://arxiv.org/abs/2412.12997v1)|**[link](https://github.com/UmerTariq1/Urdu_MsMarco_Translation_Retrieval)**|
 |**2024-12-17**|**An Agentic Approach to Automatic Creation of P&ID Diagrams from Natural Language Descriptions**|Shreeyash Gowaikar et.al.|[2412.12898v1](http://arxiv.org/abs/2412.12898v1)|null|
 |**2024-12-17**|**Question: How do Large Language Models perform on the Question Answering tasks? Answer:**|Kevin Fischer et.al.|[2412.12893v1](http://arxiv.org/abs/2412.12893v1)|null|
 |**2024-12-17**|**MIVE: New Design and Benchmark for Multi-Instance Video Editing**|Samuel Teodoro et.al.|[2412.12877v1](http://arxiv.org/abs/2412.12877v1)|null|
 |**2024-12-17**|**Comparative Analysis of Zero-Shot Capability of Time-Series Foundation Models in Short-Term Load Prediction**|Nan Lin et.al.|[2412.12834v1](http://arxiv.org/abs/2412.12834v1)|null|
 |**2024-12-17**|**FocusChat: Text-guided Long Video Understanding via Spatiotemporal Information Filtering**|Zheng Cheng et.al.|[2412.12833v1](http://arxiv.org/abs/2412.12833v1)|null|
-|**2024-12-17**|**Cross-Dialect Information Retrieval: Information Access in Low-Resource and High-Variance Languages**|Robert Litschko et.al.|[2412.12806v1](http://arxiv.org/abs/2412.12806v1)|null|
+|**2024-12-17**|**Cross-Dialect Information Retrieval: Information Access in Low-Resource and High-Variance Languages**|Robert Litschko et.al.|[2412.12806v1](http://arxiv.org/abs/2412.12806v1)|**[link](https://github.com/mainlp/wikidir)**|
 |**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798v1](http://arxiv.org/abs/2412.12798v1)|**[link](https://github.com/huangshiqi128/zori)**|
 |**2024-12-16**|**Causal Diffusion Transformers for Generative Modeling**|Chaorui Deng et.al.|[2412.12095v1](http://arxiv.org/abs/2412.12095v1)|**[link](https://github.com/causalfusion/causalfusion)**|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077v1](http://arxiv.org/abs/2412.12077v1)|null|
@@ -3678,7 +3678,7 @@ layout: default
 |**2024-01-15**|**Robo-ABC: Affordance Generalization Beyond Categories via Semantic Correspondence for Robot Manipulation**|Yuanchen Ju et.al.|[2401.07487v1](http://arxiv.org/abs/2401.07487v1)|null|
 |**2024-01-14**|**ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering**|Yakun Song et.al.|[2401.07333v1](http://arxiv.org/abs/2401.07333v1)|null|
 |**2024-01-14**|**MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation**|Jiaqi Chen et.al.|[2401.07314v1](http://arxiv.org/abs/2401.07314v1)|null|
-|**2024-01-14**|**Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study**|Ahmadul Karim Chowdhury et.al.|[2401.07310v1](http://arxiv.org/abs/2401.07310v1)|null|
+|**2024-01-14**|**Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study**|Ahmadul Karim Chowdhury et.al.|[2401.07310v1](http://arxiv.org/abs/2401.07310v1)|**[link](https://github.com/AKC23/Harnessing-LLMs-over-transformer-models-for-detecting-Bengali-depressive-text-A-comprehensive-study)**|
 |**2024-01-12**|**Machine Translation Models are Zero-Shot Detectors of Translation Direction**|Michelle Wastl et.al.|[2401.06769v1](http://arxiv.org/abs/2401.06769v1)|**[link](https://github.com/zurichnlp/translation-direction-detection)**|
 |**2024-01-12**|**An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models**|Gantavya Bhatt et.al.|[2401.06692v1](http://arxiv.org/abs/2401.06692v1)|null|
 |**2024-01-12**|**Proximal Causal Inference With Text Data**|Jacob M. Chen et.al.|[2401.06687v1](http://arxiv.org/abs/2401.06687v1)|**[link](https://github.com/jacobmchen/proximal_w_text)**|

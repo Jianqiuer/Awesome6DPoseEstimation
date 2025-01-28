@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146v1](http://arxiv.org/abs/2501.16146v1)|null|
+|**2025-01-27**|**NanoHTNet: Nano Human Topology Network for Efficient 3D Human Pose Estimation**|Jialun Cai et.al.|[2501.15763v1](http://arxiv.org/abs/2501.15763v1)|null|
+|**2025-01-25**|**Towards Better Robustness: Progressively Joint Pose-3DGS Learning for Arbitrarily Long Videos**|Zhen-Hui Dong et.al.|[2501.15096v1](http://arxiv.org/abs/2501.15096v1)|null|
+|**2025-01-25**|**SpatioTemporal Learning for Human Pose Estimation in Sparsely-Labeled Videos**|Yingying Jiao et.al.|[2501.15073v1](http://arxiv.org/abs/2501.15073v1)|null|
+|**2025-01-24**|**3D/2D Registration of Angiograms using Silhouette-based Differentiable Rendering**|Taewoong Lee et.al.|[2501.14918v1](http://arxiv.org/abs/2501.14918v1)|**[link](https://github.com/taewoonglee17/twoviewsdsareg)**|
+|**2025-01-24**|**Light3R-SfM: Towards Feed-forward Structure-from-Motion**|Sven Elflein et.al.|[2501.14914v1](http://arxiv.org/abs/2501.14914v1)|null|
+|**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896v1](http://arxiv.org/abs/2501.14896v1)|null|
 |**2025-01-24**|**Optimizing Grasping Precision for Industrial Pick-and-Place Tasks Through a Novel Visual Servoing Approach**|Khairidine Benali et.al.|[2501.14557v1](http://arxiv.org/abs/2501.14557v1)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502v1](http://arxiv.org/abs/2501.14502v1)|null|
 |**2025-01-24**|**Optimizing Human Pose Estimation Through Focused Human and Joint Regions**|Yingying Jiao et.al.|[2501.14439v1](http://arxiv.org/abs/2501.14439v1)|null|
@@ -1541,6 +1548,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Upside Down Reinforcement Learning with Policy Generators**|Jacopo Di Ventura et.al.|[2501.16288v1](http://arxiv.org/abs/2501.16288v1)|**[link](https://github.com/jacopod/udrlpg_)**|
+|**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247v1](http://arxiv.org/abs/2501.16247v1)|null|
+|**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246v1](http://arxiv.org/abs/2501.16246v1)|null|
+|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222v1](http://arxiv.org/abs/2501.16222v1)|**[link](https://github.com/lipang/special)**|
+|**2025-01-27**|**Solving Turbulent Rayleigh-Bénard Convection using Fourier Neural Operators**|Michiel Straat et.al.|[2501.16209v1](http://arxiv.org/abs/2501.16209v1)|null|
+|**2025-01-27**|**TimeHF: Billion-Scale Time Series Models Guided by Human Feedback**|Yongzhi Qi et.al.|[2501.15942v1](http://arxiv.org/abs/2501.15942v1)|null|
+|**2025-01-27**|**SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model**|Delin Qu et.al.|[2501.15830v1](http://arxiv.org/abs/2501.15830v1)|null|
+|**2025-01-27**|**MM-Retinal V2: Transfer an Elite Knowledge Spark into Fundus Vision-Language Pretraining**|Ruiqi Wu et.al.|[2501.15798v1](http://arxiv.org/abs/2501.15798v1)|**[link](https://github.com/lxirich/mm-retinal)**|
+|**2025-01-27**|**GraphICL: Unlocking Graph Learning Potential in LLMs through Structured Prompt Design**|Yuanfu Sun et.al.|[2501.15755v1](http://arxiv.org/abs/2501.15755v1)|null|
+|**2025-01-26**|**StochSync: Stochastic Diffusion Synchronization for Image Generation in Arbitrary Spaces**|Kyeongmin Yeo et.al.|[2501.15445v1](http://arxiv.org/abs/2501.15445v1)|null|
 |**2025-01-24**|**Calibrating Wireless AI via Meta-Learned Context-Dependent Conformal Prediction**|Seonghoon Yoo et.al.|[2501.14566v1](http://arxiv.org/abs/2501.14566v1)|null|
 |**2025-01-24**|**Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding**|Zhongyi Shui et.al.|[2501.14548v1](http://arxiv.org/abs/2501.14548v1)|**[link](https://github.com/alibaba-damo-academy/fvlm)**|
 |**2025-01-24**|**On Correlating Factors for Domain Adaptation Performance**|Goksenin Yuksel et.al.|[2501.14466v1](http://arxiv.org/abs/2501.14466v1)|null|

@@ -1452,6 +1452,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534v1](http://arxiv.org/abs/2501.17534v1)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502v1](http://arxiv.org/abs/2501.14502v1)|null|
 |**2025-01-06**|**The 2nd Place Solution from the 3D Semantic Segmentation Track in the 2024 Waymo Open Dataset Challenge**|Qing Wu et.al.|[2501.05472v1](http://arxiv.org/abs/2501.05472v1)|null|
 |**2025-01-03**|**MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration**|Songjie Han et.al.|[2501.02041v1](http://arxiv.org/abs/2501.02041v1)|null|
@@ -1537,6 +1538,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767v1](http://arxiv.org/abs/2501.17767v1)|null|
+|**2025-01-29**|**VoicePrompter: Robust Zero-Shot Voice Conversion with Voice Prompt and Conditional Flow Matching**|Ha-Yeong Choi et.al.|[2501.17612v1](http://arxiv.org/abs/2501.17612v1)|null|
+|**2025-01-29**|**LLM Assistance for Pediatric Depression**|Mariia Ignashina et.al.|[2501.17510v1](http://arxiv.org/abs/2501.17510v1)|null|
+|**2025-01-29**|**General Scene Adaptation for Vision-and-Language Navigation**|Haodong Hong et.al.|[2501.17403v1](http://arxiv.org/abs/2501.17403v1)|**[link](https://github.com/honghd16/gsa-vln)**|
+|**2025-01-28**|**RLPP: A Residual Method for Zero-Shot Real-World Autonomous Racing on Scaled Platforms**|Edoardo Ghignone et.al.|[2501.17311v1](http://arxiv.org/abs/2501.17311v1)|**[link](https://github.com/forzaeth/rlpp)**|
+|**2025-01-28**|**Mitigating Hallucinated Translations in Large Language Models with Hallucination-focused Preference Optimization**|Zilu Tang et.al.|[2501.17295v1](http://arxiv.org/abs/2501.17295v1)|null|
 |**2025-01-28**|**Contextual Self-paced Learning for Weakly Supervised Spatio-Temporal Video Grounding**|Akash Kumar et.al.|[2501.17053v1](http://arxiv.org/abs/2501.17053v1)|null|
 |**2025-01-28**|**Image-based Geo-localization for Robotics: Are Black-box Vision-Language Models there yet?**|Sania Waheed et.al.|[2501.16947v1](http://arxiv.org/abs/2501.16947v1)|null|
 |**2025-01-28**|**Irony Detection, Reasoning and Understanding in Zero-shot Learning**|Peiling Yi et.al.|[2501.16884v1](http://arxiv.org/abs/2501.16884v1)|null|

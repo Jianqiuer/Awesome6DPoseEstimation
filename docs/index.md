@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478v1](http://arxiv.org/abs/2501.18478v1)|null|
+|**2025-01-29**|**Online Trajectory Replanner for Dynamically Grasping Irregular Objects**|Minh Nhat Vu et.al.|[2501.17968v1](http://arxiv.org/abs/2501.17968v1)|null|
 |**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751v1](http://arxiv.org/abs/2501.16751v1)|null|
 |**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146v1](http://arxiv.org/abs/2501.16146v1)|null|
 |**2025-01-27**|**NanoHTNet: Nano Human Topology Network for Efficient 3D Human Pose Estimation**|Jialun Cai et.al.|[2501.15763v1](http://arxiv.org/abs/2501.15763v1)|null|
@@ -1452,6 +1454,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246v1](http://arxiv.org/abs/2501.18246v1)|null|
 |**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534v1](http://arxiv.org/abs/2501.17534v1)|null|
 |**2025-01-24**|**LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing**|Marcello Cellina et.al.|[2501.14502v1](http://arxiv.org/abs/2501.14502v1)|null|
 |**2025-01-06**|**The 2nd Place Solution from the 3D Semantic Segmentation Track in the 2024 Waymo Open Dataset Challenge**|Qing Wu et.al.|[2501.05472v1](http://arxiv.org/abs/2501.05472v1)|null|
@@ -1538,6 +1541,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|null|
+|**2025-01-30**|**Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models**|Guanqun Cao et.al.|[2501.18516v1](http://arxiv.org/abs/2501.18516v1)|null|
+|**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457v1](http://arxiv.org/abs/2501.18457v1)|**[link](https://github.com/Alexwwwwww/CALM)**|
+|**2025-01-30**|**ReactEmbed: A Cross-Domain Framework for Protein-Molecule Representation Learning via Biochemical Reaction Networks**|Amitay Sicherman et.al.|[2501.18278v1](http://arxiv.org/abs/2501.18278v1)|**[link](https://github.com/amitaysicherman/reactembed)**|
+|**2025-01-30**|**Unraveling the Capabilities of Language Models in News Summarization**|Abdurrahman Odabaşı et.al.|[2501.18128v1](http://arxiv.org/abs/2501.18128v1)|null|
+|**2025-01-30**|**LLMs can see and hear without any training**|Kumar Ashutosh et.al.|[2501.18096v1](http://arxiv.org/abs/2501.18096v1)|**[link](https://github.com/facebookresearch/mils)**|
 |**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767v1](http://arxiv.org/abs/2501.17767v1)|null|
 |**2025-01-29**|**VoicePrompter: Robust Zero-Shot Voice Conversion with Voice Prompt and Conditional Flow Matching**|Ha-Yeong Choi et.al.|[2501.17612v1](http://arxiv.org/abs/2501.17612v1)|null|
 |**2025-01-29**|**LLM Assistance for Pediatric Depression**|Mariia Ignashina et.al.|[2501.17510v1](http://arxiv.org/abs/2501.17510v1)|null|

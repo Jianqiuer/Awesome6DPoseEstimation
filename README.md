@@ -1555,7 +1555,7 @@
 |---|---|---|---|---|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|null|
 |**2025-01-30**|**Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models**|Guanqun Cao et.al.|[2501.18516v1](http://arxiv.org/abs/2501.18516v1)|null|
-|**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457v1](http://arxiv.org/abs/2501.18457v1)|**[link](https://github.com/Alexwwwwww/CALM)**|
+|**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457v1](http://arxiv.org/abs/2501.18457v1)|null|
 |**2025-01-30**|**ReactEmbed: A Cross-Domain Framework for Protein-Molecule Representation Learning via Biochemical Reaction Networks**|Amitay Sicherman et.al.|[2501.18278v1](http://arxiv.org/abs/2501.18278v1)|**[link](https://github.com/amitaysicherman/reactembed)**|
 |**2025-01-30**|**Unraveling the Capabilities of Language Models in News Summarization**|Abdurrahman Odabaşı et.al.|[2501.18128v1](http://arxiv.org/abs/2501.18128v1)|null|
 |**2025-01-30**|**LLMs can see and hear without any training**|Kumar Ashutosh et.al.|[2501.18096v1](http://arxiv.org/abs/2501.18096v1)|**[link](https://github.com/facebookresearch/mils)**|

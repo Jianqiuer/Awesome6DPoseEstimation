@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|**[link](https://github.com/aiotgroup/xrfv2)**|
 |**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478v1](http://arxiv.org/abs/2501.18478v1)|null|
 |**2025-01-29**|**Online Trajectory Replanner for Dynamically Grasping Irregular Objects**|Minh Nhat Vu et.al.|[2501.17968v1](http://arxiv.org/abs/2501.17968v1)|null|
 |**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751v1](http://arxiv.org/abs/2501.16751v1)|null|
@@ -1541,6 +1542,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318v1](http://arxiv.org/abs/2501.19318v1)|null|
+|**2025-01-31**|**Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**|James Flemings et.al.|[2501.19287v1](http://arxiv.org/abs/2501.19287v1)|null|
+|**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232v1](http://arxiv.org/abs/2501.19232v1)|null|
+|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204v1](http://arxiv.org/abs/2501.19204v1)|null|
+|**2025-01-31**|**Efficient Reasoning with Hidden Thinking**|Xuan Shen et.al.|[2501.19201v1](http://arxiv.org/abs/2501.19201v1)|**[link](https://github.com/shawnricecake/heima)**|
+|**2025-01-31**|**Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected**|Yingtao Zhang et.al.|[2501.19107v1](http://arxiv.org/abs/2501.19107v1)|null|
+|**2025-01-31**|**Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification**|Xiangyu Sun et.al.|[2501.19086v1](http://arxiv.org/abs/2501.19086v1)|null|
+|**2025-01-31**|**Contrast-Aware Calibration for Fine-Tuned CLIP: Leveraging Image-Text Alignment**|Song-Lin Lv et.al.|[2501.19060v1](http://arxiv.org/abs/2501.19060v1)|null|
+|**2025-01-31**|**TV-Dialogue: Crafting Theme-Aware Video Dialogues with Immersive Interaction**|Sai Wang et.al.|[2501.18940v1](http://arxiv.org/abs/2501.18940v1)|null|
+|**2025-01-31**|**Test-time Loss Landscape Adaptation for Zero-Shot Generalization in Vision-Language Models**|Aodi Li et.al.|[2501.18864v1](http://arxiv.org/abs/2501.18864v1)|null|
 |**2025-01-30**|**DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights**|Liana Mikaelyan et.al.|[2501.18596v1](http://arxiv.org/abs/2501.18596v1)|null|
 |**2025-01-30**|**Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models**|Guanqun Cao et.al.|[2501.18516v1](http://arxiv.org/abs/2501.18516v1)|null|
 |**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457v1](http://arxiv.org/abs/2501.18457v1)|null|

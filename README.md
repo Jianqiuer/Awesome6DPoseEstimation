@@ -132,7 +132,7 @@
 |**2024-12-02**|**Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures**|Qiyuan Shen et.al.|[2412.01299v1](http://arxiv.org/abs/2412.01299v1)|null|
 |**2024-12-02**|**CRISP: Object Pose and Shape Estimation with Test-Time Adaptation**|Jingnan Shi et.al.|[2412.01052v1](http://arxiv.org/abs/2412.01052v1)|null|
 |**2024-11-29**|**Diorama: Unleashing Zero-shot Single-view 3D Scene Modeling**|Qirui Wu et.al.|[2411.19492v1](http://arxiv.org/abs/2411.19492v1)|null|
-|**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458v1](http://arxiv.org/abs/2411.19458v1)|null|
+|**2024-11-29**|**Multiview Equivariance Improves 3D Correspondence Understanding with Minimal Feature Finetuning**|Yang You et.al.|[2411.19458v1](http://arxiv.org/abs/2411.19458v1)|**[link](https://github.com/qq456cvb/3dcorrenhance)**|
 |**2024-11-28**|**GMS-VINS:Multi-category Dynamic Objects Semantic Segmentation for Enhanced Visual-Inertial Odometry Using a Promptable Foundation Model**|Rui Zhou et.al.|[2411.19289v1](http://arxiv.org/abs/2411.19289v1)|null|
 |**2024-11-28**|**HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos**|Prithviraj Banerjee et.al.|[2411.19167v1](http://arxiv.org/abs/2411.19167v1)|null|
 |**2024-11-28**|**Lost & Found: Updating Dynamic 3D Scene Graphs from Egocentric Observations**|Tjark Behrens et.al.|[2411.19162v1](http://arxiv.org/abs/2411.19162v1)|**[link](https://github.com/behretj/LostFound)**|
@@ -2001,7 +2001,7 @@
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184v1](http://arxiv.org/abs/2411.07184v1)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**Decoding Visual Experience and Mapping Semantics through Whole-Brain Analysis Using fMRI Foundation Models**|Yanchen Wang et.al.|[2411.07121v1](http://arxiv.org/abs/2411.07121v1)|**[link](https://github.com/ppwangyc/wave)**|
 |**2024-11-11**|**Transformer verbatim in-context retrieval across time and scale**|Kristijan Armeni et.al.|[2411.07075v1](http://arxiv.org/abs/2411.07075v1)|**[link](https://github.com/kristijanarmeni/verbatim-memory-in-nlms)**|
-|**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971v1](http://arxiv.org/abs/2411.06971v1)|null|
+|**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971v1](http://arxiv.org/abs/2411.06971v1)|**[link](https://github.com/xue-xia/mapsam)**|
 |**2024-11-11**|**Robust Fine-tuning of Zero-shot Models via Variance Reduction**|Beier Zhu et.al.|[2411.06966v1](http://arxiv.org/abs/2411.06966v1)|**[link](https://github.com/beierzhu/vrf)**|
 |**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921v1](http://arxiv.org/abs/2411.06921v1)|null|
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764v1](http://arxiv.org/abs/2411.06764v1)|null|
@@ -2347,7 +2347,7 @@
 |**2024-09-12**|**EZIGen: Enhancing zero-shot subject-driven image generation with precise subject encoding and decoupled guidance**|Zicheng Duan et.al.|[2409.08091v1](http://arxiv.org/abs/2409.08091v1)|**[link](https://github.com/ZichengDuan/EZIGen)**|
 |**2024-09-12**|**Zero-Shot Sing Voice Conversion: built upon clustering-based phoneme representations**|Wangjin Zhou et.al.|[2409.08039v1](http://arxiv.org/abs/2409.08039v1)|null|
 |**2024-09-12**|**From Explanations to Action: A Zero-Shot, Theory-Driven LLM Framework for Student Performance Feedback**|Vinitra Swamy et.al.|[2409.08027v1](http://arxiv.org/abs/2409.08027v1)|null|
-|**2024-09-11**|**Zero-Shot Machine-Generated Text Detection Using Mixture of Large Language Models**|Matthieu Dubois et.al.|[2409.07615v1](http://arxiv.org/abs/2409.07615v1)|null|
+|**2024-09-11**|**Zero-Shot Machine-Generated Text Detection Using Mixture of Large Language Models**|Matthieu Dubois et.al.|[2409.07615v1](http://arxiv.org/abs/2409.07615v1)|**[link](https://github.com/baggerofwords/mosaic)**|
 |**2024-09-11**|**Minimizing Embedding Distortion for Robust Out-of-Distribution Performance**|Tom Shaked et.al.|[2409.07582v1](http://arxiv.org/abs/2409.07582v1)|null|
 |**2024-09-11**|**SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis**|Helin Wang et.al.|[2409.07556v1](http://arxiv.org/abs/2409.07556v1)|**[link](https://github.com/WangHelin1997/SSR-Speech)**|
 |**2024-09-11**|**Online Decision MetaMorphFormer: A Casual Transformer-Based Reinforcement Learning Framework of Universal Embodied Intelligence**|Luo Ji et.al.|[2409.07341v1](http://arxiv.org/abs/2409.07341v1)|null|
@@ -2535,7 +2535,7 @@
 |**2024-08-12**|**Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games**|Chiu-Chou Lin et.al.|[2408.06051v1](http://arxiv.org/abs/2408.06051v1)|**[link](https://github.com/DSobscure/cgi_drl_platform)**|
 |**2024-08-12**|**Unseen No More: Unlocking the Potential of CLIP for Generative Zero-shot HOI Detection**|Yixin Guo et.al.|[2408.05974v1](http://arxiv.org/abs/2408.05974v1)|**[link](https://github.com/soberguo/hoigen)**|
 |**2024-08-09**|**Enhancing the Code Debugging Ability of LLMs via Communicative Agent Based Data Refinement**|Weiqing Yang et.al.|[2408.05006v1](http://arxiv.org/abs/2408.05006v1)|**[link](https://github.com/neuir/coast)**|
-|**2024-08-09**|**SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement**|Chaofan Li et.al.|[2408.04919v1](http://arxiv.org/abs/2408.04919v1)|null|
+|**2024-08-09**|**SEA-SQL: Semantic-Enhanced Text-to-SQL with Adaptive Refinement**|Chaofan Li et.al.|[2408.04919v1](http://arxiv.org/abs/2408.04919v1)|**[link](https://github.com/545999961/sea-sql)**|
 |**2024-08-09**|**Towards a Generative Approach for Emotion Detection and Reasoning**|Ankita Bhaumik et.al.|[2408.04906v1](http://arxiv.org/abs/2408.04906v1)|null|
 |**2024-08-09**|**ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation**|Mengcheng Lan et.al.|[2408.04883v1](http://arxiv.org/abs/2408.04883v1)|**[link](https://github.com/mc-lan/proxyclip)**|
 |**2024-08-09**|**On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey**|Jingcai Guo et.al.|[2408.04879v1](http://arxiv.org/abs/2408.04879v1)|**[link](https://github.com/eigenailab/Element-Wise-Zero-Shot-Image-Recognition)**|
@@ -3546,7 +3546,7 @@
 |**2024-02-23**|**Repetition Improves Language Model Embeddings**|Jacob Mitchell Springer et.al.|[2402.15449v1](http://arxiv.org/abs/2402.15449v1)|**[link](https://github.com/jakespringer/echo-embeddings)**|
 |**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422v1](http://arxiv.org/abs/2402.15422v1)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|
 |**2024-02-23**|**PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**|Simon Holk et.al.|[2402.15420v1](http://arxiv.org/abs/2402.15420v1)|null|
-|**2024-02-23**|**Ranking Entities along Conceptual Space Dimensions with LLMs: An Analysis of Fine-Tuning Strategies**|Nitesh Kumar et.al.|[2402.15337v1](http://arxiv.org/abs/2402.15337v1)|null|
+|**2024-02-23**|**Ranking Entities along Conceptual Space Dimensions with LLMs: An Analysis of Fine-Tuning Strategies**|Nitesh Kumar et.al.|[2402.15337v1](http://arxiv.org/abs/2402.15337v1)|**[link](https://github.com/niteshroyal/rankingusingllms)**|
 |**2024-02-23**|**High Resolution Guitar Transcription via Domain Adaptation**|Xavier Riley et.al.|[2402.15258v1](http://arxiv.org/abs/2402.15258v1)|null|
 |**2024-02-23**|**Fine-tuning Large Language Models for Domain-specific Machine Translation**|Jiawei Zheng et.al.|[2402.15061v1](http://arxiv.org/abs/2402.15061v1)|null|
 |**2024-02-23**|**ColBERT-XM: A Modular Multi-Vector Representation Model for Zero-Shot Multilingual Information Retrieval**|Antoine Louis et.al.|[2402.15059v1](http://arxiv.org/abs/2402.15059v1)|null|

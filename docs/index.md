@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation**|Jian Liu et.al.|[2502.02525v1](http://arxiv.org/abs/2502.02525v1)|null|
+|**2025-02-03**|**CleanPose: Category-Level Object Pose Estimation via Causal Learning and Knowledge Distillation**|Xiao Lin et.al.|[2502.01312v1](http://arxiv.org/abs/2502.01312v1)|null|
+|**2025-02-03**|**Enhancing Feature Tracking Reliability for Visual Navigation using Real-Time Safety Filter**|Dabin Kim et.al.|[2502.01092v1](http://arxiv.org/abs/2502.01092v1)|null|
+|**2025-02-03**|**ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking**|Jianqiu Chen et.al.|[2502.01004v1](http://arxiv.org/abs/2502.01004v1)|null|
+|**2025-01-31**|**A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration**|Richard Cheng et.al.|[2502.00115v1](http://arxiv.org/abs/2502.00115v1)|null|
 |**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|**[link](https://github.com/aiotgroup/xrfv2)**|
 |**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478v1](http://arxiv.org/abs/2501.18478v1)|null|
 |**2025-01-29**|**Online Trajectory Replanner for Dynamically Grasping Irregular Objects**|Minh Nhat Vu et.al.|[2501.17968v1](http://arxiv.org/abs/2501.17968v1)|null|
@@ -1261,6 +1266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration**|Richard Cheng et.al.|[2502.00115v1](http://arxiv.org/abs/2502.00115v1)|null|
 |**2025-01-18**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762v2](http://arxiv.org/abs/2501.07762v2)|null|
 |**2025-01-10**|**LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds**|Chen Wang et.al.|[2501.05669v1](http://arxiv.org/abs/2501.05669v1)|null|
 |**2025-01-09**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580v2](http://arxiv.org/abs/2501.02580v2)|**[link](https://github.com/xuqingyuan2000/lp-icp)**|
@@ -1542,6 +1548,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning**|Quan Zhang et.al.|[2502.02454v1](http://arxiv.org/abs/2502.02454v1)|null|
+|**2025-02-04**|**Evaluating the Effectiveness of LLMs in Fixing Maintainability Issues in Real-World Projects**|Henrique Nunes et.al.|[2502.02368v1](http://arxiv.org/abs/2502.02368v1)|null|
+|**2025-02-04**|**LoRA-TTT: Low-Rank Test-Time Training for Vision-Language Models**|Yuto Kojima et.al.|[2502.02069v1](http://arxiv.org/abs/2502.02069v1)|null|
+|**2025-02-04**|**VolleyBots: A Testbed for Multi-Drone Volleyball Game Combining Motion Control and Strategic Play**|Zelai Xu et.al.|[2502.01932v1](http://arxiv.org/abs/2502.01932v1)|null|
+|**2025-02-03**|**AquaticCLIP: A Vision-Language Foundation Model for Underwater Scene Analysis**|Basit Alawode et.al.|[2502.01785v1](http://arxiv.org/abs/2502.01785v1)|null|
+|**2025-02-03**|**Expected Return Symmetries**|Darius Muglich et.al.|[2502.01711v1](http://arxiv.org/abs/2502.01711v1)|null|
+|**2025-02-03**|**Scalable Language Models with Posterior Inference of Latent Thought Vectors**|Deqian Kong et.al.|[2502.01567v1](http://arxiv.org/abs/2502.01567v1)|null|
+|**2025-02-03**|**Toward Task Generalization via Memory Augmentation in Meta-Reinforcement Learning**|Kaixi Bao et.al.|[2502.01521v1](http://arxiv.org/abs/2502.01521v1)|null|
+|**2025-02-03**|**Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motions**|Ziwen Zhuang et.al.|[2502.01465v1](http://arxiv.org/abs/2502.01465v1)|null|
+|**2025-02-03**|**A Framework for Double-Blind Federated Adaptation of Foundation Models**|Nurbek Tastan et.al.|[2502.01289v1](http://arxiv.org/abs/2502.01289v1)|null|
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318v1](http://arxiv.org/abs/2501.19318v1)|null|
 |**2025-01-31**|**Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**|James Flemings et.al.|[2501.19287v1](http://arxiv.org/abs/2501.19287v1)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232v1](http://arxiv.org/abs/2501.19232v1)|null|

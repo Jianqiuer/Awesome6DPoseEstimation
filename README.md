@@ -1560,6 +1560,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459v1](http://arxiv.org/abs/2502.03459v1)|null|
+|**2025-02-05**|**Think or Step-by-Step? UnZIPping the Black Box in Zero-Shot Prompts**|Nikta Gohari Sadr et.al.|[2502.03418v1](http://arxiv.org/abs/2502.03418v1)|null|
+|**2025-02-05**|**Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications**|Issar Arab et.al.|[2502.03395v1](http://arxiv.org/abs/2502.03395v1)|null|
+|**2025-02-05**|**CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting**|Zewen Liu et.al.|[2502.03393v1](http://arxiv.org/abs/2502.03393v1)|null|
+|**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266v1](http://arxiv.org/abs/2502.03266v1)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
+|**2025-02-05**|**SimSort: A Powerful Framework for Spike Sorting by Large-Scale Electrophysiology Simulation**|Yimu Zhang et.al.|[2502.03198v1](http://arxiv.org/abs/2502.03198v1)|null|
+|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128v1](http://arxiv.org/abs/2502.03128v1)|null|
+|**2025-02-05**|**IAO Prompting: Making Knowledge Flow Explicit in LLMs through Structured Reasoning Templates**|Aissatou Diallo et.al.|[2502.03080v1](http://arxiv.org/abs/2502.03080v1)|null|
+|**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950v1](http://arxiv.org/abs/2502.02950v1)|null|
+|**2025-02-04**|**RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2**|Bin Xie et.al.|[2502.02741v1](http://arxiv.org/abs/2502.02741v1)|null|
 |**2025-02-04**|**IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning**|Quan Zhang et.al.|[2502.02454v1](http://arxiv.org/abs/2502.02454v1)|null|
 |**2025-02-04**|**Evaluating the Effectiveness of LLMs in Fixing Maintainability Issues in Real-World Projects**|Henrique Nunes et.al.|[2502.02368v1](http://arxiv.org/abs/2502.02368v1)|null|
 |**2025-02-04**|**LoRA-TTT: Low-Rank Test-Time Training for Vision-Language Models**|Yuto Kojima et.al.|[2502.02069v1](http://arxiv.org/abs/2502.02069v1)|null|

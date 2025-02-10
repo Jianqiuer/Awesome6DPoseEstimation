@@ -889,7 +889,7 @@
 |**2023-12-13**|**Three-Filters-to-Normal+: Revisiting Discontinuity Discrimination in Depth-to-Normal Translation**|Jingwei Yang et.al.|[2312.07964v1](http://arxiv.org/abs/2312.07964v1)|null|
 |**2023-12-13**|**Diffusion Models Enable Zero-Shot Pose Estimation for Lower-Limb Prosthetic Users**|Tianxun Zhou et.al.|[2312.07854v1](http://arxiv.org/abs/2312.07854v1)|null|
 |**2023-12-12**|**RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation**|Peng Lu et.al.|[2312.07526v1](http://arxiv.org/abs/2312.07526v1)|**[link](https://github.com/open-mmlab/mmpose)**|
-|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|null|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504v1](http://arxiv.org/abs/2312.07504v1)|**[link](https://github.com/NVlabs/CF-3DGS)**|
 |**2023-12-12**|**RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation in Degenerated Environments**|Pavel Petracek et.al.|[2312.07337v1](http://arxiv.org/abs/2312.07337v1)|**[link](https://github.com/ctu-mrs/rms)**|
 |**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246v1](http://arxiv.org/abs/2312.07246v1)|**[link](https://github.com/KU-CVLAB/CoPoNeRF)**|
 |**2023-12-12**|**Mask as Supervision: Leveraging Unified Mask Information for Unsupervised 3D Pose Estimation**|Yuchen Yang et.al.|[2312.07051v1](http://arxiv.org/abs/2312.07051v1)|**[link](https://github.com/charrrrrlie/mask-as-supervision)**|
@@ -1362,7 +1362,7 @@
 |**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404v1](http://arxiv.org/abs/2404.04404v1)|null|
 |**2024-04-01**|**FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features**|Keisuke Sugiura et.al.|[2404.01237v1](http://arxiv.org/abs/2404.01237v1)|null|
 |**2024-03-28**|**SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks**|Yaxu Xie et.al.|[2403.19474v1](http://arxiv.org/abs/2403.19474v1)|**[link](https://github.com/dfki-av/sg-pgm)**|
-|**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040v1](http://arxiv.org/abs/2403.18040v1)|null|
+|**2024-03-26**|**Global Point Cloud Registration Network for Large Transformations**|Hanz Cuevas-Velasquez et.al.|[2403.18040v1](http://arxiv.org/abs/2403.18040v1)|**[link](https://github.com/Alejandro-Galan/Global-PC-Large-Transformations-Registration)**|
 |**2024-03-28**|**Exploring Accurate 3D Phenotyping in Greenhouse through Neural Radiance Fields**|Junhong Zhao et.al.|[2403.15981v2](http://arxiv.org/abs/2403.15981v2)|null|
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085v1](http://arxiv.org/abs/2403.10085v1)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996v1](http://arxiv.org/abs/2403.09996v1)|null|
@@ -1593,7 +1593,7 @@
 |**2025-01-31**|**MINDSTORES: Memory-Informed Neural Decision Synthesis for Task-Oriented Reinforcement in Embodied Systems**|Anirudh Chari et.al.|[2501.19318v1](http://arxiv.org/abs/2501.19318v1)|null|
 |**2025-01-31**|**Differentially Private In-context Learning via Sampling Few-shot Mixed with Zero-shot Outputs**|James Flemings et.al.|[2501.19287v1](http://arxiv.org/abs/2501.19287v1)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232v1](http://arxiv.org/abs/2501.19232v1)|null|
-|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204v1](http://arxiv.org/abs/2501.19204v1)|null|
+|**2025-01-31**|**Autonomous Legacy Web Application Upgrades Using a Multi-Agent System**|Valtteri Ala-Salmi et.al.|[2501.19204v1](http://arxiv.org/abs/2501.19204v1)|**[link](https://github.com/alasalm1/multi-agent-pipeline)**|
 |**2025-01-31**|**Efficient Reasoning with Hidden Thinking**|Xuan Shen et.al.|[2501.19201v1](http://arxiv.org/abs/2501.19201v1)|**[link](https://github.com/shawnricecake/heima)**|
 |**2025-01-31**|**Brain-inspired sparse training enables Transformers and LLMs to perform as fully connected**|Yingtao Zhang et.al.|[2501.19107v1](http://arxiv.org/abs/2501.19107v1)|null|
 |**2025-01-31**|**Fairness Analysis of CLIP-Based Foundation Models for X-Ray Image Classification**|Xiangyu Sun et.al.|[2501.19086v1](http://arxiv.org/abs/2501.19086v1)|null|
@@ -1678,7 +1678,7 @@
 |**2025-01-17**|**Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models**|Qiang Liu et.al.|[2501.09997v1](http://arxiv.org/abs/2501.09997v1)|null|
 |**2025-01-17**|**GVMGen: A General Video-to-Music Generation Model with Hierarchical Attentions**|Heda Zuo et.al.|[2501.09972v1](http://arxiv.org/abs/2501.09972v1)|null|
 |**2025-01-17**|**MultiPruner: Balanced Structure Removal in Foundation Models**|J. Pablo Muñoz et.al.|[2501.09949v1](http://arxiv.org/abs/2501.09949v1)|**[link](https://github.com/intellabs/hardware-aware-automated-machine-learning)**|
-|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898v1](http://arxiv.org/abs/2501.09898v1)|null|
+|**2025-01-17**|**FoundationStereo: Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2501.09898v1](http://arxiv.org/abs/2501.09898v1)|**[link](https://github.com/NVlabs/FoundationStereo)**|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887v1](http://arxiv.org/abs/2501.09887v1)|null|
 |**2025-01-16**|**Comparative Insights from 12 Machine Learning Models in Extracting Economic Ideology from Political Text**|Jihed Ncib et.al.|[2501.09719v1](http://arxiv.org/abs/2501.09719v1)|null|
 |**2025-01-16**|**DEFOM-Stereo: Depth Foundation Model Based Stereo Matching**|Hualie Jiang et.al.|[2501.09466v1](http://arxiv.org/abs/2501.09466v1)|**[link](https://github.com/insta360-research-team/defom-stereo)**|
@@ -1853,7 +1853,7 @@
 |**2024-12-13**|**Reasoner Outperforms: Generative Stance Detection with Rationalization for Social Media**|Jiaqing Yuan et.al.|[2412.10266v1](http://arxiv.org/abs/2412.10266v1)|null|
 |**2024-12-13**|**Efficient Generative Modeling with Residual Vector Quantization-Based Tokens**|Jaehyeon Kim et.al.|[2412.10208v1](http://arxiv.org/abs/2412.10208v1)|null|
 |**2024-12-13**|**Constraint-Aware Zero-Shot Vision-Language Navigation in Continuous Environments**|Kehan Chen et.al.|[2412.10137v1](http://arxiv.org/abs/2412.10137v1)|null|
-|**2024-12-13**|**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data**|Jonas Golde et.al.|[2412.10121v1](http://arxiv.org/abs/2412.10121v1)|null|
+|**2024-12-13**|**Familiarity: Better Evaluation of Zero-Shot Named Entity Recognition by Quantifying Label Shifts in Synthetic Training Data**|Jonas Golde et.al.|[2412.10121v1](http://arxiv.org/abs/2412.10121v1)|**[link](https://github.com/whoisjones/familarity)**|
 |**2024-12-13**|**Building a Multi-modal Spatiotemporal Expert for Zero-shot Action Recognition with CLIP**|Yating Yu et.al.|[2412.09895v1](http://arxiv.org/abs/2412.09895v1)|**[link](https://github.com/mia-yatingyu/stdd)**|
 |**2024-12-13**|**CP-DETR: Concept Prompt Guide DETR Toward Stronger Universal Object Detection**|Qibo Chen et.al.|[2412.09799v1](http://arxiv.org/abs/2412.09799v1)|null|
 |**2024-12-12**|**Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals**|Yunfei Luo et.al.|[2412.09758v1](http://arxiv.org/abs/2412.09758v1)|**[link](https://github.com/mobile-sensing-and-ubicomp-laboratory/normwear)**|
@@ -1959,7 +1959,7 @@
 |**2024-11-26**|**FLEX-CLIP: Feature-Level GEneration Network Enhanced CLIP for X-shot Cross-modal Retrieval**|Jingyou Xie et.al.|[2411.17454v1](http://arxiv.org/abs/2411.17454v1)|null|
 |**2024-11-26**|**PEFTGuard: Detecting Backdoor Attacks Against Parameter-Efficient Fine-Tuning**|Zhen Sun et.al.|[2411.17453v1](http://arxiv.org/abs/2411.17453v1)|null|
 |**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406v1](http://arxiv.org/abs/2411.17406v1)|**[link](https://github.com/WilsonMqz/CoA)**|
-|**2024-11-26**|**vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation**|Bastian Wittmann et.al.|[2411.17386v1](http://arxiv.org/abs/2411.17386v1)|null|
+|**2024-11-26**|**vesselFM: A Foundation Model for Universal 3D Blood Vessel Segmentation**|Bastian Wittmann et.al.|[2411.17386v1](http://arxiv.org/abs/2411.17386v1)|**[link](https://github.com/bwittmann/vesselFM)**|
 |**2024-11-26**|**2D Matryoshka Training for Information Retrieval**|Shuai Wang et.al.|[2411.17299v1](http://arxiv.org/abs/2411.17299v1)|**[link](https://github.com/ielab/2dmse-reproduce)**|
 |**2024-11-26**|**APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents**|Jun Yu Chen et.al.|[2411.17255v1](http://arxiv.org/abs/2411.17255v1)|**[link](https://github.com/spearsheep/APT-Architectural-Planning-LLM-Agent)**|
 |**2024-11-26**|**Buffer Anytime: Zero-Shot Video Depth and Normal from Image Priors**|Zhengfei Kuang et.al.|[2411.17249v1](http://arxiv.org/abs/2411.17249v1)|null|
@@ -2069,7 +2069,7 @@
 |**2024-11-07**|**Vision Language Models are In-Context Value Learners**|Yecheng Jason Ma et.al.|[2411.04549v1](http://arxiv.org/abs/2411.04549v1)|null|
 |**2024-11-07**|**Best Practices for Distilling Large Language Models into BERT for Web Search Ranking**|Dezhi Ye et.al.|[2411.04539v1](http://arxiv.org/abs/2411.04539v1)|null|
 |**2024-11-07**|**Tomato, Tomahto, Tomate: Measuring the Role of Shared Semantics among Subwords in Multilingual Language Models**|Xinyu Zhang et.al.|[2411.04530v1](http://arxiv.org/abs/2411.04530v1)|null|
-|**2024-11-07**|**Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity**|Robby Costales et.al.|[2411.04466v1](http://arxiv.org/abs/2411.04466v1)|null|
+|**2024-11-07**|**Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity**|Robby Costales et.al.|[2411.04466v1](http://arxiv.org/abs/2411.04466v1)|**[link](https://github.com/robbycostales/diva)**|
 |**2024-11-07**|**AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering**|Yungeng Liu et.al.|[2411.04440v1](http://arxiv.org/abs/2411.04440v1)|**[link](https://github.com/tsynbio/autope)**|
 |**2024-11-06**|**RaVL: Discovering and Mitigating Spurious Correlations in Fine-Tuned Vision-Language Models**|Maya Varma et.al.|[2411.04097v1](http://arxiv.org/abs/2411.04097v1)|**[link](https://github.com/stanford-aimi/ravl)**|
 |**2024-11-06**|**Multi3Hate: Multimodal, Multilingual, and Multicultural Hate Speech Detection with Vision-Language Models**|Minh Duc Bui et.al.|[2411.03888v1](http://arxiv.org/abs/2411.03888v1)|**[link](https://github.com/minhducbui/multi3hate)**|
@@ -2253,7 +2253,7 @@
 |**2024-10-09**|**Exploring the Readiness of Prominent Small Language Models for the Democratization of Financial Literacy**|Tagore Rao Kosireddy et.al.|[2410.07118v1](http://arxiv.org/abs/2410.07118v1)|**[link](https://github.com/Tagore-7/Small-Language-Models-for-the-Democratization-of-Financial-Literacy)**|
 |**2024-10-09**|**Collusion Detection with Graph Neural Networks**|Lucas Gomes et.al.|[2410.07091v1](http://arxiv.org/abs/2410.07091v1)|null|
 |**2024-10-09**|**Stanceformer: Target-Aware Transformer for Stance Detection**|Krishna Garg et.al.|[2410.07083v1](http://arxiv.org/abs/2410.07083v1)|**[link](https://github.com/kgarg8/stanceformer)**|
-|**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912v1](http://arxiv.org/abs/2410.06912v1)|null|
+|**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912v1](http://arxiv.org/abs/2410.06912v1)|**[link](https://github.com/PalAvik/hycoclip)**|
 |**2024-10-09**|**F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching**|Yushen Chen et.al.|[2410.06885v1](http://arxiv.org/abs/2410.06885v1)|**[link](https://github.com/SWivid/F5-TTS)**|
 |**2024-10-09**|**K-SAM: A Prompting Method Using Pretrained U-Net to Improve Zero Shot Performance of SAM on Lung Segmentation in CXR Images**|Mohamed Deriche et.al.|[2410.06825v1](http://arxiv.org/abs/2410.06825v1)|null|
 |**2024-10-09**|**Toward Physics-guided Time Series Embedding**|Jiaxi Hu et.al.|[2410.06651v1](http://arxiv.org/abs/2410.06651v1)|null|
@@ -4638,7 +4638,7 @@
 |**2023-08-25**|**Code Llama: Open Foundation Models for Code**|Baptiste Rozière et.al.|[2308.12950v2](http://arxiv.org/abs/2308.12950v2)|**[link](https://github.com/facebookresearch/codellama)**|
 |**2023-08-24**|**WavMark: Watermarking for Audio Generation**|Guangyu Chen et.al.|[2308.12770v1](http://arxiv.org/abs/2308.12770v1)|null|
 |**2023-08-24**|**Improving Translation Faithfulness of Large Language Models via Augmenting Instructions**|Yijie Chen et.al.|[2308.12674v1](http://arxiv.org/abs/2308.12674v1)|**[link](https://github.com/pppa2019/swie_overmiss_llm4mt)**|
-|**2023-08-24**|**From Chatter to Matter: Addressing Critical Steps of Emotion Recognition Learning in Task-oriented Dialogue**|Shutong Feng et.al.|[2308.12648v1](http://arxiv.org/abs/2308.12648v1)|null|
+|**2023-08-24**|**From Chatter to Matter: Addressing Critical Steps of Emotion Recognition Learning in Task-oriented Dialogue**|Shutong Feng et.al.|[2308.12648v1](http://arxiv.org/abs/2308.12648v1)|**[link](https://github.com/ConvLab/ConvLab-3/tree/emo_loop/convlab/dst/emodst/modeling)**|
 |**2023-08-24**|**Hyperbolic Audio-visual Zero-shot Learning**|Jie Hong et.al.|[2308.12558v1](http://arxiv.org/abs/2308.12558v1)|null|
 |**2023-08-23**|**Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion**|Junjiao Tian et.al.|[2308.12469v1](http://arxiv.org/abs/2308.12469v1)|**[link](https://github.com/google/diffseg)**|
 |**2023-08-23**|**Vision Transformer Adapters for Generalizable Multitask Learning**|Deblina Bhattacharjee et.al.|[2308.12372v1](http://arxiv.org/abs/2308.12372v1)|null|

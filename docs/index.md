@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-08**|**Vision-in-the-loop Simulation for Deep Monocular Pose Estimation of UAV in Ocean Environment**|Maneesha Wickramasuriya et.al.|[2502.05409v1](http://arxiv.org/abs/2502.05409v1)|null|
 |**2025-02-06**|**Measuring Physical Plausibility of 3D Human Poses Using Physics Simulation**|Nathan Louis et.al.|[2502.04483v1](http://arxiv.org/abs/2502.04483v1)|null|
 |**2025-02-06**|**GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**|Weihang Li et.al.|[2502.04293v1](http://arxiv.org/abs/2502.04293v1)|null|
 |**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877v1](http://arxiv.org/abs/2502.03877v1)|null|
@@ -1270,6 +1271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation**|Sara Monji-Azad et.al.|[2502.06336v1](http://arxiv.org/abs/2502.06336v1)|null|
 |**2025-02-05**|**Mapping and Localization Using LiDAR Fiducial Markers**|Yibo Liu et.al.|[2502.03510v1](http://arxiv.org/abs/2502.03510v1)|null|
 |**2025-01-31**|**A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration**|Richard Cheng et.al.|[2502.00115v1](http://arxiv.org/abs/2502.00115v1)|null|
 |**2025-01-18**|**PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration**|Xiaoshui Huang et.al.|[2501.07762v2](http://arxiv.org/abs/2501.07762v2)|null|
@@ -1553,6 +1555,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787v1](http://arxiv.org/abs/2502.06787v1)|null|
+|**2025-02-10**|**Boosting Self-Efficacy and Performance of Large Language Models via Verbal Efficacy Stimulations**|Rui Chen et.al.|[2502.06669v1](http://arxiv.org/abs/2502.06669v1)|null|
+|**2025-02-10**|**MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**|Kamil Garifullin et.al.|[2502.06606v1](http://arxiv.org/abs/2502.06606v1)|null|
+|**2025-02-10**|**CustomVideoX: 3D Reference Attention Driven Dynamic Adaptation for Zero-Shot Customized Video Diffusion Transformers**|D. She et.al.|[2502.06527v1](http://arxiv.org/abs/2502.06527v1)|null|
+|**2025-02-10**|**Learning Clustering-based Prototypes for Compositional Zero-shot Learning**|Hongyu Qu et.al.|[2502.06501v1](http://arxiv.org/abs/2502.06501v1)|null|
+|**2025-02-10**|**Causal Lifting of Neural Representations: Zero-Shot Generalization for Causal Inferences**|Riccardo Cadei et.al.|[2502.06343v1](http://arxiv.org/abs/2502.06343v1)|null|
+|**2025-02-10**|**Zero-shot Depth Completion via Test-time Alignment with Affine-invariant Depth Prior**|Lee Hyoseok et.al.|[2502.06338v1](http://arxiv.org/abs/2502.06338v1)|null|
+|**2025-02-10**|**Find Central Dogma Again**|Wang Liang et.al.|[2502.06253v1](http://arxiv.org/abs/2502.06253v1)|null|
+|**2025-02-10**|**Scaling Public Health Text Annotation: Zero-Shot Learning vs. Crowdsourcing for Improved Efficiency and Labeling Accuracy**|Kamyar Kazari et.al.|[2502.06150v1](http://arxiv.org/abs/2502.06150v1)|null|
+|**2025-02-09**|**Training Language Models for Social Deduction with Multi-Agent Reinforcement Learning**|Bidipta Sarkar et.al.|[2502.06060v1](http://arxiv.org/abs/2502.06060v1)|**[link](https://github.com/SocialDeductionLLM/SocialDeductionLLM)**|
 |**2025-02-07**|**QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation**|Yue Zhao et.al.|[2502.05178v1](http://arxiv.org/abs/2502.05178v1)|null|
 |**2025-02-07**|**AuraFusion360: Augmented Unseen Region Alignment for Reference-based 360° Unbounded Scene Inpainting**|Chung-Ho Wu et.al.|[2502.05176v1](http://arxiv.org/abs/2502.05176v1)|null|
 |**2025-02-07**|**DCFormer: Efficient 3D Vision-Language Modeling with Decomposed Convolutions**|Gorkem Can Ates et.al.|[2502.05091v1](http://arxiv.org/abs/2502.05091v1)|null|

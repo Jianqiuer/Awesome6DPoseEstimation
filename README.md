@@ -381,7 +381,7 @@
 |**2024-08-24**|**Explainable Convolutional Networks for Crater Detection and Lunar Landing Navigation**|Jianing Song et.al.|[2408.13587v1](http://arxiv.org/abs/2408.13587v1)|null|
 |**2024-08-27**|**Sapiens: Foundation for Human Vision Models**|Rawal Khirodkar et.al.|[2408.12569v3](http://arxiv.org/abs/2408.12569v3)|null|
 |**2024-08-21**|**GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**|Wanshui Gan et.al.|[2408.11447v1](http://arxiv.org/abs/2408.11447v1)|**[link](https://github.com/ganwanshui/gaussianocc)**|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085v1](http://arxiv.org/abs/2408.11085v1)|**[link](https://github.com/XRIM-Lab/GS-CPR)**|
 |**2024-08-20**|**ZebraPose: Zebra Detection and Pose Estimation using only Synthetic Data**|Elia Bonetto et.al.|[2408.10831v1](http://arxiv.org/abs/2408.10831v1)|null|
 |**2024-08-20**|**MPL: Lifting 3D Human Pose from Multi-view 2D Poses**|Seyed Abolfazl Ghasemzadeh et.al.|[2408.10805v1](http://arxiv.org/abs/2408.10805v1)|**[link](https://github.com/aghasemzadeh/openmpl)**|
 |**2024-08-19**|**RUMI: Rummaging Using Mutual Information**|Sheng Zhong et.al.|[2408.10450v1](http://arxiv.org/abs/2408.10450v1)|null|
@@ -1587,7 +1587,7 @@
 |**2025-02-13**|**Tuning-Free Personalized Alignment via Trial-Error-Explain In-Context Learning**|Hyundong Cho et.al.|[2502.08972v1](http://arxiv.org/abs/2502.08972v1)|null|
 |**2025-02-12**|**MuJoCo Playground**|Kevin Zakka et.al.|[2502.08844v1](http://arxiv.org/abs/2502.08844v1)|null|
 |**2025-02-12**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645v1](http://arxiv.org/abs/2502.08645v1)|null|
-|**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v1](http://arxiv.org/abs/2502.08644v1)|null|
+|**2025-02-12**|**Rhythmic sharing: A bio-inspired paradigm for zero-shot adaptation and learning in neural networks**|Hoony Kang et.al.|[2502.08644v1](http://arxiv.org/abs/2502.08644v1)|**[link](https://github.com/kangh1/rhythmic_sharing)**|
 |**2025-02-12**|**From Haystack to Needle: Label Space Reduction for Zero-shot Classification**|Nathan Vandemoortele et.al.|[2502.08436v1](http://arxiv.org/abs/2502.08436v1)|null|
 |**2025-02-12**|**Salience-Invariant Consistent Policy Learning for Generalization in Visual Reinforcement Learning**|Sun Jingbo et.al.|[2502.08336v1](http://arxiv.org/abs/2502.08336v1)|null|
 |**2025-02-12**|**FixDrive: Automatically Repairing Autonomous Vehicle Driving Behaviour for $0.08 per Violation**|Yang Sun et.al.|[2502.08260v1](http://arxiv.org/abs/2502.08260v1)|null|
@@ -1602,7 +1602,7 @@
 |**2025-02-11**|**PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval**|Osman Tursun et.al.|[2502.07215v1](http://arxiv.org/abs/2502.07215v1)|null|
 |**2025-02-11**|**Perceived Confidence Scoring for Data Annotation with Zero-Shot LLMs**|Sina Salimian et.al.|[2502.07186v1](http://arxiv.org/abs/2502.07186v1)|null|
 |**2025-02-11**|**Don't Just Demo, Teach Me the Principles: A Principle-Based Multi-Agent Prompting Strategy for Text Classification**|Peipei Wei et.al.|[2502.07165v1](http://arxiv.org/abs/2502.07165v1)|null|
-|**2025-02-10**|**Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations**|Yong Cao et.al.|[2502.07068v1](http://arxiv.org/abs/2502.07068v1)|null|
+|**2025-02-10**|**Specializing Large Language Models to Simulate Survey Response Distributions for Global Populations**|Yong Cao et.al.|[2502.07068v1](http://arxiv.org/abs/2502.07068v1)|**[link](https://github.com/yongcaoplus/SimLLMCultureDist)**|
 |**2025-02-10**|**Visual Agentic AI for Spatial Reasoning with a Dynamic API**|Damiano Marsili et.al.|[2502.06787v1](http://arxiv.org/abs/2502.06787v1)|null|
 |**2025-02-10**|**Boosting Self-Efficacy and Performance of Large Language Models via Verbal Efficacy Stimulations**|Rui Chen et.al.|[2502.06669v1](http://arxiv.org/abs/2502.06669v1)|null|
 |**2025-02-10**|**MaterialFusion: High-Quality, Zero-Shot, and Controllable Material Transfer with Diffusion Models**|Kamil Garifullin et.al.|[2502.06606v1](http://arxiv.org/abs/2502.06606v1)|null|
@@ -1623,8 +1623,8 @@
 |**2025-02-07**|**Mechanistic Understandings of Representation Vulnerabilities and Engineering Robust Vision Transformers**|Chashi Mahiul Islam et.al.|[2502.04679v1](http://arxiv.org/abs/2502.04679v1)|null|
 |**2025-02-06**|**Zero-shot Meta-learning for Tabular Prediction Tasks with Adversarially Pre-trained Transformer**|Yulun Wu et.al.|[2502.04573v1](http://arxiv.org/abs/2502.04573v1)|null|
 |**2025-02-06**|**GenVC: Self-Supervised Zero-Shot Voice Conversion**|Zexin Cai et.al.|[2502.04519v1](http://arxiv.org/abs/2502.04519v1)|null|
-|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320v1](http://arxiv.org/abs/2502.04320v1)|null|
-|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263v1](http://arxiv.org/abs/2502.04263v1)|null|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320v1](http://arxiv.org/abs/2502.04320v1)|**[link](https://github.com/helblazer811/ConceptAttention)**|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263v1](http://arxiv.org/abs/2502.04263v1)|**[link](https://github.com/miccunifi/cross-the-gap)**|
 |**2025-02-06**|**LR0.FM: Low-Resolution Zero-shot Classification Benchmark For Foundation Models**|Priyank Pathak et.al.|[2502.03950v1](http://arxiv.org/abs/2502.03950v1)|**[link](https://github.com/shyammarjit/LR0.FM)**|
 |**2025-02-06**|**DiTAR: Diffusion Transformer Autoregressive Modeling for Speech Generation**|Dongya Jia et.al.|[2502.03930v1](http://arxiv.org/abs/2502.03930v1)|null|
 |**2025-02-06**|**It's All in The [MASK]: Simple Instruction-Tuning Enables BERT-like Masked Language Models As Generative Classifiers**|Benjamin Clavié et.al.|[2502.03793v1](http://arxiv.org/abs/2502.03793v1)|null|
@@ -1635,7 +1635,7 @@
 |**2025-02-05**|**CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting**|Zewen Liu et.al.|[2502.03393v1](http://arxiv.org/abs/2502.03393v1)|null|
 |**2025-02-05**|**ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models**|Ying Zhang et.al.|[2502.03266v1](http://arxiv.org/abs/2502.03266v1)|**[link](https://github.com/Yinmlmaoliang/zisvfm)**|
 |**2025-02-05**|**SimSort: A Powerful Framework for Spike Sorting by Large-Scale Electrophysiology Simulation**|Yimu Zhang et.al.|[2502.03198v1](http://arxiv.org/abs/2502.03198v1)|null|
-|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128v1](http://arxiv.org/abs/2502.03128v1)|null|
+|**2025-02-05**|**Metis: A Foundation Speech Generation Model with Masked Generative Pre-training**|Yuancheng Wang et.al.|[2502.03128v1](http://arxiv.org/abs/2502.03128v1)|**[link](https://github.com/open-mmlab/amphion)**|
 |**2025-02-05**|**IAO Prompting: Making Knowledge Flow Explicit in LLMs through Structured Reasoning Templates**|Aissatou Diallo et.al.|[2502.03080v1](http://arxiv.org/abs/2502.03080v1)|null|
 |**2025-02-05**|**Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech**|Jixun Yao et.al.|[2502.02950v1](http://arxiv.org/abs/2502.02950v1)|null|
 |**2025-02-04**|**RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2**|Bin Xie et.al.|[2502.02741v1](http://arxiv.org/abs/2502.02741v1)|null|
@@ -1663,7 +1663,7 @@
 |**2025-01-30**|**Learn from the Past: Language-conditioned Object Rearrangement with Large Language Models**|Guanqun Cao et.al.|[2501.18516v1](http://arxiv.org/abs/2501.18516v1)|null|
 |**2025-01-30**|**CALM: Unleashing the Cross-Lingual Self-Aligning Ability of Language Model Question Answering**|Yumeng Wang et.al.|[2501.18457v1](http://arxiv.org/abs/2501.18457v1)|null|
 |**2025-01-30**|**ReactEmbed: A Cross-Domain Framework for Protein-Molecule Representation Learning via Biochemical Reaction Networks**|Amitay Sicherman et.al.|[2501.18278v1](http://arxiv.org/abs/2501.18278v1)|**[link](https://github.com/amitaysicherman/reactembed)**|
-|**2025-01-30**|**Unraveling the Capabilities of Language Models in News Summarization**|Abdurrahman Odabaşı et.al.|[2501.18128v1](http://arxiv.org/abs/2501.18128v1)|null|
+|**2025-01-30**|**Unraveling the Capabilities of Language Models in News Summarization**|Abdurrahman Odabaşı et.al.|[2501.18128v1](http://arxiv.org/abs/2501.18128v1)|**[link](https://github.com/odabashi/LMs-in-News-Summarization)**|
 |**2025-01-30**|**LLMs can see and hear without any training**|Kumar Ashutosh et.al.|[2501.18096v1](http://arxiv.org/abs/2501.18096v1)|**[link](https://github.com/facebookresearch/mils)**|
 |**2025-01-29**|**Hybrid Graphs for Table-and-Text based Question Answering using LLMs**|Ankush Agarwal et.al.|[2501.17767v1](http://arxiv.org/abs/2501.17767v1)|null|
 |**2025-01-29**|**VoicePrompter: Robust Zero-Shot Voice Conversion with Voice Prompt and Conditional Flow Matching**|Ha-Yeong Choi et.al.|[2501.17612v1](http://arxiv.org/abs/2501.17612v1)|null|
@@ -2109,7 +2109,7 @@
 |**2024-11-11**|**Transformer verbatim in-context retrieval across time and scale**|Kristijan Armeni et.al.|[2411.07075v1](http://arxiv.org/abs/2411.07075v1)|**[link](https://github.com/kristijanarmeni/verbatim-memory-in-nlms)**|
 |**2024-11-11**|**MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps**|Xue Xia et.al.|[2411.06971v1](http://arxiv.org/abs/2411.06971v1)|**[link](https://github.com/xue-xia/mapsam)**|
 |**2024-11-11**|**Robust Fine-tuning of Zero-shot Models via Variance Reduction**|Beier Zhu et.al.|[2411.06966v1](http://arxiv.org/abs/2411.06966v1)|**[link](https://github.com/beierzhu/vrf)**|
-|**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921v1](http://arxiv.org/abs/2411.06921v1)|null|
+|**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921v1](http://arxiv.org/abs/2411.06921v1)|**[link](https://github.com/git-ljc/umfc)**|
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764v1](http://arxiv.org/abs/2411.06764v1)|null|
 |**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755v1](http://arxiv.org/abs/2411.05755v1)|**[link](https://github.com/Jirl-upenn/VLMnav)**|
 |**2024-11-08**|**Asterisk*: Keep it Simple**|Andrew Semenov et.al.|[2411.05691v1](http://arxiv.org/abs/2411.05691v1)|null|
@@ -2205,7 +2205,7 @@
 |**2024-10-24**|**SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment**|Caelan Garrett et.al.|[2410.18907v1](http://arxiv.org/abs/2410.18907v1)|null|
 |**2024-10-24**|**Probabilistic Language-Image Pre-Training**|Sanghyuk Chun et.al.|[2410.18857v1](http://arxiv.org/abs/2410.18857v1)|**[link](https://github.com/naver-ai/prolip)**|
 |**2024-10-24**|**Task Calibration: Calibrating Large Language Models on Inference Tasks**|Yingjie Li et.al.|[2410.18764v1](http://arxiv.org/abs/2410.18764v1)|null|
-|**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647v1](http://arxiv.org/abs/2410.18647v1)|null|
+|**2024-10-24**|**Data Scaling Laws in Imitation Learning for Robotic Manipulation**|Fanqi Lin et.al.|[2410.18647v1](http://arxiv.org/abs/2410.18647v1)|**[link](https://github.com/Fanqi-Lin/Data-Scaling-Laws)**|
 |**2024-10-24**|**Knowledge Distillation Using Frontier Open-source LLMs: Generalizability and the Role of Synthetic Data**|Anup Shirgaonkar et.al.|[2410.18588v1](http://arxiv.org/abs/2410.18588v1)|null|
 |**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|Congcong Wen et.al.|[2410.18570v1](http://arxiv.org/abs/2410.18570v1)|null|
 |**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|Jinghao Hu et.al.|[2410.18537v1](http://arxiv.org/abs/2410.18537v1)|null|
@@ -3341,7 +3341,7 @@
 |**2024-04-12**|**TDANet: Target-Directed Attention Network For Object-Goal Visual Navigation With Zero-Shot Ability**|Shiwei Lian et.al.|[2404.08353v1](http://arxiv.org/abs/2404.08353v1)|null|
 |**2024-04-12**|**Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation**|Sina Hajimiri et.al.|[2404.08181v1](http://arxiv.org/abs/2404.08181v1)|**[link](https://github.com/sinahmr/naclip)**|
 |**2024-04-11**|**Variance-reduced Zeroth-Order Methods for Fine-Tuning Language Models**|Tanmay Gautam et.al.|[2404.08080v1](http://arxiv.org/abs/2404.08080v1)|null|
-|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|null|
+|**2024-04-11**|**Connecting NeRFs, Images, and Text**|Francesco Ballerini et.al.|[2404.07993v1](http://arxiv.org/abs/2404.07993v1)|**[link](https://github.com/CVLAB-Unibo/clip2nerf)**|
 |**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983v1](http://arxiv.org/abs/2404.07983v1)|null|
 |**2024-04-11**|**Gaga: Group Any Gaussians via 3D-aware Memory Bank**|Weijie Lyu et.al.|[2404.07977v1](http://arxiv.org/abs/2404.07977v1)|null|
 |**2024-04-11**|**Automatic Generation and Evaluation of Reading Comprehension Test Items with Large Language Models**|Andreas Säuberli et.al.|[2404.07720v1](http://arxiv.org/abs/2404.07720v1)|null|

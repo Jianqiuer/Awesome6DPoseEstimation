@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**RGB-Only Gaussian Splatting SLAM for Unbounded Outdoor Scenes**|Sicheng Yu et.al.|[2502.15633v1](http://arxiv.org/abs/2502.15633v1)|null|
+|**2025-02-21**|**SiMHand: Mining Similar Hands for Large-Scale 3D Hand Pose Pre-training**|Nie Lin et.al.|[2502.15251v1](http://arxiv.org/abs/2502.15251v1)|null|
+|**2025-02-21**|**Nonlinear Dynamical Systems for Automatic Face Annotation in Head Tracking and Pose Estimation**|Thoa Thieu et.al.|[2502.15179v1](http://arxiv.org/abs/2502.15179v1)|null|
+|**2025-02-20**|**Design of a Visual Pose Estimation Algorithm for Moon Landing**|Atakan Süslü et.al.|[2502.14942v1](http://arxiv.org/abs/2502.14942v1)|null|
+|**2025-02-20**|**Hier-SLAM++: Neuro-Symbolic Semantic SLAM with a Hierarchically Categorical Gaussian Splatting**|Boying Li et.al.|[2502.14931v1](http://arxiv.org/abs/2502.14931v1)|null|
 |**2025-02-19**|**EfficientPose 6D: Scalable and Efficient 6D Object Pose Estimation**|Zixuan Fang et.al.|[2502.14061v1](http://arxiv.org/abs/2502.14061v1)|null|
 |**2025-02-19**|**Active Illumination for Visual Ego-Motion Estimation in the Dark**|Francesco Crocetti et.al.|[2502.13708v1](http://arxiv.org/abs/2502.13708v1)|null|
 |**2025-02-19**|**Object-Pose Estimation With Neural Population Codes**|Heiko Hoffmann et.al.|[2502.13403v1](http://arxiv.org/abs/2502.13403v1)|null|
@@ -1491,6 +1496,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v1](http://arxiv.org/abs/2502.15342v1)|null|
 |**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860v1](http://arxiv.org/abs/2502.12860v1)|null|
 |**2025-01-30**|**Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation**|Kevin Qiu et.al.|[2501.18246v1](http://arxiv.org/abs/2501.18246v1)|null|
 |**2025-01-29**|**3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model**|Maxime Mérizette et.al.|[2501.17534v1](http://arxiv.org/abs/2501.17534v1)|null|
@@ -1579,6 +1585,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682v1](http://arxiv.org/abs/2502.15682v1)|null|
+|**2025-02-21**|**One-step Diffusion Models with $f$ -Divergence Distribution Matching**|Yilun Xu et.al.|[2502.15681v1](http://arxiv.org/abs/2502.15681v1)|null|
+|**2025-02-21**|**Pick-and-place Manipulation Across Grippers Without Retraining: A Learning-optimization Diffusion Policy Approach**|Xiangtong Yao et.al.|[2502.15613v1](http://arxiv.org/abs/2502.15613v1)|null|
+|**2025-02-21**|**FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models**|Jiao Chen et.al.|[2502.15481v1](http://arxiv.org/abs/2502.15481v1)|null|
+|**2025-02-21**|**Multimodal Graph-Based Variational Mixture of Experts Network for Zero-Shot Multimodal Information Extraction**|Baohang Zhou et.al.|[2502.15290v1](http://arxiv.org/abs/2502.15290v1)|null|
+|**2025-02-21**|**From Documents to Dialogue: Building KG-RAG Enhanced AI Assistants**|Manisha Mukherjee et.al.|[2502.15237v1](http://arxiv.org/abs/2502.15237v1)|null|
+|**2025-02-21**|**GNN-Coder: Boosting Semantic Code Retrieval with Combined GNNs and Transformer**|Yufan Ye et.al.|[2502.15202v1](http://arxiv.org/abs/2502.15202v1)|null|
+|**2025-02-21**|**Extreme Speech Classification in the Era of LLMs: Exploring Open-Source and Proprietary Models**|Sarthak Mahajan et.al.|[2502.15155v1](http://arxiv.org/abs/2502.15155v1)|null|
+|**2025-02-20**|**A Meta-Evaluation of Style and Attribute Transfer Metrics**|Amalie Brogaard Pauli et.al.|[2502.15022v1](http://arxiv.org/abs/2502.15022v1)|null|
+|**2025-02-20**|**Using tournaments to calculate AUROC for zero-shot classification with LLMs**|Wonjin Yoon et.al.|[2502.15018v1](http://arxiv.org/abs/2502.15018v1)|null|
 |**2025-02-20**|**Learning from Reward-Free Offline Data: A Case for Planning with Latent Dynamics Models**|Vlad Sobal et.al.|[2502.14819v1](http://arxiv.org/abs/2502.14819v1)|null|
 |**2025-02-20**|**Dynamic Low-Rank Sparse Adaptation for Large Language Models**|Weizhong Huang et.al.|[2502.14816v1](http://arxiv.org/abs/2502.14816v1)|null|
 |**2025-02-20**|**RendBEV: Semantic Novel View Synthesis for Self-Supervised Bird's Eye View Segmentation**|Henrique Piñeiro Monteagudo et.al.|[2502.14792v1](http://arxiv.org/abs/2502.14792v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1595,7 +1595,7 @@ layout: default
 |**2025-02-24**|**Alpha-SQL: Zero-Shot Text-to-SQL using Monte Carlo Tree Search**|Boyan Li et.al.|[2502.17248v1](http://arxiv.org/abs/2502.17248v1)|null|
 |**2025-02-24**|**A Reinforcement Learning Approach to Non-prehensile Manipulation through Sliding**|Hamidreza Raei et.al.|[2502.17221v1](http://arxiv.org/abs/2502.17221v1)|null|
 |**2025-02-24**|**DUNIA: Pixel-Sized Embeddings via Cross-Modal Alignment for Earth Observation Applications**|Ibrahim Fayad et.al.|[2502.17066v1](http://arxiv.org/abs/2502.17066v1)|null|
-|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057v1](http://arxiv.org/abs/2502.17057v1)|null|
+|**2025-02-24**|**LLM-QE: Improving Query Expansion by Aligning Large Language Models with Ranking Preferences**|Sijia Yao et.al.|[2502.17057v1](http://arxiv.org/abs/2502.17057v1)|**[link](https://github.com/neuir/llm-qe)**|
 |**2025-02-24**|**MA2RL: Masked Autoencoders for Generalizable Multi-Agent Reinforcement Learning**|Jinyuan Feng et.al.|[2502.17046v1](http://arxiv.org/abs/2502.17046v1)|null|
 |**2025-02-24**|**Reasoning Does Not Necessarily Improve Role-Playing Ability**|Xiachong Feng et.al.|[2502.16940v1](http://arxiv.org/abs/2502.16940v1)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682v1](http://arxiv.org/abs/2502.15682v1)|null|

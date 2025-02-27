@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1596,7 +1596,7 @@ layout: default
 |**2025-02-25**|**Task-Agnostic Semantic Communication with Multimodal Foundation Models**|Jiangjing Hu et.al.|[2502.18200v1](http://arxiv.org/abs/2502.18200v1)|null|
 |**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176v1](http://arxiv.org/abs/2502.18176v1)|null|
 |**2025-02-25**|**Progressive Local Alignment for Medical Multimodal Pre-training**|Huimin Yan et.al.|[2502.18047v1](http://arxiv.org/abs/2502.18047v1)|null|
-|**2025-02-25**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015v1](http://arxiv.org/abs/2502.18015v1)|null|
+|**2025-02-26**|**From planning to policy: distilling $\texttt{Skill-RRT}$ for long-horizon prehensile and non-prehensile manipulation**|Haewon Jung et.al.|[2502.18015v2](http://arxiv.org/abs/2502.18015v2)|null|
 |**2025-02-25**|**Knowledge-enhanced Multimodal ECG Representation Learning with Arbitrary-Lead Inputs**|Che Liu et.al.|[2502.17900v1](http://arxiv.org/abs/2502.17900v1)|null|
 |**2025-02-25**|**FetchBot: Object Fetching in Cluttered Shelves via Zero-Shot Sim2Real**|Weiheng Liu et.al.|[2502.17894v1](http://arxiv.org/abs/2502.17894v1)|null|
 |**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860v1](http://arxiv.org/abs/2502.17860v1)|null|

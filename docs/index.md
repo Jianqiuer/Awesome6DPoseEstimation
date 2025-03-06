@@ -7,6 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Active 6D Pose Estimation for Textureless Objects using Multi-View RGB Frames**|Jun Yang et.al.|[2503.03726v1](http://arxiv.org/abs/2503.03726v1)|null|
+|**2025-03-05**|**Machine Learning in Biomechanics: Key Applications and Limitations in Walking, Running, and Sports Movements**|Carlo Dindorf et.al.|[2503.03717v1](http://arxiv.org/abs/2503.03717v1)|null|
+|**2025-03-05**|**Improving 6D Object Pose Estimation of metallic Household and Industry Objects**|Thomas Pöllabauer et.al.|[2503.03655v1](http://arxiv.org/abs/2503.03655v1)|null|
+|**2025-03-05**|**Tiny Lidars for Manipulator Self-Awareness: Sensor Characterization and Initial Localization Experiments**|Giammarco Caroleo et.al.|[2503.03449v1](http://arxiv.org/abs/2503.03449v1)|null|
+|**2025-03-05**|**Direct Sparse Odometry with Continuous 3D Gaussian Maps for Indoor Environments**|Jie Deng et.al.|[2503.03373v1](http://arxiv.org/abs/2503.03373v1)|null|
+|**2025-03-05**|**Supervised Visual Docking Network for Unmanned Surface Vehicles Using Auto-labeling in Real-world Water Environments**|Yijie Chu et.al.|[2503.03282v1](http://arxiv.org/abs/2503.03282v1)|null|
+|**2025-03-05**|**SCORE: Saturated Consensus Relocalization in Semantic Line Maps**|Haodong Jiang et.al.|[2503.03254v1](http://arxiv.org/abs/2503.03254v1)|null|
+|**2025-03-04**|**Monocular Person Localization under Camera Ego-motion**|Yu Zhan et.al.|[2503.02916v1](http://arxiv.org/abs/2503.02916v1)|null|
 |**2025-03-04**|**PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers**|Wooju Lee et.al.|[2503.02388v1](http://arxiv.org/abs/2503.02388v1)|null|
 |**2025-03-04**|**DQO-MAP: Dual Quadrics Multi-Object mapping with Gaussian Splatting**|Haoyuan Li et.al.|[2503.02223v1](http://arxiv.org/abs/2503.02223v1)|null|
 |**2025-03-04**|**Zero-Shot Sim-to-Real Visual Quadrotor Control with Hard Constraints**|Yan Miao et.al.|[2503.02198v1](http://arxiv.org/abs/2503.02198v1)|null|
@@ -1523,6 +1531,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Label-Efficient LiDAR Semantic Segmentation with 2D-3D Vision Transformer Adapters**|Julia Hindel et.al.|[2503.03299v1](http://arxiv.org/abs/2503.03299v1)|null|
 |**2025-03-01**|**Explainable LiDAR 3D Point Cloud Segmentation and Clustering for Detecting Airplane-Generated Wind Turbulence**|Zhan Qu et.al.|[2503.00518v1](http://arxiv.org/abs/2503.00518v1)|null|
 |**2025-02-26**|**PFSD: A Multi-Modal Pedestrian-Focus Scene Dataset for Rich Tasks in Semi-Structured Environments**|Yueting Liu et.al.|[2502.15342v3](http://arxiv.org/abs/2502.15342v3)|**[link](https://github.com/VSlabRobotics/PFSD)**|
 |**2025-02-18**|**An Experimental Study of SOTA LiDAR Segmentation Models**|Bike Chen et.al.|[2502.12860v1](http://arxiv.org/abs/2502.12860v1)|null|
@@ -1613,6 +1622,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
+|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613v1](http://arxiv.org/abs/2503.03613v1)|null|
+|**2025-03-05**|**Scaling Crowdsourced Election Monitoring: Construction and Evaluation of Classification Models for Multilingual and Cross-Domain Classification Settings**|Jabez Magomere et.al.|[2503.03582v1](http://arxiv.org/abs/2503.03582v1)|null|
+|**2025-03-05**|**iNews: A Multimodal Dataset for Modeling Personalized Affective Responses to News**|Tiancheng Hu et.al.|[2503.03335v1](http://arxiv.org/abs/2503.03335v1)|null|
+|**2025-03-04**|**ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation**|Yufei Wang et.al.|[2503.03045v1](http://arxiv.org/abs/2503.03045v1)|null|
+|**2025-03-04**|**Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders Vs. Classic Encoders**|Souvika Sarkar et.al.|[2503.02993v1](http://arxiv.org/abs/2503.02993v1)|null|
+|**2025-03-04**|**RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks**|Yimin Tang et.al.|[2503.02992v1](http://arxiv.org/abs/2503.02992v1)|null|
 |**2025-03-04**|**Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training**|Paul Janson et.al.|[2503.02844v1](http://arxiv.org/abs/2503.02844v1)|null|
 |**2025-03-04**|**SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting**|Ting-Ji Huang et.al.|[2503.02836v1](http://arxiv.org/abs/2503.02836v1)|**[link](https://github.com/Tingji2419/SeqFusion)**|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748v1](http://arxiv.org/abs/2503.02748v1)|null|

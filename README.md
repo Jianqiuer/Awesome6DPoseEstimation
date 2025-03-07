@@ -1,4 +1,4 @@
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1330,7 +1330,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250307>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1535,7 +1535,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250307>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1628,20 +1628,20 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250307>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
-|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613v1](http://arxiv.org/abs/2503.03613v1)|null|
+|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613v1](http://arxiv.org/abs/2503.03613v1)|**[link](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)**|
 |**2025-03-05**|**Scaling Crowdsourced Election Monitoring: Construction and Evaluation of Classification Models for Multilingual and Cross-Domain Classification Settings**|Jabez Magomere et.al.|[2503.03582v1](http://arxiv.org/abs/2503.03582v1)|null|
 |**2025-03-05**|**iNews: A Multimodal Dataset for Modeling Personalized Affective Responses to News**|Tiancheng Hu et.al.|[2503.03335v1](http://arxiv.org/abs/2503.03335v1)|null|
 |**2025-03-04**|**ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation**|Yufei Wang et.al.|[2503.03045v1](http://arxiv.org/abs/2503.03045v1)|null|
 |**2025-03-04**|**Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders Vs. Classic Encoders**|Souvika Sarkar et.al.|[2503.02993v1](http://arxiv.org/abs/2503.02993v1)|null|
 |**2025-03-04**|**RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks**|Yimin Tang et.al.|[2503.02992v1](http://arxiv.org/abs/2503.02992v1)|null|
-|**2025-03-04**|**Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training**|Paul Janson et.al.|[2503.02844v1](http://arxiv.org/abs/2503.02844v1)|null|
+|**2025-03-06**|**Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training**|Vaibhav Singh et.al.|[2503.02844v2](http://arxiv.org/abs/2503.02844v2)|null|
 |**2025-03-04**|**SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting**|Ting-Ji Huang et.al.|[2503.02836v1](http://arxiv.org/abs/2503.02836v1)|**[link](https://github.com/Tingji2419/SeqFusion)**|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748v1](http://arxiv.org/abs/2503.02748v1)|null|
 |**2025-03-04**|**Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**|Keti Korini et.al.|[2503.02718v1](http://arxiv.org/abs/2503.02718v1)|null|
@@ -5116,5 +5116,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250307>back to top</a>)</p>
 

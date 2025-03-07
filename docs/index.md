@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1623,13 +1623,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
-|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613v1](http://arxiv.org/abs/2503.03613v1)|null|
+|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613v1](http://arxiv.org/abs/2503.03613v1)|**[link](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)**|
 |**2025-03-05**|**Scaling Crowdsourced Election Monitoring: Construction and Evaluation of Classification Models for Multilingual and Cross-Domain Classification Settings**|Jabez Magomere et.al.|[2503.03582v1](http://arxiv.org/abs/2503.03582v1)|null|
 |**2025-03-05**|**iNews: A Multimodal Dataset for Modeling Personalized Affective Responses to News**|Tiancheng Hu et.al.|[2503.03335v1](http://arxiv.org/abs/2503.03335v1)|null|
 |**2025-03-04**|**ArticuBot: Learning Universal Articulated Object Manipulation Policy via Large Scale Simulation**|Yufei Wang et.al.|[2503.03045v1](http://arxiv.org/abs/2503.03045v1)|null|
 |**2025-03-04**|**Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders Vs. Classic Encoders**|Souvika Sarkar et.al.|[2503.02993v1](http://arxiv.org/abs/2503.02993v1)|null|
 |**2025-03-04**|**RAILGUN: A Unified Convolutional Policy for Multi-Agent Path Finding Across Different Environments and Tasks**|Yimin Tang et.al.|[2503.02992v1](http://arxiv.org/abs/2503.02992v1)|null|
-|**2025-03-04**|**Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training**|Paul Janson et.al.|[2503.02844v1](http://arxiv.org/abs/2503.02844v1)|null|
+|**2025-03-06**|**Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training**|Vaibhav Singh et.al.|[2503.02844v2](http://arxiv.org/abs/2503.02844v2)|null|
 |**2025-03-04**|**SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting**|Ting-Ji Huang et.al.|[2503.02836v1](http://arxiv.org/abs/2503.02836v1)|**[link](https://github.com/Tingji2419/SeqFusion)**|
 |**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748v1](http://arxiv.org/abs/2503.02748v1)|null|
 |**2025-03-04**|**Evaluating Knowledge Generation and Self-Refinement Strategies for LLM-based Column Type Annotation**|Keti Korini et.al.|[2503.02718v1](http://arxiv.org/abs/2503.02718v1)|null|

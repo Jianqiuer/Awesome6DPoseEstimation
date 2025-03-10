@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.09
+## Updated on 2025.03.10
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1329,7 +1329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-06**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127v1](http://arxiv.org/abs/2503.04127v1)|null|
+|**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127v2](http://arxiv.org/abs/2503.04127v2)|null|
 |**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195v1](http://arxiv.org/abs/2503.02195v1)|null|
 |**2025-03-02**|**Semantic-ICP: Iterative Closest Point for Non-rigid Multi-Organ Point Cloud Registration**|Wanwen Chen et.al.|[2503.00972v1](http://arxiv.org/abs/2503.00972v1)|null|
 |**2025-02-26**|**BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure**|Haoxin Cai et.al.|[2502.19242v1](http://arxiv.org/abs/2502.19242v1)|**[link](https://github.com/hxca1/bev-lio-lc)**|

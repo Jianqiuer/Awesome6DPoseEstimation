@@ -82,7 +82,7 @@
 |**2025-02-03**|**ZeroBP: Learning Position-Aware Correspondence for Zero-shot 6D Pose Estimation in Bin-Picking**|Jianqiu Chen et.al.|[2502.01004v1](http://arxiv.org/abs/2502.01004v1)|null|
 |**2025-01-31**|**A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration**|Richard Cheng et.al.|[2502.00115v1](http://arxiv.org/abs/2502.00115v1)|null|
 |**2025-01-31**|**XRF V2: A Dataset for Action Summarization with Wi-Fi Signals, and IMUs in Phones, Watches, Earbuds, and Glasses**|Bo Lan et.al.|[2501.19034v1](http://arxiv.org/abs/2501.19034v1)|**[link](https://github.com/aiotgroup/xrfv2)**|
-|**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478v1](http://arxiv.org/abs/2501.18478v1)|null|
+|**2025-01-30**|**SimpleDepthPose: Fast and Reliable Human Pose Estimation with RGBD-Images**|Daniel Bermuth et.al.|[2501.18478v1](http://arxiv.org/abs/2501.18478v1)|**[link](https://gitlab.com/Percipiote/SimpleDepthPose)**|
 |**2025-01-29**|**Online Trajectory Replanner for Dynamically Grasping Irregular Objects**|Minh Nhat Vu et.al.|[2501.17968v1](http://arxiv.org/abs/2501.17968v1)|null|
 |**2025-01-28**|**DebugAgent: Efficient and Interpretable Error Slice Discovery for Comprehensive Model Debugging**|Muxi Chen et.al.|[2501.16751v1](http://arxiv.org/abs/2501.16751v1)|null|
 |**2025-01-27**|**Toward Efficient Generalization in 3D Human Pose Estimation via a Canonical Domain Approach**|Hoosang Lee et.al.|[2501.16146v1](http://arxiv.org/abs/2501.16146v1)|null|
@@ -325,7 +325,7 @@
 |**2024-10-04**|**Dessie: Disentanglement for Articulated 3D Horse Shape and Pose Estimation from Images**|Ci Li et.al.|[2410.03438v1](http://arxiv.org/abs/2410.03438v1)|null|
 |**2024-10-04**|**HRVMamba: High-Resolution Visual State Space Model for Dense Prediction**|Hao Zhang et.al.|[2410.03174v1](http://arxiv.org/abs/2410.03174v1)|null|
 |**2024-10-04**|**CLIP-Clique: Graph-based Correspondence Matching Augmented by Vision Language Models for Object-based Global Localization**|Shigemichi Matsuzaki et.al.|[2410.03054v1](http://arxiv.org/abs/2410.03054v1)|null|
-|**2024-10-03**|**Why Sample Space Matters: Keyframe Sampling Optimization for LiDAR-based Place Recognition**|Nikolaos Stathoulopoulos et.al.|[2410.02643v1](http://arxiv.org/abs/2410.02643v1)|null|
+|**2024-10-03**|**Why Sample Space Matters: Keyframe Sampling Optimization for LiDAR-based Place Recognition**|Nikolaos Stathoulopoulos et.al.|[2410.02643v1](http://arxiv.org/abs/2410.02643v1)|**[link](https://github.com/ltu-rai/opt-key)**|
 |**2024-10-03**|**Key-Grid: Unsupervised 3D Keypoints Detection using Grid Heatmap Features**|Chengkai Hou et.al.|[2410.02237v1](http://arxiv.org/abs/2410.02237v1)|null|
 |**2024-10-02**|**SGBA: Semantic Gaussian Mixture Model-Based LiDAR Bundle Adjustment**|Xingyu Ji et.al.|[2410.01618v1](http://arxiv.org/abs/2410.01618v1)|null|
 |**2024-10-02**|**SurgeoNet: Realtime 3D Pose Estimation of Articulated Surgical Instruments from Stereo Images using a Synthetically-trained Network**|Ahmed Tawfik Aboukhadra et.al.|[2410.01293v1](http://arxiv.org/abs/2410.01293v1)|null|
@@ -745,7 +745,7 @@
 |**2024-03-22**|**Augmented Reality Warnings in Roadway Work Zones: Evaluating the Effect of Modality on Worker Reaction Times**|Sepehr Sabeti et.al.|[2403.15571v1](http://arxiv.org/abs/2403.15571v1)|null|
 |**2024-03-22**|**Gesture-Controlled Aerial Robot Formation for Human-Swarm Interaction in Safety Monitoring Applications**|Vít Krátký et.al.|[2403.15333v1](http://arxiv.org/abs/2403.15333v1)|null|
 |**2024-03-22**|**WSCLoc: Weakly-Supervised Sparse-View Camera Relocalization**|Jialu Wang et.al.|[2403.15272v1](http://arxiv.org/abs/2403.15272v1)|null|
-|**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203v1](http://arxiv.org/abs/2403.15203v1)|null|
+|**2024-03-22**|**DITTO: Demonstration Imitation by Trajectory Transformation**|Nick Heppert et.al.|[2403.15203v1](http://arxiv.org/abs/2403.15203v1)|**[link](https://github.com/robot-learning-freiburg/DITTO)**|
 |**2024-03-22**|**Cartoon Hallucinations Detection: Pose-aware In Context Visual Learning**|Bumsoo Kim et.al.|[2403.15048v1](http://arxiv.org/abs/2403.15048v1)|null|
 |**2024-03-22**|**Trajectory Regularization Enhances Self-Supervised Geometric Representation**|Jiayun Wang et.al.|[2403.14973v1](http://arxiv.org/abs/2403.14973v1)|**[link](https://github.com/samaonline/Trajectory-Regularization-Enhances-Self-Supervised-Geometric-Representation)**|
 |**2024-03-21**|**VURF: A General-purpose Reasoning and Self-refinement Framework for Video Understanding**|Ahmad Mahmood et.al.|[2403.14743v1](http://arxiv.org/abs/2403.14743v1)|**[link](https://github.com/ahmad-573/vurf)**|
@@ -1676,9 +1676,9 @@
 |**2025-02-27**|**InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions**|Sirui Xu et.al.|[2502.20390v1](http://arxiv.org/abs/2502.20390v1)|null|
 |**2025-02-27**|**Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization**|Lujie Yang et.al.|[2502.20382v1](http://arxiv.org/abs/2502.20382v1)|null|
 |**2025-02-27**|**Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners**|Daniele Paliotta et.al.|[2502.20339v1](http://arxiv.org/abs/2502.20339v1)|null|
-|**2025-02-27**|**UniTok: A Unified Tokenizer for Visual Generation and Understanding**|Chuofan Ma et.al.|[2502.20321v1](http://arxiv.org/abs/2502.20321v1)|null|
-|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313v1](http://arxiv.org/abs/2502.20313v1)|null|
-|**2025-02-27**|**Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription**|Benjamin Gutteridge et.al.|[2502.20295v1](http://arxiv.org/abs/2502.20295v1)|null|
+|**2025-02-27**|**UniTok: A Unified Tokenizer for Visual Generation and Understanding**|Chuofan Ma et.al.|[2502.20321v1](http://arxiv.org/abs/2502.20321v1)|**[link](https://github.com/foundationvision/unitok)**|
+|**2025-02-27**|**FlexVAR: Flexible Visual Autoregressive Modeling without Residual Prediction**|Siyu Jiao et.al.|[2502.20313v1](http://arxiv.org/abs/2502.20313v1)|**[link](https://github.com/jiaosiyu1999/FlexVAR)**|
+|**2025-02-27**|**Judge a Book by its Cover: Investigating Multi-Modal LLMs for Multi-Page Handwritten Document Transcription**|Benjamin Gutteridge et.al.|[2502.20295v1](http://arxiv.org/abs/2502.20295v1)|**[link](https://github.com/BenGutteridge/judge-a-book)**|
 |**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292v1](http://arxiv.org/abs/2502.20292v1)|null|
 |**2025-02-27**|**An Extensive Evaluation of PDDL Capabilities in off-the-shelf LLMs**|Kaustubh Vyas et.al.|[2502.20175v1](http://arxiv.org/abs/2502.20175v1)|null|
 |**2025-02-27**|**Show and Tell: Visually Explainable Deep Neural Nets via Spatially-Aware Concept Bottleneck Models**|Itay Benou et.al.|[2502.20134v1](http://arxiv.org/abs/2502.20134v1)|null|
@@ -1902,7 +1902,7 @@
 |**2025-01-23**|**Training-Free Consistency Pipeline for Fashion Repose**|Potito Aghilar et.al.|[2501.13692v1](http://arxiv.org/abs/2501.13692v1)|null|
 |**2025-01-23**|**Text-driven Online Action Detection**|Manuel Benavent-Lledo et.al.|[2501.13518v1](http://arxiv.org/abs/2501.13518v1)|**[link](https://github.com/3dperceptionlab/toad)**|
 |**2025-01-23**|**Zero-Shot Trajectory Planning for Signal Temporal Logic Tasks**|Ruijia Liu et.al.|[2501.13457v1](http://arxiv.org/abs/2501.13457v1)|null|
-|**2025-01-23**|**Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility**|Gabrielle Hoyer et.al.|[2501.13376v1](http://arxiv.org/abs/2501.13376v1)|null|
+|**2025-01-23**|**Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility**|Gabrielle Hoyer et.al.|[2501.13376v1](http://arxiv.org/abs/2501.13376v1)|**[link](https://github.com/gabbiehoyer/automedlabel)**|
 |**2025-01-23**|**Generative Data Augmentation Challenge: Zero-Shot Speech Synthesis for Personalized Speech Enhancement**|Jae-Sung Bae et.al.|[2501.13372v1](http://arxiv.org/abs/2501.13372v1)|null|
 |**2025-01-22**|**State Combinatorial Generalization In Decision Making With Conditional Diffusion Models**|Xintong Duan et.al.|[2501.13241v1](http://arxiv.org/abs/2501.13241v1)|null|
 |**2025-01-22**|**Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation**|Akshay Krishnan et.al.|[2501.13087v1](http://arxiv.org/abs/2501.13087v1)|null|
@@ -2516,7 +2516,7 @@
 |**2024-10-09**|**DCP: Learning Accelerator Dataflow for Neural Network via Propagation**|Peng Xu et.al.|[2410.06553v1](http://arxiv.org/abs/2410.06553v1)|null|
 |**2024-10-07**|**Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality**|Youngtaek Oh et.al.|[2410.05210v1](http://arxiv.org/abs/2410.05210v1)|**[link](https://github.com/ytaek-oh/fsc-clip)**|
 |**2024-10-07**|**ZEBRA: Zero-Shot Example-Based Retrieval Augmentation for Commonsense Question Answering**|Francesco Maria Molfese et.al.|[2410.05077v1](http://arxiv.org/abs/2410.05077v1)|**[link](https://github.com/sapienzanlp/zebra)**|
-|**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844v1](http://arxiv.org/abs/2410.04844v1)|null|
+|**2024-10-07**|**PostEdit: Posterior Sampling for Efficient Zero-Shot Image Editing**|Feng Tian et.al.|[2410.04844v1](http://arxiv.org/abs/2410.04844v1)|**[link](https://github.com/TFNTF/PostEdit)**|
 |**2024-10-07**|**LPZero: Language Model Zero-cost Proxy Search from Zero**|Peijie Dong et.al.|[2410.04808v1](http://arxiv.org/abs/2410.04808v1)|null|
 |**2024-10-07**|**Building Damage Assessment in Conflict Zones: A Deep Learning Approach Using Geospatial Sub-Meter Resolution Data**|Matteo Risso et.al.|[2410.04802v1](http://arxiv.org/abs/2410.04802v1)|null|
 |**2024-10-07**|**Improving Image Clustering with Artifacts Attenuation via Inference-Time Attention Engineering**|Kazumoto Nakamura et.al.|[2410.04801v1](http://arxiv.org/abs/2410.04801v1)|null|

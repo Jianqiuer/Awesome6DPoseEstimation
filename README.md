@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673v1](http://arxiv.org/abs/2503.08673v1)|null|
+|**2025-03-11**|**SGNetPose+: Stepwise Goal-Driven Networks with Pose Information for Trajectory Prediction in Autonomous Driving**|Akshat Ghiya et.al.|[2503.08016v1](http://arxiv.org/abs/2503.08016v1)|null|
+|**2025-03-10**|**Better Pose Initialization for Fast and Robust 2D/3D Pelvis Registration**|Yehyun Suh et.al.|[2503.07767v1](http://arxiv.org/abs/2503.07767v1)|null|
+|**2025-03-10**|**HumanMM: Global Human Motion Recovery from Multi-shot Videos**|Yuhong Zhang et.al.|[2503.07597v1](http://arxiv.org/abs/2503.07597v1)|null|
 |**2025-03-11**|**AthletePose3D: A Benchmark Dataset for 3D Human Pose Estimation and Kinematic Validation in Athletic Movements**|Calvin Yeung et.al.|[2503.07499v2](http://arxiv.org/abs/2503.07499v2)|null|
 |**2025-03-10**|**Multi-Robot System for Cooperative Exploration in Unknown Environments: A Survey**|Chuqi Wang et.al.|[2503.07278v1](http://arxiv.org/abs/2503.07278v1)|null|
 |**2025-03-10**|**Endo-FASt3r: Endoscopic Foundation model Adaptation for Structure from motion**|Mona Sheikh Zeinoddin et.al.|[2503.07204v1](http://arxiv.org/abs/2503.07204v1)|null|
@@ -1353,6 +1357,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|null|
+|**2025-03-10**|**SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration**|Michael Adlerstein et.al.|[2503.07743v1](http://arxiv.org/abs/2503.07743v1)|null|
 |**2025-03-10**|**HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions**|Keyu Du et.al.|[2503.07019v1](http://arxiv.org/abs/2503.07019v1)|null|
 |**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127v2](http://arxiv.org/abs/2503.04127v2)|null|
 |**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195v1](http://arxiv.org/abs/2503.02195v1)|null|
@@ -1654,6 +1660,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Exploring the Word Sense Disambiguation Capabilities of Large Language Models**|Pierpaolo Basile et.al.|[2503.08662v1](http://arxiv.org/abs/2503.08662v1)|null|
+|**2025-03-11**|**CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer**|Rüveyda Yilmaz et.al.|[2503.08603v1](http://arxiv.org/abs/2503.08603v1)|null|
+|**2025-03-11**|**NSF-SciFy: Mining the NSF Awards Database for Scientific Claims**|Delip Rao et.al.|[2503.08600v1](http://arxiv.org/abs/2503.08600v1)|null|
+|**2025-03-11**|**MMRL: Multi-Modal Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2503.08497v1](http://arxiv.org/abs/2503.08497v1)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-03-11**|**Controlling Latent Diffusion Using Latent CLIP**|Jason Becker et.al.|[2503.08455v1](http://arxiv.org/abs/2503.08455v1)|null|
+|**2025-03-11**|**Embodied Crowd Counting**|Runling Long et.al.|[2503.08367v1](http://arxiv.org/abs/2503.08367v1)|null|
+|**2025-03-11**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306v1](http://arxiv.org/abs/2503.08306v1)|null|
+|**2025-03-11**|**Large Language Model as Meta-Surrogate for Data-Driven Many-Task Optimization: A Proof-of-Principle Study**|Xian-Rong Zhang et.al.|[2503.08301v1](http://arxiv.org/abs/2503.08301v1)|null|
+|**2025-03-11**|**Investigating the Effectiveness of a Socratic Chain-of-Thoughts Reasoning Method for Task Planning in Robotics, A Case Study**|Veronica Bot et.al.|[2503.08174v1](http://arxiv.org/abs/2503.08174v1)|null|
+|**2025-03-11**|**Accelerate 3D Object Detection Models via Zero-Shot Attention Key Pruning**|Lizhen Xu et.al.|[2503.08101v1](http://arxiv.org/abs/2503.08101v1)|**[link](https://github.com/iseri27/tg_gbc)**|
 |**2025-03-10**|**PE3R: Perception-Efficient 3D Reconstruction**|Jie Hu et.al.|[2503.07507v1](http://arxiv.org/abs/2503.07507v1)|null|
 |**2025-03-10**|**Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts**|Shiu-hong Kao et.al.|[2503.07503v1](http://arxiv.org/abs/2503.07503v1)|null|
 |**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487v1](http://arxiv.org/abs/2503.07487v1)|null|

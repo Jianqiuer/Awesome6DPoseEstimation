@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1658,7 +1658,7 @@ layout: default
 |**2025-03-12**|**Efficient Alignment of Unconditioned Action Prior for Language-conditioned Pick and Place in Clutter**|Kechun Xu et.al.|[2503.09423v1](http://arxiv.org/abs/2503.09423v1)|null|
 |**2025-03-12**|**NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model**|Yuzhi Lai et.al.|[2503.09335v1](http://arxiv.org/abs/2503.09335v1)|null|
 |**2025-03-12**|**Bayesian Test-Time Adaptation for Vision-Language Models**|Lihua Zhou et.al.|[2503.09248v1](http://arxiv.org/abs/2503.09248v1)|null|
-|**2025-03-12**|**FaVChat: Unlocking Fine-Grained Facail Video Understanding with Multimodal Large Language Models**|Fufangchen Zhao et.al.|[2503.09158v1](http://arxiv.org/abs/2503.09158v1)|null|
+|**2025-03-13**|**FaVChat: Unlocking Fine-Grained Facial Video Understanding with Multimodal Large Language Models**|Fufangchen Zhao et.al.|[2503.09158v2](http://arxiv.org/abs/2503.09158v2)|null|
 |**2025-03-12**|**InteractEdit: Zero-Shot Editing of Human-Object Interactions in Images**|Jiun Tian Hoe et.al.|[2503.09130v1](http://arxiv.org/abs/2503.09130v1)|null|
 |**2025-03-12**|**Word2winners at SemEval-2025 Task 7: Multilingual and Crosslingual Fact-Checked Claim Retrieval**|Amirmohammad Azadi et.al.|[2503.09011v1](http://arxiv.org/abs/2503.09011v1)|null|
 |**2025-03-12**|**Unified Locomotion Transformer with Simultaneous Sim-to-Real Transfer for Quadrupeds**|Dikai Liu et.al.|[2503.08997v1](http://arxiv.org/abs/2503.08997v1)|null|

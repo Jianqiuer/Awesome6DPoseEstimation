@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1358,9 +1358,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**Unlocking Generalization Power in LiDAR Point Cloud Registration**|Zhenxuan Zeng et.al.|[2503.10149v1](http://arxiv.org/abs/2503.10149v1)|null|
+|**2025-03-13**|**Unlocking Generalization Power in LiDAR Point Cloud Registration**|Zhenxuan Zeng et.al.|[2503.10149v1](http://arxiv.org/abs/2503.10149v1)|**[link](https://github.com/peakpang/ugp)**|
 |**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|**[link](https://github.com/mit-spark/buffer-x)**|
-|**2025-03-10**|**SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration**|Michael Adlerstein et.al.|[2503.07743v1](http://arxiv.org/abs/2503.07743v1)|null|
+|**2025-03-10**|**SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration**|Michael Adlerstein et.al.|[2503.07743v1](http://arxiv.org/abs/2503.07743v1)|**[link](https://github.com/iit-DLSLab/SANDRO)**|
 |**2025-03-10**|**HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions**|Keyu Du et.al.|[2503.07019v1](http://arxiv.org/abs/2503.07019v1)|**[link](https://github.com/hxwork/HybridReg_PyTorch)**|
 |**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127v2](http://arxiv.org/abs/2503.04127v2)|null|
 |**2025-03-04**|**HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration**|Xiyu Zhang et.al.|[2503.02195v1](http://arxiv.org/abs/2503.02195v1)|null|

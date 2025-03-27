@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**DINeMo: Learning Neural Mesh Models with no 3D Annotations**|Weijie Guo et.al.|[2503.20220v1](http://arxiv.org/abs/2503.20220v1)|null|
+|**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118v1](http://arxiv.org/abs/2503.20118v1)|null|
+|**2025-03-25**|**Vanishing Depth: A Depth Adapter with Positional Depth Encoding for Generalized Image Encoders**|Paul Koch et.al.|[2503.19947v1](http://arxiv.org/abs/2503.19947v1)|null|
 |**2025-03-25**|**Visuo-Tactile Object Pose Estimation for a Multi-Finger Robot Hand with Low-Resolution In-Hand Tactile Sensing**|Lukas Mack et.al.|[2503.19893v1](http://arxiv.org/abs/2503.19893v1)|null|
 |**2025-03-25**|**Semi-SD: Semi-Supervised Metric Depth Estimation via Surrounding Cameras for Autonomous Driving**|Yusen Xie et.al.|[2503.19713v1](http://arxiv.org/abs/2503.19713v1)|null|
 |**2025-03-25**|**DynOPETs: A Versatile Benchmark for Dynamic Object Pose Estimation and Tracking in Moving Camera Scenarios**|Xiangting Meng et.al.|[2503.19625v1](http://arxiv.org/abs/2503.19625v1)|null|
@@ -1703,6 +1706,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782v1](http://arxiv.org/abs/2503.20782v1)|null|
+|**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499v1](http://arxiv.org/abs/2503.20499v1)|null|
+|**2025-03-26**|**Contrastive Learning Guided Latent Diffusion Model for Image-to-Image Translation**|Qi Si et.al.|[2503.20484v1](http://arxiv.org/abs/2503.20484v1)|null|
+|**2025-03-26**|**TempTest: Local Normalization Distortion and the Detection of Machine-generated Text**|Tom Kempton et.al.|[2503.20421v1](http://arxiv.org/abs/2503.20421v1)|null|
+|**2025-03-26**|**VideoGEM: Training-free Action Grounding in Videos**|Felix Vogel et.al.|[2503.20348v1](http://arxiv.org/abs/2503.20348v1)|null|
+|**2025-03-26**|**TeleLoRA: Teleporting Model-Specific Alignment Across LLMs**|Xiao Lin et.al.|[2503.20228v1](http://arxiv.org/abs/2503.20228v1)|null|
+|**2025-03-26**|**Synthetic-to-Real Self-supervised Robust Depth Estimation via Learning with Motion and Structure Priors**|Weilong Yan et.al.|[2503.20211v1](http://arxiv.org/abs/2503.20211v1)|null|
+|**2025-03-26**|**Learning Adaptive Dexterous Grasping from Single Demonstrations**|Liangzhi Shi et.al.|[2503.20208v1](http://arxiv.org/abs/2503.20208v1)|null|
+|**2025-03-26**|**RxRx3-core: Benchmarking drug-target interactions in High-Content Microscopy**|Oren Kraus et.al.|[2503.20158v1](http://arxiv.org/abs/2503.20158v1)|null|
+|**2025-03-25**|**Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors**|Yuke Lou et.al.|[2503.20118v1](http://arxiv.org/abs/2503.20118v1)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910v1](http://arxiv.org/abs/2503.19910v1)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Thinking agents for zero-shot generalization to qualitatively novel tasks**|Thomas Miconi et.al.|[2503.19815v1](http://arxiv.org/abs/2503.19815v1)|null|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798v1](http://arxiv.org/abs/2503.19798v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1714,7 +1714,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486v1](http://arxiv.org/abs/2503.21486v1)|null|
-|**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v1](http://arxiv.org/abs/2503.21480v1)|null|
+|**2025-03-28**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v2](http://arxiv.org/abs/2503.21480v2)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410v1](http://arxiv.org/abs/2503.21410v1)|null|
 |**2025-03-27**|**From User Preferences to Optimization Constraints Using Large Language Models**|Manuela Sanguinetti et.al.|[2503.21360v1](http://arxiv.org/abs/2503.21360v1)|null|
 |**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277v1](http://arxiv.org/abs/2503.21277v1)|null|
@@ -1722,7 +1722,7 @@ layout: default
 |**2025-03-27**|**Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection**|Ziyi Zhou et.al.|[2503.21127v1](http://arxiv.org/abs/2503.21127v1)|null|
 |**2025-03-26**|**Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images**|Tai D. Nguyen et.al.|[2503.21003v1](http://arxiv.org/abs/2503.21003v1)|null|
 |**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782v1](http://arxiv.org/abs/2503.20782v1)|null|
-|**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499v1](http://arxiv.org/abs/2503.20499v1)|null|
+|**2025-03-28**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499v2](http://arxiv.org/abs/2503.20499v2)|null|
 |**2025-03-26**|**Contrastive Learning Guided Latent Diffusion Model for Image-to-Image Translation**|Qi Si et.al.|[2503.20484v1](http://arxiv.org/abs/2503.20484v1)|null|
 |**2025-03-26**|**TempTest: Local Normalization Distortion and the Detection of Machine-generated Text**|Tom Kempton et.al.|[2503.20421v1](http://arxiv.org/abs/2503.20421v1)|null|
 |**2025-03-26**|**VideoGEM: Training-free Action Grounding in Videos**|Felix Vogel et.al.|[2503.20348v1](http://arxiv.org/abs/2503.20348v1)|null|

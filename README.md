@@ -1,4 +1,4 @@
-## Updated on 2025.03.30
+## Updated on 2025.03.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1407,7 +1407,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1620,7 +1620,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1719,14 +1719,14 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486v1](http://arxiv.org/abs/2503.21486v1)|null|
-|**2025-03-27**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v1](http://arxiv.org/abs/2503.21480v1)|null|
+|**2025-03-28**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v2](http://arxiv.org/abs/2503.21480v2)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410v1](http://arxiv.org/abs/2503.21410v1)|null|
 |**2025-03-27**|**From User Preferences to Optimization Constraints Using Large Language Models**|Manuela Sanguinetti et.al.|[2503.21360v1](http://arxiv.org/abs/2503.21360v1)|null|
 |**2025-03-27**|**Zero-Shot Visual Concept Blending Without Text Guidance**|Hiroya Makino et.al.|[2503.21277v1](http://arxiv.org/abs/2503.21277v1)|null|
@@ -1734,7 +1734,7 @@
 |**2025-03-27**|**Collaborative Evolution: Multi-Round Learning Between Large and Small Language Models for Emergent Fake News Detection**|Ziyi Zhou et.al.|[2503.21127v1](http://arxiv.org/abs/2503.21127v1)|null|
 |**2025-03-26**|**Forensic Self-Descriptions Are All You Need for Zero-Shot Detection, Open-Set Source Attribution, and Clustering of AI-generated Images**|Tai D. Nguyen et.al.|[2503.21003v1](http://arxiv.org/abs/2503.21003v1)|null|
 |**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782v1](http://arxiv.org/abs/2503.20782v1)|null|
-|**2025-03-26**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499v1](http://arxiv.org/abs/2503.20499v1)|null|
+|**2025-03-28**|**FireRedTTS-1S: An Upgraded Streamable Foundation Text-to-Speech System**|Hao-Han Guo et.al.|[2503.20499v2](http://arxiv.org/abs/2503.20499v2)|null|
 |**2025-03-26**|**Contrastive Learning Guided Latent Diffusion Model for Image-to-Image Translation**|Qi Si et.al.|[2503.20484v1](http://arxiv.org/abs/2503.20484v1)|null|
 |**2025-03-26**|**TempTest: Local Normalization Distortion and the Detection of Machine-generated Text**|Tom Kempton et.al.|[2503.20421v1](http://arxiv.org/abs/2503.20421v1)|null|
 |**2025-03-26**|**VideoGEM: Training-free Action Grounding in Videos**|Felix Vogel et.al.|[2503.20348v1](http://arxiv.org/abs/2503.20348v1)|null|
@@ -5363,5 +5363,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250330>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
 

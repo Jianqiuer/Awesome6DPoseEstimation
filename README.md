@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**ForcePose: A Deep Learning Approach for Force Calculation Based on Action Recognition Using MediaPipe Pose Estimation Combined with Object Detection**|Nandakishor M et.al.|[2503.22363v1](http://arxiv.org/abs/2503.22363v1)|null|
+|**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349v1](http://arxiv.org/abs/2503.22349v1)|null|
+|**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958v1](http://arxiv.org/abs/2503.21958v1)|null|
 |**2025-03-27**|**Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video**|David Yifan Yao et.al.|[2503.21761v1](http://arxiv.org/abs/2503.21761v1)|null|
 |**2025-03-27**|**Reconstructing Humans with a Biomechanically Accurate Skeleton**|Yan Xia et.al.|[2503.21751v1](http://arxiv.org/abs/2503.21751v1)|null|
 |**2025-03-27**|**OccRobNet : Occlusion Robust Network for Accurate 3D Interacting Hand-Object Pose Estimation**|Mallika Garg et.al.|[2503.21723v1](http://arxiv.org/abs/2503.21723v1)|null|
@@ -1725,6 +1728,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679v1](http://arxiv.org/abs/2503.22679v1)|**[link](https://github.com/lwq20020127/q-insight)**|
+|**2025-03-28**|**Improving Low-Resource Retrieval Effectiveness using Zero-Shot Linguistic Similarity Transfer**|Andreas Chari et.al.|[2503.22508v1](http://arxiv.org/abs/2503.22508v1)|null|
+|**2025-03-28**|**MVSAnywhere: Zero-Shot Multi-View Stereo**|Sergio Izquierdo et.al.|[2503.22430v1](http://arxiv.org/abs/2503.22430v1)|null|
+|**2025-03-28**|**Mitigating Knowledge Discrepancies among Multiple Datasets for Task-agnostic Unified Face Alignment**|Jiahao Xia et.al.|[2503.22359v1](http://arxiv.org/abs/2503.22359v1)|null|
+|**2025-03-28**|**One Look is Enough: A Novel Seamless Patchwise Refinement for Zero-Shot Monocular Depth Estimation Models on High-Resolution Images**|Byeongjun Kwon et.al.|[2503.22351v1](http://arxiv.org/abs/2503.22351v1)|null|
+|**2025-03-28**|**VisTa: Visual-contextual and Text-augmented Zero-shot Object-level OOD Detection**|Bin Zhang et.al.|[2503.22291v1](http://arxiv.org/abs/2503.22291v1)|null|
+|**2025-03-28**|**Extremely Simple Out-of-distribution Detection for Audio-visual Generalized Zero-shot Learning**|Yang Liu et.al.|[2503.22197v1](http://arxiv.org/abs/2503.22197v1)|null|
+|**2025-03-28**|**ORIGEN: Zero-Shot 3D Orientation Grounding in Text-to-Image Generation**|Yunhong Min et.al.|[2503.22194v1](http://arxiv.org/abs/2503.22194v1)|null|
+|**2025-03-28**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097v1](http://arxiv.org/abs/2503.22097v1)|null|
+|**2025-03-27**|**DeCompress: Denoising via Neural Compression**|Ali Zafari et.al.|[2503.22015v1](http://arxiv.org/abs/2503.22015v1)|null|
 |**2025-03-27**|**Invert2Restore: Zero-Shot Degradation-Blind Image Restoration**|Hamadi Chihaoui et.al.|[2503.21486v1](http://arxiv.org/abs/2503.21486v1)|null|
 |**2025-03-28**|**OmniVox: Zero-Shot Emotion Recognition with Omni-LLMs**|John Murzaku et.al.|[2503.21480v2](http://arxiv.org/abs/2503.21480v2)|null|
 |**2025-03-27**|**Diffusion Image Prior**|Hamadi Chihaoui et.al.|[2503.21410v1](http://arxiv.org/abs/2503.21410v1)|null|

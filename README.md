@@ -1,4 +1,4 @@
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1418,7 +1418,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1631,7 +1631,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1730,7 +1730,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1741,7 +1741,7 @@
 |**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138v1](http://arxiv.org/abs/2503.24138v1)|**[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)**|
 |**2025-03-31**|**SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency**|Yanbo Wang et.al.|[2503.23980v1](http://arxiv.org/abs/2503.23980v1)|**[link](https://github.com/Cavendish518/SALT)**|
 |**2025-03-31**|**GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models**|Wenkang Ji et.al.|[2503.23875v1](http://arxiv.org/abs/2503.23875v1)|**[link](https://github.com/windylab/genswarm)**|
-|**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859v1](http://arxiv.org/abs/2503.23859v1)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859v2](http://arxiv.org/abs/2503.23859v2)|null|
 |**2025-03-31**|**Bridge the Gap Between Visual and Linguistic Comprehension for Generalized Zero-shot Semantic Segmentation**|Xiaoqing Guo et.al.|[2503.23806v1](http://arxiv.org/abs/2503.23806v1)|null|
 |**2025-03-31**|**LANID: LLM-assisted New Intent Discovery**|Lu Fan et.al.|[2503.23740v1](http://arxiv.org/abs/2503.23740v1)|null|
 |**2025-03-31**|**The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning**|Mingkai Tian et.al.|[2503.23679v1](http://arxiv.org/abs/2503.23679v1)|null|
@@ -5394,5 +5394,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250402>back to top</a>)</p>
 

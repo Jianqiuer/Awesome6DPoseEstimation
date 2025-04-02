@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1729,7 +1729,7 @@ layout: default
 |**2025-03-31**|**AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models**|Uxue Delaquintana-Aramendi et.al.|[2503.24138v1](http://arxiv.org/abs/2503.24138v1)|**[link](https://github.com/udelaqui/foundation_models_for_polyp_detection_segmentation)**|
 |**2025-03-31**|**SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency**|Yanbo Wang et.al.|[2503.23980v1](http://arxiv.org/abs/2503.23980v1)|**[link](https://github.com/Cavendish518/SALT)**|
 |**2025-03-31**|**GenSwarm: Scalable Multi-Robot Code-Policy Generation and Deployment via Language Models**|Wenkang Ji et.al.|[2503.23875v1](http://arxiv.org/abs/2503.23875v1)|**[link](https://github.com/windylab/genswarm)**|
-|**2025-03-31**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859v1](http://arxiv.org/abs/2503.23859v1)|null|
+|**2025-04-01**|**Evaluating small vision-language models as AI assistants for radio astronomical source analysis tasks**|S. Riggi et.al.|[2503.23859v2](http://arxiv.org/abs/2503.23859v2)|null|
 |**2025-03-31**|**Bridge the Gap Between Visual and Linguistic Comprehension for Generalized Zero-shot Semantic Segmentation**|Xiaoqing Guo et.al.|[2503.23806v1](http://arxiv.org/abs/2503.23806v1)|null|
 |**2025-03-31**|**LANID: LLM-assisted New Intent Discovery**|Lu Fan et.al.|[2503.23740v1](http://arxiv.org/abs/2503.23740v1)|null|
 |**2025-03-31**|**The Devil is in the Distributions: Explicit Modeling of Scene Content is Key in Zero-Shot Video Captioning**|Mingkai Tian et.al.|[2503.23679v1](http://arxiv.org/abs/2503.23679v1)|null|

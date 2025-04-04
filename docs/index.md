@@ -7,13 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation**|Van Nguyen Nguyen et.al.|[2504.02812v1](http://arxiv.org/abs/2504.02812v1)|null|
+|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|null|
 |**2025-04-02**|**Dual-stream Transformer-GCN Model with Contextualized Representations Learning for Monocular 3D Human Pose Estimation**|Mingrui Ye et.al.|[2504.01764v1](http://arxiv.org/abs/2504.01764v1)|null|
-|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|null|
+|**2025-04-02**|**ForestVO: Enhancing Visual Odometry in Forest Environments through ForestGlue**|Thomas Pritchard et.al.|[2504.01261v1](http://arxiv.org/abs/2504.01261v1)|**[link](https://github.com/aerialroboticsgroup/forest-vo)**|
 |**2025-04-01**|**AP-CAP: Advancing High-Quality Data Synthesis for Animal Pose Estimation via a Controllable Image Generation Pipeline**|Lei Wang et.al.|[2504.00394v1](http://arxiv.org/abs/2504.00394v1)|null|
 |**2025-03-31**|**Easi3R: Estimating Disentangled Motion from DUSt3R Without Training**|Xingyu Chen et.al.|[2503.24391v1](http://arxiv.org/abs/2503.24391v1)|**[link](https://github.com/inception3d/easi3r)**|
 |**2025-03-31**|**LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds**|Masahiko Tsuji et.al.|[2503.23664v1](http://arxiv.org/abs/2503.23664v1)|null|
 |**2025-03-30**|**PhysPose: Refining 6D Object Poses with Physical Constraints**|Martin Malenický et.al.|[2503.23587v1](http://arxiv.org/abs/2503.23587v1)|null|
-|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480v1](http://arxiv.org/abs/2503.23480v1)|null|
+|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480v1](http://arxiv.org/abs/2503.23480v1)|**[link](https://github.com/prbonn/enm-mcl)**|
 |**2025-03-30**|**SparseLoc: Sparse Open-Set Landmark-based Global Localization for Autonomous Navigation**|Pranjal Paul et.al.|[2503.23465v1](http://arxiv.org/abs/2503.23465v1)|null|
 |**2025-03-30**|**HiPART: Hierarchical Pose AutoRegressive Transformer for Occluded 3D Human Pose Estimation**|Hongwei Zheng et.al.|[2503.23331v1](http://arxiv.org/abs/2503.23331v1)|null|
 |**2025-03-29**|**Incorporating GNSS Information with LIDAR-Inertial Odometry for Accurate Land-Vehicle Localization**|Jintao Cheng et.al.|[2503.23199v1](http://arxiv.org/abs/2503.23199v1)|null|
@@ -1730,6 +1732,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Concept Lancet: Image Editing with Compositional Representation Transplant**|Jinqi Luo et.al.|[2504.02828v1](http://arxiv.org/abs/2504.02828v1)|null|
+|**2025-04-03**|**F-ViTA: Foundation Model Guided Visible to Thermal Translation**|Jay N. Paranjape et.al.|[2504.02801v1](http://arxiv.org/abs/2504.02801v1)|null|
+|**2025-04-03**|**Autonomous Human-Robot Interaction via Operator Imitation**|Sammy Christen et.al.|[2504.02724v1](http://arxiv.org/abs/2504.02724v1)|null|
+|**2025-04-03**|**LLM for Complex Reasoning Task: An Exploratory Study in Fermi Problems**|Zishuo Liu et.al.|[2504.02671v1](http://arxiv.org/abs/2504.02671v1)|null|
+|**2025-04-03**|**EmbodiedSense: Understanding Embodied Activities with Earphones**|Lixing He et.al.|[2504.02624v1](http://arxiv.org/abs/2504.02624v1)|null|
+|**2025-04-03**|**PicoPose: Progressive Pixel-to-Pixel Correspondence Learning for Novel Object Pose Estimation**|Lihua Liu et.al.|[2504.02617v1](http://arxiv.org/abs/2504.02617v1)|null|
+|**2025-04-03**|**Leveraging LLM For Synchronizing Information Across Multilingual Tables**|Siddharth Khincha et.al.|[2504.02559v1](http://arxiv.org/abs/2504.02559v1)|null|
+|**2025-04-03**|**Delineate Anything: Resolution-Agnostic Field Boundary Delineation on Satellite Imagery**|Mykola Lavreniuk et.al.|[2504.02534v1](http://arxiv.org/abs/2504.02534v1)|null|
+|**2025-04-03**|**BOOST: Bootstrapping Strategy-Driven Reasoning Programs for Program-Guided Fact-Checking**|Qisheng Hu et.al.|[2504.02467v1](http://arxiv.org/abs/2504.02467v1)|null|
+|**2025-04-03**|**A Physics-Informed Meta-Learning Framework for the Continuous Solution of Parametric PDEs on Arbitrary Geometries**|Reza Najian Asl et.al.|[2504.02459v1](http://arxiv.org/abs/2504.02459v1)|null|
 |**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916v1](http://arxiv.org/abs/2504.01916v1)|null|
 |**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890v1](http://arxiv.org/abs/2504.01890v1)|null|
 |**2025-04-02**|**InvFussion: Bridging Supervised and Zero-shot Diffusion for Inverse Problems**|Noam Elata et.al.|[2504.01689v1](http://arxiv.org/abs/2504.01689v1)|null|

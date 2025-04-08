@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v1](http://arxiv.org/abs/2504.04834v1)|null|
+|**2025-04-06**|**A Convex and Global Solution for the P $n$ P Problem in 2D Forward-Looking Sonar**|Jiayi Su et.al.|[2504.04445v1](http://arxiv.org/abs/2504.04445v1)|null|
+|**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294v1](http://arxiv.org/abs/2504.04294v1)|null|
+|**2025-04-02**|**A Geometric Approach For Pose and Velocity Estimation Using IMU and Inertial/Body-Frame Measurements**|Sifeddine Benahmed et.al.|[2504.03764v1](http://arxiv.org/abs/2504.03764v1)|null|
 |**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602v1](http://arxiv.org/abs/2504.03602v1)|null|
 |**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198v1](http://arxiv.org/abs/2504.03198v1)|null|
 |**2025-04-03**|**Cooperative Inference for Real-Time 3D Human Pose Estimation in Multi-Device Edge Networks**|Hyun-Ho Choi et.al.|[2504.03052v1](http://arxiv.org/abs/2504.03052v1)|null|
@@ -1735,6 +1739,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception**|Hui Zhang et.al.|[2504.05287v1](http://arxiv.org/abs/2504.05287v1)|null|
+|**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141v1](http://arxiv.org/abs/2504.05141v1)|null|
+|**2025-04-07**|**AI for Climate Finance: Agentic Retrieval and Multi-Step Reasoning for Early Warning System Investments**|Saeid Ario Vaghefi et.al.|[2504.05104v1](http://arxiv.org/abs/2504.05104v1)|null|
+|**2025-04-07**|**GOTHAM: Graph Class Incremental Learning Framework under Weak Supervision**|Aditya Hemant Shahane et.al.|[2504.04954v1](http://arxiv.org/abs/2504.04954v1)|null|
+|**2025-04-07**|**A Llama walks into the 'Bar': Efficient Supervised Fine-Tuning for Legal Reasoning in the Multi-state Bar Exam**|Rean Fernandes et.al.|[2504.04945v1](http://arxiv.org/abs/2504.04945v1)|null|
+|**2025-04-07**|**Leveraging Large Language Models for Cost-Effective, Multilingual Depression Detection and Severity Assessment**|Longdi Xian et.al.|[2504.04891v1](http://arxiv.org/abs/2504.04891v1)|null|
+|**2025-04-07**|**Can LLMs Interpret and Leverage Structured Linguistic Representations? A Case Study with AMRs**|Ankush Raut et.al.|[2504.04745v1](http://arxiv.org/abs/2504.04745v1)|null|
+|**2025-04-07**|**Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use**|Anna Goldie et.al.|[2504.04736v1](http://arxiv.org/abs/2504.04736v1)|null|
+|**2025-04-07**|**Causal Retrieval with Semantic Consideration**|Hyunseo Shin et.al.|[2504.04700v1](http://arxiv.org/abs/2504.04700v1)|null|
+|**2025-04-06**|**Advancing Egocentric Video Question Answering with Multimodal Large Language Models**|Alkesh Patel et.al.|[2504.04550v1](http://arxiv.org/abs/2504.04550v1)|null|
 |**2025-04-04**|**AdaViT: Adaptive Vision Transformer for Flexible Pretrain and Finetune with Variable 3D Medical Image Modalities**|Badhan Kumar Das et.al.|[2504.03589v1](http://arxiv.org/abs/2504.03589v1)|null|
 |**2025-04-04**|**RANa: Retrieval-Augmented Navigation**|Gianluca Monaci et.al.|[2504.03524v1](http://arxiv.org/abs/2504.03524v1)|null|
 |**2025-04-04**|**MultiClear: Multimodal Soft Exoskeleton Glove for Transparent Object Grasping Assistance**|Chen Hu et.al.|[2504.03379v1](http://arxiv.org/abs/2504.03379v1)|null|

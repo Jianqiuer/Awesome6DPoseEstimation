@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,8 +14,8 @@ layout: default
 |**2025-04-08**|**Leveraging Synthetic Adult Datasets for Unsupervised Infant Pose Estimation**|Sarosij Bose et.al.|[2504.05789v1](http://arxiv.org/abs/2504.05789v1)|null|
 |**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727v1](http://arxiv.org/abs/2504.05727v1)|**[link](https://github.com/HopeYless/SAP-CoPE-Project)**|
 |**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|null|
-|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v1](http://arxiv.org/abs/2504.04834v1)|null|
-|**2025-04-06**|**A Convex and Global Solution for the P $n$ P Problem in 2D Forward-Looking Sonar**|Jiayi Su et.al.|[2504.04445v1](http://arxiv.org/abs/2504.04445v1)|null|
+|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|null|
+|**2025-04-10**|**A Convex and Global Solution for the P $n$ P Problem in 2D Forward-Looking Sonar**|Jiayi Su et.al.|[2504.04445v2](http://arxiv.org/abs/2504.04445v2)|null|
 |**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294v1](http://arxiv.org/abs/2504.04294v1)|null|
 |**2025-04-02**|**A Geometric Approach For Pose and Velocity Estimation Using IMU and Inertial/Body-Frame Measurements**|Sifeddine Benahmed et.al.|[2504.03764v1](http://arxiv.org/abs/2504.03764v1)|null|
 |**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602v1](http://arxiv.org/abs/2504.03602v1)|null|

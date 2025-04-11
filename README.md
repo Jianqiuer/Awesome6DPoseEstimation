@@ -1,4 +1,4 @@
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,8 +20,8 @@
 |**2025-04-08**|**Leveraging Synthetic Adult Datasets for Unsupervised Infant Pose Estimation**|Sarosij Bose et.al.|[2504.05789v1](http://arxiv.org/abs/2504.05789v1)|null|
 |**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727v1](http://arxiv.org/abs/2504.05727v1)|**[link](https://github.com/HopeYless/SAP-CoPE-Project)**|
 |**2025-04-08**|**POMATO: Marrying Pointmap Matching with Temporal Motion for Dynamic 3D Reconstruction**|Songyan Zhang et.al.|[2504.05692v1](http://arxiv.org/abs/2504.05692v1)|null|
-|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v1](http://arxiv.org/abs/2504.04834v1)|null|
-|**2025-04-06**|**A Convex and Global Solution for the P $n$ P Problem in 2D Forward-Looking Sonar**|Jiayi Su et.al.|[2504.04445v1](http://arxiv.org/abs/2504.04445v1)|null|
+|**2025-04-10**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834v2](http://arxiv.org/abs/2504.04834v2)|null|
+|**2025-04-10**|**A Convex and Global Solution for the P $n$ P Problem in 2D Forward-Looking Sonar**|Jiayi Su et.al.|[2504.04445v2](http://arxiv.org/abs/2504.04445v2)|null|
 |**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294v1](http://arxiv.org/abs/2504.04294v1)|null|
 |**2025-04-02**|**A Geometric Approach For Pose and Velocity Estimation Using IMU and Inertial/Body-Frame Measurements**|Sifeddine Benahmed et.al.|[2504.03764v1](http://arxiv.org/abs/2504.03764v1)|null|
 |**2025-04-04**|**Robust Human Registration with Body Part Segmentation on Noisy Point Clouds**|Kai Lascheit et.al.|[2504.03602v1](http://arxiv.org/abs/2504.03602v1)|null|
@@ -1437,7 +1437,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1653,7 +1653,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1756,7 +1756,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -5476,5 +5476,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250410>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250411>back to top</a>)</p>
 

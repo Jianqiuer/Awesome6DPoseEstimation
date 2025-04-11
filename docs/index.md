@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**BoxDreamer: Dreaming Box Corners for Generalizable Object Pose Estimation**|Yuanhong Yu et.al.|[2504.07955v1](http://arxiv.org/abs/2504.07955v1)|null|
+|**2025-04-09**|**DLTPose: 6DoF Pose Estimation From Accurate Dense Surface Point Estimates**|Akash Jadhav et.al.|[2504.07335v1](http://arxiv.org/abs/2504.07335v1)|null|
 |**2025-04-09**|**Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation**|Yu Qi et.al.|[2504.06961v1](http://arxiv.org/abs/2504.06961v1)|null|
 |**2025-04-09**|**GraspClutter6D: A Large-scale Real-world Dataset for Robust Perception and Grasping in Cluttered Scenes**|Seunghyeok Back et.al.|[2504.06866v1](http://arxiv.org/abs/2504.06866v1)|null|
 |**2025-04-09**|**Setup-Invariant Augmented Reality for Teaching by Demonstration with Surgical Robots**|Alexandre Banks et.al.|[2504.06677v1](http://arxiv.org/abs/2504.06677v1)|null|
@@ -1435,6 +1437,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231v1](http://arxiv.org/abs/2504.07231v1)|null|
 |**2025-04-09**|**FACT: Multinomial Misalignment Classification for Point Cloud Registration**|Ludvig Dillén et.al.|[2504.06627v1](http://arxiv.org/abs/2504.06627v1)|null|
 |**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464v1](http://arxiv.org/abs/2504.06464v1)|null|
 |**2025-04-02**|**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**|Zhixin Cheng et.al.|[2504.01641v1](http://arxiv.org/abs/2504.01641v1)|null|
@@ -1750,6 +1753,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961v1](http://arxiv.org/abs/2504.07961v1)|null|
+|**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958v1](http://arxiv.org/abs/2504.07958v1)|null|
+|**2025-04-10**|**Zero-Shot Low-dose CT Denoising via Sinogram Flicking**|Yongyi Shi et.al.|[2504.07927v1](http://arxiv.org/abs/2504.07927v1)|null|
+|**2025-04-10**|**Fast Adaptation with Behavioral Foundation Models**|Harshit Sikchi et.al.|[2504.07896v1](http://arxiv.org/abs/2504.07896v1)|null|
+|**2025-04-10**|**SAMJAM: Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos**|Joshua Li et.al.|[2504.07867v1](http://arxiv.org/abs/2504.07867v1)|null|
+|**2025-04-10**|**Empowering Global Voices: A Data-Efficient, Phoneme-Tone Adaptive Approach to High-Fidelity Speech Synthesis**|Yizhong Geng et.al.|[2504.07858v1](http://arxiv.org/abs/2504.07858v1)|null|
+|**2025-04-10**|**Zero-Shot Cross-Domain Code Search without Fine-Tuning**|Keyu Liang et.al.|[2504.07740v1](http://arxiv.org/abs/2504.07740v1)|null|
+|**2025-04-10**|**Sim-to-Real Transfer in Reinforcement Learning for Maneuver Control of a Variable-Pitch MAV**|Zhikun Wang et.al.|[2504.07694v1](http://arxiv.org/abs/2504.07694v1)|null|
+|**2025-04-10**|**On Model and Data Scaling for Skeleton-based Self-Supervised Gait Recognition**|Adrian Cosma et.al.|[2504.07598v1](http://arxiv.org/abs/2504.07598v1)|null|
+|**2025-04-10**|**RadZero: Similarity-Based Cross-Attention for Explainable Vision-Language Alignment in Radiology with Zero-Shot Multi-Task Capability**|Jonggwon Park et.al.|[2504.07416v1](http://arxiv.org/abs/2504.07416v1)|null|
 |**2025-04-09**|**Neural Motion Simulator: Pushing the Limit of World Models in Reinforcement Learning**|Chenjie Hao et.al.|[2504.07095v1](http://arxiv.org/abs/2504.07095v1)|null|
 |**2025-04-09**|**Are We Done with Object-Centric Learning?**|Alexander Rubinstein et.al.|[2504.07092v1](http://arxiv.org/abs/2504.07092v1)|null|
 |**2025-04-09**|**RayFronts: Open-Set Semantic Ray Frontiers for Online Scene Understanding and Exploration**|Omar Alama et.al.|[2504.06994v1](http://arxiv.org/abs/2504.06994v1)|null|

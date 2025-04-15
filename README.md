@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
+|**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|null|
+|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190v1](http://arxiv.org/abs/2504.10190v1)|null|
+|**2025-04-14**|**TT3D: Table Tennis 3D Reconstruction**|Thomas Gossard et.al.|[2504.10035v1](http://arxiv.org/abs/2504.10035v1)|null|
+|**2025-04-14**|**Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations**|Katja Ludwig et.al.|[2504.09953v1](http://arxiv.org/abs/2504.09953v1)|null|
+|**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|
+|**2025-04-13**|**EasyREG: Easy Depth-Based Markerless Registration and Tracking using Augmented Reality Device for Surgical Guidance**|Yue Yang et.al.|[2504.09498v1](http://arxiv.org/abs/2504.09498v1)|null|
+|**2025-04-12**|**SCFlow2: Plug-and-Play Object Pose Refiner with Shape-Constraint Scene Flow**|Qingyuan Wang et.al.|[2504.09160v1](http://arxiv.org/abs/2504.09160v1)|null|
+|**2025-04-12**|**A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds**|Jizong Peng et.al.|[2504.09129v1](http://arxiv.org/abs/2504.09129v1)|null|
+|**2025-04-12**|**BIGS: Bimanual Category-agnostic Interaction Reconstruction from Monocular Videos via 3D Gaussian Splatting**|Jeongwan On et.al.|[2504.09097v1](http://arxiv.org/abs/2504.09097v1)|null|
 |**2025-04-11**|**The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation**|Masashi Hatano et.al.|[2504.08654v1](http://arxiv.org/abs/2504.08654v1)|null|
 |**2025-04-11**|**MBE-ARI: A Multimodal Dataset Mapping Bi-directional Engagement in Animal-Robot Interaction**|Ian Noronha et.al.|[2504.08646v1](http://arxiv.org/abs/2504.08646v1)|null|
 |**2025-04-11**|**Hardware, Algorithms, and Applications of the Neuromorphic Vision Sensor: a Review**|Claudio Cimarelli et.al.|[2504.08588v1](http://arxiv.org/abs/2504.08588v1)|null|
@@ -1771,6 +1781,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
+|**2025-04-14**|**Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis**|Yifan Yang et.al.|[2504.10352v1](http://arxiv.org/abs/2504.10352v1)|null|
+|**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281v1](http://arxiv.org/abs/2504.10281v1)|null|
+|**2025-04-14**|**The Future of MLLM Prompting is Adaptive: A Comprehensive Experimental Evaluation of Prompt Engineering Methods for Robust Multimodal Performance**|Anwesha Mohanty et.al.|[2504.10179v1](http://arxiv.org/abs/2504.10179v1)|null|
+|**2025-04-14**|**The Impact of Model Zoo Size and Composition on Weight Space Learning**|Damian Falk et.al.|[2504.10141v1](http://arxiv.org/abs/2504.10141v1)|null|
+|**2025-04-14**|**AGO: Adaptive Grounding for Open World 3D Occupancy Prediction**|Peizheng Li et.al.|[2504.10117v1](http://arxiv.org/abs/2504.10117v1)|null|
+|**2025-04-14**|**NaviDiffusor: Cost-Guided Diffusion Model for Visual Navigation**|Yiming Zeng et.al.|[2504.10003v1](http://arxiv.org/abs/2504.10003v1)|null|
+|**2025-04-14**|**C-MTCSD: A Chinese Multi-Turn Conversational Stance Detection Dataset**|Fuqiang Niu et.al.|[2504.09958v1](http://arxiv.org/abs/2504.09958v1)|null|
+|**2025-04-13**|**Adapting to the Unknown: Robust Meta-Learning for Zero-Shot Financial Time Series Forecasting**|Anxian Liu et.al.|[2504.09664v1](http://arxiv.org/abs/2504.09664v1)|null|
+|**2025-04-13**|**AirVista-II: An Agentic System for Embodied UAVs Toward Dynamic Scene Semantic Understanding**|Fei Lin et.al.|[2504.09583v1](http://arxiv.org/abs/2504.09583v1)|null|
 |**2025-04-11**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548v1](http://arxiv.org/abs/2504.08548v1)|null|
 |**2025-04-11**|**FocalLens: Instruction Tuning Enables Zero-Shot Conditional Image Representations**|Cheng-Yu Hsieh et.al.|[2504.08368v1](http://arxiv.org/abs/2504.08368v1)|null|
 |**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219v1](http://arxiv.org/abs/2504.08219v1)|null|

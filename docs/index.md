@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
 |**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|null|
-|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190v1](http://arxiv.org/abs/2504.10190v1)|null|
+|**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190v2](http://arxiv.org/abs/2504.10190v2)|null|
 |**2025-04-14**|**TT3D: Table Tennis 3D Reconstruction**|Thomas Gossard et.al.|[2504.10035v1](http://arxiv.org/abs/2504.10035v1)|null|
 |**2025-04-14**|**Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations**|Katja Ludwig et.al.|[2504.09953v1](http://arxiv.org/abs/2504.09953v1)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868v1](http://arxiv.org/abs/2504.09868v1)|null|

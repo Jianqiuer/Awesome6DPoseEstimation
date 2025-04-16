@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v1](http://arxiv.org/abs/2504.11230v1)|null|
+|**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160v1](http://arxiv.org/abs/2504.11160v1)|null|
 |**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
 |**2025-04-14**|**Benchmarking 3D Human Pose Estimation Models Under Occlusions**|Filipa Lino et.al.|[2504.10350v1](http://arxiv.org/abs/2504.10350v1)|null|
 |**2025-04-15**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190v2](http://arxiv.org/abs/2504.10190v2)|null|
@@ -1781,6 +1783,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Benchmarking Next-Generation Reasoning-Focused Large Language Models in Ophthalmology: A Head-to-Head Evaluation on 5,888 Items**|Minjie Zou et.al.|[2504.11186v1](http://arxiv.org/abs/2504.11186v1)|null|
+|**2025-04-15**|**TerraMind: Large-Scale Generative Multimodality for Earth Observation**|Johannes Jakubik et.al.|[2504.11171v1](http://arxiv.org/abs/2504.11171v1)|null|
+|**2025-04-15**|**Crane: Context-Guided Prompt Learning and Attention Refinement for Zero-Shot Anomaly Detections**|Alireza Salehi et.al.|[2504.11055v1](http://arxiv.org/abs/2504.11055v1)|null|
+|**2025-04-15**|**Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models**|Andrea Tirinzoni et.al.|[2504.11054v1](http://arxiv.org/abs/2504.11054v1)|null|
+|**2025-04-15**|**LazyReview A Dataset for Uncovering Lazy Thinking in NLP Peer Reviews**|Sukannya Purkayastha et.al.|[2504.11042v1](http://arxiv.org/abs/2504.11042v1)|null|
+|**2025-04-15**|**Large Language Model-Informed Feature Discovery Improves Prediction and Interpretation of Credibility Perceptions of Visual Content**|Yilang Peng et.al.|[2504.10878v1](http://arxiv.org/abs/2504.10878v1)|null|
+|**2025-04-15**|**Can Vision-Language Models Understand and Interpret Dynamic Gestures from Pedestrians? Pilot Datasets and Exploration Towards Instructive Nonverbal Commands for Cooperative Autonomous Vehicles**|Tonko E. W. Bossen et.al.|[2504.10873v1](http://arxiv.org/abs/2504.10873v1)|null|
+|**2025-04-15**|**ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping**|Shun Iwase et.al.|[2504.10857v1](http://arxiv.org/abs/2504.10857v1)|null|
+|**2025-04-15**|**SteerMusic: Enhanced Musical Consistency for Zero-shot Text-Guided and Personalized Music Editing**|Xinlei Niu et.al.|[2504.10826v1](http://arxiv.org/abs/2504.10826v1)|null|
+|**2025-04-14**|**Foundation Models for Remote Sensing: An Analysis of MLLMs for Object Localization**|Darryl Hannan et.al.|[2504.10727v1](http://arxiv.org/abs/2504.10727v1)|null|
 |**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
 |**2025-04-14**|**Pseudo-Autoregressive Neural Codec Language Models for Efficient Zero-Shot Text-to-Speech Synthesis**|Yifan Yang et.al.|[2504.10352v1](http://arxiv.org/abs/2504.10352v1)|null|
 |**2025-04-14**|**Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials**|Jingyun Yang et.al.|[2504.10281v1](http://arxiv.org/abs/2504.10281v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -15,7 +15,7 @@ layout: default
 |**2025-04-16**|**Regist3R: Incremental Registration with Stereo Foundation Model**|Sidun Liu et.al.|[2504.12356v1](http://arxiv.org/abs/2504.12356v1)|null|
 |**2025-04-16**|**CoMotion: Concurrent Multi-person 3D Motion**|Alejandro Newell et.al.|[2504.12186v1](http://arxiv.org/abs/2504.12186v1)|null|
 |**2025-04-16**|**No Fuss, Just Function -- A Proposal for Non-Intrusive Full Body Tracking in XR for Meaningful Spatial Interactions**|Elisabeth Mayer et.al.|[2504.11987v1](http://arxiv.org/abs/2504.11987v1)|null|
-|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|null|
+|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698v1](http://arxiv.org/abs/2504.11698v1)|**[link](https://github.com/jixingwu/sol-slam)**|
 |**2025-04-17**|**CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image**|Jingshun Huang et.al.|[2504.11230v2](http://arxiv.org/abs/2504.11230v2)|null|
 |**2025-04-15**|**DMAGaze: Gaze Estimation Based on Feature Disentanglement and Multi-Scale Attention**|Haohan Chen et.al.|[2504.11160v1](http://arxiv.org/abs/2504.11160v1)|null|
 |**2025-04-14**|**MonoDiff9D: Monocular Category-Level 9D Object Pose Estimation via Diffusion Model**|Jian Liu et.al.|[2504.10433v1](http://arxiv.org/abs/2504.10433v1)|null|
@@ -1787,7 +1787,7 @@ layout: default
 |**2025-04-17**|**An All-Atom Generative Model for Designing Protein Complexes**|Ruizhe Chen et.al.|[2504.13075v1](http://arxiv.org/abs/2504.13075v1)|null|
 |**2025-04-17**|**Accuracy is Not Agreement: Expert-Aligned Evaluation of Crash Narrative Classification Models**|Sudesh Ramesh Bhagat et.al.|[2504.13068v1](http://arxiv.org/abs/2504.13068v1)|null|
 |**2025-04-17**|**Building Russian Benchmark for Evaluation of Information Retrieval Models**|Grigory Kovalev et.al.|[2504.12879v1](http://arxiv.org/abs/2504.12879v1)|null|
-|**2025-04-17**|**Post-pre-training for Modality Alignment in Vision-Language Foundation Models**|Shin'ya Yamaguchi et.al.|[2504.12717v1](http://arxiv.org/abs/2504.12717v1)|null|
+|**2025-04-17**|**Post-pre-training for Modality Alignment in Vision-Language Foundation Models**|Shin'ya Yamaguchi et.al.|[2504.12717v1](http://arxiv.org/abs/2504.12717v1)|**[link](https://github.com/yshinya6/clip-refine)**|
 |**2025-04-17**|**Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination**|Kunal Jha et.al.|[2504.12714v1](http://arxiv.org/abs/2504.12714v1)|null|
 |**2025-04-16**|**Decision-based AI Visual Navigation for Cardiac Ultrasounds**|Andy Dimnaku et.al.|[2504.12535v1](http://arxiv.org/abs/2504.12535v1)|null|
 |**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442v1](http://arxiv.org/abs/2504.12442v1)|null|

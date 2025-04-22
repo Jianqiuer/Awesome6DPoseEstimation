@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1785,11 +1785,11 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-18**|**Scaling sparse feature circuit finding for in-context learning**|Dmitrii Kharlapenko et.al.|[2504.13756v1](http://arxiv.org/abs/2504.13756v1)|null|
 |**2025-04-18**|**Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code**|Antonio Della Porta et.al.|[2504.13656v1](http://arxiv.org/abs/2504.13656v1)|null|
-|**2025-04-18**|**Improving Generalization in Intent Detection: GRPO with Reward-Based Curriculum Sampling**|Zihao Feng et.al.|[2504.13592v1](http://arxiv.org/abs/2504.13592v1)|null|
+|**2025-04-21**|**Improving Generalization in Intent Detection: GRPO with Reward-Based Curriculum Sampling**|Zihao Feng et.al.|[2504.13592v2](http://arxiv.org/abs/2504.13592v2)|null|
 |**2025-04-18**|**Zero-Shot Industrial Anomaly Segmentation with Image-Aware Prompt Generation**|SoYoung Park et.al.|[2504.13560v1](http://arxiv.org/abs/2504.13560v1)|null|
 |**2025-04-18**|**Early Timestep Zero-Shot Candidate Selection for Instruction-Guided Image Editing**|Joowon Kim et.al.|[2504.13490v1](http://arxiv.org/abs/2504.13490v1)|null|
-|**2025-04-18**|**LangCoop: Collaborative Driving with Language**|Xiangbo Gao et.al.|[2504.13406v1](http://arxiv.org/abs/2504.13406v1)|**[link](https://github.com/taco-group/LangCoop)**|
-|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399v1](http://arxiv.org/abs/2504.13399v1)|null|
+|**2025-04-21**|**LangCoop: Collaborative Driving with Language**|Xiangbo Gao et.al.|[2504.13406v2](http://arxiv.org/abs/2504.13406v2)|**[link](https://github.com/taco-group/LangCoop)**|
+|**2025-04-18**|**Towards a Multi-Agent Vision-Language System for Zero-Shot Novel Hazardous Object Detection for Autonomous Driving Safety**|Shashank Shriram et.al.|[2504.13399v1](http://arxiv.org/abs/2504.13399v1)|**[link](https://github.com/mi3labucm/coooler)**|
 |**2025-04-17**|**Perception Encoder: The best visual embeddings are not at the output of the network**|Daniel Bolya et.al.|[2504.13181v1](http://arxiv.org/abs/2504.13181v1)|null|
 |**2025-04-17**|**ViTa-Zero: Zero-shot Visuotactile Object 6D Pose Estimation**|Hongyu Li et.al.|[2504.13179v1](http://arxiv.org/abs/2504.13179v1)|null|
 |**2025-04-17**|**AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis**|Khiem Vuong et.al.|[2504.13157v1](http://arxiv.org/abs/2504.13157v1)|null|

@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800v1](http://arxiv.org/abs/2504.20800v1)|null|
+|**2025-04-29**|**A Survey on Event-based Optical Marker Systems**|Nafiseh Jabbari Tofighi et.al.|[2504.20736v1](http://arxiv.org/abs/2504.20736v1)|null|
+|**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496v1](http://arxiv.org/abs/2504.20496v1)|null|
+|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379v1](http://arxiv.org/abs/2504.20379v1)|null|
+|**2025-04-29**|**PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking**|Xiatao Sun et.al.|[2504.20359v1](http://arxiv.org/abs/2504.20359v1)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654v1](http://arxiv.org/abs/2504.19654v1)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653v1](http://arxiv.org/abs/2504.19653v1)|null|
 |**2025-04-28**|**Category-Level and Open-Set Object Pose Estimation for Robotics**|Peter Hönig et.al.|[2504.19572v1](http://arxiv.org/abs/2504.19572v1)|null|
@@ -1805,6 +1810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Trace-of-Thought: Enhanced Arithmetic Problem Solving via Reasoning Distillation From Large to Small Language Models**|Tyler McDonald et.al.|[2504.20946v1](http://arxiv.org/abs/2504.20946v1)|null|
+|**2025-04-29**|**An Empirical Study on the Capability of LLMs in Decomposing Bug Reports**|Zhiyuan Chen et.al.|[2504.20911v1](http://arxiv.org/abs/2504.20911v1)|null|
+|**2025-04-29**|**JaccDiv: A Metric and Benchmark for Quantifying Diversity of Generated Marketing Text in the Music Industry**|Anum Afzal et.al.|[2504.20849v1](http://arxiv.org/abs/2504.20849v1)|null|
+|**2025-04-29**|**Using LLMs in Generating Design Rationale for Software Architecture Decisions**|Xiyu Zhou et.al.|[2504.20781v1](http://arxiv.org/abs/2504.20781v1)|null|
+|**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690v1](http://arxiv.org/abs/2504.20690v1)|null|
+|**2025-04-29**|**Revisiting the MIMIC-IV Benchmark: Experiments Using Language Models for Electronic Health Records**|Jesus Lovon et.al.|[2504.20547v1](http://arxiv.org/abs/2504.20547v1)|null|
+|**2025-04-29**|**MuRAL: A Multi-Resident Ambient Sensor Dataset Annotated with Natural Language for Activities of Daily Living**|Xi Chen et.al.|[2504.20505v1](http://arxiv.org/abs/2504.20505v1)|null|
+|**2025-04-29**|**Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models**|Enfa Fane et.al.|[2504.20469v1](http://arxiv.org/abs/2504.20469v1)|null|
+|**2025-04-29**|**Plant Disease Detection through Multimodal Large Language Models and Convolutional Neural Networks**|Konstantinos I. Roumeliotis et.al.|[2504.20419v1](http://arxiv.org/abs/2504.20419v1)|null|
+|**2025-04-29**|**FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation**|Jae Yong Lee et.al.|[2504.20408v1](http://arxiv.org/abs/2504.20408v1)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039v1](http://arxiv.org/abs/2504.20039v1)|null|
 |**2025-04-28**|**DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images**|Mamadou Keita et.al.|[2504.19876v1](http://arxiv.org/abs/2504.19876v1)|null|
 |**2025-04-28**|**NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks**|Chia-Yu Hung et.al.|[2504.19854v1](http://arxiv.org/abs/2504.19854v1)|null|

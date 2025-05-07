@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Polar Coordinate-Based 2D Pose Prior with Neural Distance Field**|Qi Gan et.al.|[2505.03445v1](http://arxiv.org/abs/2505.03445v1)|null|
+|**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422v1](http://arxiv.org/abs/2505.03422v1)|null|
+|**2025-05-06**|**Artificial Behavior Intelligence: Technology, Challenges, and Future Directions**|Kanghyun Jo et.al.|[2505.03315v1](http://arxiv.org/abs/2505.03315v1)|null|
 |**2025-05-05**|**Dance of Fireworks: An Interactive Broadcast Gymnastics Training System Based on Pose Estimation**|Haotian Chen et.al.|[2505.02690v1](http://arxiv.org/abs/2505.02690v1)|null|
 |**2025-05-05**|**Corr2Distrib: Making Ambiguous Correspondences an Ally to Predict Reliable 6D Pose Distributions**|Asma Brazi et.al.|[2505.02501v1](http://arxiv.org/abs/2505.02501v1)|null|
 |**2025-05-05**|**Finger Pose Estimation for Under-screen Fingerprint Sensor**|Xiongjun Guan et.al.|[2505.02481v1](http://arxiv.org/abs/2505.02481v1)|null|
@@ -1517,6 +1520,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|null|
 |**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049v1](http://arxiv.org/abs/2505.02049v1)|null|
 |**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619v1](http://arxiv.org/abs/2504.21619v1)|null|
 |**2025-04-30**|**Multiview Point Cloud Registration via Optimization in an Autoencoder Latent Space**|Luc Vedrenne et.al.|[2504.21467v1](http://arxiv.org/abs/2504.21467v1)|null|
@@ -1843,6 +1847,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|null|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
+|**2025-05-06**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631v1](http://arxiv.org/abs/2505.03631v1)|null|
+|**2025-05-06**|**CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection**|Haoyu Bai et.al.|[2505.03412v1](http://arxiv.org/abs/2505.03412v1)|null|
+|**2025-05-06**|**Interpretable Zero-shot Learning with Infinite Class Concepts**|Zihan Ye et.al.|[2505.03361v1](http://arxiv.org/abs/2505.03361v1)|null|
+|**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334v1](http://arxiv.org/abs/2505.03334v1)|null|
+|**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233v1](http://arxiv.org/abs/2505.03233v1)|null|
+|**2025-05-06**|**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**|Lei Wang et.al.|[2505.03097v1](http://arxiv.org/abs/2505.03097v1)|null|
+|**2025-05-05**|**Leveraging Protein Language Model Embeddings for Catalytic Turnover Prediction of Adenylate Kinase Orthologs in a Low-Data Regime**|Duncan F. Muir et.al.|[2505.03066v1](http://arxiv.org/abs/2505.03066v1)|null|
+|**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046v1](http://arxiv.org/abs/2505.03046v1)|null|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|null|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|null|
 |**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|null|

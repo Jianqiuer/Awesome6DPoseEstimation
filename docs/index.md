@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1516,7 +1516,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**[link](https://github.com/aralab-unr/esm_icp)**|
-|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v1](http://arxiv.org/abs/2505.04485v1)|null|
+|**2025-05-08**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v2](http://arxiv.org/abs/2505.04485v2)|null|
 |**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**[link](https://github.com/shi-qi-li/mdgd)**|
 |**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049v1](http://arxiv.org/abs/2505.02049v1)|null|
 |**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619v1](http://arxiv.org/abs/2504.21619v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1517,14 +1517,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**[link](https://github.com/aralab-unr/esm_icp)**|
-|**2025-05-07**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v1](http://arxiv.org/abs/2505.04485v1)|null|
+|**2025-05-08**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v2](http://arxiv.org/abs/2505.04485v2)|null|
 |**2025-05-06**|**Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration**|Shiqi Li et.al.|[2505.03692v1](http://arxiv.org/abs/2505.03692v1)|**[link](https://github.com/shi-qi-li/mdgd)**|
 |**2025-05-04**|**Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery**|Sier Ha et.al.|[2505.02049v1](http://arxiv.org/abs/2505.02049v1)|null|
 |**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619v1](http://arxiv.org/abs/2504.21619v1)|null|
@@ -1741,7 +1741,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1846,7 +1846,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -5743,5 +5743,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250509>back to top</a>)</p>
 

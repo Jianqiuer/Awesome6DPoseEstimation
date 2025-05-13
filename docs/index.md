@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1851,7 +1851,7 @@ layout: default
 |**2025-05-09**|**MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks**|Wenqi Zeng et.al.|[2505.06152v1](http://arxiv.org/abs/2505.06152v1)|**[link](https://github.com/zwq803/mm-skin)**|
 |**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149v1](http://arxiv.org/abs/2505.06149v1)|null|
 |**2025-05-09**|**ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning**|Jiawei Hou et.al.|[2505.06131v1](http://arxiv.org/abs/2505.06131v1)|null|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v1](http://arxiv.org/abs/2505.06108v1)|null|
+|**2025-05-12**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108v2](http://arxiv.org/abs/2505.06108v2)|null|
 |**2025-05-09**|**3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks**|Vineet Bhat et.al.|[2505.05800v1](http://arxiv.org/abs/2505.05800v1)|null|
 |**2025-05-09**|**Towards Embodiment Scaling Laws in Robot Locomotion**|Bo Ai et.al.|[2505.05753v1](http://arxiv.org/abs/2505.05753v1)|null|
 |**2025-05-08**|**scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction**|Qing Wang et.al.|[2505.05612v1](http://arxiv.org/abs/2505.05612v1)|**[link](https://github.com/qsong-github/scdrugmap)**|

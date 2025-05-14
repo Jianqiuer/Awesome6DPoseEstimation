@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Sleep Position Classification using Transfer Learning for Bed-based Pressure Sensors**|Olivier Papillon et.al.|[2505.08111v1](http://arxiv.org/abs/2505.08111v1)|null|
+|**2025-05-07**|**Pose Estimation for Intra-cardiac Echocardiography Catheter via AI-Based Anatomical Understanding**|Jaeyoung Huh et.al.|[2505.07851v1](http://arxiv.org/abs/2505.07851v1)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306v1](http://arxiv.org/abs/2505.07306v1)|null|
 |**2025-05-13**|**Human Motion Prediction via Test-domain-aware Adaptation with Easily-available Human Motions Estimated from Videos**|Katsuki Shimbo et.al.|[2505.07301v2](http://arxiv.org/abs/2505.07301v2)|null|
 |**2025-05-12**|**When Dance Video Archives Challenge Computer Vision**|Philippe Colantoni et.al.|[2505.07249v1](http://arxiv.org/abs/2505.07249v1)|null|
@@ -1862,6 +1864,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768v1](http://arxiv.org/abs/2505.08768v1)|null|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|null|
+|**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704v1](http://arxiv.org/abs/2505.08704v1)|null|
+|**2025-05-13**|**Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness**|Reihaneh Mirjalili et.al.|[2505.08627v1](http://arxiv.org/abs/2505.08627v1)|null|
+|**2025-05-13**|**Boosting Zero-shot Stereo Matching using Large-scale Mixed Images Sources in the Real World**|Yuran Wang et.al.|[2505.08607v1](http://arxiv.org/abs/2505.08607v1)|null|
+|**2025-05-13**|**From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation**|Yifu Yuan et.al.|[2505.08548v1](http://arxiv.org/abs/2505.08548v1)|null|
+|**2025-05-13**|**LCES: Zero-shot Automated Essay Scoring via Pairwise Comparisons Using Large Language Models**|Takumi Shibata et.al.|[2505.08498v1](http://arxiv.org/abs/2505.08498v1)|null|
+|**2025-05-13**|**Large Language Models Meet Stance Detection: A Survey of Tasks, Methods, Applications, Challenges and Future Directions**|Lata Pangtey et.al.|[2505.08464v1](http://arxiv.org/abs/2505.08464v1)|null|
+|**2025-05-13**|**Zero-Shot Sim-to-Real Reinforcement Learning for Fruit Harvesting**|Emlyn Williams et.al.|[2505.08458v1](http://arxiv.org/abs/2505.08458v1)|null|
+|**2025-05-13**|**Visual Image Reconstruction from Brain Activity via Latent Representation**|Yukiyasu Kamitani et.al.|[2505.08429v1](http://arxiv.org/abs/2505.08429v1)|null|
 |**2025-05-12**|**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**|Songlin Dong et.al.|[2505.07690v1](http://arxiv.org/abs/2505.07690v1)|null|
 |**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683v1](http://arxiv.org/abs/2505.07683v1)|**[link](https://github.com/StevenSong/multimodal-cancer-survival)**|
 |**2025-05-12**|**TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining**|Paul Primus et.al.|[2505.07609v1](http://arxiv.org/abs/2505.07609v1)|null|

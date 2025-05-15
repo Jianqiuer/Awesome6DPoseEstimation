@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**UMotion: Uncertainty-driven Human Motion Estimation from Inertial and Ultra-wideband Units**|Huakun Liu et.al.|[2505.09393v1](http://arxiv.org/abs/2505.09393v1)|**[link](https://github.com/kk9six/umotion)**|
+|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356v1](http://arxiv.org/abs/2505.09356v1)|**[link](https://github.com/gt-arc/apr-transformer)**|
+|**2025-05-13**|**Real-time Capable Learning-based Visual Tool Pose Correction via Differentiable Simulation**|Shuyuan Yang et.al.|[2505.08875v1](http://arxiv.org/abs/2505.08875v1)|null|
 |**2025-05-12**|**Sleep Position Classification using Transfer Learning for Bed-based Pressure Sensors**|Olivier Papillon et.al.|[2505.08111v1](http://arxiv.org/abs/2505.08111v1)|null|
 |**2025-05-07**|**Pose Estimation for Intra-cardiac Echocardiography Catheter via AI-Based Anatomical Understanding**|Jaeyoung Huh et.al.|[2505.07851v1](http://arxiv.org/abs/2505.07851v1)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306v1](http://arxiv.org/abs/2505.07306v1)|null|
@@ -1526,6 +1529,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v1](http://arxiv.org/abs/2505.09103v1)|null|
 |**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962v1](http://arxiv.org/abs/2505.04962v1)|null|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**[link](https://github.com/aralab-unr/esm_icp)**|
 |**2025-05-08**|**FA-KPConv: Introducing Euclidean Symmetries to KPConv via Frame Averaging**|Ali Alawieh et.al.|[2505.04485v2](http://arxiv.org/abs/2505.04485v2)|null|
@@ -1852,6 +1856,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2505.09484v1](http://arxiv.org/abs/2505.09484v1)|null|
+|**2025-05-14**|**Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records**|Yili He et.al.|[2505.09435v1](http://arxiv.org/abs/2505.09435v1)|null|
+|**2025-05-14**|**MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment**|Siyuan Yan et.al.|[2505.09372v1](http://arxiv.org/abs/2505.09372v1)|**[link](https://github.com/siyuanyan1/make)**|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358v1](http://arxiv.org/abs/2505.09358v1)|null|
+|**2025-05-14**|**MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning**|Bin-Bin Gao et.al.|[2505.09265v1](http://arxiv.org/abs/2505.09265v1)|null|
+|**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252v1](http://arxiv.org/abs/2505.09252v1)|null|
+|**2025-05-14**|**Zero-shot Quantization: A Comprehensive Survey**|Minjun Kim et.al.|[2505.09188v1](http://arxiv.org/abs/2505.09188v1)|null|
+|**2025-05-14**|**A Comparative Review of RNA Language Models**|He Wang et.al.|[2505.09087v1](http://arxiv.org/abs/2505.09087v1)|null|
+|**2025-05-14**|**Human-like Cognitive Generalization for Large Models via Brain-in-the-loop Supervision**|Jiaxuan Chen et.al.|[2505.09085v1](http://arxiv.org/abs/2505.09085v1)|null|
+|**2025-05-13**|**For GPT-4 as with Humans: Information Structure Predicts Acceptability of Long-Distance Dependencies**|Nicole Cuneo et.al.|[2505.09005v1](http://arxiv.org/abs/2505.09005v1)|null|
 |**2025-05-13**|**SPAT: Sensitivity-based Multihead-attention Pruning on Time Series Forecasting Models**|Suhan Guo et.al.|[2505.08768v1](http://arxiv.org/abs/2505.08768v1)|null|
 |**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712v1](http://arxiv.org/abs/2505.08712v1)|null|
 |**2025-05-13**|**LLM-based Prompt Ensemble for Reliable Medical Entity Recognition from EHRs**|K M Sajjadul Islam et.al.|[2505.08704v1](http://arxiv.org/abs/2505.08704v1)|null|

@@ -1753,6 +1753,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-04-26**|**WLTCL: Wide Field-of-View 3-D LiDAR Truck Compartment Automatic Localization System**|Guodong Sun et.al.|[2504.18870v1](http://arxiv.org/abs/2504.18870v1)|null|
 |**2025-04-16**|**3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap**|Minmin Yang et.al.|[2504.12442v1](http://arxiv.org/abs/2504.12442v1)|**[link](https://github.com/lexieyang/3d-pointzshots)**|
 |**2025-04-09**|**UAV Position Estimation using a LiDAR-based 3D Object Detection Method**|Uthman Olawoye et.al.|[2504.07028v1](http://arxiv.org/abs/2504.07028v1)|null|
@@ -1856,6 +1857,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Depth Anything with Any Prior**|Zehan Wang et.al.|[2505.10565v1](http://arxiv.org/abs/2505.10565v1)|null|
+|**2025-05-15**|**NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning**|Le Shi et.al.|[2505.10359v1](http://arxiv.org/abs/2505.10359v1)|null|
+|**2025-05-15**|**MSCI: Addressing CLIP's Inherent Limitations for Compositional Zero-Shot Learning**|Yue Wang et.al.|[2505.10289v1](http://arxiv.org/abs/2505.10289v1)|**[link](https://github.com/ltpwy/msci)**|
+|**2025-05-15**|**Comparing LLM Text Annotation Skills: A Study on Human Rights Violations in Social Media Data**|Poli Apollinaire Nemkova et.al.|[2505.10260v1](http://arxiv.org/abs/2505.10260v1)|null|
+|**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088v1](http://arxiv.org/abs/2505.10088v1)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-05-15**|**Advanced Crash Causation Analysis for Freeway Safety: A Large Language Model Approach to Identifying Key Contributing Factors**|Ahmed S. Abdelrahman et.al.|[2505.09949v1](http://arxiv.org/abs/2505.09949v1)|null|
+|**2025-05-14**|**Achieving Tokenizer Flexibility in Language Models through Heuristic Adaptation and Supertoken Learning**|Shaurya Sharthak et.al.|[2505.09738v1](http://arxiv.org/abs/2505.09738v1)|**[link](https://github.com/Tinycompany-AI/tokenadapt)**|
+|**2025-05-14**|**Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling**|William Xie et.al.|[2505.09731v1](http://arxiv.org/abs/2505.09731v1)|null|
 |**2025-05-14**|**Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2505.09484v1](http://arxiv.org/abs/2505.09484v1)|null|
 |**2025-05-14**|**Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records**|Yili He et.al.|[2505.09435v1](http://arxiv.org/abs/2505.09435v1)|null|
 |**2025-05-14**|**MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment**|Siyuan Yan et.al.|[2505.09372v1](http://arxiv.org/abs/2505.09372v1)|**[link](https://github.com/siyuanyan1/make)**|

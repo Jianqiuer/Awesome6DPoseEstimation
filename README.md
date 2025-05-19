@@ -43,7 +43,7 @@
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799v1](http://arxiv.org/abs/2505.01799v1)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729v1](http://arxiv.org/abs/2505.01729v1)|null|
 |**2025-05-02**|**T-Graph: Enhancing Sparse-view Camera Pose Estimation by Pairwise Translation Graph**|Qingyu Xian et.al.|[2505.01207v1](http://arxiv.org/abs/2505.01207v1)|null|
-|**2025-05-02**|**3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer**|Kamel Aouaidjia et.al.|[2505.01003v1](http://arxiv.org/abs/2505.01003v1)|null|
+|**2025-05-02**|**3D Human Pose Estimation via Spatial Graph Order Attention and Temporal Body Aware Transformer**|Kamel Aouaidjia et.al.|[2505.01003v1](http://arxiv.org/abs/2505.01003v1)|**[link](https://github.com/adjkamel/goa_bat)**|
 |**2025-05-01**|**Are Minimal Radial Distortion Solvers Really Necessary for Relative Pose Estimation?**|Viktor Kocur et.al.|[2505.00866v1](http://arxiv.org/abs/2505.00866v1)|**[link](https://github.com/kocurvik/rdnet)**|
 |**2025-05-01**|**P2P-Insole: Human Pose Estimation Using Foot Pressure Distribution and Motion Sensors**|Atsuya Watanabe et.al.|[2505.00755v1](http://arxiv.org/abs/2505.00755v1)|null|
 |**2025-05-01**|**Dietary Intake Estimation via Continuous 3D Reconstruction of Food**|Wallace Lee et.al.|[2505.00606v1](http://arxiv.org/abs/2505.00606v1)|null|
@@ -153,7 +153,7 @@
 |**2025-03-25**|**Pose-Based Fall Detection System: Efficient Monitoring on Standard CPUs**|Vinayak Mali et.al.|[2503.19501v1](http://arxiv.org/abs/2503.19501v1)|null|
 |**2025-03-25**|**Multi-modal 3D Pose and Shape Estimation with Computed Tomography**|Mingxiao Tu et.al.|[2503.19405v1](http://arxiv.org/abs/2503.19405v1)|null|
 |**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358v1](http://arxiv.org/abs/2503.19358v1)|null|
-|**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307v1](http://arxiv.org/abs/2503.19307v1)|null|
+|**2025-03-25**|**Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation**|Zhuoran Zhao et.al.|[2503.19307v1](http://arxiv.org/abs/2503.19307v1)|**[link](https://github.com/delaprada/handsynthesis)**|
 |**2025-03-25**|**Any6D: Model-free 6D Pose Estimation of Novel Objects**|Taeyeop Lee et.al.|[2503.18673v2](http://arxiv.org/abs/2503.18673v2)|null|
 |**2025-03-24**|**Structure-Aware Correspondence Learning for Relative Pose Estimation**|Yihan Chen et.al.|[2503.18671v1](http://arxiv.org/abs/2503.18671v1)|null|
 |**2025-03-24**|**TrackID3x3: A Dataset and Algorithm for Multi-Player Tracking with Identification and Pose Estimation in 3x3 Basketball Full-court Videos**|Kazuhiro Yamada et.al.|[2503.18282v1](http://arxiv.org/abs/2503.18282v1)|**[link](https://github.com/open-starlab/trackid3x3)**|
@@ -556,7 +556,7 @@
 |**2024-09-23**|**Framework for Robust Localization of UUVs and Mapping of Net Pens**|David Botta et.al.|[2409.15475v1](http://arxiv.org/abs/2409.15475v1)|null|
 |**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054v1](http://arxiv.org/abs/2409.15054v1)|**[link](https://github.com/guoyangzhao/fisheyedepth)**|
 |**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755v1](http://arxiv.org/abs/2409.14755v1)|**[link](https://github.com/stefp/whorl_pose_detector)**|
-|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723v1](http://arxiv.org/abs/2409.14723v1)|null|
+|**2024-09-23**|**ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Based on Lightweight and Compact Polygon Maps**|Haiming Gao et.al.|[2409.14723v1](http://arxiv.org/abs/2409.14723v1)|**[link](https://github.com/ghm0819/erpot)**|
 |**2024-09-22**|**Tactile Functasets: Neural Implicit Representations of Tactile Datasets**|Sikai Li et.al.|[2409.14592v1](http://arxiv.org/abs/2409.14592v1)|null|
 |**2024-09-22**|**AR Overlay: Training Image Pose Estimation on Curved Surface in a Synthetic Way**|Sining Huang et.al.|[2409.14577v1](http://arxiv.org/abs/2409.14577v1)|null|
 |**2024-09-22**|**DROP: Dexterous Reorientation via Online Planning**|Albert H. Li et.al.|[2409.14562v1](http://arxiv.org/abs/2409.14562v1)|null|
@@ -1880,7 +1880,7 @@
 |**2025-05-14**|**Denoising and Alignment: Rethinking Domain Generalization for Multimodal Face Anti-Spoofing**|Yingjie Ma et.al.|[2505.09484v1](http://arxiv.org/abs/2505.09484v1)|null|
 |**2025-05-14**|**Endo-CLIP: Progressive Self-Supervised Pre-training on Raw Colonoscopy Records**|Yili He et.al.|[2505.09435v1](http://arxiv.org/abs/2505.09435v1)|null|
 |**2025-05-14**|**MAKE: Multi-Aspect Knowledge-Enhanced Vision-Language Pretraining for Zero-shot Dermatological Assessment**|Siyuan Yan et.al.|[2505.09372v1](http://arxiv.org/abs/2505.09372v1)|**[link](https://github.com/siyuanyan1/make)**|
-|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358v1](http://arxiv.org/abs/2505.09358v1)|null|
+|**2025-05-14**|**Marigold: Affordable Adaptation of Diffusion-Based Image Generators for Image Analysis**|Bingxin Ke et.al.|[2505.09358v1](http://arxiv.org/abs/2505.09358v1)|**[link](https://github.com/prs-eth/marigold)**|
 |**2025-05-14**|**MetaUAS: Universal Anomaly Segmentation with One-Prompt Meta-Learning**|Bin-Bin Gao et.al.|[2505.09265v1](http://arxiv.org/abs/2505.09265v1)|null|
 |**2025-05-14**|**Zero-Shot Multi-modal Large Language Model v.s. Supervised Deep Learning: A Comparative Study on CT-Based Intracranial Hemorrhage Subtyping**|Yinuo Wang et.al.|[2505.09252v1](http://arxiv.org/abs/2505.09252v1)|**[link](https://github.com/mileswyn/ich_mllms_validation)**|
 |**2025-05-14**|**Zero-shot Quantization: A Comprehensive Survey**|Minjun Kim et.al.|[2505.09188v1](http://arxiv.org/abs/2505.09188v1)|null|
@@ -1901,8 +1901,8 @@
 |**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683v1](http://arxiv.org/abs/2505.07683v1)|**[link](https://github.com/StevenSong/multimodal-cancer-survival)**|
 |**2025-05-12**|**TACOS: Temporally-aligned Audio CaptiOnS for Language-Audio Pretraining**|Paul Primus et.al.|[2505.07609v1](http://arxiv.org/abs/2505.07609v1)|null|
 |**2025-05-12**|**L-SWAG: Layer-Sample Wise Activation with Gradients information for Zero-Shot NAS on Vision Transformers**|Sofia Casarin et.al.|[2505.07300v1](http://arxiv.org/abs/2505.07300v1)|null|
-|**2025-05-12**|**SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models**|Peichao Lai et.al.|[2505.07247v1](http://arxiv.org/abs/2505.07247v1)|null|
-|**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019v1](http://arxiv.org/abs/2505.07019v1)|null|
+|**2025-05-12**|**SAS-Bench: A Fine-Grained Benchmark for Evaluating Short Answer Scoring with Large Language Models**|Peichao Lai et.al.|[2505.07247v1](http://arxiv.org/abs/2505.07247v1)|**[link](https://github.com/PKU-DAIR/SAS-Bench)**|
+|**2025-05-11**|**A Vision-Language Foundation Model for Leaf Disease Identification**|Khang Nguyen Quoc et.al.|[2505.07019v1](http://arxiv.org/abs/2505.07019v1)|**[link](https://huggingface.co/enalis/scold)**|
 |**2025-05-11**|**BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation**|Panwen Hu et.al.|[2505.06985v1](http://arxiv.org/abs/2505.06985v1)|null|
 |**2025-05-11**|**Towards Artificial General or Personalized Intelligence? A Survey on Foundation Models for Personalized Federated Intelligence**|Yu Qiao et.al.|[2505.06907v1](http://arxiv.org/abs/2505.06907v1)|null|
 |**2025-05-11**|**Image Classification Using a Diffusion Model as a Pre-Training Model**|Kosuke Ukita et.al.|[2505.06890v1](http://arxiv.org/abs/2505.06890v1)|null|
@@ -1922,32 +1922,32 @@
 |**2025-05-09**|**FlexSpeech: Towards Stable, Controllable and Expressive Text-to-Speech**|Linhan Ma et.al.|[2505.05159v2](http://arxiv.org/abs/2505.05159v2)|null|
 |**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130v1](http://arxiv.org/abs/2505.05130v1)|null|
 |**2025-05-08**|**Reliably Bounding False Positives: A Zero-Shot Machine-Generated Text Detection Framework via Multiscaled Conformal Prediction**|Xiaowei Zhu et.al.|[2505.05084v1](http://arxiv.org/abs/2505.05084v1)|null|
-|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071v1](http://arxiv.org/abs/2505.05071v1)|null|
+|**2025-05-08**|**FG-CLIP: Fine-Grained Visual and Textual Alignment**|Chunyu Xie et.al.|[2505.05071v1](http://arxiv.org/abs/2505.05071v1)|**[link](https://github.com/360cvgroup/fg-clip)**|
 |**2025-05-08**|**Performance Evaluation of Large Language Models in Bangla Consumer Health Query Summarization**|Ajwad Abrar et.al.|[2505.05070v1](http://arxiv.org/abs/2505.05070v1)|null|
 |**2025-05-08**|**Split Matching for Inductive Zero-shot Semantic Segmentation**|Jialei Chen et.al.|[2505.05023v1](http://arxiv.org/abs/2505.05023v1)|null|
 |**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016v1](http://arxiv.org/abs/2505.05016v1)|null|
 |**2025-05-08**|**SpatialPrompting: Keyframe-driven Zero-Shot Spatial Reasoning with Off-the-Shelf Multimodal Large Language Models**|Shun Taguchi et.al.|[2505.04911v1](http://arxiv.org/abs/2505.04911v1)|null|
-|**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579v1](http://arxiv.org/abs/2505.04579v1)|null|
+|**2025-05-07**|**Implicitly Aligning Humans and Autonomous Agents through Shared Task Abstractions**|Stéphane Aroca-Ouellette et.al.|[2505.04579v1](http://arxiv.org/abs/2505.04579v1)|**[link](https://github.com/HIRO-group/HA2)**|
 |**2025-05-07**|**Benchmarking LLMs' Swarm intelligence**|Kai Ruan et.al.|[2505.04364v1](http://arxiv.org/abs/2505.04364v1)|**[link](https://github.com/x66ccff/swarmbench)**|
-|**2025-05-07**|**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**|Yu Zhu et.al.|[2505.04331v1](http://arxiv.org/abs/2505.04331v1)|null|
+|**2025-05-07**|**Neural Representational Consistency Emerges from Probabilistic Neural-Behavioral Representation Alignment**|Yu Zhu et.al.|[2505.04331v1](http://arxiv.org/abs/2505.04331v1)|**[link](https://github.com/zhuyu-cs/pnba)**|
 |**2025-05-07**|**Unmasking the Canvas: A Dynamic Benchmark for Image Generation Jailbreaking and LLM Content Safety**|Variath Madhupal Gautham Nair et.al.|[2505.04146v1](http://arxiv.org/abs/2505.04146v1)|null|
 |**2025-05-07**|**Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment**|Xueyao Zhang et.al.|[2505.04113v1](http://arxiv.org/abs/2505.04113v1)|null|
 |**2025-05-06**|**Can Large Language Models Predict Parallel Code Performance?**|Gregory Bolet et.al.|[2505.03988v1](http://arxiv.org/abs/2505.03988v1)|null|
 |**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947v1](http://arxiv.org/abs/2505.03947v1)|**[link](https://github.com/alienkevin/frogger)**|
 |**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703v1](http://arxiv.org/abs/2505.03703v1)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679v1](http://arxiv.org/abs/2505.03679v1)|null|
-|**2025-05-07**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631v2](http://arxiv.org/abs/2505.03631v2)|null|
+|**2025-05-07**|**Breaking Annotation Barriers: Generalized Video Quality Assessment via Ranking-based Self-Supervision**|Linhan Cao et.al.|[2505.03631v2](http://arxiv.org/abs/2505.03631v2)|**[link](https://github.com/clh124/LMM-PVQA)**|
 |**2025-05-06**|**CXR-AD: Component X-ray Image Dataset for Industrial Anomaly Detection**|Haoyu Bai et.al.|[2505.03412v1](http://arxiv.org/abs/2505.03412v1)|null|
 |**2025-05-06**|**Interpretable Zero-shot Learning with Infinite Class Concepts**|Zihan Ye et.al.|[2505.03361v1](http://arxiv.org/abs/2505.03361v1)|null|
 |**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334v1](http://arxiv.org/abs/2505.03334v1)|null|
 |**2025-05-06**|**GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data**|Shengliang Deng et.al.|[2505.03233v1](http://arxiv.org/abs/2505.03233v1)|null|
 |**2025-05-06**|**Not All Parameters Matter: Masking Diffusion Models for Enhancing Generation Ability**|Lei Wang et.al.|[2505.03097v1](http://arxiv.org/abs/2505.03097v1)|null|
-|**2025-05-05**|**Leveraging Protein Language Model Embeddings for Catalytic Turnover Prediction of Adenylate Kinase Orthologs in a Low-Data Regime**|Duncan F. Muir et.al.|[2505.03066v1](http://arxiv.org/abs/2505.03066v1)|null|
+|**2025-05-05**|**Leveraging Protein Language Model Embeddings for Catalytic Turnover Prediction of Adenylate Kinase Orthologs in a Low-Data Regime**|Duncan F. Muir et.al.|[2505.03066v1](http://arxiv.org/abs/2505.03066v1)|**[link](https://github.com/keiserlab/face-plm)**|
 |**2025-05-05**|**Sim2Real Transfer for Vision-Based Grasp Verification**|Pau Amargant et.al.|[2505.03046v1](http://arxiv.org/abs/2505.03046v1)|**[link](https://github.com/pauamargant/hsr-graspsynth)**|
 |**2025-05-05**|**Advancing Generalizable Tumor Segmentation with Anomaly-Aware Open-Vocabulary Attention Maps and Frozen Foundation Diffusion Models**|Yankai Jiang et.al.|[2505.02753v1](http://arxiv.org/abs/2505.02753v1)|**[link](https://github.com/yankai96/diffugts)**|
 |**2025-05-06**|**Knowledge Graphs for Enhancing Large Language Models in Entity Disambiguation**|Gerard Pons et.al.|[2505.02737v2](http://arxiv.org/abs/2505.02737v2)|null|
 |**2025-05-06**|**VGLD: Visually-Guided Linguistic Disambiguation for Monocular Depth Scale Recovery**|Bojin Wu et.al.|[2505.02704v2](http://arxiv.org/abs/2505.02704v2)|**[link](https://github.com/pakinwu/vgld)**|
-|**2025-05-05**|**Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality**|Xueguang Ma et.al.|[2505.02466v1](http://arxiv.org/abs/2505.02466v1)|null|
+|**2025-05-05**|**Tevatron 2.0: Unified Document Retrieval Toolkit across Scale, Language, and Modality**|Xueguang Ma et.al.|[2505.02466v1](http://arxiv.org/abs/2505.02466v1)|**[link](https://github.com/texttron/tevatron)**|
 |**2025-05-05**|**Recent Advances in Out-of-Distribution Detection with CLIP-Like Models: A Survey**|Chaohua Li et.al.|[2505.02448v1](http://arxiv.org/abs/2505.02448v1)|null|
 |**2025-05-05**|**JTCSE: Joint Tensor-Modulus Constraints and Cross-Attention for Unsupervised Contrastive Learning of Sentence Embeddings**|Tianyu Zong et.al.|[2505.02366v1](http://arxiv.org/abs/2505.02366v1)|**[link](https://github.com/tianyuzong/jtcse)**|
 |**2025-05-05**|**Advancing Email Spam Detection: Leveraging Zero-Shot Learning and Large Language Models**|Ghazaleh SHirvani et.al.|[2505.02362v1](http://arxiv.org/abs/2505.02362v1)|**[link](https://github.com/saeidshirazi/Email-Spam-Detection-zeroshot)**|
@@ -1956,13 +1956,13 @@
 |**2025-05-04**|**Compositional Image-Text Matching and Retrieval by Grounding Entities**|Madhukar Reddy Vongala et.al.|[2505.02278v1](http://arxiv.org/abs/2505.02278v1)|null|
 |**2025-05-02**|**FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research**|Yan Miao et.al.|[2505.01383v1](http://arxiv.org/abs/2505.01383v1)|null|
 |**2025-05-05**|**Helping Large Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315v2](http://arxiv.org/abs/2505.01315v2)|null|
-|**2025-05-02**|**CAV-MAE Sync: Improving Contrastive Audio-Visual Mask Autoencoders via Fine-Grained Alignment**|Edson Araujo et.al.|[2505.01237v1](http://arxiv.org/abs/2505.01237v1)|null|
+|**2025-05-02**|**CAV-MAE Sync: Improving Contrastive Audio-Visual Mask Autoencoders via Fine-Grained Alignment**|Edson Araujo et.al.|[2505.01237v1](http://arxiv.org/abs/2505.01237v1)|**[link](https://github.com/edsonroteia/cav-mae-sync)**|
 |**2025-05-02**|**Zero-Shot Document-Level Biomedical Relation Extraction via Scenario-based Prompt Design in Two-Stage with LLM**|Lei Zhao et.al.|[2505.01077v1](http://arxiv.org/abs/2505.01077v1)|null|
 |**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981v1](http://arxiv.org/abs/2505.00981v1)|null|
 |**2025-05-01**|**ICQuant: Index Coding enables Low-bit LLM Quantization**|Xinlin Li et.al.|[2505.00850v1](http://arxiv.org/abs/2505.00850v1)|null|
 |**2025-05-01**|**HMCF: A Human-in-the-loop Multi-Robot Collaboration Framework Based on Large Language Models**|Zhaoxing Li et.al.|[2505.00820v1](http://arxiv.org/abs/2505.00820v1)|null|
 |**2025-05-01**|**Constructing an Optimal Behavior Basis for the Option Keyboard**|Lucas N. Alegre et.al.|[2505.00787v1](http://arxiv.org/abs/2505.00787v1)|null|
-|**2025-05-01**|**Reasoning Capabilities and Invariability of Large Language Models**|Alessandro Raganato et.al.|[2505.00776v1](http://arxiv.org/abs/2505.00776v1)|null|
+|**2025-05-01**|**Reasoning Capabilities and Invariability of Large Language Models**|Alessandro Raganato et.al.|[2505.00776v1](http://arxiv.org/abs/2505.00776v1)|**[link](https://github.com/ikr3-lab/ReasoningLLMs)**|
 |**2025-05-01**|**Investigating Task Arithmetic for Zero-Shot Information Retrieval**|Marco Braga et.al.|[2505.00649v1](http://arxiv.org/abs/2505.00649v1)|**[link](https://github.com/detectivemb/task-arithmetic-for-zs-ir)**|
 |**2025-05-01**|**Voice Cloning: Comprehensive Survey**|Hussam Azzuni et.al.|[2505.00579v1](http://arxiv.org/abs/2505.00579v1)|null|
 |**2025-05-01**|**AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis**|Shuang Zhang et.al.|[2505.00578v1](http://arxiv.org/abs/2505.00578v1)|null|
@@ -1973,7 +1973,7 @@
 |**2025-04-30**|**Common3D: Self-Supervised Learning of 3D Morphable Models for Common Objects in Neural Feature Space**|Leonhard Sommer et.al.|[2504.21749v1](http://arxiv.org/abs/2504.21749v1)|null|
 |**2025-04-30**|**Precision Where It Matters: A Novel Spike Aware Mixed-Precision Quantization Strategy for LLaMA-based Language Models**|Lucas Maisonnave et.al.|[2504.21553v1](http://arxiv.org/abs/2504.21553v1)|null|
 |**2025-04-30**|**Synergy-CLIP: Extending CLIP with Multi-modal Integration for Robust Representation Learning**|Sangyeon Cho et.al.|[2504.21375v1](http://arxiv.org/abs/2504.21375v1)|null|
-|**2025-04-30**|**Zero-Shot Super-Resolution from Unstructured Data Using a Transformer-Based Neural Operator for Urban Micrometeorology**|Yuki Yasuda et.al.|[2504.21361v1](http://arxiv.org/abs/2504.21361v1)|null|
+|**2025-04-30**|**Zero-Shot Super-Resolution from Unstructured Data Using a Transformer-Based Neural Operator for Urban Micrometeorology**|Yuki Yasuda et.al.|[2504.21361v1](http://arxiv.org/abs/2504.21361v1)|**[link](https://github.com/YukiYasuda2718/zero-shot-sr-urban-mm)**|
 |**2025-04-30**|**An Evaluation of a Visual Question Answering Strategy for Zero-shot Facial Expression Recognition in Still Images**|Modesto Castrillón-Santana et.al.|[2504.21309v1](http://arxiv.org/abs/2504.21309v1)|null|
 |**2025-04-29**|**Graph Synthetic Out-of-Distribution Exposure with Large Language Models**|Haoyan Xu et.al.|[2504.21198v1](http://arxiv.org/abs/2504.21198v1)|null|
 |**2025-04-29**|**Small or Large? Zero-Shot or Finetuned? Guiding Language Model Choice for Specialized Applications in Healthcare**|Lovedeep Gondara et.al.|[2504.21191v1](http://arxiv.org/abs/2504.21191v1)|null|
@@ -1986,7 +1986,7 @@
 |**2025-04-29**|**In-Context Edit: Enabling Instructional Image Editing with In-Context Generation in Large Scale Diffusion Transformer**|Zechuan Zhang et.al.|[2504.20690v1](http://arxiv.org/abs/2504.20690v1)|null|
 |**2025-04-29**|**Revisiting the MIMIC-IV Benchmark: Experiments Using Language Models for Electronic Health Records**|Jesus Lovon et.al.|[2504.20547v1](http://arxiv.org/abs/2504.20547v1)|null|
 |**2025-04-29**|**MuRAL: A Multi-Resident Ambient Sensor Dataset Annotated with Natural Language for Activities of Daily Living**|Xi Chen et.al.|[2504.20505v1](http://arxiv.org/abs/2504.20505v1)|null|
-|**2025-04-29**|**Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models**|Enfa Fane et.al.|[2504.20469v1](http://arxiv.org/abs/2504.20469v1)|null|
+|**2025-04-29**|**Fane at SemEval-2025 Task 10: Zero-Shot Entity Framing with Large Language Models**|Enfa Fane et.al.|[2504.20469v1](http://arxiv.org/abs/2504.20469v1)|**[link](https://github.com/beingenfa/semeval2025task10)**|
 |**2025-04-29**|**Plant Disease Detection through Multimodal Large Language Models and Convolutional Neural Networks**|Konstantinos I. Roumeliotis et.al.|[2504.20419v1](http://arxiv.org/abs/2504.20419v1)|null|
 |**2025-04-29**|**FourierSpecNet: Neural Collision Operator Approximation Inspired by the Fourier Spectral Method for Solving the Boltzmann Equation**|Jae Yong Lee et.al.|[2504.20408v1](http://arxiv.org/abs/2504.20408v1)|null|
 |**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039v1](http://arxiv.org/abs/2504.20039v1)|null|
@@ -2020,7 +2020,7 @@
 |**2025-04-23**|**Decoupled Global-Local Alignment for Improving Compositional Understanding**|Xiaoxing Hu et.al.|[2504.16801v1](http://arxiv.org/abs/2504.16801v1)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433v1](http://arxiv.org/abs/2504.16433v1)|null|
 |**2025-04-24**|**Can Large Language Models Help Multimodal Language Analysis? MMLA: A Comprehensive Benchmark**|Hanlei Zhang et.al.|[2504.16427v2](http://arxiv.org/abs/2504.16427v2)|**[link](https://github.com/thuiar/mmla)**|
-|**2025-04-23**|**Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation**|Jiahao Yuan et.al.|[2504.16408v1](http://arxiv.org/abs/2504.16408v1)|null|
+|**2025-04-23**|**Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation**|Jiahao Yuan et.al.|[2504.16408v1](http://arxiv.org/abs/2504.16408v1)|**[link](https://github.com/jhcircle/less-is-more)**|
 |**2025-04-22**|**CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents**|Francisco Valentini et.al.|[2504.16264v1](http://arxiv.org/abs/2504.16264v1)|null|
 |**2025-04-22**|**W-PCA Based Gradient-Free Proxy for Efficient Search of Lightweight Language Models**|Shang Wang et.al.|[2504.15983v1](http://arxiv.org/abs/2504.15983v1)|null|
 |**2025-04-22**|**FreeGraftor: Training-Free Cross-Image Feature Grafting for Subject-Driven Text-to-Image Generation**|Zebin Yao et.al.|[2504.15958v1](http://arxiv.org/abs/2504.15958v1)|null|
@@ -2447,7 +2447,7 @@
 |**2025-02-17**|**Can LLMs Simulate Social Media Engagement? A Study on Action-Guided Response Generation**|Zhongyi Qiu et.al.|[2502.12073v1](http://arxiv.org/abs/2502.12073v1)|null|
 |**2025-02-17**|**Model Generalization on Text Attribute Graphs: Principles with Large Language Models**|Haoyu Wang et.al.|[2502.11836v1](http://arxiv.org/abs/2502.11836v1)|**[link](https://github.com/graph-com/llm_bp)**|
 |**2025-02-17**|**Text Classification in the LLM Era - Where do we stand?**|Sowmya Vajjala et.al.|[2502.11830v1](http://arxiv.org/abs/2502.11830v1)|null|
-|**2025-02-17**|**video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**|Guangzhi Sun et.al.|[2502.11775v1](http://arxiv.org/abs/2502.11775v1)|null|
+|**2025-02-17**|**video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**|Guangzhi Sun et.al.|[2502.11775v1](http://arxiv.org/abs/2502.11775v1)|**[link](https://github.com/BriansIDP/video-SALMONN-o1)**|
 |**2025-02-17**|**Multi-Modal Retrieval Augmentation for Open-Ended and Knowledge-Intensive Video Question Answering**|Md Zarif Ul Alam et.al.|[2502.11747v1](http://arxiv.org/abs/2502.11747v1)|null|
 |**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725v1](http://arxiv.org/abs/2502.11725v1)|**[link](https://github.com/fra31/perceptual-metrics)**|
 |**2025-02-17**|**MaskGWM: A Generalizable Driving World Model with Video Mask Reconstruction**|Jingcheng Ni et.al.|[2502.11663v1](http://arxiv.org/abs/2502.11663v1)|**[link](https://github.com/sensetime-fvg/opendwm)**|
@@ -2867,7 +2867,7 @@
 |**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568v1](http://arxiv.org/abs/2412.03568v1)|null|
 |**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|Rui Xiao et.al.|[2412.03561v1](http://arxiv.org/abs/2412.03561v1)|**[link](https://github.com/explainableml/flair)**|
 |**2024-12-04**|**Diffusion-VLA: Scaling Robot Foundation Models via Unified Diffusion and Autoregression**|Junjie Wen et.al.|[2412.03293v1](http://arxiv.org/abs/2412.03293v1)|null|
-|**2024-12-04**|**Expanding Event Modality Applications through a Robust CLIP-Based Encoder**|Sungheon Jeong et.al.|[2412.03093v1](http://arxiv.org/abs/2412.03093v1)|null|
+|**2024-12-04**|**Expanding Event Modality Applications through a Robust CLIP-Based Encoder**|Sungheon Jeong et.al.|[2412.03093v1](http://arxiv.org/abs/2412.03093v1)|**[link](https://github.com/EavnJeong/Event_Modality_Application)**|
 |**2024-12-04**|**ASR-EC Benchmark: Evaluating Large Language Models on Chinese ASR Error Correction**|Victor Junqiu Wei et.al.|[2412.03075v1](http://arxiv.org/abs/2412.03075v1)|null|
 |**2024-12-04**|**UTSD: Unified Time Series Diffusion Model**|Xiangkai Ma et.al.|[2412.03068v1](http://arxiv.org/abs/2412.03068v1)|null|
 |**2024-12-03**|**A Novel Compact LLM Framework for Local, High-Privacy EHR Data Applications**|Yixiang Qu et.al.|[2412.02868v1](http://arxiv.org/abs/2412.02868v1)|null|

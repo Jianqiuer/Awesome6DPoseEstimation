@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos**|Ruoyu Wang et.al.|[2505.13440v1](http://arxiv.org/abs/2505.13440v1)|**[link](https://github.com/dwawayu/pensieve)**|
+|**2025-05-19**|**KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture**|R. James Cotton et.al.|[2505.13436v1](http://arxiv.org/abs/2505.13436v1)|null|
+|**2025-05-19**|**The Way Up: A Dataset for Hold Usage Detection in Sport Climbing**|Anna Maschek et.al.|[2505.12854v1](http://arxiv.org/abs/2505.12854v1)|null|
+|**2025-05-17**|**Keypoints as Dynamic Centroids for Unified Human Pose and Segmentation**|Niaz Ahmad et.al.|[2505.12130v1](http://arxiv.org/abs/2505.12130v1)|null|
+|**2025-05-17**|**Black-box Adversaries from Latent Space: Unnoticeable Attacks on Human Pose and Shape Estimation**|Zhiying Li et.al.|[2505.12009v1](http://arxiv.org/abs/2505.12009v1)|null|
+|**2025-05-17**|**ElderFallGuard: Real-Time IoT and Computer Vision-Based Fall Detection System for Elderly Safety**|Tasrifur Riahi et.al.|[2505.11845v1](http://arxiv.org/abs/2505.11845v1)|null|
 |**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439v1](http://arxiv.org/abs/2505.11439v1)|null|
 |**2025-05-16**|**MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection**|Shrutarv Awasthi et.al.|[2505.11282v1](http://arxiv.org/abs/2505.11282v1)|null|
 |**2025-05-16**|**PoseBench3D: A Cross-Dataset Analysis Framework for 3D Human Pose Estimation**|Saad Manzur et.al.|[2505.10888v1](http://arxiv.org/abs/2505.10888v1)|null|
@@ -1533,6 +1539,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|null|
+|**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868v1](http://arxiv.org/abs/2505.11868v1)|null|
 |**2025-05-15**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103v2](http://arxiv.org/abs/2505.09103v2)|null|
 |**2025-05-08**|**An Efficient Method for Accurate Pose Estimation and Error Correction of Cuboidal Objects**|Utsav Rai et.al.|[2505.04962v1](http://arxiv.org/abs/2505.04962v1)|null|
 |**2025-05-07**|**Registration of 3D Point Sets Using Exponential-based Similarity Matrix**|Ashutosh Singandhupe et.al.|[2505.04540v1](http://arxiv.org/abs/2505.04540v1)|**[link](https://github.com/aralab-unr/esm_icp)**|
@@ -1861,6 +1869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419v1](http://arxiv.org/abs/2505.13419v1)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233v1](http://arxiv.org/abs/2505.13233v1)|**[link](https://github.com/bit-da/abs)**|
+|**2025-05-19**|**StarFT: Robust Fine-tuning of Zero-shot Models via Spuriosity Alignment**|Younghyun Kim et.al.|[2505.13232v1](http://arxiv.org/abs/2505.13232v1)|**[link](https://github.com/alinlab/starft)**|
+|**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192v1](http://arxiv.org/abs/2505.13192v1)|null|
+|**2025-05-19**|**Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**|Zhengrui Ma et.al.|[2505.13181v1](http://arxiv.org/abs/2505.13181v1)|**[link](https://github.com/ictnlp/sled-tts)**|
+|**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173v1](http://arxiv.org/abs/2505.13173v1)|null|
+|**2025-05-19**|**Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics**|Maksim Bobrin et.al.|[2505.13150v1](http://arxiv.org/abs/2505.13150v1)|null|
+|**2025-05-19**|**Zero-Shot Iterative Formalization and Planning in Partially Observable Environments**|Liancheng Gong et.al.|[2505.13126v1](http://arxiv.org/abs/2505.13126v1)|**[link](https://github.com/zharry29/pddlego-plus)**|
+|**2025-05-19**|**$μ$ PC: Scaling Predictive Coding to 100+ Layer Networks**|Francesco Innocenti et.al.|[2505.13124v1](http://arxiv.org/abs/2505.13124v1)|**[link](https://github.com/thebuckleylab/jpc)**|
 |**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439v1](http://arxiv.org/abs/2505.11439v1)|null|
 |**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404v1](http://arxiv.org/abs/2505.11404v1)|null|
 |**2025-05-16**|**Learning Multimodal AI Algorithms for Amplifying Limited User Input into High-dimensional Control Space**|Ali Rabiee et.al.|[2505.11366v1](http://arxiv.org/abs/2505.11366v1)|null|

@@ -1869,6 +1869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**SAFEPATH: Preventing Harmful Reasoning in Chain-of-Thought via Early Alignment**|Wonje Jeung et.al.|[2505.14667v1](http://arxiv.org/abs/2505.14667v1)|null|
+|**2025-05-20**|**Void in Language Models**|Mani Shemiranifar et.al.|[2505.14467v1](http://arxiv.org/abs/2505.14467v1)|null|
+|**2025-05-20**|**Empowering LLMs in Task-Oriented Dialogues: A Domain-Independent Multi-Agent Framework and Fine-Tuning Strategy**|Zihao Feng et.al.|[2505.14299v1](http://arxiv.org/abs/2505.14299v1)|null|
+|**2025-05-20**|**FuxiMT: Sparsifying Large Language Models for Chinese-Centric Multilingual Machine Translation**|Shaolin Zhu et.al.|[2505.14256v1](http://arxiv.org/abs/2505.14256v1)|null|
+|**2025-05-20**|**UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning**|Sule Bai et.al.|[2505.14231v1](http://arxiv.org/abs/2505.14231v1)|null|
+|**2025-05-20**|**Beginning with You: Perceptual-Initialization Improves Vision-Language Representation and Alignment**|Yang Hu et.al.|[2505.14204v1](http://arxiv.org/abs/2505.14204v1)|null|
+|**2025-05-20**|**LMP: Leveraging Motion Prior in Zero-Shot Video Generation with Diffusion Transformer**|Changgu Chen et.al.|[2505.14167v1](http://arxiv.org/abs/2505.14167v1)|null|
+|**2025-05-20**|**Breaking Language Barriers or Reinforcing Bias? A Study of Gender and Racial Disparities in Multilingual Contrastive Vision Language Models**|Zahraa Al Sahili et.al.|[2505.14160v1](http://arxiv.org/abs/2505.14160v1)|null|
+|**2025-05-20**|**AudSemThinker: Enhancing Audio-Language Models through Reasoning over Semantics of Sound**|Gijs Wijngaard et.al.|[2505.14142v1](http://arxiv.org/abs/2505.14142v1)|null|
+|**2025-05-20**|**SeamlessEdit: Background Noise Aware Zero-Shot Speech Editing with in-Context Enhancement**|Kuan-Yu Chen et.al.|[2505.14066v1](http://arxiv.org/abs/2505.14066v1)|null|
 |**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|null|
 |**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419v1](http://arxiv.org/abs/2505.13419v1)|**[link](https://github.com/953206211/feallm)**|
 |**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233v1](http://arxiv.org/abs/2505.13233v1)|**[link](https://github.com/bit-da/abs)**|

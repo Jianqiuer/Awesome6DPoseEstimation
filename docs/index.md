@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1774,7 +1774,7 @@ layout: default
 |**2025-04-12**|**ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation**|Haosheng Li et.al.|[2504.01648v2](http://arxiv.org/abs/2504.01648v2)|null|
 |**2025-03-24**|**DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation**|Karim Abou Zeid et.al.|[2503.18944v1](http://arxiv.org/abs/2503.18944v1)|**[link](https://github.com/VisualComputingInstitute/DITR)**|
 |**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976v1](http://arxiv.org/abs/2503.16976v1)|null|
-|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v1](http://arxiv.org/abs/2503.16282v1)|**[link](https://github.com/zhaochongan/gfs-vl)**|
+|**2025-05-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282v2](http://arxiv.org/abs/2503.16282v2)|**[link](https://github.com/zhaochongan/gfs-vl)**|
 |**2025-03-19**|**Depth-Aware Range Image-Based Model for Point Cloud Segmentation**|Bike Chen et.al.|[2503.14955v1](http://arxiv.org/abs/2503.14955v1)|null|
 |**2025-03-18**|**Deep Unsupervised Segmentation of Log Point Clouds**|Fedor Zolotarev et.al.|[2503.14244v1](http://arxiv.org/abs/2503.14244v1)|null|
 |**2025-03-07**|**Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches**|Tian Qiu et.al.|[2503.05630v1](http://arxiv.org/abs/2503.05630v1)|null|
@@ -1872,12 +1872,12 @@ layout: default
 |**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441v1](http://arxiv.org/abs/2505.13441v1)|null|
 |**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419v1](http://arxiv.org/abs/2505.13419v1)|**[link](https://github.com/953206211/feallm)**|
 |**2025-05-19**|**From Local Details to Global Context: Advancing Vision-Language Models with Attention-Based Selection**|Lincan Cai et.al.|[2505.13233v1](http://arxiv.org/abs/2505.13233v1)|**[link](https://github.com/bit-da/abs)**|
-|**2025-05-19**|**StarFT: Robust Fine-tuning of Zero-shot Models via Spuriosity Alignment**|Younghyun Kim et.al.|[2505.13232v1](http://arxiv.org/abs/2505.13232v1)|**[link](https://github.com/alinlab/starft)**|
+|**2025-05-20**|**StarFT: Robust Fine-tuning of Zero-shot Models via Spuriosity Alignment**|Younghyun Kim et.al.|[2505.13232v2](http://arxiv.org/abs/2505.13232v2)|**[link](https://github.com/alinlab/starft)**|
 |**2025-05-19**|**True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics**|Christoph Jürgen Hemmer et.al.|[2505.13192v1](http://arxiv.org/abs/2505.13192v1)|null|
 |**2025-05-19**|**Efficient Speech Language Modeling via Energy Distance in Continuous Latent Space**|Zhengrui Ma et.al.|[2505.13181v1](http://arxiv.org/abs/2505.13181v1)|**[link](https://github.com/ictnlp/sled-tts)**|
 |**2025-05-19**|**A Case Study of Cross-Lingual Zero-Shot Generalization for Classical Languages in LLMs**|V. S. D. S. Mahesh Akavarapu et.al.|[2505.13173v1](http://arxiv.org/abs/2505.13173v1)|null|
 |**2025-05-19**|**Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics**|Maksim Bobrin et.al.|[2505.13150v1](http://arxiv.org/abs/2505.13150v1)|null|
-|**2025-05-19**|**Zero-Shot Iterative Formalization and Planning in Partially Observable Environments**|Liancheng Gong et.al.|[2505.13126v1](http://arxiv.org/abs/2505.13126v1)|**[link](https://github.com/zharry29/pddlego-plus)**|
+|**2025-05-20**|**Zero-Shot Iterative Formalization and Planning in Partially Observable Environments**|Liancheng Gong et.al.|[2505.13126v2](http://arxiv.org/abs/2505.13126v2)|**[link](https://github.com/zharry29/pddlego-plus)**|
 |**2025-05-19**|**$μ$ PC: Scaling Predictive Coding to 100+ Layer Networks**|Francesco Innocenti et.al.|[2505.13124v1](http://arxiv.org/abs/2505.13124v1)|**[link](https://github.com/thebuckleylab/jpc)**|
 |**2025-05-16**|**SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision**|Utsav Rai et.al.|[2505.11439v1](http://arxiv.org/abs/2505.11439v1)|null|
 |**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404v1](http://arxiv.org/abs/2505.11404v1)|null|

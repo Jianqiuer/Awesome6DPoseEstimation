@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2505.19215v1](http://arxiv.org/abs/2505.19215v1)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|null|
+|**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|
+|**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342v1](http://arxiv.org/abs/2505.18342v1)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677v1](http://arxiv.org/abs/2505.17677v1)|null|
 |**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475v1](http://arxiv.org/abs/2505.17475v1)|**[link](https://github.com/uyoung-jeong/PoseBH)**|
@@ -1554,6 +1558,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340v1](http://arxiv.org/abs/2505.18340v1)|null|
 |**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726v1](http://arxiv.org/abs/2505.16726v1)|**[link](https://github.com/robotics-upo/D-LIO)**|
 |**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**[link](https://github.com/zhaoyiww/coff)**|
 |**2025-05-17**|**MonoMobility: Zero-Shot 3D Mobility Analysis from Monocular Videos**|Hongyi Zhou et.al.|[2505.11868v1](http://arxiv.org/abs/2505.11868v1)|null|
@@ -1783,6 +1788,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026v1](http://arxiv.org/abs/2505.19026v1)|null|
 |**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783v1](http://arxiv.org/abs/2505.17783v1)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|
 |**2025-04-26**|**WLTCL: Wide Field-of-View 3-D LiDAR Truck Compartment Automatic Localization System**|Guodong Sun et.al.|[2504.18870v1](http://arxiv.org/abs/2504.18870v1)|null|
@@ -1890,6 +1896,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032v1](http://arxiv.org/abs/2505.20032v1)|null|
+|**2025-05-26**|**Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)**|Subba Reddy Oota et.al.|[2505.20029v1](http://arxiv.org/abs/2505.20029v1)|null|
+|**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024v1](http://arxiv.org/abs/2505.20024v1)|null|
+|**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952v1](http://arxiv.org/abs/2505.19952v1)|null|
+|**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944v1](http://arxiv.org/abs/2505.19944v1)|null|
+|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|null|
+|**2025-05-26**|**Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation**|Nagito Saito et.al.|[2505.19846v1](http://arxiv.org/abs/2505.19846v1)|null|
+|**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707v1](http://arxiv.org/abs/2505.19707v1)|null|
+|**2025-05-26**|**Graph Guided Diffusion: Unified Guidance for Conditional Graph Generation**|Victor M. Tenorio et.al.|[2505.19685v1](http://arxiv.org/abs/2505.19685v1)|null|
+|**2025-05-26**|**Calibrating Pre-trained Language Classifiers on LLM-generated Noisy Labels via Iterative Refinement**|Liqin Ye et.al.|[2505.19675v1](http://arxiv.org/abs/2505.19675v1)|null|
 |**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053v1](http://arxiv.org/abs/2505.18053v1)|null|
 |**2025-05-23**|**Contrastive Distillation of Emotion Knowledge from LLMs for Zero-Shot Emotion Recognition**|Minxue Niu et.al.|[2505.18040v1](http://arxiv.org/abs/2505.18040v1)|null|
 |**2025-05-23**|**Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**|Li Zhong et.al.|[2505.18039v1](http://arxiv.org/abs/2505.18039v1)|null|

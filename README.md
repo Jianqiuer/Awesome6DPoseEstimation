@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Spectral Compression Transformer with Line Pose Graph for Monocular 3D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.21309v1](http://arxiv.org/abs/2505.21309v1)|null|
+|**2025-05-27**|**ReassembleNet: Learnable Keypoints and Diffusion for 2D Fresco Reconstruction**|Adeela Islam et.al.|[2505.21117v1](http://arxiv.org/abs/2505.21117v1)|null|
+|**2025-05-27**|**HS-SLAM: A Fast and Hybrid Strategy-Based SLAM Approach for Low-Speed Autonomous Driving**|Bingxiang Kang et.al.|[2505.20906v1](http://arxiv.org/abs/2505.20906v1)|null|
+|**2025-05-27**|**Mamba-Driven Topology Fusion for Monocular 3-D Human Pose Estimation**|Zenghao Zheng et.al.|[2505.20611v1](http://arxiv.org/abs/2505.20611v1)|null|
+|**2025-05-26**|**HAND Me the Data: Fast Robot Adaptation via Hand Path Retrieval**|Matthew Hong et.al.|[2505.20455v1](http://arxiv.org/abs/2505.20455v1)|null|
 |**2025-05-25**|**Learning the Contact Manifold for Accurate Pose Estimation During Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2505.19215v1](http://arxiv.org/abs/2505.19215v1)|null|
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|null|
 |**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|
@@ -1896,6 +1901,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Vision Transformers with Self-Distilled Registers**|Yinjie Chen et.al.|[2505.21501v1](http://arxiv.org/abs/2505.21501v1)|null|
+|**2025-05-27**|**M3S-UPD: Efficient Multi-Stage Self-Supervised Learning for Fine-Grained Encrypted Traffic Classification with Unknown Pattern Discovery**|Yali Yuan et.al.|[2505.21462v1](http://arxiv.org/abs/2505.21462v1)|null|
+|**2025-05-27**|**Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO**|Muzhi Zhu et.al.|[2505.21457v1](http://arxiv.org/abs/2505.21457v1)|null|
+|**2025-05-27**|**Leveraging Large Language Models for Bengali Math Word Problem Solving with Chain of Thought Reasoning**|Bidyarthi Paul et.al.|[2505.21354v1](http://arxiv.org/abs/2505.21354v1)|null|
+|**2025-05-27**|**Breaking the Performance Ceiling in Complex Reinforcement Learning requires Inference Strategies**|Felix Chalumeau et.al.|[2505.21236v1](http://arxiv.org/abs/2505.21236v1)|null|
+|**2025-05-27**|**Reason-Align-Respond: Aligning LLM Reasoning with Knowledge Graphs for KGQA**|Xiangqing Shen et.al.|[2505.20971v1](http://arxiv.org/abs/2505.20971v1)|null|
+|**2025-05-27**|**Context-Aware Content Moderation for German Newspaper Comments**|Felix Krejca et.al.|[2505.20963v1](http://arxiv.org/abs/2505.20963v1)|null|
+|**2025-05-27**|**In Context Learning with Vision Transformers: Case Study**|Antony Zhao et.al.|[2505.20872v1](http://arxiv.org/abs/2505.20872v1)|null|
+|**2025-05-27**|**Respond to Change with Constancy: Instruction-tuning with LLM for Non-I.I.D. Network Traffic Classification**|Xinjie Lin et.al.|[2505.20866v1](http://arxiv.org/abs/2505.20866v1)|null|
+|**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773v1](http://arxiv.org/abs/2505.20773v1)|null|
 |**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032v1](http://arxiv.org/abs/2505.20032v1)|null|
 |**2025-05-26**|**Correlating instruction-tuning (in multimodal models) with vision-language processing (in the brain)**|Subba Reddy Oota et.al.|[2505.20029v1](http://arxiv.org/abs/2505.20029v1)|null|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024v1](http://arxiv.org/abs/2505.20024v1)|null|

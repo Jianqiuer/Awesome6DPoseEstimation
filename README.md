@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669v1](http://arxiv.org/abs/2505.24669v1)|null|
+|**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636v1](http://arxiv.org/abs/2505.24636v1)|null|
+|**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411v1](http://arxiv.org/abs/2505.24411v1)|null|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978v1](http://arxiv.org/abs/2505.22978v1)|null|
 |**2025-05-28**|**TwinTrack: Bridging Vision and Contact Physics for Real-Time Tracking of Unknown Dynamic Objects**|Wen Yang et.al.|[2505.22882v1](http://arxiv.org/abs/2505.22882v1)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
@@ -1568,6 +1571,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**A 3D Mobile Crowdsensing Framework for Sustainable Urban Digital Twins**|Taku Yamazaki et.al.|[2505.24348v1](http://arxiv.org/abs/2505.24348v1)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340v1](http://arxiv.org/abs/2505.18340v1)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
 |**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726v1](http://arxiv.org/abs/2505.16726v1)|**[link](https://github.com/robotics-upo/D-LIO)**|
 |**2025-05-19**|**Cross-modal feature fusion for robust point cloud registration with ambiguous geometry**|Zhaoyi Wang et.al.|[2505.13088v1](http://arxiv.org/abs/2505.13088v1)|**[link](https://github.com/zhaoyiww/coff)**|
@@ -1906,6 +1910,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837v1](http://arxiv.org/abs/2505.24837v1)|null|
+|**2025-05-30**|**Multilinguality Does not Make Sense: Investigating Factors Behind Zero-Shot Transfer in Sense-Aware Tasks**|Roksana Goworek et.al.|[2505.24834v1](http://arxiv.org/abs/2505.24834v1)|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757v1](http://arxiv.org/abs/2505.24757v1)|null|
+|**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693v1](http://arxiv.org/abs/2505.24693v1)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672v1](http://arxiv.org/abs/2505.24672v1)|null|
+|**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621v1](http://arxiv.org/abs/2505.24621v1)|null|
+|**2025-05-30**|**When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation**|Daniela Occhipinti et.al.|[2505.24613v1](http://arxiv.org/abs/2505.24613v1)|null|
+|**2025-05-30**|**Improving Language and Modality Transfer in Translation by Character-level Modeling**|Ioannis Tsiamas et.al.|[2505.24561v1](http://arxiv.org/abs/2505.24561v1)|null|
+|**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511v1](http://arxiv.org/abs/2505.24511v1)|null|
+|**2025-05-30**|**Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning**|Amit Peleg et.al.|[2505.24424v1](http://arxiv.org/abs/2505.24424v1)|null|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745v1](http://arxiv.org/abs/2505.23745v1)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719v1](http://arxiv.org/abs/2505.23719v1)|**[link](https://github.com/nx-ai/tirex)**|
 |**2025-05-29**|**AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views**|Lihan Jiang et.al.|[2505.23716v1](http://arxiv.org/abs/2505.23716v1)|null|

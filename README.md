@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853v1](http://arxiv.org/abs/2506.02853v1)|null|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265v1](http://arxiv.org/abs/2506.02265v1)|null|
+|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933v1](http://arxiv.org/abs/2506.01933v1)|null|
+|**2025-06-02**|**SteerPose: Simultaneous Extrinsic Camera Calibration and Matching from Articulation**|Sang-Eun Lee et.al.|[2506.01691v1](http://arxiv.org/abs/2506.01691v1)|null|
+|**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953v1](http://arxiv.org/abs/2506.00953v1)|null|
+|**2025-05-31**|**XYZ-IBD: High-precision Bin-picking Dataset for Object 6D Pose Estimation Capturing Real-world Industrial Complexity**|Junwen Huang et.al.|[2506.00599v1](http://arxiv.org/abs/2506.00599v1)|null|
+|**2025-05-30**|**Lazy Heuristic Search for Solving POMDPs with Expensive-to-Compute Belief Transitions**|Muhammad Suhail Saleem et.al.|[2506.00285v1](http://arxiv.org/abs/2506.00285v1)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669v1](http://arxiv.org/abs/2505.24669v1)|null|
 |**2025-05-30**|**Category-Level 6D Object Pose Estimation in Agricultural Settings Using a Lattice-Deformation Framework and Diffusion-Augmented Synthetic Data**|Marios Glytsos et.al.|[2505.24636v1](http://arxiv.org/abs/2505.24636v1)|null|
 |**2025-05-30**|**PCIE_Pose Solution for EgoExo4D Pose and Proficiency Estimation Challenge**|Feng Chen et.al.|[2505.24411v1](http://arxiv.org/abs/2505.24411v1)|null|
@@ -1910,6 +1918,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131v1](http://arxiv.org/abs/2506.03131v1)|null|
+|**2025-06-03**|**Zero-Shot Time Series Forecasting with Covariates via In-Context Learning**|Andreas Auer et.al.|[2506.03128v1](http://arxiv.org/abs/2506.03128v1)|null|
+|**2025-06-03**|**Targeted Forgetting of Image Subgroups in CLIP Models**|Zeliang Zhang et.al.|[2506.03117v1](http://arxiv.org/abs/2506.03117v1)|null|
+|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114v1](http://arxiv.org/abs/2506.03114v1)|null|
+|**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|null|
+|**2025-06-03**|**DFBench: Benchmarking Deepfake Image Detection Capability of Large Multimodal Models**|Jiarui Wang et.al.|[2506.03007v1](http://arxiv.org/abs/2506.03007v1)|null|
+|**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998v1](http://arxiv.org/abs/2506.02998v1)|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v1](http://arxiv.org/abs/2506.02896v1)|null|
+|**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858v1](http://arxiv.org/abs/2506.02858v1)|null|
+|**2025-06-03**|**PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors**|Yujin Chen et.al.|[2506.02846v1](http://arxiv.org/abs/2506.02846v1)|null|
 |**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837v1](http://arxiv.org/abs/2505.24837v1)|null|
 |**2025-05-30**|**Multilinguality Does not Make Sense: Investigating Factors Behind Zero-Shot Transfer in Sense-Aware Tasks**|Roksana Goworek et.al.|[2505.24834v1](http://arxiv.org/abs/2505.24834v1)|null|
 |**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757v1](http://arxiv.org/abs/2505.24757v1)|null|

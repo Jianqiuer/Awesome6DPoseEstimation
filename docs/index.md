@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1913,7 +1913,7 @@ layout: default
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|null|
 |**2025-06-03**|**DFBench: Benchmarking Deepfake Image Detection Capability of Large Multimodal Models**|Jiarui Wang et.al.|[2506.03007v1](http://arxiv.org/abs/2506.03007v1)|null|
 |**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998v1](http://arxiv.org/abs/2506.02998v1)|null|
-|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v1](http://arxiv.org/abs/2506.02896v1)|null|
+|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v2](http://arxiv.org/abs/2506.02896v2)|null|
 |**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858v1](http://arxiv.org/abs/2506.02858v1)|null|
 |**2025-06-03**|**PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors**|Yujin Chen et.al.|[2506.02846v1](http://arxiv.org/abs/2506.02846v1)|null|
 |**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837v1](http://arxiv.org/abs/2505.24837v1)|null|

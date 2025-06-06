@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282v1](http://arxiv.org/abs/2506.05282v1)|null|
+|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117v1](http://arxiv.org/abs/2506.05117v1)|**[link](https://github.com/southwestCat/text2motion-nao)**|
+|**2025-06-05**|**CzechLynx: A Dataset for Individual Identification and Pose Estimation of the Eurasian Lynx**|Lukas Picek et.al.|[2506.04931v1](http://arxiv.org/abs/2506.04931v1)|null|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803v1](http://arxiv.org/abs/2506.04803v1)|null|
+|**2025-06-05**|**LGM-Pose: A Lightweight Global Modeling Network for Real-time Human Pose Estimation**|Biao Guo et.al.|[2506.04561v1](http://arxiv.org/abs/2506.04561v1)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444v1](http://arxiv.org/abs/2506.04444v1)|**[link](https://github.com/facebookresearch/egocentric_splats)**|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225v1](http://arxiv.org/abs/2506.04225v1)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667v1](http://arxiv.org/abs/2506.03667v1)|null|
 |**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853v1](http://arxiv.org/abs/2506.02853v1)|null|
@@ -1573,6 +1580,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282v1](http://arxiv.org/abs/2506.05282v1)|null|
 |**2025-05-30**|**A 3D Mobile Crowdsensing Framework for Sustainable Urban Digital Twins**|Taku Yamazaki et.al.|[2505.24348v1](http://arxiv.org/abs/2505.24348v1)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340v1](http://arxiv.org/abs/2505.18340v1)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
 |**2025-05-22**|**D-LIO: 6DoF Direct LiDAR-Inertial Odometry based on Simultaneous Truncated Distance Field Mapping**|Lucia Coto-Elena et.al.|[2505.16726v1](http://arxiv.org/abs/2505.16726v1)|**[link](https://github.com/robotics-upo/D-LIO)**|
@@ -1802,6 +1810,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837v1](http://arxiv.org/abs/2506.04837v1)|null|
 |**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026v1](http://arxiv.org/abs/2505.19026v1)|null|
 |**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783v1](http://arxiv.org/abs/2505.17783v1)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|
@@ -1908,6 +1918,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|null|
+|**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285v1](http://arxiv.org/abs/2506.05285v1)|null|
+|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|null|
+|**2025-06-05**|**Can Foundation Models Generalise the Presentation Attack Detection Capabilities on ID Cards?**|Juan E. Tapia et.al.|[2506.05263v1](http://arxiv.org/abs/2506.05263v1)|null|
+|**2025-06-05**|**Towards Vision-Language-Garment Models For Web Knowledge Garment Understanding and Generation**|Jan Ackermann et.al.|[2506.05210v1](http://arxiv.org/abs/2506.05210v1)|null|
+|**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168v1](http://arxiv.org/abs/2506.05168v1)|null|
+|**2025-06-05**|**DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning**|Tanmay Parekh et.al.|[2506.05128v1](http://arxiv.org/abs/2506.05128v1)|null|
+|**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073v1](http://arxiv.org/abs/2506.05073v1)|null|
+|**2025-06-05**|**Tuning the Right Foundation Models is What you Need for Partial Label Learning**|Kuang He et.al.|[2506.05027v1](http://arxiv.org/abs/2506.05027v1)|null|
+|**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008v1](http://arxiv.org/abs/2506.05008v1)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220v1](http://arxiv.org/abs/2506.04220v1)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217v1](http://arxiv.org/abs/2506.04217v1)|null|

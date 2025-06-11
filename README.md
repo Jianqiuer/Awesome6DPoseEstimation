@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
+|**2025-06-10**|**ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds**|Frederik Hagelskjaer et.al.|[2506.08699v1](http://arxiv.org/abs/2506.08699v1)|null|
 |**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996v1](http://arxiv.org/abs/2506.07996v1)|null|
 |**2025-06-09**|**Hierarchical Scoring with 3D Gaussian Splatting for Instance Image-Goal Navigation**|Yijie Deng et.al.|[2506.07338v1](http://arxiv.org/abs/2506.07338v1)|null|
 |**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280v2](http://arxiv.org/abs/2506.07280v2)|null|
@@ -1941,6 +1943,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990v1](http://arxiv.org/abs/2506.08990v1)|null|
+|**2025-06-10**|**Hyperbolic Dual Feature Augmentation for Open-Environment**|Peilin Yu et.al.|[2506.08906v1](http://arxiv.org/abs/2506.08906v1)|null|
+|**2025-06-10**|**Advancing STT for Low-Resource Real-World Speech**|Flavio D'Intino et.al.|[2506.08836v1](http://arxiv.org/abs/2506.08836v1)|null|
+|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771v1](http://arxiv.org/abs/2506.08771v1)|null|
+|**2025-06-10**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768v1](http://arxiv.org/abs/2506.08768v1)|null|
+|**2025-06-10**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v1](http://arxiv.org/abs/2506.08700v1)|null|
+|**2025-06-10**|**Orientation Matters: Making 3D Generative Models Orientation-Aligned**|Yichong Lu et.al.|[2506.08640v1](http://arxiv.org/abs/2506.08640v1)|null|
+|**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592v1](http://arxiv.org/abs/2506.08592v1)|null|
+|**2025-06-10**|**Fairness is Not Silence: Unmasking Vacuous Neutrality in Small Language Models**|Sumanth Manduru et.al.|[2506.08487v1](http://arxiv.org/abs/2506.08487v1)|null|
+|**2025-06-10**|**Detecting Harmful Memes with Decoupled Understanding and Guided CoT Reasoning**|Fengjun Pan et.al.|[2506.08477v1](http://arxiv.org/abs/2506.08477v1)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|null|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984v1](http://arxiv.org/abs/2506.07984v1)|null|

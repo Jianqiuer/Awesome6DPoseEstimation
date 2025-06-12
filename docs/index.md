@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1935,8 +1935,8 @@ layout: default
 |**2025-06-10**|**Hyperbolic Dual Feature Augmentation for Open-Environment**|Peilin Yu et.al.|[2506.08906v1](http://arxiv.org/abs/2506.08906v1)|null|
 |**2025-06-10**|**Advancing STT for Low-Resource Real-World Speech**|Flavio D'Intino et.al.|[2506.08836v1](http://arxiv.org/abs/2506.08836v1)|null|
 |**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771v1](http://arxiv.org/abs/2506.08771v1)|null|
-|**2025-06-10**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768v1](http://arxiv.org/abs/2506.08768v1)|null|
-|**2025-06-10**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v1](http://arxiv.org/abs/2506.08700v1)|null|
+|**2025-06-11**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768v2](http://arxiv.org/abs/2506.08768v2)|null|
+|**2025-06-11**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v2](http://arxiv.org/abs/2506.08700v2)|null|
 |**2025-06-10**|**Orientation Matters: Making 3D Generative Models Orientation-Aligned**|Yichong Lu et.al.|[2506.08640v1](http://arxiv.org/abs/2506.08640v1)|null|
 |**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592v1](http://arxiv.org/abs/2506.08592v1)|null|
 |**2025-06-10**|**Fairness is Not Silence: Unmasking Vacuous Neutrality in Small Language Models**|Sumanth Manduru et.al.|[2506.08487v1](http://arxiv.org/abs/2506.08487v1)|null|

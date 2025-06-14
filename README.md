@@ -16,7 +16,7 @@
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|
 |**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934v1](http://arxiv.org/abs/2506.09934v1)|null|
-|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895v1](http://arxiv.org/abs/2506.09895v1)|null|
+|**2025-06-11**|**EquiCaps: Predictor-Free Pose-Aware Pre-Trained Capsule Networks**|Athinoulla Konstantinou et.al.|[2506.09895v1](http://arxiv.org/abs/2506.09895v1)|**[link](https://github.com/aberdeenml/equicaps)**|
 |**2025-06-11**|**Accurate and efficient zero-shot 6D pose estimation with frozen foundation models**|Andrea Caraffa et.al.|[2506.09784v1](http://arxiv.org/abs/2506.09784v1)|null|
 |**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699v1](http://arxiv.org/abs/2506.09699v1)|null|
 |**2025-06-10**|**Princeton365: A Diverse Dataset with Accurate Camera Pose**|Karhan Kayan et.al.|[2506.09035v1](http://arxiv.org/abs/2506.09035v1)|null|
@@ -1952,7 +1952,7 @@
 |---|---|---|---|---|
 |**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895v1](http://arxiv.org/abs/2506.10895v1)|null|
 |**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|null|
-|**2025-06-12**|**Precise Zero-Shot Pointwise Ranking with LLMs through Post-Aggregated Global Context Information**|Kehan Long et.al.|[2506.10859v1](http://arxiv.org/abs/2506.10859v1)|null|
+|**2025-06-12**|**Precise Zero-Shot Pointwise Ranking with LLMs through Post-Aggregated Global Context Information**|Kehan Long et.al.|[2506.10859v1](http://arxiv.org/abs/2506.10859v1)|**[link](https://github.com/chainsawm/gccp)**|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825v1](http://arxiv.org/abs/2506.10825v1)|null|
 |**2025-06-12**|**Prompts to Summaries: Zero-Shot Language-Guided Video Summarization**|Mario Barbara et.al.|[2506.10807v1](http://arxiv.org/abs/2506.10807v1)|null|
 |**2025-06-12**|**Neural at ArchEHR-QA 2025: Agentic Prompt Optimization for Evidence-Grounded Clinical Question Answering**|Sai Prasanna Teja Reddy Bogireddy et.al.|[2506.10751v1](http://arxiv.org/abs/2506.10751v1)|null|

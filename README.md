@@ -1627,7 +1627,7 @@
 |**2025-04-08**|**Implementation of a Zed 2i Stereo Camera for High-Frequency Shoreline Change and Coastal Elevation Monitoring**|José A. Pilartes-Congo et.al.|[2504.06464v1](http://arxiv.org/abs/2504.06464v1)|null|
 |**2025-04-02**|**Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment**|Zhixin Cheng et.al.|[2504.01641v1](http://arxiv.org/abs/2504.01641v1)|null|
 |**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097v1](http://arxiv.org/abs/2503.17097v1)|null|
-|**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093v1](http://arxiv.org/abs/2503.17093v1)|null|
+|**2025-03-21**|**ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration**|Johan Edstedt et.al.|[2503.17093v1](http://arxiv.org/abs/2503.17093v1)|**[link](https://github.com/ericssonresearch/colabsfm)**|
 |**2025-03-17**|**MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap**|Yilong Wu et.al.|[2503.12833v1](http://arxiv.org/abs/2503.12833v1)|null|
 |**2025-03-13**|**Unlocking Generalization Power in LiDAR Point Cloud Registration**|Zhenxuan Zeng et.al.|[2503.10149v1](http://arxiv.org/abs/2503.10149v1)|**[link](https://github.com/peakpang/ugp)**|
 |**2025-03-11**|**BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes**|Minkyun Seo et.al.|[2503.07940v1](http://arxiv.org/abs/2503.07940v1)|**[link](https://github.com/mit-spark/buffer-x)**|
@@ -1961,8 +1961,8 @@
 |**2025-06-12**|**LLMs Are Not Yet Ready for Deepfake Image Detection**|Shahroz Tariq et.al.|[2506.10474v1](http://arxiv.org/abs/2506.10474v1)|null|
 |**2025-06-12**|**Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions**|Deliang Wang et.al.|[2506.10334v1](http://arxiv.org/abs/2506.10334v1)|null|
 |**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992v1](http://arxiv.org/abs/2506.09992v1)|null|
-|**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985v1](http://arxiv.org/abs/2506.09985v1)|null|
-|**2025-06-11**|**Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking**|Wuwei Zhang et.al.|[2506.09944v1](http://arxiv.org/abs/2506.09944v1)|null|
+|**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985v1](http://arxiv.org/abs/2506.09985v1)|**[link](https://github.com/facebookresearch/vjepa2)**|
+|**2025-06-11**|**Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking**|Wuwei Zhang et.al.|[2506.09944v1](http://arxiv.org/abs/2506.09944v1)|**[link](https://github.com/princeton-pli/qrhead)**|
 |**2025-06-11**|**Dataset of News Articles with Provenance Metadata for Media Relevance Assessment**|Tomas Peterka et.al.|[2506.09847v1](http://arxiv.org/abs/2506.09847v1)|null|
 |**2025-06-11**|**Superstudent intelligence in thermodynamics**|Rebecca Loubet et.al.|[2506.09822v1](http://arxiv.org/abs/2506.09822v1)|null|
 |**2025-06-11**|**Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?**|Andreas Säuberli et.al.|[2506.09796v1](http://arxiv.org/abs/2506.09796v1)|null|
@@ -1980,17 +1980,17 @@
 |**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592v1](http://arxiv.org/abs/2506.08592v1)|null|
 |**2025-06-10**|**Fairness is Not Silence: Unmasking Vacuous Neutrality in Small Language Models**|Sumanth Manduru et.al.|[2506.08487v1](http://arxiv.org/abs/2506.08487v1)|null|
 |**2025-06-10**|**Detecting Harmful Memes with Decoupled Understanding and Guided CoT Reasoning**|Fengjun Pan et.al.|[2506.08477v1](http://arxiv.org/abs/2506.08477v1)|null|
-|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|null|
+|**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|**[link](https://github.com/astra-vision/stablemtl)**|
 |**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005v1](http://arxiv.org/abs/2506.08005v1)|null|
 |**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984v1](http://arxiv.org/abs/2506.07984v1)|null|
 |**2025-06-09**|**LUCIFER: Language Understanding and Context-Infused Framework for Exploration and Behavior Refinement**|Dimitris Panagopoulos et.al.|[2506.07915v1](http://arxiv.org/abs/2506.07915v1)|null|
-|**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896v1](http://arxiv.org/abs/2506.07896v1)|null|
+|**2025-06-09**|**Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark**|Shoko Oka et.al.|[2506.07896v1](http://arxiv.org/abs/2506.07896v1)|**[link](https://github.com/0xshooka/frame-symbol)**|
 |**2025-06-09**|**Deep Equivariant Multi-Agent Control Barrier Functions**|Nikolaos Bousias et.al.|[2506.07755v1](http://arxiv.org/abs/2506.07755v1)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735v1](http://arxiv.org/abs/2506.07735v1)|null|
 |**2025-06-09**|**Vuyko Mistral: Adapting LLMs for Low-Resource Dialectal Translation**|Roman Kyslyi et.al.|[2506.07617v1](http://arxiv.org/abs/2506.07617v1)|null|
 |**2025-06-09**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584v1](http://arxiv.org/abs/2506.07584v1)|null|
 |**2025-06-09**|**Efficient Generation of Diverse Cooperative Agents with World Models**|Yi Loo et.al.|[2506.07450v1](http://arxiv.org/abs/2506.07450v1)|null|
-|**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270v1](http://arxiv.org/abs/2506.06270v1)|null|
+|**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270v1](http://arxiv.org/abs/2506.06270v1)|**[link](https://github.com/hkuds/recgpt)**|
 |**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|null|
 |**2025-06-06**|**Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition**|Tara Azin et.al.|[2506.06133v1](http://arxiv.org/abs/2506.06133v1)|null|
 |**2025-06-06**|**Bridging the Gap: In-Context Learning for Modeling Human Disagreement**|Benedetta Muscato et.al.|[2506.06113v1](http://arxiv.org/abs/2506.06113v1)|null|
@@ -2002,7 +2002,7 @@
 |**2025-06-06**|**MOGO: Residual Quantized Hierarchical Causal Transformer for High-Quality and Real-Time 3D Human Motion Generation**|Dongjie Fu et.al.|[2506.05952v1](http://arxiv.org/abs/2506.05952v1)|null|
 |**2025-06-05**|**ProRefine: Inference-time Prompt Refinement with Textual Feedback**|Deepak Pandita et.al.|[2506.05305v1](http://arxiv.org/abs/2506.05305v1)|null|
 |**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285v1](http://arxiv.org/abs/2506.05285v1)|null|
-|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|null|
+|**2025-06-05**|**From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos**|Animesh Gupta et.al.|[2506.05274v1](http://arxiv.org/abs/2506.05274v1)|**[link](https://github.com/ucf-crcv/tf-covr)**|
 |**2025-06-05**|**Can Foundation Models Generalise the Presentation Attack Detection Capabilities on ID Cards?**|Juan E. Tapia et.al.|[2506.05263v1](http://arxiv.org/abs/2506.05263v1)|null|
 |**2025-06-05**|**Towards Vision-Language-Garment Models For Web Knowledge Garment Understanding and Generation**|Jan Ackermann et.al.|[2506.05210v1](http://arxiv.org/abs/2506.05210v1)|null|
 |**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168v1](http://arxiv.org/abs/2506.05168v1)|null|
@@ -2012,7 +2012,7 @@
 |**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008v1](http://arxiv.org/abs/2506.05008v1)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220v1](http://arxiv.org/abs/2506.04220v1)|null|
-|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217v1](http://arxiv.org/abs/2506.04217v1)|null|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217v1](http://arxiv.org/abs/2506.04217v1)|**[link](https://github.com/hhyhrhy/owmm-agent)**|
 |**2025-06-04**|**MACS: Multi-Agent Reinforcement Learning for Optimization of Crystal Structures**|Elena Zamaraeva et.al.|[2506.04195v1](http://arxiv.org/abs/2506.04195v1)|null|
 |**2025-06-04**|**Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints**|Utkarsh Utkarsh et.al.|[2506.04171v1](http://arxiv.org/abs/2506.04171v1)|null|
 |**2025-06-04**|**HiFiTTS-2: A Large-Scale High Bandwidth Speech Dataset**|Ryan Langman et.al.|[2506.04152v1](http://arxiv.org/abs/2506.04152v1)|null|
@@ -2027,18 +2027,18 @@
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|null|
 |**2025-06-03**|**DFBench: Benchmarking Deepfake Image Detection Capability of Large Multimodal Models**|Jiarui Wang et.al.|[2506.03007v1](http://arxiv.org/abs/2506.03007v1)|null|
 |**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998v1](http://arxiv.org/abs/2506.02998v1)|null|
-|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v2](http://arxiv.org/abs/2506.02896v2)|null|
+|**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896v2](http://arxiv.org/abs/2506.02896v2)|**[link](https://github.com/gmum/flysearch)**|
 |**2025-06-03**|**DGMO: Training-Free Audio Source Separation through Diffusion-Guided Mask Optimization**|Geonyoung Lee et.al.|[2506.02858v1](http://arxiv.org/abs/2506.02858v1)|null|
 |**2025-06-03**|**PBR-SR: Mesh PBR Texture Super Resolution from 2D Image Priors**|Yujin Chen et.al.|[2506.02846v1](http://arxiv.org/abs/2506.02846v1)|null|
 |**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837v1](http://arxiv.org/abs/2505.24837v1)|null|
 |**2025-05-30**|**Multilinguality Does not Make Sense: Investigating Factors Behind Zero-Shot Transfer in Sense-Aware Tasks**|Roksana Goworek et.al.|[2505.24834v1](http://arxiv.org/abs/2505.24834v1)|null|
-|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757v1](http://arxiv.org/abs/2505.24757v1)|null|
+|**2025-05-30**|**LGAR: Zero-Shot LLM-Guided Neural Ranking for Abstract Screening in Systematic Literature Reviews**|Christian Jaumann et.al.|[2505.24757v1](http://arxiv.org/abs/2505.24757v1)|**[link](https://github.com/xitaso/lgar)**|
 |**2025-05-30**|**Conformal Prediction for Zero-Shot Models**|Julio Silva-Rodríguez et.al.|[2505.24693v1](http://arxiv.org/abs/2505.24693v1)|**[link](https://github.com/jusiro/clip-conformal)**|
-|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672v1](http://arxiv.org/abs/2505.24672v1)|null|
+|**2025-05-30**|**TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis**|Xiaorui Wu et.al.|[2505.24672v1](http://arxiv.org/abs/2505.24672v1)|**[link](https://github.com/fisht0ucher/trident)**|
 |**2025-05-30**|**Benchmarking Large Language Models for Cryptanalysis and Mismatched-Generalization**|Utsav Maskey et.al.|[2505.24621v1](http://arxiv.org/abs/2505.24621v1)|null|
 |**2025-05-30**|**When Harry Meets Superman: The Role of The Interlocutor in Persona-Based Dialogue Generation**|Daniela Occhipinti et.al.|[2505.24613v1](http://arxiv.org/abs/2505.24613v1)|null|
 |**2025-05-30**|**Improving Language and Modality Transfer in Translation by Character-level Modeling**|Ioannis Tsiamas et.al.|[2505.24561v1](http://arxiv.org/abs/2505.24561v1)|null|
-|**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511v1](http://arxiv.org/abs/2505.24511v1)|null|
+|**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511v1](http://arxiv.org/abs/2505.24511v1)|**[link](https://github.com/realwangjiahao/timereasoner)**|
 |**2025-05-30**|**Advancing Compositional Awareness in CLIP with Efficient Fine-Tuning**|Amit Peleg et.al.|[2505.24424v1](http://arxiv.org/abs/2505.24424v1)|null|
 |**2025-05-29**|**To Trust Or Not To Trust Your Vision-Language Model's Prediction**|Hao Dong et.al.|[2505.23745v1](http://arxiv.org/abs/2505.23745v1)|**[link](https://github.com/epfl-imos/trustvlm)**|
 |**2025-05-29**|**TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning**|Andreas Auer et.al.|[2505.23719v1](http://arxiv.org/abs/2505.23719v1)|**[link](https://github.com/nx-ai/tirex)**|
@@ -2301,8 +2301,8 @@
 |**2025-04-22**|**Research on Navigation Methods Based on LLMs**|Anlong Zhang et.al.|[2504.15600v1](http://arxiv.org/abs/2504.15600v1)|null|
 |**2025-04-22**|**LLM-based Semantic Augmentation for Harmful Content Detection**|Elyas Meguellati et.al.|[2504.15548v1](http://arxiv.org/abs/2504.15548v1)|null|
 |**2025-04-21**|**From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System**|Rohan Surana et.al.|[2504.15476v1](http://arxiv.org/abs/2504.15476v1)|null|
-|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470v1](http://arxiv.org/abs/2504.15470v1)|null|
-|**2025-04-21**|**Tell Me What You Know About Sexism: Expert-LLM Interaction Strategies and Co-Created Definitions for Zero-Shot Sexism Detection**|Myrthe Reuver et.al.|[2504.15392v1](http://arxiv.org/abs/2504.15392v1)|null|
+|**2025-04-21**|**Manifold Induced Biases for Zero-shot and Few-shot Detection of Generated Images**|Jonathan Brokman et.al.|[2504.15470v1](http://arxiv.org/abs/2504.15470v1)|**[link](https://github.com/jonathanbrok/manifold-induced-biases-for-zero-shot-and-few-shot-detection-of-generated-images)**|
+|**2025-04-21**|**Tell Me What You Know About Sexism: Expert-LLM Interaction Strategies and Co-Created Definitions for Zero-Shot Sexism Detection**|Myrthe Reuver et.al.|[2504.15392v1](http://arxiv.org/abs/2504.15392v1)|**[link](https://github.com/myrthereuver/expertinteractionszeroshotsexism)**|
 |**2025-04-21**|**Leveraging Language Models for Automated Patient Record Linkage**|Mohammad Beheshti et.al.|[2504.15261v1](http://arxiv.org/abs/2504.15261v1)|null|
 |**2025-04-21**|**Zero-Shot, But at What Cost? Unveiling the Hidden Overhead of MILS's LLM-CLIP Framework for Image Captioning**|Yassir Benhammou et.al.|[2504.15199v1](http://arxiv.org/abs/2504.15199v1)|null|
 |**2025-04-21**|**Think2SQL: Reinforce LLM Reasoning Capabilities for Text2SQL**|Simone Papicchio et.al.|[2504.15077v1](http://arxiv.org/abs/2504.15077v1)|null|
@@ -2606,7 +2606,7 @@
 |**2025-03-06**|**A Dataset for Analysing News Framing in Chinese Media**|Owen Cook et.al.|[2503.04439v1](http://arxiv.org/abs/2503.04439v1)|null|
 |**2025-03-06**|**Comparative Study of Zero-Shot Cross-Lingual Transfer for Bodo POS and NER Tagging Using Gemini 2.0 Flash Thinking Experimental Model**|Sanjib Narzary et.al.|[2503.04405v1](http://arxiv.org/abs/2503.04405v1)|null|
 |**2025-03-06**|**Large Language Models for Zero-shot Inference of Causal Structures in Biology**|Izzy Newsham et.al.|[2503.04347v1](http://arxiv.org/abs/2503.04347v1)|null|
-|**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207v1](http://arxiv.org/abs/2503.04207v1)|null|
+|**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207v1](http://arxiv.org/abs/2503.04207v1)|**[link](https://github.com/haitaowutju/uncertainty-aware-blur-prior)**|
 |**2025-03-05**|**OTTER: A Vision-Language-Action Model with Text-Aware Visual Feature Extraction**|Huang Huang et.al.|[2503.03734v1](http://arxiv.org/abs/2503.03734v1)|null|
 |**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613v1](http://arxiv.org/abs/2503.03613v1)|**[link](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)**|
 |**2025-03-05**|**Scaling Crowdsourced Election Monitoring: Construction and Evaluation of Classification Models for Multilingual and Cross-Domain Classification Settings**|Jabez Magomere et.al.|[2503.03582v1](http://arxiv.org/abs/2503.03582v1)|null|
@@ -2630,7 +2630,7 @@
 |**2025-02-28**|**Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation**|Utku Ozbulak et.al.|[2502.20934v1](http://arxiv.org/abs/2502.20934v1)|null|
 |**2025-02-28**|**DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping**|Yifan Zhong et.al.|[2502.20900v1](http://arxiv.org/abs/2502.20900v1)|null|
 |**2025-02-28**|**Better Benchmarking LLMs for Zero-Shot Dependency Parsing**|Ana Ezquerro et.al.|[2502.20866v1](http://arxiv.org/abs/2502.20866v1)|null|
-|**2025-02-28**|**MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**|Shaoming Li et.al.|[2502.20861v1](http://arxiv.org/abs/2502.20861v1)|null|
+|**2025-02-28**|**MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image**|Shaoming Li et.al.|[2502.20861v1](http://arxiv.org/abs/2502.20861v1)|**[link](https://github.com/qingqingle/mesc-3d)**|
 |**2025-02-28**|**Hierarchical and Modular Network on Non-prehensile Manipulation in General Environments**|Yoonyoung Cho et.al.|[2502.20843v1](http://arxiv.org/abs/2502.20843v1)|null|
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826v1](http://arxiv.org/abs/2502.20826v1)|null|
 |**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780v1](http://arxiv.org/abs/2502.20780v1)|**[link](https://github.com/russellyq/medhalltune)**|
@@ -3094,7 +3094,7 @@
 |**2024-12-11**|**Lightweight Method for Interactive 3D Medical Image Segmentation with Multi-Round Result Fusion**|Bingzhi Shen et.al.|[2412.08315v1](http://arxiv.org/abs/2412.08315v1)|null|
 |**2024-12-11**|**2M-BELEBELE: Highly Multilingual Speech and American Sign Language Comprehension Dataset**|Marta R. Costa-jussà et.al.|[2412.08274v1](http://arxiv.org/abs/2412.08274v1)|null|
 |**2024-12-11**|**Large Language Models for Scholarly Ontology Generation: An Extensive Analysis in the Engineering Field**|Tanay Aggarwal et.al.|[2412.08258v1](http://arxiv.org/abs/2412.08258v1)|**[link](https://github.com/ImTanay/LLM-Automatic-Ontology-Generation)**|
-|**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v1](http://arxiv.org/abs/2412.08174v1)|null|
+|**2024-12-11**|**Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?**|Zihao Li et.al.|[2412.08174v1](http://arxiv.org/abs/2412.08174v1)|**[link](https://github.com/violet24k/morpher)**|
 |**2024-12-10**|**Video Motion Transfer with Diffusion Transformers**|Alexander Pondaven et.al.|[2412.07776v1](http://arxiv.org/abs/2412.07776v1)|**[link](https://github.com/ditflow/ditflow)**|
 |**2024-12-10**|**From Slow Bidirectional to Fast Causal Video Generators**|Tianwei Yin et.al.|[2412.07772v1](http://arxiv.org/abs/2412.07772v1)|null|
 |**2024-12-11**|**Test-time Correction with Human Feedback: An Online 3D Detection System via Visual Prompting**|Zetong Yang et.al.|[2412.07768v2](http://arxiv.org/abs/2412.07768v2)|null|

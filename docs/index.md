@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596v1](http://arxiv.org/abs/2506.14596v1)|null|
+|**2025-06-17**|**Non-Overlap-Aware Egocentric Pose Estimation for Collaborative Perception in Connected Autonomy**|Hong Huang et.al.|[2506.14180v1](http://arxiv.org/abs/2506.14180v1)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178v1](http://arxiv.org/abs/2506.14178v1)|null|
+|**2025-06-16**|**Diffusion-based Inverse Observation Model for Artificial Skin**|Ante Maric et.al.|[2506.13986v1](http://arxiv.org/abs/2506.13986v1)|null|
+|**2025-06-16**|**ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning**|Yunchu Zhang et.al.|[2506.13867v1](http://arxiv.org/abs/2506.13867v1)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766v1](http://arxiv.org/abs/2506.13766v1)|null|
 |**2025-06-16**|**JENGA: Object selection and pose estimation for robotic grasping from a stack**|Sai Srinivas Jeevanandam et.al.|[2506.13425v1](http://arxiv.org/abs/2506.13425v1)|null|
 |**2025-06-16**|**Automatic Multi-View X-Ray/CT Registration Using Bone Substructure Contours**|Roman Flepp et.al.|[2506.13292v1](http://arxiv.org/abs/2506.13292v1)|null|
@@ -1947,6 +1952,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641v1](http://arxiv.org/abs/2506.14641v1)|null|
+|**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525v1](http://arxiv.org/abs/2506.14525v1)|null|
+|**2025-06-17**|**EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization**|Xiaoqi Wang et.al.|[2506.14356v1](http://arxiv.org/abs/2506.14356v1)|null|
+|**2025-06-17**|**ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes**|Zeyuan Chen et.al.|[2506.14317v1](http://arxiv.org/abs/2506.14317v1)|null|
+|**2025-06-17**|**Equivariance Everywhere All At Once: A Recipe for Graph Foundation Models**|Ben Finkelshtein et.al.|[2506.14291v1](http://arxiv.org/abs/2506.14291v1)|null|
+|**2025-06-17**|**Investigation of Zero-shot Text-to-Speech Models for Enhancing Short-Utterance Speaker Verification**|Yiyang Zhao et.al.|[2506.14226v1](http://arxiv.org/abs/2506.14226v1)|null|
+|**2025-06-17**|**Interpreting Biomedical VLMs on High-Imbalance Out-of-Distributions: An Insight into BiomedCLIP on Radiology**|Nafiz Sadman et.al.|[2506.14136v1](http://arxiv.org/abs/2506.14136v1)|null|
+|**2025-06-17**|**Multi-Scale Finetuning for Encoder-based Time Series Foundation Models**|Zhongzheng Qiao et.al.|[2506.14087v1](http://arxiv.org/abs/2506.14087v1)|null|
+|**2025-06-16**|**An Interdisciplinary Review of Commonsense Reasoning and Intent Detection**|Md Nazmus Sakib et.al.|[2506.14040v1](http://arxiv.org/abs/2506.14040v1)|null|
+|**2025-06-16**|**Comparison of ConvNeXt and Vision-Language Models for Breast Density Assessment in Screening Mammography**|Yusdivia Molina-Román et.al.|[2506.13964v1](http://arxiv.org/abs/2506.13964v1)|null|
 |**2025-06-16**|**LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction**|Haoru Xue et.al.|[2506.13751v1](http://arxiv.org/abs/2506.13751v1)|null|
 |**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723v1](http://arxiv.org/abs/2506.13723v1)|null|
 |**2025-06-16**|**Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning**|Jun Ma et.al.|[2506.13470v1](http://arxiv.org/abs/2506.13470v1)|null|

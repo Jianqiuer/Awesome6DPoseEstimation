@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Human Motion Capture from Loose and Sparse Inertial Sensors with Garment-aware Diffusion Models**|Andela Ilic et.al.|[2506.15290v1](http://arxiv.org/abs/2506.15290v1)|null|
+|**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242v1](http://arxiv.org/abs/2506.15242v1)|null|
 |**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596v1](http://arxiv.org/abs/2506.14596v1)|null|
 |**2025-06-17**|**Non-Overlap-Aware Egocentric Pose Estimation for Collaborative Perception in Connected Autonomy**|Hong Huang et.al.|[2506.14180v1](http://arxiv.org/abs/2506.14180v1)|null|
 |**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178v1](http://arxiv.org/abs/2506.14178v1)|null|
@@ -1952,6 +1954,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Task-Agnostic Experts Composition for Continual Learning**|Luigi Quarantiello et.al.|[2506.15566v1](http://arxiv.org/abs/2506.15566v1)|null|
+|**2025-06-18**|**Creating User-steerable Projections with Interactive Semantic Mapping**|Artur André Oliveira et.al.|[2506.15479v1](http://arxiv.org/abs/2506.15479v1)|null|
+|**2025-06-18**|**Zero-Shot Reinforcement Learning Under Partial Observability**|Scott Jeen et.al.|[2506.15446v1](http://arxiv.org/abs/2506.15446v1)|null|
+|**2025-06-18**|**DeVisE: Behavioral Testing of Medical Large Language Models**|Camila Zurdo Tagliabue et.al.|[2506.15339v1](http://arxiv.org/abs/2506.15339v1)|null|
+|**2025-06-18**|**A Comparative Study of Task Adaptation Techniques of Large Language Models for Identifying Sustainable Development Goals**|Andrea Cadeddu et.al.|[2506.15208v1](http://arxiv.org/abs/2506.15208v1)|null|
+|**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180v1](http://arxiv.org/abs/2506.15180v1)|null|
+|**2025-06-18**|**DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory**|Zihe Ji et.al.|[2506.15096v1](http://arxiv.org/abs/2506.15096v1)|null|
+|**2025-06-17**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?**|Shadman Sakib et.al.|[2506.14949v1](http://arxiv.org/abs/2506.14949v1)|null|
+|**2025-06-17**|**BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models**|Bharath Dandala et.al.|[2506.14861v1](http://arxiv.org/abs/2506.14861v1)|null|
 |**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641v1](http://arxiv.org/abs/2506.14641v1)|null|
 |**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525v1](http://arxiv.org/abs/2506.14525v1)|null|
 |**2025-06-17**|**EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization**|Xiaoqi Wang et.al.|[2506.14356v1](http://arxiv.org/abs/2506.14356v1)|null|

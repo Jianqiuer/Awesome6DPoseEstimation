@@ -1,4 +1,4 @@
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -1615,7 +1615,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250622>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1849,7 +1849,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250622>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -1960,7 +1960,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250622>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -1974,7 +1974,7 @@
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180v1](http://arxiv.org/abs/2506.15180v1)|null|
 |**2025-06-18**|**DyNaVLM: Zero-Shot Vision-Language Navigation System with Dynamic Viewpoints and Self-Refining Graph Memory**|Zihe Ji et.al.|[2506.15096v1](http://arxiv.org/abs/2506.15096v1)|null|
 |**2025-06-17**|**From Chat to Checkup: Can Large Language Models Assist in Diabetes Prediction?**|Shadman Sakib et.al.|[2506.14949v1](http://arxiv.org/abs/2506.14949v1)|null|
-|**2025-06-17**|**BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models**|Bharath Dandala et.al.|[2506.14861v1](http://arxiv.org/abs/2506.14861v1)|null|
+|**2025-06-17**|**BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models**|Bharath Dandala et.al.|[2506.14861v1](http://arxiv.org/abs/2506.14861v1)|**[link](https://github.com/biomedsciai/biomed-multi-omic)**|
 |**2025-06-17**|**Revisiting Chain-of-Thought Prompting: Zero-shot Can Be Stronger than Few-shot**|Xiang Cheng et.al.|[2506.14641v1](http://arxiv.org/abs/2506.14641v1)|null|
 |**2025-06-17**|**VisLanding: Monocular 3D Perception for UAV Safe Landing via Depth-Normal Synergy**|Zhuoyue Tan et.al.|[2506.14525v1](http://arxiv.org/abs/2506.14525v1)|null|
 |**2025-06-17**|**EVA02-AT: Egocentric Video-Language Understanding with Spatial-Temporal Rotary Positional Embeddings and Symmetric Optimization**|Xiaoqi Wang et.al.|[2506.14356v1](http://arxiv.org/abs/2506.14356v1)|null|
@@ -6144,5 +6144,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250622>back to top</a>)</p>
 

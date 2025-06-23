@@ -26,7 +26,7 @@
 |**2025-06-16**|**DETRPose: Real-time end-to-end transformer model for multi-person pose estimation**|Sebastian Janampa et.al.|[2506.13027v1](http://arxiv.org/abs/2506.13027v1)|**[link](https://github.com/SebastianJanampa/DETRPose)**|
 |**2025-06-15**|**A large-scale, physically-based synthetic dataset for satellite pose estimation**|Szabolcs Velkei et.al.|[2506.12782v1](http://arxiv.org/abs/2506.12782v1)|null|
 |**2025-06-13**|**ViTaSCOPE: Visuo-tactile Implicit Representation for In-hand Pose and Extrinsic Contact Estimation**|Jayjun Lee et.al.|[2506.12239v1](http://arxiv.org/abs/2506.12239v1)|null|
-|**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133v1](http://arxiv.org/abs/2506.11133v1)|null|
+|**2025-06-10**|**Monocular 3D Hand Pose Estimation with Implicit Camera Alignment**|Christos Pantazopoulos et.al.|[2506.11133v1](http://arxiv.org/abs/2506.11133v1)|**[link](https://github.com/cpantazop/handrepo)**|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816v1](http://arxiv.org/abs/2506.10816v1)|null|
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787v1](http://arxiv.org/abs/2506.10787v1)|null|
 |**2025-06-11**|**Fluoroscopic Shape and Pose Tracking of Catheters with Custom Radiopaque Markers**|Jared Lawson et.al.|[2506.09934v1](http://arxiv.org/abs/2506.09934v1)|null|
@@ -55,7 +55,7 @@
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359v1](http://arxiv.org/abs/2506.04359v1)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225v1](http://arxiv.org/abs/2506.04225v1)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667v1](http://arxiv.org/abs/2506.03667v1)|null|
-|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853v1](http://arxiv.org/abs/2506.02853v1)|null|
+|**2025-06-03**|**Learning Pyramid-structured Long-range Dependencies for 3D Human Pose Estimation**|Mingjie Wei et.al.|[2506.02853v1](http://arxiv.org/abs/2506.02853v1)|**[link](https://github.com/MingjieWe/PGFormer)**|
 |**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736v1](http://arxiv.org/abs/2506.02736v1)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
 |**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265v1](http://arxiv.org/abs/2506.02265v1)|null|
 |**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933v1](http://arxiv.org/abs/2506.01933v1)|null|
@@ -80,7 +80,7 @@
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652v1](http://arxiv.org/abs/2505.18652v1)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-24**|**An Inertial Sequence Learning Framework for Vehicle Speed Estimation via Smartphone IMU**|Xuan Xiao et.al.|[2505.18490v1](http://arxiv.org/abs/2505.18490v1)|null|
 |**2025-05-23**|**Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance**|Jack Goffinet et.al.|[2505.18342v1](http://arxiv.org/abs/2505.18342v1)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973v1](http://arxiv.org/abs/2505.17973v1)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677v1](http://arxiv.org/abs/2505.17677v1)|null|
 |**2025-05-23**|**PoseBH: Prototypical Multi-Dataset Training Beyond Human Pose Estimation**|Uyoung Jeong et.al.|[2505.17475v1](http://arxiv.org/abs/2505.17475v1)|**[link](https://github.com/uyoung-jeong/PoseBH)**|
 |**2025-05-22**|**Towards Texture- And Shape-Independent 3D Keypoint Estimation in Birds**|Valentin Schmuker et.al.|[2505.16633v1](http://arxiv.org/abs/2505.16633v1)|null|
@@ -297,7 +297,7 @@
 |**2025-03-07**|**SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting**|Linqi Yang et.al.|[2503.05174v1](http://arxiv.org/abs/2503.05174v1)|null|
 |**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161v1](http://arxiv.org/abs/2503.05161v1)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
-|**2025-03-09**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500v2](http://arxiv.org/abs/2503.04500v2)|null|
+|**2025-03-09**|**ReynoldsFlow: Exquisite Flow Estimation via Reynolds Transport Theorem**|Yu-Hsi Chen et.al.|[2503.04500v2](http://arxiv.org/abs/2503.04500v2)|**[link](https://github.com/wish44165/ReynoldsFlow)**|
 |**2025-03-05**|**Active 6D Pose Estimation for Textureless Objects using Multi-View RGB Frames**|Jun Yang et.al.|[2503.03726v1](http://arxiv.org/abs/2503.03726v1)|null|
 |**2025-03-05**|**Machine Learning in Biomechanics: Key Applications and Limitations in Walking, Running, and Sports Movements**|Carlo Dindorf et.al.|[2503.03717v1](http://arxiv.org/abs/2503.03717v1)|null|
 |**2025-03-05**|**Improving 6D Object Pose Estimation of metallic Household and Industry Objects**|Thomas Pöllabauer et.al.|[2503.03655v1](http://arxiv.org/abs/2503.03655v1)|null|
@@ -439,7 +439,7 @@
 |**2024-12-27**|**Dust to Tower: Coarse-to-Fine Photo-Realistic Scene Reconstruction from Sparse Uncalibrated Images**|Xudong Cai et.al.|[2412.19518v1](http://arxiv.org/abs/2412.19518v1)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089v1](http://arxiv.org/abs/2412.19089v1)|null|
 |**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806v1](http://arxiv.org/abs/2412.17806v1)|**[link](https://github.com/hongsukchoi/hsfm_release)**|
-|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v1](http://arxiv.org/abs/2412.16923v1)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923v1](http://arxiv.org/abs/2412.16923v1)|**[link](https://github.com/zhaoxingZ/STVO)**|
 |**2024-12-21**|**EasyVis2: A Real Time Multi-view 3D Visualization for Laparoscopic Surgery Training Enhanced by a Deep Neural Network YOLOv8-Pose**|Yung-Hong Sun et.al.|[2412.16742v1](http://arxiv.org/abs/2412.16742v1)|null|
 |**2024-12-21**|**FACTS: Fine-Grained Action Classification for Tactical Sports**|Christopher Lai et.al.|[2412.16454v1](http://arxiv.org/abs/2412.16454v1)|null|
 |**2024-12-20**|**Can Generative Video Models Help Pose Estimation?**|Ruojin Cai et.al.|[2412.16155v1](http://arxiv.org/abs/2412.16155v1)|null|
@@ -1989,33 +1989,33 @@
 |**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723v1](http://arxiv.org/abs/2506.13723v1)|null|
 |**2025-06-16**|**Abstract, Align, Predict: Zero-Shot Stance Detection via Cognitive Inductive Reasoning**|Jun Ma et.al.|[2506.13470v1](http://arxiv.org/abs/2506.13470v1)|null|
 |**2025-06-16**|**Zero-Shot Solving of Imaging Inverse Problems via Noise-Refined Likelihood Guided Diffusion Models**|Zhen Wang et.al.|[2506.13391v1](http://arxiv.org/abs/2506.13391v1)|null|
-|**2025-06-16**|**TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Scale-Oriented Contrast**|Beilei Cui et.al.|[2506.13387v1](http://arxiv.org/abs/2506.13387v1)|null|
+|**2025-06-16**|**TR2M: Transferring Monocular Relative Depth to Metric Depth with Language Descriptions and Scale-Oriented Contrast**|Beilei Cui et.al.|[2506.13387v1](http://arxiv.org/abs/2506.13387v1)|**[link](https://github.com/beileicui/tr2m)**|
 |**2025-06-16**|**Distinct Computations Emerge From Compositional Curricula in In-Context Learning**|Jin Hwa Lee et.al.|[2506.13253v1](http://arxiv.org/abs/2506.13253v1)|null|
 |**2025-06-16**|**PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue**|George Shaikovski et.al.|[2506.13063v1](http://arxiv.org/abs/2506.13063v1)|null|
-|**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053v1](http://arxiv.org/abs/2506.13053v1)|null|
+|**2025-06-16**|**ZipVoice: Fast and High-Quality Zero-Shot Text-to-Speech with Flow Matching**|Han Zhu et.al.|[2506.13053v1](http://arxiv.org/abs/2506.13053v1)|**[link](https://github.com/k2-fsa/ZipVoice)**|
 |**2025-06-16**|**Knowledge Graph Fusion with Large Language Models for Accurate, Explainable Manufacturing Process Planning**|Danny Hoang et.al.|[2506.13026v1](http://arxiv.org/abs/2506.13026v1)|null|
-|**2025-06-15**|**Zero-shot denoising via neural compression: Theoretical and algorithmic framework**|Ali Zafari et.al.|[2506.12693v1](http://arxiv.org/abs/2506.12693v1)|null|
+|**2025-06-15**|**Zero-shot denoising via neural compression: Theoretical and algorithmic framework**|Ali Zafari et.al.|[2506.12693v1](http://arxiv.org/abs/2506.12693v1)|**[link](https://github.com/computational-imaging-ru/zs-ncdenoiser)**|
 |**2025-06-13**|**On the Performance of LLMs for Real Estate Appraisal**|Margot Geerts et.al.|[2506.11812v1](http://arxiv.org/abs/2506.11812v1)|null|
 |**2025-06-13**|**Persona-driven Simulation of Voting Behavior in the European Parliament with Large Language Models**|Maximilian Kreutner et.al.|[2506.11798v1](http://arxiv.org/abs/2506.11798v1)|null|
-|**2025-06-13**|**Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation**|Divyanshu Mishra et.al.|[2506.11777v1](http://arxiv.org/abs/2506.11777v1)|null|
+|**2025-06-13**|**Self-supervised Learning of Echocardiographic Video Representations via Online Cluster Distillation**|Divyanshu Mishra et.al.|[2506.11777v1](http://arxiv.org/abs/2506.11777v1)|**[link](https://github.com/mdivyanshu97/discovr)**|
 |**2025-06-13**|**ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations**|Zilin Si et.al.|[2506.11775v1](http://arxiv.org/abs/2506.11775v1)|null|
 |**2025-06-13**|**Converting Annotated Clinical Cases into Structured Case Report Forms**|Pietro Ferrazzi et.al.|[2506.11666v1](http://arxiv.org/abs/2506.11666v1)|null|
-|**2025-06-13**|**Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling**|Yunhan Ren et.al.|[2506.11661v1](http://arxiv.org/abs/2506.11661v1)|null|
+|**2025-06-13**|**Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling**|Yunhan Ren et.al.|[2506.11661v1](http://arxiv.org/abs/2506.11661v1)|**[link](https://github.com/ryh1218/occ)**|
 |**2025-06-13**|**OV-MAP : Open-Vocabulary Zero-Shot 3D Instance Segmentation Map for Robots**|Juno Kim et.al.|[2506.11585v1](http://arxiv.org/abs/2506.11585v1)|null|
 |**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561v1](http://arxiv.org/abs/2506.11561v1)|null|
 |**2025-06-13**|**Manager: Aggregating Insights from Unimodal Experts in Two-Tower VLMs and MLLMs**|Xiao Xu et.al.|[2506.11515v1](http://arxiv.org/abs/2506.11515v1)|null|
 |**2025-06-13**|**Preserving Clusters in Prompt Learning for Unsupervised Domain Adaptation**|Tung-Long Vuong et.al.|[2506.11493v1](http://arxiv.org/abs/2506.11493v1)|null|
-|**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895v1](http://arxiv.org/abs/2506.10895v1)|null|
-|**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|null|
+|**2025-06-12**|**AIR: Zero-shot Generative Model Adaptation with Iterative Refinement**|Guimeng Liu et.al.|[2506.10895v1](http://arxiv.org/abs/2506.10895v1)|**[link](https://github.com/guimeng-leo-liu/air)**|
+|**2025-06-12**|**The Diffusion Duality**|Subham Sekhar Sahoo et.al.|[2506.10892v1](http://arxiv.org/abs/2506.10892v1)|**[link](https://github.com/s-sahoo/duo)**|
 |**2025-06-12**|**Precise Zero-Shot Pointwise Ranking with LLMs through Post-Aggregated Global Context Information**|Kehan Long et.al.|[2506.10859v1](http://arxiv.org/abs/2506.10859v1)|**[link](https://github.com/chainsawm/gccp)**|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825v1](http://arxiv.org/abs/2506.10825v1)|null|
 |**2025-06-12**|**Prompts to Summaries: Zero-Shot Language-Guided Video Summarization**|Mario Barbara et.al.|[2506.10807v1](http://arxiv.org/abs/2506.10807v1)|null|
 |**2025-06-12**|**Neural at ArchEHR-QA 2025: Agentic Prompt Optimization for Evidence-Grounded Clinical Question Answering**|Sai Prasanna Teja Reddy Bogireddy et.al.|[2506.10751v1](http://arxiv.org/abs/2506.10751v1)|null|
-|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730v2](http://arxiv.org/abs/2506.10730v2)|null|
+|**2025-06-13**|**IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain**|Hong Huang et.al.|[2506.10730v2](http://arxiv.org/abs/2506.10730v2)|**[link](https://github.com/hongh0/iqe-clip)**|
 |**2025-06-12**|**Beyond Single-User Dialogue: Assessing Multi-User Dialogue State Tracking Capabilities of Large Language Models**|Sangmin Song et.al.|[2506.10504v1](http://arxiv.org/abs/2506.10504v1)|null|
 |**2025-06-12**|**LLMs Are Not Yet Ready for Deepfake Image Detection**|Shahroz Tariq et.al.|[2506.10474v1](http://arxiv.org/abs/2506.10474v1)|null|
 |**2025-06-12**|**Using Vision Language Models to Detect Students' Academic Emotion through Facial Expressions**|Deliang Wang et.al.|[2506.10334v1](http://arxiv.org/abs/2506.10334v1)|null|
-|**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992v1](http://arxiv.org/abs/2506.09992v1)|null|
+|**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992v1](http://arxiv.org/abs/2506.09992v1)|**[link](https://github.com/Ammce/llm-balkan-toxicity)**|
 |**2025-06-11**|**V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning**|Mido Assran et.al.|[2506.09985v1](http://arxiv.org/abs/2506.09985v1)|**[link](https://github.com/facebookresearch/vjepa2)**|
 |**2025-06-11**|**Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking**|Wuwei Zhang et.al.|[2506.09944v1](http://arxiv.org/abs/2506.09944v1)|**[link](https://github.com/princeton-pli/qrhead)**|
 |**2025-06-11**|**Dataset of News Articles with Provenance Metadata for Media Relevance Assessment**|Tomas Peterka et.al.|[2506.09847v1](http://arxiv.org/abs/2506.09847v1)|null|
@@ -2025,14 +2025,14 @@
 |**2025-06-11**|**ELBO-T2IAlign: A Generic ELBO-Based Method for Calibrating Pixel-level Text-Image Alignment in Diffusion Models**|Qin Zhou et.al.|[2506.09740v1](http://arxiv.org/abs/2506.09740v1)|null|
 |**2025-06-11**|**CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings**|Mattia Nardon et.al.|[2506.09699v1](http://arxiv.org/abs/2506.09699v1)|null|
 |**2025-06-11**|**Geometric flow regularization in latent spaces for smooth dynamics with the efficient variations of curvature**|Andrew Gracyk et.al.|[2506.09679v1](http://arxiv.org/abs/2506.09679v1)|null|
-|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990v1](http://arxiv.org/abs/2506.08990v1)|null|
+|**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990v1](http://arxiv.org/abs/2506.08990v1)|**[link](https://github.com/dopaminelcy/alta)**|
 |**2025-06-10**|**Hyperbolic Dual Feature Augmentation for Open-Environment**|Peilin Yu et.al.|[2506.08906v1](http://arxiv.org/abs/2506.08906v1)|null|
 |**2025-06-10**|**Advancing STT for Low-Resource Real-World Speech**|Flavio D'Intino et.al.|[2506.08836v1](http://arxiv.org/abs/2506.08836v1)|null|
-|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771v1](http://arxiv.org/abs/2506.08771v1)|null|
+|**2025-06-10**|**Paths to Causality: Finding Informative Subgraphs Within Knowledge Graphs for Knowledge-Based Causal Discovery**|Yuni Susanti et.al.|[2506.08771v1](http://arxiv.org/abs/2506.08771v1)|**[link](https://github.com/susantiyuni/path-to-causality)**|
 |**2025-06-11**|**AraReasoner: Evaluating Reasoning-Based LLMs for Arabic NLP**|Ahmed Hasanaath et.al.|[2506.08768v2](http://arxiv.org/abs/2506.08768v2)|null|
-|**2025-06-11**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v2](http://arxiv.org/abs/2506.08700v2)|null|
+|**2025-06-11**|**ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts**|Ruiran Su et.al.|[2506.08700v2](http://arxiv.org/abs/2506.08700v2)|**[link](https://github.com/albasu120491/climateviz)**|
 |**2025-06-10**|**Orientation Matters: Making 3D Generative Models Orientation-Aligned**|Yichong Lu et.al.|[2506.08640v1](http://arxiv.org/abs/2506.08640v1)|null|
-|**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592v1](http://arxiv.org/abs/2506.08592v1)|null|
+|**2025-06-10**|**Dense Retrievers Can Fail on Simple Queries: Revealing The Granularity Dilemma of Embeddings**|Liyan Xu et.al.|[2506.08592v1](http://arxiv.org/abs/2506.08592v1)|**[link](https://github.com/lxucs/capretrieval)**|
 |**2025-06-10**|**Fairness is Not Silence: Unmasking Vacuous Neutrality in Small Language Models**|Sumanth Manduru et.al.|[2506.08487v1](http://arxiv.org/abs/2506.08487v1)|null|
 |**2025-06-10**|**Detecting Harmful Memes with Decoupled Understanding and Guided CoT Reasoning**|Fengjun Pan et.al.|[2506.08477v1](http://arxiv.org/abs/2506.08477v1)|null|
 |**2025-06-09**|**StableMTL: Repurposing Latent Diffusion Models for Multi-Task Learning from Partially Annotated Synthetic Datasets**|Anh-Quan Cao et.al.|[2506.08013v1](http://arxiv.org/abs/2506.08013v1)|**[link](https://github.com/astra-vision/stablemtl)**|
@@ -2046,7 +2046,7 @@
 |**2025-06-09**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584v1](http://arxiv.org/abs/2506.07584v1)|null|
 |**2025-06-09**|**Efficient Generation of Diverse Cooperative Agents with World Models**|Yi Loo et.al.|[2506.07450v1](http://arxiv.org/abs/2506.07450v1)|null|
 |**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270v1](http://arxiv.org/abs/2506.06270v1)|**[link](https://github.com/hkuds/recgpt)**|
-|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|null|
+|**2025-06-06**|**Masked Language Models are Good Heterogeneous Graph Generalizers**|Jinyu Yang et.al.|[2506.06157v1](http://arxiv.org/abs/2506.06157v1)|**[link](https://github.com/bupt-gamma/mlm4hg)**|
 |**2025-06-06**|**Let's CONFER: A Dataset for Evaluating Natural Language Inference Models on CONditional InFERence and Presupposition**|Tara Azin et.al.|[2506.06133v1](http://arxiv.org/abs/2506.06133v1)|null|
 |**2025-06-06**|**Bridging the Gap: In-Context Learning for Modeling Human Disagreement**|Benedetta Muscato et.al.|[2506.06113v1](http://arxiv.org/abs/2506.06113v1)|null|
 |**2025-06-09**|**Text-to-LoRA: Instant Transformer Adaption**|Rujikorn Charakorn et.al.|[2506.06105v2](http://arxiv.org/abs/2506.06105v2)|null|
@@ -2063,7 +2063,7 @@
 |**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168v1](http://arxiv.org/abs/2506.05168v1)|null|
 |**2025-06-05**|**DiCoRe: Enhancing Zero-shot Event Detection via Divergent-Convergent LLM Reasoning**|Tanmay Parekh et.al.|[2506.05128v1](http://arxiv.org/abs/2506.05128v1)|null|
 |**2025-06-05**|**Just a Scratch: Enhancing LLM Capabilities for Self-harm Detection through Intent Differentiation and Emoji Interpretation**|Soumitra Ghosh et.al.|[2506.05073v1](http://arxiv.org/abs/2506.05073v1)|null|
-|**2025-06-05**|**Tuning the Right Foundation Models is What you Need for Partial Label Learning**|Kuang He et.al.|[2506.05027v1](http://arxiv.org/abs/2506.05027v1)|null|
+|**2025-06-05**|**Tuning the Right Foundation Models is What you Need for Partial Label Learning**|Kuang He et.al.|[2506.05027v1](http://arxiv.org/abs/2506.05027v1)|**[link](https://github.com/seu-hk/partialclip)**|
 |**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008v1](http://arxiv.org/abs/2506.05008v1)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227v1](http://arxiv.org/abs/2506.04227v1)|null|
 |**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220v1](http://arxiv.org/abs/2506.04220v1)|null|
@@ -2078,7 +2078,7 @@
 |**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131v1](http://arxiv.org/abs/2506.03131v1)|null|
 |**2025-06-03**|**Zero-Shot Time Series Forecasting with Covariates via In-Context Learning**|Andreas Auer et.al.|[2506.03128v1](http://arxiv.org/abs/2506.03128v1)|null|
 |**2025-06-03**|**Targeted Forgetting of Image Subgroups in CLIP Models**|Zeliang Zhang et.al.|[2506.03117v1](http://arxiv.org/abs/2506.03117v1)|null|
-|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114v1](http://arxiv.org/abs/2506.03114v1)|null|
+|**2025-06-03**|**Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery**|Michelle Chen et.al.|[2506.03114v1](http://arxiv.org/abs/2506.03114v1)|**[link](https://github.com/open-forest-observatory/tree-detection-framework)**|
 |**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096v1](http://arxiv.org/abs/2506.03096v1)|null|
 |**2025-06-03**|**DFBench: Benchmarking Deepfake Image Detection Capability of Large Multimodal Models**|Jiarui Wang et.al.|[2506.03007v1](http://arxiv.org/abs/2506.03007v1)|null|
 |**2025-06-03**|**A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems**|Đorđe Klisura et.al.|[2506.02998v1](http://arxiv.org/abs/2506.02998v1)|null|
@@ -2140,7 +2140,7 @@
 |**2025-05-23**|**Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**|Li Zhong et.al.|[2505.18039v1](http://arxiv.org/abs/2505.18039v1)|null|
 |**2025-05-23**|**LLM assisted web application functional requirements generation: A case study of four popular LLMs over a Mess Management System**|Rashmi Gupta et.al.|[2505.18019v1](http://arxiv.org/abs/2505.18019v1)|null|
 |**2025-05-23**|**Diffusion Classifiers Understand Compositionality, but Conditions Apply**|Yujin Jeong et.al.|[2505.17955v1](http://arxiv.org/abs/2505.17955v1)|**[link](https://github.com/eugene6923/diffusion-classifiers-compositionality)**|
-|**2025-05-23**|**VeriThinker: Learning to Verify Makes Reasoning Model Efficient**|Zigeng Chen et.al.|[2505.17941v1](http://arxiv.org/abs/2505.17941v1)|null|
+|**2025-05-23**|**VeriThinker: Learning to Verify Makes Reasoning Model Efficient**|Zigeng Chen et.al.|[2505.17941v1](http://arxiv.org/abs/2505.17941v1)|**[link](https://github.com/czg1225/verithinker)**|
 |**2025-05-23**|**AutoMiSeg: Automatic Medical Image Segmentation via Test-Time Adaptation of Foundation Models**|Xingjian Li et.al.|[2505.17931v1](http://arxiv.org/abs/2505.17931v1)|null|
 |**2025-05-23**|**NeuroTrails: Training with Dynamic Sparse Heads as the Key to Effective Ensembling**|Bram Grooten et.al.|[2505.17909v1](http://arxiv.org/abs/2505.17909v1)|null|
 |**2025-05-23**|**BLAST: Balanced Sampling Time Series Corpus for Universal Forecasting Models**|Zezhi Shao et.al.|[2505.17871v1](http://arxiv.org/abs/2505.17871v1)|**[link](https://github.com/gestaltcogteam/blast)**|
@@ -2327,7 +2327,7 @@
 |**2025-04-27**|**From Inductive to Deductive: LLMs-Based Qualitative Data Analysis in Requirements Engineering**|Syed Tauhid Ullah Shah et.al.|[2504.19384v1](http://arxiv.org/abs/2504.19384v1)|**[link](https://github.com/SyedTauhidUllahShah/LLM4QDARE)**|
 |**2025-04-25**|**RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement**|Jiahao Huang et.al.|[2504.18520v1](http://arxiv.org/abs/2504.18520v1)|null|
 |**2025-04-25**|**Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional**|Sanjeev Raja et.al.|[2504.18506v1](http://arxiv.org/abs/2504.18506v1)|null|
-|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397v1](http://arxiv.org/abs/2504.18397v1)|null|
+|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397v1](http://arxiv.org/abs/2504.18397v1)|**[link](https://github.com/kesenzhao/uv-cot)**|
 |**2025-04-25**|**Leveraging Decoder Architectures for Learned Sparse Retrieval**|Jingfen Qiao et.al.|[2504.18151v1](http://arxiv.org/abs/2504.18151v1)|null|
 |**2025-04-25**|**PropRAG: Guiding Retrieval with Beam Search over Proposition Paths**|Jingjin Wang et.al.|[2504.18070v1](http://arxiv.org/abs/2504.18070v1)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990v1](http://arxiv.org/abs/2504.17990v1)|null|

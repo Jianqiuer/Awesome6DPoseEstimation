@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856v1](http://arxiv.org/abs/2506.18856v1)|null|
+|**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
+|**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825v1](http://arxiv.org/abs/2506.18825v1)|null|
 |**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119v1](http://arxiv.org/abs/2506.17119v1)|null|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110v1](http://arxiv.org/abs/2506.17110v1)|null|
 |**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|null|
@@ -1854,6 +1857,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**SRKD: Towards Efficient 3D Point Cloud Segmentation via Structure- and Relation-aware Knowledge Distillation**|Yuqi Li et.al.|[2506.17290v1](http://arxiv.org/abs/2506.17290v1)|null|
 |**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552v1](http://arxiv.org/abs/2506.09552v1)|null|
 |**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|null|
 |**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837v1](http://arxiv.org/abs/2506.04837v1)|null|
@@ -1963,6 +1967,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883v1](http://arxiv.org/abs/2506.18883v1)|null|
+|**2025-06-23**|**A Modular Taxonomy for Hate Speech Definitions and Its Impact on Zero-Shot LLM Classification Performance**|Matteo Melis et.al.|[2506.18576v1](http://arxiv.org/abs/2506.18576v1)|null|
+|**2025-06-23**|**Standard Applicability Judgment and Cross-jurisdictional Reasoning: A RAG-based Framework for Medical Device Compliance**|Yu Han et.al.|[2506.18511v1](http://arxiv.org/abs/2506.18511v1)|null|
+|**2025-06-23**|**Generalizing Vision-Language Models to Novel Domains: A Comprehensive Survey**|Xinyao Li et.al.|[2506.18504v1](http://arxiv.org/abs/2506.18504v1)|null|
+|**2025-06-23**|**GraspMAS: Zero-Shot Language-driven Grasp Detection with Multi-Agent System**|Quang Nguyen et.al.|[2506.18448v1](http://arxiv.org/abs/2506.18448v1)|null|
+|**2025-06-23**|**CPAM: Context-Preserving Adaptive Manipulation for Zero-Shot Real Image Editing**|Dinh-Khoi Vo et.al.|[2506.18438v1](http://arxiv.org/abs/2506.18438v1)|null|
+|**2025-06-23**|**A Multi-Scale Spatial Attention-Based Zero-Shot Learning Framework for Low-Light Image Enhancement**|Muhammad Azeem Aslam et.al.|[2506.18323v1](http://arxiv.org/abs/2506.18323v1)|null|
+|**2025-06-23**|**Team LA at SCIDOCA shared task 2025: Citation Discovery via relation-based zero-shot retrieval**|Trieu An et.al.|[2506.18316v1](http://arxiv.org/abs/2506.18316v1)|null|
+|**2025-06-23**|**GeNeRT: A Physics-Informed Approach to Intelligent Wireless Channel Modeling via Generalizable Neural Ray Tracing**|Kejia Bian et.al.|[2506.18295v1](http://arxiv.org/abs/2506.18295v1)|null|
+|**2025-06-23**|**Learning Causal Graphs at Scale: A Foundation Model Approach**|Naiyu Yin et.al.|[2506.18285v1](http://arxiv.org/abs/2506.18285v1)|null|
 |**2025-06-23**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220v2](http://arxiv.org/abs/2506.17220v2)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110v1](http://arxiv.org/abs/2506.17110v1)|null|
 |**2025-06-20**|**Prmpt2Adpt: Prompt-Based Zero-Shot Domain Adaptation for Resource-Constrained Environments**|Yasir Ali Farrukh et.al.|[2506.16994v1](http://arxiv.org/abs/2506.16994v1)|null|

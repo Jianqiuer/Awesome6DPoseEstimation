@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,9 +10,9 @@ layout: default
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856v1](http://arxiv.org/abs/2506.18856v1)|null|
 |**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
 |**2025-06-23**|**SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives**|Yizhou Chen et.al.|[2506.18825v1](http://arxiv.org/abs/2506.18825v1)|null|
-|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119v1](http://arxiv.org/abs/2506.17119v1)|null|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119v1](http://arxiv.org/abs/2506.17119v1)|**[link](https://github.com/greatenanoymous/rgbtrack)**|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110v1](http://arxiv.org/abs/2506.17110v1)|null|
-|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940v1](http://arxiv.org/abs/2506.16940v1)|**[link](https://github.com/mit-acl/lunarloc-data)**|
 |**2025-06-19**|**ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models**|Puhao Li et.al.|[2506.16211v1](http://arxiv.org/abs/2506.16211v1)|null|
 |**2025-06-19**|**STAR-Pose: Efficient Low-Resolution Video Human Pose Estimation via Spatial-Temporal Adaptive Super-Resolution**|Yucheng Jin et.al.|[2506.16061v1](http://arxiv.org/abs/2506.16061v1)|null|
 |**2025-06-19**|**KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping**|Kowndinya Boyalakuntla et.al.|[2506.15945v1](http://arxiv.org/abs/2506.15945v1)|null|
@@ -1860,7 +1860,7 @@ layout: default
 |**2025-06-16**|**SRKD: Towards Efficient 3D Point Cloud Segmentation via Structure- and Relation-aware Knowledge Distillation**|Yuqi Li et.al.|[2506.17290v1](http://arxiv.org/abs/2506.17290v1)|null|
 |**2025-06-11**|**Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments**|Fatemeh Mohammadi Amin et.al.|[2506.09552v1](http://arxiv.org/abs/2506.09552v1)|null|
 |**2025-06-05**|**Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting**|Alfred T. Christiansen et.al.|[2506.05009v1](http://arxiv.org/abs/2506.05009v1)|null|
-|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837v1](http://arxiv.org/abs/2506.04837v1)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837v1](http://arxiv.org/abs/2506.04837v1)|**[link](https://github.com/zhangkuns/openmaskdino3d)**|
 |**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026v1](http://arxiv.org/abs/2505.19026v1)|null|
 |**2025-05-23**|**Generative Data Augmentation for Object Point Cloud Segmentation**|Dekai Zhu et.al.|[2505.17783v1](http://arxiv.org/abs/2505.17783v1)|null|
 |**2025-05-15**|**APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds**|Yuan Gao et.al.|[2505.09971v1](http://arxiv.org/abs/2505.09971v1)|**[link](https://github.com/gaoyuan2/apcotta)**|

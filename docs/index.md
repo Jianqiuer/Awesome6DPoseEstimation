@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045v1](http://arxiv.org/abs/2506.20045v1)|null|
 |**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747v1](http://arxiv.org/abs/2506.19747v1)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856v1](http://arxiv.org/abs/2506.18856v1)|null|
 |**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
@@ -1969,6 +1970,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Behavior Foundation Model: Towards Next-Generation Whole-Body Control System of Humanoid Robots**|Mingqi Yuan et.al.|[2506.20487v1](http://arxiv.org/abs/2506.20487v1)|null|
+|**2025-06-25**|**HiWave: Training-Free High-Resolution Image Generation via Wavelet-Based Diffusion Sampling**|Tobias Vontobel et.al.|[2506.20452v1](http://arxiv.org/abs/2506.20452v1)|null|
+|**2025-06-25**|**Recognizing Surgical Phases Anywhere: Few-Shot Test-time Adaptation and Task-graph Guided Refinement**|Kun Yuan et.al.|[2506.20254v1](http://arxiv.org/abs/2506.20254v1)|null|
+|**2025-06-25**|**Zero-Shot Attribution for Large Language Models: A Distribution Testing Approach**|Clément L. Canonne et.al.|[2506.20197v1](http://arxiv.org/abs/2506.20197v1)|null|
+|**2025-06-25**|**An Exploration of ECAPA-TDNN and x-vector Speaker Representations in Zero-shot Multi-speaker TTS**|Marie Kunešová et.al.|[2506.20190v1](http://arxiv.org/abs/2506.20190v1)|null|
+|**2025-06-25**|**CCRS: A Zero-Shot LLM-as-a-Judge Framework for Comprehensive RAG Evaluation**|Aashiq Muhamed et.al.|[2506.20128v1](http://arxiv.org/abs/2506.20128v1)|null|
+|**2025-06-24**|**Universal pre-training by iterated random computation**|Peter Bloem et.al.|[2506.20057v1](http://arxiv.org/abs/2506.20057v1)|null|
+|**2025-06-24**|**TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design**|Geonwoo Cho et.al.|[2506.19997v1](http://arxiv.org/abs/2506.19997v1)|null|
+|**2025-06-24**|**MILAAP: Mobile Link Allocation via Attention-based Prediction**|Yung-Fu Chen et.al.|[2506.19947v1](http://arxiv.org/abs/2506.19947v1)|null|
 |**2025-06-24**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815v1](http://arxiv.org/abs/2506.19815v1)|null|
 |**2025-06-24**|**SAM2-SGP: Enhancing SAM2 for Medical Image Segmentation via Support-Set Guided Prompting**|Yang Xing et.al.|[2506.19658v1](http://arxiv.org/abs/2506.19658v1)|null|
 |**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608v1](http://arxiv.org/abs/2506.19608v1)|null|

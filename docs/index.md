@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2025.06.26
+## Updated on 2025.06.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-24**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045v1](http://arxiv.org/abs/2506.20045v1)|null|
+|**2025-06-26**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045v2](http://arxiv.org/abs/2506.20045v2)|null|
 |**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747v1](http://arxiv.org/abs/2506.19747v1)|null|
 |**2025-06-23**|**RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base**|Kuanning Wang et.al.|[2506.18856v1](http://arxiv.org/abs/2506.18856v1)|null|
 |**2025-06-19**|**Reproducible Evaluation of Camera Auto-Exposure Methods in the Field: Platform, Benchmark and Lessons Learned**|Olivier Gamache et.al.|[2506.18844v1](http://arxiv.org/abs/2506.18844v1)|null|
@@ -1979,7 +1979,7 @@ layout: default
 |**2025-06-24**|**Universal pre-training by iterated random computation**|Peter Bloem et.al.|[2506.20057v1](http://arxiv.org/abs/2506.20057v1)|null|
 |**2025-06-24**|**TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design**|Geonwoo Cho et.al.|[2506.19997v1](http://arxiv.org/abs/2506.19997v1)|null|
 |**2025-06-24**|**MILAAP: Mobile Link Allocation via Attention-based Prediction**|Yung-Fu Chen et.al.|[2506.19947v1](http://arxiv.org/abs/2506.19947v1)|null|
-|**2025-06-24**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815v1](http://arxiv.org/abs/2506.19815v1)|null|
+|**2025-06-26**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815v2](http://arxiv.org/abs/2506.19815v2)|null|
 |**2025-06-24**|**SAM2-SGP: Enhancing SAM2 for Medical Image Segmentation via Support-Set Guided Prompting**|Yang Xing et.al.|[2506.19658v1](http://arxiv.org/abs/2506.19658v1)|null|
 |**2025-06-24**|**ChordPrompt: Orchestrating Cross-Modal Prompt Synergy for Multi-Domain Incremental Learning in CLIP**|Zhiyuan Wang et.al.|[2506.19608v1](http://arxiv.org/abs/2506.19608v1)|null|
 |**2025-06-24**|**Commonsense Generation and Evaluation for Dialogue Systems using Large Language Models**|Marcos Estecha-Garitagoitia et.al.|[2506.19483v1](http://arxiv.org/abs/2506.19483v1)|null|

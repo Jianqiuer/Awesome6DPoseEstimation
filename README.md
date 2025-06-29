@@ -1990,6 +1990,7 @@
 |---|---|---|---|---|
 |**2025-06-26**|**WAFT: Warping-Alone Field Transforms for Optical Flow**|Yihan Wang et.al.|[2506.21526v1](http://arxiv.org/abs/2506.21526v1)|null|
 |**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499v1](http://arxiv.org/abs/2506.21499v1)|null|
+|**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443v1](http://arxiv.org/abs/2506.21443v1)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355v1](http://arxiv.org/abs/2506.21355v1)|null|
 |**2025-06-26**|**Zero-Shot Learning for Obsolescence Risk Forecasting**|Elie Saad et.al.|[2506.21240v1](http://arxiv.org/abs/2506.21240v1)|null|
 |**2025-06-26**|**Efficient Skill Discovery via Regret-Aware Optimization**|He Zhang et.al.|[2506.21044v1](http://arxiv.org/abs/2506.21044v1)|null|

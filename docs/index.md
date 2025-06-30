@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420v1](http://arxiv.org/abs/2506.21420v1)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v1](http://arxiv.org/abs/2506.21034v1)|null|
+|**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034v2](http://arxiv.org/abs/2506.21034v2)|null|
 |**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795v1](http://arxiv.org/abs/2506.20795v1)|null|
 |**2025-06-26**|**Consensus-Driven Uncertainty for Robotic Grasping based on RGB Perception**|Eric C. Joyce et.al.|[2506.20045v2](http://arxiv.org/abs/2506.20045v2)|null|
 |**2025-06-24**|**Systematic Comparison of Projection Methods for Monocular 3D Human Pose Estimation on Fisheye Images**|Stephanie Käs et.al.|[2506.19747v1](http://arxiv.org/abs/2506.19747v1)|null|
@@ -1983,7 +1983,7 @@ layout: default
 |**2025-06-26**|**Zero-Shot Learning for Obsolescence Risk Forecasting**|Elie Saad et.al.|[2506.21240v1](http://arxiv.org/abs/2506.21240v1)|null|
 |**2025-06-26**|**Efficient Skill Discovery via Regret-Aware Optimization**|He Zhang et.al.|[2506.21044v1](http://arxiv.org/abs/2506.21044v1)|null|
 |**2025-06-26**|**EVA: Mixture-of-Experts Semantic Variant Alignment for Compositional Zero-Shot Learning**|Xiao Zhang et.al.|[2506.20986v1](http://arxiv.org/abs/2506.20986v1)|null|
-|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967v1](http://arxiv.org/abs/2506.20967v1)|null|
+|**2025-06-27**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967v2](http://arxiv.org/abs/2506.20967v2)|null|
 |**2025-06-26**|**Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**|Donggoo Kang et.al.|[2506.20946v1](http://arxiv.org/abs/2506.20946v1)|null|
 |**2025-06-25**|**MultiHuman-Testbench: Benchmarking Image Generation for Multiple Humans**|Shubhankar Borse et.al.|[2506.20879v1](http://arxiv.org/abs/2506.20879v1)|null|
 |**2025-06-25**|**Uncovering Hidden Violent Tendencies in LLMs: A Demographic Analysis via Behavioral Vignettes**|Quintin Myers et.al.|[2506.20822v1](http://arxiv.org/abs/2506.20822v1)|null|

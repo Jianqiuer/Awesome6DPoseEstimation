@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1986,7 +1986,7 @@ layout: default
 |**2025-06-27**|**SPAZER: Spatial-Semantic Progressive Reasoning Agent for Zero-shot 3D Visual Grounding**|Zhao Jin et.al.|[2506.21924v1](http://arxiv.org/abs/2506.21924v1)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923v1](http://arxiv.org/abs/2506.21923v1)|null|
 |**2025-06-27**|**Embodied Domain Adaptation for Object Detection**|Xiangyu Shi et.al.|[2506.21860v1](http://arxiv.org/abs/2506.21860v1)|null|
-|**2025-06-27**|**ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts**|Xiaoqi Wang et.al.|[2506.21835v1](http://arxiv.org/abs/2506.21835v1)|null|
+|**2025-06-30**|**ProSAM: Enhancing the Robustness of SAM-based Visual Reference Segmentation with Probabilistic Prompts**|Xiaoqi Wang et.al.|[2506.21835v2](http://arxiv.org/abs/2506.21835v2)|null|
 |**2025-06-26**|**WAFT: Warping-Alone Field Transforms for Optical Flow**|Yihan Wang et.al.|[2506.21526v1](http://arxiv.org/abs/2506.21526v1)|null|
 |**2025-06-26**|**Lightweight Physics-Informed Zero-Shot Ultrasound Plane Wave Denoising**|Hojat Asgariandehkordi et.al.|[2506.21499v1](http://arxiv.org/abs/2506.21499v1)|null|
 |**2025-06-26**|**Domain Knowledge-Enhanced LLMs for Fraud and Concept Drift Detection**|Ali Şenol et.al.|[2506.21443v1](http://arxiv.org/abs/2506.21443v1)|null|

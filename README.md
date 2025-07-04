@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565v1](http://arxiv.org/abs/2507.02565v1)|null|
+|**2025-07-03**|**IMASHRIMP: Automatic White Shrimp (Penaeus vannamei) Biometrical Analysis from Laboratory Images Using Computer Vision and Deep Learning**|Abiam Remache González et.al.|[2507.02519v1](http://arxiv.org/abs/2507.02519v1)|null|
+|**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen et.al.|[2507.02411v1](http://arxiv.org/abs/2507.02411v1)|null|
+|**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308v1](http://arxiv.org/abs/2507.02308v1)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667v1](http://arxiv.org/abs/2507.01667v1)|null|
 |**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206v1](http://arxiv.org/abs/2507.01206v1)|null|
 |**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v1](http://arxiv.org/abs/2507.00990v1)|null|
@@ -2003,6 +2007,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864v1](http://arxiv.org/abs/2507.02864v1)|null|
+|**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792v1](http://arxiv.org/abs/2507.02792v1)|null|
+|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v1](http://arxiv.org/abs/2507.02773v1)|null|
+|**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768v1](http://arxiv.org/abs/2507.02768v1)|null|
+|**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747v1](http://arxiv.org/abs/2507.02747v1)|null|
+|**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724v1](http://arxiv.org/abs/2507.02724v1)|null|
+|**2025-07-03**|**Learning few-step posterior samplers by unfolding and distillation of diffusion models**|Charlesquin Kemajou Mbakam et.al.|[2507.02686v1](http://arxiv.org/abs/2507.02686v1)|null|
+|**2025-07-03**|**A Matrix Variational Auto-Encoder for Variant Effect Prediction in Pharmacogenes**|Antoine Honoré et.al.|[2507.02624v1](http://arxiv.org/abs/2507.02624v1)|null|
+|**2025-07-03**|**LLMREI: Automating Requirements Elicitation Interviews with LLMs**|Alexander Korn et.al.|[2507.02564v1](http://arxiv.org/abs/2507.02564v1)|null|
+|**2025-07-03**|**IGDNet: Zero-Shot Robust Underexposed Image Enhancement via Illumination-Guided and Denoising**|Hailong Yan et.al.|[2507.02445v1](http://arxiv.org/abs/2507.02445v1)|null|
 |**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908v1](http://arxiv.org/abs/2507.01908v1)|null|
 |**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875v1](http://arxiv.org/abs/2507.01875v1)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843v1](http://arxiv.org/abs/2507.01843v1)|null|

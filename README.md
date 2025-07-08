@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@
 |**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308v1](http://arxiv.org/abs/2507.02308v1)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667v1](http://arxiv.org/abs/2507.01667v1)|null|
 |**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206v1](http://arxiv.org/abs/2507.01206v1)|null|
-|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v1](http://arxiv.org/abs/2507.00990v1)|null|
+|**2025-07-04**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v2](http://arxiv.org/abs/2507.00990v2)|null|
 |**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752v1](http://arxiv.org/abs/2507.00752v1)|null|
 |**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659v1](http://arxiv.org/abs/2507.00659v1)|null|
 |**2025-06-30**|**Computer Vision for Objects used in Group Work: Challenges and Opportunities**|Changsoo Jung et.al.|[2507.00224v1](http://arxiv.org/abs/2507.00224v1)|null|
@@ -1650,7 +1650,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1887,7 +1887,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -2001,7 +2001,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -2009,7 +2009,7 @@
 |---|---|---|---|---|
 |**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864v1](http://arxiv.org/abs/2507.02864v1)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792v1](http://arxiv.org/abs/2507.02792v1)|null|
-|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v1](http://arxiv.org/abs/2507.02773v1)|null|
+|**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v2](http://arxiv.org/abs/2507.02773v2)|null|
 |**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768v1](http://arxiv.org/abs/2507.02768v1)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747v1](http://arxiv.org/abs/2507.02747v1)|null|
 |**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724v1](http://arxiv.org/abs/2507.02724v1)|null|
@@ -6273,5 +6273,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250708>back to top</a>)</p>
 

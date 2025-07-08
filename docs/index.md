@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ layout: default
 |**2025-07-03**|**LMPNet for Weakly-supervised Keypoint Discovery**|Pei Guo et.al.|[2507.02308v1](http://arxiv.org/abs/2507.02308v1)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667v1](http://arxiv.org/abs/2507.01667v1)|null|
 |**2025-07-01**|**2024 NASA SUITS Report: LLM-Driven Immersive Augmented Reality User Interface for Robotics and Space Exploration**|Kathy Zhuang et.al.|[2507.01206v1](http://arxiv.org/abs/2507.01206v1)|null|
-|**2025-07-01**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v1](http://arxiv.org/abs/2507.00990v1)|null|
+|**2025-07-04**|**Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**|Shivansh Patel et.al.|[2507.00990v2](http://arxiv.org/abs/2507.00990v2)|null|
 |**2025-07-01**|**Multi-Modal Graph Convolutional Network with Sinusoidal Encoding for Robust Human Action Segmentation**|Hao Xing et.al.|[2507.00752v1](http://arxiv.org/abs/2507.00752v1)|null|
 |**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659v1](http://arxiv.org/abs/2507.00659v1)|null|
 |**2025-06-30**|**Computer Vision for Objects used in Group Work: Challenges and Opportunities**|Changsoo Jung et.al.|[2507.00224v1](http://arxiv.org/abs/2507.00224v1)|null|
@@ -1997,7 +1997,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864v1](http://arxiv.org/abs/2507.02864v1)|null|
 |**2025-07-03**|**RichControl: Structure- and Appearance-Rich Training-Free Spatial Control for Text-to-Image Generation**|Liheng Zhang et.al.|[2507.02792v1](http://arxiv.org/abs/2507.02792v1)|null|
-|**2025-07-03**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v1](http://arxiv.org/abs/2507.02773v1)|null|
+|**2025-07-06**|**KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs**|Yuzhang Xie et.al.|[2507.02773v2](http://arxiv.org/abs/2507.02773v2)|null|
 |**2025-07-03**|**DeSTA2.5-Audio: Toward General-Purpose Large Audio Language Model with Self-Generated Cross-Modal Alignment**|Ke-Han Lu et.al.|[2507.02768v1](http://arxiv.org/abs/2507.02768v1)|null|
 |**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747v1](http://arxiv.org/abs/2507.02747v1)|null|
 |**2025-07-03**|**Hierarchical Multi-Label Contrastive Learning for Protein-Protein Interaction Prediction Across Organisms**|Shiyi Liu et.al.|[2507.02724v1](http://arxiv.org/abs/2507.02724v1)|null|

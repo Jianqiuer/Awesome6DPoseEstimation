@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751v1](http://arxiv.org/abs/2507.05751v1)|null|
+|**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698v1](http://arxiv.org/abs/2507.05698v1)|null|
+|**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|
 |**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814v1](http://arxiv.org/abs/2507.04814v1)|null|
 |**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494v1](http://arxiv.org/abs/2507.04494v1)|null|
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v1](http://arxiv.org/abs/2507.04004v1)|null|
@@ -2003,6 +2006,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**|Murilo Gustineli et.al.|[2507.06093v1](http://arxiv.org/abs/2507.06093v1)|null|
+|**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016v1](http://arxiv.org/abs/2507.06016v1)|null|
+|**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004v1](http://arxiv.org/abs/2507.06004v1)|null|
+|**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997v1](http://arxiv.org/abs/2507.05997v1)|null|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970v1](http://arxiv.org/abs/2507.05970v1)|null|
+|**2025-07-08**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938v1](http://arxiv.org/abs/2507.05938v1)|null|
+|**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911v1](http://arxiv.org/abs/2507.05911v1)|null|
+|**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822v1](http://arxiv.org/abs/2507.05822v1)|null|
+|**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627v1](http://arxiv.org/abs/2507.05627v1)|null|
+|**2025-07-07**|**SenseCF: LLM-Prompted Counterfactuals for Intervention and Sensor Data Augmentation**|Shovito Barua Soumma et.al.|[2507.05541v1](http://arxiv.org/abs/2507.05541v1)|null|
 |**2025-07-07**|**Modeling Latent Partner Strategies for Adaptive Zero-Shot Human-Agent Collaboration**|Benjamin Li et.al.|[2507.05244v1](http://arxiv.org/abs/2507.05244v1)|null|
 |**2025-07-07**|**In-Context Learning as an Effective Estimator of Functional Correctness of LLM-Generated Code**|Susmita Das et.al.|[2507.05200v1](http://arxiv.org/abs/2507.05200v1)|null|
 |**2025-07-07**|**VERITAS: Verification and Explanation of Realness in Images for Transparency in AI Systems**|Aadi Srivastava et.al.|[2507.05146v1](http://arxiv.org/abs/2507.05146v1)|null|

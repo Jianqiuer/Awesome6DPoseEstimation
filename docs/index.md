@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|
+|**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|null|
+|**2025-07-09**|**Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies**|Yuhan Liu et.al.|[2507.06519v1](http://arxiv.org/abs/2507.06519v1)|null|
+|**2025-07-09**|**Mask6D: Masked Pose Priors For 6D Object Pose Estimation**|Yuechen Xie et.al.|[2507.06486v1](http://arxiv.org/abs/2507.06486v1)|null|
 |**2025-07-08**|**SenseShift6D: Multimodal RGB-D Benchmarking for Robust 6D Pose Estimation across Environment and Sensor Variations**|Yegyu Han et.al.|[2507.05751v1](http://arxiv.org/abs/2507.05751v1)|null|
 |**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698v1](http://arxiv.org/abs/2507.05698v1)|null|
 |**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|
@@ -1656,6 +1660,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651v1](http://arxiv.org/abs/2507.06651v1)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662v1](http://arxiv.org/abs/2507.04662v1)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
 |**2025-07-03**|**TurboReg: TurboClique for Robust and Efficient Point Cloud Registration**|Shaocheng Yan et.al.|[2507.01439v2](http://arxiv.org/abs/2507.01439v2)|null|
@@ -1893,6 +1898,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**PointVDP: Learning View-Dependent Projection by Fireworks Rays for 3D Point Cloud Segmentation**|Yang Chen et.al.|[2507.06618v1](http://arxiv.org/abs/2507.06618v1)|null|
+|**2025-07-09**|**Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning**|Yang Chen et.al.|[2507.06592v1](http://arxiv.org/abs/2507.06592v1)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211v1](http://arxiv.org/abs/2507.05211v1)|null|
 |**2025-06-29**|**High-quality Pseudo-labeling for Point Cloud Segmentation with Scene-level Annotation**|Lunhao Duan et.al.|[2506.23227v1](http://arxiv.org/abs/2506.23227v1)|null|
 |**2025-06-26**|**TSDASeg: A Two-Stage Model with Direct Alignment for Interactive Point Cloud Segmentation**|Chade Li et.al.|[2506.20991v1](http://arxiv.org/abs/2506.20991v1)|null|
@@ -2006,6 +2013,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095v1](http://arxiv.org/abs/2507.07095v1)|null|
+|**2025-07-09**|**Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM**|Qiyuan Dai et.al.|[2507.06973v1](http://arxiv.org/abs/2507.06973v1)|null|
+|**2025-07-09**|**MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**|Ziyan Liu et.al.|[2507.06908v1](http://arxiv.org/abs/2507.06908v1)|null|
+|**2025-07-09**|**MADPOT: Medical Anomaly Detection with CLIP Adaptation and Partial Optimal Transport**|Mahshid Shiri et.al.|[2507.06733v1](http://arxiv.org/abs/2507.06733v1)|null|
+|**2025-07-09**|**CLI-RAG: A Retrieval-Augmented Framework for Clinically Structured and Context Aware Text Generation with LLMs**|Garapati Keerthana et.al.|[2507.06715v1](http://arxiv.org/abs/2507.06715v1)|null|
+|**2025-07-09**|**Text-promptable Object Counting via Quantity Awareness Enhancement**|Miaojing Shi et.al.|[2507.06679v1](http://arxiv.org/abs/2507.06679v1)|null|
+|**2025-07-09**|**Few-shot Learning on AMS Circuits and Its Application to Parasitic Capacitance Prediction**|Shan Shen et.al.|[2507.06538v1](http://arxiv.org/abs/2507.06538v1)|null|
+|**2025-07-08**|**VisioPath: Vision-Language Enhanced Model Predictive Control for Safe Autonomous Navigation in Mixed Traffic**|Shanting Wang et.al.|[2507.06441v1](http://arxiv.org/abs/2507.06441v1)|null|
 |**2025-07-08**|**Tile-Based ViT Inference with Visual-Cluster Priors for Zero-Shot Multi-Species Plant Identification**|Murilo Gustineli et.al.|[2507.06093v1](http://arxiv.org/abs/2507.06093v1)|null|
 |**2025-07-08**|**Conditional Multi-Stage Failure Recovery for Embodied Agents**|Youmna Farag et.al.|[2507.06016v1](http://arxiv.org/abs/2507.06016v1)|null|
 |**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004v1](http://arxiv.org/abs/2507.06004v1)|null|

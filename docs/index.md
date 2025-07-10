@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|
 |**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814v1](http://arxiv.org/abs/2507.04814v1)|null|
 |**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494v1](http://arxiv.org/abs/2507.04494v1)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v1](http://arxiv.org/abs/2507.04004v1)|null|
+|**2025-07-09**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
 |**2025-07-05**|**Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2507.03925v1](http://arxiv.org/abs/2507.03925v1)|null|
 |**2025-07-02**|**Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision**|Patryk Skorupski et.al.|[2507.03016v1](http://arxiv.org/abs/2507.03016v1)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565v1](http://arxiv.org/abs/2507.02565v1)|null|
@@ -2011,7 +2011,7 @@ layout: default
 |**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004v1](http://arxiv.org/abs/2507.06004v1)|null|
 |**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997v1](http://arxiv.org/abs/2507.05997v1)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970v1](http://arxiv.org/abs/2507.05970v1)|null|
-|**2025-07-08**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938v1](http://arxiv.org/abs/2507.05938v1)|null|
+|**2025-07-09**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938v2](http://arxiv.org/abs/2507.05938v2)|null|
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911v1](http://arxiv.org/abs/2507.05911v1)|null|
 |**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822v1](http://arxiv.org/abs/2507.05822v1)|null|
 |**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627v1](http://arxiv.org/abs/2507.05627v1)|null|

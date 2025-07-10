@@ -1,4 +1,4 @@
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2025-07-07**|**W2W: A Simulated Exploration of IMU Placement Across the Human Body for Designing Smarter Wearable**|Lala Shakti Swarup Ray et.al.|[2507.05532v1](http://arxiv.org/abs/2507.05532v1)|null|
 |**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814v1](http://arxiv.org/abs/2507.04814v1)|null|
 |**2025-07-06**|**Thousand-Brains Systems: Sensorimotor Intelligence for Rapid, Robust Learning and Inference**|Niels Leadholm et.al.|[2507.04494v1](http://arxiv.org/abs/2507.04494v1)|null|
-|**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v1](http://arxiv.org/abs/2507.04004v1)|null|
+|**2025-07-09**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004v2](http://arxiv.org/abs/2507.04004v2)|null|
 |**2025-07-05**|**Accurate Pose Estimation Using Contact Manifold Sampling for Safe Peg-in-Hole Insertion of Complex Geometries**|Abhay Negi et.al.|[2507.03925v1](http://arxiv.org/abs/2507.03925v1)|null|
 |**2025-07-02**|**Markerless Stride Length estimation in Athletic using Pose Estimation with monocular vision**|Patryk Skorupski et.al.|[2507.03016v1](http://arxiv.org/abs/2507.03016v1)|null|
 |**2025-07-03**|**Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning**|Buzhen Huang et.al.|[2507.02565v1](http://arxiv.org/abs/2507.02565v1)|null|
@@ -1658,7 +1658,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -1897,7 +1897,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -2012,7 +2012,7 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
 
 ## Zero-shot
 
@@ -2023,7 +2023,7 @@
 |**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004v1](http://arxiv.org/abs/2507.06004v1)|null|
 |**2025-07-08**|**DocIE@XLLM25: In-Context Learning for Information Extraction using Fully Synthetic Demonstrations**|Nicholas Popovič et.al.|[2507.05997v1](http://arxiv.org/abs/2507.05997v1)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970v1](http://arxiv.org/abs/2507.05970v1)|null|
-|**2025-07-08**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938v1](http://arxiv.org/abs/2507.05938v1)|null|
+|**2025-07-09**|**A Wireless Foundation Model for Multi-Task Prediction**|Yucheng Sheng et.al.|[2507.05938v2](http://arxiv.org/abs/2507.05938v2)|null|
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911v1](http://arxiv.org/abs/2507.05911v1)|null|
 |**2025-07-08**|**Video Event Reasoning and Prediction by Fusing World Knowledge from LLMs with Vision Foundation Models**|L'ea Dubois et.al.|[2507.05822v1](http://arxiv.org/abs/2507.05822v1)|null|
 |**2025-07-08**|**DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation**|Young Hun Kim et.al.|[2507.05627v1](http://arxiv.org/abs/2507.05627v1)|null|
@@ -6304,5 +6304,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250710>back to top</a>)</p>
 

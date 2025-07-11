@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467v1](http://arxiv.org/abs/2507.07467v1)|null|
+|**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142v1](http://arxiv.org/abs/2507.07142v1)|null|
 |**2025-07-09**|**Smartphone Exergames with Real-Time Markerless Motion Capture: Challenges and Trade-offs**|Mathieu Phosanarack et.al.|[2507.06669v1](http://arxiv.org/abs/2507.06669v1)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662v1](http://arxiv.org/abs/2507.06662v1)|null|
 |**2025-07-09**|**Failure Forecasting Boosts Robustness of Sim2Real Rhythmic Insertion Policies**|Yuhan Liu et.al.|[2507.06519v1](http://arxiv.org/abs/2507.06519v1)|null|
@@ -2025,6 +2027,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Impact of Pretraining Word Co-occurrence on Compositional Generalization in Multimodal Models**|Helen Qu et.al.|[2507.08000v1](http://arxiv.org/abs/2507.08000v1)|null|
+|**2025-07-10**|**MGVQ: Could VQ-VAE Beat VAE? A Generalizable Tokenizer with Multi-group Quantization**|Mingkai Jia et.al.|[2507.07997v1](http://arxiv.org/abs/2507.07997v1)|null|
+|**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Bijay Gurung et.al.|[2507.07985v1](http://arxiv.org/abs/2507.07985v1)|null|
+|**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939v1](http://arxiv.org/abs/2507.07939v1)|null|
+|**2025-07-10**|**Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement**|Haotan Guo et.al.|[2507.07640v1](http://arxiv.org/abs/2507.07640v1)|null|
+|**2025-07-10**|**Exploring the Limits of Model Compression in LLMs: A Knowledge Distillation Study on QA Tasks**|Joyeeta Datta et.al.|[2507.07630v1](http://arxiv.org/abs/2507.07630v1)|null|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605v1](http://arxiv.org/abs/2507.07605v1)|null|
+|**2025-07-10**|**Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data**|Yuki Nishio et.al.|[2507.07454v1](http://arxiv.org/abs/2507.07454v1)|null|
+|**2025-07-10**|**EscherNet++: Simultaneous Amodal Completion and Scalable View Synthesis through Masked Fine-Tuning and Enhanced Feed-Forward 3D Reconstruction**|Xinan Zhang et.al.|[2507.07410v1](http://arxiv.org/abs/2507.07410v1)|null|
+|**2025-07-10**|**Phishing Detection in the Gen-AI Era: Quantized LLMs vs Classical Models**|Jikesh Thapa et.al.|[2507.07406v1](http://arxiv.org/abs/2507.07406v1)|null|
 |**2025-07-09**|**Go to Zero: Towards Zero-shot Motion Generation with Million-scale Data**|Ke Fan et.al.|[2507.07095v1](http://arxiv.org/abs/2507.07095v1)|null|
 |**2025-07-09**|**Free on the Fly: Enhancing Flexibility in Test-Time Adaptation with Online EM**|Qiyuan Dai et.al.|[2507.06973v1](http://arxiv.org/abs/2507.06973v1)|null|
 |**2025-07-09**|**MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**|Ziyan Liu et.al.|[2507.06908v1](http://arxiv.org/abs/2507.06908v1)|null|

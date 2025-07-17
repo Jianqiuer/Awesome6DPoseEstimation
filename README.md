@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**SpatialTrackerV2: 3D Point Tracking Made Easy**|Yuxi Xiao et.al.|[2507.12462v1](http://arxiv.org/abs/2507.12462v1)|null|
+|**2025-07-16**|**Spontaneous Spatial Cognition Emerges during Egocentric Video Viewing through Non-invasive BCI**|Weichen Dai et.al.|[2507.12417v1](http://arxiv.org/abs/2507.12417v1)|null|
+|**2025-07-16**|**Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation**|Antonio Finocchiaro et.al.|[2507.12292v1](http://arxiv.org/abs/2507.12292v1)|null|
+|**2025-07-16**|**UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization**|Hongming Shen et.al.|[2507.12194v1](http://arxiv.org/abs/2507.12194v1)|null|
+|**2025-07-16**|**BRUM: Robust 3D Vehicle Reconstruction from 360 Sparse Images**|Davide Di Nucci et.al.|[2507.12095v1](http://arxiv.org/abs/2507.12095v1)|null|
+|**2025-07-16**|**SGLoc: Semantic Localization System for Camera Pose Estimation from 3D Gaussian Splatting Representation**|Beining Xu et.al.|[2507.12027v1](http://arxiv.org/abs/2507.12027v1)|null|
+|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910v1](http://arxiv.org/abs/2507.11910v1)|null|
 |**2025-07-15**|**GKNet: Graph-based Keypoints Network for Monocular Pose Estimation of Non-cooperative Spacecraft**|Weizhao Ma et.al.|[2507.11077v1](http://arxiv.org/abs/2507.11077v1)|null|
 |**2025-07-15**|**Joint angle model based learning to refine kinematic human pose estimation**|Chang Peng et.al.|[2507.11075v1](http://arxiv.org/abs/2507.11075v1)|null|
 |**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376v1](http://arxiv.org/abs/2507.10376v1)|null|
@@ -1680,6 +1687,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning**|Hao Chen et.al.|[2507.11938v1](http://arxiv.org/abs/2507.11938v1)|null|
 |**2025-07-09**|**Diff $^2$ I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior**|Juncheng Mu et.al.|[2507.06651v1](http://arxiv.org/abs/2507.06651v1)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662v1](http://arxiv.org/abs/2507.04662v1)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321v1](http://arxiv.org/abs/2507.04321v1)|null|
@@ -2037,6 +2045,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Generate to Ground: Multimodal Text Conditioning Boosts Phrase Grounding in Medical Vision-Language Models**|Felix Nützel et.al.|[2507.12236v1](http://arxiv.org/abs/2507.12236v1)|null|
+|**2025-07-16**|**SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation**|Jun Yin et.al.|[2507.11994v1](http://arxiv.org/abs/2507.11994v1)|null|
+|**2025-07-16**|**Style Composition within Distinct LoRA modules for Traditional Art**|Jaehyun Lee et.al.|[2507.11986v1](http://arxiv.org/abs/2507.11986v1)|null|
+|**2025-07-16**|**GS-Bias: Global-Spatial Bias Learner for Single-Image Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2507.11969v1](http://arxiv.org/abs/2507.11969v1)|null|
+|**2025-07-16**|**Imbalanced Regression Pipeline Recommendation**|Juscimara G. Avelino et.al.|[2507.11901v1](http://arxiv.org/abs/2507.11901v1)|null|
+|**2025-07-16**|**SynCoGen: Synthesizable 3D Molecule Generation via Joint Reaction and Coordinate Modeling**|Andrei Rekesh et.al.|[2507.11818v1](http://arxiv.org/abs/2507.11818v1)|null|
+|**2025-07-15**|**AI Wizards at CheckThat! 2025: Enhancing Transformer-Based Embeddings with Sentiment for Subjectivity Detection in News Articles**|Matteo Fasulo et.al.|[2507.11764v1](http://arxiv.org/abs/2507.11764v1)|null|
+|**2025-07-15**|**Beyond Task-Specific Reasoning: A Unified Conditional Generative Framework for Abstract Visual Reasoning**|Fan Shi et.al.|[2507.11761v1](http://arxiv.org/abs/2507.11761v1)|null|
+|**2025-07-15**|**Torsional-GFN: a conditional conformation generator for small molecules**|Alexandra Volokhova et.al.|[2507.11759v1](http://arxiv.org/abs/2507.11759v1)|null|
+|**2025-07-15**|**CRABS: A syntactic-semantic pincer strategy for bounding LLM interpretation of Python notebooks**|Meng Li et.al.|[2507.11742v1](http://arxiv.org/abs/2507.11742v1)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540v1](http://arxiv.org/abs/2507.11540v1)|null|
 |**2025-07-15**|**HUG-VAS: A Hierarchical NURBS-Based Generative Model for Aortic Geometry Synthesis and Controllable Editing**|Pan Du et.al.|[2507.11474v1](http://arxiv.org/abs/2507.11474v1)|null|
 |**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352v1](http://arxiv.org/abs/2507.11352v1)|null|

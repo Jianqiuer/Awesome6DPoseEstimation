@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**C-DOG: Training-Free Multi-View Multi-Object Association in Dense Scenes Without Visual Feature via Connected δ-Overlap Graphs**|Yung-Hong Sun et.al.|[2507.14095v1](http://arxiv.org/abs/2507.14095v1)|null|
+|**2025-07-18**|**PCR-GS: COLMAP-Free 3D Gaussian Splatting via Pose Co-Regularizations**|Yu Wei et.al.|[2507.13891v1](http://arxiv.org/abs/2507.13891v1)|null|
+|**2025-07-18**|**MaskHOI: Robust 3D Hand-Object Interaction Estimation via Masked Pre-training**|Yuechen Xie et.al.|[2507.13673v1](http://arxiv.org/abs/2507.13673v1)|null|
 |**2025-07-17**|**$π^3$ : Scalable Permutation-Equivariant Visual Geometry Learning**|Yifan Wang et.al.|[2507.13347v1](http://arxiv.org/abs/2507.13347v1)|null|
 |**2025-07-17**|**Revisiting Reliability in the Reasoning-based Pose Estimation Benchmark**|Junsu Kim et.al.|[2507.13314v1](http://arxiv.org/abs/2507.13314v1)|null|
 |**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145v1](http://arxiv.org/abs/2507.13145v1)|null|
@@ -2038,6 +2041,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Blind Super Resolution with Reference Images and Implicit Degradation Representation**|Huu-Phu Do et.al.|[2507.13915v1](http://arxiv.org/abs/2507.13915v1)|null|
+|**2025-07-18**|**SPARQL Query Generation with LLMs: Measuring the Impact of Training Data Memorization and Knowledge Injection**|Aleksandr Gashkov et.al.|[2507.13859v1](http://arxiv.org/abs/2507.13859v1)|null|
+|**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846v1](http://arxiv.org/abs/2507.13846v1)|null|
+|**2025-07-17**|**Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries**|Hyunji Nam et.al.|[2507.13579v1](http://arxiv.org/abs/2507.13579v1)|null|
+|**2025-07-17**|**LoRA-Loop: Closing the Synthetic Replay Cycle for Continual VLM Learning**|Kaihong Wang et.al.|[2507.13568v1](http://arxiv.org/abs/2507.13568v1)|null|
+|**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525v1](http://arxiv.org/abs/2507.13525v1)|null|
+|**2025-07-17**|**Improving Out-of-distribution Human Activity Recognition via IMU-Video Cross-modal Representation Learning**|Seyyed Saeid Cheshmi et.al.|[2507.13482v1](http://arxiv.org/abs/2507.13482v1)|null|
+|**2025-07-17**|**"PhyWorldBench": A Comprehensive Evaluation of Physical Realism in Text-to-Video Models**|Jing Gu et.al.|[2507.13428v1](http://arxiv.org/abs/2507.13428v1)|null|
 |**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335v1](http://arxiv.org/abs/2507.13335v1)|null|
 |**2025-07-17**|**Detecting LLM-generated Code with Subtle Modification by Adversarial Training**|Xin Yin et.al.|[2507.13123v1](http://arxiv.org/abs/2507.13123v1)|null|
 |**2025-07-17**|**GLAD: Generalizable Tuning for Vision-Language Models**|Yuqi Peng et.al.|[2507.13089v1](http://arxiv.org/abs/2507.13089v1)|null|

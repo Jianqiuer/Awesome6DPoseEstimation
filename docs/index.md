@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for Safe Approaching Maneuvers**|Batu Candan et.al.|[2507.16214v1](http://arxiv.org/abs/2507.16214v1)|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683v1](http://arxiv.org/abs/2507.15683v1)|null|
 |**2025-07-21**|**Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images**|JunYing Huang et.al.|[2507.15496v1](http://arxiv.org/abs/2507.15496v1)|null|
@@ -2049,6 +2050,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782v1](http://arxiv.org/abs/2507.16782v1)|null|
+|**2025-07-22**|**Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support**|Fangjian Lei et.al.|[2507.16754v1](http://arxiv.org/abs/2507.16754v1)|null|
+|**2025-07-22**|**CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation**|Shuai Chen et.al.|[2507.16753v1](http://arxiv.org/abs/2507.16753v1)|null|
+|**2025-07-22**|**SALM: Spatial Audio Language Model with Structured Embeddings for Understanding and Editing**|Jinbo Hu et.al.|[2507.16724v1](http://arxiv.org/abs/2507.16724v1)|null|
+|**2025-07-22**|**Are Foundation Models All You Need for Zero-shot Face Presentation Attack Detection?**|Lazaro Janier Gonzalez-Sole et.al.|[2507.16393v1](http://arxiv.org/abs/2507.16393v1)|null|
+|**2025-07-22**|**Detect Any Sound: Open-Vocabulary Sound Event Detection with Multi-Modal Queries**|Pengfei Cai et.al.|[2507.16343v1](http://arxiv.org/abs/2507.16343v1)|null|
+|**2025-07-22**|**Quality Text, Robust Vision: The Role of Language in Enhancing Visual Robustness of Vision-Language Models**|Futa Waseda et.al.|[2507.16257v1](http://arxiv.org/abs/2507.16257v1)|null|
+|**2025-07-22**|**LMM4Edit: Benchmarking and Evaluating Multimodal Image Editing with LMMs**|Zitong Xu et.al.|[2507.16193v1](http://arxiv.org/abs/2507.16193v1)|null|
+|**2025-07-22**|**Characterizing Online Activities Contributing to Suicide Mortality among Youth**|Aparna Ananthasubramaniam et.al.|[2507.16185v1](http://arxiv.org/abs/2507.16185v1)|null|
+|**2025-07-22**|**PUSA V1.0: Surpassing Wan-I2V with $500 Training Cost by Vectorized Timestep Adaptation**|Yaofang Liu et.al.|[2507.16116v1](http://arxiv.org/abs/2507.16116v1)|null|
 |**2025-07-21**|**VeriRAG: A Retrieval-Augmented Framework for Automated RTL Testability Repair**|Haomin Qi et.al.|[2507.15664v1](http://arxiv.org/abs/2507.15664v1)|null|
 |**2025-07-21**|**Smart Eyes for Silent Threats: VLMs and In-Context Learning for THz Imaging**|Nicolas Poggi et.al.|[2507.15576v1](http://arxiv.org/abs/2507.15576v1)|null|
 |**2025-07-21**|**HOLa: Zero-Shot HOI Detection with Low-Rank Decomposed VLM Feature Adaptation**|Qinqian Lei et.al.|[2507.15542v1](http://arxiv.org/abs/2507.15542v1)|null|

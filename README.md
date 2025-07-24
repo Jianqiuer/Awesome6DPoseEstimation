@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594v1](http://arxiv.org/abs/2507.17594v1)|null|
+|**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406v1](http://arxiv.org/abs/2507.17406v1)|null|
+|**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850v1](http://arxiv.org/abs/2507.16850v1)|null|
 |**2025-07-22**|**Adaptive Relative Pose Estimation Framework with Dual Noise Tuning for Safe Approaching Maneuvers**|Batu Candan et.al.|[2507.16214v1](http://arxiv.org/abs/2507.16214v1)|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|null|
 |**2025-07-21**|**Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing**|Boni Hu et.al.|[2507.15683v1](http://arxiv.org/abs/2507.15683v1)|null|
@@ -2062,6 +2065,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Attention (as Discrete-Time Markov) Chains**|Yotam Erel et.al.|[2507.17657v1](http://arxiv.org/abs/2507.17657v1)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636v1](http://arxiv.org/abs/2507.17636v1)|null|
+|**2025-07-23**|**Decoding Consumer Preferences Using Attention-Based Language Models**|Joshua Foster et.al.|[2507.17564v1](http://arxiv.org/abs/2507.17564v1)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539v1](http://arxiv.org/abs/2507.17539v1)|null|
+|**2025-07-23**|**Probing Vision-Language Understanding through the Visual Entailment Task: promises and pitfalls**|Elena Pitta et.al.|[2507.17467v1](http://arxiv.org/abs/2507.17467v1)|null|
+|**2025-07-23**|**Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models**|Shen Tan et.al.|[2507.17379v1](http://arxiv.org/abs/2507.17379v1)|null|
+|**2025-07-23**|**A Conditional Probability Framework for Compositional Zero-shot Learning**|Peng Wu et.al.|[2507.17377v1](http://arxiv.org/abs/2507.17377v1)|null|
+|**2025-07-23**|**Application of Whisper in Clinical Practice: the Post-Stroke Speech Assessment during a Naming Task**|Milena Davudova et.al.|[2507.17326v1](http://arxiv.org/abs/2507.17326v1)|null|
+|**2025-07-23**|**Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems**|Li Kang et.al.|[2507.17290v1](http://arxiv.org/abs/2507.17290v1)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268v1](http://arxiv.org/abs/2507.17268v1)|null|
 |**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782v1](http://arxiv.org/abs/2507.16782v1)|null|
 |**2025-07-22**|**Never Come Up Empty: Adaptive HyDE Retrieval for Improving LLM Developer Support**|Fangjian Lei et.al.|[2507.16754v1](http://arxiv.org/abs/2507.16754v1)|null|
 |**2025-07-22**|**CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation**|Shuai Chen et.al.|[2507.16753v1](http://arxiv.org/abs/2507.16753v1)|null|

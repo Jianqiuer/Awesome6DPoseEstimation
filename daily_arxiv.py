@@ -7,6 +7,9 @@ import logging
 import argparse
 import datetime
 import requests
+import time
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -14,6 +17,22 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
+
+def get_requests_session():
+    """
+    Create a requests session with retry strategy and timeout
+    """
+    session = requests.Session()
+    retry_strategy = Retry(
+        total=5,
+        backoff_factor=2,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["HEAD", "GET", "OPTIONS"]
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
 
 def load_config(config_file:str) -> dict:
     '''
@@ -92,13 +111,16 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
+    
+    # Use the new Client API instead of deprecated Search.results()
+    client = arxiv.Client()
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -122,10 +144,35 @@ def get_daily_papers(topic,query="slam", max_results=2):
             paper_key = paper_id[0:ver_pos]    
 
         try:
-            # source code link    
-            r = requests.get(code_url).json()
+            # source code link with retry mechanism
+            session = get_requests_session()
+            max_retries = 3
+            retry_delay = 2
+            
+            r = None
+            for attempt in range(max_retries):
+                try:
+                    r = session.get(code_url, timeout=10, verify=True)
+                    r.raise_for_status()
+                    r = r.json()
+                    break
+                except (requests.exceptions.SSLError, 
+                        requests.exceptions.ConnectionError,
+                        requests.exceptions.Timeout) as e:
+                    if attempt < max_retries - 1:
+                        time.sleep(retry_delay * (attempt + 1))
+                        continue
+                    else:
+                        logging.warning(f"Failed to get code link after {max_retries} attempts for {paper_key}: {e}")
+                        r = None
+                        break
+                except Exception as e:
+                    logging.warning(f"Unexpected error getting code link for {paper_key}: {e}")
+                    r = None
+                    break
+            
             repo_url = None
-            if "official" in r and r["official"]:
+            if r and "official" in r and r["official"]:
                 repo_url = r["official"]["url"]
             # TODO: not found, two more chances  
             # else: 
@@ -181,9 +228,34 @@ def update_paper_links(filename):
                     continue
                 try:
                     code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
+                    session = get_requests_session()
+                    max_retries = 3
+                    retry_delay = 2
+                    
+                    r = None
+                    for attempt in range(max_retries):
+                        try:
+                            r = session.get(code_url, timeout=10, verify=True)
+                            r.raise_for_status()
+                            r = r.json()
+                            break
+                        except (requests.exceptions.SSLError,
+                                requests.exceptions.ConnectionError,
+                                requests.exceptions.Timeout) as e:
+                            if attempt < max_retries - 1:
+                                time.sleep(retry_delay * (attempt + 1))
+                                continue
+                            else:
+                                logging.warning(f"Failed to update link after {max_retries} attempts for {paper_id}: {e}")
+                                r = None
+                                break
+                        except Exception as e:
+                            logging.warning(f"Unexpected error updating link for {paper_id}: {e}")
+                            r = None
+                            break
+                    
                     repo_url = None
-                    if "official" in r and r["official"]:
+                    if r and "official" in r and r["official"]:
                         repo_url = r["official"]["url"]
                         if repo_url is not None:
                             new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')

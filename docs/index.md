@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235v1](http://arxiv.org/abs/2511.19235v1)|null|
+|**2025-11-24**|**Graph-based 3D Human Pose Estimation using WiFi Signals**|Jichao Chen et.al.|[2511.19105v1](http://arxiv.org/abs/2511.19105v1)|null|
+|**2025-11-24**|**Analysis of Deep-Learning Methods in an ISO/TS 15066-Compliant Human-Robot Safety Framework**|David Bricher et.al.|[2511.19094v1](http://arxiv.org/abs/2511.19094v1)|null|
+|**2025-11-24**|**LAA3D: A Benchmark of Detecting and Tracking Low-Altitude Aircraft in 3D Space**|Hai Wu et.al.|[2511.19057v1](http://arxiv.org/abs/2511.19057v1)|null|
+|**2025-11-24**|**Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors**|Haihang Wu et.al.|[2511.19031v1](http://arxiv.org/abs/2511.19031v1)|null|
+|**2025-11-24**|**Robust Long-term Test-Time Adaptation for 3D Human Pose Estimation through Motion Discretization**|Yilin Wen et.al.|[2511.18851v1](http://arxiv.org/abs/2511.18851v1)|null|
+|**2025-11-24**|**CNN-Based Camera Pose Estimation and Localisation of Scan Images for Aircraft Visual Inspection**|Xueyan Oh et.al.|[2511.18702v1](http://arxiv.org/abs/2511.18702v1)|null|
+|**2025-11-24**|**Hierarchical GraphCut Phase Unwrapping based on Invariance of Diffeomorphisms Framework**|Xiang Gao et.al.|[2511.18682v1](http://arxiv.org/abs/2511.18682v1)|null|
+|**2025-11-23**|**Zero-Reference Joint Low-Light Enhancement and Deblurring via Visual Autoregressive Modeling with VLM-Derived Modulation**|Wei Dong et.al.|[2511.18591v1](http://arxiv.org/abs/2511.18591v1)|null|
+|**2025-11-23**|**LRDUN: A Low-Rank Deep Unfolding Network for Efficient Spectral Compressive Imaging**|He Huang et.al.|[2511.18513v1](http://arxiv.org/abs/2511.18513v1)|null|
 |**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594v1](http://arxiv.org/abs/2507.17594v1)|null|
 |**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406v1](http://arxiv.org/abs/2507.17406v1)|null|
 |**2025-07-21**|**Toward a Real-Time Framework for Accurate Monocular 3D Human Pose Estimation with Geometric Priors**|Mohamed Adjel et.al.|[2507.16850v1](http://arxiv.org/abs/2507.16850v1)|null|
@@ -1697,6 +1707,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807v1](http://arxiv.org/abs/2511.16807v1)|null|
+|**2025-11-20**|**CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering**|Joni Vanherck et.al.|[2511.16349v1](http://arxiv.org/abs/2511.16349v1)|null|
+|**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286v1](http://arxiv.org/abs/2511.14286v1)|null|
+|**2025-11-17**|**FUSE: A Flow-based Mapping Between Shapes**|Lorenzo Olearo et.al.|[2511.13431v1](http://arxiv.org/abs/2511.13431v1)|null|
+|**2025-11-13**|**IPCD: Intrinsic Point-Cloud Decomposition**|Shogo Sato et.al.|[2511.09866v1](http://arxiv.org/abs/2511.09866v1)|null|
+|**2025-11-12**|**HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests**|Ethan Griffiths et.al.|[2511.09170v1](http://arxiv.org/abs/2511.09170v1)|null|
+|**2025-11-09**|**ArtReg: Visuo-Tactile based Pose Tracking and Manipulation of Unseen Articulated Objects**|Prajval Kumar Murali et.al.|[2511.06378v1](http://arxiv.org/abs/2511.06378v1)|null|
+|**2025-11-08**|**Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration**|Zhixin Cheng et.al.|[2511.05965v1](http://arxiv.org/abs/2511.05965v1)|null|
+|**2025-11-06**|**Registration-Free Monitoring of Unstructured Point Cloud Data via Intrinsic Geometrical Properties**|Mariafrancesca Patalano et.al.|[2511.05623v1](http://arxiv.org/abs/2511.05623v1)|null|
+|**2025-11-01**|**Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles**|Hyungtae Lim et.al.|[2511.00635v1](http://arxiv.org/abs/2511.00635v1)|null|
 |**2025-07-20**|**Decision PCR: Decision version of the Point Cloud Registration task**|Yaojie Zhang et.al.|[2507.14965v1](http://arxiv.org/abs/2507.14965v1)|null|
 |**2025-07-19**|**GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration**|Weikang Gu et.al.|[2507.14452v1](http://arxiv.org/abs/2507.14452v1)|null|
 |**2025-07-16**|**A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning**|Hao Chen et.al.|[2507.11938v1](http://arxiv.org/abs/2507.11938v1)|null|
@@ -1938,6 +1958,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion**|Yichen Yang et.al.|[2511.18801v1](http://arxiv.org/abs/2511.18801v1)|null|
+|**2025-11-23**|**Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation**|Samarth Chopra et.al.|[2511.18525v1](http://arxiv.org/abs/2511.18525v1)|null|
+|**2025-11-23**|**UniFlow: Towards Zero-Shot LiDAR Scene Flow for Autonomous Vehicles via Cross-Domain Generalization**|Siyi Li et.al.|[2511.18254v1](http://arxiv.org/abs/2511.18254v1)|null|
+|**2025-11-21**|**Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift**|Björn Michele et.al.|[2511.17455v1](http://arxiv.org/abs/2511.17455v1)|null|
+|**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807v1](http://arxiv.org/abs/2511.16807v1)|null|
+|**2025-11-20**|**Late-decoupled 3D Hierarchical Semantic Segmentation with Semantic Prototype Discrimination based Bi-branch Supervision**|Shuyu Cao et.al.|[2511.16650v1](http://arxiv.org/abs/2511.16650v1)|null|
+|**2025-11-20**|**NaTex: Seamless Texture Generation as Latent Color Diffusion**|Zeqiang Lai et.al.|[2511.16317v1](http://arxiv.org/abs/2511.16317v1)|null|
+|**2025-11-12**|**Task-Aware 3D Affordance Segmentation via 2D Guidance and Geometric Refinement**|Lian He et.al.|[2511.11702v1](http://arxiv.org/abs/2511.11702v1)|null|
+|**2025-11-13**|**GFT: Graph Feature Tuning for Efficient Point Cloud Analysis**|Manish Dhakal et.al.|[2511.10799v1](http://arxiv.org/abs/2511.10799v1)|null|
+|**2025-11-12**|**IFG: Internet-Scale Guidance for Functional Grasping Generation**|Ray Muxin Liu et.al.|[2511.09558v1](http://arxiv.org/abs/2511.09558v1)|null|
 |**2025-07-09**|**PointVDP: Learning View-Dependent Projection by Fireworks Rays for 3D Point Cloud Segmentation**|Yang Chen et.al.|[2507.06618v1](http://arxiv.org/abs/2507.06618v1)|null|
 |**2025-07-09**|**Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning**|Yang Chen et.al.|[2507.06592v1](http://arxiv.org/abs/2507.06592v1)|null|
 |**2025-07-07**|**All in One: Visual-Description-Guided Unified Point Cloud Segmentation**|Zongyan Han et.al.|[2507.05211v1](http://arxiv.org/abs/2507.05211v1)|null|
@@ -2053,6 +2083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-24**|**Are Image-to-Video Models Good Zero-Shot Image Editors?**|Zechuan Zhang et.al.|[2511.19435v1](http://arxiv.org/abs/2511.19435v1)|null|
+|**2025-11-24**|**Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction**|Yun Zhou et.al.|[2511.19426v1](http://arxiv.org/abs/2511.19426v1)|null|
+|**2025-11-24**|**ReMatch: Boosting Representation through Matching for Multimodal Retrieval**|Qianying Liu et.al.|[2511.19278v1](http://arxiv.org/abs/2511.19278v1)|null|
+|**2025-11-24**|**LAST: LeArning to Think in Space and Time for Generalist Vision-Language Models**|Shuai Wang et.al.|[2511.19261v1](http://arxiv.org/abs/2511.19261v1)|null|
+|**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235v1](http://arxiv.org/abs/2511.19235v1)|null|
+|**2025-11-24**|**Test-Time Preference Optimization for Image Restoration**|Bingchen Li et.al.|[2511.19169v1](http://arxiv.org/abs/2511.19169v1)|null|
+|**2025-11-24**|**A Multi-Agent LLM Framework for Multi-Domain Low-Resource In-Context NER via Knowledge Retrieval, Disambiguation and Reflective Analysis**|Wenxuan Mu et.al.|[2511.19083v1](http://arxiv.org/abs/2511.19083v1)|null|
+|**2025-11-24**|**Rethinking Plant Disease Diagnosis: Bridging the Academic-Practical Gap with Vision Transformers and Zero-Shot Learning**|Wassim Benabbas et.al.|[2511.18989v1](http://arxiv.org/abs/2511.18989v1)|null|
+|**2025-11-24**|**MOCLIP: A Foundation Model for Large-Scale Nanophotonic Inverse Design**|S. Rodionov et.al.|[2511.18980v1](http://arxiv.org/abs/2511.18980v1)|null|
+|**2025-11-24**|**Zero-shot segmentation of skin tumors in whole-slide images with vision-language foundation models**|Santiago Moreno et.al.|[2511.18978v1](http://arxiv.org/abs/2511.18978v1)|null|
 |**2025-07-23**|**Attention (as Discrete-Time Markov) Chains**|Yotam Erel et.al.|[2507.17657v1](http://arxiv.org/abs/2507.17657v1)|null|
 |**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636v1](http://arxiv.org/abs/2507.17636v1)|null|
 |**2025-07-23**|**Decoding Consumer Preferences Using Attention-Based Language Models**|Joshua Foster et.al.|[2507.17564v1](http://arxiv.org/abs/2507.17564v1)|null|

@@ -7,6 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Metric, inertially aligned monocular state estimation via kinetodynamic priors**|Jiaxin Liu et.al.|[2511.20496v1](http://arxiv.org/abs/2511.20496v1)|null|
+|**2025-11-25**|**Dance Style Classification using Laban-Inspired and Frequency-Domain Motion Features**|Ben Hamscher et.al.|[2511.20469v1](http://arxiv.org/abs/2511.20469v1)|null|
+|**2025-11-25**|**A novel multi-exposure-to-multi-mediator mediation model for imaging genetic study of brain disorders**|Neng Wang et.al.|[2511.20412v1](http://arxiv.org/abs/2511.20412v1)|null|
+|**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343v1](http://arxiv.org/abs/2511.20343v1)|null|
+|**2025-11-25**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157v1](http://arxiv.org/abs/2511.20157v1)|null|
+|**2025-11-25**|**VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction**|Yu Hu et.al.|[2511.19971v1](http://arxiv.org/abs/2511.19971v1)|null|
+|**2025-11-25**|**ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation**|Jinxuan Zhu et.al.|[2511.19955v1](http://arxiv.org/abs/2511.19955v1)|null|
+|**2025-11-24**|**Anchoring Convenience Survey Samples to a Baseline Census for Vaccine Coverage Monitoring in Global Health**|Nathaniel Dyrkton et.al.|[2511.19742v1](http://arxiv.org/abs/2511.19742v1)|null|
 |**2025-11-24**|**IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes**|Carl Lindström et.al.|[2511.19235v1](http://arxiv.org/abs/2511.19235v1)|null|
 |**2025-11-24**|**Graph-based 3D Human Pose Estimation using WiFi Signals**|Jichao Chen et.al.|[2511.19105v1](http://arxiv.org/abs/2511.19105v1)|null|
 |**2025-11-24**|**Analysis of Deep-Learning Methods in an ISO/TS 15066-Compliant Human-Robot Safety Framework**|David Bricher et.al.|[2511.19094v1](http://arxiv.org/abs/2511.19094v1)|null|
@@ -2791,6 +2799,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**Redefining Radar Segmentation: Simultaneous Static-Moving Segmentation and Ego-Motion Estimation using Radar Point Clouds**|Simin Zhu et.al.|[2511.20003v1](http://arxiv.org/abs/2511.20003v1)|null|
+|**2025-11-24**|**A Storage-Efficient Feature for 3D Concrete Defect Segmentation to Replace Normal Vector**|Linxin Hua et.al.|[2511.19760v1](http://arxiv.org/abs/2511.19760v1)|null|
 |**2025-11-24**|**PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion**|Yichen Yang et.al.|[2511.18801v1](http://arxiv.org/abs/2511.18801v1)|null|
 |**2025-11-23**|**Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation**|Samarth Chopra et.al.|[2511.18525v1](http://arxiv.org/abs/2511.18525v1)|null|
 |**2025-11-23**|**UniFlow: Towards Zero-Shot LiDAR Scene Flow for Autonomous Vehicles via Cross-Domain Generalization**|Siyi Li et.al.|[2511.18254v1](http://arxiv.org/abs/2511.18254v1)|null|
@@ -3030,6 +3040,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648v1](http://arxiv.org/abs/2511.20648v1)|null|
+|**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641v1](http://arxiv.org/abs/2511.20641v1)|null|
+|**2025-11-25**|**BengaliFig: A Low-Resource Challenge for Figurative and Culturally Grounded Reasoning in Bengali**|Abdullah Al Sefat et.al.|[2511.20399v1](http://arxiv.org/abs/2511.20399v1)|null|
+|**2025-11-25**|**NNGPT: Rethinking AutoML with Large Language Models**|Roman Kochnev et.al.|[2511.20333v1](http://arxiv.org/abs/2511.20333v1)|null|
+|**2025-11-25**|**ScenarioCLIP: Pretrained Transferable Visual Language Models and Action-Genome Dataset for Natural Scene Analysis**|Advik Sinha et.al.|[2511.20274v1](http://arxiv.org/abs/2511.20274v1)|null|
+|**2025-11-25**|**Zoo3D: Zero-Shot 3D Object Detection at Scene Level**|Andrey Lemeshko et.al.|[2511.20253v1](http://arxiv.org/abs/2511.20253v1)|null|
+|**2025-11-25**|**HKRAG: Holistic Knowledge Retrieval-Augmented Generation Over Visually-Rich Documents**|Anyang Tong et.al.|[2511.20227v1](http://arxiv.org/abs/2511.20227v1)|null|
+|**2025-11-25**|**"When Data is Scarce, Prompt Smarter"... Approaches to Grammatical Error Correction in Low-Resource Settings**|Somsubhra De et.al.|[2511.20120v1](http://arxiv.org/abs/2511.20120v1)|null|
+|**2025-11-25**|**Zero-Shot Transfer Capabilities of the Sundial Foundation Model for Leaf Area Index Forecasting**|Peining Zhang et.al.|[2511.20004v1](http://arxiv.org/abs/2511.20004v1)|null|
+|**2025-11-25**|**A Machine Learning Approach for Detection of Mental Health Conditions and Cyberbullying from Social Media**|Edward Ajayi et.al.|[2511.20001v1](http://arxiv.org/abs/2511.20001v1)|null|
 |**2025-11-24**|**Are Image-to-Video Models Good Zero-Shot Image Editors?**|Zechuan Zhang et.al.|[2511.19435v1](http://arxiv.org/abs/2511.19435v1)|null|
 |**2025-11-24**|**Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction**|Yun Zhou et.al.|[2511.19426v1](http://arxiv.org/abs/2511.19426v1)|null|
 |**2025-11-24**|**ReMatch: Boosting Representation through Matching for Multimodal Retrieval**|Qianying Liu et.al.|[2511.19278v1](http://arxiv.org/abs/2511.19278v1)|null|

@@ -667,6 +667,7 @@
 |**2024-10-16**|**Optimizing Multi-Task Learning for Accurate Spacecraft Pose Estimation**|Francesco Evangelisti et.al.|[2410.12679v1](http://arxiv.org/abs/2410.12679v1)|null|
 |**2024-10-15**|**Contrastive Touch-to-Touch Pretraining**|Samanta Rodriguez et.al.|[2410.11834v1](http://arxiv.org/abs/2410.11834v1)|null|
 |**2024-10-18**|**X-Fi: A Modality-Invariant Foundation Model for Multimodal Human Sensing**|Xinyan Chen et.al.|[2410.10167v2](http://arxiv.org/abs/2410.10167v2)|null|
+|**2024-10-14**|**MICP-L: Mesh-based ICP for Robot Localization Using Hardware-Accelerated Ray Casting**|Alexander Mock et.al.|[2210.13904](https://arxiv.org/abs/2210.13904)|**[link](https://github.com/uos/rmcl)**|
 |**2024-10-13**|**Occluded Human Pose Estimation based on Limb Joint Augmentation**|Gangtao Han et.al.|[2410.09885v1](http://arxiv.org/abs/2410.09885v1)|null|
 |**2024-10-12**|**Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors**|Hritam Basak et.al.|[2410.09467v1](http://arxiv.org/abs/2410.09467v1)|null|
 |**2024-10-12**|**Towards Multi-Modal Animal Pose Estimation: An In-Depth Analysis**|Qianyi Deng et.al.|[2410.09312v1](http://arxiv.org/abs/2410.09312v1)|**[link](https://github.com/chennydeng/mm-ape)**|

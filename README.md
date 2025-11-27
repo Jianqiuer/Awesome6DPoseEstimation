@@ -13,11 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Seeing without Pixels: Perception from Camera Trajectories**|Zihui Xue et.al.|[2511.21681v1](http://arxiv.org/abs/2511.21681v1)|null|
+|**2025-11-26**|**Uncertainty Quantification for Visual Object Pose Estimation**|Lorenzo Shaikewitz et.al.|[2511.21666v1](http://arxiv.org/abs/2511.21666v1)|null|
+|**2025-11-26**|**Enhanced Landmark Detection Model in Pelvic Fluoroscopy using 2D/3D Registration Loss**|Chou Mo et.al.|[2511.21575v1](http://arxiv.org/abs/2511.21575v1)|null|
+|**2025-11-26**|**Informed Burn-In Decisions in RAR: Harmonizing Adaptivity and Inferential Precision Based on Study Setting**|Lukas Pin et.al.|[2511.21376v1](http://arxiv.org/abs/2511.21376v1)|null|
 |**2025-11-25**|**Metric, inertially aligned monocular state estimation via kinetodynamic priors**|Jiaxin Liu et.al.|[2511.20496v1](http://arxiv.org/abs/2511.20496v1)|null|
 |**2025-11-25**|**Dance Style Classification using Laban-Inspired and Frequency-Domain Motion Features**|Ben Hamscher et.al.|[2511.20469v1](http://arxiv.org/abs/2511.20469v1)|null|
 |**2025-11-25**|**A novel multi-exposure-to-multi-mediator mediation model for imaging genetic study of brain disorders**|Neng Wang et.al.|[2511.20412v1](http://arxiv.org/abs/2511.20412v1)|null|
 |**2025-11-25**|**AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend**|Hengyi Wang et.al.|[2511.20343v1](http://arxiv.org/abs/2511.20343v1)|null|
-|**2025-11-25**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157v1](http://arxiv.org/abs/2511.20157v1)|null|
+|**2025-11-26**|**SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery**|Da Li et.al.|[2511.20157v2](http://arxiv.org/abs/2511.20157v2)|null|
 |**2025-11-25**|**VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction**|Yu Hu et.al.|[2511.19971v1](http://arxiv.org/abs/2511.19971v1)|null|
 |**2025-11-25**|**ShapeForce: Low-Cost Soft Robotic Wrist for Contact-Rich Manipulation**|Jinxuan Zhu et.al.|[2511.19955v1](http://arxiv.org/abs/2511.19955v1)|null|
 |**2025-11-24**|**Anchoring Convenience Survey Samples to a Baseline Census for Vaccine Coverage Monitoring in Global Health**|Nathaniel Dyrkton et.al.|[2511.19742v1](http://arxiv.org/abs/2511.19742v1)|null|
@@ -2809,6 +2813,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191v1](http://arxiv.org/abs/2511.21191v1)|null|
+|**2025-11-25**|**Foundry: Distilling 3D Foundation Models for the Edge**|Guillaume Letellier et.al.|[2511.20721v1](http://arxiv.org/abs/2511.20721v1)|null|
 |**2025-11-25**|**Redefining Radar Segmentation: Simultaneous Static-Moving Segmentation and Ego-Motion Estimation using Radar Point Clouds**|Simin Zhu et.al.|[2511.20003v1](http://arxiv.org/abs/2511.20003v1)|null|
 |**2025-11-24**|**A Storage-Efficient Feature for 3D Concrete Defect Segmentation to Replace Normal Vector**|Linxin Hua et.al.|[2511.19760v1](http://arxiv.org/abs/2511.19760v1)|null|
 |**2025-11-24**|**PartDiffuser: Part-wise 3D Mesh Generation via Discrete Diffusion**|Yichen Yang et.al.|[2511.18801v1](http://arxiv.org/abs/2511.18801v1)|null|
@@ -3052,6 +3058,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-26**|**On the Limits of Innate Planning in Large Language Models**|Charles Schepanowski et.al.|[2511.21591v1](http://arxiv.org/abs/2511.21591v1)|null|
+|**2025-11-26**|**Evaluation of Large Language Models for Numeric Anomaly Detection in Power Systems**|Yichen Liu et.al.|[2511.21371v1](http://arxiv.org/abs/2511.21371v1)|null|
+|**2025-11-26**|**Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting**|Juncheng Chen et.al.|[2511.21265v1](http://arxiv.org/abs/2511.21265v1)|null|
+|**2025-11-26**|**Transformer Driven Visual Servoing and Dual Arm Impedance Control for Fabric Texture Matching**|Fuyuki Tokuda et.al.|[2511.21203v1](http://arxiv.org/abs/2511.21203v1)|null|
+|**2025-11-26**|**Which Layer Causes Distribution Deviation? Entropy-Guided Adaptive Pruning for Diffusion and Flow Models**|Changlin Li et.al.|[2511.21122v1](http://arxiv.org/abs/2511.21122v1)|null|
+|**2025-11-26**|**MLPMoE: Zero-Shot Architectural Metamorphosis of Dense LLM MLPs into Static Mixture-of-Experts**|Ivan Novikov et.al.|[2511.21089v1](http://arxiv.org/abs/2511.21089v1)|null|
+|**2025-11-26**|**Semantic Anchors in In-Context Learning: Why Small LLMs Cannot Flip Their Labels**|Anantha Padmanaban Krishna Kumar et.al.|[2511.21038v1](http://arxiv.org/abs/2511.21038v1)|null|
+|**2025-11-26**|**RosettaSpeech: Zero-Shot Speech-to-Speech Translation from Monolingual Data**|Zhisheng Zheng et.al.|[2511.20974v1](http://arxiv.org/abs/2511.20974v1)|null|
+|**2025-11-25**|**Winning with Less for Low Resource Languages: Advantage of Cross-Lingual English_Persian Argument Mining Model over LLM Augmentation**|Ali Jahan et.al.|[2511.20872v1](http://arxiv.org/abs/2511.20872v1)|null|
+|**2025-11-25**|**OVAL-Grasp: Open-Vocabulary Affordance Localization for Task Oriented Grasping**|Edmond Tong et.al.|[2511.20841v1](http://arxiv.org/abs/2511.20841v1)|null|
 |**2025-11-25**|**LocateAnything3D: Vision-Language 3D Detection with Chain-of-Sight**|Yunze Man et.al.|[2511.20648v1](http://arxiv.org/abs/2511.20648v1)|null|
 |**2025-11-25**|**Unleashing the Power of Vision-Language Models for Long-Tailed Multi-Label Visual Recognition**|Wei Tang et.al.|[2511.20641v1](http://arxiv.org/abs/2511.20641v1)|null|
 |**2025-11-25**|**BengaliFig: A Low-Resource Challenge for Figurative and Culturally Grounded Reasoning in Bengali**|Abdullah Al Sefat et.al.|[2511.20399v1](http://arxiv.org/abs/2511.20399v1)|null|

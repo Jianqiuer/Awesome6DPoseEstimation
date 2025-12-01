@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Zero-Shot Multi-Criteria Visual Quality Inspection for Semi-Controlled Industrial Environments via Real-Time 3D Digital Twin Simulation**|Jose Moises Araya-Martinez et.al.|[2511.23214v1](http://arxiv.org/abs/2511.23214v1)|null|
+|**2025-11-28**|**Multi-chain Graph Refinement and Selection for Reliable Reasoning in Large Language Models**|Yujiao Yang et.al.|[2511.23136v1](http://arxiv.org/abs/2511.23136v1)|null|
+|**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044v1](http://arxiv.org/abs/2511.23044v1)|null|
+|**2025-11-28**|**DiskChunGS: Large-Scale 3D Gaussian SLAM Through Chunk-Based Memory Management**|Casimir Feldmann et.al.|[2511.23030v1](http://arxiv.org/abs/2511.23030v1)|null|
+|**2025-11-28**|**MARVO: Marine-Adaptive Radiance-aware Visual Odometry**|Sacchin Sundar et.al.|[2511.22860v1](http://arxiv.org/abs/2511.22860v1)|null|
+|**2025-11-28**|**Threat-Aware UAV Dodging of Human-Thrown Projectiles with an RGB-D Camera**|Yuying Zhang et.al.|[2511.22847v1](http://arxiv.org/abs/2511.22847v1)|null|
+|**2025-11-27**|**Megastructures of type-III civilizations orbiting galaxies**|Zaza N. Osmanov et.al.|[2511.22748v1](http://arxiv.org/abs/2511.22748v1)|null|
 |**2025-11-27**|**Test-time scaling of diffusions with flow maps**|Amirmojtaba Sabour et.al.|[2511.22688v1](http://arxiv.org/abs/2511.22688v1)|null|
 |**2025-11-27**|**Emergent Extreme-View Geometry in 3D Foundation Models**|Yiwen Zhang et.al.|[2511.22686v1](http://arxiv.org/abs/2511.22686v1)|null|
 |**2025-11-27**|**A Framework for Initial Transient Detection and Statistical Assessment of Convergence in CFD Simulations**|Leonardo Scandurra et.al.|[2511.22618v1](http://arxiv.org/abs/2511.22618v1)|null|
@@ -2524,6 +2531,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**PointCNN++: Performant Convolution on Native Points**|Lihan Li et.al.|[2511.23227v1](http://arxiv.org/abs/2511.23227v1)|null|
+|**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908v1](http://arxiv.org/abs/2511.22908v1)|null|
 |**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807v1](http://arxiv.org/abs/2511.16807v1)|null|
 |**2025-11-20**|**CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering**|Joni Vanherck et.al.|[2511.16349v1](http://arxiv.org/abs/2511.16349v1)|null|
 |**2025-11-18**|**NeuralBoneReg: A Novel Self-Supervised Method for Robust and Accurate Multi-Modal Bone Surface Registration**|Luohong Wu et.al.|[2511.14286v1](http://arxiv.org/abs/2511.14286v1)|null|
@@ -3065,6 +3074,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**DisMo: Disentangled Motion Representations for Open-World Motion Transfer**|Thomas Ressler-Antal et.al.|[2511.23428v1](http://arxiv.org/abs/2511.23428v1)|null|
+|**2025-11-28**|**UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes**|Shuo Ni et.al.|[2511.23332v1](http://arxiv.org/abs/2511.23332v1)|null|
+|**2025-11-28**|**BanglaSentNet: An Explainable Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis with Cross-Domain Transfer Learning**|Ariful Islam et.al.|[2511.23264v1](http://arxiv.org/abs/2511.23264v1)|null|
+|**2025-11-28**|**AgriCoT: A Chain-of-Thought Benchmark for Evaluating Reasoning in Vision-Language Models for Agriculture**|Yibin Wen et.al.|[2511.23253v1](http://arxiv.org/abs/2511.23253v1)|null|
+|**2025-11-28**|**Tourism Question Answer System in Indian Language using Domain-Adapted Foundation Models**|Praveen Gatla et.al.|[2511.23235v1](http://arxiv.org/abs/2511.23235v1)|null|
+|**2025-11-28**|**Zero-Shot Multi-Criteria Visual Quality Inspection for Semi-Controlled Industrial Environments via Real-Time 3D Digital Twin Simulation**|Jose Moises Araya-Martinez et.al.|[2511.23214v1](http://arxiv.org/abs/2511.23214v1)|null|
+|**2025-11-28**|**PowerCLIP: Powerset Alignment for Contrastive Pre-Training**|Masaki Kawamura et.al.|[2511.23170v1](http://arxiv.org/abs/2511.23170v1)|null|
+|**2025-11-28**|**Estimating the Event-Related Potential from Few EEG Trials**|Anders Vestergaard Nørskov et.al.|[2511.23162v1](http://arxiv.org/abs/2511.23162v1)|null|
+|**2025-11-28**|**NumeriKontrol: Adding Numeric Control to Diffusion Transformers for Instruction-based Image Editing**|Zhenyu Xu et.al.|[2511.23105v1](http://arxiv.org/abs/2511.23105v1)|null|
+|**2025-11-28**|**Mind Reading or Misreading? LLMs on the Big Five Personality Test**|Francesco Di Cursi et.al.|[2511.23101v1](http://arxiv.org/abs/2511.23101v1)|null|
 |**2025-11-27**|**Deadlock-Free Hybrid RL-MAPF Framework for Zero-Shot Multi-Robot Navigation**|Haoyi Wang et.al.|[2511.22685v1](http://arxiv.org/abs/2511.22685v1)|null|
 |**2025-11-27**|**Modèles de Fondation et Ajustement : Vers une Nouvelle Génération de Modèles pour la Prévision des Séries Temporelles**|Morad Laglil et.al.|[2511.22674v1](http://arxiv.org/abs/2511.22674v1)|null|
 |**2025-11-27**|**VaMP: Variational Multi-Modal Prompt Learning for Vision-Language Models**|Silin Cheng et.al.|[2511.22664v1](http://arxiv.org/abs/2511.22664v1)|null|

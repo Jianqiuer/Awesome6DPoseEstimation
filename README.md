@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Visual Sync: Multi-Camera Synchronization via Cross-View Object Motion**|Shaowei Liu et.al.|[2512.02017v1](http://arxiv.org/abs/2512.02017v1)|null|
+|**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889v1](http://arxiv.org/abs/2512.01889v1)|null|
+|**2025-12-01**|**Is Image-based Object Pose Estimation Ready to Support Grasping?**|Eric C. Joyce et.al.|[2512.01856v1](http://arxiv.org/abs/2512.01856v1)|null|
+|**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
+|**2025-12-01**|**Probabilistic Neuro-Symbolic Reasoning for Sparse Historical Data: A Framework Integrating Bayesian Inference, Causal Models, and Game-Theoretic Allocation**|Saba Kublashvili et.al.|[2512.01723v1](http://arxiv.org/abs/2512.01723v1)|null|
+|**2025-12-01**|**Differentially Private and Federated Structure Learning in Bayesian Networks**|Ghita Fassy El Fehri et.al.|[2512.01708v1](http://arxiv.org/abs/2512.01708v1)|null|
+|**2025-12-01**|**Estimating the prevalence of LLM-assisted text in scholarly writing**|Andrew Gray et.al.|[2512.01560v1](http://arxiv.org/abs/2512.01560v1)|null|
+|**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366v1](http://arxiv.org/abs/2512.01366v1)|null|
+|**2025-12-01**|**TabletopGen: Instance-Level Interactive 3D Tabletop Scene Generation from Text or Single Image**|Ziqian Wang et.al.|[2512.01204v1](http://arxiv.org/abs/2512.01204v1)|null|
+|**2025-12-01**|**Beyond Greenfield: AI-Driven Productivity in Documentation and Brownfield Engineering**|Krishna Kumaar Sharma et.al.|[2512.01155v1](http://arxiv.org/abs/2512.01155v1)|null|
 |**2025-11-28**|**Zero-Shot Multi-Criteria Visual Quality Inspection for Semi-Controlled Industrial Environments via Real-Time 3D Digital Twin Simulation**|Jose Moises Araya-Martinez et.al.|[2511.23214v1](http://arxiv.org/abs/2511.23214v1)|null|
 |**2025-11-28**|**Multi-chain Graph Refinement and Selection for Reliable Reasoning in Large Language Models**|Yujiao Yang et.al.|[2511.23136v1](http://arxiv.org/abs/2511.23136v1)|null|
 |**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044v1](http://arxiv.org/abs/2511.23044v1)|null|
@@ -2531,6 +2541,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
+|**2025-11-30**|**LAHNet: Local Attentive Hashing Network for Point Cloud Registration**|Wentao Qu et.al.|[2512.00927v1](http://arxiv.org/abs/2512.00927v1)|null|
 |**2025-11-28**|**PointCNN++: Performant Convolution on Native Points**|Lihan Li et.al.|[2511.23227v1](http://arxiv.org/abs/2511.23227v1)|null|
 |**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908v1](http://arxiv.org/abs/2511.22908v1)|null|
 |**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807v1](http://arxiv.org/abs/2511.16807v1)|null|
@@ -2829,6 +2841,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-30**|**S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud**|Han Su et.al.|[2512.00995v1](http://arxiv.org/abs/2512.00995v1)|null|
 |**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191v1](http://arxiv.org/abs/2511.21191v1)|null|
 |**2025-11-25**|**Foundry: Distilling 3D Foundation Models for the Edge**|Guillaume Letellier et.al.|[2511.20721v1](http://arxiv.org/abs/2511.20721v1)|null|
 |**2025-11-25**|**Redefining Radar Segmentation: Simultaneous Static-Moving Segmentation and Ego-Motion Estimation using Radar Point Clouds**|Simin Zhu et.al.|[2511.20003v1](http://arxiv.org/abs/2511.20003v1)|null|
@@ -3074,6 +3087,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-01**|**Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now**|Varun Varma Thozhiyoor et.al.|[2512.02016v1](http://arxiv.org/abs/2512.02016v1)|null|
+|**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005v1](http://arxiv.org/abs/2512.02005v1)|null|
+|**2025-12-01**|**Forecasting in Offline Reinforcement Learning for Non-stationary Environments**|Suzan Ece Ada et.al.|[2512.01987v1](http://arxiv.org/abs/2512.01987v1)|null|
+|**2025-12-01**|**From Atomic to Composite: Reinforcement Learning Enables Generalization in Complementary Reasoning**|Sitao Cheng et.al.|[2512.01970v1](http://arxiv.org/abs/2512.01970v1)|null|
+|**2025-12-01**|**Deconstructing Generative Diversity: An Information Bottleneck Analysis of Discrete Latent Generative Models**|Yudi Wu et.al.|[2512.01831v1](http://arxiv.org/abs/2512.01831v1)|null|
+|**2025-12-01**|**Generative Editing in the Joint Vision-Language Space for Zero-Shot Composed Image Retrieval**|Xin Wang et.al.|[2512.01636v1](http://arxiv.org/abs/2512.01636v1)|null|
+|**2025-12-01**|**Winning Solutions for the Rayan AI Contest: Compositional Retrieval, Zero-Shot Anomaly Detection, and Backdoor Detection**|Ali Nafisi et.al.|[2512.01498v1](http://arxiv.org/abs/2512.01498v1)|null|
+|**2025-12-01**|**Language-Guided Open-World Anomaly Segmentation**|Klara Reichard et.al.|[2512.01427v1](http://arxiv.org/abs/2512.01427v1)|null|
+|**2025-12-01**|**Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1**|Junsung Park et.al.|[2512.01358v1](http://arxiv.org/abs/2512.01358v1)|null|
+|**2025-12-01**|**ZO-ASR: Zeroth-Order Fine-Tuning of Speech Foundation Models without Back-Propagation**|Yuezhang Peng et.al.|[2512.01267v1](http://arxiv.org/abs/2512.01267v1)|null|
 |**2025-11-28**|**DisMo: Disentangled Motion Representations for Open-World Motion Transfer**|Thomas Ressler-Antal et.al.|[2511.23428v1](http://arxiv.org/abs/2511.23428v1)|null|
 |**2025-11-28**|**UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes**|Shuo Ni et.al.|[2511.23332v1](http://arxiv.org/abs/2511.23332v1)|null|
 |**2025-11-28**|**BanglaSentNet: An Explainable Hybrid Deep Learning Framework for Multi-Aspect Sentiment Analysis with Cross-Domain Transfer Learning**|Ariful Islam et.al.|[2511.23264v1](http://arxiv.org/abs/2511.23264v1)|null|

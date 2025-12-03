@@ -7,9 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000v1](http://arxiv.org/abs/2512.03000v1)|null|
+|**2025-12-02**|**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward**|Zhaoqing Wang et.al.|[2512.02870v1](http://arxiv.org/abs/2512.02870v1)|null|
+|**2025-12-02**|**Martingales, laminates and minimal Korn inequalities**|Gabriele Cassese et.al.|[2512.02784v1](http://arxiv.org/abs/2512.02784v1)|null|
+|**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727v1](http://arxiv.org/abs/2512.02727v1)|null|
+|**2025-12-02**|**VibOmni: Towards Scalable Bone-conduction Speech Enhancement on Earables**|Lixing He et.al.|[2512.02515v1](http://arxiv.org/abs/2512.02515v1)|null|
+|**2025-12-01**|**Progress in quantum metrology and applications for optical atomic clocks**|Raphael Kaubruegger et.al.|[2512.02202v1](http://arxiv.org/abs/2512.02202v1)|null|
+|**2025-12-01**|**Splash-squeeze singularities and analytic breakdown in ideal incompressible MHD**|Diego Córdoba et.al.|[2512.02144v1](http://arxiv.org/abs/2512.02144v1)|null|
 |**2025-12-01**|**Visual Sync: Multi-Camera Synchronization via Cross-View Object Motion**|Shaowei Liu et.al.|[2512.02017v1](http://arxiv.org/abs/2512.02017v1)|null|
 |**2025-12-01**|**KM-ViPE: Online Tightly Coupled Vision-Language-Geometry Fusion for Open-Vocabulary Semantic SLAM**|Zaid Nasser et.al.|[2512.01889v1](http://arxiv.org/abs/2512.01889v1)|null|
-|**2025-12-01**|**Is Image-based Object Pose Estimation Ready to Support Grasping?**|Eric C. Joyce et.al.|[2512.01856v1](http://arxiv.org/abs/2512.01856v1)|null|
+|**2025-12-02**|**Is Image-based Object Pose Estimation Ready to Support Grasping?**|Eric C. Joyce et.al.|[2512.01856v2](http://arxiv.org/abs/2512.01856v2)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
 |**2025-12-01**|**Probabilistic Neuro-Symbolic Reasoning for Sparse Historical Data: A Framework Integrating Bayesian Inference, Causal Models, and Game-Theoretic Allocation**|Saba Kublashvili et.al.|[2512.01723v1](http://arxiv.org/abs/2512.01723v1)|null|
 |**2025-12-01**|**Differentially Private and Federated Structure Learning in Bayesian Networks**|Ghita Fassy El Fehri et.al.|[2512.01708v1](http://arxiv.org/abs/2512.01708v1)|null|
@@ -2535,7 +2542,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
 |**2025-11-30**|**LAHNet: Local Attentive Hashing Network for Point Cloud Registration**|Wentao Qu et.al.|[2512.00927v1](http://arxiv.org/abs/2512.00927v1)|null|
-|**2025-11-28**|**PointCNN++: Performant Convolution on Native Points**|Lihan Li et.al.|[2511.23227v1](http://arxiv.org/abs/2511.23227v1)|null|
+|**2025-12-02**|**PointCNN++: Performant Convolution on Native Points**|Lihan Li et.al.|[2511.23227v2](http://arxiv.org/abs/2511.23227v2)|null|
 |**2025-11-28**|**ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance**|Congjia Chen et.al.|[2511.22908v1](http://arxiv.org/abs/2511.22908v1)|null|
 |**2025-11-20**|**Mesh RAG: Retrieval Augmentation for Autoregressive Mesh Generation**|Xiatao Sun et.al.|[2511.16807v1](http://arxiv.org/abs/2511.16807v1)|null|
 |**2025-11-20**|**CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering**|Joni Vanherck et.al.|[2511.16349v1](http://arxiv.org/abs/2511.16349v1)|null|
@@ -2831,6 +2838,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**Reproducing and Extending RaDelft 4D Radar with Camera-Assisted Labels**|Kejia Hu et.al.|[2512.02394v1](http://arxiv.org/abs/2512.02394v1)|null|
 |**2025-11-30**|**S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud**|Han Su et.al.|[2512.00995v1](http://arxiv.org/abs/2512.00995v1)|null|
 |**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191v1](http://arxiv.org/abs/2511.21191v1)|null|
 |**2025-11-25**|**Foundry: Distilling 3D Foundation Models for the Edge**|Guillaume Letellier et.al.|[2511.20721v1](http://arxiv.org/abs/2511.20721v1)|null|
@@ -3075,6 +3083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043v1](http://arxiv.org/abs/2512.03043v1)|null|
+|**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004v1](http://arxiv.org/abs/2512.03004v1)|null|
+|**2025-12-02**|**Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench**|Lanxiang Hu et.al.|[2512.02942v1](http://arxiv.org/abs/2512.02942v1)|null|
+|**2025-12-02**|**A Comparative Study on How Data Normalization Affects Zero-Shot Generalization in Time Series Foundation Models**|Ihab Ahmed et.al.|[2512.02833v1](http://arxiv.org/abs/2512.02833v1)|null|
+|**2025-12-02**|**Leveraging Large-Scale Pretrained Spatial-Spectral Priors for General Zero-Shot Pansharpening**|Yongchuan Cui et.al.|[2512.02643v1](http://arxiv.org/abs/2512.02643v1)|null|
+|**2025-12-02**|**Zero-Shot Instruction Following in RL via Structured LTL Representations**|Mattia Giuri et.al.|[2512.02633v1](http://arxiv.org/abs/2512.02633v1)|null|
+|**2025-12-02**|**SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization**|Zhengcheng Wang et.al.|[2512.02631v1](http://arxiv.org/abs/2512.02631v1)|null|
+|**2025-12-02**|**RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence**|Xuming He et.al.|[2512.02622v1](http://arxiv.org/abs/2512.02622v1)|null|
+|**2025-12-02**|**On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection**|Tai Le-Gia et.al.|[2512.02520v1](http://arxiv.org/abs/2512.02520v1)|null|
+|**2025-12-02**|**Boosting Medical Vision-Language Pretraining via Momentum Self-Distillation under Limited Computing Resources**|Phuc Pham et.al.|[2512.02438v1](http://arxiv.org/abs/2512.02438v1)|null|
 |**2025-12-01**|**Objects in Generated Videos Are Slower Than They Appear: Models Suffer Sub-Earth Gravity and Don't Know Galileo's Principle...for now**|Varun Varma Thozhiyoor et.al.|[2512.02016v1](http://arxiv.org/abs/2512.02016v1)|null|
 |**2025-12-01**|**Learning Visual Affordance from Audio**|Lidong Lu et.al.|[2512.02005v1](http://arxiv.org/abs/2512.02005v1)|null|
 |**2025-12-01**|**Forecasting in Offline Reinforcement Learning for Non-stationary Environments**|Suzan Ece Ada et.al.|[2512.01987v1](http://arxiv.org/abs/2512.01987v1)|null|

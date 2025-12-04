@@ -13,7 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-02**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000v1](http://arxiv.org/abs/2512.03000v1)|null|
+|**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069v1](http://arxiv.org/abs/2512.04069v1)|null|
+|**2025-12-03**|**C3G: Learning Compact 3D Representations with 2K Gaussians**|Honggyu An et.al.|[2512.04021v1](http://arxiv.org/abs/2512.04021v1)|null|
+|**2025-12-03**|**When are novel methods for analyzing complex chemical mixtures in epidemiology beneficial?**|Nate Wiecha et.al.|[2512.03946v1](http://arxiv.org/abs/2512.03946v1)|null|
+|**2025-12-03**|**MSG-Loc: Multi-Label Likelihood-based Semantic Graph Matching for Object-Level Global Localization**|Gihyeon Lee et.al.|[2512.03522v1](http://arxiv.org/abs/2512.03522v1)|null|
+|**2025-12-03**|**AfroBeats Dance Movement Analysis Using Computer Vision: A Proof-of-Concept Framework Combining YOLO and Segment Anything Model**|Kwaku Opoku-Ware et.al.|[2512.03509v1](http://arxiv.org/abs/2512.03509v1)|null|
+|**2025-12-03**|**DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling**|Kairun Wen et.al.|[2512.03000v2](http://arxiv.org/abs/2512.03000v2)|null|
 |**2025-12-02**|**Taming Camera-Controlled Video Generation with Verifiable Geometry Reward**|Zhaoqing Wang et.al.|[2512.02870v1](http://arxiv.org/abs/2512.02870v1)|null|
 |**2025-12-02**|**Martingales, laminates and minimal Korn inequalities**|Gabriele Cassese et.al.|[2512.02784v1](http://arxiv.org/abs/2512.02784v1)|null|
 |**2025-12-02**|**DF-Mamba: Deformable State Space Modeling for 3D Hand Pose Estimation in Interactions**|Yifan Zhou et.al.|[2512.02727v1](http://arxiv.org/abs/2512.02727v1)|null|
@@ -2848,6 +2853,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation**|Zhishan Zhou et.al.|[2512.03532v1](http://arxiv.org/abs/2512.03532v1)|null|
+|**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[2512.03424v1](http://arxiv.org/abs/2512.03424v1)|null|
+|**2025-12-02**|**LLM-Guided Material Inference for 3D Point Clouds**|Nafiseh Izadyar et.al.|[2512.03237v1](http://arxiv.org/abs/2512.03237v1)|null|
 |**2025-12-02**|**Reproducing and Extending RaDelft 4D Radar with Camera-Assisted Labels**|Kejia Hu et.al.|[2512.02394v1](http://arxiv.org/abs/2512.02394v1)|null|
 |**2025-11-30**|**S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud**|Han Su et.al.|[2512.00995v1](http://arxiv.org/abs/2512.00995v1)|null|
 |**2025-11-26**|**Scenes as Tokens: Multi-Scale Normal Distributions Transform Tokenizer for General 3D Vision-Language Understanding**|Yutao Tang et.al.|[2511.21191v1](http://arxiv.org/abs/2511.21191v1)|null|
@@ -3095,6 +3103,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-03**|**Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence**|Shuai Yang et.al.|[2512.03905v1](http://arxiv.org/abs/2512.03905v1)|null|
+|**2025-12-03**|**Improving Alignment Between Human and Machine Codes: An Empirical Assessment of Prompt Engineering for Construct Identification in Psychology**|Kylie L. Anglin et.al.|[2512.03818v1](http://arxiv.org/abs/2512.03818v1)|null|
+|**2025-12-03**|**Context-Aware Hierarchical Learning: A Two-Step Paradigm towards Safer LLMs**|Tengyun Ma et.al.|[2512.03720v1](http://arxiv.org/abs/2512.03720v1)|null|
+|**2025-12-03**|**DZ-TDPO: Non-Destructive Temporal Alignment for Mutable State Tracking in Long-Context Dialogue**|Yijun Liao et.al.|[2512.03704v1](http://arxiv.org/abs/2512.03704v1)|null|
+|**2025-12-03**|**LM-CartSeg: Automated Segmentation of Lateral and Medial Cartilage and Subchondral Bone for Radiomics Analysis**|Tongxu Zhang et.al.|[2512.03449v1](http://arxiv.org/abs/2512.03449v1)|null|
+|**2025-12-03**|**Multi-Aspect Knowledge-Enhanced Medical Vision-Language Pretraining with Multi-Agent Data Generation**|Xieji Li et.al.|[2512.03445v1](http://arxiv.org/abs/2512.03445v1)|null|
+|**2025-12-03**|**LLM as Explainable Re-Ranker for Recommendation System**|Yaqi Wang et.al.|[2512.03439v1](http://arxiv.org/abs/2512.03439v1)|null|
+|**2025-12-03**|**Generalization Evaluation of Deep Stereo Matching Methods for UAV-Based Forestry Applications**|Yida Lin et.al.|[2512.03427v1](http://arxiv.org/abs/2512.03427v1)|null|
+|**2025-12-03**|**ShelfGaussian: Shelf-Supervised Open-Vocabulary Gaussian-based 3D Scene Understanding**|Lingjun Zhao et.al.|[2512.03370v1](http://arxiv.org/abs/2512.03370v1)|null|
+|**2025-12-03**|**Evaluating Generalization Capabilities of LLM-Based Agents in Mixed-Motive Scenarios Using Concordia**|Chandler Smith et.al.|[2512.03318v1](http://arxiv.org/abs/2512.03318v1)|null|
 |**2025-12-02**|**OneThinker: All-in-one Reasoning Model for Image and Video**|Kaituo Feng et.al.|[2512.03043v1](http://arxiv.org/abs/2512.03043v1)|null|
 |**2025-12-02**|**DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes using Unposed Images**|Xiaoxue Chen et.al.|[2512.03004v1](http://arxiv.org/abs/2512.03004v1)|null|
 |**2025-12-02**|**Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench**|Lanxiang Hu et.al.|[2512.02942v1](http://arxiv.org/abs/2512.02942v1)|null|

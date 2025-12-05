@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913v1](http://arxiv.org/abs/2512.04913v1)|null|
+|**2025-12-04**|**Equivariant Symmetry-Aware Head Pose Estimation for Fetal MRI**|Ramya Muthukrishnan et.al.|[2512.04890v1](http://arxiv.org/abs/2512.04890v1)|null|
+|**2025-12-04**|**Beampattern Synthesis for Discrete Phase RIS in Communication and Sensing Systems**|Xiao Cai et.al.|[2512.04881v1](http://arxiv.org/abs/2512.04881v1)|null|
+|**2025-12-04**|**Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing**|Maria-Paola Forte et.al.|[2512.04862v1](http://arxiv.org/abs/2512.04862v1)|null|
+|**2025-12-04**|**Homogenized limits of Stokes flow and advective transport in thin perforated domains**|Markus Gahn et.al.|[2512.04782v1](http://arxiv.org/abs/2512.04782v1)|null|
+|**2025-12-04**|**Vertical Planetary Landing on Sloped Terrain Using Optical Flow Divergence Estimates**|Hann Woei Ho et.al.|[2512.04373v1](http://arxiv.org/abs/2512.04373v1)|null|
+|**2025-12-03**|**Open Set Face Forgery Detection via Dual-Level Evidence Collection**|Zhongyi Cai et.al.|[2512.04331v1](http://arxiv.org/abs/2512.04331v1)|null|
+|**2025-12-03**|**A review on fundamental bounds and estimators for photometry and astrometry of celestial point sources using array detectors, from first principles**|Sebastián Espinosa et.al.|[2512.04326v1](http://arxiv.org/abs/2512.04326v1)|null|
 |**2025-12-03**|**SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL**|Siyi Chen et.al.|[2512.04069v1](http://arxiv.org/abs/2512.04069v1)|null|
 |**2025-12-03**|**C3G: Learning Compact 3D Representations with 2K Gaussians**|Honggyu An et.al.|[2512.04021v1](http://arxiv.org/abs/2512.04021v1)|null|
 |**2025-12-03**|**When are novel methods for analyzing complex chemical mixtures in epidemiology beneficial?**|Nate Wiecha et.al.|[2512.03946v1](http://arxiv.org/abs/2512.03946v1)|null|
@@ -2553,6 +2561,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
 |**2025-11-30**|**LAHNet: Local Attentive Hashing Network for Point Cloud Registration**|Wentao Qu et.al.|[2512.00927v1](http://arxiv.org/abs/2512.00927v1)|null|
 |**2025-12-02**|**PointCNN++: Performant Convolution on Native Points**|Lihan Li et.al.|[2511.23227v2](http://arxiv.org/abs/2511.23227v2)|null|
@@ -3103,6 +3112,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094v1](http://arxiv.org/abs/2512.05094v1)|null|
+|**2025-12-04**|**Reflection Removal through Efficient Adaptation of Diffusion Transformers**|Daniyar Zakarin et.al.|[2512.05000v1](http://arxiv.org/abs/2512.05000v1)|null|
+|**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871v1](http://arxiv.org/abs/2512.04871v1)|null|
+|**2025-12-04**|**Are LLMs Truly Multilingual? Exploring Zero-Shot Multilingual Capability of LLMs for Information Retrieval: An Italian Healthcare Use Case**|Vignesh Kumar Kembu et.al.|[2512.04834v1](http://arxiv.org/abs/2512.04834v1)|null|
+|**2025-12-04**|**YingMusic-SVC: Real-World Robust Zero-Shot Singing Voice Conversion with Flow-GRPO and Singing-Specific Inductive Biases**|Gongyu Chen et.al.|[2512.04793v1](http://arxiv.org/abs/2512.04793v1)|null|
+|**2025-12-04**|**YingMusic-Singer: Zero-shot Singing Voice Synthesis and Editing with Annotation-free Melody Guidance**|Junjie Zheng et.al.|[2512.04779v1](http://arxiv.org/abs/2512.04779v1)|null|
+|**2025-12-04**|**M3-TTS: Multi-modal DiT Alignment & Mel-latent for Zero-shot High-fidelity Speech Synthesis**|Xiaopeng Wang et.al.|[2512.04720v1](http://arxiv.org/abs/2512.04720v1)|null|
+|**2025-12-04**|**Denoise to Track: Harnessing Video Diffusion Priors for Robust Correspondence**|Tianyu Yuan et.al.|[2512.04619v1](http://arxiv.org/abs/2512.04619v1)|null|
+|**2025-12-04**|**Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot**|Sheng Hang et.al.|[2512.04599v1](http://arxiv.org/abs/2512.04599v1)|null|
+|**2025-12-04**|**Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation**|Chenlin Xu et.al.|[2512.04520v1](http://arxiv.org/abs/2512.04520v1)|null|
 |**2025-12-03**|**Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence**|Shuai Yang et.al.|[2512.03905v1](http://arxiv.org/abs/2512.03905v1)|null|
 |**2025-12-03**|**Improving Alignment Between Human and Machine Codes: An Empirical Assessment of Prompt Engineering for Construct Identification in Psychology**|Kylie L. Anglin et.al.|[2512.03818v1](http://arxiv.org/abs/2512.03818v1)|null|
 |**2025-12-03**|**Context-Aware Hierarchical Learning: A Two-Step Paradigm towards Safer LLMs**|Tengyun Ma et.al.|[2512.03720v1](http://arxiv.org/abs/2512.03720v1)|null|

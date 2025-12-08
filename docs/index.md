@@ -7,7 +7,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-12-04**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913v1](http://arxiv.org/abs/2512.04913v1)|null|
+|**2025-12-05**|**A Residual Variance Matching Recursive Least Squares Filter for Real-time UAV Terrain Following**|Xiaobo Wu et.al.|[2512.05918v1](http://arxiv.org/abs/2512.05918v1)|null|
+|**2025-12-05**|**An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation**|Panagiotis Giannikos et.al.|[2512.05599v1](http://arxiv.org/abs/2512.05599v1)|null|
+|**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593v1](http://arxiv.org/abs/2512.05593v1)|null|
+|**2025-12-05**|**YOLO and SGBM Integration for Autonomous Tree Branch Detection and Depth Estimation in Radiata Pine Pruning Applications**|Yida Lin et.al.|[2512.05412v1](http://arxiv.org/abs/2512.05412v1)|null|
+|**2025-12-05**|**The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos**|Zhuoyuan Wu et.al.|[2512.05398v1](http://arxiv.org/abs/2512.05398v1)|null|
+|**2025-12-05**|**Text Rationalization for Robust Causal Effect Estimation**|Lijinghua Zhang et.al.|[2512.05373v1](http://arxiv.org/abs/2512.05373v1)|null|
+|**2025-12-04**|**Age-Inclusive 3D Human Mesh Recovery for Action-Preserving Data Anonymization**|Georgios Chatzichristodoulou et.al.|[2512.05259v1](http://arxiv.org/abs/2512.05259v1)|null|
+|**2025-12-05**|**Communicating Properties of Quantum States over Classical Noisy Channels**|Nikhitha Nunavath et.al.|[2512.04913v2](http://arxiv.org/abs/2512.04913v2)|null|
 |**2025-12-04**|**Equivariant Symmetry-Aware Head Pose Estimation for Fetal MRI**|Ramya Muthukrishnan et.al.|[2512.04890v1](http://arxiv.org/abs/2512.04890v1)|null|
 |**2025-12-04**|**Beampattern Synthesis for Discrete Phase RIS in Communication and Sensing Systems**|Xiao Cai et.al.|[2512.04881v1](http://arxiv.org/abs/2512.04881v1)|null|
 |**2025-12-04**|**Contact-Aware Refinement of Human Pose Pseudo-Ground Truth via Bioimpedance Sensing**|Maria-Paola Forte et.al.|[2512.04862v1](http://arxiv.org/abs/2512.04862v1)|null|
@@ -2852,6 +2859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759v1](http://arxiv.org/abs/2512.05759v1)|null|
 |**2025-12-03**|**OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation**|Zhishan Zhou et.al.|[2512.03532v1](http://arxiv.org/abs/2512.03532v1)|null|
 |**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[2512.03424v1](http://arxiv.org/abs/2512.03424v1)|null|
 |**2025-12-02**|**LLM-Guided Material Inference for 3D Point Clouds**|Nafiseh Izadyar et.al.|[2512.03237v1](http://arxiv.org/abs/2512.03237v1)|null|
@@ -3100,6 +3108,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan et.al.|[2512.05863v1](http://arxiv.org/abs/2512.05863v1)|null|
+|**2025-12-05**|**Over-the-Air Semantic Alignment with Stacked Intelligent Metasurfaces**|Mario Edoardo Pandolfo et.al.|[2512.05657v1](http://arxiv.org/abs/2512.05657v1)|null|
+|**2025-12-05**|**General and Domain-Specific Zero-shot Detection of Generated Images via Conditional Likelihood**|Roy Betser et.al.|[2512.05590v1](http://arxiv.org/abs/2512.05590v1)|null|
+|**2025-12-05**|**Eye of the Beholder: Towards Measuring Visualization Complexity**|Johannes Ellemose et.al.|[2512.05536v1](http://arxiv.org/abs/2512.05536v1)|null|
+|**2025-12-05**|**Solving Multiparametric Generalized Nash Equilibrium Problems and Explicit Game-Theoretic Model Predictive Control**|Sophie Hall et.al.|[2512.05505v1](http://arxiv.org/abs/2512.05505v1)|null|
+|**2025-12-05**|**LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning**|Ömer Faruk Akgül et.al.|[2512.05325v1](http://arxiv.org/abs/2512.05325v1)|null|
+|**2025-12-04**|**STAR-GO: Improving Protein Function Prediction by Learning to Hierarchically Integrate Ontology-Informed Semantic Embeddings**|Mehmet Efe Akça et.al.|[2512.05245v1](http://arxiv.org/abs/2512.05245v1)|null|
 |**2025-12-04**|**From Generated Human Videos to Physically Plausible Robot Trajectories**|James Ni et.al.|[2512.05094v1](http://arxiv.org/abs/2512.05094v1)|null|
 |**2025-12-04**|**Reflection Removal through Efficient Adaptation of Diffusion Transformers**|Daniyar Zakarin et.al.|[2512.05000v1](http://arxiv.org/abs/2512.05000v1)|null|
 |**2025-12-04**|**STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions**|Junjie Fan et.al.|[2512.04871v1](http://arxiv.org/abs/2512.04871v1)|null|

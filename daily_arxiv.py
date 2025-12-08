@@ -12,7 +12,6 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
                     level=logging.INFO)
 
-base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 
 def load_config(config_file:str) -> dict:
@@ -92,18 +91,20 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
+    
+    # Use the new Client API instead of deprecated Search.results()
+    client = arxiv.Client()
     search_engine = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
 
-    for result in search_engine.results():
+    for result in client.results(search_engine):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
-        code_url            = base_url + paper_id #TODO
         paper_abstract      = result.summary.replace("\n"," ")
         paper_authors       = get_authors(result.authors)
         paper_first_author  = get_authors(result.authors,first_author = True)
@@ -121,38 +122,18 @@ def get_daily_papers(topic,query="slam", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]    
 
-        try:
-            # source code link    
-            r = requests.get(code_url).json()
-            repo_url = None
-            if "official" in r and r["official"]:
-                repo_url = r["official"]["url"]
-            # TODO: not found, two more chances  
-            # else: 
-            #    repo_url = get_code_link(paper_title)
-            #    if repo_url is None:
-            #        repo_url = get_code_link(paper_key)
-            if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url,repo_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
+        # Save paper info without code link (paperswithcode is closed)
+        content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
+               update_time,paper_title,paper_first_author,paper_id,paper_url)
+        content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
+               update_time,paper_title,paper_first_author,paper_url,paper_url)
 
-            else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_id,paper_url)
-                content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
-                       update_time,paper_title,paper_first_author,paper_url,paper_url)
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] += f", {comments}\n"
-            else:
-                content_to_web[paper_key] += f"\n"
-
-        except Exception as e:
-            logging.error(f"exception: {e} with id: {paper_key}")
+        # TODO: select useful comments
+        comments = None
+        if comments != None:
+            content_to_web[paper_key] += f", {comments}\n"
+        else:
+            content_to_web[paper_key] += f"\n"
 
     data = {topic:content}
     data_web = {topic:content_to_web}
@@ -160,40 +141,11 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
 def update_paper_links(filename):
     '''
-    weekly update paper links in json file 
+    This function is deprecated as paperswithcode is closed.
+    Kept for compatibility but does nothing.
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-        json_data = m.copy() 
-
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
-
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
-                try:
-                    code_url = base_url + paper_id #TODO
-                    r = requests.get(code_url).json()
-                    repo_url = None
-                    if "official" in r and r["official"]:
-                        repo_url = r["official"]["url"]
-                        if repo_url is not None:
-                            new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                            logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                            json_data[keywords][paper_id] = str(new_cont)
-                except Exception as e:
-                    logging.error(f"exception: {e} with id: {paper_id}")
-        # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+    logging.info("update_paper_links is deprecated (paperswithcode is closed)")
+    pass
 
 def update_json_file(filename,data_dict):
     '''

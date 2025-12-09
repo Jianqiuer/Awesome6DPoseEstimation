@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.12.08
+## Updated on 2025.12.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -44,6 +44,7 @@ layout: default
 |**2025-12-01**|**BlinkBud: Detecting Hazards from Behind via Sampled Monocular 3D Detection on a Single Earbud**|Yunzhe Li et.al.|[2512.01366v1](http://arxiv.org/abs/2512.01366v1)|null|
 |**2025-12-01**|**TabletopGen: Instance-Level Interactive 3D Tabletop Scene Generation from Text or Single Image**|Ziqian Wang et.al.|[2512.01204v1](http://arxiv.org/abs/2512.01204v1)|null|
 |**2025-12-01**|**Beyond Greenfield: AI-Driven Productivity in Documentation and Brownfield Engineering**|Krishna Kumaar Sharma et.al.|[2512.01155v1](http://arxiv.org/abs/2512.01155v1)|null|
+|**2025-11-29**|**CC-FMO: Camera-Conditioned Zero-Shot Single Image to 3D Scene Generation with Foundation Model Orchestration**|Boshi Tang et.al.|[2512.00493v1](http://arxiv.org/abs/2512.00493v1)|null|
 |**2025-11-28**|**Zero-Shot Multi-Criteria Visual Quality Inspection for Semi-Controlled Industrial Environments via Real-Time 3D Digital Twin Simulation**|Jose Moises Araya-Martinez et.al.|[2511.23214v1](http://arxiv.org/abs/2511.23214v1)|null|
 |**2025-11-28**|**Multi-chain Graph Refinement and Selection for Reliable Reasoning in Large Language Models**|Yujiao Yang et.al.|[2511.23136v1](http://arxiv.org/abs/2511.23136v1)|null|
 |**2025-11-28**|**Geometry-Consistent 4D Gaussian Splatting for Sparse-Input Dynamic View Synthesis**|Yiwei Li et.al.|[2511.23044v1](http://arxiv.org/abs/2511.23044v1)|null|

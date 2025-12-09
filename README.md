@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**UltrasODM: A Dual Stream Optical Flow Mamba Network for 3D Freehand Ultrasound Reconstruction**|Mayank Anand et.al.|[2512.07756v1](http://arxiv.org/abs/2512.07756v1)|null|
+|**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712v1](http://arxiv.org/abs/2512.07712v1)|null|
+|**2025-12-08**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Md Selim Sarowar et.al.|[2512.07215v1](http://arxiv.org/abs/2512.07215v1)|null|
+|**2025-12-08**|**Object Pose Distribution Estimation for Determining Revolution and Reflection Uncertainty in Point Clouds**|Frederik Hagelskjær et.al.|[2512.07211v1](http://arxiv.org/abs/2512.07211v1)|null|
+|**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868v1](http://arxiv.org/abs/2512.06868v1)|null|
+|**2025-12-07**|**Physics Informed Human Posture Estimation Based on 3D Landmarks from Monocular RGB-Videos**|Tobias Leuthold et.al.|[2512.06783v1](http://arxiv.org/abs/2512.06783v1)|null|
+|**2025-12-06**|**GNC-Pose: Geometry-Aware GNC-PnP for Accurate 6D Pose Estimation**|Xiujin Liu et.al.|[2512.06565v1](http://arxiv.org/abs/2512.06565v1)|null|
+|**2025-12-06**|**Exploiting Spatiotemporal Properties for Efficient Event-Driven Human Pose Estimation**|Haoxian Zhou et.al.|[2512.06306v1](http://arxiv.org/abs/2512.06306v1)|null|
+|**2025-12-05**|**GuideNav: User-Informed Development of a Vision-Only Robotic Navigation Assistant For Blind Travelers**|Hochul Hwang et.al.|[2512.06147v1](http://arxiv.org/abs/2512.06147v1)|null|
 |**2025-12-05**|**A Residual Variance Matching Recursive Least Squares Filter for Real-time UAV Terrain Following**|Xiaobo Wu et.al.|[2512.05918v1](http://arxiv.org/abs/2512.05918v1)|null|
 |**2025-12-05**|**An Integrated System for WEEE Sorting Employing X-ray Imaging, AI-based Object Detection and Segmentation, and Delta Robot Manipulation**|Panagiotis Giannikos et.al.|[2512.05599v1](http://arxiv.org/abs/2512.05599v1)|null|
 |**2025-12-05**|**Learning High-Fidelity Cloth Animation via Skinning-Free Image Transfer**|Rong Wang et.al.|[2512.05593v1](http://arxiv.org/abs/2512.05593v1)|null|
@@ -2870,6 +2879,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882v1](http://arxiv.org/abs/2512.06882v1)|null|
 |**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759v1](http://arxiv.org/abs/2512.05759v1)|null|
 |**2025-12-03**|**OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation**|Zhishan Zhou et.al.|[2512.03532v1](http://arxiv.org/abs/2512.03532v1)|null|
 |**2025-12-03**|**DM3D: Deformable Mamba via Offset-Guided Gaussian Sequencing for Point Cloud Understanding**|Bin Liu et.al.|[2512.03424v1](http://arxiv.org/abs/2512.03424v1)|null|
@@ -3121,6 +3131,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[2512.07831v1](http://arxiv.org/abs/2512.07831v1)|null|
+|**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705v1](http://arxiv.org/abs/2512.07705v1)|null|
+|**2025-12-08**|**Multi-Domain Motion Embedding: Expressive Real-Time Mimicry for Legged Robots**|Matthias Heyrman et.al.|[2512.07673v1](http://arxiv.org/abs/2512.07673v1)|null|
+|**2025-12-08**|**Time Series Foundation Models for Process Model Forecasting**|Yongbo Yu et.al.|[2512.07624v1](http://arxiv.org/abs/2512.07624v1)|null|
+|**2025-12-08**|**More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery**|Wenzhen Dong et.al.|[2512.07596v1](http://arxiv.org/abs/2512.07596v1)|null|
+|**2025-12-08**|**Training Language Models to Use Prolog as a Tool**|Niklas Mellgren et.al.|[2512.07407v1](http://arxiv.org/abs/2512.07407v1)|null|
+|**2025-12-08**|**Zero-Shot Textual Explanations via Translating Decision-Critical Features**|Toshinori Yamauchi et.al.|[2512.07245v1](http://arxiv.org/abs/2512.07245v1)|null|
+|**2025-12-08**|**Pay Less Attention to Function Words for Free Robustness of Vision-Language Models**|Qiwei Tian et.al.|[2512.07222v1](http://arxiv.org/abs/2512.07222v1)|null|
+|**2025-12-08**|**NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models**|Feng Liang et.al.|[2512.07218v1](http://arxiv.org/abs/2512.07218v1)|null|
+|**2025-12-08**|**MMRPT: MultiModal Reinforcement Pre-Training via Masked Vision-Dependent Reasoning**|Xuhui Zheng et.al.|[2512.07203v1](http://arxiv.org/abs/2512.07203v1)|null|
 |**2025-12-05**|**Optimizing Medical Question-Answering Systems: A Comparative Study of Fine-Tuned and Zero-Shot Large Language Models with RAG Framework**|Tasnimul Hassan et.al.|[2512.05863v1](http://arxiv.org/abs/2512.05863v1)|null|
 |**2025-12-05**|**Over-the-Air Semantic Alignment with Stacked Intelligent Metasurfaces**|Mario Edoardo Pandolfo et.al.|[2512.05657v1](http://arxiv.org/abs/2512.05657v1)|null|
 |**2025-12-05**|**General and Domain-Specific Zero-shot Detection of Generated Images via Conditional Likelihood**|Roy Betser et.al.|[2512.05590v1](http://arxiv.org/abs/2512.05590v1)|null|

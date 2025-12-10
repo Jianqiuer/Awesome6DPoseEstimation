@@ -13,9 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930v1](http://arxiv.org/abs/2512.08930v1)|null|
+|**2025-12-09**|**SDT-6D: Fully Sparse Depth-Transformer for Staged End-to-End 6D Pose Estimation in Industrial Multi-View Bin Picking**|Nico Leuze et.al.|[2512.08430v1](http://arxiv.org/abs/2512.08430v1)|null|
+|**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271v1](http://arxiv.org/abs/2512.08271v1)|null|
 |**2025-12-08**|**UltrasODM: A Dual Stream Optical Flow Mamba Network for 3D Freehand Ultrasound Reconstruction**|Mayank Anand et.al.|[2512.07756v1](http://arxiv.org/abs/2512.07756v1)|null|
 |**2025-12-08**|**UnCageNet: Tracking and Pose Estimation of Caged Animal**|Sayak Dutta et.al.|[2512.07712v1](http://arxiv.org/abs/2512.07712v1)|null|
-|**2025-12-08**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Md Selim Sarowar et.al.|[2512.07215v1](http://arxiv.org/abs/2512.07215v1)|null|
+|**2025-12-09**|**VFM-VLM: Vision Foundation Model and Vision Language Model based Visual Comparison for 3D Pose Estimation**|Md Selim Sarowar et.al.|[2512.07215v2](http://arxiv.org/abs/2512.07215v2)|null|
 |**2025-12-08**|**Object Pose Distribution Estimation for Determining Revolution and Reflection Uncertainty in Point Clouds**|Frederik Hagelskjær et.al.|[2512.07211v1](http://arxiv.org/abs/2512.07211v1)|null|
 |**2025-12-07**|**Dynamic Visual SLAM using a General 3D Prior**|Xingguang Zhong et.al.|[2512.06868v1](http://arxiv.org/abs/2512.06868v1)|null|
 |**2025-12-07**|**Physics Informed Human Posture Estimation Based on 3D Landmarks from Monocular RGB-Videos**|Tobias Leuthold et.al.|[2512.06783v1](http://arxiv.org/abs/2512.06783v1)|null|
@@ -3131,6 +3134,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-09**|**LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception**|Simon de Moreau et.al.|[2512.08912v1](http://arxiv.org/abs/2512.08912v1)|null|
+|**2025-12-09**|**Can TabPFN Compete with GNNs for Node Classification via Graph Tabularization?**|Jeongwhan Choi et.al.|[2512.08798v1](http://arxiv.org/abs/2512.08798v1)|null|
+|**2025-12-09**|**A Scalable Pipeline Combining Procedural 3D Graphics and Guided Diffusion for Photorealistic Synthetic Training Data Generation in White Button Mushroom Segmentation**|Artúr I. Károly et.al.|[2512.08747v1](http://arxiv.org/abs/2512.08747v1)|null|
+|**2025-12-09**|**Sim2Swim: Zero-Shot Velocity Control for Agile AUV Maneuvering in 3 Minutes**|Lauritz Rismark Fosso et.al.|[2512.08656v1](http://arxiv.org/abs/2512.08656v1)|null|
+|**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271v1](http://arxiv.org/abs/2512.08271v1)|null|
+|**2025-12-09**|**VisKnow: Constructing Visual Knowledge Base for Object Understanding**|Ziwei Yao et.al.|[2512.08221v1](http://arxiv.org/abs/2512.08221v1)|null|
+|**2025-12-09**|**FlowSteer: Conditioning Flow Field for Consistent Image Restoration**|Tharindu Wickremasinghe et.al.|[2512.08125v1](http://arxiv.org/abs/2512.08125v1)|null|
+|**2025-12-09**|**Universal Adversarial Suffixes Using Calibrated Gumbel-Softmax Relaxation**|Sampriti Soor et.al.|[2512.08123v1](http://arxiv.org/abs/2512.08123v1)|null|
+|**2025-12-08**|**Lost in Translation, Found in Embeddings: Sign Language Translation and Alignment**|Youngjoon Jang et.al.|[2512.08040v1](http://arxiv.org/abs/2512.08040v1)|null|
 |**2025-12-08**|**UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation**|Jiehui Huang et.al.|[2512.07831v1](http://arxiv.org/abs/2512.07831v1)|null|
 |**2025-12-08**|**In-Context and Few-Shots Learning for Forecasting Time Series Data based on Large Language Models**|Saroj Gopali et.al.|[2512.07705v1](http://arxiv.org/abs/2512.07705v1)|null|
 |**2025-12-08**|**Multi-Domain Motion Embedding: Expressive Real-Time Mimicry for Legged Robots**|Matthias Heyrman et.al.|[2512.07673v1](http://arxiv.org/abs/2512.07673v1)|null|

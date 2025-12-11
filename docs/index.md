@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**|Pierre Ancey et.al.|[2512.09792v1](http://arxiv.org/abs/2512.09792v1)|null|
+|**2025-12-10**|**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**|Ashik E Rasul et.al.|[2512.09343v1](http://arxiv.org/abs/2512.09343v1)|null|
+|**2025-12-09**|**ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors**|Liming Kuang et.al.|[2512.09056v1](http://arxiv.org/abs/2512.09056v1)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930v1](http://arxiv.org/abs/2512.08930v1)|null|
 |**2025-12-09**|**SDT-6D: Fully Sparse Depth-Transformer for Staged End-to-End 6D Pose Estimation in Industrial Multi-View Bin Picking**|Nico Leuze et.al.|[2512.08430v1](http://arxiv.org/abs/2512.08430v1)|null|
 |**2025-12-09**|**Zero-Splat TeleAssist: A Zero-Shot Pose Estimation Framework for Semantic Teleoperation**|Srijan Dokania et.al.|[2512.08271v1](http://arxiv.org/abs/2512.08271v1)|null|
@@ -2573,6 +2576,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
 |**2025-11-30**|**LAHNet: Local Attentive Hashing Network for Point Cloud Registration**|Wentao Qu et.al.|[2512.00927v1](http://arxiv.org/abs/2512.00927v1)|null|
@@ -3122,6 +3126,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814v1](http://arxiv.org/abs/2512.09814v1)|null|
+|**2025-12-10**|**PathCo-LatticE: Pathology-Constrained Lattice-Of Experts Framework for Fully-supervised Few-Shot Cardiac MRI Segmentation**|Mohamed Elbayumi et.al.|[2512.09779v1](http://arxiv.org/abs/2512.09779v1)|null|
+|**2025-12-10**|**Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis**|Naizhu Jin et.al.|[2512.09679v1](http://arxiv.org/abs/2512.09679v1)|null|
+|**2025-12-10**|**Neurosymbolic Information Extraction from Transactional Documents**|Arthur Hemmer et.al.|[2512.09666v1](http://arxiv.org/abs/2512.09666v1)|null|
+|**2025-12-10**|**LogICL: Distilling LLM Reasoning to Bridge the Semantic Gap in Cross-Domain Log Anomaly Detection**|Jingwei Ye et.al.|[2512.09627v1](http://arxiv.org/abs/2512.09627v1)|null|
+|**2025-12-10**|**Defect-aware Hybrid Prompt Optimization via Progressive Tuning for Zero-Shot Multi-type Anomaly Detection and Segmentation**|Nadeem Nazer et.al.|[2512.09446v1](http://arxiv.org/abs/2512.09446v1)|null|
+|**2025-12-10**|**Generalizable Collaborative Search-and-Capture in Cluttered Environments via Path-Guided MAPPO and Directional Frontier Allocation**|Jialin Ying et.al.|[2512.09410v1](http://arxiv.org/abs/2512.09410v1)|null|
+|**2025-12-10**|**KGOT: Unified Knowledge Graph and Optimal Transport Pseudo-Labeling for Molecule-Protein Interaction Prediction**|Jiayu Qin et.al.|[2512.09365v1](http://arxiv.org/abs/2512.09365v1)|null|
+|**2025-12-10**|**Efficiency-Aware Computational Intelligence for Resource-Constrained Manufacturing Toward Edge-Ready Deployment**|Qianyu Zhou et.al.|[2512.09319v1](http://arxiv.org/abs/2512.09319v1)|null|
+|**2025-12-10**|**View-on-Graph: Zero-shot 3D Visual Grounding via Vision-Language Reasoning on Scene Graphs**|Yuanyuan Liu et.al.|[2512.09215v1](http://arxiv.org/abs/2512.09215v1)|null|
 |**2025-12-09**|**LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception**|Simon de Moreau et.al.|[2512.08912v1](http://arxiv.org/abs/2512.08912v1)|null|
 |**2025-12-09**|**Can TabPFN Compete with GNNs for Node Classification via Graph Tabularization?**|Jeongwhan Choi et.al.|[2512.08798v1](http://arxiv.org/abs/2512.08798v1)|null|
 |**2025-12-09**|**A Scalable Pipeline Combining Procedural 3D Graphics and Guided Diffusion for Photorealistic Synthetic Training Data Generation in White Button Mushroom Segmentation**|Artúr I. Károly et.al.|[2512.08747v1](http://arxiv.org/abs/2512.08747v1)|null|

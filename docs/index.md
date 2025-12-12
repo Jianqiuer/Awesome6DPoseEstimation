@@ -7,8 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957v1](http://arxiv.org/abs/2512.10957v1)|null|
+|**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950v1](http://arxiv.org/abs/2512.10950v1)|null|
+|**2025-12-11**|**PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning**|Jianqi Chen et.al.|[2512.10840v1](http://arxiv.org/abs/2512.10840v1)|null|
+|**2025-12-11**|**Geo6DPose: Fast Zero-Shot 6D Object Pose Estimation via Geometry-Filtered Feature Matching**|Javier Villena Toro et.al.|[2512.10674v1](http://arxiv.org/abs/2512.10674v1)|null|
+|**2025-12-11**|**Mr. Virgil: Learning Multi-robot Visual-range Relative Localization**|Si Wang et.al.|[2512.10540v1](http://arxiv.org/abs/2512.10540v1)|null|
+|**2025-12-11**|**An M-Health Algorithmic Approach to Identify and Assess Physiotherapy Exercises in Real Time**|Stylianos Kandylakis et.al.|[2512.10437v1](http://arxiv.org/abs/2512.10437v1)|null|
+|**2025-12-11**|**Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset**|Hyunsoo Lee et.al.|[2512.10321v1](http://arxiv.org/abs/2512.10321v1)|null|
+|**2025-12-11**|**THE-Pose: Topological Prior with Hybrid Graph Fusion for Estimating Category-Level 6D Object Pose**|Eunho Lee et.al.|[2512.10251v1](http://arxiv.org/abs/2512.10251v1)|null|
 |**2025-12-10**|**FastPose-ViT: A Vision Transformer for Real-Time Spacecraft Pose Estimation**|Pierre Ancey et.al.|[2512.09792v1](http://arxiv.org/abs/2512.09792v1)|null|
-|**2025-12-10**|**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**|Ashik E Rasul et.al.|[2512.09343v1](http://arxiv.org/abs/2512.09343v1)|null|
+|**2025-12-11**|**Development and Testing for Perception Based Autonomous Landing of a Long-Range QuadPlane**|Ashik E Rasul et.al.|[2512.09343v2](http://arxiv.org/abs/2512.09343v2)|null|
 |**2025-12-09**|**ConceptPose: Training-Free Zero-Shot Object Pose Estimation using Concept Vectors**|Liming Kuang et.al.|[2512.09056v1](http://arxiv.org/abs/2512.09056v1)|null|
 |**2025-12-09**|**Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment**|Youming Deng et.al.|[2512.08930v1](http://arxiv.org/abs/2512.08930v1)|null|
 |**2025-12-09**|**SDT-6D: Fully Sparse Depth-Transformer for Staged End-to-End 6D Pose Estimation in Industrial Multi-View Bin Picking**|Nico Leuze et.al.|[2512.08430v1](http://arxiv.org/abs/2512.08430v1)|null|
@@ -3126,6 +3134,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-11**|**SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale**|Max Zimmer et.al.|[2512.10922v1](http://arxiv.org/abs/2512.10922v1)|null|
+|**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891v1](http://arxiv.org/abs/2512.10891v1)|null|
+|**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725v1](http://arxiv.org/abs/2512.10725v1)|null|
+|**2025-12-11**|**Sharp Monocular View Synthesis in Less Than a Second**|Lars Mescheder et.al.|[2512.10685v1](http://arxiv.org/abs/2512.10685v1)|null|
+|**2025-12-11**|**Geo6DPose: Fast Zero-Shot 6D Object Pose Estimation via Geometry-Filtered Feature Matching**|Javier Villena Toro et.al.|[2512.10674v1](http://arxiv.org/abs/2512.10674v1)|null|
+|**2025-12-11**|**Beyond Pixels: A Training-Free, Text-to-Text Framework for Remote Sensing Image Retrieval**|J. Xiao et.al.|[2512.10596v1](http://arxiv.org/abs/2512.10596v1)|null|
+|**2025-12-11**|**Data-Efficient American Sign Language Recognition via Few-Shot Prototypical Networks**|Meher Md Saad et.al.|[2512.10562v1](http://arxiv.org/abs/2512.10562v1)|null|
+|**2025-12-11**|**Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders**|Qingsen Ma et.al.|[2512.10547v1](http://arxiv.org/abs/2512.10547v1)|null|
+|**2025-12-11**|**Zero-shot 3D Map Generation with LLM Agents: A Dual-Agent Architecture for Procedural Content Generation**|Lim Chien Her et.al.|[2512.10501v1](http://arxiv.org/abs/2512.10501v1)|null|
+|**2025-12-11**|**Semantic Reconstruction of Adversarial Plagiarism: A Context-Aware Framework for Detecting and Restoring "Tortured Phrases" in Scientific Literature**|Agniva Maiti et.al.|[2512.10435v1](http://arxiv.org/abs/2512.10435v1)|null|
 |**2025-12-10**|**DynaIP: Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation**|Zhizhong Wang et.al.|[2512.09814v1](http://arxiv.org/abs/2512.09814v1)|null|
 |**2025-12-10**|**PathCo-LatticE: Pathology-Constrained Lattice-Of Experts Framework for Fully-supervised Few-Shot Cardiac MRI Segmentation**|Mohamed Elbayumi et.al.|[2512.09779v1](http://arxiv.org/abs/2512.09779v1)|null|
 |**2025-12-10**|**Understanding Chain-of-Thought Effectiveness in Code Generation: An Empirical and Information-Theoretic Analysis**|Naizhu Jin et.al.|[2512.09679v1](http://arxiv.org/abs/2512.09679v1)|null|

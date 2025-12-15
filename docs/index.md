@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
 |**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957v1](http://arxiv.org/abs/2512.10957v1)|null|
 |**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950v1](http://arxiv.org/abs/2512.10950v1)|null|
 |**2025-12-11**|**PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning**|Jianqi Chen et.al.|[2512.10840v1](http://arxiv.org/abs/2512.10840v1)|null|
@@ -2584,6 +2585,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
 |**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
@@ -3134,8 +3136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-12**|**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**|Xiaoyu Ma et.al.|[2512.11769v1](http://arxiv.org/abs/2512.11769v1)|null|
+|**2025-12-12**|**Boosting Skeleton-based Zero-Shot Action Recognition with Training-Free Test-Time Adaptation**|Jingmin Zhu et.al.|[2512.11458v1](http://arxiv.org/abs/2512.11458v1)|null|
+|**2025-12-12**|**Learning to Evolve with Convergence Guarantee via Neural Unrolling**|Jiaxin Gao et.al.|[2512.11453v1](http://arxiv.org/abs/2512.11453v1)|null|
+|**2025-12-12**|**Few-Shot VLM-Based G-Code and HMI Verification in CNC Machining**|Yasaman Hashem Pour et.al.|[2512.11296v1](http://arxiv.org/abs/2512.11296v1)|null|
+|**2025-12-11**|**Learning complete and explainable visual representations from itemized text supervision**|Yiwei Lyu et.al.|[2512.11141v1](http://arxiv.org/abs/2512.11141v1)|null|
+|**2025-12-11**|**Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching**|Bowen Wen et.al.|[2512.11130v1](http://arxiv.org/abs/2512.11130v1)|null|
+|**2025-12-11**|**Vision-Language Models for Infrared Industrial Sensing in Additive Manufacturing Scene Description**|Nazanin Mahjourian et.al.|[2512.11098v1](http://arxiv.org/abs/2512.11098v1)|null|
+|**2025-12-11**|**Synthetic Vasculature and Pathology Enhance Vision-Language Model Reasoning**|Chenjun Li et.al.|[2512.11060v1](http://arxiv.org/abs/2512.11060v1)|null|
 |**2025-12-11**|**SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale**|Max Zimmer et.al.|[2512.10922v1](http://arxiv.org/abs/2512.10922v1)|null|
-|**2025-12-11**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891v1](http://arxiv.org/abs/2512.10891v1)|null|
+|**2025-12-12**|**Iterative Compositional Data Generation for Robot Control**|Anh-Quan Pham et.al.|[2512.10891v2](http://arxiv.org/abs/2512.10891v2)|null|
 |**2025-12-11**|**Video Depth Propagation**|Luigi Piccinelli et.al.|[2512.10725v1](http://arxiv.org/abs/2512.10725v1)|null|
 |**2025-12-11**|**Sharp Monocular View Synthesis in Less Than a Second**|Lars Mescheder et.al.|[2512.10685v1](http://arxiv.org/abs/2512.10685v1)|null|
 |**2025-12-11**|**Geo6DPose: Fast Zero-Shot 6D Object Pose Estimation via Geometry-Filtered Feature Matching**|Javier Villena Toro et.al.|[2512.10674v1](http://arxiv.org/abs/2512.10674v1)|null|

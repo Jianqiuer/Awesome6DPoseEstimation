@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[2512.13680v1](http://arxiv.org/abs/2512.13680v1)|null|
+|**2025-12-13**|**Audio-Visual Camera Pose Estimationn with Passive Scene Sounds and In-the-Wild Video**|Daniel Adebi et.al.|[2512.12165v1](http://arxiv.org/abs/2512.12165v1)|null|
 |**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
 |**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957v1](http://arxiv.org/abs/2512.10957v1)|null|
 |**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950v1](http://arxiv.org/abs/2512.10950v1)|null|
@@ -3136,6 +3138,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-15**|**Towards Scalable Pre-training of Visual Tokenizers for Generation**|Jingfeng Yao et.al.|[2512.13687v1](http://arxiv.org/abs/2512.13687v1)|null|
+|**2025-12-15**|**World Models Can Leverage Human Videos for Dexterous Manipulation**|Raktim Gautam Goswami et.al.|[2512.13644v1](http://arxiv.org/abs/2512.13644v1)|null|
+|**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632v1](http://arxiv.org/abs/2512.13632v1)|null|
+|**2025-12-15**|**TARA: Simple and Efficient Time Aware Retrieval Adaptation of MLLMs for Video Understanding**|Piyush Bagad et.al.|[2512.13511v1](http://arxiv.org/abs/2512.13511v1)|null|
+|**2025-12-15**|**SkipCat: Rank-Maximized Low-Rank Compression of Large Language Models via Shared Projection and Block Skipping**|Yu-Chen Lu et.al.|[2512.13494v1](http://arxiv.org/abs/2512.13494v1)|null|
+|**2025-12-15**|**rNCA: Self-Repairing Segmentation Masks**|Malte Silbernagel et.al.|[2512.13397v1](http://arxiv.org/abs/2512.13397v1)|null|
+|**2025-12-15**|**Fast Policy Learning for 6-DOF Position Control of Underwater Vehicles**|Sümer Tunçay et.al.|[2512.13359v1](http://arxiv.org/abs/2512.13359v1)|null|
+|**2025-12-15**|**DisCo-Speech: Controllable Zero-Shot Speech Generation with A Disentangled Speech Codec**|Tao Li et.al.|[2512.13251v1](http://arxiv.org/abs/2512.13251v1)|null|
+|**2025-12-15**|**START: Traversing Sparse Footholds with Terrain Reconstruction**|Ruiqi Yu et.al.|[2512.13153v1](http://arxiv.org/abs/2512.13153v1)|null|
+|**2025-12-15**|**Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather**|Zhijian He et.al.|[2512.13107v1](http://arxiv.org/abs/2512.13107v1)|null|
 |**2025-12-12**|**BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models**|Xiaoyu Ma et.al.|[2512.11769v1](http://arxiv.org/abs/2512.11769v1)|null|
 |**2025-12-12**|**Boosting Skeleton-based Zero-Shot Action Recognition with Training-Free Test-Time Adaptation**|Jingmin Zhu et.al.|[2512.11458v1](http://arxiv.org/abs/2512.11458v1)|null|
 |**2025-12-12**|**Learning to Evolve with Convergence Guarantee via Neural Unrolling**|Jiaxin Gao et.al.|[2512.11453v1](http://arxiv.org/abs/2512.11453v1)|null|

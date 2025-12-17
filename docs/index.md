@@ -7,8 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation**|Qingyuan Cai et.al.|[2512.14162v1](http://arxiv.org/abs/2512.14162v1)|null|
 |**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[2512.13680v1](http://arxiv.org/abs/2512.13680v1)|null|
-|**2025-12-13**|**Audio-Visual Camera Pose Estimationn with Passive Scene Sounds and In-the-Wild Video**|Daniel Adebi et.al.|[2512.12165v1](http://arxiv.org/abs/2512.12165v1)|null|
+|**2025-12-16**|**Audio-Visual Camera Pose Estimation with Passive Scene Sounds and In-the-Wild Video**|Daniel Adebi et.al.|[2512.12165v2](http://arxiv.org/abs/2512.12165v2)|null|
 |**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
 |**2025-12-11**|**SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model**|Yukai Shi et.al.|[2512.10957v1](http://arxiv.org/abs/2512.10957v1)|null|
 |**2025-12-11**|**E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training**|Qitao Zhao et.al.|[2512.10950v1](http://arxiv.org/abs/2512.10950v1)|null|
@@ -3138,6 +3139,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-16**|**HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion**|Yifang Xu et.al.|[2512.14542v1](http://arxiv.org/abs/2512.14542v1)|null|
+|**2025-12-16**|**Native Intelligence Emerges from Large-Scale Clinical Practice: A Retinal Foundation Model with Deployment Efficiency**|Jia Guo et.al.|[2512.14499v1](http://arxiv.org/abs/2512.14499v1)|null|
+|**2025-12-16**|**SuperCLIP: CLIP with Simple Classification Supervision**|Weiheng Zhao et.al.|[2512.14480v1](http://arxiv.org/abs/2512.14480v1)|null|
+|**2025-12-16**|**A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning**|Zixin Zhang et.al.|[2512.14442v1](http://arxiv.org/abs/2512.14442v1)|null|
+|**2025-12-16**|**SuperWing: a comprehensive transonic wing dataset for data-driven aerodynamic design**|Yunjia Yang et.al.|[2512.14397v1](http://arxiv.org/abs/2512.14397v1)|null|
+|**2025-12-16**|**From YOLO to VLMs: Advancing Zero-Shot and Few-Shot Detection of Wastewater Treatment Plants Using Satellite Imagery in MENA Region**|Akila Premarathna et.al.|[2512.14312v1](http://arxiv.org/abs/2512.14312v1)|null|
+|**2025-12-16**|**FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting**|Xingjian Wu et.al.|[2512.14253v1](http://arxiv.org/abs/2512.14253v1)|null|
+|**2025-12-16**|**Erasing CLIP Memories: Non-Destructive, Data-Free Zero-Shot class Unlearning in CLIP Models**|Ashish Mishra et.al.|[2512.14137v1](http://arxiv.org/abs/2512.14137v1)|null|
+|**2025-12-16**|**Selective, Controlled and Domain-Agnostic Unlearning in Pretrained CLIP: A Training- and Data-Free Approach**|Ashish Mishra et.al.|[2512.14113v1](http://arxiv.org/abs/2512.14113v1)|null|
+|**2025-12-16**|**HydroGEM: A Self Supervised Zero Shot Hybrid TCN Transformer Foundation Model for Continental Scale Streamflow Quality Control**|Ijaz Ul Haq et.al.|[2512.14106v1](http://arxiv.org/abs/2512.14106v1)|null|
 |**2025-12-15**|**Towards Scalable Pre-training of Visual Tokenizers for Generation**|Jingfeng Yao et.al.|[2512.13687v1](http://arxiv.org/abs/2512.13687v1)|null|
 |**2025-12-15**|**World Models Can Leverage Human Videos for Dexterous Manipulation**|Raktim Gautam Goswami et.al.|[2512.13644v1](http://arxiv.org/abs/2512.13644v1)|null|
 |**2025-12-15**|**StutterFuse: Mitigating Modality Collapse in Stuttering Detection with Jaccard-Weighted Metric Learning and Gated Fusion**|Guransh Singh et.al.|[2512.13632v1](http://arxiv.org/abs/2512.13632v1)|null|

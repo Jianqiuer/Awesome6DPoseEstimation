@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608v1](http://arxiv.org/abs/2512.15608v1)|null|
+|**2025-12-17**|**BLANKET: Anonymizing Faces in Infant Video Recordings**|Ditmar Hadera et.al.|[2512.15542v1](http://arxiv.org/abs/2512.15542v1)|null|
+|**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508v1](http://arxiv.org/abs/2512.15508v1)|null|
+|**2025-12-17**|**RUMPL: Ray-Based Transformers for Universal Multi-View 2D to 3D Human Pose Lifting**|Seyed Abolfazl Ghasemzadeh et.al.|[2512.15488v1](http://arxiv.org/abs/2512.15488v1)|null|
+|**2025-12-17**|**See It Before You Grab It: Deep Learning-based Action Anticipation in Basketball**|Arnau Barrera Roy et.al.|[2512.15386v1](http://arxiv.org/abs/2512.15386v1)|null|
+|**2025-12-17**|**NAP3D: NeRF Assisted 3D-3D Pose Alignment for Autonomous Vehicles**|Gaurav Bansal et.al.|[2512.15080v1](http://arxiv.org/abs/2512.15080v1)|null|
+|**2025-12-16**|**Isolated Sign Language Recognition with Segmentation and Pose Estimation**|Daniel Perkins et.al.|[2512.14876v1](http://arxiv.org/abs/2512.14876v1)|null|
 |**2025-12-16**|**FastDDHPose: Towards Unified, Efficient, and Disentangled 3D Human Pose Estimation**|Qingyuan Cai et.al.|[2512.14162v1](http://arxiv.org/abs/2512.14162v1)|null|
 |**2025-12-15**|**LASER: Layer-wise Scale Alignment for Training-Free Streaming 4D Reconstruction**|Tianye Ding et.al.|[2512.13680v1](http://arxiv.org/abs/2512.13680v1)|null|
 |**2025-12-16**|**Audio-Visual Camera Pose Estimation with Passive Scene Sounds and In-the-Wild Video**|Daniel Adebi et.al.|[2512.12165v2](http://arxiv.org/abs/2512.12165v2)|null|
@@ -3151,6 +3158,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701v1](http://arxiv.org/abs/2512.15701v1)|null|
+|**2025-12-17**|**Operator-Theoretic Joint Estimation of Aging-Aware State of Charge and Control-Informed State of Health**|Rahmat K. Adesunkanmi et.al.|[2512.15622v1](http://arxiv.org/abs/2512.15622v1)|null|
+|**2025-12-17**|**Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary**|Xinshun Feng et.al.|[2512.15614v1](http://arxiv.org/abs/2512.15614v1)|null|
+|**2025-12-17**|**You Never Know a Person, You Only Know Their Defenses: Detecting Levels of Psychological Defense Mechanisms in Supportive Conversations**|Hongbin Na et.al.|[2512.15601v1](http://arxiv.org/abs/2512.15601v1)|null|
+|**2025-12-17**|**MoonSeg3R: Monocular Online Zero-Shot Segment Anything in 3D with Reconstructive Foundation Priors**|Zhipeng Du et.al.|[2512.15577v1](http://arxiv.org/abs/2512.15577v1)|null|
+|**2025-12-17**|**On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation**|Roni Blushtein-Livnon et.al.|[2512.15564v1](http://arxiv.org/abs/2512.15564v1)|null|
+|**2025-12-17**|**The LUMirage: An independent evaluation of zero-shot performance in the LUMIR challenge**|Rohit Jena et.al.|[2512.15505v1](http://arxiv.org/abs/2512.15505v1)|null|
+|**2025-12-17**|**Evaluating LLMs for Zeolite Synthesis Event Extraction (ZSEE): A Systematic Analysis of Prompting Strategies**|Charan Prakash Rathore et.al.|[2512.15312v1](http://arxiv.org/abs/2512.15312v1)|null|
+|**2025-12-17**|**SynthSeg-Agents: Multi-Agent Synthetic Data Generation for Zero-Shot Weakly Supervised Semantic Segmentation**|Wangyu Wu et.al.|[2512.15310v1](http://arxiv.org/abs/2512.15310v1)|null|
+|**2025-12-17**|**MMMamba: A Versatile Cross-Modal In Context Fusion Framework for Pan-Sharpening and Zero-Shot Image Enhancement**|Yingying Wang et.al.|[2512.15261v1](http://arxiv.org/abs/2512.15261v1)|null|
 |**2025-12-16**|**HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion**|Yifang Xu et.al.|[2512.14542v1](http://arxiv.org/abs/2512.14542v1)|null|
 |**2025-12-16**|**Native Intelligence Emerges from Large-Scale Clinical Practice: A Retinal Foundation Model with Deployment Efficiency**|Jia Guo et.al.|[2512.14499v1](http://arxiv.org/abs/2512.14499v1)|null|
 |**2025-12-16**|**SuperCLIP: CLIP with Simple Classification Supervision**|Weiheng Zhao et.al.|[2512.14480v1](http://arxiv.org/abs/2512.14480v1)|null|

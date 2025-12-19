@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494v1](http://arxiv.org/abs/2512.16494v1)|null|
+|**2025-12-18**|**Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation**|Jerrin Bright et.al.|[2512.16199v1](http://arxiv.org/abs/2512.16199v1)|null|
+|**2025-12-18**|**LAPX: Lightweight Hourglass Network with Global Context**|Haopeng Zhao et.al.|[2512.16089v1](http://arxiv.org/abs/2512.16089v1)|null|
 |**2025-12-17**|**Robust Multi-view Camera Calibration from Dense Matches**|Johannes Hägerlind et.al.|[2512.15608v1](http://arxiv.org/abs/2512.15608v1)|null|
 |**2025-12-17**|**BLANKET: Anonymizing Faces in Infant Video Recordings**|Ditmar Hadera et.al.|[2512.15542v1](http://arxiv.org/abs/2512.15542v1)|null|
 |**2025-12-17**|**Off The Grid: Detection of Primitives for Feed-Forward 3D Gaussian Splatting**|Arthur Moreau et.al.|[2512.15508v1](http://arxiv.org/abs/2512.15508v1)|null|
@@ -3158,6 +3161,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913v1](http://arxiv.org/abs/2512.16913v1)|null|
+|**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909v1](http://arxiv.org/abs/2512.16909v1)|null|
+|**2025-12-18**|**PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies**|Arhan Jain et.al.|[2512.16881v1](http://arxiv.org/abs/2512.16881v1)|null|
+|**2025-12-18**|**Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation**|Valay Bundele et.al.|[2512.16880v1](http://arxiv.org/abs/2512.16880v1)|null|
+|**2025-12-18**|**Sequencing to Mitigate Catastrophic Forgetting in Continual Learning**|Hesham G. Moussa et.al.|[2512.16871v1](http://arxiv.org/abs/2512.16871v1)|null|
+|**2025-12-18**|**How accurate are foundational machine learning interatomic potentials for heterogeneous catalysis?**|Luuk H. E. Kempen et.al.|[2512.16702v1](http://arxiv.org/abs/2512.16702v1)|null|
+|**2025-12-18**|**TTP: Test-Time Padding for Adversarial Detection and Robust Adaptation on Vision-Language Models**|Zhiwei Li et.al.|[2512.16523v1](http://arxiv.org/abs/2512.16523v1)|null|
+|**2025-12-18**|**CountZES: Counting via Zero-Shot Exemplar Selection**|Muhammad Ibraheem Siddiqui et.al.|[2512.16415v1](http://arxiv.org/abs/2512.16415v1)|null|
+|**2025-12-18**|**PixelArena: A benchmark for Pixel-Precision Visual Intelligence**|Feng Liang et.al.|[2512.16303v1](http://arxiv.org/abs/2512.16303v1)|null|
+|**2025-12-18**|**AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding**|Sanjoy Chowdhury et.al.|[2512.16250v1](http://arxiv.org/abs/2512.16250v1)|null|
 |**2025-12-17**|**VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression**|Kyle Sargent et.al.|[2512.15701v1](http://arxiv.org/abs/2512.15701v1)|null|
 |**2025-12-17**|**Operator-Theoretic Joint Estimation of Aging-Aware State of Charge and Control-Informed State of Health**|Rahmat K. Adesunkanmi et.al.|[2512.15622v1](http://arxiv.org/abs/2512.15622v1)|null|
 |**2025-12-17**|**Behavior Tokens Speak Louder: Disentangled Explainable Recommendation with Behavior Vocabulary**|Xinshun Feng et.al.|[2512.15614v1](http://arxiv.org/abs/2512.15614v1)|null|

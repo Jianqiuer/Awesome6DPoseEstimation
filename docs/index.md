@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**G3Splat: Geometrically Consistent Generalizable Gaussian Splatting**|Mehdi Hosseinzadeh et.al.|[2512.17547v1](http://arxiv.org/abs/2512.17547v1)|null|
+|**2025-12-19**|**Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry**|Ufuk Asil et.al.|[2512.17505v1](http://arxiv.org/abs/2512.17505v1)|null|
+|**2025-12-19**|**VAIR: Visual Analytics for Injury Risk Exploration in Sports**|Chunggi Lee et.al.|[2512.17446v1](http://arxiv.org/abs/2512.17446v1)|null|
+|**2025-12-19**|**Globally Optimal Solution to the Generalized Relative Pose Estimation Problem using Affine Correspondences**|Zhenbao Yu et.al.|[2512.17188v1](http://arxiv.org/abs/2512.17188v1)|null|
 |**2025-12-18**|**PoseMoE: Mixture-of-Experts Network for Monocular 3D Human Pose Estimation**|Mengyuan Liu et.al.|[2512.16494v1](http://arxiv.org/abs/2512.16494v1)|null|
 |**2025-12-18**|**Avatar4D: Synthesizing Domain-Specific 4D Humans for Real-World Pose Estimation**|Jerrin Bright et.al.|[2512.16199v1](http://arxiv.org/abs/2512.16199v1)|null|
 |**2025-12-18**|**LAPX: Lightweight Hourglass Network with Global Context**|Haopeng Zhao et.al.|[2512.16089v1](http://arxiv.org/abs/2512.16089v1)|null|
@@ -3149,6 +3153,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-19**|**Structure-Aware Antibody Design with Affinity-Optimized Inverse Folding**|Xinyan Zhao et.al.|[2512.17815v1](http://arxiv.org/abs/2512.17815v1)|null|
+|**2025-12-19**|**UniStateDLO: Unified Generative State Estimation and Tracking of Deformable Linear Objects Under Occlusion for Constrained Manipulation**|Kangchen Lv et.al.|[2512.17764v1](http://arxiv.org/abs/2512.17764v1)|null|
+|**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667v1](http://arxiv.org/abs/2512.17667v1)|null|
+|**2025-12-19**|**Generative Human-Object Interaction Detection via Differentiable Cognitive Steering of Multi-modal LLMs**|Zhaolin Cai et.al.|[2512.17640v1](http://arxiv.org/abs/2512.17640v1)|null|
+|**2025-12-19**|**Learning Safe Autonomous Driving Policies Using Predictive Safety Representations**|Mahesh Keswani et.al.|[2512.17586v1](http://arxiv.org/abs/2512.17586v1)|null|
+|**2025-12-19**|**G3Splat: Geometrically Consistent Generalizable Gaussian Splatting**|Mehdi Hosseinzadeh et.al.|[2512.17547v1](http://arxiv.org/abs/2512.17547v1)|null|
+|**2025-12-19**|**Zero-Shot Recognition of Dysarthric Speech Using Commercial Automatic Speech Recognition and Multimodal Large Language Models**|Ali Alsayegh et.al.|[2512.17474v1](http://arxiv.org/abs/2512.17474v1)|null|
+|**2025-12-19**|**The Mental World of Large Language Models in Recommendation: A Benchmark on Association, Personalization, and Knowledgeability**|Guangneng Hu et.al.|[2512.17389v1](http://arxiv.org/abs/2512.17389v1)|null|
+|**2025-12-19**|**Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation**|Xijie Huang et.al.|[2512.17349v1](http://arxiv.org/abs/2512.17349v1)|null|
+|**2025-12-19**|**Auxiliary Descriptive Knowledge for Few-Shot Adaptation of Vision-Language Model**|SuBeen Lee et.al.|[2512.17313v1](http://arxiv.org/abs/2512.17313v1)|null|
 |**2025-12-18**|**Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation**|Xin Lin et.al.|[2512.16913v1](http://arxiv.org/abs/2512.16913v1)|null|
 |**2025-12-18**|**MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning**|Yuanchen Ju et.al.|[2512.16909v1](http://arxiv.org/abs/2512.16909v1)|null|
 |**2025-12-18**|**PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies**|Arhan Jain et.al.|[2512.16881v1](http://arxiv.org/abs/2512.16881v1)|null|

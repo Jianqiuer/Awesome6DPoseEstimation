@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction**|Tao Li et.al.|[2512.19110v1](http://arxiv.org/abs/2512.19110v1)|null|
+|**2025-12-22**|**6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**|Jihui Guo et.al.|[2512.19058v1](http://arxiv.org/abs/2512.19058v1)|null|
+|**2025-12-20**|**A two-stream network with global-local feature fusion for bone age assessment**|Qiong Lou et.al.|[2512.18331v1](http://arxiv.org/abs/2512.18331v1)|null|
+|**2025-12-19**|**SurgiPose: Estimating Surgical Tool Kinematics from Monocular Video for Surgical Robot Learning**|Juo-Tung Chen et.al.|[2512.18068v1](http://arxiv.org/abs/2512.18068v1)|null|
 |**2025-12-19**|**G3Splat: Geometrically Consistent Generalizable Gaussian Splatting**|Mehdi Hosseinzadeh et.al.|[2512.17547v1](http://arxiv.org/abs/2512.17547v1)|null|
 |**2025-12-19**|**Adaptive Covariance and Quaternion-Focused Hybrid Error-State EKF/UKF for Visual-Inertial Odometry**|Ufuk Asil et.al.|[2512.17505v1](http://arxiv.org/abs/2512.17505v1)|null|
 |**2025-12-19**|**VAIR: Visual Analytics for Injury Risk Exploration in Sports**|Chunggi Lee et.al.|[2512.17446v1](http://arxiv.org/abs/2512.17446v1)|null|
@@ -3153,6 +3157,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-22**|**Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning**|Apoorv Vyas et.al.|[2512.19687v1](http://arxiv.org/abs/2512.19687v1)|null|
+|**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686v1](http://arxiv.org/abs/2512.19686v1)|null|
+|**2025-12-22**|**Zero-shot Reconstruction of In-Scene Object Manipulation from Video**|Dixuan Lin et.al.|[2512.19684v1](http://arxiv.org/abs/2512.19684v1)|null|
+|**2025-12-22**|**Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis**|Argha Kamal Samanta et.al.|[2512.19663v1](http://arxiv.org/abs/2512.19663v1)|null|
+|**2025-12-22**|**Exploring Zero-Shot ACSA with Unified Meaning Representation in Chain-of-Thought Prompting**|Filippos Ventirozos et.al.|[2512.19651v1](http://arxiv.org/abs/2512.19651v1)|null|
+|**2025-12-22**|**Diacritic Restoration for Low-Resource Indigenous Languages: Case Study with Bribri and Cook Islands Māori**|Rolando Coto-Solano et.al.|[2512.19630v1](http://arxiv.org/abs/2512.19630v1)|null|
+|**2025-12-22**|**Event Extraction in Large Language Model**|Bobo Li et.al.|[2512.19537v1](http://arxiv.org/abs/2512.19537v1)|null|
+|**2025-12-22**|**TwinAligner: Visual-Dynamic Alignment Empowers Physics-aware Real2Sim2Real for Robotic Manipulation**|Hongwei Fan et.al.|[2512.19390v1](http://arxiv.org/abs/2512.19390v1)|null|
+|**2025-12-22**|**CienaLLM: Generative Climate-Impact Extraction from News Articles with Autoregressive LLMs**|Javier Vela-Tambo et.al.|[2512.19305v1](http://arxiv.org/abs/2512.19305v1)|null|
+|**2025-12-22**|**Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing**|Xu Zhang et.al.|[2512.19302v1](http://arxiv.org/abs/2512.19302v1)|null|
 |**2025-12-19**|**Structure-Aware Antibody Design with Affinity-Optimized Inverse Folding**|Xinyan Zhao et.al.|[2512.17815v1](http://arxiv.org/abs/2512.17815v1)|null|
 |**2025-12-19**|**UniStateDLO: Unified Generative State Estimation and Tracking of Deformable Linear Objects Under Occlusion for Constrained Manipulation**|Kangchen Lv et.al.|[2512.17764v1](http://arxiv.org/abs/2512.17764v1)|null|
 |**2025-12-19**|**STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting**|Yifei Cheng et.al.|[2512.17667v1](http://arxiv.org/abs/2512.17667v1)|null|

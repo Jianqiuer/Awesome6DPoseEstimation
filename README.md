@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment**|Anna Šárová Mikeštíková et.al.|[2512.20538v1](http://arxiv.org/abs/2512.20538v1)|null|
+|**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531v1](http://arxiv.org/abs/2512.20531v1)|null|
+|**2025-12-23**|**Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms**|Ipek Sena Yilmaz et.al.|[2512.20323v1](http://arxiv.org/abs/2512.20323v1)|null|
+|**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148v1](http://arxiv.org/abs/2512.20148v1)|null|
+|**2025-12-23**|**milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion**|Niraj Prakash Kini et.al.|[2512.20128v1](http://arxiv.org/abs/2512.20128v1)|null|
 |**2025-12-22**|**Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction**|Tao Li et.al.|[2512.19110v1](http://arxiv.org/abs/2512.19110v1)|null|
 |**2025-12-22**|**6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**|Jihui Guo et.al.|[2512.19058v1](http://arxiv.org/abs/2512.19058v1)|null|
 |**2025-12-20**|**A two-stream network with global-local feature fusion for bone age assessment**|Qiong Lou et.al.|[2512.18331v1](http://arxiv.org/abs/2512.18331v1)|null|
@@ -3169,6 +3174,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits**|Amirhosein Ghasemabadi et.al.|[2512.20578v1](http://arxiv.org/abs/2512.20578v1)|null|
+|**2025-12-23**|**Drug-like antibodies with low immunogenicity in human panels designed with Latent-X2**|Latent Labs Team et.al.|[2512.20263v1](http://arxiv.org/abs/2512.20263v1)|null|
+|**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174v1](http://arxiv.org/abs/2512.20174v1)|null|
+|**2025-12-23**|**Retrieval-augmented Prompt Learning for Pre-trained Foundation Models**|Xiang Chen et.al.|[2512.20145v1](http://arxiv.org/abs/2512.20145v1)|null|
+|**2025-12-23**|**Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection**|Xingyou Yin et.al.|[2512.20140v1](http://arxiv.org/abs/2512.20140v1)|null|
+|**2025-12-23**|**Reason2Decide: Rationale-Driven Multi-Task Learning**|H M Quamran Hasan et.al.|[2512.20074v1](http://arxiv.org/abs/2512.20074v1)|null|
+|**2025-12-23**|**Deep Eigenspace Network and Its Application to Parametric Non-selfadjoint Eigenvalue Problems**|H. Li et.al.|[2512.20058v1](http://arxiv.org/abs/2512.20058v1)|null|
+|**2025-12-23**|**Self-motion as a structural prior for coherent and robust formation of cognitive maps**|Yingchao Yu et.al.|[2512.20044v1](http://arxiv.org/abs/2512.20044v1)|null|
+|**2025-12-23**|**$\text{H}^2$ em: Learning Hierarchical Hyperbolic Embeddings for Compositional Zero-Shot Learning**|Lin Li et.al.|[2512.20029v1](http://arxiv.org/abs/2512.20029v1)|null|
+|**2025-12-23**|**PaveSync: A Unified and Comprehensive Dataset for Pavement Distress Analysis and Classification**|Blessing Agyei Kyem et.al.|[2512.20011v1](http://arxiv.org/abs/2512.20011v1)|null|
 |**2025-12-22**|**Pushing the Frontier of Audiovisual Perception with Large-Scale Multimodal Correspondence Learning**|Apoorv Vyas et.al.|[2512.19687v1](http://arxiv.org/abs/2512.19687v1)|null|
 |**2025-12-22**|**Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models**|Zixuan Ye et.al.|[2512.19686v1](http://arxiv.org/abs/2512.19686v1)|null|
 |**2025-12-22**|**Zero-shot Reconstruction of In-Scene Object Manipulation from Video**|Dixuan Lin et.al.|[2512.19684v1](http://arxiv.org/abs/2512.19684v1)|null|

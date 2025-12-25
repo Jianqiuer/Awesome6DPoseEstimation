@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054v1](http://arxiv.org/abs/2512.21054v1)|null|
+|**2025-12-23**|**A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets**|Tanmay P. Patel et.al.|[2512.20769v1](http://arxiv.org/abs/2512.20769v1)|null|
 |**2025-12-23**|**AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment**|Anna Šárová Mikeštíková et.al.|[2512.20538v1](http://arxiv.org/abs/2512.20538v1)|null|
 |**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531v1](http://arxiv.org/abs/2512.20531v1)|null|
 |**2025-12-23**|**Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms**|Ipek Sena Yilmaz et.al.|[2512.20323v1](http://arxiv.org/abs/2512.20323v1)|null|
@@ -3174,6 +3176,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-24**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Chi Zhang et.al.|[2512.21233v1](http://arxiv.org/abs/2512.21233v1)|null|
+|**2025-12-24**|**Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation**|Yu He et.al.|[2512.21201v1](http://arxiv.org/abs/2512.21201v1)|null|
+|**2025-12-24**|**A Mechanistic Analysis of Transformers for Dynamical Systems**|Gregory Duthé et.al.|[2512.21113v1](http://arxiv.org/abs/2512.21113v1)|null|
+|**2025-12-24**|**Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions**|Suraj Kumar et.al.|[2512.21076v1](http://arxiv.org/abs/2512.21076v1)|null|
+|**2025-12-24**|**Universal Transient Stability Analysis: A Large Language Model-Enabled Dynamics Prediction Framework**|Chao Shen et.al.|[2512.20970v1](http://arxiv.org/abs/2512.20970v1)|null|
+|**2025-12-23**|**Soft Filtering: Guiding Zero-shot Composed Image Retrieval with Prescriptive and Proscriptive Constraints**|Youjin Jung et.al.|[2512.20781v1](http://arxiv.org/abs/2512.20781v1)|null|
+|**2025-12-23**|**Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization**|Ziyi Zhu et.al.|[2512.20773v1](http://arxiv.org/abs/2512.20773v1)|null|
 |**2025-12-23**|**Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits**|Amirhosein Ghasemabadi et.al.|[2512.20578v1](http://arxiv.org/abs/2512.20578v1)|null|
 |**2025-12-23**|**Drug-like antibodies with low immunogenicity in human panels designed with Latent-X2**|Latent Labs Team et.al.|[2512.20263v1](http://arxiv.org/abs/2512.20263v1)|null|
 |**2025-12-23**|**Towards Natural Language-Based Document Image Retrieval: New Dataset and Benchmark**|Hao Guo et.al.|[2512.20174v1](http://arxiv.org/abs/2512.20174v1)|null|

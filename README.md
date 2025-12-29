@@ -1,4 +1,4 @@
-## Updated on 2025.12.28
+## Updated on 2025.12.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,11 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883v1](http://arxiv.org/abs/2512.21883v1)|null|
 |**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054v1](http://arxiv.org/abs/2512.21054v1)|null|
 |**2025-12-23**|**A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets**|Tanmay P. Patel et.al.|[2512.20769v1](http://arxiv.org/abs/2512.20769v1)|null|
 |**2025-12-23**|**AlignPose: Generalizable 6D Pose Estimation via Multi-view Feature-metric Alignment**|Anna Šárová Mikeštíková et.al.|[2512.20538v1](http://arxiv.org/abs/2512.20538v1)|null|
 |**2025-12-23**|**SirenPose: Dynamic Scene Reconstruction via Geometric Supervision**|Kaitong Cai et.al.|[2512.20531v1](http://arxiv.org/abs/2512.20531v1)|null|
-|**2025-12-23**|**Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms**|Ipek Sena Yilmaz et.al.|[2512.20323v1](http://arxiv.org/abs/2512.20323v1)|null|
+|**2025-12-26**|**Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms**|Ipek Sena Yilmaz et.al.|[2512.20323v2](http://arxiv.org/abs/2512.20323v2)|null|
 |**2025-12-23**|**Enhancing annotations for 5D apple pose estimation through 3D Gaussian Splatting (3DGS)**|Robert van de Ven et.al.|[2512.20148v1](http://arxiv.org/abs/2512.20148v1)|null|
 |**2025-12-23**|**milliMamba: Specular-Aware Human Pose Estimation via Dual mmWave Radar with Multi-Frame Mamba Fusion**|Niraj Prakash Kini et.al.|[2512.20128v1](http://arxiv.org/abs/2512.20128v1)|null|
 |**2025-12-22**|**Trifocal Tensor and Relative Pose Estimation with Known Vertical Direction**|Tao Li et.al.|[2512.19110v1](http://arxiv.org/abs/2512.19110v1)|null|
@@ -2615,7 +2616,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2918,7 +2919,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3170,13 +3171,21 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-12-24**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Chi Zhang et.al.|[2512.21233v1](http://arxiv.org/abs/2512.21233v1)|null|
+|**2025-12-26**|**Explainable Statute Prediction via Attention-based Model and LLM Prompting**|Sachin Pawar et.al.|[2512.21902v1](http://arxiv.org/abs/2512.21902v1)|null|
+|**2025-12-25**|**MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning**|Zishuo Wang et.al.|[2512.21722v1](http://arxiv.org/abs/2512.21722v1)|null|
+|**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714v1](http://arxiv.org/abs/2512.21714v1)|null|
+|**2025-12-25**|**Detecting AI-Generated Paraphrases in Bengali: A Comparative Study of Zero-Shot and Fine-Tuned Transformers**|Md. Rakibul Islam et.al.|[2512.21709v1](http://arxiv.org/abs/2512.21709v1)|null|
+|**2025-12-25**|**Zero-Shot to Zero-Lies: Detecting Bengali Deepfake Audio through Transfer Learning**|Most. Sharmin Sultana Samu et.al.|[2512.21702v1](http://arxiv.org/abs/2512.21702v1)|null|
+|**2025-12-25**|**Enabling Ultra-Fast Cardiovascular Imaging Across Heterogeneous Clinical Environments with a Generalist Foundation Model and Multimodal Database**|Zi Wang et.al.|[2512.21652v1](http://arxiv.org/abs/2512.21652v1)|null|
+|**2025-12-25**|**LogicLens: Visual-Logical Co-Reasoning for Text-Centric Forgery Analysis**|Fanwei Zeng et.al.|[2512.21482v1](http://arxiv.org/abs/2512.21482v1)|null|
+|**2025-12-24**|**EVE: A Generator-Verifier System for Generative Policies**|Yusuf Ali et.al.|[2512.21430v1](http://arxiv.org/abs/2512.21430v1)|null|
+|**2025-12-25**|**UniTacHand: Unified Spatio-Tactile Representation for Human to Robotic Hand Skill Transfer**|Chi Zhang et.al.|[2512.21233v2](http://arxiv.org/abs/2512.21233v2)|null|
 |**2025-12-24**|**Schrödinger's Navigator: Imagining an Ensemble of Futures for Zero-Shot Object Navigation**|Yu He et.al.|[2512.21201v1](http://arxiv.org/abs/2512.21201v1)|null|
 |**2025-12-24**|**A Mechanistic Analysis of Transformers for Dynamical Systems**|Gregory Duthé et.al.|[2512.21113v1](http://arxiv.org/abs/2512.21113v1)|null|
 |**2025-12-24**|**Blurb-Refined Inference from Crowdsourced Book Reviews using Hierarchical Genre Mining with Dual-Path Graph Convolutions**|Suraj Kumar et.al.|[2512.21076v1](http://arxiv.org/abs/2512.21076v1)|null|
@@ -9481,5 +9490,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20251228>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20251229>back to top</a>)</p>
 

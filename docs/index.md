@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**SC-Net: Robust Correspondence Learning via Spatial and Cross-Channel Context**|Shuyuan Lin et.al.|[2512.23473v1](http://arxiv.org/abs/2512.23473v1)|null|
+|**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
+|**2025-12-29**|**MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.23369v1](http://arxiv.org/abs/2512.23369v1)|null|
+|**2025-12-28**|**Differentiable Physics-Driven Human Representation for Millimeter-Wave Based Pose Estimation**|Shuntian Zheng et.al.|[2512.23054v1](http://arxiv.org/abs/2512.23054v1)|null|
+|**2025-12-28**|**PoseStreamer: A Multi-modal Framework for 6DoF Pose Estimation of Unseen Moving Objects**|Huiming Yang et.al.|[2512.22979v1](http://arxiv.org/abs/2512.22979v1)|null|
+|**2025-12-28**|**A Minimal Solver for Relative Pose Estimation with Unknown Focal Length from Two Affine Correspondences**|Zhenbao Yu et.al.|[2512.22833v1](http://arxiv.org/abs/2512.22833v1)|null|
 |**2025-12-26**|**Reloc-VGGT: Visual Re-localization with Geometry Grounded Transformer**|Tianchen Deng et.al.|[2512.21883v1](http://arxiv.org/abs/2512.21883v1)|null|
 |**2025-12-24**|**DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors**|Kaustubh Kundu et.al.|[2512.21054v1](http://arxiv.org/abs/2512.21054v1)|null|
 |**2025-12-23**|**A General Purpose Method for Robotic Interception of Non-Cooperative Dynamic Targets**|Tanmay P. Patel et.al.|[2512.20769v1](http://arxiv.org/abs/2512.20769v1)|null|
@@ -2614,6 +2620,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
 |**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
 |**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
@@ -3165,6 +3172,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-29**|**Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**|Shaocong Xu et.al.|[2512.23705v1](http://arxiv.org/abs/2512.23705v1)|null|
+|**2025-12-29**|**Act2Goal: From World Model To General Goal-conditioned Policy**|Pengfei Zhou et.al.|[2512.23541v1](http://arxiv.org/abs/2512.23541v1)|null|
+|**2025-12-29**|**Towards Integrating Uncertainty for Domain-Agnostic Segmentation**|Jesse Brouwers et.al.|[2512.23427v1](http://arxiv.org/abs/2512.23427v1)|null|
+|**2025-12-29**|**ECG-RAMBA: Zero-Shot ECG Generalization by Morphology-Rhythm Disentanglement and Long-Range Modeling**|Hai Duong Nguyen et.al.|[2512.23347v1](http://arxiv.org/abs/2512.23347v1)|null|
+|**2025-12-29**|**MedGemma vs GPT-4: Open-Source and Proprietary Zero-shot Medical Disease Classification from Images**|Md. Sazzadul Islam Prottasha et.al.|[2512.23304v1](http://arxiv.org/abs/2512.23304v1)|null|
+|**2025-12-28**|**PI-MFM: Physics-informed multimodal foundation model for solving partial differential equations**|Min Zhu et.al.|[2512.23056v1](http://arxiv.org/abs/2512.23056v1)|null|
+|**2025-12-28**|**Problems With Large Language Models for Learner Modelling: Why LLMs Alone Fall Short for Responsible Tutoring in K--12 Education**|Danial Hooshyar et.al.|[2512.23036v1](http://arxiv.org/abs/2512.23036v1)|null|
+|**2025-12-28**|**OpenGround: Active Cognition-based Reasoning for Open-World 3D Visual Grounding**|Wenyuan Huang et.al.|[2512.23020v1](http://arxiv.org/abs/2512.23020v1)|null|
+|**2025-12-28**|**Geometric Structural Knowledge Graph Foundation Model**|Ling Xin et.al.|[2512.22931v1](http://arxiv.org/abs/2512.22931v1)|null|
+|**2025-12-28**|**Depth Anything in $360^\circ$ : Towards Scale Invariance in the Wild**|Hualie Jiang et.al.|[2512.22819v1](http://arxiv.org/abs/2512.22819v1)|null|
 |**2025-12-26**|**Explainable Statute Prediction via Attention-based Model and LLM Prompting**|Sachin Pawar et.al.|[2512.21902v1](http://arxiv.org/abs/2512.21902v1)|null|
 |**2025-12-25**|**MAction-SocialNav: Multi-Action Socially Compliant Navigation via Reasoning-enhanced Prompt Tuning**|Zishuo Wang et.al.|[2512.21722v1](http://arxiv.org/abs/2512.21722v1)|null|
 |**2025-12-25**|**AstraNav-World: World Model for Foresight Control and Consistency**|Junjun Hu et.al.|[2512.21714v1](http://arxiv.org/abs/2512.21714v1)|null|

@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2025.12.31
+## Updated on 2026.01.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System**|Zhehan Li et.al.|[2512.24688v1](http://arxiv.org/abs/2512.24688v1)|null|
+|**2025-12-31**|**LLHA-Net: A Hierarchical Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.24620v1](http://arxiv.org/abs/2512.24620v1)|null|
+|**2025-12-31**|**SliceLens: Fine-Grained and Grounded Error Slice Discovery for Multi-Instance Vision Tasks**|Wei Zhang et.al.|[2512.24592v1](http://arxiv.org/abs/2512.24592v1)|null|
+|**2025-12-30**|**Geometric Multi-Session Map Merging with Learned Local Descriptors**|Yanlong Ma et.al.|[2512.24384v1](http://arxiv.org/abs/2512.24384v1)|null|
+|**2025-12-30**|**Improved 3D Gaussian Splatting of Unknown Spacecraft Structure Using Space Environment Illumination Knowledge**|Tae Ha Park et.al.|[2512.23998v1](http://arxiv.org/abs/2512.23998v1)|null|
+|**2025-12-29**|**Lifelong Domain Adaptive 3D Human Pose Estimation**|Qucheng Peng et.al.|[2512.23860v1](http://arxiv.org/abs/2512.23860v1)|null|
+|**2025-12-29**|**Simultaneous Extrinsic Contact and In-Hand Pose Estimation via Distributed Tactile Sensing**|Mark Van der Merwe et.al.|[2512.23856v1](http://arxiv.org/abs/2512.23856v1)|null|
 |**2025-12-29**|**SC-Net: Robust Correspondence Learning via Spatial and Cross-Channel Context**|Shuyuan Lin et.al.|[2512.23473v1](http://arxiv.org/abs/2512.23473v1)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
 |**2025-12-29**|**MGCA-Net: Multi-Graph Contextual Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.23369v1](http://arxiv.org/abs/2512.23369v1)|null|
@@ -2620,6 +2627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Qian Wang et.al.|[2512.24428v1](http://arxiv.org/abs/2512.24428v1)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
 |**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
 |**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
@@ -2922,6 +2930,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201v1](http://arxiv.org/abs/2512.24201v1)|null|
 |**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882v1](http://arxiv.org/abs/2512.06882v1)|null|
 |**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759v1](http://arxiv.org/abs/2512.05759v1)|null|
 |**2025-12-03**|**OpenTrack3D: Towards Accurate and Generalizable Open-Vocabulary 3D Instance Segmentation**|Zhishan Zhou et.al.|[2512.03532v1](http://arxiv.org/abs/2512.03532v1)|null|
@@ -3172,6 +3181,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-12-31**|**Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints**|Yichen Liu et.al.|[2512.24740v1](http://arxiv.org/abs/2512.24740v1)|null|
+|**2025-12-31**|**Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting**|Kai Ye et.al.|[2512.24702v1](http://arxiv.org/abs/2512.24702v1)|null|
+|**2025-12-31**|**An Adaptive, Disentangled Representation for Multidimensional MRI Reconstruction**|Ruiyang Zhao et.al.|[2512.24674v1](http://arxiv.org/abs/2512.24674v1)|null|
+|**2025-12-31**|**Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space**|Xingwei Qu et.al.|[2512.24617v1](http://arxiv.org/abs/2512.24617v1)|null|
+|**2025-12-31**|**Safe in the Future, Dangerous in the Past: Dissecting Temporal and Linguistic Vulnerabilities in LLMs**|Muhammad Abdullahi Said et.al.|[2512.24556v1](http://arxiv.org/abs/2512.24556v1)|null|
+|**2025-12-31**|**More Than Bits: Multi-Envelope Double Binary Factorization for Extreme Quantization**|Yuma Ichikawa et.al.|[2512.24545v1](http://arxiv.org/abs/2512.24545v1)|null|
+|**2025-12-30**|**Comparing Approaches to Automatic Summarization in Less-Resourced Languages**|Chester Palen-Michel et.al.|[2512.24410v1](http://arxiv.org/abs/2512.24410v1)|null|
+|**2025-12-30**|**UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots**|Nan Jiang et.al.|[2512.24321v1](http://arxiv.org/abs/2512.24321v1)|null|
+|**2025-12-30**|**Automated Analysis of Sustainability Reports: Using Large Language Models for the Extraction and Prediction of EU Taxonomy-Compliant KPIs**|Jonathan Schmoll et.al.|[2512.24289v1](http://arxiv.org/abs/2512.24289v1)|null|
+|**2025-12-30**|**RANGER: A Monocular Zero-Shot Semantic Navigation Framework through Contextual Adaptation**|Ming-Ming Yu et.al.|[2512.24212v1](http://arxiv.org/abs/2512.24212v1)|null|
 |**2025-12-29**|**Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation**|Shaocong Xu et.al.|[2512.23705v1](http://arxiv.org/abs/2512.23705v1)|null|
 |**2025-12-29**|**Act2Goal: From World Model To General Goal-conditioned Policy**|Pengfei Zhou et.al.|[2512.23541v1](http://arxiv.org/abs/2512.23541v1)|null|
 |**2025-12-29**|**Towards Integrating Uncertainty for Domain-Agnostic Segmentation**|Jesse Brouwers et.al.|[2512.23427v1](http://arxiv.org/abs/2512.23427v1)|null|

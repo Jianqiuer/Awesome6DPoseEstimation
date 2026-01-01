@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071v1](http://arxiv.org/abs/2512.25071v1)|null|
+|**2025-12-31**|**FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion**|Dian Shao et.al.|[2512.25067v1](http://arxiv.org/abs/2512.25067v1)|null|
 |**2025-12-31**|**CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System**|Zhehan Li et.al.|[2512.24688v1](http://arxiv.org/abs/2512.24688v1)|null|
 |**2025-12-31**|**LLHA-Net: A Hierarchical Attention Network for Two-View Correspondence Learning**|Shuyuan Lin et.al.|[2512.24620v1](http://arxiv.org/abs/2512.24620v1)|null|
 |**2025-12-31**|**SliceLens: Fine-Grained and Grounded Error Slice Discovery for Multi-Instance Vision Tasks**|Wei Zhang et.al.|[2512.24592v1](http://arxiv.org/abs/2512.24592v1)|null|
@@ -3193,6 +3195,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-31**|**GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction**|Yi-Chuan Huang et.al.|[2512.25073v1](http://arxiv.org/abs/2512.25073v1)|null|
+|**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063v1](http://arxiv.org/abs/2512.25063v1)|null|
+|**2025-12-31**|**Efficiently Estimating Data Efficiency for Language Model Fine-tuning**|Gyung Hyun Je et.al.|[2512.24991v1](http://arxiv.org/abs/2512.24991v1)|null|
+|**2025-12-31**|**VLN-MME: Diagnosing MLLMs as Language-guided Visual Navigation agents**|Xunyi Zhao et.al.|[2512.24851v1](http://arxiv.org/abs/2512.24851v1)|null|
+|**2025-12-31**|**Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow**|Karthik Dharmarajan et.al.|[2512.24766v1](http://arxiv.org/abs/2512.24766v1)|null|
 |**2025-12-31**|**Control of Microrobots with Reinforcement Learning under On-Device Compute Constraints**|Yichen Liu et.al.|[2512.24740v1](http://arxiv.org/abs/2512.24740v1)|null|
 |**2025-12-31**|**Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting**|Kai Ye et.al.|[2512.24702v1](http://arxiv.org/abs/2512.24702v1)|null|
 |**2025-12-31**|**An Adaptive, Disentangled Representation for Multidimensional MRI Reconstruction**|Ruiyang Zhao et.al.|[2512.24674v1](http://arxiv.org/abs/2512.24674v1)|null|

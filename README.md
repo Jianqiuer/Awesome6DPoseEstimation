@@ -1,4 +1,4 @@
-## Updated on 2026.01.04
+## Updated on 2026.01.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625v1](http://arxiv.org/abs/2601.00625v1)|null|
+|**2026-01-02**|**Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework**|Mehdi Heydari Shahna et.al.|[2601.00610v1](http://arxiv.org/abs/2601.00610v1)|null|
+|**2026-01-02**|**NMPC-Augmented Visual Navigation and Safe Learning Control for Large-Scale Mobile Robots**|Mehdi Heydari Shahna et.al.|[2601.00609v1](http://arxiv.org/abs/2601.00609v1)|null|
+|**2026-01-01**|**SV-GS: Sparse View 4D Reconstruction with Skeleton-Driven Gaussian Splatting**|Jun-Jee Chao et.al.|[2601.00285v1](http://arxiv.org/abs/2601.00285v1)|null|
 |**2025-12-31**|**Edit3r: Instant 3D Scene Editing from Sparse Unposed Images**|Jiageng Liu et.al.|[2512.25071v1](http://arxiv.org/abs/2512.25071v1)|null|
 |**2025-12-31**|**FineTec: Fine-Grained Action Recognition Under Temporal Corruption via Skeleton Decomposition and Sequence Completion**|Dian Shao et.al.|[2512.25067v1](http://arxiv.org/abs/2512.25067v1)|null|
 |**2025-12-31**|**CREPES-X: Hierarchical Bearing-Distance-Inertial Direct Cooperative Relative Pose Estimation System**|Zhehan Li et.al.|[2512.24688v1](http://arxiv.org/abs/2512.24688v1)|null|
@@ -2631,7 +2635,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260105>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2936,7 +2940,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260105>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3189,12 +3193,18 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260105>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777v1](http://arxiv.org/abs/2601.00777v1)|null|
+|**2026-01-02**|**A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference**|Qingwen Pu et.al.|[2601.00694v1](http://arxiv.org/abs/2601.00694v1)|null|
+|**2026-01-02**|**GranAlign: Granularity-Aware Alignment Framework for Zero-Shot Video Moment Retrieval**|Mingyu Jeon et.al.|[2601.00584v1](http://arxiv.org/abs/2601.00584v1)|null|
+|**2026-01-02**|**Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios**|Guangqian Guo et.al.|[2601.00537v1](http://arxiv.org/abs/2601.00537v1)|null|
+|**2026-01-01**|**A Comparative Study of Adaptation Strategies for Time Series Foundation Models in Anomaly Detection**|Miseon Park et.al.|[2601.00446v1](http://arxiv.org/abs/2601.00446v1)|null|
+|**2026-01-01**|**TotalFM: An Organ-Separated Framework for 3D-CT Vision Foundation Models**|Kohei Yamamoto et.al.|[2601.00260v1](http://arxiv.org/abs/2601.00260v1)|null|
 |**2025-12-31**|**GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction**|Yi-Chuan Huang et.al.|[2512.25073v1](http://arxiv.org/abs/2512.25073v1)|null|
 |**2025-12-31**|**Many Minds from One Model: Bayesian Transformers for Population Intelligence**|Diji Yang et.al.|[2512.25063v1](http://arxiv.org/abs/2512.25063v1)|null|
 |**2025-12-31**|**Efficiently Estimating Data Efficiency for Language Model Fine-tuning**|Gyung Hyun Je et.al.|[2512.24991v1](http://arxiv.org/abs/2512.24991v1)|null|
@@ -9533,5 +9543,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260104>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260105>back to top</a>)</p>
 

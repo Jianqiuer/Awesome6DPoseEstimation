@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v1](http://arxiv.org/abs/2601.02309v1)|null|
+|**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675v1](http://arxiv.org/abs/2601.01675v1)|null|
 |**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625v1](http://arxiv.org/abs/2601.00625v1)|null|
 |**2026-01-02**|**Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework**|Mehdi Heydari Shahna et.al.|[2601.00610v1](http://arxiv.org/abs/2601.00610v1)|null|
 |**2026-01-02**|**NMPC-Augmented Visual Navigation and Safe Learning Control for Large-Scale Mobile Robots**|Mehdi Heydari Shahna et.al.|[2601.00609v1](http://arxiv.org/abs/2601.00609v1)|null|
@@ -2946,6 +2948,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456v1](http://arxiv.org/abs/2601.01456v1)|null|
 |**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201v1](http://arxiv.org/abs/2512.24201v1)|null|
 |**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882v1](http://arxiv.org/abs/2512.06882v1)|null|
 |**2025-12-05**|**Label-Efficient Point Cloud Segmentation with Active Learning**|Johannes Meyer et.al.|[2512.05759v1](http://arxiv.org/abs/2512.05759v1)|null|
@@ -3199,6 +3202,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-05**|**ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors**|Kaede Shiohara et.al.|[2601.02359v1](http://arxiv.org/abs/2601.02359v1)|null|
+|**2026-01-05**|**CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding**|Chenyang Ma et.al.|[2601.02295v1](http://arxiv.org/abs/2601.02295v1)|null|
+|**2026-01-05**|**TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation**|Salim Khazem et.al.|[2601.02273v1](http://arxiv.org/abs/2601.02273v1)|null|
+|**2026-01-05**|**DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies**|Renke Wang et.al.|[2601.02267v1](http://arxiv.org/abs/2601.02267v1)|null|
+|**2026-01-05**|**ELLA: Efficient Lifelong Learning for Adapters in Large Language Models**|Shristi Das Biswas et.al.|[2601.02232v1](http://arxiv.org/abs/2601.02232v1)|null|
+|**2026-01-05**|**FMVP: Masked Flow Matching for Adversarial Video Purification**|Duoxun Tang et.al.|[2601.02228v1](http://arxiv.org/abs/2601.02228v1)|null|
+|**2026-01-05**|**From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality**|Fabian Lukassen et.al.|[2601.02224v1](http://arxiv.org/abs/2601.02224v1)|null|
+|**2026-01-05**|**BiPrompt: Bilateral Prompt Optimization for Visual and Textual Debiasing in Vision-Language Models**|Sunny Gupta et.al.|[2601.02147v1](http://arxiv.org/abs/2601.02147v1)|null|
+|**2026-01-05**|**Routing by Analogy: kNN-Augmented Expert Assignment for Mixture-of-Experts**|Boxuan Lyu et.al.|[2601.02144v1](http://arxiv.org/abs/2601.02144v1)|null|
+|**2026-01-05**|**Towards Multi-Level Transcript Segmentation: LoRA Fine-Tuning for Table-of-Contents Generation**|Steffen Freisinger et.al.|[2601.02128v1](http://arxiv.org/abs/2601.02128v1)|null|
 |**2026-01-02**|**Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection**|Akanksha Chuchra et.al.|[2601.00777v1](http://arxiv.org/abs/2601.00777v1)|null|
 |**2026-01-02**|**A Vision-and-Knowledge Enhanced Large Language Model for Generalizable Pedestrian Crossing Behavior Inference**|Qingwen Pu et.al.|[2601.00694v1](http://arxiv.org/abs/2601.00694v1)|null|
 |**2026-01-02**|**GranAlign: Granularity-Aware Alignment Framework for Zero-Shot Video Moment Retrieval**|Mingyu Jeon et.al.|[2601.00584v1](http://arxiv.org/abs/2601.00584v1)|null|

@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v1](http://arxiv.org/abs/2601.02730v1)|null|
 |**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v1](http://arxiv.org/abs/2601.02309v1)|null|
 |**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675v1](http://arxiv.org/abs/2601.01675v1)|null|
 |**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625v1](http://arxiv.org/abs/2601.00625v1)|null|
@@ -2643,6 +2644,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups**|Hyungtae Lim et.al.|[2601.02759v1](http://arxiv.org/abs/2601.02759v1)|null|
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Qian Wang et.al.|[2512.24428v1](http://arxiv.org/abs/2512.24428v1)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
 |**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
@@ -3202,6 +3204,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-06**|**PET-TURTLE: Deep Unsupervised Support Vector Machines for Imbalanced Data Clusters**|Javier Salazar Cavazos et.al.|[2601.03237v1](http://arxiv.org/abs/2601.03237v1)|null|
+|**2026-01-06**|**Multi-RADS Synthetic Radiology Report Dataset and Head-to-Head Benchmarking of 41 Open-Weight and Proprietary Language Models**|Kartik Bose et.al.|[2601.03232v1](http://arxiv.org/abs/2601.03232v1)|null|
+|**2026-01-06**|**Segment-Aware Conditioning for Training-Free Intra-Utterance Emotion and Duration Control in Text-to-Speech**|Qifan Liang et.al.|[2601.03170v1](http://arxiv.org/abs/2601.03170v1)|null|
+|**2026-01-06**|**Towards Fine-Grained and Multi-Granular Contrastive Language-Speech Pre-training**|Yifan Yang et.al.|[2601.03065v1](http://arxiv.org/abs/2601.03065v1)|null|
+|**2026-01-06**|**Linear Script Representations in Speech Foundation Models Enable Zero-Shot Transliteration**|Ryan Soh-Eun Shim et.al.|[2601.02906v1](http://arxiv.org/abs/2601.02906v1)|null|
+|**2026-01-06**|**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**|Haoyu Dong et.al.|[2601.02778v1](http://arxiv.org/abs/2601.02778v1)|null|
+|**2026-01-06**|**AnyDepth: Depth Estimation Made Easy**|Zeyu Ren et.al.|[2601.02760v1](http://arxiv.org/abs/2601.02760v1)|null|
+|**2026-01-06**|**Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups**|Hyungtae Lim et.al.|[2601.02759v1](http://arxiv.org/abs/2601.02759v1)|null|
+|**2026-01-06**|**Hierarchical temporal receptive windows and zero-shot timescale generalization in biologically constrained scale-invariant deep networks**|Aakash Sarkar et.al.|[2601.02618v1](http://arxiv.org/abs/2601.02618v1)|null|
 |**2026-01-05**|**ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors**|Kaede Shiohara et.al.|[2601.02359v1](http://arxiv.org/abs/2601.02359v1)|null|
 |**2026-01-05**|**CycleVLA: Proactive Self-Correcting Vision-Language-Action Models via Subtask Backtracking and Minimum Bayes Risk Decoding**|Chenyang Ma et.al.|[2601.02295v1](http://arxiv.org/abs/2601.02295v1)|null|
 |**2026-01-05**|**TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation**|Salim Khazem et.al.|[2601.02273v1](http://arxiv.org/abs/2601.02273v1)|null|

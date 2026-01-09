@@ -1,4 +1,4 @@
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-01-06**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v1](http://arxiv.org/abs/2601.02730v1)|null|
+|**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713v1](http://arxiv.org/abs/2601.03713v1)|null|
+|**2026-01-07**|**TRec: Egocentric Action Recognition using 2D Point Tracks**|Dennis Holzmann et.al.|[2601.03667v1](http://arxiv.org/abs/2601.03667v1)|null|
+|**2026-01-07**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v2](http://arxiv.org/abs/2601.02730v2)|null|
 |**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v1](http://arxiv.org/abs/2601.02309v1)|null|
 |**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675v1](http://arxiv.org/abs/2601.01675v1)|null|
 |**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625v1](http://arxiv.org/abs/2601.00625v1)|null|
@@ -2638,7 +2640,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2944,7 +2946,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3198,12 +3200,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-07**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888v1](http://arxiv.org/abs/2601.03888v1)|null|
+|**2026-01-07**|**Prompt Tuning without Labeled Samples for Zero-Shot Node Classification in Text-Attributed Graphs**|Sethupathy Parameswaran et.al.|[2601.03793v1](http://arxiv.org/abs/2601.03793v1)|null|
+|**2026-01-07**|**CSI-MAE: A Masked Autoencoder-based Channel Foundation Model**|Jun Jiang et.al.|[2601.03789v1](http://arxiv.org/abs/2601.03789v1)|null|
+|**2026-01-07**|**Domain Adaptation of the Pyannote Diarization Pipeline for Conversational Indonesian Audio**|Muhammad Daffa'i Rafi Prasetyo et.al.|[2601.03684v1](http://arxiv.org/abs/2601.03684v1)|null|
+|**2026-01-07**|**ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis**|Haitao Li et.al.|[2601.03632v1](http://arxiv.org/abs/2601.03632v1)|null|
+|**2026-01-07**|**Unveiling Text in Challenging Stone Inscriptions: A Character-Context-Aware Patching Strategy for Binarization**|Pratyush Jena et.al.|[2601.03609v1](http://arxiv.org/abs/2601.03609v1)|null|
+|**2026-01-07**|**ALERT: Zero-shot LLM Jailbreak Detection via Internal Discrepancy Amplification**|Xiao Lin et.al.|[2601.03600v1](http://arxiv.org/abs/2601.03600v1)|null|
+|**2026-01-07**|**From Risk Perception to Behavior Large Language Models-Based Simulation of Pandemic Prevention Behaviors**|Lujia Bo et.al.|[2601.03552v1](http://arxiv.org/abs/2601.03552v1)|null|
+|**2026-01-06**|**Prompting Underestimates LLM Capability for Time Series Classification**|Dan Schumacher et.al.|[2601.03464v1](http://arxiv.org/abs/2601.03464v1)|null|
+|**2026-01-06**|**Soft Contextualized Encoder For User Defined Text Classification**|Charu Maheshwari et.al.|[2601.03450v1](http://arxiv.org/abs/2601.03450v1)|null|
 |**2026-01-06**|**PET-TURTLE: Deep Unsupervised Support Vector Machines for Imbalanced Data Clusters**|Javier Salazar Cavazos et.al.|[2601.03237v1](http://arxiv.org/abs/2601.03237v1)|null|
 |**2026-01-06**|**Multi-RADS Synthetic Radiology Report Dataset and Head-to-Head Benchmarking of 41 Open-Weight and Proprietary Language Models**|Kartik Bose et.al.|[2601.03232v1](http://arxiv.org/abs/2601.03232v1)|null|
 |**2026-01-06**|**Segment-Aware Conditioning for Training-Free Intra-Utterance Emotion and Duration Control in Text-to-Speech**|Qifan Liang et.al.|[2601.03170v1](http://arxiv.org/abs/2601.03170v1)|null|
@@ -9567,5 +9579,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260109>back to top</a>)</p>
 

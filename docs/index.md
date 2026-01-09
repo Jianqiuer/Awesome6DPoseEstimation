@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.01.08
+## Updated on 2026.01.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-01-06**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v1](http://arxiv.org/abs/2601.02730v1)|null|
+|**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713v1](http://arxiv.org/abs/2601.03713v1)|null|
+|**2026-01-07**|**TRec: Egocentric Action Recognition using 2D Point Tracks**|Dennis Holzmann et.al.|[2601.03667v1](http://arxiv.org/abs/2601.03667v1)|null|
+|**2026-01-07**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v2](http://arxiv.org/abs/2601.02730v2)|null|
 |**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v1](http://arxiv.org/abs/2601.02309v1)|null|
 |**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675v1](http://arxiv.org/abs/2601.01675v1)|null|
 |**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625v1](http://arxiv.org/abs/2601.00625v1)|null|
@@ -3192,6 +3194,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-07**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888v1](http://arxiv.org/abs/2601.03888v1)|null|
+|**2026-01-07**|**Prompt Tuning without Labeled Samples for Zero-Shot Node Classification in Text-Attributed Graphs**|Sethupathy Parameswaran et.al.|[2601.03793v1](http://arxiv.org/abs/2601.03793v1)|null|
+|**2026-01-07**|**CSI-MAE: A Masked Autoencoder-based Channel Foundation Model**|Jun Jiang et.al.|[2601.03789v1](http://arxiv.org/abs/2601.03789v1)|null|
+|**2026-01-07**|**Domain Adaptation of the Pyannote Diarization Pipeline for Conversational Indonesian Audio**|Muhammad Daffa'i Rafi Prasetyo et.al.|[2601.03684v1](http://arxiv.org/abs/2601.03684v1)|null|
+|**2026-01-07**|**ReStyle-TTS: Relative and Continuous Style Control for Zero-Shot Speech Synthesis**|Haitao Li et.al.|[2601.03632v1](http://arxiv.org/abs/2601.03632v1)|null|
+|**2026-01-07**|**Unveiling Text in Challenging Stone Inscriptions: A Character-Context-Aware Patching Strategy for Binarization**|Pratyush Jena et.al.|[2601.03609v1](http://arxiv.org/abs/2601.03609v1)|null|
+|**2026-01-07**|**ALERT: Zero-shot LLM Jailbreak Detection via Internal Discrepancy Amplification**|Xiao Lin et.al.|[2601.03600v1](http://arxiv.org/abs/2601.03600v1)|null|
+|**2026-01-07**|**From Risk Perception to Behavior Large Language Models-Based Simulation of Pandemic Prevention Behaviors**|Lujia Bo et.al.|[2601.03552v1](http://arxiv.org/abs/2601.03552v1)|null|
+|**2026-01-06**|**Prompting Underestimates LLM Capability for Time Series Classification**|Dan Schumacher et.al.|[2601.03464v1](http://arxiv.org/abs/2601.03464v1)|null|
+|**2026-01-06**|**Soft Contextualized Encoder For User Defined Text Classification**|Charu Maheshwari et.al.|[2601.03450v1](http://arxiv.org/abs/2601.03450v1)|null|
 |**2026-01-06**|**PET-TURTLE: Deep Unsupervised Support Vector Machines for Imbalanced Data Clusters**|Javier Salazar Cavazos et.al.|[2601.03237v1](http://arxiv.org/abs/2601.03237v1)|null|
 |**2026-01-06**|**Multi-RADS Synthetic Radiology Report Dataset and Head-to-Head Benchmarking of 41 Open-Weight and Proprietary Language Models**|Kartik Bose et.al.|[2601.03232v1](http://arxiv.org/abs/2601.03232v1)|null|
 |**2026-01-06**|**Segment-Aware Conditioning for Training-Free Intra-Utterance Emotion and Duration Control in Text-to-Speech**|Qifan Liang et.al.|[2601.03170v1](http://arxiv.org/abs/2601.03170v1)|null|

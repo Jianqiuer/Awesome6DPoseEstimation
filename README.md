@@ -13,8 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237v1](http://arxiv.org/abs/2601.05237v1)|null|
 |**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713v1](http://arxiv.org/abs/2601.03713v1)|null|
-|**2026-01-07**|**TRec: Egocentric Action Recognition using 2D Point Tracks**|Dennis Holzmann et.al.|[2601.03667v1](http://arxiv.org/abs/2601.03667v1)|null|
+|**2026-01-08**|**TRec: Egocentric Action Recognition using 2D Point Tracks**|Dennis Holzmann et.al.|[2601.03667v2](http://arxiv.org/abs/2601.03667v2)|null|
 |**2026-01-07**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v2](http://arxiv.org/abs/2601.02730v2)|null|
 |**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v1](http://arxiv.org/abs/2601.02309v1)|null|
 |**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675v1](http://arxiv.org/abs/2601.01675v1)|null|
@@ -3206,6 +3207,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-08**|**LELA: an LLM-based Entity Linking Approach with Zero-Shot Domain Adaptation**|Samy Haffoudhi et.al.|[2601.05192v1](http://arxiv.org/abs/2601.05192v1)|null|
+|**2026-01-08**|**Semantically Orthogonal Framework for Citation Classification: Disentangling Intent and Content**|Changxu Duan et.al.|[2601.05103v1](http://arxiv.org/abs/2601.05103v1)|null|
+|**2026-01-08**|**Compositional Steering of Large Language Models with Steering Tokens**|Gorjan Radevski et.al.|[2601.05062v1](http://arxiv.org/abs/2601.05062v1)|null|
+|**2026-01-08**|**Leveraging Prediction Entropy for Automatic Prompt Weighting in Zero-Shot Audio-Language Classification**|Karim El Khoury et.al.|[2601.05011v1](http://arxiv.org/abs/2601.05011v1)|null|
+|**2026-01-08**|**DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation**|Ayush Pande et.al.|[2601.04860v1](http://arxiv.org/abs/2601.04860v1)|null|
+|**2026-01-08**|**MisSpans: Fine-Grained False Span Identification in Cross-Domain Fake News**|Zhiwei Liu et.al.|[2601.04857v1](http://arxiv.org/abs/2601.04857v1)|null|
+|**2026-01-08**|**When AI Settles Down: Late-Stage Stability as a Signature of AI-Generated Text Detection**|Ke Sun et.al.|[2601.04833v1](http://arxiv.org/abs/2601.04833v1)|null|
+|**2026-01-08**|**Detector-Augmented SAMURAI for Long-Duration Drone Tracking**|Tamara R. Lenhard et.al.|[2601.04798v1](http://arxiv.org/abs/2601.04798v1)|null|
+|**2026-01-08**|**Measurement-Consistent Langevin Corrector: A Remedy for Latent Diffusion Inverse Solvers**|Lee Hyoseok et.al.|[2601.04791v1](http://arxiv.org/abs/2601.04791v1)|null|
+|**2026-01-08**|**FlexiVoice: Enabling Flexible Style Control in Zero-Shot TTS with Natural Language Instructions**|Dekun Chen et.al.|[2601.04656v1](http://arxiv.org/abs/2601.04656v1)|null|
 |**2026-01-07**|**IndexTTS 2.5 Technical Report**|Yunpei Li et.al.|[2601.03888v1](http://arxiv.org/abs/2601.03888v1)|null|
 |**2026-01-07**|**Prompt Tuning without Labeled Samples for Zero-Shot Node Classification in Text-Attributed Graphs**|Sethupathy Parameswaran et.al.|[2601.03793v1](http://arxiv.org/abs/2601.03793v1)|null|
 |**2026-01-07**|**CSI-MAE: A Masked Autoencoder-based Channel Foundation Model**|Jun Jiang et.al.|[2601.03789v1](http://arxiv.org/abs/2601.03789v1)|null|

@@ -13,11 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**FlyPose: Towards Robust Human Pose Estimation From Aerial Views**|Hassaan Farooq et.al.|[2601.05747v1](http://arxiv.org/abs/2601.05747v1)|null|
+|**2026-01-09**|**Orient Anything V2: Unifying Orientation and Rotation Understanding**|Zehan Wang et.al.|[2601.05573v1](http://arxiv.org/abs/2601.05573v1)|null|
 |**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237v1](http://arxiv.org/abs/2601.05237v1)|null|
 |**2026-01-07**|**BREATH-VL: Vision-Language-Guided 6-DoF Bronchoscopy Localization via Semantic-Geometric Fusion**|Qingyao Tian et.al.|[2601.03713v1](http://arxiv.org/abs/2601.03713v1)|null|
-|**2026-01-08**|**TRec: Egocentric Action Recognition using 2D Point Tracks**|Dennis Holzmann et.al.|[2601.03667v2](http://arxiv.org/abs/2601.03667v2)|null|
+|**2026-01-09**|**TRec: Learning Hand-Object Interactions through 2D Point Track Motion**|Dennis Holzmann et.al.|[2601.03667v3](http://arxiv.org/abs/2601.03667v3)|null|
 |**2026-01-07**|**HOLO: Homography-Guided Pose Estimator Network for Fine-Grained Visual Localization on SD Maps**|Xuchang Zhong et.al.|[2601.02730v2](http://arxiv.org/abs/2601.02730v2)|null|
-|**2026-01-05**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v1](http://arxiv.org/abs/2601.02309v1)|null|
+|**2026-01-09**|**360DVO: Deep Visual Odometry for Monocular 360-Degree Camera**|Xiaopeng Guo et.al.|[2601.02309v2](http://arxiv.org/abs/2601.02309v2)|null|
 |**2026-01-04**|**VisuoTactile 6D Pose Estimation of an In-Hand Object using Vision and Tactile Sensor Data**|Snehal s. Dikhale et.al.|[2601.01675v1](http://arxiv.org/abs/2601.01675v1)|null|
 |**2026-01-02**|**RePose: A Real-Time 3D Human Pose Estimation and Biomechanical Analysis Framework for Rehabilitation**|Junxiao Xue et.al.|[2601.00625v1](http://arxiv.org/abs/2601.00625v1)|null|
 |**2026-01-02**|**Vision-based Goal-Reaching Control for Mobile Robots Using a Hierarchical Learning Framework**|Mehdi Heydari Shahna et.al.|[2601.00610v1](http://arxiv.org/abs/2601.00610v1)|null|

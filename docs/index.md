@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**FMAC: a Fair Fiducial Marker Accuracy Comparison Software**|Guillaume J. Laurent et.al.|[2601.07723v1](http://arxiv.org/abs/2601.07723v1)|null|
+|**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[2601.07333v1](http://arxiv.org/abs/2601.07333v1)|null|
+|**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Daniel Hong et.al.|[2601.07154v1](http://arxiv.org/abs/2601.07154v1)|null|
+|**2026-01-11**|**MixRI: Mixing Features of Reference Images for Novel Object Pose Estimation**|Xinhang Liu et.al.|[2601.06883v1](http://arxiv.org/abs/2601.06883v1)|null|
+|**2026-01-10**|**Towards Egocentric 3D Hand Pose Estimation in Unseen Domains**|Wiktor Mucha et.al.|[2601.06537v1](http://arxiv.org/abs/2601.06537v1)|null|
 |**2026-01-09**|**FlyPose: Towards Robust Human Pose Estimation From Aerial Views**|Hassaan Farooq et.al.|[2601.05747v1](http://arxiv.org/abs/2601.05747v1)|null|
 |**2026-01-09**|**Orient Anything V2: Unifying Orientation and Rotation Understanding**|Zehan Wang et.al.|[2601.05573v1](http://arxiv.org/abs/2601.05573v1)|null|
 |**2026-01-08**|**ObjectForesight: Predicting Future 3D Object Trajectories from Human Videos**|Rustin Soraki et.al.|[2601.05237v1](http://arxiv.org/abs/2601.05237v1)|null|
@@ -3197,6 +3202,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-12**|**Kinship Data Benchmark for Multi-hop Reasoning**|Tianda Sun et.al.|[2601.07794v1](http://arxiv.org/abs/2601.07794v1)|null|
+|**2026-01-12**|**Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**|Yahya Masri et.al.|[2601.07790v1](http://arxiv.org/abs/2601.07790v1)|null|
+|**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782v1](http://arxiv.org/abs/2601.07782v1)|null|
+|**2026-01-12**|**FlyCo: Foundation Model-Empowered Drones for Autonomous 3D Structure Scanning in Open-World Environments**|Chen Feng et.al.|[2601.07558v1](http://arxiv.org/abs/2601.07558v1)|null|
+|**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[2601.07333v1](http://arxiv.org/abs/2601.07333v1)|null|
+|**2026-01-12**|**AdaMorph: Unified Motion Retargeting via Embodiment-Aware Adaptive Transformers**|Haoyu Zhang et.al.|[2601.07284v1](http://arxiv.org/abs/2601.07284v1)|null|
+|**2026-01-12**|**Document-Level Zero-Shot Relation Extraction with Entity Side Information**|Mohan Raj Chanthran et.al.|[2601.07271v1](http://arxiv.org/abs/2601.07271v1)|null|
+|**2026-01-12**|**DarwinTOD: LLM Driven Lifelong Self Evolution for Task Oriented Dialog Systems**|Shuyu Zhang et.al.|[2601.07248v1](http://arxiv.org/abs/2601.07248v1)|null|
+|**2026-01-12**|**Sentiment Analysis on Movie Reviews: A Deep Dive into Modern Techniques and Open Challenges**|Agnivo Gosai et.al.|[2601.07235v1](http://arxiv.org/abs/2601.07235v1)|null|
+|**2026-01-11**|**MicLog: Towards Accurate and Efficient LLM-based Log Parsing via Progressive Meta In-Context Learning**|Jianbo Yu et.al.|[2601.07005v1](http://arxiv.org/abs/2601.07005v1)|null|
 |**2026-01-09**|**WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation**|Chanchan Wang et.al.|[2601.05942v1](http://arxiv.org/abs/2601.05942v1)|null|
 |**2026-01-09**|**Gender Bias in LLMs: Preliminary Evidence from Shared Parenting Scenario in Czech Family Law**|Jakub Harasta et.al.|[2601.05879v1](http://arxiv.org/abs/2601.05879v1)|null|
 |**2026-01-09**|**CLewR: Curriculum Learning with Restarts for Machine Translation Preference Learning**|Alexandra Dragomir et.al.|[2601.05858v1](http://arxiv.org/abs/2601.05858v1)|null|

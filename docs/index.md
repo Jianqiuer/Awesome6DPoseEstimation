@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248v1](http://arxiv.org/abs/2601.08248v1)|null|
+|**2026-01-12**|**Fiducial Exoskeletons: Image-Centric Robot State Estimation**|Cameron Smith et.al.|[2601.08034v1](http://arxiv.org/abs/2601.08034v1)|null|
 |**2026-01-12**|**FMAC: a Fair Fiducial Marker Accuracy Comparison Software**|Guillaume J. Laurent et.al.|[2601.07723v1](http://arxiv.org/abs/2601.07723v1)|null|
 |**2026-01-12**|**OSCAR: Open-Set CAD Retrieval from a Language Prompt and a Single Image**|Tessa Pulli et.al.|[2601.07333v1](http://arxiv.org/abs/2601.07333v1)|null|
 |**2026-01-12**|**Motion Focus Recognition in Fast-Moving Egocentric Video**|Daniel Hong et.al.|[2601.07154v1](http://arxiv.org/abs/2601.07154v1)|null|
@@ -3202,6 +3204,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-13**|**RAVEN: Erasing Invisible Watermarks via Novel View Synthesis**|Fahad Shamshad et.al.|[2601.08832v1](http://arxiv.org/abs/2601.08832v1)|null|
+|**2026-01-13**|**Near-perfect photo-ID of the Hula painted frog with zero-shot deep local-feature matching**|Maayan Yesharim et.al.|[2601.08798v1](http://arxiv.org/abs/2601.08798v1)|null|
+|**2026-01-13**|**LLMs in Code Vulnerability Analysis: A Proof of Concept**|Shaznin Sultana et.al.|[2601.08691v1](http://arxiv.org/abs/2601.08691v1)|null|
+|**2026-01-13**|**VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory**|Shaoan Wang et.al.|[2601.08665v1](http://arxiv.org/abs/2601.08665v1)|null|
+|**2026-01-13**|**How Order-Sensitive Are LLMs? OrderProbe for Deterministic Structural Reconstruction**|Yingjie He et.al.|[2601.08626v1](http://arxiv.org/abs/2601.08626v1)|null|
+|**2026-01-13**|**GraphSearch: Agentic Search-Augmented Reasoning for Zero-Shot Graph Learning**|Jiajin Liu et.al.|[2601.08621v1](http://arxiv.org/abs/2601.08621v1)|null|
+|**2026-01-13**|**Cross-modal Proxy Evolving for OOD Detection with Vision-Language Models**|Hao Tang et.al.|[2601.08476v1](http://arxiv.org/abs/2601.08476v1)|null|
+|**2026-01-13**|**Zero-Shot Distracted Driver Detection via Vision Language Models with Double Decoupling**|Takamichi Miyata et.al.|[2601.08467v1](http://arxiv.org/abs/2601.08467v1)|null|
+|**2026-01-13**|**CoMa: Contextual Massing Generation with Vision-Language Models**|Evgenii Maslov et.al.|[2601.08464v1](http://arxiv.org/abs/2601.08464v1)|null|
+|**2026-01-13**|**Enhancing Image Quality Assessment Ability of LMMs via Retrieval-Augmented Generation**|Kang Fu et.al.|[2601.08311v1](http://arxiv.org/abs/2601.08311v1)|null|
 |**2026-01-12**|**Kinship Data Benchmark for Multi-hop Reasoning**|Tianda Sun et.al.|[2601.07794v1](http://arxiv.org/abs/2601.07794v1)|null|
 |**2026-01-12**|**Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification**|Yahya Masri et.al.|[2601.07790v1](http://arxiv.org/abs/2601.07790v1)|null|
 |**2026-01-12**|**Beyond Single-Shot: Multi-step Tool Retrieval via Query Planning**|Wei Fang et.al.|[2601.07782v1](http://arxiv.org/abs/2601.07782v1)|null|

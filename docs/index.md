@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698v1](http://arxiv.org/abs/2601.09698v1)|null|
 |**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248v1](http://arxiv.org/abs/2601.08248v1)|null|
 |**2026-01-12**|**Fiducial Exoskeletons: Image-Centric Robot State Estimation**|Cameron Smith et.al.|[2601.08034v1](http://arxiv.org/abs/2601.08034v1)|null|
 |**2026-01-12**|**FMAC: a Fair Fiducial Marker Accuracy Comparison Software**|Guillaume J. Laurent et.al.|[2601.07723v1](http://arxiv.org/abs/2601.07723v1)|null|
@@ -2648,10 +2649,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**|Emmanuele Barberi et.al.|[2601.09601v1](http://arxiv.org/abs/2601.09601v1)|null|
 |**2026-01-06**|**Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups**|Hyungtae Lim et.al.|[2601.02759v1](http://arxiv.org/abs/2601.02759v1)|null|
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Qian Wang et.al.|[2512.24428v1](http://arxiv.org/abs/2512.24428v1)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
-|**2025-12-12**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v1](http://arxiv.org/abs/2512.11354v1)|null|
+|**2026-01-14**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v2](http://arxiv.org/abs/2512.11354v2)|null|
 |**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
@@ -3204,6 +3206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**Empathy Applicability Modeling for General Health Queries**|Shan Randhawa et.al.|[2601.09696v1](http://arxiv.org/abs/2601.09696v1)|null|
+|**2026-01-14**|**Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design**|Lisa Schneckenreiter et.al.|[2601.09693v1](http://arxiv.org/abs/2601.09693v1)|null|
+|**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Aishwarya Agarwal et.al.|[2601.09661v1](http://arxiv.org/abs/2601.09661v1)|null|
+|**2026-01-14**|**Exploring Fine-Tuning for Tabular Foundation Models**|Aditya Tanna et.al.|[2601.09654v1](http://arxiv.org/abs/2601.09654v1)|null|
+|**2026-01-14**|**LLMs Got Rhythm? Hybrid Phonological Filtering for Greek Poetry Rhyme Detection and Generation**|Stergios Chatzikyriakidis et.al.|[2601.09631v1](http://arxiv.org/abs/2601.09631v1)|null|
+|**2026-01-14**|**Late Breaking Results: Quamba-SE: Soft-edge Quantizer for Activations in State Space Models**|Yizhi Chen et.al.|[2601.09451v1](http://arxiv.org/abs/2601.09451v1)|null|
+|**2026-01-14**|**PrivLEX: Detecting legal concepts in images through Vision-Language Models**|Darya Baranouskaya et.al.|[2601.09449v1](http://arxiv.org/abs/2601.09449v1)|null|
+|**2026-01-14**|**Data Scaling for Navigation in Unknown Environments**|Lauri Suomela et.al.|[2601.09444v1](http://arxiv.org/abs/2601.09444v1)|null|
+|**2026-01-14**|**Improving Implicit Hate Speech Detection via a Community-Driven Multi-Agent Framework**|Ewelina Gajewska et.al.|[2601.09342v1](http://arxiv.org/abs/2601.09342v1)|null|
+|**2026-01-14**|**RISER: Orchestrating Latent Reasoning Skills for Adaptive Activation Steering**|Wencheng Ye et.al.|[2601.09269v1](http://arxiv.org/abs/2601.09269v1)|null|
 |**2026-01-13**|**RAVEN: Erasing Invisible Watermarks via Novel View Synthesis**|Fahad Shamshad et.al.|[2601.08832v1](http://arxiv.org/abs/2601.08832v1)|null|
 |**2026-01-13**|**Near-perfect photo-ID of the Hula painted frog with zero-shot deep local-feature matching**|Maayan Yesharim et.al.|[2601.08798v1](http://arxiv.org/abs/2601.08798v1)|null|
 |**2026-01-13**|**LLMs in Code Vulnerability Analysis: A Proof of Concept**|Shaznin Sultana et.al.|[2601.08691v1](http://arxiv.org/abs/2601.08691v1)|null|

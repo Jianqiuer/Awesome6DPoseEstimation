@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments**|Xuweiyi Chen et.al.|[2601.10716v1](http://arxiv.org/abs/2601.10716v1)|null|
 |**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698v1](http://arxiv.org/abs/2601.09698v1)|null|
 |**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248v1](http://arxiv.org/abs/2601.08248v1)|null|
 |**2026-01-12**|**Fiducial Exoskeletons: Image-Centric Robot State Estimation**|Cameron Smith et.al.|[2601.08034v1](http://arxiv.org/abs/2601.08034v1)|null|
@@ -2954,6 +2955,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Ruopeng Huang et.al.|[2601.09920v1](http://arxiv.org/abs/2601.09920v1)|null|
 |**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456v1](http://arxiv.org/abs/2601.01456v1)|null|
 |**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201v1](http://arxiv.org/abs/2512.24201v1)|null|
 |**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882v1](http://arxiv.org/abs/2512.06882v1)|null|
@@ -3206,6 +3208,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[2601.10592v1](http://arxiv.org/abs/2601.10592v1)|null|
+|**2026-01-15**|**ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition**|Arundeep Chinta et.al.|[2601.10591v1](http://arxiv.org/abs/2601.10591v1)|null|
+|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497v1](http://arxiv.org/abs/2601.10497v1)|null|
+|**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477v1](http://arxiv.org/abs/2601.10477v1)|null|
+|**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305v1](http://arxiv.org/abs/2601.10305v1)|null|
+|**2026-01-15**|**CtD: Composition through Decomposition in Emergent Communication**|Boaz Carmeli et.al.|[2601.10169v1](http://arxiv.org/abs/2601.10169v1)|null|
+|**2026-01-15**|**Is More Context Always Better? Examining LLM Reasoning Capability for Time Interval Prediction**|Yanan Cao et.al.|[2601.10132v1](http://arxiv.org/abs/2601.10132v1)|null|
+|**2026-01-15**|**Multilingual-To-Multimodal (M2M): Unlocking New Languages with Monolingual Text**|Piyush Singh Pasi et.al.|[2601.10096v1](http://arxiv.org/abs/2601.10096v1)|null|
+|**2026-01-15**|**Context Volume Drives Performance: Tackling Domain Shift in Extremely Low-Resource Translation via RAG**|David Samuel Setiawan et.al.|[2601.09982v1](http://arxiv.org/abs/2601.09982v1)|null|
 |**2026-01-14**|**Empathy Applicability Modeling for General Health Queries**|Shan Randhawa et.al.|[2601.09696v1](http://arxiv.org/abs/2601.09696v1)|null|
 |**2026-01-14**|**Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design**|Lisa Schneckenreiter et.al.|[2601.09693v1](http://arxiv.org/abs/2601.09693v1)|null|
 |**2026-01-14**|**LiteEmbed: Adapting CLIP to Rare Classes**|Aishwarya Agarwal et.al.|[2601.09661v1](http://arxiv.org/abs/2601.09661v1)|null|

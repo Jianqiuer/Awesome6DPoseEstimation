@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3208,9 +3208,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475v1](http://arxiv.org/abs/2601.11475v1)|null|
+|**2026-01-16**|**Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems**|Jose Sánchez Andreu et.al.|[2601.11415v1](http://arxiv.org/abs/2601.11415v1)|null|
+|**2026-01-16**|**Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs**|Lorenzo Tomada et.al.|[2601.11259v1](http://arxiv.org/abs/2601.11259v1)|null|
+|**2026-01-16**|**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**|Pingzhi Tang et.al.|[2601.11258v1](http://arxiv.org/abs/2601.11258v1)|null|
+|**2026-01-16**|**TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**|Girish A. Koushik et.al.|[2601.11178v1](http://arxiv.org/abs/2601.11178v1)|null|
+|**2026-01-16**|**Are Universal Potentials Ready for Alkali-Ion Battery Kinetics?**|Xingyu Guo et.al.|[2601.10938v1](http://arxiv.org/abs/2601.10938v1)|null|
+|**2026-01-16**|**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**|Zhixian Xie et.al.|[2601.10930v1](http://arxiv.org/abs/2601.10930v1)|null|
 |**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[2601.10592v1](http://arxiv.org/abs/2601.10592v1)|null|
 |**2026-01-15**|**ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition**|Arundeep Chinta et.al.|[2601.10591v1](http://arxiv.org/abs/2601.10591v1)|null|
-|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497v1](http://arxiv.org/abs/2601.10497v1)|null|
+|**2026-01-16**|**MERGETUNE: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497v2](http://arxiv.org/abs/2601.10497v2)|null|
 |**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477v1](http://arxiv.org/abs/2601.10477v1)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305v1](http://arxiv.org/abs/2601.10305v1)|null|
 |**2026-01-15**|**CtD: Composition through Decomposition in Emergent Communication**|Boaz Carmeli et.al.|[2601.10169v1](http://arxiv.org/abs/2601.10169v1)|null|

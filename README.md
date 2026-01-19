@@ -1,4 +1,4 @@
-## Updated on 2026.01.18
+## Updated on 2026.01.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2652,7 +2652,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260119>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2959,7 +2959,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260119>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3214,15 +3214,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260119>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475v1](http://arxiv.org/abs/2601.11475v1)|null|
+|**2026-01-16**|**Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems**|Jose Sánchez Andreu et.al.|[2601.11415v1](http://arxiv.org/abs/2601.11415v1)|null|
+|**2026-01-16**|**Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs**|Lorenzo Tomada et.al.|[2601.11259v1](http://arxiv.org/abs/2601.11259v1)|null|
+|**2026-01-16**|**Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation**|Pingzhi Tang et.al.|[2601.11258v1](http://arxiv.org/abs/2601.11258v1)|null|
+|**2026-01-16**|**TANDEM: Temporal-Aware Neural Detection for Multimodal Hate Speech**|Girish A. Koushik et.al.|[2601.11178v1](http://arxiv.org/abs/2601.11178v1)|null|
+|**2026-01-16**|**Are Universal Potentials Ready for Alkali-Ion Battery Kinetics?**|Xingyu Guo et.al.|[2601.10938v1](http://arxiv.org/abs/2601.10938v1)|null|
+|**2026-01-16**|**Where to Touch, How to Contact: Hierarchical RL-MPC Framework for Geometry-Aware Long-Horizon Dexterous Manipulation**|Zhixian Xie et.al.|[2601.10930v1](http://arxiv.org/abs/2601.10930v1)|null|
 |**2026-01-15**|**Action100M: A Large-scale Video Action Dataset**|Delong Chen et.al.|[2601.10592v1](http://arxiv.org/abs/2601.10592v1)|null|
 |**2026-01-15**|**ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition**|Arundeep Chinta et.al.|[2601.10591v1](http://arxiv.org/abs/2601.10591v1)|null|
-|**2026-01-15**|**mergetune: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497v1](http://arxiv.org/abs/2601.10497v1)|null|
+|**2026-01-16**|**MERGETUNE: Continued fine-tuning of vision-language models**|Wenqing Wang et.al.|[2601.10497v2](http://arxiv.org/abs/2601.10497v2)|null|
 |**2026-01-15**|**Urban Socio-Semantic Segmentation with Vision-Language Reasoning**|Yu Wang et.al.|[2601.10477v1](http://arxiv.org/abs/2601.10477v1)|null|
 |**2026-01-15**|**DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset**|Hengyu Shen et.al.|[2601.10305v1](http://arxiv.org/abs/2601.10305v1)|null|
 |**2026-01-15**|**CtD: Composition through Decomposition in Emergent Communication**|Boaz Carmeli et.al.|[2601.10169v1](http://arxiv.org/abs/2601.10169v1)|null|
@@ -9651,5 +9658,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260118>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260119>back to top</a>)</p>
 

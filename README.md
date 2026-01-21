@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**On the Role of Rotation Equivariance in Monocular 3D Human Pose Estimation**|Pavlo Melnyk et.al.|[2601.13913v1](http://arxiv.org/abs/2601.13913v1)|null|
+|**2026-01-20**|**DroneVLA: VLA based Aerial Manipulation**|Fawad Mehboob et.al.|[2601.13809v1](http://arxiv.org/abs/2601.13809v1)|null|
+|**2026-01-20**|**Learning Fine-Grained Correspondence with Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation**|Yu Qin et.al.|[2601.13565v1](http://arxiv.org/abs/2601.13565v1)|null|
+|**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252v1](http://arxiv.org/abs/2601.13252v1)|null|
+|**2026-01-19**|**Diffusion-based Inverse Model of a Distributed Tactile Sensor for Object Pose Estimation**|Ante Marić et.al.|[2601.13250v1](http://arxiv.org/abs/2601.13250v1)|null|
+|**2026-01-18**|**Breaking Coordinate Overfitting: Geometry-Aware WiFi Sensing for Cross-Layout 3D Pose Estimation**|Songming Jia et.al.|[2601.12252v1](http://arxiv.org/abs/2601.12252v1)|null|
+|**2026-01-17**|**Detecting 3D Line Segments for 6DoF Pose Estimation with Limited Data**|Matej Mok et.al.|[2601.12090v1](http://arxiv.org/abs/2601.12090v1)|null|
 |**2026-01-15**|**WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments**|Xuweiyi Chen et.al.|[2601.10716v1](http://arxiv.org/abs/2601.10716v1)|null|
 |**2026-01-14**|**COMPOSE: Hypergraph Cover Optimization for Multi-view 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2601.09698v1](http://arxiv.org/abs/2601.09698v1)|null|
 |**2026-01-13**|**Spiking Neural-Invariant Kalman Fusion for Accurate Localization Using Low-Cost IMUs**|Yaohua Liu et.al.|[2601.08248v1](http://arxiv.org/abs/2601.08248v1)|null|
@@ -2965,6 +2972,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524v1](http://arxiv.org/abs/2601.12524v1)|null|
 |**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Ruopeng Huang et.al.|[2601.09920v1](http://arxiv.org/abs/2601.09920v1)|null|
 |**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456v1](http://arxiv.org/abs/2601.01456v1)|null|
 |**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201v1](http://arxiv.org/abs/2512.24201v1)|null|
@@ -3220,6 +3228,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255v1](http://arxiv.org/abs/2601.14255v1)|null|
+|**2026-01-20**|**Copy-Trasform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints**|Rotem Gatenyo et.al.|[2601.14207v1](http://arxiv.org/abs/2601.14207v1)|null|
+|**2026-01-20**|**Zero-shot adaptable task planning for autonomous construction robots: a comparative study of lightweight single and multi-AI agent systems**|Hossein Naderi et.al.|[2601.14091v1](http://arxiv.org/abs/2601.14091v1)|null|
+|**2026-01-20**|**Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration**|Yongcong Ye et.al.|[2601.14060v1](http://arxiv.org/abs/2601.14060v1)|null|
+|**2026-01-20**|**Vision Also You Need: Navigating Out-of-Distribution Detection with Multimodal Large Language Model**|Haoran Xu et.al.|[2601.14052v1](http://arxiv.org/abs/2601.14052v1)|null|
+|**2026-01-20**|**Audio Outperforms Text for Visual Decoding**|Zhengdi Zhang et.al.|[2601.13866v1](http://arxiv.org/abs/2601.13866v1)|null|
+|**2026-01-20**|**PREGEN: Uncovering Latent Thoughts in Composed Video Retrieval**|Gabriele Serussi et.al.|[2601.13797v1](http://arxiv.org/abs/2601.13797v1)|null|
+|**2026-01-20**|**TransMode-LLM: Feature-Informed Natural Language Modeling with Domain-Enhanced Prompting for Travel Behavior Modeling**|Meijing Zhang et.al.|[2601.13763v1](http://arxiv.org/abs/2601.13763v1)|null|
+|**2026-01-20**|**GerAV: Towards New Heights in German Authorship Verification using Fine-Tuned LLMs on a New Benchmark**|Lotta Kiefer et.al.|[2601.13711v1](http://arxiv.org/abs/2601.13711v1)|null|
+|**2026-01-20**|**Who Should Have Surgery? A Comparative Study of GenAI vs Supervised ML for CRS Surgical Outcome Prediction**|Sayeed Shafayet Chowdhury et.al.|[2601.13710v1](http://arxiv.org/abs/2601.13710v1)|null|
 |**2026-01-16**|**Generative Scenario Rollouts for End-to-End Autonomous Driving**|Rajeev Yasarla et.al.|[2601.11475v1](http://arxiv.org/abs/2601.11475v1)|null|
 |**2026-01-16**|**Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems**|Jose Sánchez Andreu et.al.|[2601.11415v1](http://arxiv.org/abs/2601.11415v1)|null|
 |**2026-01-16**|**Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs**|Lorenzo Tomada et.al.|[2601.11259v1](http://arxiv.org/abs/2601.11259v1)|null|

@@ -13,8 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**BBoxMaskPose v2: Expanding Mutual Conditioning to 3D**|Miroslav Purkrabek et.al.|[2601.15200v1](http://arxiv.org/abs/2601.15200v1)|null|
+|**2026-01-21**|**On-the-fly hand-eye calibration for the da Vinci surgical robot**|Zejian Cui et.al.|[2601.14871v1](http://arxiv.org/abs/2601.14871v1)|null|
 |**2026-01-20**|**On the Role of Rotation Equivariance in Monocular 3D Human Pose Estimation**|Pavlo Melnyk et.al.|[2601.13913v1](http://arxiv.org/abs/2601.13913v1)|null|
-|**2026-01-20**|**DroneVLA: VLA based Aerial Manipulation**|Fawad Mehboob et.al.|[2601.13809v1](http://arxiv.org/abs/2601.13809v1)|null|
+|**2026-01-21**|**DroneVLA: VLA based Aerial Manipulation**|Fawad Mehboob et.al.|[2601.13809v2](http://arxiv.org/abs/2601.13809v2)|null|
 |**2026-01-20**|**Learning Fine-Grained Correspondence with Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation**|Yu Qin et.al.|[2601.13565v1](http://arxiv.org/abs/2601.13565v1)|null|
 |**2026-01-19**|**Autonomous Navigation at the Nano-Scale: Algorithms, Architectures, and Constraints**|Mahmud S. Zango et.al.|[2601.13252v1](http://arxiv.org/abs/2601.13252v1)|null|
 |**2026-01-19**|**Diffusion-based Inverse Model of a Distributed Tactile Sensor for Object Pose Estimation**|Ante Marić et.al.|[2601.13250v1](http://arxiv.org/abs/2601.13250v1)|null|
@@ -3228,6 +3230,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-21**|**Lightweight LLMs for Network Attack Detection in IoT Networks**|Piyumi Bhagya Sudasinghe et.al.|[2601.15269v1](http://arxiv.org/abs/2601.15269v1)|null|
+|**2026-01-21**|**Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning**|Yuval Kansal et.al.|[2601.15160v1](http://arxiv.org/abs/2601.15160v1)|null|
+|**2026-01-21**|**WavLink: Compact Audio--Text Embeddings with a Global Whisper Token**|Gokul Karthik Kumar et.al.|[2601.15118v1](http://arxiv.org/abs/2601.15118v1)|null|
+|**2026-01-21**|**Field-Space Autoencoder for Scalable Climate Emulators**|Johannes Meuer et.al.|[2601.15102v1](http://arxiv.org/abs/2601.15102v1)|null|
+|**2026-01-21**|**The Pictorial Cortex: Zero-Shot Cross-Subject fMRI-to-Image Reconstruction via Compositional Latent Modeling**|Jingyang Huo et.al.|[2601.15071v1](http://arxiv.org/abs/2601.15071v1)|null|
+|**2026-01-21**|**Improving Regret Approximation for Unsupervised Dynamic Environment Generation**|Harry Mead et.al.|[2601.14957v1](http://arxiv.org/abs/2601.14957v1)|null|
+|**2026-01-21**|**Measuring and Aligning Abstraction in Vision-Language Models with Medical Taxonomies**|Ben Schaper et.al.|[2601.14827v1](http://arxiv.org/abs/2601.14827v1)|null|
+|**2026-01-21**|**FunCineForge: A Unified Dataset Toolkit and Model for Zero-Shot Movie Dubbing in Diverse Cinematic Scenes**|Jiaxuan Liu et.al.|[2601.14777v1](http://arxiv.org/abs/2601.14777v1)|null|
+|**2026-01-21**|**ReinPath: A Multimodal Reinforcement Learning Approach for Pathology**|Kangcheng Zhou et.al.|[2601.14757v1](http://arxiv.org/abs/2601.14757v1)|null|
+|**2026-01-21**|**Forest-Chat: Adapting Vision-Language Agents for Interactive Forest Change Analysis**|James Brock et.al.|[2601.14637v1](http://arxiv.org/abs/2601.14637v1)|null|
 |**2026-01-20**|**VideoMaMa: Mask-Guided Video Matting via Generative Prior**|Sangbeom Lim et.al.|[2601.14255v1](http://arxiv.org/abs/2601.14255v1)|null|
 |**2026-01-20**|**Copy-Trasform-Paste: Zero-Shot Object-Object Alignment Guided by Vision-Language and Geometric Constraints**|Rotem Gatenyo et.al.|[2601.14207v1](http://arxiv.org/abs/2601.14207v1)|null|
 |**2026-01-20**|**Zero-shot adaptable task planning for autonomous construction robots: a comparative study of lightweight single and multi-AI agent systems**|Hossein Naderi et.al.|[2601.14091v1](http://arxiv.org/abs/2601.14091v1)|null|

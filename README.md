@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020v1](http://arxiv.org/abs/2601.16020v1)|null|
+|**2026-01-22**|**A Multi-View Pipeline and Benchmark Dataset for 3D Hand Pose Estimation in Surgery**|Valery Fischer et.al.|[2601.15918v1](http://arxiv.org/abs/2601.15918v1)|null|
+|**2026-01-22**|**TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing**|Toan Gian et.al.|[2601.15838v1](http://arxiv.org/abs/2601.15838v1)|null|
+|**2026-01-21**|**DeltaDorsal: Enhancing Hand Pose Estimation with Dorsal Features in Egocentric Views**|William Huang et.al.|[2601.15516v1](http://arxiv.org/abs/2601.15516v1)|null|
 |**2026-01-21**|**BBoxMaskPose v2: Expanding Mutual Conditioning to 3D**|Miroslav Purkrabek et.al.|[2601.15200v1](http://arxiv.org/abs/2601.15200v1)|null|
 |**2026-01-21**|**On-the-fly hand-eye calibration for the da Vinci surgical robot**|Zejian Cui et.al.|[2601.14871v1](http://arxiv.org/abs/2601.14871v1)|null|
 |**2026-01-20**|**On the Role of Rotation Equivariance in Monocular 3D Human Pose Estimation**|Pavlo Melnyk et.al.|[2601.13913v1](http://arxiv.org/abs/2601.13913v1)|null|
@@ -3230,6 +3234,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212v1](http://arxiv.org/abs/2601.16212v1)|null|
+|**2026-01-22**|**Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition**|Geo Ahn et.al.|[2601.16211v1](http://arxiv.org/abs/2601.16211v1)|null|
+|**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v1](http://arxiv.org/abs/2601.16210v1)|null|
+|**2026-01-22**|**360Anything: Geometry-Free Lifting of Images and Videos to 360°**|Ziyi Wu et.al.|[2601.16192v1](http://arxiv.org/abs/2601.16192v1)|null|
+|**2026-01-22**|**Grounding Large Language Models in Reaction Knowledge Graphs for Synthesis Retrieval**|Olga Bunkova et.al.|[2601.16038v1](http://arxiv.org/abs/2601.16038v1)|null|
+|**2026-01-22**|**The Latency Wall: Benchmarking Off-the-Shelf Emotion Recognition for Real-Time Virtual Avatars**|Yarin Benyamin et.al.|[2601.15914v1](http://arxiv.org/abs/2601.15914v1)|null|
+|**2026-01-22**|**LL-GaussianImage: Efficient Image Representation for Zero-shot Low-Light Enhancement with 2D Gaussian Splatting**|Yuhan Chen et.al.|[2601.15772v1](http://arxiv.org/abs/2601.15772v1)|null|
+|**2026-01-22**|**LL-GaussianMap: Zero-shot Low-Light Image Enhancement via 2D Gaussian Splatting Guided Gain Maps**|Yuhan Chen et.al.|[2601.15766v1](http://arxiv.org/abs/2601.15766v1)|null|
+|**2026-01-22**|**Zero-Shot Product Attribute Labeling with Vision-Language Models: A Three-Tier Evaluation Framework**|Shubham Shukla et.al.|[2601.15711v1](http://arxiv.org/abs/2601.15711v1)|null|
+|**2026-01-22**|**Persona Switch: Mixing Distinct Perspectives in Decoding Time**|Junseok Kim et.al.|[2601.15708v1](http://arxiv.org/abs/2601.15708v1)|null|
 |**2026-01-21**|**Lightweight LLMs for Network Attack Detection in IoT Networks**|Piyumi Bhagya Sudasinghe et.al.|[2601.15269v1](http://arxiv.org/abs/2601.15269v1)|null|
 |**2026-01-21**|**Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning**|Yuval Kansal et.al.|[2601.15160v1](http://arxiv.org/abs/2601.15160v1)|null|
 |**2026-01-21**|**WavLink: Compact Audio--Text Embeddings with a Global Whisper Token**|Gokul Karthik Kumar et.al.|[2601.15118v1](http://arxiv.org/abs/2601.15118v1)|null|

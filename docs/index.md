@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.01.25
+## Updated on 2026.01.26
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885v1](http://arxiv.org/abs/2601.16885v1)|null|
+|**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763v1](http://arxiv.org/abs/2601.16763v1)|null|
 |**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020v1](http://arxiv.org/abs/2601.16020v1)|null|
 |**2026-01-22**|**A Multi-View Pipeline and Benchmark Dataset for 3D Hand Pose Estimation in Surgery**|Valery Fischer et.al.|[2601.15918v1](http://arxiv.org/abs/2601.15918v1)|null|
 |**2026-01-22**|**TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing**|Toan Gian et.al.|[2601.15838v1](http://arxiv.org/abs/2601.15838v1)|null|
@@ -3222,6 +3224,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982v1](http://arxiv.org/abs/2601.16982v1)|null|
+|**2026-01-23**|**SyncLight: Controllable and Consistent Multi-View Relighting**|David Serrano-Lozano et.al.|[2601.16981v1](http://arxiv.org/abs/2601.16981v1)|null|
+|**2026-01-23**|**Evaluating Large Vision-language Models for Surgical Tool Detection**|Nakul Poudel et.al.|[2601.16895v1](http://arxiv.org/abs/2601.16895v1)|null|
+|**2026-01-23**|**Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation**|Lucía Güitta-López et.al.|[2601.16677v1](http://arxiv.org/abs/2601.16677v1)|null|
+|**2026-01-23**|**Typologically Informed Parameter Aggregation**|Stef Accou et.al.|[2601.16629v1](http://arxiv.org/abs/2601.16629v1)|null|
+|**2026-01-23**|**X-Aligner: Composed Visual Retrieval without the Bells and Whistles**|Yuqian Zheng et.al.|[2601.16582v1](http://arxiv.org/abs/2601.16582v1)|null|
+|**2026-01-23**|**Zero-Shot MARL Benchmark in the Cyber-Physical Mobility Lab**|Julius Beerwerth et.al.|[2601.16578v1](http://arxiv.org/abs/2601.16578v1)|null|
+|**2026-01-23**|**LLM is Not All You Need: A Systematic Evaluation of ML vs. Foundation Models for text and image based Medical Classification**|Meet Raval et.al.|[2601.16549v1](http://arxiv.org/abs/2601.16549v1)|null|
+|**2026-01-23**|**AnchoredDream: Zero-Shot 360° Indoor Scene Generation from a Single View via Geometric Grounding**|Runmao Yao et.al.|[2601.16532v1](http://arxiv.org/abs/2601.16532v1)|null|
+|**2026-01-23**|**Curate-Train-Refine: A Closed-Loop Agentic Framework for Zero Shot Classification**|Gaurav Maheshwari et.al.|[2601.16530v1](http://arxiv.org/abs/2601.16530v1)|null|
 |**2026-01-22**|**Point Bridge: 3D Representations for Cross Domain Policy Learning**|Siddhant Haldar et.al.|[2601.16212v1](http://arxiv.org/abs/2601.16212v1)|null|
 |**2026-01-22**|**Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition**|Geo Ahn et.al.|[2601.16211v1](http://arxiv.org/abs/2601.16211v1)|null|
 |**2026-01-22**|**PyraTok: Language-Aligned Pyramidal Tokenizer for Video Understanding and Generation**|Onkar Susladkar et.al.|[2601.16210v1](http://arxiv.org/abs/2601.16210v1)|null|

@@ -16,12 +16,12 @@
 |**2026-01-24**|**ME-WARD: A multimodal ergonomic analysis tool for musculoskeletal risk assessment from inertial and video data in working plac**|Javier González-Alonso et.al.|[2601.17571v1](http://arxiv.org/abs/2601.17571v1)|null|
 |**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556v1](http://arxiv.org/abs/2601.17556v1)|null|
 |**2026-01-24**|**TOSHFA: A Mobile VR-Based System for Pose-Guided Exercise Rehabilitation for Low Back Pain**|Amin Mohamed et.al.|[2601.17553v1](http://arxiv.org/abs/2601.17553v1)|null|
-|**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885v1](http://arxiv.org/abs/2601.16885v1)|null|
+|**2026-01-26**|**GPA-VGGT:Adapting VGGT to Large Scale Localization by Self-Supervised Learning with Geometry and Physics Aware Loss**|Yangfan Xu et.al.|[2601.16885v2](http://arxiv.org/abs/2601.16885v2)|null|
 |**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763v1](http://arxiv.org/abs/2601.16763v1)|null|
 |**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020v1](http://arxiv.org/abs/2601.16020v1)|null|
 |**2026-01-22**|**A Multi-View Pipeline and Benchmark Dataset for 3D Hand Pose Estimation in Surgery**|Valery Fischer et.al.|[2601.15918v1](http://arxiv.org/abs/2601.15918v1)|null|
 |**2026-01-22**|**TinySense: Effective CSI Compression for Scalable and Accurate Wi-Fi Sensing**|Toan Gian et.al.|[2601.15838v1](http://arxiv.org/abs/2601.15838v1)|null|
-|**2026-01-21**|**DeltaDorsal: Enhancing Hand Pose Estimation with Dorsal Features in Egocentric Views**|William Huang et.al.|[2601.15516v1](http://arxiv.org/abs/2601.15516v1)|null|
+|**2026-01-26**|**DeltaDorsal: Enhancing Hand Pose Estimation with Dorsal Features in Egocentric Views**|William Huang et.al.|[2601.15516v2](http://arxiv.org/abs/2601.15516v2)|null|
 |**2026-01-21**|**BBoxMaskPose v2: Expanding Mutual Conditioning to 3D**|Miroslav Purkrabek et.al.|[2601.15200v1](http://arxiv.org/abs/2601.15200v1)|null|
 |**2026-01-21**|**On-the-fly hand-eye calibration for the da Vinci surgical robot**|Zejian Cui et.al.|[2601.14871v1](http://arxiv.org/abs/2601.14871v1)|null|
 |**2026-01-20**|**On the Role of Rotation Equivariance in Monocular 3D Human Pose Estimation**|Pavlo Melnyk et.al.|[2601.13913v1](http://arxiv.org/abs/2601.13913v1)|null|
@@ -3239,6 +3239,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323v1](http://arxiv.org/abs/2601.18323v1)|null|
+|**2026-01-26**|**HeterCSI: Channel-Adaptive Heterogeneous CSI Pretraining Framework for Generalized Wireless Foundation Models**|Chenyu Zhang et.al.|[2601.18200v1](http://arxiv.org/abs/2601.18200v1)|null|
+|**2026-01-26**|**Deadline-Aware, Energy-Efficient Control of Domestic Immersion Hot Water Heaters**|Muhammad Ibrahim Khan et.al.|[2601.18123v1](http://arxiv.org/abs/2601.18123v1)|null|
+|**2026-01-26**|**OneVoice: One Model, Triple Scenarios-Towards Unified Zero-shot Voice Conversion**|Zhichao Wang et.al.|[2601.18094v1](http://arxiv.org/abs/2601.18094v1)|null|
 |**2026-01-25**|**MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing**|Haoxuan Ma et.al.|[2601.17814v1](http://arxiv.org/abs/2601.17814v1)|null|
 |**2026-01-25**|**LegalMALR:Multi-Agent Query Understanding and LLM-Based Reranking for Chinese Statute Retrieval**|Yunhan Li et.al.|[2601.17692v1](http://arxiv.org/abs/2601.17692v1)|null|
 |**2026-01-24**|**Will It Zero-Shot?: Will It Zero-Shot?: Predicting Zero-Shot Classification Performance For Arbitrary Queries**|Kevin Robbins et.al.|[2601.17535v1](http://arxiv.org/abs/2601.17535v1)|null|

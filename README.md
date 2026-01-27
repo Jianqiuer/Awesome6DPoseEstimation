@@ -1,4 +1,4 @@
-## Updated on 2026.01.26
+## Updated on 2026.01.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-24**|**ME-WARD: A multimodal ergonomic analysis tool for musculoskeletal risk assessment from inertial and video data in working plac**|Javier González-Alonso et.al.|[2601.17571v1](http://arxiv.org/abs/2601.17571v1)|null|
+|**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556v1](http://arxiv.org/abs/2601.17556v1)|null|
+|**2026-01-24**|**TOSHFA: A Mobile VR-Based System for Pose-Guided Exercise Rehabilitation for Low Back Pain**|Amin Mohamed et.al.|[2601.17553v1](http://arxiv.org/abs/2601.17553v1)|null|
 |**2026-01-23**|**GPA-VGGT:Adapting VGGT to Large scale Localization by self-Supervised learning with Geometry and Physics Aware loss**|Yangfan Xu et.al.|[2601.16885v1](http://arxiv.org/abs/2601.16885v1)|null|
 |**2026-01-23**|**Flow Matching for Probabilistic Monocular 3D Human Pose Estimation**|Cuong Le et.al.|[2601.16763v1](http://arxiv.org/abs/2601.16763v1)|null|
 |**2026-01-22**|**Keyframe-Based Feed-Forward Visual Odometry**|Weichen Dai et.al.|[2601.16020v1](http://arxiv.org/abs/2601.16020v1)|null|
@@ -2667,7 +2670,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260127>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2974,7 +2977,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260127>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3230,12 +3233,17 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260127>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-25**|**MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing**|Haoxuan Ma et.al.|[2601.17814v1](http://arxiv.org/abs/2601.17814v1)|null|
+|**2026-01-25**|**LegalMALR:Multi-Agent Query Understanding and LLM-Based Reranking for Chinese Statute Retrieval**|Yunhan Li et.al.|[2601.17692v1](http://arxiv.org/abs/2601.17692v1)|null|
+|**2026-01-24**|**Will It Zero-Shot?: Will It Zero-Shot?: Predicting Zero-Shot Classification Performance For Arbitrary Queries**|Kevin Robbins et.al.|[2601.17535v1](http://arxiv.org/abs/2601.17535v1)|null|
+|**2026-01-24**|**Auditing Disability Representation in Vision-Language Models**|Srikant Panda et.al.|[2601.17348v1](http://arxiv.org/abs/2601.17348v1)|null|
+|**2026-01-23**|**Implementing Tensor Logic: Unifying Datalog and Neural Reasoning via Tensor Contraction**|Swapn Shah et.al.|[2601.17188v1](http://arxiv.org/abs/2601.17188v1)|null|
 |**2026-01-23**|**AnyView: Synthesizing Any Novel View in Dynamic Scenes**|Basile Van Hoorick et.al.|[2601.16982v1](http://arxiv.org/abs/2601.16982v1)|null|
 |**2026-01-23**|**SyncLight: Controllable and Consistent Multi-View Relighting**|David Serrano-Lozano et.al.|[2601.16981v1](http://arxiv.org/abs/2601.16981v1)|null|
 |**2026-01-23**|**Evaluating Large Vision-language Models for Surgical Tool Detection**|Nakul Poudel et.al.|[2601.16895v1](http://arxiv.org/abs/2601.16895v1)|null|
@@ -9714,5 +9722,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260126>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260127>back to top</a>)</p>
 

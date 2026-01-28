@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580v1](http://arxiv.org/abs/2601.19580v1)|null|
+|**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929v1](http://arxiv.org/abs/2601.18929v1)|null|
 |**2026-01-24**|**ME-WARD: A multimodal ergonomic analysis tool for musculoskeletal risk assessment from inertial and video data in working plac**|Javier González-Alonso et.al.|[2601.17571v1](http://arxiv.org/abs/2601.17571v1)|null|
 |**2026-01-24**|**Correct-by-Construction Vision-based Pose Estimation using Geometric Generative Models**|Ulices Santa Cruz et.al.|[2601.17556v1](http://arxiv.org/abs/2601.17556v1)|null|
 |**2026-01-24**|**TOSHFA: A Mobile VR-Based System for Pose-Guided Exercise Rehabilitation for Low Back Pain**|Amin Mohamed et.al.|[2601.17553v1](http://arxiv.org/abs/2601.17553v1)|null|
@@ -2973,6 +2975,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Resolving Primitive-Sharing Ambiguity in Long-Tailed Industrial Point Cloud Segmentation via Spatial Context Constraints**|Chao Yin et.al.|[2601.19128v1](http://arxiv.org/abs/2601.19128v1)|null|
 |**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524v1](http://arxiv.org/abs/2601.12524v1)|null|
 |**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Ruopeng Huang et.al.|[2601.09920v1](http://arxiv.org/abs/2601.09920v1)|null|
 |**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456v1](http://arxiv.org/abs/2601.01456v1)|null|
@@ -3227,6 +3230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-27**|**Neural Neural Scaling Laws**|Michael Y. Hu et.al.|[2601.19831v1](http://arxiv.org/abs/2601.19831v1)|null|
+|**2026-01-27**|**Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals**|Octavio Pappalardo et.al.|[2601.19810v1](http://arxiv.org/abs/2601.19810v1)|null|
+|**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802v1](http://arxiv.org/abs/2601.19802v1)|null|
+|**2026-01-27**|**Towards Gold-Standard Depth Estimation for Tree Branches in UAV Forestry: Benchmarking Deep Stereo Matching Methods**|Yida Lin et.al.|[2601.19461v1](http://arxiv.org/abs/2601.19461v1)|null|
+|**2026-01-27**|**Understanding Dominant Themes in Reviewing Agentic AI-authored Code**|Md. Asif Haider et.al.|[2601.19287v1](http://arxiv.org/abs/2601.19287v1)|null|
+|**2026-01-27**|**TIGaussian: Disentangle Gaussians for Spatial-Awared Text-Image-3D Alignment**|Jiarun Liu et.al.|[2601.19247v1](http://arxiv.org/abs/2601.19247v1)|null|
+|**2026-01-27**|**Contrastive Spectral Rectification: Test-Time Defense towards Zero-shot Adversarial Robustness of CLIP**|Sen Nie et.al.|[2601.19210v1](http://arxiv.org/abs/2601.19210v1)|null|
+|**2026-01-27**|**LocationAgent: A Hierarchical Agent for Image Geolocation via Decoupling Strategy and Evidence from Parametric Knowledge**|Qiujun Li et.al.|[2601.19155v1](http://arxiv.org/abs/2601.19155v1)|null|
+|**2026-01-27**|**TS-Debate: Multimodal Collaborative Debate for Zero-Shot Time Series Reasoning**|Patara Trirat et.al.|[2601.19151v1](http://arxiv.org/abs/2601.19151v1)|null|
+|**2026-01-27**|**OWLEYE: Zero-Shot Learner for Cross-Domain Graph Data Anomaly Detection**|Lecheng Zheng et.al.|[2601.19102v1](http://arxiv.org/abs/2601.19102v1)|null|
 |**2026-01-26**|**TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion**|Weishi Mi et.al.|[2601.18323v1](http://arxiv.org/abs/2601.18323v1)|null|
 |**2026-01-26**|**HeterCSI: Channel-Adaptive Heterogeneous CSI Pretraining Framework for Generalized Wireless Foundation Models**|Chenyu Zhang et.al.|[2601.18200v1](http://arxiv.org/abs/2601.18200v1)|null|
 |**2026-01-26**|**Deadline-Aware, Energy-Efficient Control of Domestic Immersion Hot Water Heaters**|Muhammad Ibrahim Khan et.al.|[2601.18123v1](http://arxiv.org/abs/2601.18123v1)|null|

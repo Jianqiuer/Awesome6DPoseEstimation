@@ -3230,6 +3230,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting**|Olaf Yunus Laitinen Imanov et.al.|[2601.20845v1](http://arxiv.org/abs/2601.20845v1)|null|
 |**2026-01-28**|**HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs**|Guoan Wang et.al.|[2601.20745v1](http://arxiv.org/abs/2601.20745v1)|null|
 |**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Shuhao Liao et.al.|[2601.20668v1](http://arxiv.org/abs/2601.20668v1)|null|
 |**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Matic Fučka et.al.|[2601.20524v1](http://arxiv.org/abs/2601.20524v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2672,7 +2672,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260129>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2979,7 +2979,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260129>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3236,12 +3236,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260129>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-28**|**HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs**|Guoan Wang et.al.|[2601.20745v1](http://arxiv.org/abs/2601.20745v1)|null|
+|**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Shuhao Liao et.al.|[2601.20668v1](http://arxiv.org/abs/2601.20668v1)|null|
+|**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Matic Fučka et.al.|[2601.20524v1](http://arxiv.org/abs/2601.20524v1)|null|
+|**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481v1](http://arxiv.org/abs/2601.20481v1)|null|
+|**2026-01-28**|**Let's Roll a BiFTA: Bi-refinement for Fine-grained Text-visual Alignment in Vision-Language Models**|Yuhao Sun et.al.|[2601.20419v1](http://arxiv.org/abs/2601.20419v1)|null|
+|**2026-01-28**|**Eliminating Hallucination in Diffusion-Augmented Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2601.20391v1](http://arxiv.org/abs/2601.20391v1)|null|
+|**2026-01-28**|**CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization**|Yue Liang et.al.|[2601.20355v1](http://arxiv.org/abs/2601.20355v1)|null|
+|**2026-01-28**|**Do Whitepaper Claims Predict Market Behavior? Evidence from Cryptocurrency Factor Analysis**|Murad Farzulla et.al.|[2601.20336v1](http://arxiv.org/abs/2601.20336v1)|null|
+|**2026-01-28**|**ProFlow: Zero-Shot Physics-Consistent Sampling via Proximal Flow Guidance**|Zichao Yu et.al.|[2601.20227v1](http://arxiv.org/abs/2601.20227v1)|null|
+|**2026-01-28**|**Automated Marine Biofouling Assessment: Benchmarking Computer Vision and Multimodal LLMs on the Level of Fouling Scale**|Brayden Hamilton et.al.|[2601.20196v1](http://arxiv.org/abs/2601.20196v1)|null|
 |**2026-01-27**|**Neural Neural Scaling Laws**|Michael Y. Hu et.al.|[2601.19831v1](http://arxiv.org/abs/2601.19831v1)|null|
 |**2026-01-27**|**Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals**|Octavio Pappalardo et.al.|[2601.19810v1](http://arxiv.org/abs/2601.19810v1)|null|
 |**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802v1](http://arxiv.org/abs/2601.19802v1)|null|
@@ -9739,5 +9749,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260128>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260129>back to top</a>)</p>
 

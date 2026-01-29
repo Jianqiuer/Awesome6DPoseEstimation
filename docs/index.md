@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.28
+## Updated on 2026.01.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3230,6 +3230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-28**|**HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs**|Guoan Wang et.al.|[2601.20745v1](http://arxiv.org/abs/2601.20745v1)|null|
+|**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Shuhao Liao et.al.|[2601.20668v1](http://arxiv.org/abs/2601.20668v1)|null|
+|**2026-01-28**|**AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**|Matic Fučka et.al.|[2601.20524v1](http://arxiv.org/abs/2601.20524v1)|null|
+|**2026-01-28**|**Erasing Your Voice Before It's Heard: Training-free Speaker Unlearning for Zero-shot Text-to-Speech**|Myungjin Lee et.al.|[2601.20481v1](http://arxiv.org/abs/2601.20481v1)|null|
+|**2026-01-28**|**Let's Roll a BiFTA: Bi-refinement for Fine-grained Text-visual Alignment in Vision-Language Models**|Yuhao Sun et.al.|[2601.20419v1](http://arxiv.org/abs/2601.20419v1)|null|
+|**2026-01-28**|**Eliminating Hallucination in Diffusion-Augmented Interactive Text-to-Image Retrieval**|Zhuocheng Zhang et.al.|[2601.20391v1](http://arxiv.org/abs/2601.20391v1)|null|
+|**2026-01-28**|**CURVE: Learning Causality-Inspired Invariant Representations for Robust Scene Understanding via Uncertainty-Guided Regularization**|Yue Liang et.al.|[2601.20355v1](http://arxiv.org/abs/2601.20355v1)|null|
+|**2026-01-28**|**Do Whitepaper Claims Predict Market Behavior? Evidence from Cryptocurrency Factor Analysis**|Murad Farzulla et.al.|[2601.20336v1](http://arxiv.org/abs/2601.20336v1)|null|
+|**2026-01-28**|**ProFlow: Zero-Shot Physics-Consistent Sampling via Proximal Flow Guidance**|Zichao Yu et.al.|[2601.20227v1](http://arxiv.org/abs/2601.20227v1)|null|
+|**2026-01-28**|**Automated Marine Biofouling Assessment: Benchmarking Computer Vision and Multimodal LLMs on the Level of Fouling Scale**|Brayden Hamilton et.al.|[2601.20196v1](http://arxiv.org/abs/2601.20196v1)|null|
 |**2026-01-27**|**Neural Neural Scaling Laws**|Michael Y. Hu et.al.|[2601.19831v1](http://arxiv.org/abs/2601.19831v1)|null|
 |**2026-01-27**|**Unsupervised Learning of Efficient Exploration: Pre-training Adaptive Policies via Self-Imposed Goals**|Octavio Pappalardo et.al.|[2601.19810v1](http://arxiv.org/abs/2601.19810v1)|null|
 |**2026-01-27**|**Zero-Shot Stance Detection in the Wild: Dynamic Target Generation and Multi-Target Adaptation**|Aohua Li et.al.|[2601.19802v1](http://arxiv.org/abs/2601.19802v1)|null|

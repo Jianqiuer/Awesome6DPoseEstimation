@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.01.29
+## Updated on 2026.01.30
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3230,6 +3230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Zero-Shot Statistical Downscaling via Diffusion Posterior Sampling**|Ruian Tie et.al.|[2601.21760v1](http://arxiv.org/abs/2601.21760v1)|null|
+|**2026-01-29**|**LLM4Fluid: Large Language Models as Generalizable Neural Solvers for Fluid Dynamics**|Qisong Xiao et.al.|[2601.21681v1](http://arxiv.org/abs/2601.21681v1)|null|
+|**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675v1](http://arxiv.org/abs/2601.21675v1)|null|
+|**2026-01-29**|**Representation Unlearning: Forgetting through Information Compression**|Antonio Almudévar et.al.|[2601.21564v1](http://arxiv.org/abs/2601.21564v1)|null|
+|**2026-01-29**|**Task-free Adaptive Meta Black-box Optimization**|Chao Wang et.al.|[2601.21475v1](http://arxiv.org/abs/2601.21475v1)|null|
+|**2026-01-29**|**System 1&2 Synergy via Dynamic Model Interpolation**|Chenxu Yang et.al.|[2601.21414v1](http://arxiv.org/abs/2601.21414v1)|null|
+|**2026-01-29**|**DSCD-Nav: Dual-Stance Cooperative Debate for Object Navigation**|Weitao An et.al.|[2601.21409v1](http://arxiv.org/abs/2601.21409v1)|null|
+|**2026-01-29**|**Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control**|Weidong Huang et.al.|[2601.21363v1](http://arxiv.org/abs/2601.21363v1)|null|
+|**2026-01-29**|**Towards Robust Dysarthric Speech Recognition: LLM-Agent Post-ASR Correction Beyond WER**|Xiuwen Zheng et.al.|[2601.21347v1](http://arxiv.org/abs/2601.21347v1)|null|
+|**2026-01-29**|**NFCDS: A Plug-and-Play Noise Frequency-Controlled Diffusion Sampling Strategy for Image Restoration**|Zhen Wang et.al.|[2601.21248v1](http://arxiv.org/abs/2601.21248v1)|null|
 |**2026-01-28**|**PatchFormer: A Patch-Based Time Series Foundation Model with Hierarchical Masked Reconstruction and Cross-Domain Transfer Learning for Zero-Shot Multi-Horizon Forecasting**|Olaf Yunus Laitinen Imanov et.al.|[2601.20845v1](http://arxiv.org/abs/2601.20845v1)|null|
 |**2026-01-28**|**HESTIA: A Hessian-Guided Differentiable Quantization-Aware Training Framework for Extremely Low-Bit LLMs**|Guoan Wang et.al.|[2601.20745v1](http://arxiv.org/abs/2601.20745v1)|null|
 |**2026-01-28**|**GPO: Growing Policy Optimization for Legged Robot Locomotion and Whole-Body Control**|Shuhao Liao et.al.|[2601.20668v1](http://arxiv.org/abs/2601.20668v1)|null|

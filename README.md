@@ -3242,6 +3242,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-29**|**ReactEMG Stroke: Healthy-to-Stroke Few-shot Adaptation for sEMG-Based Intent Detection**|Runsheng Wang et.al.|[2601.22090v1](http://arxiv.org/abs/2601.22090v1)|null|
+|**2026-01-29**|**BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation**|Li Zhang et.al.|[2601.22061v1](http://arxiv.org/abs/2601.22061v1)|null|
+|**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971v1](http://arxiv.org/abs/2601.21971v1)|null|
+|**2026-01-29**|**Zero-Shot Video Restoration and Enhancement with Assistance of Video Diffusion Models**|Cong Cao et.al.|[2601.21922v1](http://arxiv.org/abs/2601.21922v1)|null|
+|**2026-01-29**|**Visual Disentangled Diffusion Autoencoders: Scalable Counterfactual Generation for Foundation Models**|Sidney Bender et.al.|[2601.21851v1](http://arxiv.org/abs/2601.21851v1)|null|
+|**2026-01-29**|**Embodied Task Planning via Graph-Informed Action Generation with Large Lanaguage Model**|Xiang Li et.al.|[2601.21841v1](http://arxiv.org/abs/2601.21841v1)|null|
 |**2026-01-29**|**Zero-Shot Statistical Downscaling via Diffusion Posterior Sampling**|Ruian Tie et.al.|[2601.21760v1](http://arxiv.org/abs/2601.21760v1)|null|
 |**2026-01-29**|**LLM4Fluid: Large Language Models as Generalizable Neural Solvers for Fluid Dynamics**|Qisong Xiao et.al.|[2601.21681v1](http://arxiv.org/abs/2601.21681v1)|null|
 |**2026-01-29**|**Rethinking Fusion: Disentangled Learning of Shared and Modality-Specific Information for Stance Detection**|Zhiyu Xie et.al.|[2601.21675v1](http://arxiv.org/abs/2601.21675v1)|null|

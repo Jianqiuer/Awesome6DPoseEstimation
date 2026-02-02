@@ -3232,6 +3232,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204v1](http://arxiv.org/abs/2601.23204v1)|null|
+|**2026-01-30**|**Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect**|Lorenzo Emer et.al.|[2601.23200v1](http://arxiv.org/abs/2601.23200v1)|null|
 |**2026-01-30**|**Robust and Generalized Humanoid Motion Tracking**|Yubiao Ma et.al.|[2601.23080v1](http://arxiv.org/abs/2601.23080v1)|null|
 |**2026-01-30**|**ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations**|Joao Fonseca et.al.|[2601.23068v1](http://arxiv.org/abs/2601.23068v1)|null|
 |**2026-01-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al.|[2601.22988v1](http://arxiv.org/abs/2601.22988v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.02.01
+## Updated on 2026.02.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**PEAR: Pixel-aligned Expressive humAn mesh Recovery**|Jiahao Wu et.al.|[2601.22693v1](http://arxiv.org/abs/2601.22693v1)|null|
+|**2026-01-29**|**Lost in Space? Vision-Language Models Struggle with Relative Camera Pose Estimation**|Ken Deng et.al.|[2601.22228v1](http://arxiv.org/abs/2601.22228v1)|null|
 |**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580v1](http://arxiv.org/abs/2601.19580v1)|null|
 |**2026-01-26**|**On the Role of Depth in Surgical Vision Foundation Models: An Empirical Study of RGB-D Pre-training**|John J. Han et.al.|[2601.18929v1](http://arxiv.org/abs/2601.18929v1)|null|
 |**2026-01-24**|**ME-WARD: A multimodal ergonomic analysis tool for musculoskeletal risk assessment from inertial and video data in working plac**|Javier González-Alonso et.al.|[2601.17571v1](http://arxiv.org/abs/2601.17571v1)|null|
@@ -2672,7 +2674,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2979,7 +2981,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3236,12 +3238,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-30**|**Robust and Generalized Humanoid Motion Tracking**|Yubiao Ma et.al.|[2601.23080v1](http://arxiv.org/abs/2601.23080v1)|null|
+|**2026-01-30**|**ExplainerPFN: Towards tabular foundation models for model-free zero-shot feature importance estimations**|Joao Fonseca et.al.|[2601.23068v1](http://arxiv.org/abs/2601.23068v1)|null|
+|**2026-01-30**|**Learning Geometrically-Grounded 3D Visual Representations for View-Generalizable Robotic Manipulation**|Di Zhang et.al.|[2601.22988v1](http://arxiv.org/abs/2601.22988v1)|null|
+|**2026-01-30**|**PlatoLTL: Learning to Generalize Across Symbols in LTL Instructions for Multi-Task RL**|Jacques Cloete et.al.|[2601.22891v1](http://arxiv.org/abs/2601.22891v1)|null|
+|**2026-01-30**|**EmoShift: Lightweight Activation Steering for Enhanced Emotion-Aware Speech Synthesis**|Li Zhou et.al.|[2601.22873v1](http://arxiv.org/abs/2601.22873v1)|null|
+|**2026-01-30**|**Decomposing and Composing: Towards Efficient Vision-Language Continual Learning via Rank-1 Expert Pool in a Single LoRA**|Zhan Fa et.al.|[2601.22828v1](http://arxiv.org/abs/2601.22828v1)|null|
+|**2026-01-30**|**Diachronic Stereo Matching for Multi-Date Satellite Imagery**|Elías Masquil et.al.|[2601.22808v1](http://arxiv.org/abs/2601.22808v1)|null|
+|**2026-01-30**|**Compact Hypercube Embeddings for Fast Text-based Wildlife Observation Retrieval**|Ilyass Moummad et.al.|[2601.22783v1](http://arxiv.org/abs/2601.22783v1)|null|
+|**2026-01-30**|**Models Know Models Best: Evaluation via Model-Preferred Formats**|Joonhak Lee et.al.|[2601.22699v1](http://arxiv.org/abs/2601.22699v1)|null|
+|**2026-01-30**|**Bi-MCQ: Reformulating Vision-Language Alignment for Negation Understanding**|Tae Hun Kim et.al.|[2601.22696v1](http://arxiv.org/abs/2601.22696v1)|null|
 |**2026-01-29**|**ReactEMG Stroke: Healthy-to-Stroke Few-shot Adaptation for sEMG-Based Intent Detection**|Runsheng Wang et.al.|[2601.22090v1](http://arxiv.org/abs/2601.22090v1)|null|
 |**2026-01-29**|**BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation**|Li Zhang et.al.|[2601.22061v1](http://arxiv.org/abs/2601.22061v1)|null|
 |**2026-01-29**|**MoE-ACT: Improving Surgical Imitation Learning Policies through Supervised Mixture-of-Experts**|Lorenzo Mazza et.al.|[2601.21971v1](http://arxiv.org/abs/2601.21971v1)|null|
@@ -9766,5 +9778,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260202>back to top</a>)</p>
 

@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.02.02
+## Updated on 2026.02.03
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-29**|**Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders**|Laura Cif et.al.|[2602.00163v1](http://arxiv.org/abs/2602.00163v1)|null|
+|**2026-01-26**|**Efficient UAV trajectory prediction: A multi-modal deep diffusion framework**|Yuan Gao et.al.|[2602.00107v1](http://arxiv.org/abs/2602.00107v1)|null|
 |**2026-01-30**|**PEAR: Pixel-aligned Expressive humAn mesh Recovery**|Jiahao Wu et.al.|[2601.22693v1](http://arxiv.org/abs/2601.22693v1)|null|
 |**2026-01-29**|**Lost in Space? Vision-Language Models Struggle with Relative Camera Pose Estimation**|Ken Deng et.al.|[2601.22228v1](http://arxiv.org/abs/2601.22228v1)|null|
 |**2026-01-27**|**QuaMo: Quaternion Motions for Vision-based 3D Human Kinematics Capture**|Cuong Le et.al.|[2601.19580v1](http://arxiv.org/abs/2601.19580v1)|null|
@@ -3232,6 +3234,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-01-31**|**SanD-Planner: Sample-Efficient Diffusion Planner in B-Spline Space for Robust Local Navigation**|Jincheng Wang et.al.|[2602.00923v1](http://arxiv.org/abs/2602.00923v1)|null|
+|**2026-01-31**|**UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation**|Zhiyuan Wu et.al.|[2602.00915v1](http://arxiv.org/abs/2602.00915v1)|null|
+|**2026-01-31**|**Test-time Generalization for Physics through Neural Operator Splitting**|Louis Serrano et.al.|[2602.00884v1](http://arxiv.org/abs/2602.00884v1)|null|
+|**2026-01-31**|**DIAMOND: Directed Inference for Artifact Mitigation in Flow Matching Models**|Alicja Polowczyk et.al.|[2602.00883v1](http://arxiv.org/abs/2602.00883v1)|null|
+|**2026-01-31**|**Invariance on Manifolds: Understanding Robust Visual Representations for Place Recognition**|Jintao Cheng et.al.|[2602.00841v1](http://arxiv.org/abs/2602.00841v1)|null|
+|**2026-01-31**|**Generating a Paracosm for Training-Free Zero-Shot Composed Image Retrieval**|Tong Wang et.al.|[2602.00813v1](http://arxiv.org/abs/2602.00813v1)|null|
+|**2026-01-31**|**SA-VLA: Spatially-Aware Flow-Matching for Vision-Language-Action Reinforcement Learning**|Xu Pan et.al.|[2602.00743v1](http://arxiv.org/abs/2602.00743v1)|null|
+|**2026-01-31**|**USS-Nav: Unified Spatio-Semantic Scene Graph for Lightweight UAV Zero-Shot Object Navigation**|Weiqi Gai et.al.|[2602.00708v1](http://arxiv.org/abs/2602.00708v1)|null|
+|**2026-01-31**|**Audio-to-Image Bird Species Retrieval without Audio-Image Pairs via Text Distillation**|Ilyass Moummad et.al.|[2602.00681v1](http://arxiv.org/abs/2602.00681v1)|null|
+|**2026-01-31**|**zkCraft: Prompt-Guided LLM as a Zero-Shot Mutation Pattern Oracle for TCCT-Powered ZK Fuzzing**|Rong Fu et.al.|[2602.00667v1](http://arxiv.org/abs/2602.00667v1)|null|
 |**2026-01-30**|**TSAQA: Time Series Analysis Question And Answering Benchmark**|Baoyu Jing et.al.|[2601.23204v1](http://arxiv.org/abs/2601.23204v1)|null|
 |**2026-01-30**|**Large Language Models for Patent Classification: Strengths, Trade-offs, and the Long Tail Effect**|Lorenzo Emer et.al.|[2601.23200v1](http://arxiv.org/abs/2601.23200v1)|null|
 |**2026-01-30**|**Robust and Generalized Humanoid Motion Tracking**|Yubiao Ma et.al.|[2601.23080v1](http://arxiv.org/abs/2601.23080v1)|null|

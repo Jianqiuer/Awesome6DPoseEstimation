@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401v1](http://arxiv.org/abs/2602.02401v1)|null|
+|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393v1](http://arxiv.org/abs/2602.02393v1)|null|
+|**2026-02-02**|**HandMCM: Multi-modal Point Cloud-based Correspondence State Space Model for 3D Hand Pose Estimation**|Wencan Cheng et.al.|[2602.01586v1](http://arxiv.org/abs/2602.01586v1)|null|
+|**2026-02-02**|**Visible Light Positioning With Lamé Curve LEDs: A Generic Approach for Camera Pose Estimation**|Wenxuan Pan et.al.|[2602.01577v1](http://arxiv.org/abs/2602.01577v1)|null|
+|**2026-02-02**|**TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching**|Minwoo Jung et.al.|[2602.01501v1](http://arxiv.org/abs/2602.01501v1)|null|
+|**2026-02-01**|**PandaPose: 3D Human Pose Lifting from a Single Image via Propagating 2D Pose Prior to 3D Anchor Space**|Jinghong Zheng et.al.|[2602.01095v1](http://arxiv.org/abs/2602.01095v1)|null|
 |**2026-01-29**|**Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders**|Laura Cif et.al.|[2602.00163v1](http://arxiv.org/abs/2602.00163v1)|null|
 |**2026-01-26**|**Efficient UAV trajectory prediction: A multi-modal deep diffusion framework**|Yuan Gao et.al.|[2602.00107v1](http://arxiv.org/abs/2602.00107v1)|null|
 |**2026-01-30**|**PEAR: Pixel-aligned Expressive humAn mesh Recovery**|Jiahao Wu et.al.|[2601.22693v1](http://arxiv.org/abs/2601.22693v1)|null|
@@ -3246,6 +3252,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-02**|**HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos**|Yinhuai Wang et.al.|[2602.02473v1](http://arxiv.org/abs/2602.02473v1)|null|
+|**2026-02-02**|**Large Language Models for Mental Health: A Multilingual Evaluation**|Nishat Raihan et.al.|[2602.02440v1](http://arxiv.org/abs/2602.02440v1)|null|
+|**2026-02-02**|**SelvaMask: Segmenting Trees in Tropical Forests and Beyond**|Simon-Olivier Duguay et.al.|[2602.02426v1](http://arxiv.org/abs/2602.02426v1)|null|
+|**2026-02-02**|**Misconception Diagnosis From Student-Tutor Dialogue: Generate, Retrieve, Rerank**|Joshua Mitton et.al.|[2602.02414v1](http://arxiv.org/abs/2602.02414v1)|null|
+|**2026-02-02**|**David vs. Goliath: Verifiable Agent-to-Agent Jailbreaking via Reinforcement Learning**|Samuel Nellessen et.al.|[2602.02395v1](http://arxiv.org/abs/2602.02395v1)|null|
+|**2026-02-02**|**TTT-Parkour: Rapid Test-Time Training for Perceptive Robot Parkour**|Shaoting Zhu et.al.|[2602.02331v1](http://arxiv.org/abs/2602.02331v1)|null|
+|**2026-02-02**|**Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages**|Isaac Chung et.al.|[2602.02287v1](http://arxiv.org/abs/2602.02287v1)|null|
+|**2026-02-02**|**MoLF: Mixture-of-Latent-Flow for Pan-Cancer Spatial Gene Expression Prediction from Histology**|Susu Hu et.al.|[2602.02282v1](http://arxiv.org/abs/2602.02282v1)|null|
+|**2026-02-02**|**LangMap: A Hierarchical Benchmark for Open-Vocabulary Goal Navigation**|Bo Miao et.al.|[2602.02220v1](http://arxiv.org/abs/2602.02220v1)|null|
+|**2026-02-02**|**State Rank Dynamics in Linear Attention LLMs**|Ao Sun et.al.|[2602.02195v1](http://arxiv.org/abs/2602.02195v1)|null|
 |**2026-01-31**|**SanD-Planner: Sample-Efficient Diffusion Planner in B-Spline Space for Robust Local Navigation**|Jincheng Wang et.al.|[2602.00923v1](http://arxiv.org/abs/2602.00923v1)|null|
 |**2026-01-31**|**UniMorphGrasp: Diffusion Model with Morphology-Awareness for Cross-Embodiment Dexterous Grasp Generation**|Zhiyuan Wu et.al.|[2602.00915v1](http://arxiv.org/abs/2602.00915v1)|null|
 |**2026-01-31**|**Test-time Generalization for Physics through Neural Operator Splitting**|Louis Serrano et.al.|[2602.00884v1](http://arxiv.org/abs/2602.00884v1)|null|

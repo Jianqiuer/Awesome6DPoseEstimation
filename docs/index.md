@@ -2,16 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.02.03
+## Updated on 2026.02.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126v1](http://arxiv.org/abs/2602.03126v1)|null|
+|**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064v1](http://arxiv.org/abs/2602.03064v1)|null|
+|**2026-02-02**|**Self-Supervised Uncalibrated Multi-View Video Anonymization in the Operating Room**|Keqi Chen et.al.|[2602.02850v1](http://arxiv.org/abs/2602.02850v1)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401v1](http://arxiv.org/abs/2602.02401v1)|null|
 |**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393v1](http://arxiv.org/abs/2602.02393v1)|null|
 |**2026-02-02**|**HandMCM: Multi-modal Point Cloud-based Correspondence State Space Model for 3D Hand Pose Estimation**|Wencan Cheng et.al.|[2602.01586v1](http://arxiv.org/abs/2602.01586v1)|null|
 |**2026-02-02**|**Visible Light Positioning With Lamé Curve LEDs: A Generic Approach for Camera Pose Estimation**|Wenxuan Pan et.al.|[2602.01577v1](http://arxiv.org/abs/2602.01577v1)|null|
-|**2026-02-02**|**TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching**|Minwoo Jung et.al.|[2602.01501v1](http://arxiv.org/abs/2602.01501v1)|null|
+|**2026-02-03**|**TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching**|Minwoo Jung et.al.|[2602.01501v2](http://arxiv.org/abs/2602.01501v2)|null|
 |**2026-02-01**|**PandaPose: 3D Human Pose Lifting from a Single Image via Propagating 2D Pose Prior to 3D Anchor Space**|Jinghong Zheng et.al.|[2602.01095v1](http://arxiv.org/abs/2602.01095v1)|null|
 |**2026-01-29**|**Deep Learning Pose Estimation for Multi-Label Recognition of Combined Hyperkinetic Movement Disorders**|Laura Cif et.al.|[2602.00163v1](http://arxiv.org/abs/2602.00163v1)|null|
 |**2026-01-26**|**Efficient UAV trajectory prediction: A multi-modal deep diffusion framework**|Yuan Gao et.al.|[2602.00107v1](http://arxiv.org/abs/2602.00107v1)|null|
@@ -3240,6 +3243,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**RAL-Bench: Benchmarking for Application-Level Functional Correctness and Non-Functional Quality Attributes**|Ruwei Pan et.al.|[2602.03462v1](http://arxiv.org/abs/2602.03462v1)|null|
+|**2026-02-03**|**RankSteer: Activation Steering for Pointwise LLM Ranking**|Yumeng Wang et.al.|[2602.03422v1](http://arxiv.org/abs/2602.03422v1)|null|
+|**2026-02-03**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al.|[2602.03361v1](http://arxiv.org/abs/2602.03361v1)|null|
+|**2026-02-03**|**RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization**|Songming Liu et.al.|[2602.03310v1](http://arxiv.org/abs/2602.03310v1)|null|
+|**2026-02-03**|**Enhancing Foundation VLM Robustness to Missing Modality: Scalable Diffusion for Bi-directional Feature Restoration**|Wei Dai et.al.|[2602.03151v1](http://arxiv.org/abs/2602.03151v1)|null|
+|**2026-02-03**|**The Mask of Civility: Benchmarking Chinese Mock Politeness Comprehension in Large Language Models**|Yitong Zhang et.al.|[2602.03107v1](http://arxiv.org/abs/2602.03107v1)|null|
+|**2026-02-03**|**Gromov Wasserstein Optimal Transport for Semantic Correspondences**|Francis Snelgar et.al.|[2602.03105v1](http://arxiv.org/abs/2602.03105v1)|null|
+|**2026-02-03**|**TextME: Bridging Unseen Modalities Through Text Descriptions**|Soyeon Hong et.al.|[2602.03098v1](http://arxiv.org/abs/2602.03098v1)|null|
+|**2026-02-03**|**A generalizable large-scale foundation model for musculoskeletal radiographs**|Shinn Kim et.al.|[2602.03076v1](http://arxiv.org/abs/2602.03076v1)|null|
+|**2026-02-03**|**From Zero to Hero: Advancing Zero-Shot Foundation Models for Tabular Outlier Detection**|Xueying Ding et.al.|[2602.03018v1](http://arxiv.org/abs/2602.03018v1)|null|
 |**2026-02-02**|**HumanX: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos**|Yinhuai Wang et.al.|[2602.02473v1](http://arxiv.org/abs/2602.02473v1)|null|
 |**2026-02-02**|**Large Language Models for Mental Health: A Multilingual Evaluation**|Nishat Raihan et.al.|[2602.02440v1](http://arxiv.org/abs/2602.02440v1)|null|
 |**2026-02-02**|**SelvaMask: Segmenting Trees in Tropical Forests and Beyond**|Simon-Olivier Duguay et.al.|[2602.02426v1](http://arxiv.org/abs/2602.02426v1)|null|

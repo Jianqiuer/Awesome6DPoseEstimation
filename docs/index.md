@@ -11,7 +11,7 @@ layout: default
 |**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064v1](http://arxiv.org/abs/2602.03064v1)|null|
 |**2026-02-02**|**Self-Supervised Uncalibrated Multi-View Video Anonymization in the Operating Room**|Keqi Chen et.al.|[2602.02850v1](http://arxiv.org/abs/2602.02850v1)|null|
 |**2026-02-02**|**Superman: Unifying Skeleton and Vision for Human Motion Perception and Generation**|Xinshun Wang et.al.|[2602.02401v1](http://arxiv.org/abs/2602.02401v1)|null|
-|**2026-02-02**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393v1](http://arxiv.org/abs/2602.02393v1)|null|
+|**2026-02-03**|**Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory**|Ruiqi Wu et.al.|[2602.02393v2](http://arxiv.org/abs/2602.02393v2)|null|
 |**2026-02-02**|**HandMCM: Multi-modal Point Cloud-based Correspondence State Space Model for 3D Hand Pose Estimation**|Wencan Cheng et.al.|[2602.01586v1](http://arxiv.org/abs/2602.01586v1)|null|
 |**2026-02-02**|**Visible Light Positioning With Lamé Curve LEDs: A Generic Approach for Camera Pose Estimation**|Wenxuan Pan et.al.|[2602.01577v1](http://arxiv.org/abs/2602.01577v1)|null|
 |**2026-02-03**|**TreeLoc: 6-DoF LiDAR Global Localization in Forests via Inter-Tree Geometric Matching**|Minwoo Jung et.al.|[2602.01501v2](http://arxiv.org/abs/2602.01501v2)|null|
@@ -3243,6 +3243,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Zero-shot large vision-language model prompting for automated bone identification in paleoradiology x-ray archives**|Owen Dong et.al.|[2602.03750v1](http://arxiv.org/abs/2602.03750v1)|null|
+|**2026-02-03**|**Cognitively Diverse Multiple-Choice Question Generation: A Hybrid Multi-Agent Framework with Large Language Models**|Yu Tian et.al.|[2602.03704v1](http://arxiv.org/abs/2602.03704v1)|null|
+|**2026-02-03**|**Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation**|Haichao Jiang et.al.|[2602.03595v1](http://arxiv.org/abs/2602.03595v1)|null|
+|**2026-02-03**|**TIPS Over Tricks: Simple Prompts for Effective Zero-shot Anomaly Detection**|Alireza Salehi et.al.|[2602.03594v1](http://arxiv.org/abs/2602.03594v1)|null|
+|**2026-02-03**|**Can Large Language Models Generalize Procedures Across Representations?**|Fangru Lin et.al.|[2602.03542v1](http://arxiv.org/abs/2602.03542v1)|null|
 |**2026-02-03**|**RAL-Bench: Benchmarking for Application-Level Functional Correctness and Non-Functional Quality Attributes**|Ruwei Pan et.al.|[2602.03462v1](http://arxiv.org/abs/2602.03462v1)|null|
 |**2026-02-03**|**RankSteer: Activation Steering for Pointwise LLM Ranking**|Yumeng Wang et.al.|[2602.03422v1](http://arxiv.org/abs/2602.03422v1)|null|
 |**2026-02-03**|**Z3D: Zero-Shot 3D Visual Grounding from Images**|Nikita Drozdov et.al.|[2602.03361v1](http://arxiv.org/abs/2602.03361v1)|null|

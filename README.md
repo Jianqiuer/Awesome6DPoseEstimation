@@ -3257,6 +3257,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883v1](http://arxiv.org/abs/2602.04883v1)|null|
+|**2026-02-04**|**LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues**|Amir Ivry et.al.|[2602.04796v1](http://arxiv.org/abs/2602.04796v1)|null|
+|**2026-02-04**|**Billion-Scale Graph Foundation Models**|Maya Bechler-Speicher et.al.|[2602.04768v1](http://arxiv.org/abs/2602.04768v1)|null|
 |**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699v1](http://arxiv.org/abs/2602.04699v1)|null|
 |**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693v1](http://arxiv.org/abs/2602.04693v1)|null|
 |**2026-02-04**|**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**|Dongchao Yang et.al.|[2602.04683v1](http://arxiv.org/abs/2602.04683v1)|null|

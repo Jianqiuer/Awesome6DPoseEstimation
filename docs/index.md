@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.04
+## Updated on 2026.02.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439v1](http://arxiv.org/abs/2602.04439v1)|null|
 |**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126v1](http://arxiv.org/abs/2602.03126v1)|null|
 |**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064v1](http://arxiv.org/abs/2602.03064v1)|null|
 |**2026-02-02**|**Self-Supervised Uncalibrated Multi-View Video Anonymization in the Operating Room**|Keqi Chen et.al.|[2602.02850v1](http://arxiv.org/abs/2602.02850v1)|null|
@@ -2683,6 +2684,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-03**|**Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios**|Kuo-Yi Chao et.al.|[2602.03908v1](http://arxiv.org/abs/2602.03908v1)|null|
 |**2026-01-14**|**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**|Emmanuele Barberi et.al.|[2601.09601v1](http://arxiv.org/abs/2601.09601v1)|null|
 |**2026-01-06**|**Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups**|Hyungtae Lim et.al.|[2601.02759v1](http://arxiv.org/abs/2601.02759v1)|null|
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Qian Wang et.al.|[2512.24428v1](http://arxiv.org/abs/2512.24428v1)|null|
@@ -3243,6 +3245,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-04**|**Annotation Free Spacecraft Detection and Segmentation using Vision Language Models**|Samet Hicsonmez et.al.|[2602.04699v1](http://arxiv.org/abs/2602.04699v1)|null|
+|**2026-02-04**|**LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse**|Yuan Zhang et.al.|[2602.04693v1](http://arxiv.org/abs/2602.04693v1)|null|
+|**2026-02-04**|**UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization**|Dongchao Yang et.al.|[2602.04683v1](http://arxiv.org/abs/2602.04683v1)|null|
+|**2026-02-04**|**Understanding Degradation with Vision Language Model**|Guanzhou Lan et.al.|[2602.04565v1](http://arxiv.org/abs/2602.04565v1)|null|
+|**2026-02-04**|**SLUM-i: Semi-supervised Learning for Urban Mapping of Informal Settlements and Data Quality Benchmarking**|Muhammad Taha Mukhtar et.al.|[2602.04525v1](http://arxiv.org/abs/2602.04525v1)|null|
+|**2026-02-04**|**SALAD-Pan: Sensor-Agnostic Latent Adaptive Diffusion for Pan-Sharpening**|Junjie Li et.al.|[2602.04473v1](http://arxiv.org/abs/2602.04473v1)|null|
+|**2026-02-04**|**SDR-CIR: Semantic Debias Retrieval Framework for Training-Free Zero-Shot Composed Image Retrieval**|Yi Sun et.al.|[2602.04451v1](http://arxiv.org/abs/2602.04451v1)|null|
+|**2026-02-04**|**No One-Size-Fits-All: Building Systems For Translation to Bashkir, Kazakh, Kyrgyz, Tatar and Chuvash Using Synthetic And Original Data**|Dmitry Karpov et.al.|[2602.04442v1](http://arxiv.org/abs/2602.04442v1)|null|
+|**2026-02-04**|**HoRD: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation**|Puyue Wang et.al.|[2602.04412v1](http://arxiv.org/abs/2602.04412v1)|null|
+|**2026-02-04**|**Fine-tuning Pre-trained Vision-Language Models in a Human-Annotation-Free Manner**|Qian-Wei Wang et.al.|[2602.04337v1](http://arxiv.org/abs/2602.04337v1)|null|
 |**2026-02-03**|**Zero-shot large vision-language model prompting for automated bone identification in paleoradiology x-ray archives**|Owen Dong et.al.|[2602.03750v1](http://arxiv.org/abs/2602.03750v1)|null|
 |**2026-02-03**|**Cognitively Diverse Multiple-Choice Question Generation: A Hybrid Multi-Agent Framework with Large Language Models**|Yu Tian et.al.|[2602.03704v1](http://arxiv.org/abs/2602.03704v1)|null|
 |**2026-02-03**|**Refer-Agent: A Collaborative Multi-Agent System with Reasoning and Reflection for Referring Video Object Segmentation**|Haichao Jiang et.al.|[2602.03595v1](http://arxiv.org/abs/2602.03595v1)|null|

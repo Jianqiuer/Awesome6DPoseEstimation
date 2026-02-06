@@ -1,4 +1,4 @@
-## Updated on 2026.02.05
+## Updated on 2026.02.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-02-04**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439v1](http://arxiv.org/abs/2602.04439v1)|null|
+|**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822v1](http://arxiv.org/abs/2602.05822v1)|null|
+|**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755v1](http://arxiv.org/abs/2602.05755v1)|null|
+|**2026-02-05**|**EgoPoseVR: Spatiotemporal Multi-Modal Reasoning for Egocentric Full-Body Pose in Virtual Reality**|Haojie Cheng et.al.|[2602.05590v1](http://arxiv.org/abs/2602.05590v1)|null|
+|**2026-02-05**|**Geometric Observability Index: An Operator-Theoretic Framework for Per-Feature Sensitivity, Weak Observability, and Dynamic Effects in SE(3) Pose Estimation**|Joe-Mei Feng et.al.|[2602.05582v1](http://arxiv.org/abs/2602.05582v1)|null|
+|**2026-02-05**|**ShapeGaussian: High-Fidelity 4D Human Reconstruction in Monocular Videos via Vision Priors**|Zhenxiao Liang et.al.|[2602.05572v1](http://arxiv.org/abs/2602.05572v1)|null|
+|**2026-02-05**|**IndustryShapes: An RGB-D Benchmark dataset for 6D object pose estimation of industrial assembly components and tools**|Panagiotis Sapoutzoglou et.al.|[2602.05555v1](http://arxiv.org/abs/2602.05555v1)|null|
+|**2026-02-05**|**RFM-Pose:Reinforcement-Guided Flow Matching for Fast Category-Level 6D Pose Estimation**|Diya He et.al.|[2602.05257v1](http://arxiv.org/abs/2602.05257v1)|null|
+|**2026-02-04**|**Differentiable Inverse Graphics for Zero-shot Scene Reconstruction and Robot Grasping**|Octavio Arriaga et.al.|[2602.05029v1](http://arxiv.org/abs/2602.05029v1)|null|
+|**2026-02-05**|**TrajVG: 3D Trajectory-Coupled Visual Geometry Learning**|Xingyu Miao et.al.|[2602.04439v2](http://arxiv.org/abs/2602.04439v2)|null|
 |**2026-02-03**|**Flexible Geometric Guidance for Probabilistic Human Pose Estimation with Diffusion Models**|Francis Snelgar et.al.|[2602.03126v1](http://arxiv.org/abs/2602.03126v1)|null|
 |**2026-02-03**|**JRDB-Pose3D: A Multi-person 3D Human Pose and Shape Estimation Dataset for Robotics**|Sandika Biswas et.al.|[2602.03064v1](http://arxiv.org/abs/2602.03064v1)|null|
 |**2026-02-02**|**Self-Supervised Uncalibrated Multi-View Video Anonymization in the Operating Room**|Keqi Chen et.al.|[2602.02850v1](http://arxiv.org/abs/2602.02850v1)|null|
@@ -2686,7 +2694,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260206>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2994,7 +3002,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260206>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3251,12 +3259,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260206>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation**|Hai Zhang et.al.|[2602.05827v1](http://arxiv.org/abs/2602.05827v1)|null|
+|**2026-02-05**|**Scalable and General Whole-Body Control for Cross-Humanoid Locomotion**|Yufei Xue et.al.|[2602.05791v1](http://arxiv.org/abs/2602.05791v1)|null|
+|**2026-02-05**|**Zero-Shot TTS With Enhanced Audio Prompts: Bsc Submission For The 2026 Wildspoof Challenge TTS Track**|Jose Giraldo et.al.|[2602.05770v1](http://arxiv.org/abs/2602.05770v1)|null|
+|**2026-02-05**|**Task-Oriented Robot-Human Handovers on Legged Manipulators**|Andreea Tulbure et.al.|[2602.05760v1](http://arxiv.org/abs/2602.05760v1)|null|
+|**2026-02-05**|**OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale**|Jingze Shi et.al.|[2602.05711v1](http://arxiv.org/abs/2602.05711v1)|null|
+|**2026-02-05**|**Empowering Time Series Analysis with Large-Scale Multimodal Pretraining**|Peng Chen et.al.|[2602.05646v1](http://arxiv.org/abs/2602.05646v1)|null|
+|**2026-02-05**|**Reasoning-guided Collaborative Filtering with Language Models for Explainable Recommendation**|Fahad Anwaar et.al.|[2602.05544v1](http://arxiv.org/abs/2602.05544v1)|null|
+|**2026-02-05**|**VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency**|Zhuang Xiong et.al.|[2602.05508v1](http://arxiv.org/abs/2602.05508v1)|null|
+|**2026-02-05**|**MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation**|Dekang Qi et.al.|[2602.05467v1](http://arxiv.org/abs/2602.05467v1)|null|
+|**2026-02-05**|**BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs**|Sheshansh Agrawal et.al.|[2602.05448v1](http://arxiv.org/abs/2602.05448v1)|null|
 |**2026-02-04**|**Protein Autoregressive Modeling via Multiscale Structure Generation**|Yanru Qu et.al.|[2602.04883v1](http://arxiv.org/abs/2602.04883v1)|null|
 |**2026-02-04**|**LALM-as-a-Judge: Benchmarking Large Audio-Language Models for Safety Evaluation in Multi-Turn Spoken Dialogues**|Amir Ivry et.al.|[2602.04796v1](http://arxiv.org/abs/2602.04796v1)|null|
 |**2026-02-04**|**Billion-Scale Graph Foundation Models**|Maya Bechler-Speicher et.al.|[2602.04768v1](http://arxiv.org/abs/2602.04768v1)|null|
@@ -9841,5 +9859,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260205>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260206>back to top</a>)</p>
 

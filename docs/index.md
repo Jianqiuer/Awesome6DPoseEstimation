@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043v1](http://arxiv.org/abs/2602.06043v1)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822v1](http://arxiv.org/abs/2602.05822v1)|null|
 |**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755v1](http://arxiv.org/abs/2602.05755v1)|null|
 |**2026-02-05**|**EgoPoseVR: Spatiotemporal Multi-Modal Reasoning for Egocentric Full-Body Pose in Virtual Reality**|Haojie Cheng et.al.|[2602.05590v1](http://arxiv.org/abs/2602.05590v1)|null|
@@ -3253,6 +3254,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042v1](http://arxiv.org/abs/2602.06042v1)|null|
+|**2026-02-05**|**A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies**|Panagiotis Kaliosis et.al.|[2602.06015v1](http://arxiv.org/abs/2602.06015v1)|null|
+|**2026-02-05**|**Visuo-Tactile World Models**|Carolina Higuera et.al.|[2602.06001v1](http://arxiv.org/abs/2602.06001v1)|null|
+|**2026-02-05**|**xList-Hate: A Checklist-Based Framework for Interpretable and Generalizable Hate Speech Detection**|Adrián Girón et.al.|[2602.05874v1](http://arxiv.org/abs/2602.05874v1)|null|
 |**2026-02-05**|**Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation**|Hai Zhang et.al.|[2602.05827v1](http://arxiv.org/abs/2602.05827v1)|null|
 |**2026-02-05**|**Scalable and General Whole-Body Control for Cross-Humanoid Locomotion**|Yufei Xue et.al.|[2602.05791v1](http://arxiv.org/abs/2602.05791v1)|null|
 |**2026-02-05**|**Zero-Shot TTS With Enhanced Audio Prompts: Bsc Submission For The 2026 Wildspoof Challenge TTS Track**|Jose Giraldo et.al.|[2602.05770v1](http://arxiv.org/abs/2602.05770v1)|null|

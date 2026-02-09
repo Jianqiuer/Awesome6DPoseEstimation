@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211v1](http://arxiv.org/abs/2602.06211v1)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043v1](http://arxiv.org/abs/2602.06043v1)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822v1](http://arxiv.org/abs/2602.05822v1)|null|
 |**2026-02-05**|**FMPose3D: monocular 3D pose estimation via flow matching**|Ti Wang et.al.|[2602.05755v1](http://arxiv.org/abs/2602.05755v1)|null|
@@ -3266,6 +3267,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-06**|**Revisiting the Generic Transformer: Deconstructing a Strong Baseline for Time Series Foundation Models**|Yunshi Wen et.al.|[2602.06909v1](http://arxiv.org/abs/2602.06909v1)|null|
+|**2026-02-06**|**T-STAR: A Context-Aware Transformer Framework for Short-Term Probabilistic Demand Forecasting in Dock-Based Shared Micro-Mobility**|Jingyi Cheng et.al.|[2602.06866v1](http://arxiv.org/abs/2602.06866v1)|null|
+|**2026-02-06**|**Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts**|Xinyu Zhao et.al.|[2602.06859v1](http://arxiv.org/abs/2602.06859v1)|null|
+|**2026-02-06**|**Soft Forward-Backward Representations for Zero-shot Reinforcement Learning with General Utilities**|Marco Bagatella et.al.|[2602.06769v1](http://arxiv.org/abs/2602.06769v1)|null|
+|**2026-02-06**|**Evaluating Prompt Engineering Strategies for Sentiment Control in AI-Generated Texts**|Kerstin Sahler et.al.|[2602.06692v1](http://arxiv.org/abs/2602.06692v1)|null|
+|**2026-02-06**|**Dynamics-Aligned Shared Hypernetworks for Zero-Shot Actuator Inversion**|Jan Benad et.al.|[2602.06550v1](http://arxiv.org/abs/2602.06550v1)|null|
+|**2026-02-06**|**AdaptOVCD: Training-Free Open-Vocabulary Remote Sensing Change Detection via Adaptive Information Fusion**|Mingyu Dou et.al.|[2602.06529v1](http://arxiv.org/abs/2602.06529v1)|null|
+|**2026-02-06**|**Efficient-LVSM: Faster, Cheaper, and Better Large View Synthesis Model via Decoupled Co-Refinement Attention**|Xiaosong Jia et.al.|[2602.06478v1](http://arxiv.org/abs/2602.06478v1)|null|
+|**2026-02-06**|**TrajAD: Trajectory Anomaly Detection for Trustworthy LLM Agents**|Yibing Liu et.al.|[2602.06443v1](http://arxiv.org/abs/2602.06443v1)|null|
+|**2026-02-06**|**Adaptive Protein Tokenization**|Rohit Dilip et.al.|[2602.06418v1](http://arxiv.org/abs/2602.06418v1)|null|
 |**2026-02-05**|**Pseudo-Invertible Neural Networks**|Yamit Ehrlich et.al.|[2602.06042v1](http://arxiv.org/abs/2602.06042v1)|null|
 |**2026-02-05**|**A Systematic Evaluation of Large Language Models for PTSD Severity Estimation: The Role of Contextual Knowledge and Modeling Strategies**|Panagiotis Kaliosis et.al.|[2602.06015v1](http://arxiv.org/abs/2602.06015v1)|null|
 |**2026-02-05**|**Visuo-Tactile World Models**|Carolina Higuera et.al.|[2602.06001v1](http://arxiv.org/abs/2602.06001v1)|null|

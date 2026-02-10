@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661v1](http://arxiv.org/abs/2602.08661v1)|null|
+|**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479v1](http://arxiv.org/abs/2602.08479v1)|null|
+|**2026-02-09**|**Reliability-aware Execution Gating for Near-field and Off-axis Vision-guided Robotic Alignment**|Ning Hu et.al.|[2602.08466v1](http://arxiv.org/abs/2602.08466v1)|null|
+|**2026-02-09**|**RealSynCol: a high-fidelity synthetic colon dataset for 3D reconstruction applications**|Chiara Lena et.al.|[2602.08397v1](http://arxiv.org/abs/2602.08397v1)|null|
+|**2026-02-08**|**Research on a Camera Position Measurement Method based on a Parallel Perspective Error Transfer Model**|Ning Hu et.al.|[2602.07888v1](http://arxiv.org/abs/2602.07888v1)|null|
 |**2026-02-05**|**DroneKey++: A Size Prior-free Method and New Benchmark for Drone 3D Pose Estimation from Sequential Images**|Seo-Bin Hwang et.al.|[2602.06211v1](http://arxiv.org/abs/2602.06211v1)|null|
 |**2026-02-05**|**Shared LoRA Subspaces for almost Strict Continual Learning**|Prakhar Kaushik et.al.|[2602.06043v1](http://arxiv.org/abs/2602.06043v1)|null|
 |**2026-02-05**|**NVS-HO: A Benchmark for Novel View Synthesis of Handheld Objects**|Musawar Ali et.al.|[2602.05822v1](http://arxiv.org/abs/2602.05822v1)|null|
@@ -3255,6 +3260,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-09**|**Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models**|Zichen Jeff Cui et.al.|[2602.09017v1](http://arxiv.org/abs/2602.09017v1)|null|
+|**2026-02-09**|**stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation**|Lucas Maes et.al.|[2602.08968v1](http://arxiv.org/abs/2602.08968v1)|null|
+|**2026-02-09**|**Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion**|Minghan Li et.al.|[2602.08917v1](http://arxiv.org/abs/2602.08917v1)|null|
+|**2026-02-09**|**FlattenGPT: Depth Compression for Transformer with Layer Flattening**|Ruihan Xu et.al.|[2602.08858v1](http://arxiv.org/abs/2602.08858v1)|null|
+|**2026-02-09**|**Foundation Inference Models for Ordinary Differential Equations**|Maximilian Mauel et.al.|[2602.08733v1](http://arxiv.org/abs/2602.08733v1)|null|
+|**2026-02-09**|**Zero-shot System for Automatic Body Region Detection for Volumetric CT and MR Images**|Farnaz Khun Jush et.al.|[2602.08717v1](http://arxiv.org/abs/2602.08717v1)|null|
+|**2026-02-09**|**Conditional Sequence Modeling for Safe Reinforcement Learning**|Wensong Bai et.al.|[2602.08584v1](http://arxiv.org/abs/2602.08584v1)|null|
+|**2026-02-09**|**SemiNFT: Learning to Transfer Presets from Imitation to Appreciation via Hybrid-Sample Reinforcement Learning**|Melany Yang et.al.|[2602.08582v1](http://arxiv.org/abs/2602.08582v1)|null|
+|**2026-02-09**|**Global Rotation Equivariant Phase Modeling for Speech Enhancement with Deep Magnitude-Phase Interaction**|Chengzhong Wang et.al.|[2602.08556v1](http://arxiv.org/abs/2602.08556v1)|null|
+|**2026-02-09**|**Reinforcement Inference: Leveraging Uncertainty for Self-Correcting Language Model Reasoning**|Xinhai Sun et.al.|[2602.08520v1](http://arxiv.org/abs/2602.08520v1)|null|
 |**2026-02-08**|**Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures**|Simiao Ren et.al.|[2602.07815v1](http://arxiv.org/abs/2602.07815v1)|null|
 |**2026-02-08**|**How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study**|Simiao Ren et.al.|[2602.07814v1](http://arxiv.org/abs/2602.07814v1)|null|
 |**2026-02-08**|**Pruning as a Cooperative Game: Surrogate-Assisted Layer Contribution Estimation for Large Language Models**|Xuan Ding et.al.|[2602.07804v1](http://arxiv.org/abs/2602.07804v1)|null|

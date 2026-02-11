@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032v1](http://arxiv.org/abs/2602.10032v1)|null|
 |**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414v1](http://arxiv.org/abs/2602.09414v1)|null|
 |**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661v1](http://arxiv.org/abs/2602.08661v1)|null|
 |**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479v1](http://arxiv.org/abs/2602.08479v1)|null|
@@ -3273,6 +3274,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105v1](http://arxiv.org/abs/2602.10105v1)|null|
+|**2026-02-10**|**Olaf-World: Orienting Latent Actions for Video World Modeling**|Yuxin Jiang et.al.|[2602.10104v1](http://arxiv.org/abs/2602.10104v1)|null|
 |**2026-02-10**|**Why Linear Interpretability Works: Invariant Subspaces as a Result of Architectural Constraints**|Andres Saurez et.al.|[2602.09783v1](http://arxiv.org/abs/2602.09783v1)|null|
 |**2026-02-10**|**NavDreamer: Video Models as Zero-Shot 3D Navigators**|Xijie Huang et.al.|[2602.09765v1](http://arxiv.org/abs/2602.09765v1)|null|
 |**2026-02-10**|**Grounding LTL Tasks in Sub-Symbolic RL Environments for Zero-Shot Generalization**|Matteo Pannacci et.al.|[2602.09761v1](http://arxiv.org/abs/2602.09761v1)|null|

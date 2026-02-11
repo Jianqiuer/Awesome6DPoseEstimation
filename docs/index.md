@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.10
+## Updated on 2026.02.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414v1](http://arxiv.org/abs/2602.09414v1)|null|
 |**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661v1](http://arxiv.org/abs/2602.08661v1)|null|
 |**2026-02-09**|**Gesture Matters: Pedestrian Gesture Recognition for AVs Through Skeleton Pose Evaluation**|Alif Rizqullah Mahdi et.al.|[2602.08479v1](http://arxiv.org/abs/2602.08479v1)|null|
 |**2026-02-09**|**Reliability-aware Execution Gating for Near-field and Off-axis Vision-guided Robotic Alignment**|Ning Hu et.al.|[2602.08466v1](http://arxiv.org/abs/2602.08466v1)|null|
@@ -3260,6 +3261,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-10**|**Why Linear Interpretability Works: Invariant Subspaces as a Result of Architectural Constraints**|Andres Saurez et.al.|[2602.09783v1](http://arxiv.org/abs/2602.09783v1)|null|
+|**2026-02-10**|**NavDreamer: Video Models as Zero-Shot 3D Navigators**|Xijie Huang et.al.|[2602.09765v1](http://arxiv.org/abs/2602.09765v1)|null|
+|**2026-02-10**|**Grounding LTL Tasks in Sub-Symbolic RL Environments for Zero-Shot Generalization**|Matteo Pannacci et.al.|[2602.09761v1](http://arxiv.org/abs/2602.09761v1)|null|
+|**2026-02-10**|**LLM-FS: Zero-Shot Feature Selection for Effective and Interpretable Malware Detection**|Naveen Gill et.al.|[2602.09634v1](http://arxiv.org/abs/2602.09634v1)|null|
+|**2026-02-10**|**Robust Depth Super-Resolution via Adaptive Diffusion Sampling**|Kun Wang et.al.|[2602.09510v1](http://arxiv.org/abs/2602.09510v1)|null|
+|**2026-02-10**|**Adaptive recurrent flow map operator learning for reaction diffusion dynamics**|Huseyin Tunc et.al.|[2602.09487v1](http://arxiv.org/abs/2602.09487v1)|null|
+|**2026-02-10**|**The Wisdom of Many Queries: Complexity-Diversity Principle for Dense Retriever Training**|Xincan Feng et.al.|[2602.09448v1](http://arxiv.org/abs/2602.09448v1)|null|
+|**2026-02-10**|**Single-Slice-to-3D Reconstruction in Medical Imaging and Natural Objects: A Comparative Benchmark with SAM 3D**|Yan Luo et.al.|[2602.09407v1](http://arxiv.org/abs/2602.09407v1)|null|
+|**2026-02-10**|**Effective MoE-based LLM Compression by Exploiting Heterogeneous Inter-Group Experts Routing Frequency and Information Density**|Zhendong Mi et.al.|[2602.09316v1](http://arxiv.org/abs/2602.09316v1)|null|
+|**2026-02-10**|**Stabilizing Physics-Informed Consistency Models via Structure-Preserving Training**|Che-Chia Chang et.al.|[2602.09303v1](http://arxiv.org/abs/2602.09303v1)|null|
 |**2026-02-09**|**Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models**|Zichen Jeff Cui et.al.|[2602.09017v1](http://arxiv.org/abs/2602.09017v1)|null|
 |**2026-02-09**|**stable-worldmodel-v1: Reproducible World Modeling Research and Evaluation**|Lucas Maes et.al.|[2602.08968v1](http://arxiv.org/abs/2602.08968v1)|null|
 |**2026-02-09**|**Automatic In-Domain Exemplar Construction and LLM-Based Refinement of Multi-LLM Expansions for Query Expansion**|Minghan Li et.al.|[2602.08917v1](http://arxiv.org/abs/2602.08917v1)|null|

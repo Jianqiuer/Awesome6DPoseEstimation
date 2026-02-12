@@ -3277,6 +3277,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143v1](http://arxiv.org/abs/2602.11143v1)|null|
 |**2026-02-11**|**Time Series Foundation Models for Energy Load Forecasting on Consumer Hardware: A Multi-Dimensional Zero-Shot Benchmark**|Luigi Simeone et.al.|[2602.10848v1](http://arxiv.org/abs/2602.10848v1)|null|
 |**2026-02-11**|**Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling**|Alaa Elsetohy et.al.|[2602.10732v1](http://arxiv.org/abs/2602.10732v1)|null|
 |**2026-02-11**|**OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL**|Jinjie Shen et.al.|[2602.10687v1](http://arxiv.org/abs/2602.10687v1)|null|

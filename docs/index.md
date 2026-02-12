@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.11
+## Updated on 2026.02.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818v1](http://arxiv.org/abs/2602.10818v1)|null|
 |**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032v1](http://arxiv.org/abs/2602.10032v1)|null|
 |**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414v1](http://arxiv.org/abs/2602.09414v1)|null|
 |**2026-02-09**|**WiFlow: A Lightweight WiFi-based Continuous Human Pose Estimation Network with Spatio-Temporal Feature Decoupling**|Yi Dao et.al.|[2602.08661v1](http://arxiv.org/abs/2602.08661v1)|null|
@@ -2701,6 +2702,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**End-to-End LiDAR optimization for 3D point cloud registration**|Siddhant Katyan et.al.|[2602.10492v1](http://arxiv.org/abs/2602.10492v1)|null|
 |**2026-02-03**|**Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios**|Kuo-Yi Chao et.al.|[2602.03908v1](http://arxiv.org/abs/2602.03908v1)|null|
 |**2026-01-14**|**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**|Emmanuele Barberi et.al.|[2601.09601v1](http://arxiv.org/abs/2601.09601v1)|null|
 |**2026-01-06**|**Towards Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups**|Hyungtae Lim et.al.|[2601.02759v1](http://arxiv.org/abs/2601.02759v1)|null|
@@ -3007,6 +3009,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871v1](http://arxiv.org/abs/2602.10871v1)|null|
 |**2026-01-27**|**Resolving Primitive-Sharing Ambiguity in Long-Tailed Industrial Point Cloud Segmentation via Spatial Context Constraints**|Chao Yin et.al.|[2601.19128v1](http://arxiv.org/abs/2601.19128v1)|null|
 |**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524v1](http://arxiv.org/abs/2601.12524v1)|null|
 |**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Ruopeng Huang et.al.|[2601.09920v1](http://arxiv.org/abs/2601.09920v1)|null|
@@ -3262,6 +3265,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**Time Series Foundation Models for Energy Load Forecasting on Consumer Hardware: A Multi-Dimensional Zero-Shot Benchmark**|Luigi Simeone et.al.|[2602.10848v1](http://arxiv.org/abs/2602.10848v1)|null|
+|**2026-02-11**|**Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling**|Alaa Elsetohy et.al.|[2602.10732v1](http://arxiv.org/abs/2602.10732v1)|null|
+|**2026-02-11**|**OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL**|Jinjie Shen et.al.|[2602.10687v1](http://arxiv.org/abs/2602.10687v1)|null|
+|**2026-02-11**|**Benchmarks Are Not That Out of Distribution: Word Overlap Predicts Performance**|Woojin Chung et.al.|[2602.10657v1](http://arxiv.org/abs/2602.10657v1)|null|
+|**2026-02-11**|**Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework**|Xinlei Huang et.al.|[2602.10644v1](http://arxiv.org/abs/2602.10644v1)|null|
+|**2026-02-11**|**A Vision-Language Foundation Model for Zero-shot Clinical Collaboration and Automated Concept Discovery in Dermatology**|Siyuan Yan et.al.|[2602.10624v1](http://arxiv.org/abs/2602.10624v1)|null|
+|**2026-02-11**|**dnaHNet: A Scalable and Hierarchical Foundation Model for Genomic Sequence Learning**|Arnav Shah et.al.|[2602.10603v1](http://arxiv.org/abs/2602.10603v1)|null|
+|**2026-02-11**|**LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer**|Lihan Zha et.al.|[2602.10556v1](http://arxiv.org/abs/2602.10556v1)|null|
+|**2026-02-10**|**Beyond Calibration: Confounding Pathology Limits Foundation Model Specificity in Abdominal Trauma CT**|Jineel H Raythatha et.al.|[2602.10359v1](http://arxiv.org/abs/2602.10359v1)|null|
+|**2026-02-10**|**Learning to Evict from Key-Value Cache**|Luca Moschella et.al.|[2602.10238v1](http://arxiv.org/abs/2602.10238v1)|null|
 |**2026-02-10**|**DexImit: Learning Bimanual Dexterous Manipulation from Monocular Human Videos**|Juncheng Mu et.al.|[2602.10105v1](http://arxiv.org/abs/2602.10105v1)|null|
 |**2026-02-10**|**Olaf-World: Orienting Latent Actions for Video World Modeling**|Yuxin Jiang et.al.|[2602.10104v1](http://arxiv.org/abs/2602.10104v1)|null|
 |**2026-02-10**|**Why Linear Interpretability Works: Invariant Subspaces as a Result of Architectural Constraints**|Andres Saurez et.al.|[2602.09783v1](http://arxiv.org/abs/2602.09783v1)|null|

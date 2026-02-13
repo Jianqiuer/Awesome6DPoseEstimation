@@ -1,4 +1,4 @@
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323v1](http://arxiv.org/abs/2602.11323v1)|null|
 |**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818v1](http://arxiv.org/abs/2602.10818v1)|null|
 |**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032v1](http://arxiv.org/abs/2602.10032v1)|null|
 |**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414v1](http://arxiv.org/abs/2602.09414v1)|null|
@@ -2704,7 +2705,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3013,7 +3014,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3271,12 +3272,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-12**|**Commencing-Student Enrolment Forecasting Under Data Sparsity with Time Series Foundation Models**|Jittarin Jetwiriyanon et.al.|[2602.12120v1](http://arxiv.org/abs/2602.12120v1)|null|
+|**2026-02-12**|**Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation**|Enrico Guerriero et.al.|[2602.12002v1](http://arxiv.org/abs/2602.12002v1)|null|
+|**2026-02-12**|**RAM-Net: Expressive Linear Attention with Selectively Addressable Memory**|Kaicheng Xiao et.al.|[2602.11958v1](http://arxiv.org/abs/2602.11958v1)|null|
+|**2026-02-12**|**Universal Diffusion-Based Probabilistic Downscaling**|Roberto Molinaro et.al.|[2602.11893v1](http://arxiv.org/abs/2602.11893v1)|null|
+|**2026-02-12**|**LAMP: Implicit Language Map for Robot Navigation**|Sibaek Lee et.al.|[2602.11862v1](http://arxiv.org/abs/2602.11862v1)|null|
+|**2026-02-12**|**Text2GQL-Bench: A Text to Graph Query Language Benchmark [Experiment, Analysis & Benchmark]**|Songlin Lyu et.al.|[2602.11745v1](http://arxiv.org/abs/2602.11745v1)|null|
+|**2026-02-12**|**STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning**|Xiaowen Zhang et.al.|[2602.11730v1](http://arxiv.org/abs/2602.11730v1)|null|
+|**2026-02-12**|**Clutt3R-Seg: Sparse-view 3D Instance Segmentation for Language-grounded Grasping in Cluttered Scenes**|Jeongho Noh et.al.|[2602.11660v1](http://arxiv.org/abs/2602.11660v1)|null|
+|**2026-02-12**|**Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts**|Haiyang Jiang et.al.|[2602.11622v1](http://arxiv.org/abs/2602.11622v1)|null|
+|**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575v1](http://arxiv.org/abs/2602.11575v1)|null|
 |**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143v1](http://arxiv.org/abs/2602.11143v1)|null|
 |**2026-02-11**|**Time Series Foundation Models for Energy Load Forecasting on Consumer Hardware: A Multi-Dimensional Zero-Shot Benchmark**|Luigi Simeone et.al.|[2602.10848v1](http://arxiv.org/abs/2602.10848v1)|null|
 |**2026-02-11**|**Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling**|Alaa Elsetohy et.al.|[2602.10732v1](http://arxiv.org/abs/2602.10732v1)|null|
@@ -9928,5 +9939,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260212>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260213>back to top</a>)</p>
 

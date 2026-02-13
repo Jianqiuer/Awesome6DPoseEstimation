@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.12
+## Updated on 2026.02.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323v1](http://arxiv.org/abs/2602.11323v1)|null|
 |**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818v1](http://arxiv.org/abs/2602.10818v1)|null|
 |**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032v1](http://arxiv.org/abs/2602.10032v1)|null|
 |**2026-02-10**|**Finite-time Stable Pose Estimation on TSE(3) using Point Cloud and Velocity Sensors**|Nazanin S. Hashkavaei et.al.|[2602.09414v1](http://arxiv.org/abs/2602.09414v1)|null|
@@ -3265,6 +3266,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Commencing-Student Enrolment Forecasting Under Data Sparsity with Time Series Foundation Models**|Jittarin Jetwiriyanon et.al.|[2602.12120v1](http://arxiv.org/abs/2602.12120v1)|null|
+|**2026-02-12**|**Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation**|Enrico Guerriero et.al.|[2602.12002v1](http://arxiv.org/abs/2602.12002v1)|null|
+|**2026-02-12**|**RAM-Net: Expressive Linear Attention with Selectively Addressable Memory**|Kaicheng Xiao et.al.|[2602.11958v1](http://arxiv.org/abs/2602.11958v1)|null|
+|**2026-02-12**|**Universal Diffusion-Based Probabilistic Downscaling**|Roberto Molinaro et.al.|[2602.11893v1](http://arxiv.org/abs/2602.11893v1)|null|
+|**2026-02-12**|**LAMP: Implicit Language Map for Robot Navigation**|Sibaek Lee et.al.|[2602.11862v1](http://arxiv.org/abs/2602.11862v1)|null|
+|**2026-02-12**|**Text2GQL-Bench: A Text to Graph Query Language Benchmark [Experiment, Analysis & Benchmark]**|Songlin Lyu et.al.|[2602.11745v1](http://arxiv.org/abs/2602.11745v1)|null|
+|**2026-02-12**|**STVG-R1: Incentivizing Instance-Level Reasoning and Grounding in Videos via Reinforcement Learning**|Xiaowen Zhang et.al.|[2602.11730v1](http://arxiv.org/abs/2602.11730v1)|null|
+|**2026-02-12**|**Clutt3R-Seg: Sparse-view 3D Instance Segmentation for Language-grounded Grasping in Cluttered Scenes**|Jeongho Noh et.al.|[2602.11660v1](http://arxiv.org/abs/2602.11660v1)|null|
+|**2026-02-12**|**Evolutionary Router Feature Generation for Zero-Shot Graph Anomaly Detection with Mixture-of-Experts**|Haiyang Jiang et.al.|[2602.11622v1](http://arxiv.org/abs/2602.11622v1)|null|
+|**2026-02-12**|**ReaDy-Go: Real-to-Sim Dynamic 3D Gaussian Splatting Simulation for Environment-Specific Visual Navigation with Moving Obstacles**|Seungyeon Yoo et.al.|[2602.11575v1](http://arxiv.org/abs/2602.11575v1)|null|
 |**2026-02-11**|**APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots**|Yikai Wang et.al.|[2602.11143v1](http://arxiv.org/abs/2602.11143v1)|null|
 |**2026-02-11**|**Time Series Foundation Models for Energy Load Forecasting on Consumer Hardware: A Multi-Dimensional Zero-Shot Benchmark**|Luigi Simeone et.al.|[2602.10848v1](http://arxiv.org/abs/2602.10848v1)|null|
 |**2026-02-11**|**Macaron: Controlled, Human-Written Benchmark for Multilingual and Multicultural Reasoning via Template-Filling**|Alaa Elsetohy et.al.|[2602.10732v1](http://arxiv.org/abs/2602.10732v1)|null|

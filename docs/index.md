@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.13
+## Updated on 2026.02.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3266,6 +3266,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-12**|**Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting**|Alex Chudic et.al.|[2602.12256v1](http://arxiv.org/abs/2602.12256v1)|null|
+|**2026-02-12**|**Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching**|Onkar Susladkar et.al.|[2602.12221v1](http://arxiv.org/abs/2602.12221v1)|null|
+|**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159v1](http://arxiv.org/abs/2602.12159v1)|null|
+|**2026-02-12**|**It's TIME: Towards the Next Generation of Time Series Forecasting Benchmarks**|Zhongzheng Qiao et.al.|[2602.12147v1](http://arxiv.org/abs/2602.12147v1)|null|
 |**2026-02-12**|**Commencing-Student Enrolment Forecasting Under Data Sparsity with Time Series Foundation Models**|Jittarin Jetwiriyanon et.al.|[2602.12120v1](http://arxiv.org/abs/2602.12120v1)|null|
 |**2026-02-12**|**Can Local Vision-Language Models improve Activity Recognition over Vision Transformers? -- Case Study on Newborn Resuscitation**|Enrico Guerriero et.al.|[2602.12002v1](http://arxiv.org/abs/2602.12002v1)|null|
 |**2026-02-12**|**RAM-Net: Expressive Linear Attention with Selectively Addressable Memory**|Kaicheng Xiao et.al.|[2602.11958v1](http://arxiv.org/abs/2602.11958v1)|null|

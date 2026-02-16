@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.15
+## Updated on 2026.02.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3266,6 +3266,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-13**|**UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph**|Haichao Liu et.al.|[2602.13086v1](http://arxiv.org/abs/2602.13086v1)|null|
+|**2026-02-13**|**Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic**|Shuai Liu et.al.|[2602.13071v1](http://arxiv.org/abs/2602.13071v1)|null|
+|**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022v1](http://arxiv.org/abs/2602.13022v1)|null|
+|**2026-02-13**|**DynaGuide: A Generalizable Dynamic Guidance Framework for Unsupervised Semantic Segmentation**|Boujemaa Guermazi et.al.|[2602.13020v1](http://arxiv.org/abs/2602.13020v1)|null|
+|**2026-02-13**|**Synthetic Craquelure Generation for Unsupervised Painting Restoration**|Jana Cuch-Guillén et.al.|[2602.12742v1](http://arxiv.org/abs/2602.12742v1)|null|
+|**2026-02-13**|**Scaling Single Human Demonstrations for Imitation Learning using Generative Foundational Models**|Nick Heppert et.al.|[2602.12734v1](http://arxiv.org/abs/2602.12734v1)|null|
+|**2026-02-13**|**ReFilter: Improving Robustness of Retrieval-Augmented Generation via Gated Filter**|Yixin Chen et.al.|[2602.12709v1](http://arxiv.org/abs/2602.12709v1)|null|
+|**2026-02-13**|**The Constant Eye: Benchmarking and Bridging Appearance Robustness in Autonomous Driving**|Jiabao Wang et.al.|[2602.12563v1](http://arxiv.org/abs/2602.12563v1)|null|
+|**2026-02-13**|**DiffuRank: Effective Document Reranking with Diffusion Language Models**|Qi Liu et.al.|[2602.12528v1](http://arxiv.org/abs/2602.12528v1)|null|
+|**2026-02-12**|**Semantic-aware Adversarial Fine-tuning for CLIP**|Jiacheng Zhang et.al.|[2602.12461v1](http://arxiv.org/abs/2602.12461v1)|null|
 |**2026-02-12**|**Automated Test Suite Enhancement Using Large Language Models with Few-shot Prompting**|Alex Chudic et.al.|[2602.12256v1](http://arxiv.org/abs/2602.12256v1)|null|
 |**2026-02-12**|**Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching**|Onkar Susladkar et.al.|[2602.12221v1](http://arxiv.org/abs/2602.12221v1)|null|
 |**2026-02-12**|**3DGSNav: Enhancing Vision-Language Model Reasoning for Object Navigation via Active 3D Gaussian Splatting**|Wancai Zheng et.al.|[2602.12159v1](http://arxiv.org/abs/2602.12159v1)|null|

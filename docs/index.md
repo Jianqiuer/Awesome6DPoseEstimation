@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582v1](http://arxiv.org/abs/2602.14582v1)|null|
+|**2026-02-16**|**Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning**|Haichao Zhu et.al.|[2602.14409v1](http://arxiv.org/abs/2602.14409v1)|null|
 |**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021v1](http://arxiv.org/abs/2602.14021v1)|null|
 |**2026-02-14**|**RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**|Zhanyu Tuo et.al.|[2602.13901v1](http://arxiv.org/abs/2602.13901v1)|null|
 |**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323v1](http://arxiv.org/abs/2602.11323v1)|null|
@@ -3268,6 +3270,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013v1](http://arxiv.org/abs/2602.15013v1)|null|
+|**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929v1](http://arxiv.org/abs/2602.14929v1)|null|
+|**2026-02-16**|**World Models for Policy Refinement in StarCraft II**|Yixin Zhang et.al.|[2602.14857v1](http://arxiv.org/abs/2602.14857v1)|null|
+|**2026-02-16**|**SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning**|Shishir Muralidhara et.al.|[2602.14767v1](http://arxiv.org/abs/2602.14767v1)|null|
+|**2026-02-16**|**It's a Matter of Time: Three Lessons on Long-Term Motion for Perception**|Willem Davison et.al.|[2602.14705v1](http://arxiv.org/abs/2602.14705v1)|null|
+|**2026-02-16**|**A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)**|Nihal V. Nayak et.al.|[2602.14696v1](http://arxiv.org/abs/2602.14696v1)|null|
+|**2026-02-16**|**Assessing Large Language Models for Medical QA: Zero-Shot and LLM-as-a-Judge Evaluation**|Shefayat E Shams Adib et.al.|[2602.14564v1](http://arxiv.org/abs/2602.14564v1)|null|
+|**2026-02-16**|**AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation**|Morgan Byrd et.al.|[2602.14363v1](http://arxiv.org/abs/2602.14363v1)|null|
+|**2026-02-15**|**Zero-Shot Instruction Following in RL via Structured LTL Representations**|Mathias Jackermeier et.al.|[2602.14344v1](http://arxiv.org/abs/2602.14344v1)|null|
 |**2026-02-15**|**Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization**|Rizhen Hu et.al.|[2602.14159v1](http://arxiv.org/abs/2602.14159v1)|null|
 |**2026-02-15**|**A Multi-Agent Framework for Medical AI: Leveraging Fine-Tuned GPT, LLaMA, and DeepSeek R1 for Evidence-Based and Bias-Aware Clinical Query Processing**|Naeimeh Nourmohammadi et.al.|[2602.14158v1](http://arxiv.org/abs/2602.14158v1)|null|
 |**2026-02-15**|**Position Encoding with Random Float Sampling Enhances Length Generalization of Transformers**|Atsushi Shimizu et.al.|[2602.14050v1](http://arxiv.org/abs/2602.14050v1)|null|

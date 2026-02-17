@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021v1](http://arxiv.org/abs/2602.14021v1)|null|
+|**2026-02-14**|**RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**|Zhanyu Tuo et.al.|[2602.13901v1](http://arxiv.org/abs/2602.13901v1)|null|
 |**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323v1](http://arxiv.org/abs/2602.11323v1)|null|
 |**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818v1](http://arxiv.org/abs/2602.10818v1)|null|
 |**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032v1](http://arxiv.org/abs/2602.10032v1)|null|
@@ -2710,7 +2712,7 @@ layout: default
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Qian Wang et.al.|[2512.24428v1](http://arxiv.org/abs/2512.24428v1)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
 |**2026-01-14**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v2](http://arxiv.org/abs/2512.11354v2)|null|
-|**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
+|**2026-02-14**|**Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v2](http://arxiv.org/abs/2512.09407v2)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
 |**2025-11-30**|**LAHNet: Local Attentive Hashing Network for Point Cloud Registration**|Wentao Qu et.al.|[2512.00927v1](http://arxiv.org/abs/2512.00927v1)|null|
@@ -3266,6 +3268,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-15**|**Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization**|Rizhen Hu et.al.|[2602.14159v1](http://arxiv.org/abs/2602.14159v1)|null|
+|**2026-02-15**|**A Multi-Agent Framework for Medical AI: Leveraging Fine-Tuned GPT, LLaMA, and DeepSeek R1 for Evidence-Based and Bias-Aware Clinical Query Processing**|Naeimeh Nourmohammadi et.al.|[2602.14158v1](http://arxiv.org/abs/2602.14158v1)|null|
+|**2026-02-15**|**Position Encoding with Random Float Sampling Enhances Length Generalization of Transformers**|Atsushi Shimizu et.al.|[2602.14050v1](http://arxiv.org/abs/2602.14050v1)|null|
+|**2026-02-15**|**FloCA: Towards Faithful and Logically Consistent Flowchart Reasoning**|Jinzi Zou et.al.|[2602.14035v1](http://arxiv.org/abs/2602.14035v1)|null|
+|**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012v1](http://arxiv.org/abs/2602.14012v1)|null|
+|**2026-02-15**|**Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis**|Tongze Zhang et.al.|[2602.13979v1](http://arxiv.org/abs/2602.13979v1)|null|
+|**2026-02-15**|**A Generalizable Physics-guided Causal Model for Trajectory Prediction in Autonomous Driving**|Zhenyu Zong et.al.|[2602.13936v1](http://arxiv.org/abs/2602.13936v1)|null|
+|**2026-02-14**|**PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training**|Yuhan Cheng et.al.|[2602.13840v1](http://arxiv.org/abs/2602.13840v1)|null|
+|**2026-02-14**|**Semantic-Contact Fields for Category-Level Generalizable Tactile Tool Manipulation**|Kevin Yuchen Ma et.al.|[2602.13833v1](http://arxiv.org/abs/2602.13833v1)|null|
+|**2026-02-14**|**MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials**|Connor W. Edwards et.al.|[2602.13725v1](http://arxiv.org/abs/2602.13725v1)|null|
 |**2026-02-13**|**UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph**|Haichao Liu et.al.|[2602.13086v1](http://arxiv.org/abs/2602.13086v1)|null|
 |**2026-02-13**|**Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic**|Shuai Liu et.al.|[2602.13071v1](http://arxiv.org/abs/2602.13071v1)|null|
 |**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022v1](http://arxiv.org/abs/2602.13022v1)|null|

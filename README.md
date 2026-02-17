@@ -1,4 +1,4 @@
-## Updated on 2026.02.16
+## Updated on 2026.02.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021v1](http://arxiv.org/abs/2602.14021v1)|null|
+|**2026-02-14**|**RPGD: RANSAC-P3P Gradient Descent for Extrinsic Calibration in 3D Human Pose Estimation**|Zhanyu Tuo et.al.|[2602.13901v1](http://arxiv.org/abs/2602.13901v1)|null|
 |**2026-02-11**|**MDE-VIO: Enhancing Visual-Inertial Odometry Using Learned Depth Priors**|Arda Alniak et.al.|[2602.11323v1](http://arxiv.org/abs/2602.11323v1)|null|
 |**2026-02-11**|**Resource-Efficient RGB-Only Action Recognition for Edge Deployment**|Dongsik Yoon et.al.|[2602.10818v1](http://arxiv.org/abs/2602.10818v1)|null|
 |**2026-02-10**|**Perception with Guarantees: Certified Pose Estimation via Reachability Analysis**|Tobias Ladner et.al.|[2602.10032v1](http://arxiv.org/abs/2602.10032v1)|null|
@@ -2705,7 +2707,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -2718,7 +2720,7 @@
 |**2025-12-30**|**Subsecond 3D Mesh Generation for Robot Manipulation**|Qian Wang et.al.|[2512.24428v1](http://arxiv.org/abs/2512.24428v1)|null|
 |**2025-12-29**|**MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration**|Shuyuan Lin et.al.|[2512.23472v1](http://arxiv.org/abs/2512.23472v1)|null|
 |**2026-01-14**|**A Multi-Mode Structured Light 3D Imaging System with Multi-Source Information Fusion for Underwater Pipeline Detection**|Qinghan Hu et.al.|[2512.11354v2](http://arxiv.org/abs/2512.11354v2)|null|
-|**2025-12-10**|**Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v1](http://arxiv.org/abs/2512.09407v1)|null|
+|**2026-02-14**|**Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration**|Haobo Jiang et.al.|[2512.09407v2](http://arxiv.org/abs/2512.09407v2)|null|
 |**2025-12-04**|**A dynamic memory assignment strategy for dilation-based ICP algorithm on embedded GPUs**|Qiong Chang et.al.|[2512.04996v1](http://arxiv.org/abs/2512.04996v1)|null|
 |**2025-12-01**|**Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching**|Yue Pan et.al.|[2512.01850v1](http://arxiv.org/abs/2512.01850v1)|null|
 |**2025-11-30**|**LAHNet: Local Attentive Hashing Network for Point Cloud Registration**|Wentao Qu et.al.|[2512.00927v1](http://arxiv.org/abs/2512.00927v1)|null|
@@ -3014,7 +3016,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3272,12 +3274,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-15**|**Synergistic Intra- and Cross-Layer Regularization Losses for MoE Expert Specialization**|Rizhen Hu et.al.|[2602.14159v1](http://arxiv.org/abs/2602.14159v1)|null|
+|**2026-02-15**|**A Multi-Agent Framework for Medical AI: Leveraging Fine-Tuned GPT, LLaMA, and DeepSeek R1 for Evidence-Based and Bias-Aware Clinical Query Processing**|Naeimeh Nourmohammadi et.al.|[2602.14158v1](http://arxiv.org/abs/2602.14158v1)|null|
+|**2026-02-15**|**Position Encoding with Random Float Sampling Enhances Length Generalization of Transformers**|Atsushi Shimizu et.al.|[2602.14050v1](http://arxiv.org/abs/2602.14050v1)|null|
+|**2026-02-15**|**FloCA: Towards Faithful and Logically Consistent Flowchart Reasoning**|Jinzi Zou et.al.|[2602.14035v1](http://arxiv.org/abs/2602.14035v1)|null|
+|**2026-02-15**|**From SFT to RL: Demystifying the Post-Training Pipeline for LLM-based Vulnerability Detection**|Youpeng Li et.al.|[2602.14012v1](http://arxiv.org/abs/2602.14012v1)|null|
+|**2026-02-15**|**Chain-of-Thought Reasoning with Large Language Models for Clinical Alzheimer's Disease Assessment and Diagnosis**|Tongze Zhang et.al.|[2602.13979v1](http://arxiv.org/abs/2602.13979v1)|null|
+|**2026-02-15**|**A Generalizable Physics-guided Causal Model for Trajectory Prediction in Autonomous Driving**|Zhenyu Zong et.al.|[2602.13936v1](http://arxiv.org/abs/2602.13936v1)|null|
+|**2026-02-14**|**PrivAct: Internalizing Contextual Privacy Preservation via Multi-Agent Preference Training**|Yuhan Cheng et.al.|[2602.13840v1](http://arxiv.org/abs/2602.13840v1)|null|
+|**2026-02-14**|**Semantic-Contact Fields for Category-Level Generalizable Tactile Tool Manipulation**|Kevin Yuchen Ma et.al.|[2602.13833v1](http://arxiv.org/abs/2602.13833v1)|null|
+|**2026-02-14**|**MLIP-MC: A Framework for Adsorption Simulations using Machine-Learned Interatomic Potentials**|Connor W. Edwards et.al.|[2602.13725v1](http://arxiv.org/abs/2602.13725v1)|null|
 |**2026-02-13**|**UniManip: General-Purpose Zero-Shot Robotic Manipulation with Agentic Operational Graph**|Haichao Liu et.al.|[2602.13086v1](http://arxiv.org/abs/2602.13086v1)|null|
 |**2026-02-13**|**Bus-Conditioned Zero-Shot Trajectory Generation via Task Arithmetic**|Shuai Liu et.al.|[2602.13071v1](http://arxiv.org/abs/2602.13071v1)|null|
 |**2026-02-13**|**Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels**|Julius Pesonen et.al.|[2602.13022v1](http://arxiv.org/abs/2602.13022v1)|null|
@@ -9953,5 +9965,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260216>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260217>back to top</a>)</p>
 

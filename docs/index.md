@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.02.17
+## Updated on 2026.02.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3270,6 +3270,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828v1](http://arxiv.org/abs/2602.15828v1)|null|
+|**2026-02-17**|**Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac**|Chahan Vidal-Gorène et.al.|[2602.15753v1](http://arxiv.org/abs/2602.15753v1)|null|
+|**2026-02-17**|**CAMEL: An ECG Language Model for Forecasting Cardiac Events**|Neelay Velingker et.al.|[2602.15677v1](http://arxiv.org/abs/2602.15677v1)|null|
+|**2026-02-17**|**Eco-Amazon: Enriching E-commerce Datasets with Product Carbon Footprint for Sustainable Recommendations**|Giuseppe Spillo et.al.|[2602.15508v1](http://arxiv.org/abs/2602.15508v1)|null|
+|**2026-02-17**|**Emergent Morphing Attack Detection in Open Multi-modal Large Language Models**|Marija Ivanovska et.al.|[2602.15461v1](http://arxiv.org/abs/2602.15461v1)|null|
+|**2026-02-17**|**One Agent to Guide Them All: Empowering MLLMs for Vision-and-Language Navigation via Explicit World Representation**|Zerui Li et.al.|[2602.15400v1](http://arxiv.org/abs/2602.15400v1)|null|
+|**2026-02-17**|**GMAIL: Generative Modality Alignment for generated Image Learning**|Shentong Mo et.al.|[2602.15368v1](http://arxiv.org/abs/2602.15368v1)|null|
+|**2026-02-17**|**Fine-Tuning LLMs to Generate Economical and Reliable Actions for the Power Grid**|Mohamad Chehade et.al.|[2602.15350v1](http://arxiv.org/abs/2602.15350v1)|null|
+|**2026-02-17**|**Training-Free Zero-Shot Anomaly Detection in 3D Brain MRI with 2D Foundation Models**|Tai Le-Gia et.al.|[2602.15315v1](http://arxiv.org/abs/2602.15315v1)|null|
+|**2026-02-16**|**An Empirical Study on the Effects of System Prompts in Instruction-Tuned Models for Code Generation**|Zaiyu Cheng et.al.|[2602.15228v1](http://arxiv.org/abs/2602.15228v1)|null|
 |**2026-02-16**|**Text Style Transfer with Parameter-efficient LLM Finetuning and Round-trip Translation**|Ruoxi Liu et.al.|[2602.15013v1](http://arxiv.org/abs/2602.15013v1)|null|
 |**2026-02-16**|**Wrivinder: Towards Spatial Intelligence for Geo-locating Ground Images onto Satellite Imagery**|Chandrakanth Gudavalli et.al.|[2602.14929v1](http://arxiv.org/abs/2602.14929v1)|null|
 |**2026-02-16**|**World Models for Policy Refinement in StarCraft II**|Yixin Zhang et.al.|[2602.14857v1](http://arxiv.org/abs/2602.14857v1)|null|

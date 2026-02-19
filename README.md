@@ -1,4 +1,4 @@
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators**|Junhyun Park et.al.|[2602.16365v1](http://arxiv.org/abs/2602.16365v1)|null|
+|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308v1](http://arxiv.org/abs/2602.16308v1)|null|
 |**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582v1](http://arxiv.org/abs/2602.14582v1)|null|
 |**2026-02-16**|**Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning**|Haichao Zhu et.al.|[2602.14409v1](http://arxiv.org/abs/2602.14409v1)|null|
 |**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021v1](http://arxiv.org/abs/2602.14021v1)|null|
@@ -2709,7 +2711,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3018,7 +3020,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3276,12 +3278,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712v1](http://arxiv.org/abs/2602.16712v1)|null|
+|**2026-02-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al.|[2602.16681v1](http://arxiv.org/abs/2602.16681v1)|null|
+|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675v1](http://arxiv.org/abs/2602.16675v1)|null|
+|**2026-02-18**|**Optimizing p-spin models through hypergraph neural networks and deep reinforcement learning**|Li Zeng et.al.|[2602.16665v1](http://arxiv.org/abs/2602.16665v1)|null|
+|**2026-02-18**|**Let's Split Up: Zero-Shot Classifier Edits for Fine-Grained Video Understanding**|Kaiting Liu et.al.|[2602.16545v1](http://arxiv.org/abs/2602.16545v1)|null|
+|**2026-02-18**|**VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**|Osher Azulay et.al.|[2602.16511v1](http://arxiv.org/abs/2602.16511v1)|null|
+|**2026-02-18**|**IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models**|Saurabh Bharti et.al.|[2602.16467v1](http://arxiv.org/abs/2602.16467v1)|null|
+|**2026-02-18**|**MultiCW: A Large-Scale Balanced Benchmark Dataset for Training Robust Check-Worthiness Detection Models**|Martin Hyben et.al.|[2602.16298v1](http://arxiv.org/abs/2602.16298v1)|null|
+|**2026-02-18**|**Are LLMs Ready to Replace Bangla Annotators?**|Md. Najib Hasan et.al.|[2602.16241v1](http://arxiv.org/abs/2602.16241v1)|null|
+|**2026-02-17**|**MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval**|Ahmad Elallaf et.al.|[2602.16019v1](http://arxiv.org/abs/2602.16019v1)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828v1](http://arxiv.org/abs/2602.15828v1)|null|
 |**2026-02-17**|**Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac**|Chahan Vidal-Gorène et.al.|[2602.15753v1](http://arxiv.org/abs/2602.15753v1)|null|
 |**2026-02-17**|**CAMEL: An ECG Language Model for Forecasting Cardiac Events**|Neelay Velingker et.al.|[2602.15677v1](http://arxiv.org/abs/2602.15677v1)|null|
@@ -9986,5 +9998,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260218>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
 

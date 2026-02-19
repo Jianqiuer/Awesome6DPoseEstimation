@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.02.18
+## Updated on 2026.02.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators**|Junhyun Park et.al.|[2602.16365v1](http://arxiv.org/abs/2602.16365v1)|null|
+|**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308v1](http://arxiv.org/abs/2602.16308v1)|null|
 |**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582v1](http://arxiv.org/abs/2602.14582v1)|null|
 |**2026-02-16**|**Learning Proposes, Geometry Disposes: A Modular Framework for Efficient Spatial Reasoning**|Haichao Zhu et.al.|[2602.14409v1](http://arxiv.org/abs/2602.14409v1)|null|
 |**2026-02-15**|**Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow**|Shenhan Qian et.al.|[2602.14021v1](http://arxiv.org/abs/2602.14021v1)|null|
@@ -3270,6 +3272,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712v1](http://arxiv.org/abs/2602.16712v1)|null|
+|**2026-02-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al.|[2602.16681v1](http://arxiv.org/abs/2602.16681v1)|null|
+|**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675v1](http://arxiv.org/abs/2602.16675v1)|null|
+|**2026-02-18**|**Optimizing p-spin models through hypergraph neural networks and deep reinforcement learning**|Li Zeng et.al.|[2602.16665v1](http://arxiv.org/abs/2602.16665v1)|null|
+|**2026-02-18**|**Let's Split Up: Zero-Shot Classifier Edits for Fine-Grained Video Understanding**|Kaiting Liu et.al.|[2602.16545v1](http://arxiv.org/abs/2602.16545v1)|null|
+|**2026-02-18**|**VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety**|Osher Azulay et.al.|[2602.16511v1](http://arxiv.org/abs/2602.16511v1)|null|
+|**2026-02-18**|**IndicEval: A Bilingual Indian Educational Evaluation Framework for Large Language Models**|Saurabh Bharti et.al.|[2602.16467v1](http://arxiv.org/abs/2602.16467v1)|null|
+|**2026-02-18**|**MultiCW: A Large-Scale Balanced Benchmark Dataset for Training Robust Check-Worthiness Detection Models**|Martin Hyben et.al.|[2602.16298v1](http://arxiv.org/abs/2602.16298v1)|null|
+|**2026-02-18**|**Are LLMs Ready to Replace Bangla Annotators?**|Md. Najib Hasan et.al.|[2602.16241v1](http://arxiv.org/abs/2602.16241v1)|null|
+|**2026-02-17**|**MedProbCLIP: Probabilistic Adaptation of Vision-Language Foundation Model for Reliable Radiograph-Report Retrieval**|Ahmad Elallaf et.al.|[2602.16019v1](http://arxiv.org/abs/2602.16019v1)|null|
 |**2026-02-17**|**Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation**|Yuxuan Kuang et.al.|[2602.15828v1](http://arxiv.org/abs/2602.15828v1)|null|
 |**2026-02-17**|**Under-resourced studies of under-resourced languages: lemmatization and POS-tagging with LLM annotators for historical Armenian, Georgian, Greek and Syriac**|Chahan Vidal-Gorène et.al.|[2602.15753v1](http://arxiv.org/abs/2602.15753v1)|null|
 |**2026-02-17**|**CAMEL: An ECG Language Model for Forecasting Cardiac Events**|Neelay Velingker et.al.|[2602.15677v1](http://arxiv.org/abs/2602.15677v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.02.19
+## Updated on 2026.02.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**FoundationPose-Initialized 3D-2D Liver Registration for Surgical Augmented Reality**|Hanyuan Zhang et.al.|[2602.17517v1](http://arxiv.org/abs/2602.17517v1)|null|
+|**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182v1](http://arxiv.org/abs/2602.17182v1)|null|
+|**2026-02-19**|**Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**|Varun Burde et.al.|[2602.17101v1](http://arxiv.org/abs/2602.17101v1)|null|
 |**2026-02-18**|**Markerless 6D Pose Estimation and Position-Based Visual Servoing for Endoscopic Continuum Manipulators**|Junhyun Park et.al.|[2602.16365v1](http://arxiv.org/abs/2602.16365v1)|null|
 |**2026-02-18**|**Markerless Robot Detection and 6D Pose Estimation for Multi-Agent SLAM**|Markus Rueggeberg et.al.|[2602.16308v1](http://arxiv.org/abs/2602.16308v1)|null|
 |**2026-02-16**|**YOLO26: A Comprehensive Architecture Overview and Key Improvements**|Priyanto Hidayatullah et.al.|[2602.14582v1](http://arxiv.org/abs/2602.14582v1)|null|
@@ -2711,7 +2714,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3020,7 +3023,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3278,12 +3281,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Human-level 3D shape perception emerges from multi-view learning**|Tyler Bonnen et.al.|[2602.17650v1](http://arxiv.org/abs/2602.17650v1)|null|
+|**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634v1](http://arxiv.org/abs/2602.17634v1)|null|
+|**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[2602.17535v1](http://arxiv.org/abs/2602.17535v1)|null|
+|**2026-02-19**|**Bridging the Domain Divide: Supervised vs. Zero-Shot Clinical Section Segmentation from MIMIC-III to Obstetrics**|Baris Karacan et.al.|[2602.17513v1](http://arxiv.org/abs/2602.17513v1)|null|
+|**2026-02-19**|**JEPA-DNA: Grounding Genomic Foundation Models through Joint-Embedding Predictive Architectures**|Ariel Larey et.al.|[2602.17162v1](http://arxiv.org/abs/2602.17162v1)|null|
+|**2026-02-19**|**BankMathBench: A Benchmark for Numerical Reasoning in Banking Scenarios**|Yunseung Lee et.al.|[2602.17072v1](http://arxiv.org/abs/2602.17072v1)|null|
+|**2026-02-18**|**BEMEval-Doc2Schema: Benchmarking Large Language Models for Structured Data Extraction in Building Energy Modeling**|Yiyuan Jia et.al.|[2602.16926v1](http://arxiv.org/abs/2602.16926v1)|null|
+|**2026-02-18**|**StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation**|Zeyu Ren et.al.|[2602.16915v1](http://arxiv.org/abs/2602.16915v1)|null|
+|**2026-02-18**|**MALLVI: a multi agent framework for integrated generalized robotics manipulation**|Iman Ahmadi et.al.|[2602.16898v1](http://arxiv.org/abs/2602.16898v1)|null|
+|**2026-02-18**|**SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation**|Kushal Kedia et.al.|[2602.16863v1](http://arxiv.org/abs/2602.16863v1)|null|
 |**2026-02-18**|**One Hand to Rule Them All: Canonical Representations for Unified Dexterous Manipulation**|Zhenyu Wei et.al.|[2602.16712v1](http://arxiv.org/abs/2602.16712v1)|null|
 |**2026-02-18**|**VETime: Vision Enhanced Zero-Shot Time Series Anomaly Detection**|Yingyuan Yang et.al.|[2602.16681v1](http://arxiv.org/abs/2602.16681v1)|null|
 |**2026-02-18**|**Learning to unfold cloth: Scaling up world models to deformable object manipulation**|Jack Rome et.al.|[2602.16675v1](http://arxiv.org/abs/2602.16675v1)|null|
@@ -9998,5 +10011,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260219>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260220>back to top</a>)</p>
 

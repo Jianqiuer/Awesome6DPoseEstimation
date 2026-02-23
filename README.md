@@ -1,4 +1,4 @@
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785v1](http://arxiv.org/abs/2602.17785v1)|null|
 |**2026-02-19**|**FoundationPose-Initialized 3D-2D Liver Registration for Surgical Augmented Reality**|Hanyuan Zhang et.al.|[2602.17517v1](http://arxiv.org/abs/2602.17517v1)|null|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182v1](http://arxiv.org/abs/2602.17182v1)|null|
 |**2026-02-19**|**Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**|Varun Burde et.al.|[2602.17101v1](http://arxiv.org/abs/2602.17101v1)|null|
@@ -2714,7 +2715,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260223>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3023,7 +3024,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260223>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3032,7 +3033,7 @@
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871v1](http://arxiv.org/abs/2602.10871v1)|null|
 |**2026-01-27**|**Resolving Primitive-Sharing Ambiguity in Long-Tailed Industrial Point Cloud Segmentation via Spatial Context Constraints**|Chao Yin et.al.|[2601.19128v1](http://arxiv.org/abs/2601.19128v1)|null|
 |**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524v1](http://arxiv.org/abs/2601.12524v1)|null|
-|**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Ruopeng Huang et.al.|[2601.09920v1](http://arxiv.org/abs/2601.09920v1)|null|
+|**2026-02-20**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Manipulation**|Ruopeng Huang et.al.|[2601.09920v2](http://arxiv.org/abs/2601.09920v2)|null|
 |**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456v1](http://arxiv.org/abs/2601.01456v1)|null|
 |**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201v1](http://arxiv.org/abs/2512.24201v1)|null|
 |**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882v1](http://arxiv.org/abs/2512.06882v1)|null|
@@ -3281,12 +3282,20 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260223>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-20**|**Self-Aware Object Detection via Degradation Manifolds**|Stefan Becker et.al.|[2602.18394v1](http://arxiv.org/abs/2602.18394v1)|null|
+|**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374v1](http://arxiv.org/abs/2602.18374v1)|null|
+|**2026-02-20**|**EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots**|Boyuan An et.al.|[2602.18071v1](http://arxiv.org/abs/2602.18071v1)|null|
+|**2026-02-20**|**PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes**|Karkulali Pugalenthi et.al.|[2602.18042v1](http://arxiv.org/abs/2602.18042v1)|null|
+|**2026-02-20**|**Latent Diffeomorphic Co-Design of End-Effectors for Deformable and Fragile Object Manipulation**|Kei Ikemura et.al.|[2602.17921v1](http://arxiv.org/abs/2602.17921v1)|null|
+|**2026-02-19**|**MultiVer: Zero-Shot Multi-Agent Vulnerability Detection**|Shreshth Rajan et.al.|[2602.17875v1](http://arxiv.org/abs/2602.17875v1)|null|
+|**2026-02-19**|**MantisV2: Closing the Zero-Shot Gap in Time Series Classification with Synthetic Data and Test-Time Strategies**|Vasilii Feofanov et.al.|[2602.17868v1](http://arxiv.org/abs/2602.17868v1)|null|
+|**2026-02-19**|**Enabling Training-Free Text-Based Remote Sensing Segmentation**|Jose Sosa et.al.|[2602.17799v1](http://arxiv.org/abs/2602.17799v1)|null|
 |**2026-02-19**|**Human-level 3D shape perception emerges from multi-view learning**|Tyler Bonnen et.al.|[2602.17650v1](http://arxiv.org/abs/2602.17650v1)|null|
 |**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634v1](http://arxiv.org/abs/2602.17634v1)|null|
 |**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[2602.17535v1](http://arxiv.org/abs/2602.17535v1)|null|
@@ -10011,5 +10020,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260222>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260223>back to top</a>)</p>
 

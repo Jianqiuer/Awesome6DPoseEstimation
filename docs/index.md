@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.02.22
+## Updated on 2026.02.23
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785v1](http://arxiv.org/abs/2602.17785v1)|null|
 |**2026-02-19**|**FoundationPose-Initialized 3D-2D Liver Registration for Surgical Augmented Reality**|Hanyuan Zhang et.al.|[2602.17517v1](http://arxiv.org/abs/2602.17517v1)|null|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182v1](http://arxiv.org/abs/2602.17182v1)|null|
 |**2026-02-19**|**Benchmarking the Effects of Object Pose Estimation and Reconstruction on Robotic Grasping Success**|Varun Burde et.al.|[2602.17101v1](http://arxiv.org/abs/2602.17101v1)|null|
@@ -3022,7 +3023,7 @@ layout: default
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871v1](http://arxiv.org/abs/2602.10871v1)|null|
 |**2026-01-27**|**Resolving Primitive-Sharing Ambiguity in Long-Tailed Industrial Point Cloud Segmentation via Spatial Context Constraints**|Chao Yin et.al.|[2601.19128v1](http://arxiv.org/abs/2601.19128v1)|null|
 |**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524v1](http://arxiv.org/abs/2601.12524v1)|null|
-|**2026-01-14**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Grasping**|Ruopeng Huang et.al.|[2601.09920v1](http://arxiv.org/abs/2601.09920v1)|null|
+|**2026-02-20**|**SyncTwin: Fast Digital Twin Construction and Synchronization for Safe Robotic Manipulation**|Ruopeng Huang et.al.|[2601.09920v2](http://arxiv.org/abs/2601.09920v2)|null|
 |**2026-01-04**|**Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration**|Wentao Bian et.al.|[2601.01456v1](http://arxiv.org/abs/2601.01456v1)|null|
 |**2025-12-30**|**BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness**|Yating Cai et.al.|[2512.24201v1](http://arxiv.org/abs/2512.24201v1)|null|
 |**2025-12-07**|**Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion**|Yu Zhu et.al.|[2512.06882v1](http://arxiv.org/abs/2512.06882v1)|null|
@@ -3275,6 +3276,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-20**|**Self-Aware Object Detection via Degradation Manifolds**|Stefan Becker et.al.|[2602.18394v1](http://arxiv.org/abs/2602.18394v1)|null|
+|**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374v1](http://arxiv.org/abs/2602.18374v1)|null|
+|**2026-02-20**|**EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots**|Boyuan An et.al.|[2602.18071v1](http://arxiv.org/abs/2602.18071v1)|null|
+|**2026-02-20**|**PINEAPPLE: Physics-Informed Neuro-Evolution Algorithm for Prognostic Parameter Inference in Lithium-Ion Battery Electrodes**|Karkulali Pugalenthi et.al.|[2602.18042v1](http://arxiv.org/abs/2602.18042v1)|null|
+|**2026-02-20**|**Latent Diffeomorphic Co-Design of End-Effectors for Deformable and Fragile Object Manipulation**|Kei Ikemura et.al.|[2602.17921v1](http://arxiv.org/abs/2602.17921v1)|null|
+|**2026-02-19**|**MultiVer: Zero-Shot Multi-Agent Vulnerability Detection**|Shreshth Rajan et.al.|[2602.17875v1](http://arxiv.org/abs/2602.17875v1)|null|
+|**2026-02-19**|**MantisV2: Closing the Zero-Shot Gap in Time Series Classification with Synthetic Data and Test-Time Strategies**|Vasilii Feofanov et.al.|[2602.17868v1](http://arxiv.org/abs/2602.17868v1)|null|
+|**2026-02-19**|**Enabling Training-Free Text-Based Remote Sensing Segmentation**|Jose Sosa et.al.|[2602.17799v1](http://arxiv.org/abs/2602.17799v1)|null|
 |**2026-02-19**|**Human-level 3D shape perception emerges from multi-view learning**|Tyler Bonnen et.al.|[2602.17650v1](http://arxiv.org/abs/2602.17650v1)|null|
 |**2026-02-19**|**Reverso: Efficient Time Series Foundation Models for Zero-shot Forecasting**|Xinghong Fu et.al.|[2602.17634v1](http://arxiv.org/abs/2602.17634v1)|null|
 |**2026-02-19**|**LATA: Laplacian-Assisted Transductive Adaptation for Conformal Uncertainty in Medical VLMs**|Behzad Bozorgtabar et.al.|[2602.17535v1](http://arxiv.org/abs/2602.17535v1)|null|

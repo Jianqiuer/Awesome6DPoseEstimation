@@ -7,6 +7,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**SEAL-pose: Enhancing 3D Human Pose Estimation via a Learned Loss for Structural Consistency**|Yeonsung Kim et.al.|[2602.20051v1](http://arxiv.org/abs/2602.20051v1)|null|
+|**2026-02-23**|**Learning Positive-Incentive Point Sampling in Neural Implicit Fields for Object Pose Estimation**|Yifei Shi et.al.|[2602.19937v1](http://arxiv.org/abs/2602.19937v1)|null|
+|**2026-02-23**|**Generative 6D Pose Estimation via Conditional Flow Matching**|Amir Hamza et.al.|[2602.19719v1](http://arxiv.org/abs/2602.19719v1)|null|
+|**2026-02-23**|**Accurate Planar Tracking With Robust Re-Detection**|Jonas Serych et.al.|[2602.19624v1](http://arxiv.org/abs/2602.19624v1)|null|
+|**2026-02-23**|**DICArt: Advancing Category-level Articulated Object Pose Estimation in Discrete State-Spaces**|Li Zhang et.al.|[2602.19565v1](http://arxiv.org/abs/2602.19565v1)|null|
+|**2026-02-22**|**MultiDiffSense: Diffusion-Based Multi-Modal Visuo-Tactile Image Generation Conditioned on Object Shape and Contact Pose**|Sirine Bhouri et.al.|[2602.19348v1](http://arxiv.org/abs/2602.19348v1)|null|
 |**2026-02-21**|**GRAB: A Systematic Real-World Grasping Benchmark for Robotic Food Waste Sorting**|Moniesha Thilakarathna et.al.|[2602.18835v1](http://arxiv.org/abs/2602.18835v1)|null|
 |**2026-02-21**|**WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation**|Bo Liang et.al.|[2602.18726v1](http://arxiv.org/abs/2602.18726v1)|null|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785v1](http://arxiv.org/abs/2602.17785v1)|null|
@@ -3278,6 +3284,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119v1](http://arxiv.org/abs/2602.20119v1)|null|
+|**2026-02-23**|**StyleStream: Real-Time Zero-Shot Voice Style Conversion**|Yisi Liu et.al.|[2602.20113v1](http://arxiv.org/abs/2602.20113v1)|null|
+|**2026-02-23**|**HeatPrompt: Zero-Shot Vision-Language Modeling of Urban Heat Demand from Satellite Images**|Kundan Thota et.al.|[2602.20066v1](http://arxiv.org/abs/2602.20066v1)|null|
+|**2026-02-23**|**To Move or Not to Move: Constraint-based Planning Enables Zero-Shot Generalization for Interactive Navigation**|Apoorva Vashisth et.al.|[2602.20055v1](http://arxiv.org/abs/2602.20055v1)|null|
+|**2026-02-23**|**ReAttn: Improving Attention-based Re-ranking via Attention Re-weighting**|Yuxing Tian et.al.|[2602.19969v1](http://arxiv.org/abs/2602.19969v1)|null|
+|**2026-02-23**|**Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation**|Yilong Yang et.al.|[2602.19944v1](http://arxiv.org/abs/2602.19944v1)|null|
+|**2026-02-23**|**Compositional Planning with Jumpy World Models**|Jesse Farebrother et.al.|[2602.19634v1](http://arxiv.org/abs/2602.19634v1)|null|
+|**2026-02-23**|**CTC-TTS: LLM-based dual-streaming text-to-speech with CTC alignment**|Hanwen Liu et.al.|[2602.19574v1](http://arxiv.org/abs/2602.19574v1)|null|
+|**2026-02-23**|**ORION: ORthonormal Text Encoding for Universal VLM AdaptatION**|Omprakash Chakraborty et.al.|[2602.19530v1](http://arxiv.org/abs/2602.19530v1)|null|
+|**2026-02-23**|**Toward the Thermodynamic Limit: Neural Operators for Non-equilibrium Dynamics of Mott Insulators**|Miles Waugh et.al.|[2602.19484v1](http://arxiv.org/abs/2602.19484v1)|null|
 |**2026-02-22**|**CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis**|Barsat Khadka et.al.|[2602.19330v1](http://arxiv.org/abs/2602.19330v1)|null|
 |**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Shirui Chen et.al.|[2602.19313v1](http://arxiv.org/abs/2602.19313v1)|null|
 |**2026-02-22**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al.|[2602.19248v1](http://arxiv.org/abs/2602.19248v1)|null|

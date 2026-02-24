@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.02.23
+## Updated on 2026.02.24
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-21**|**GRAB: A Systematic Real-World Grasping Benchmark for Robotic Food Waste Sorting**|Moniesha Thilakarathna et.al.|[2602.18835v1](http://arxiv.org/abs/2602.18835v1)|null|
+|**2026-02-21**|**WiCompass: Oracle-driven Data Scaling for mmWave Human Pose Estimation**|Bo Liang et.al.|[2602.18726v1](http://arxiv.org/abs/2602.18726v1)|null|
 |**2026-02-19**|**Multi-Modal Monocular Endoscopic Depth and Pose Estimation with Edge-Guided Self-Supervision**|Xinwei Ju et.al.|[2602.17785v1](http://arxiv.org/abs/2602.17785v1)|null|
 |**2026-02-19**|**FoundationPose-Initialized 3D-2D Liver Registration for Surgical Augmented Reality**|Hanyuan Zhang et.al.|[2602.17517v1](http://arxiv.org/abs/2602.17517v1)|null|
 |**2026-02-19**|**NRGS-SLAM: Monocular Non-Rigid SLAM for Endoscopy via Deformation-Aware 3D Gaussian Splatting**|Jiwei Shan et.al.|[2602.17182v1](http://arxiv.org/abs/2602.17182v1)|null|
@@ -3276,6 +3278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-22**|**CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis**|Barsat Khadka et.al.|[2602.19330v1](http://arxiv.org/abs/2602.19330v1)|null|
+|**2026-02-22**|**TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics**|Shirui Chen et.al.|[2602.19313v1](http://arxiv.org/abs/2602.19313v1)|null|
+|**2026-02-22**|**No Need For Real Anomaly: MLLM Empowered Zero-Shot Video Anomaly Detection**|Zunkai Dai et.al.|[2602.19248v1](http://arxiv.org/abs/2602.19248v1)|null|
+|**2026-02-22**|**Robust Exploration in Directed Controller Synthesis via Reinforcement Learning with Soft Mixture-of-Experts**|Toshihide Ubukata et.al.|[2602.19244v1](http://arxiv.org/abs/2602.19244v1)|null|
+|**2026-02-22**|**SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation**|Yujie Lu et.al.|[2602.19213v1](http://arxiv.org/abs/2602.19213v1)|null|
+|**2026-02-22**|**Retrieval Augmented Enhanced Dual Co-Attention Framework for Target Aware Multimodal Bengali Hateful Meme Detection**|Raihan Tanvir et.al.|[2602.19212v1](http://arxiv.org/abs/2602.19212v1)|null|
+|**2026-02-22**|**GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning**|Zehao Deng et.al.|[2602.19206v1](http://arxiv.org/abs/2602.19206v1)|null|
+|**2026-02-22**|**UniE2F: A Unified Diffusion Framework for Event-to-Frame Reconstruction with Video Foundation Models**|Gang Xu et.al.|[2602.19202v1](http://arxiv.org/abs/2602.19202v1)|null|
+|**2026-02-22**|**CRCC: Contrast-Based Robust Cross-Subject and Cross-Site Representation Learning for EEG**|Xiaobin Wong et.al.|[2602.19138v1](http://arxiv.org/abs/2602.19138v1)|null|
+|**2026-02-22**|**Who Has the Final Word? Designing Multi-Agent Collaborative Framework for Professional Translators**|George X. Wang et.al.|[2602.19016v1](http://arxiv.org/abs/2602.19016v1)|null|
 |**2026-02-20**|**Self-Aware Object Detection via Degradation Manifolds**|Stefan Becker et.al.|[2602.18394v1](http://arxiv.org/abs/2602.18394v1)|null|
 |**2026-02-20**|**Zero-shot Interactive Perception**|Venkatesh Sripada et.al.|[2602.18374v1](http://arxiv.org/abs/2602.18374v1)|null|
 |**2026-02-20**|**EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots**|Boyuan An et.al.|[2602.18071v1](http://arxiv.org/abs/2602.18071v1)|null|

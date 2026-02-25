@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.02.24
+## Updated on 2026.02.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v1](http://arxiv.org/abs/2602.20630v1)|null|
+|**2026-02-23**|**Large-scale Photorealistic Outdoor 3D Scene Reconstruction from UAV Imagery Using Gaussian Splatting Techniques**|Christos Maikos et.al.|[2602.20342v1](http://arxiv.org/abs/2602.20342v1)|null|
+|**2026-02-23**|**Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**|Hao Wang et.al.|[2602.20216v1](http://arxiv.org/abs/2602.20216v1)|null|
 |**2026-02-23**|**SEAL-pose: Enhancing 3D Human Pose Estimation via a Learned Loss for Structural Consistency**|Yeonsung Kim et.al.|[2602.20051v1](http://arxiv.org/abs/2602.20051v1)|null|
 |**2026-02-23**|**Learning Positive-Incentive Point Sampling in Neural Implicit Fields for Object Pose Estimation**|Yifei Shi et.al.|[2602.19937v1](http://arxiv.org/abs/2602.19937v1)|null|
 |**2026-02-23**|**Generative 6D Pose Estimation via Conditional Flow Matching**|Amir Hamza et.al.|[2602.19719v1](http://arxiv.org/abs/2602.19719v1)|null|
@@ -3284,6 +3287,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-24**|**OmniOCR: Generalist OCR for Ethnic Minority Languages**|Bonan Liu et.al.|[2602.21042v1](http://arxiv.org/abs/2602.21042v1)|null|
+|**2026-02-24**|**Extending $μ$ P: Spectral Conditions for Feature Learning Across Optimizers**|Akshita Gupta et.al.|[2602.20937v1](http://arxiv.org/abs/2602.20937v1)|null|
+|**2026-02-24**|**Diagnosing Causal Reasoning in Vision-Language Models via Structured Relevance Graphs**|Dhita Putri Pratama et.al.|[2602.20878v1](http://arxiv.org/abs/2602.20878v1)|null|
+|**2026-02-24**|**On the Explainability of Vision-Language Models in Art History**|Stefanie Schneider et.al.|[2602.20853v1](http://arxiv.org/abs/2602.20853v1)|null|
+|**2026-02-24**|**Hybrid Fusion: One-Minute Efficient Training for Zero-Shot Cross-Domain Image Fusion**|Ran Zhang et.al.|[2602.20851v1](http://arxiv.org/abs/2602.20851v1)|null|
+|**2026-02-24**|**Training-Free Multi-Concept Image Editing**|Niki Foteinopoulou et.al.|[2602.20839v1](http://arxiv.org/abs/2602.20839v1)|null|
+|**2026-02-24**|**UrbanFM: Scaling Urban Spatio-Temporal Foundation Models**|Wei Chen et.al.|[2602.20677v1](http://arxiv.org/abs/2602.20677v1)|null|
+|**2026-02-24**|**DANCE: Doubly Adaptive Neighborhood Conformal Estimation**|Brandon R. Feng et.al.|[2602.20652v1](http://arxiv.org/abs/2602.20652v1)|null|
+|**2026-02-24**|**AIForge-Doc: A Benchmark for Detecting AI-Forged Tampering in Financial and Form Documents**|Jiaqi Wu et.al.|[2602.20569v1](http://arxiv.org/abs/2602.20569v1)|null|
+|**2026-02-24**|**Probing and Bridging Geometry-Interaction Cues for Affordance Reasoning in Vision Foundation Models**|Qing Zhang et.al.|[2602.20501v1](http://arxiv.org/abs/2602.20501v1)|null|
 |**2026-02-23**|**NovaPlan: Zero-Shot Long-Horizon Manipulation via Closed-Loop Video Language Planning**|Jiahui Fu et.al.|[2602.20119v1](http://arxiv.org/abs/2602.20119v1)|null|
 |**2026-02-23**|**StyleStream: Real-Time Zero-Shot Voice Style Conversion**|Yisi Liu et.al.|[2602.20113v1](http://arxiv.org/abs/2602.20113v1)|null|
 |**2026-02-23**|**HeatPrompt: Zero-Shot Vision-Language Modeling of Urban Heat Demand from Satellite Images**|Kundan Thota et.al.|[2602.20066v1](http://arxiv.org/abs/2602.20066v1)|null|

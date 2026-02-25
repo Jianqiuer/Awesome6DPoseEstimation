@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101v1](http://arxiv.org/abs/2602.21101v1)|null|
 |**2026-02-24**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v1](http://arxiv.org/abs/2602.20630v1)|null|
 |**2026-02-23**|**Large-scale Photorealistic Outdoor 3D Scene Reconstruction from UAV Imagery Using Gaussian Splatting Techniques**|Christos Maikos et.al.|[2602.20342v1](http://arxiv.org/abs/2602.20342v1)|null|
 |**2026-02-23**|**Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**|Hao Wang et.al.|[2602.20216v1](http://arxiv.org/abs/2602.20216v1)|null|
@@ -3299,6 +3300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-24**|**UDVideoQA: A Traffic Video Question Answering Dataset for Multi-Object Spatio-Temporal Reasoning in Urban Dynamics**|Joseph Raj Vishal et.al.|[2602.21137v1](http://arxiv.org/abs/2602.21137v1)|null|
 |**2026-02-24**|**OmniOCR: Generalist OCR for Ethnic Minority Languages**|Bonan Liu et.al.|[2602.21042v1](http://arxiv.org/abs/2602.21042v1)|null|
 |**2026-02-24**|**Extending $μ$ P: Spectral Conditions for Feature Learning Across Optimizers**|Akshita Gupta et.al.|[2602.20937v1](http://arxiv.org/abs/2602.20937v1)|null|
 |**2026-02-24**|**Diagnosing Causal Reasoning in Vision-Language Models via Structured Relevance Graphs**|Dhita Putri Pratama et.al.|[2602.20878v1](http://arxiv.org/abs/2602.20878v1)|null|

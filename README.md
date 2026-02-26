@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209v1](http://arxiv.org/abs/2602.22209v1)|null|
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967v1](http://arxiv.org/abs/2602.21967v1)|null|
 |**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915v1](http://arxiv.org/abs/2602.21915v1)|null|
 |**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101v1](http://arxiv.org/abs/2602.21101v1)|null|
@@ -3302,6 +3303,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-25**|**System Design of the Ultra Mobility Vehicle: A Driving, Balancing, and Jumping Bicycle Robot**|Benjamin Bokser et.al.|[2602.22118v1](http://arxiv.org/abs/2602.22118v1)|null|
+|**2026-02-25**|**Overview of the CXR-LT 2026 Challenge: Multi-Center Long-Tailed and Zero Shot Chest X-ray Classification**|Hexin Dong et.al.|[2602.22092v1](http://arxiv.org/abs/2602.22092v1)|null|
 |**2026-02-25**|**RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations**|I-Hsiang Chen et.al.|[2602.22013v1](http://arxiv.org/abs/2602.22013v1)|null|
 |**2026-02-25**|**How to Take a Memorable Picture? Empowering Users with Actionable Feedback**|Francesco Laiti et.al.|[2602.21877v1](http://arxiv.org/abs/2602.21877v1)|null|
 |**2026-02-25**|**DynamicGTR: Leveraging Graph Topology Representation Preferences to Boost VLM Capabilities on Graph QAs**|Yanbin Wei et.al.|[2602.21864v1](http://arxiv.org/abs/2602.21864v1)|null|

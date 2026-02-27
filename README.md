@@ -3305,6 +3305,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339v1](http://arxiv.org/abs/2602.23339v1)|null|
+|**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312v1](http://arxiv.org/abs/2602.23312v1)|null|
 |**2026-02-26**|**SPARR: Simulation-based Policies with Asymmetric Real-world Residuals for Assembly**|Yijie Guo et.al.|[2602.23253v1](http://arxiv.org/abs/2602.23253v1)|null|
 |**2026-02-26**|**Large Multimodal Models as General In-Context Classifiers**|Marco Garosi et.al.|[2602.23229v1](http://arxiv.org/abs/2602.23229v1)|null|
 |**2026-02-26**|**Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models**|Chungpa Lee et.al.|[2602.23197v1](http://arxiv.org/abs/2602.23197v1)|null|

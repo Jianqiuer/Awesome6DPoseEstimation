@@ -2,15 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.02.26
+## Updated on 2026.02.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941v1](http://arxiv.org/abs/2602.22941v1)|null|
+|**2026-02-26**|**CRAG: Can 3D Generative Models Help 3D Assembly?**|Zeyu Jiang et.al.|[2602.22629v1](http://arxiv.org/abs/2602.22629v1)|null|
 |**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209v1](http://arxiv.org/abs/2602.22209v1)|null|
 |**2026-02-25**|**Dream-SLAM: Dreaming the Unseen for Active SLAM in Dynamic Environments**|Xiangqi Meng et.al.|[2602.21967v1](http://arxiv.org/abs/2602.21967v1)|null|
 |**2026-02-25**|**Protein Graph Neural Networks for Heterogeneous Cryo-EM Reconstruction**|Jonathan Krook et.al.|[2602.21915v1](http://arxiv.org/abs/2602.21915v1)|null|
-|**2026-02-24**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101v1](http://arxiv.org/abs/2602.21101v1)|null|
+|**2026-02-26**|**Event-Aided Sharp Radiance Field Reconstruction for Fast-Flying Drones**|Rong Zou et.al.|[2602.21101v2](http://arxiv.org/abs/2602.21101v2)|null|
 |**2026-02-25**|**From Pairs to Sequences: Track-Aware Policy Gradients for Keypoint Detection**|Yepeng Liu et.al.|[2602.20630v2](http://arxiv.org/abs/2602.20630v2)|null|
 |**2026-02-23**|**Large-scale Photorealistic Outdoor 3D Scene Reconstruction from UAV Imagery Using Gaussian Splatting Techniques**|Christos Maikos et.al.|[2602.20342v1](http://arxiv.org/abs/2602.20342v1)|null|
 |**2026-02-23**|**Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**|Hao Wang et.al.|[2602.20216v1](http://arxiv.org/abs/2602.20216v1)|null|
@@ -3291,6 +3293,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-26**|**SPARR: Simulation-based Policies with Asymmetric Real-world Residuals for Assembly**|Yijie Guo et.al.|[2602.23253v1](http://arxiv.org/abs/2602.23253v1)|null|
+|**2026-02-26**|**Large Multimodal Models as General In-Context Classifiers**|Marco Garosi et.al.|[2602.23229v1](http://arxiv.org/abs/2602.23229v1)|null|
+|**2026-02-26**|**Fine-Tuning Without Forgetting In-Context Learning: A Theoretical Analysis of Linear Attention Models**|Chungpa Lee et.al.|[2602.23197v1](http://arxiv.org/abs/2602.23197v1)|null|
+|**2026-02-26**|**WARM-CAT: : Warm-Started Test-Time Comprehensive Knowledge Accumulation for Compositional Zero-Shot Learning**|Xudong Yan et.al.|[2602.23114v1](http://arxiv.org/abs/2602.23114v1)|null|
+|**2026-02-26**|**TADA: A Generative Framework for Speech Modeling via Text-Acoustic Dual Alignment**|Trung Dang et.al.|[2602.23068v1](http://arxiv.org/abs/2602.23068v1)|null|
+|**2026-02-26**|**Toward Automatic Filling of Case Report Forms: A Case Study on Data from an Italian Emergency Department**|Gabriela Anna Kaczmarek et.al.|[2602.23062v1](http://arxiv.org/abs/2602.23062v1)|null|
+|**2026-02-26**|**WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval**|Tianyue Wang et.al.|[2602.23029v1](http://arxiv.org/abs/2602.23029v1)|null|
+|**2026-02-26**|**Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study**|Zihao Zhao et.al.|[2602.22959v1](http://arxiv.org/abs/2602.22959v1)|null|
+|**2026-02-26**|**A data- and compute-efficient chest X-ray foundation model beyond aggressive scaling**|Chong Wang et.al.|[2602.22843v1](http://arxiv.org/abs/2602.22843v1)|null|
+|**2026-02-26**|**ProjFlow: Projection Sampling with Flow Matching for Zero-Shot Exact Spatial Motion Control**|Akihisa Watanabe et.al.|[2602.22742v1](http://arxiv.org/abs/2602.22742v1)|null|
 |**2026-02-25**|**System Design of the Ultra Mobility Vehicle: A Driving, Balancing, and Jumping Bicycle Robot**|Benjamin Bokser et.al.|[2602.22118v1](http://arxiv.org/abs/2602.22118v1)|null|
 |**2026-02-25**|**Overview of the CXR-LT 2026 Challenge: Multi-Center Long-Tailed and Zero Shot Chest X-ray Classification**|Hexin Dong et.al.|[2602.22092v1](http://arxiv.org/abs/2602.22092v1)|null|
 |**2026-02-25**|**RobustVisRAG: Causality-Aware Vision-Based Retrieval-Augmented Generation under Visual Degradations**|I-Hsiang Chen et.al.|[2602.22013v1](http://arxiv.org/abs/2602.22013v1)|null|

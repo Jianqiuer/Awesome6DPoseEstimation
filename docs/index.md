@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.03.01
+## Updated on 2026.03.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**AHAP: Reconstructing Arbitrary Humans from Arbitrary Perspectives with Geometric Priors**|Xiaozhen Qiao et.al.|[2602.23951v1](http://arxiv.org/abs/2602.23951v1)|null|
+|**2026-02-27**|**Egocentric Visibility-Aware Human Pose Estimation**|Peng Dai et.al.|[2602.23618v1](http://arxiv.org/abs/2602.23618v1)|null|
 |**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941v1](http://arxiv.org/abs/2602.22941v1)|null|
 |**2026-02-26**|**CRAG: Can 3D Generative Models Help 3D Assembly?**|Zeyu Jiang et.al.|[2602.22629v1](http://arxiv.org/abs/2602.22629v1)|null|
 |**2026-02-25**|**WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos**|Yufei Ye et.al.|[2602.22209v1](http://arxiv.org/abs/2602.22209v1)|null|
@@ -3293,6 +3295,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-02-27**|**BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements**|Maksym Veremchuk et.al.|[2602.24228v1](http://arxiv.org/abs/2602.24228v1)|null|
+|**2026-02-27**|**Multimodal Optimal Transport for Unsupervised Temporal Segmentation in Surgical Robotics**|Omar Mohamed et.al.|[2602.24138v1](http://arxiv.org/abs/2602.24138v1)|null|
+|**2026-02-27**|**ARGUS: Seeing the Influence of Narrative Features on Persuasion in Argumentative Texts**|Sara Nabhani et.al.|[2602.24109v1](http://arxiv.org/abs/2602.24109v1)|null|
+|**2026-02-27**|**Task Complexity Matters: An Empirical Study of Reasoning in LLMs for Sentiment Analysis**|Donghao Huang et.al.|[2602.24060v1](http://arxiv.org/abs/2602.24060v1)|null|
+|**2026-02-27**|**SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Gaussian Splatting**|Xiang Feng et.al.|[2602.24020v1](http://arxiv.org/abs/2602.24020v1)|null|
+|**2026-02-27**|**SegMate: Asymmetric Attention-Based Lightweight Architecture for Efficient Multi-Organ Segmentation**|Andrei-Alexandru Bunea et.al.|[2602.23903v1](http://arxiv.org/abs/2602.23903v1)|null|
+|**2026-02-27**|**RUMAD: Reinforcement-Unifying Multi-Agent Debate**|Chao Wang et.al.|[2602.23864v1](http://arxiv.org/abs/2602.23864v1)|null|
+|**2026-02-27**|**TradeFM: A Generative Foundation Model for Trade-flow and Market Microstructure**|Maxime Kawawa-Beaudan et.al.|[2602.23784v1](http://arxiv.org/abs/2602.23784v1)|null|
+|**2026-02-27**|**Learning Accurate Segmentation Purely from Self-Supervision**|Zuyao You et.al.|[2602.23759v1](http://arxiv.org/abs/2602.23759v1)|null|
+|**2026-02-27**|**Towards Source-Aware Object Swapping with Initial Noise Perturbation**|Jiahui Zhan et.al.|[2602.23697v1](http://arxiv.org/abs/2602.23697v1)|null|
 |**2026-02-26**|**Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?**|Tilemachos Aravanis et.al.|[2602.23339v1](http://arxiv.org/abs/2602.23339v1)|null|
 |**2026-02-26**|**Evaluating Zero-Shot and One-Shot Adaptation of Small Language Models in Leader-Follower Interaction**|Rafael R. Baptista et.al.|[2602.23312v1](http://arxiv.org/abs/2602.23312v1)|null|
 |**2026-02-26**|**SPARR: Simulation-based Policies with Asymmetric Real-world Residuals for Assembly**|Yijie Guo et.al.|[2602.23253v1](http://arxiv.org/abs/2602.23253v1)|null|

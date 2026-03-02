@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images**|Junhwa Hur et.al.|[2602.24290v1](http://arxiv.org/abs/2602.24290v1)|null|
 |**2026-02-27**|**AHAP: Reconstructing Arbitrary Humans from Arbitrary Perspectives with Geometric Priors**|Xiaozhen Qiao et.al.|[2602.23951v1](http://arxiv.org/abs/2602.23951v1)|null|
 |**2026-02-27**|**Egocentric Visibility-Aware Human Pose Estimation**|Peng Dai et.al.|[2602.23618v1](http://arxiv.org/abs/2602.23618v1)|null|
 |**2026-02-26**|**Velocity and stroke rate reconstruction of canoe sprint team boats based on panned and zoomed video recordings**|Julian Ziegler et.al.|[2602.22941v1](http://arxiv.org/abs/2602.22941v1)|null|
@@ -3307,6 +3308,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-27**|**Time Series Foundation Models as Strong Baselines in Transportation Forecasting: A Large-Scale Benchmark Analysis**|Javier Pulido et.al.|[2602.24238v1](http://arxiv.org/abs/2602.24238v1)|null|
 |**2026-02-27**|**BLISSNet: Deep Operator Learning for Fast and Accurate Flow Reconstruction from Sparse Sensor Measurements**|Maksym Veremchuk et.al.|[2602.24228v1](http://arxiv.org/abs/2602.24228v1)|null|
 |**2026-02-27**|**Multimodal Optimal Transport for Unsupervised Temporal Segmentation in Surgical Robotics**|Omar Mohamed et.al.|[2602.24138v1](http://arxiv.org/abs/2602.24138v1)|null|
 |**2026-02-27**|**ARGUS: Seeing the Influence of Narrative Features on Persuasion in Argumentative Texts**|Sara Nabhani et.al.|[2602.24109v1](http://arxiv.org/abs/2602.24109v1)|null|

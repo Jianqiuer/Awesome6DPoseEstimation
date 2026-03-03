@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Preoperative-to-intraoperative Liver Registration for Laparoscopic Surgery via Latent-Grounded Correspondence Constraints**|Ruize Cui et.al.|[2603.01720v1](http://arxiv.org/abs/2603.01720v1)|null|
+|**2026-03-01**|**MLRecon: Robust Markerless Freehand 3D Ultrasound Reconstruction via Coarse-to-Fine Pose Estimation**|Yi Zhang et.al.|[2603.00990v1](http://arxiv.org/abs/2603.00990v1)|null|
 |**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697v1](http://arxiv.org/abs/2603.00697v1)|null|
 |**2026-02-28**|**COG: Confidence-aware Optimal Geometric Correspondence for Unsupervised Single-reference Novel Object Pose Estimation**|Yuchen Che et.al.|[2603.00493v1](http://arxiv.org/abs/2603.00493v1)|null|
 |**2026-02-27**|**UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images**|Junhwa Hur et.al.|[2602.24290v1](http://arxiv.org/abs/2602.24290v1)|null|
@@ -3298,6 +3300,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208v1](http://arxiv.org/abs/2603.02208v1)|null|
+|**2026-03-02**|**Detection-Gated Glottal Segmentation with Zero-Shot Cross-Dataset Transfer and Clinical Feature Extraction**|Harikrishnan Unnikrishnan et.al.|[2603.02087v1](http://arxiv.org/abs/2603.02087v1)|null|
+|**2026-03-02**|**Zero-shot Low-Field MRI Enhancement via Diffusion-Based Adaptive Contrast Transport**|Muyu Liu et.al.|[2603.01913v1](http://arxiv.org/abs/2603.01913v1)|null|
+|**2026-03-02**|**Resolving Blind Inverse Problems under Dynamic Range Compression via Structured Forward Operator Modeling**|Muyu Liu et.al.|[2603.01890v1](http://arxiv.org/abs/2603.01890v1)|null|
+|**2026-03-02**|**Let the Agent Search: Autonomous Exploration Beats Rigid Workflows in Temporal Question Answering**|Xufei Lv et.al.|[2603.01853v1](http://arxiv.org/abs/2603.01853v1)|null|
+|**2026-03-02**|**Efficient Test-Time Optimization for Depth Completion via Low-Rank Decoder Adaptation**|Minseok Seo et.al.|[2603.01765v1](http://arxiv.org/abs/2603.01765v1)|null|
+|**2026-03-02**|**DGNet: Discrete Green Networks for Data-Efficient Learning of Spatiotemporal PDEs**|Yingjie Tan et.al.|[2603.01762v1](http://arxiv.org/abs/2603.01762v1)|null|
+|**2026-03-02**|**PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts**|Xianqi Wang et.al.|[2603.01650v1](http://arxiv.org/abs/2603.01650v1)|null|
+|**2026-03-02**|**Benchmarking LLM Summaries of Multimodal Clinical Time Series for Remote Monitoring**|Aditya Shukla et.al.|[2603.01557v1](http://arxiv.org/abs/2603.01557v1)|null|
+|**2026-03-02**|**SFCo-Nav: Efficient Zero-Shot Visual Language Navigation via Collaboration of Slow LLM and Fast Attributed Graph Alignment**|Chaoran Xiong et.al.|[2603.01477v1](http://arxiv.org/abs/2603.01477v1)|null|
 |**2026-03-01**|**pySpatial: Generating 3D Visual Programs for Zero-Shot Spatial Reasoning**|Zhanpeng Luo et.al.|[2603.00905v1](http://arxiv.org/abs/2603.00905v1)|null|
 |**2026-02-28**|**MetaMind: General and Cognitive World Models in Multi-Agent Systems by Meta-Theory of Mind**|Lingyi Wang et.al.|[2603.00808v1](http://arxiv.org/abs/2603.00808v1)|null|
 |**2026-02-28**|**I-Perceive: A Foundation Model for Active Perception with Language Instructions**|Yongxi Huang et.al.|[2603.00600v1](http://arxiv.org/abs/2603.00600v1)|null|

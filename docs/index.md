@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.03
+## Updated on 2026.03.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency**|Nicholas Carlotti et.al.|[2603.02936v1](http://arxiv.org/abs/2603.02936v1)|null|
+|**2026-03-03**|**Tracing Back Error Sources to Explain and Mitigate Pose Estimation Failures**|Loris Schneider et.al.|[2603.02881v1](http://arxiv.org/abs/2603.02881v1)|null|
+|**2026-03-03**|**Tensegrity Robot Endcap-Ground Contact Estimation with Symmetry-aware Heterogeneous Graph Neural Network**|Wenzhe Tong et.al.|[2603.02596v1](http://arxiv.org/abs/2603.02596v1)|null|
+|**2026-03-03**|**Biomechanically Accurate Gait Analysis: A 3d Human Reconstruction Framework for Markerless Estimation of Gait Parameters**|Akila Pemasiri et.al.|[2603.02499v1](http://arxiv.org/abs/2603.02499v1)|null|
 |**2026-03-02**|**Preoperative-to-intraoperative Liver Registration for Laparoscopic Surgery via Latent-Grounded Correspondence Constraints**|Ruize Cui et.al.|[2603.01720v1](http://arxiv.org/abs/2603.01720v1)|null|
 |**2026-03-01**|**MLRecon: Robust Markerless Freehand 3D Ultrasound Reconstruction via Coarse-to-Fine Pose Estimation**|Yi Zhang et.al.|[2603.00990v1](http://arxiv.org/abs/2603.00990v1)|null|
 |**2026-02-28**|**TokenSplat: Token-aligned 3D Gaussian Splatting for Feed-forward Pose-free Reconstruction**|Yihui Li et.al.|[2603.00697v1](http://arxiv.org/abs/2603.00697v1)|null|
@@ -3300,6 +3304,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-03**|**MoECLIP: Patch-Specialized Experts for Zero-shot Anomaly Detection**|Jun Yeong Park et.al.|[2603.03101v1](http://arxiv.org/abs/2603.03101v1)|null|
+|**2026-03-03**|**Any Resolution Any Geometry: From Multi-View To Multi-Patch**|Wenqing Cui et.al.|[2603.03026v1](http://arxiv.org/abs/2603.03026v1)|null|
+|**2026-03-03**|**Beyond One-Size-Fits-All: Adaptive Subgraph Denoising for Zero-Shot Graph Learning with Large Language Models**|Fengzhi Li et.al.|[2603.02938v1](http://arxiv.org/abs/2603.02938v1)|null|
+|**2026-03-03**|**TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval**|Xiangzhao Hao et.al.|[2603.02929v1](http://arxiv.org/abs/2603.02929v1)|null|
+|**2026-03-03**|**Interpretable Motion-Attentive Maps: Spatio-Temporally Localizing Concepts in Video Diffusion Transformers**|Youngjun Jun et.al.|[2603.02919v1](http://arxiv.org/abs/2603.02919v1)|null|
+|**2026-03-03**|**Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction**|Guangjun Zhang et.al.|[2603.02909v1](http://arxiv.org/abs/2603.02909v1)|null|
+|**2026-03-03**|**CoFL: Continuous Flow Fields for Language-Conditioned Navigation**|Haokun Liu et.al.|[2603.02854v1](http://arxiv.org/abs/2603.02854v1)|null|
+|**2026-03-03**|**SPARC: Spatial-Aware Path Planning via Attentive Robot Communication**|Sayang Mu et.al.|[2603.02845v1](http://arxiv.org/abs/2603.02845v1)|null|
+|**2026-03-03**|**Adapting Time Series Foundation Models through Data Mixtures**|Thomas L. Lee et.al.|[2603.02840v1](http://arxiv.org/abs/2603.02840v1)|null|
+|**2026-03-03**|**Structure-Aware Text Recognition for Ancient Greek Critical Editions**|Nicolas Angleraud et.al.|[2603.02803v1](http://arxiv.org/abs/2603.02803v1)|null|
 |**2026-03-02**|**Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training**|Valentin Lacombe et.al.|[2603.02208v1](http://arxiv.org/abs/2603.02208v1)|null|
 |**2026-03-02**|**Detection-Gated Glottal Segmentation with Zero-Shot Cross-Dataset Transfer and Clinical Feature Extraction**|Harikrishnan Unnikrishnan et.al.|[2603.02087v1](http://arxiv.org/abs/2603.02087v1)|null|
 |**2026-03-02**|**Zero-shot Low-Field MRI Enhancement via Diffusion-Based Adaptive Contrast Transport**|Muyu Liu et.al.|[2603.01913v1](http://arxiv.org/abs/2603.01913v1)|null|

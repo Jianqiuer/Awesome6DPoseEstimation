@@ -3309,6 +3309,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390v1](http://arxiv.org/abs/2603.04390v1)|null|
+|**2026-03-04**|**Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe**|Chris Vorster et.al.|[2603.04346v1](http://arxiv.org/abs/2603.04346v1)|null|
+|**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338v1](http://arxiv.org/abs/2603.04338v1)|null|
+|**2026-03-04**|**MOO: A Multi-view Oriented Observations Dataset for Viewpoint Analysis in Cattle Re-Identification**|William Grolleau et.al.|[2603.04314v1](http://arxiv.org/abs/2603.04314v1)|null|
+|**2026-03-04**|**ZeSTA: Zero-Shot TTS Augmentation with Domain-Conditioned Training for Data-Efficient Personalized Speech Synthesis**|Youngwon Choi et.al.|[2603.04219v1](http://arxiv.org/abs/2603.04219v1)|null|
+|**2026-03-04**|**Architectural Proprioception in State Space Models: Thermodynamic Training Induces Anticipatory Halt Detection**|Jay Noon et.al.|[2603.04180v1](http://arxiv.org/abs/2603.04180v1)|null|
+|**2026-03-04**|**A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series**|Davide Gabrielli et.al.|[2603.04142v1](http://arxiv.org/abs/2603.04142v1)|null|
+|**2026-03-04**|**Any2Any: Unified Arbitrary Modality Translation for Remote Sensing**|Haoyang Chen et.al.|[2603.04114v1](http://arxiv.org/abs/2603.04114v1)|null|
 |**2026-03-04**|**Sim2Sea: Sim-to-Real Policy Transfer for Maritime Vessel Navigation in Congested Waters**|Xinyu Cui et.al.|[2603.04057v1](http://arxiv.org/abs/2603.04057v1)|null|
 |**2026-03-04**|**GeoSeg: Training-Free Reasoning-Driven Segmentation in Remote Sensing Imagery**|Lifan Jiang et.al.|[2603.03983v1](http://arxiv.org/abs/2603.03983v1)|null|
 |**2026-03-04**|**DISC: Dense Integrated Semantic Context for Large-Scale Open-Set Semantic Mapping**|Felix Igelbrink et.al.|[2603.03935v1](http://arxiv.org/abs/2603.03935v1)|null|

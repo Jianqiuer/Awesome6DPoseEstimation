@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.03.04
+## Updated on 2026.03.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090v1](http://arxiv.org/abs/2603.04090v1)|null|
+|**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|
+|**2026-03-04**|**TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory**|Minwoo Jung et.al.|[2603.03695v1](http://arxiv.org/abs/2603.03695v1)|null|
+|**2026-03-04**|**Touch2Insert: Zero-Shot Peg Insertion by Touching Intersections of Peg and Hole**|Masaru Yajima et.al.|[2603.03627v1](http://arxiv.org/abs/2603.03627v1)|null|
 |**2026-03-03**|**Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing**|Jiyuan Wang et.al.|[2603.03143v1](http://arxiv.org/abs/2603.03143v1)|null|
 |**2026-03-03**|**Self-supervised Domain Adaptation for Visual 3D Pose Estimation of Nano-drone Racing Gates by Enforcing Geometric Consistency**|Nicholas Carlotti et.al.|[2603.02936v1](http://arxiv.org/abs/2603.02936v1)|null|
 |**2026-03-03**|**Tracing Back Error Sources to Explain and Mitigate Pose Estimation Failures**|Loris Schneider et.al.|[2603.02881v1](http://arxiv.org/abs/2603.02881v1)|null|
@@ -3305,6 +3309,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-04**|**Sim2Sea: Sim-to-Real Policy Transfer for Maritime Vessel Navigation in Congested Waters**|Xinyu Cui et.al.|[2603.04057v1](http://arxiv.org/abs/2603.04057v1)|null|
+|**2026-03-04**|**GeoSeg: Training-Free Reasoning-Driven Segmentation in Remote Sensing Imagery**|Lifan Jiang et.al.|[2603.03983v1](http://arxiv.org/abs/2603.03983v1)|null|
+|**2026-03-04**|**DISC: Dense Integrated Semantic Context for Large-Scale Open-Set Semantic Mapping**|Felix Igelbrink et.al.|[2603.03935v1](http://arxiv.org/abs/2603.03935v1)|null|
+|**2026-03-04**|**CzechTopic: A Benchmark for Zero-Shot Topic Localization in Historical Czech Documents**|Martin Kostelník et.al.|[2603.03884v1](http://arxiv.org/abs/2603.03884v1)|null|
+|**2026-03-04**|**Structure-aware Prompt Adaptation from Seen to Unseen for Open-Vocabulary Compositional Zero-Shot Learning**|Yihang Duan et.al.|[2603.03815v1](http://arxiv.org/abs/2603.03815v1)|null|
+|**2026-03-04**|**LiDAR Prompted Spatio-Temporal Multi-View Stereo for Autonomous Driving**|Qihao Sun et.al.|[2603.03765v1](http://arxiv.org/abs/2603.03765v1)|null|
+|**2026-03-04**|**PROSPECT: Unified Streaming Vision-Language Navigation via Semantic--Spatial Fusion and Latent Predictive Representation**|Zehua Fan et.al.|[2603.03739v1](http://arxiv.org/abs/2603.03739v1)|null|
+|**2026-03-04**|**MPFlow: Multi-modal Posterior-Guided Flow Matching for Zero-Shot MRI Reconstruction**|Seunghoi Kim et.al.|[2603.03710v1](http://arxiv.org/abs/2603.03710v1)|null|
+|**2026-03-04**|**Touch2Insert: Zero-Shot Peg Insertion by Touching Intersections of Peg and Hole**|Masaru Yajima et.al.|[2603.03627v1](http://arxiv.org/abs/2603.03627v1)|null|
+|**2026-03-03**|**PhyPrompt: RL-based Prompt Refinement for Physically Plausible Text-to-Video Generation**|Shang Wu et.al.|[2603.03505v1](http://arxiv.org/abs/2603.03505v1)|null|
 |**2026-03-03**|**How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference**|Toru Lin et.al.|[2603.03280v1](http://arxiv.org/abs/2603.03280v1)|null|
 |**2026-03-03**|**COP-GEN: Latent Diffusion Transformer for Copernicus Earth Observation Data -- Generation Stochastic by Design**|Miguel Espinosa et.al.|[2603.03239v1](http://arxiv.org/abs/2603.03239v1)|null|
 |**2026-03-03**|**Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use**|Aradhye Agarwal et.al.|[2603.03205v1](http://arxiv.org/abs/2603.03205v1)|null|

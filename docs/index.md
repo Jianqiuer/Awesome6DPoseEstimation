@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330v1](http://arxiv.org/abs/2603.05330v1)|null|
+|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097v1](http://arxiv.org/abs/2603.05097v1)|null|
+|**2026-03-05**|**MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer**|Juntong Fang et.al.|[2603.05078v1](http://arxiv.org/abs/2603.05078v1)|null|
 |**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090v1](http://arxiv.org/abs/2603.04090v1)|null|
 |**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|
 |**2026-03-04**|**TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory**|Minwoo Jung et.al.|[2603.03695v1](http://arxiv.org/abs/2603.03695v1)|null|
@@ -2746,6 +2749,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**SPIRIT: Perceptive Shared Autonomy for Robust Robotic Manipulation under Deep Learning Uncertainty**|Jongseok Lee et.al.|[2603.05111v1](http://arxiv.org/abs/2603.05111v1)|null|
 |**2026-02-11**|**End-to-End LiDAR optimization for 3D point cloud registration**|Siddhant Katyan et.al.|[2602.10492v1](http://arxiv.org/abs/2602.10492v1)|null|
 |**2026-02-03**|**Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios**|Kuo-Yi Chao et.al.|[2602.03908v1](http://arxiv.org/abs/2602.03908v1)|null|
 |**2026-01-14**|**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**|Emmanuele Barberi et.al.|[2601.09601v1](http://arxiv.org/abs/2601.09601v1)|null|
@@ -3309,6 +3313,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-05**|**MobileFetalCLIP: Selective Repulsive Knowledge Distillation for Mobile Fetal Ultrasound Analysis**|Numan Saeed et.al.|[2603.05421v1](http://arxiv.org/abs/2603.05421v1)|null|
+|**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka et.al.|[2603.05400v1](http://arxiv.org/abs/2603.05400v1)|null|
+|**2026-03-05**|**OpenFrontier: General Navigation with Visual-Language Grounded Frontiers**|Esteban Padilla et.al.|[2603.05377v1](http://arxiv.org/abs/2603.05377v1)|null|
+|**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373v1](http://arxiv.org/abs/2603.05373v1)|null|
+|**2026-03-05**|**UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data**|Sizhe Yang et.al.|[2603.05312v1](http://arxiv.org/abs/2603.05312v1)|null|
+|**2026-03-05**|**Latent-Mark: An Audio Watermark Robust to Neural Resynthesis**|Yen-Shan Chen et.al.|[2603.05310v1](http://arxiv.org/abs/2603.05310v1)|null|
+|**2026-03-05**|**Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution**|Qiao Jin et.al.|[2603.05308v1](http://arxiv.org/abs/2603.05308v1)|null|
+|**2026-03-05**|**SarcasmMiner: A Dual-Track Post-Training Framework for Robust Audio-Visual Sarcasm Reasoning**|Zhu Li et.al.|[2603.05275v1](http://arxiv.org/abs/2603.05275v1)|null|
+|**2026-03-05**|**Mario: Multimodal Graph Reasoning with Large Language Models**|Yuanfu Sun et.al.|[2603.05181v1](http://arxiv.org/abs/2603.05181v1)|null|
+|**2026-03-05**|**TW-Sound580K: A Regional Audio-Text Dataset with Verification-Guided Curation for Localized Audio-Language Modeling**|Hao-Hui Xie et.al.|[2603.05094v1](http://arxiv.org/abs/2603.05094v1)|null|
 |**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390v1](http://arxiv.org/abs/2603.04390v1)|null|
 |**2026-03-04**|**Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe**|Chris Vorster et.al.|[2603.04346v1](http://arxiv.org/abs/2603.04346v1)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338v1](http://arxiv.org/abs/2603.04338v1)|null|

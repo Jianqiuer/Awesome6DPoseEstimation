@@ -1,4 +1,4 @@
-## Updated on 2026.03.05
+## Updated on 2026.03.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330v1](http://arxiv.org/abs/2603.05330v1)|null|
+|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097v1](http://arxiv.org/abs/2603.05097v1)|null|
+|**2026-03-05**|**MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer**|Juntong Fang et.al.|[2603.05078v1](http://arxiv.org/abs/2603.05078v1)|null|
 |**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090v1](http://arxiv.org/abs/2603.04090v1)|null|
 |**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|
 |**2026-03-04**|**TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory**|Minwoo Jung et.al.|[2603.03695v1](http://arxiv.org/abs/2603.03695v1)|null|
@@ -2748,12 +2751,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260306>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**SPIRIT: Perceptive Shared Autonomy for Robust Robotic Manipulation under Deep Learning Uncertainty**|Jongseok Lee et.al.|[2603.05111v1](http://arxiv.org/abs/2603.05111v1)|null|
 |**2026-02-11**|**End-to-End LiDAR optimization for 3D point cloud registration**|Siddhant Katyan et.al.|[2602.10492v1](http://arxiv.org/abs/2602.10492v1)|null|
 |**2026-02-03**|**Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios**|Kuo-Yi Chao et.al.|[2602.03908v1](http://arxiv.org/abs/2602.03908v1)|null|
 |**2026-01-14**|**Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric**|Emmanuele Barberi et.al.|[2601.09601v1](http://arxiv.org/abs/2601.09601v1)|null|
@@ -3057,7 +3061,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260306>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3315,12 +3319,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260306>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**MobileFetalCLIP: Selective Repulsive Knowledge Distillation for Mobile Fetal Ultrasound Analysis**|Numan Saeed et.al.|[2603.05421v1](http://arxiv.org/abs/2603.05421v1)|null|
+|**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka et.al.|[2603.05400v1](http://arxiv.org/abs/2603.05400v1)|null|
+|**2026-03-05**|**OpenFrontier: General Navigation with Visual-Language Grounded Frontiers**|Esteban Padilla et.al.|[2603.05377v1](http://arxiv.org/abs/2603.05377v1)|null|
+|**2026-03-05**|**Hierarchical Decoding for Discrete Speech Synthesis with Multi-Resolution Spoof Detection**|Junchuan Zhao et.al.|[2603.05373v1](http://arxiv.org/abs/2603.05373v1)|null|
+|**2026-03-05**|**UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data**|Sizhe Yang et.al.|[2603.05312v1](http://arxiv.org/abs/2603.05312v1)|null|
+|**2026-03-05**|**Latent-Mark: An Audio Watermark Robust to Neural Resynthesis**|Yen-Shan Chen et.al.|[2603.05310v1](http://arxiv.org/abs/2603.05310v1)|null|
+|**2026-03-05**|**Med-V1: Small Language Models for Zero-shot and Scalable Biomedical Evidence Attribution**|Qiao Jin et.al.|[2603.05308v1](http://arxiv.org/abs/2603.05308v1)|null|
+|**2026-03-05**|**SarcasmMiner: A Dual-Track Post-Training Framework for Robust Audio-Visual Sarcasm Reasoning**|Zhu Li et.al.|[2603.05275v1](http://arxiv.org/abs/2603.05275v1)|null|
+|**2026-03-05**|**Mario: Multimodal Graph Reasoning with Large Language Models**|Yuanfu Sun et.al.|[2603.05181v1](http://arxiv.org/abs/2603.05181v1)|null|
+|**2026-03-05**|**TW-Sound580K: A Regional Audio-Text Dataset with Verification-Guided Curation for Localized Audio-Language Modeling**|Hao-Hui Xie et.al.|[2603.05094v1](http://arxiv.org/abs/2603.05094v1)|null|
 |**2026-03-04**|**A Dual-Helix Governance Approach Towards Reliable Agentic AI for WebGIS Development**|Boyuan et.al.|[2603.04390v1](http://arxiv.org/abs/2603.04390v1)|null|
 |**2026-03-04**|**Underrepresented in Foundation Model Pretraining Data? A One-Shot Probe**|Chris Vorster et.al.|[2603.04346v1](http://arxiv.org/abs/2603.04346v1)|null|
 |**2026-03-04**|**ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors**|Zihao Huang et.al.|[2603.04338v1](http://arxiv.org/abs/2603.04338v1)|null|
@@ -10167,5 +10181,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260305>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260306>back to top</a>)</p>
 

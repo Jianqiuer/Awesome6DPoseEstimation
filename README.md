@@ -1,4 +1,4 @@
-## Updated on 2026.03.08
+## Updated on 2026.03.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization**|Maximilian Hilger et.al.|[2603.06501v1](http://arxiv.org/abs/2603.06501v1)|null|
+|**2026-03-06**|**DreamToNav: Generalizable Navigation for Robots via Generative Video Planning**|Valerii Serpiva et.al.|[2603.06190v1](http://arxiv.org/abs/2603.06190v1)|null|
+|**2026-03-06**|**Beyond Static Frames: Temporal Aggregate-and-Restore Vision Transformer for Human Pose Estimation**|Hongwei Fang et.al.|[2603.05929v1](http://arxiv.org/abs/2603.05929v1)|null|
+|**2026-03-05**|**From Decoupled to Coupled: Robustness Verification for Learning-based Keypoint Detection with Joint Specifications**|Xusheng Luo et.al.|[2603.05604v1](http://arxiv.org/abs/2603.05604v1)|null|
 |**2026-03-05**|**Dark3R: Learning Structure from Motion in the Dark**|Andrew Y Guo et.al.|[2603.05330v1](http://arxiv.org/abs/2603.05330v1)|null|
-|**2026-03-05**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097v1](http://arxiv.org/abs/2603.05097v1)|null|
-|**2026-03-05**|**MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer**|Juntong Fang et.al.|[2603.05078v1](http://arxiv.org/abs/2603.05078v1)|null|
+|**2026-03-06**|**AIM-SLAM: Dense Monocular SLAM via Adaptive and Informative Multi-View Keyframe Prioritization with Foundation Model**|Jinwoo Jeon et.al.|[2603.05097v2](http://arxiv.org/abs/2603.05097v2)|null|
+|**2026-03-06**|**MoRe: Motion-aware Feed-forward 4D Reconstruction Transformer**|Juntong Fang et.al.|[2603.05078v2](http://arxiv.org/abs/2603.05078v2)|null|
 |**2026-03-04**|**EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR**|Zhenyu Li et.al.|[2603.04090v1](http://arxiv.org/abs/2603.04090v1)|null|
 |**2026-03-04**|**Yolo-Key-6D: Single Stage Monocular 6D Pose Estimation with Keypoint Enhancements**|Kemal Alperen Çetiner et.al.|[2603.03879v1](http://arxiv.org/abs/2603.03879v1)|null|
 |**2026-03-04**|**TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory**|Minwoo Jung et.al.|[2603.03695v1](http://arxiv.org/abs/2603.03695v1)|null|
@@ -2751,7 +2755,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3061,7 +3065,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3319,12 +3323,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**KCLarity at SemEval-2026 Task 6: Encoder and Zero-Shot Approaches to Political Evasion Detection**|Archie Sage et.al.|[2603.06552v1](http://arxiv.org/abs/2603.06552v1)|null|
+|**2026-03-06**|**CLoPA: Continual Low Parameter Adaptation of Interactive Segmentation for Medical Image Annotation**|Parhom Esmaeili et.al.|[2603.06426v1](http://arxiv.org/abs/2603.06426v1)|null|
+|**2026-03-06**|**Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation**|Yonghuang Wu et.al.|[2603.06384v1](http://arxiv.org/abs/2603.06384v1)|null|
+|**2026-03-06**|**K-MaT: Knowledge-Anchored Manifold Transport for Cross-Modal Prompt Learning in Medical Imaging**|Jiajun Zeng et.al.|[2603.06340v1](http://arxiv.org/abs/2603.06340v1)|null|
+|**2026-03-06**|**WMoE-CLIP: Wavelet-Enhanced Mixture-of-Experts Prompt Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al.|[2603.06313v1](http://arxiv.org/abs/2603.06313v1)|null|
+|**2026-03-06**|**Attribute Distribution Modeling and Semantic-Visual Alignment for Generative Zero-shot Learning**|Haojie Pu et.al.|[2603.06281v1](http://arxiv.org/abs/2603.06281v1)|null|
+|**2026-03-06**|**Story Point Estimation Using Large Language Models**|Pranam Prakash Shetty et.al.|[2603.06276v1](http://arxiv.org/abs/2603.06276v1)|null|
+|**2026-03-06**|**Agentic retrieval-augmented reasoning reshapes collective reliability under model variability in radiology question answering**|Mina Farajiamiri et.al.|[2603.06271v1](http://arxiv.org/abs/2603.06271v1)|null|
+|**2026-03-06**|**Diffusion Language Models Are Natively Length-Aware**|Vittorio Rossi et.al.|[2603.06123v1](http://arxiv.org/abs/2603.06123v1)|null|
+|**2026-03-06**|**TADPO: Reinforcement Learning Goes Off-road**|Zhouchonghao Wu et.al.|[2603.05995v1](http://arxiv.org/abs/2603.05995v1)|null|
 |**2026-03-05**|**MobileFetalCLIP: Selective Repulsive Knowledge Distillation for Mobile Fetal Ultrasound Analysis**|Numan Saeed et.al.|[2603.05421v1](http://arxiv.org/abs/2603.05421v1)|null|
 |**2026-03-05**|**An Exploration-Analysis-Disambiguation Reasoning Framework for Word Sense Disambiguation with Low-Parameter LLMs**|Deshan Sumanathilaka et.al.|[2603.05400v1](http://arxiv.org/abs/2603.05400v1)|null|
 |**2026-03-05**|**OpenFrontier: General Navigation with Visual-Language Grounded Frontiers**|Esteban Padilla et.al.|[2603.05377v1](http://arxiv.org/abs/2603.05377v1)|null|
@@ -10181,5 +10195,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260309>back to top</a>)</p>
 

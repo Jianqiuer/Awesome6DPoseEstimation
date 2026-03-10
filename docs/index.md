@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation**|Nanjun Li et.al.|[2603.08681v1](http://arxiv.org/abs/2603.08681v1)|null|
+|**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551v1](http://arxiv.org/abs/2603.08551v1)|null|
+|**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540v1](http://arxiv.org/abs/2603.08540v1)|null|
+|**2026-03-09**|**Event-based Motion & Appearance Fusion for 6D Object Pose Tracking**|Zhichao Li et.al.|[2603.08264v1](http://arxiv.org/abs/2603.08264v1)|null|
+|**2026-03-09**|**Why Learn What Physics Already Knows? Realizing Agile mmWave-based Human Pose Estimation via Physics-Guided Preprocessing**|Shuntian Zheng et.al.|[2603.08236v1](http://arxiv.org/abs/2603.08236v1)|null|
 |**2026-03-09**|**Re-evaluating Position and Velocity Decoding for Hand Pose Estimation with Surface Electromyography**|Nima Hadidi et.al.|[2603.08212v1](http://arxiv.org/abs/2603.08212v1)|null|
 |**2026-03-09**|**Speed3R: Sparse Feed-forward 3D Reconstruction Models**|Weining Ren et.al.|[2603.08055v1](http://arxiv.org/abs/2603.08055v1)|null|
 |**2026-03-08**|**RoboPCA: Pose-centered Affordance Learning from Human Demonstrations for Robot Manipulation**|Zhanqi Xiao et.al.|[2603.07691v1](http://arxiv.org/abs/2603.07691v1)|null|
@@ -3325,6 +3330,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-09**|**Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models**|Siqi Shang et.al.|[2603.08668v1](http://arxiv.org/abs/2603.08668v1)|null|
+|**2026-03-09**|**CAST: Modeling Visual State Transitions for Consistent Video Retrieval**|Yanqing Liu et.al.|[2603.08648v1](http://arxiv.org/abs/2603.08648v1)|null|
+|**2026-03-09**|**Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery**|Nehar Poddar et.al.|[2603.08619v1](http://arxiv.org/abs/2603.08619v1)|null|
+|**2026-03-09**|**Boosting MLLM Spatial Reasoning with Geometrically Referenced 3D Scene Representations**|Jiangye Yuan et.al.|[2603.08592v1](http://arxiv.org/abs/2603.08592v1)|null|
+|**2026-03-09**|**SWIFT: Sliding Window Reconstruction for Few-Shot Training-Free Generated Video Attribution**|Chao Wang et.al.|[2603.08536v1](http://arxiv.org/abs/2603.08536v1)|null|
+|**2026-03-09**|**Global Cross-Modal Geo-Localization: A Million-Scale Dataset and a Physical Consistency Learning Framework**|Yutong Hu et.al.|[2603.08491v1](http://arxiv.org/abs/2603.08491v1)|null|
+|**2026-03-09**|**LAR-MoE: Latent-Aligned Routing for Mixture of Experts in Robotic Imitation Learning**|Ariel Rodriguez et.al.|[2603.08476v1](http://arxiv.org/abs/2603.08476v1)|null|
+|**2026-03-09**|**R2F: Repurposing Ray Frontiers for LLM-free Object Navigation**|Francesco Argenziano et.al.|[2603.08475v1](http://arxiv.org/abs/2603.08475v1)|null|
+|**2026-03-09**|**Novel Semantic Prompting for Zero-Shot Action Recognition**|Salman Iqbal et.al.|[2603.08289v1](http://arxiv.org/abs/2603.08289v1)|null|
+|**2026-03-09**|**LAMUS: A Large-Scale Corpus for Legal Argument Mining from U.S. Caselaw using LLMs**|Serene Wang et.al.|[2603.08286v1](http://arxiv.org/abs/2603.08286v1)|null|
 |**2026-03-09**|**Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA**|Zexi Wu et.al.|[2603.08210v1](http://arxiv.org/abs/2603.08210v1)|null|
 |**2026-03-09**|**ALOOD: Exploiting Language Representations for LiDAR-based Out-of-Distribution Object Detection**|Michael Kösel et.al.|[2603.08180v1](http://arxiv.org/abs/2603.08180v1)|null|
 |**2026-03-09**|**Is continuous CoT better suited for multi-lingual reasoning?**|Ali Hamza Bashir et.al.|[2603.08177v1](http://arxiv.org/abs/2603.08177v1)|null|

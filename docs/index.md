@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.03.10
+## Updated on 2026.03.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673v1](http://arxiv.org/abs/2603.09673v1)|null|
+|**2026-03-10**|**CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation**|Bohao Li et.al.|[2603.09418v1](http://arxiv.org/abs/2603.09418v1)|null|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320v1](http://arxiv.org/abs/2603.09320v1)|null|
+|**2026-03-10**|**TRIP-Bag: A Portable Teleoperation System for Plug-and-Play Robotic Arms and Leaders**|Noboru Myers et.al.|[2603.09226v1](http://arxiv.org/abs/2603.09226v1)|null|
+|**2026-03-09**|**Fly, Track, Land: Infrastructure-less Magnetic Localization for Heterogeneous UAV-UGV Teaming**|Valerio Brunacci et.al.|[2603.08926v1](http://arxiv.org/abs/2603.08926v1)|null|
 |**2026-03-09**|**ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation**|Nanjun Li et.al.|[2603.08681v1](http://arxiv.org/abs/2603.08681v1)|null|
 |**2026-03-09**|**mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud**|Abdullah Al Masud et.al.|[2603.08551v1](http://arxiv.org/abs/2603.08551v1)|null|
 |**2026-03-09**|**PCFEx: Point Cloud Feature Extraction for Graph Neural Networks**|Abdullah Al Masud et.al.|[2603.08540v1](http://arxiv.org/abs/2603.08540v1)|null|
@@ -3074,6 +3079,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320v1](http://arxiv.org/abs/2603.09320v1)|null|
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871v1](http://arxiv.org/abs/2602.10871v1)|null|
 |**2026-01-27**|**Resolving Primitive-Sharing Ambiguity in Long-Tailed Industrial Point Cloud Segmentation via Spatial Context Constraints**|Chao Yin et.al.|[2601.19128v1](http://arxiv.org/abs/2601.19128v1)|null|
 |**2026-01-18**|**SGCP: A Self-Organized Game-Theoretic Framework For Collaborative Perception**|Zechuan Gong et.al.|[2601.12524v1](http://arxiv.org/abs/2601.12524v1)|null|
@@ -3330,6 +3336,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909v1](http://arxiv.org/abs/2603.09909v1)|null|
+|**2026-03-10**|**CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning**|Aleksei Rozanov et.al.|[2603.09868v1](http://arxiv.org/abs/2603.09868v1)|null|
+|**2026-03-10**|**TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions**|Nerea Gallego et.al.|[2603.09782v1](http://arxiv.org/abs/2603.09782v1)|null|
+|**2026-03-10**|**Robotic Scene Cloning:Advancing Zero-Shot Robotic Scene Adaptation in Manipulation via Visual Prompt Editing**|Binyuan Huang et.al.|[2603.09712v1](http://arxiv.org/abs/2603.09712v1)|null|
+|**2026-03-10**|**ESAinsTOD: A Unified End-to-End Schema-Aware Instruction-Tuning Framework for Task-Oriented Dialog Modeling**|Dechuan Teng et.al.|[2603.09691v1](http://arxiv.org/abs/2603.09691v1)|null|
+|**2026-03-10**|**Automatic Cardiac Risk Management Classification using large-context Electronic Patients Health Records**|Jacopo Vitale et.al.|[2603.09685v1](http://arxiv.org/abs/2603.09685v1)|null|
+|**2026-03-10**|**X-GS: An Extensible Open Framework Unifying 3DGS Architectures with Downstream Multimodal Models**|Yueen Ma et.al.|[2603.09632v1](http://arxiv.org/abs/2603.09632v1)|null|
+|**2026-03-10**|**Physics-Driven 3D Gaussian Rendering for Zero-Shot MRI Super-Resolution**|Shuting Liu et.al.|[2603.09621v1](http://arxiv.org/abs/2603.09621v1)|null|
+|**2026-03-10**|**NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models**|Ziyue Zhu et.al.|[2603.09542v1](http://arxiv.org/abs/2603.09542v1)|null|
+|**2026-03-10**|**Evolving Prompt Adaptation for Vision-Language Models**|Enming Zhang et.al.|[2603.09493v1](http://arxiv.org/abs/2603.09493v1)|null|
 |**2026-03-09**|**Exp-Force: Experience-Conditioned Pre-Grasp Force Selection with Vision-Language Models**|Siqi Shang et.al.|[2603.08668v1](http://arxiv.org/abs/2603.08668v1)|null|
 |**2026-03-09**|**CAST: Modeling Visual State Transitions for Consistent Video Retrieval**|Yanqing Liu et.al.|[2603.08648v1](http://arxiv.org/abs/2603.08648v1)|null|
 |**2026-03-09**|**Embedding Classical Balance Control Principles in Reinforcement Learning for Humanoid Recovery**|Nehar Poddar et.al.|[2603.08619v1](http://arxiv.org/abs/2603.08619v1)|null|

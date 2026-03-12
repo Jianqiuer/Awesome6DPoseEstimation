@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609v1](http://arxiv.org/abs/2603.10609v1)|null|
+|**2026-03-11**|**TacLoc: Global Tactile Localization on Objects from a Registration Perspective**|Zirui Zhang et.al.|[2603.10565v1](http://arxiv.org/abs/2603.10565v1)|null|
+|**2026-03-11**|**Multi-Person Pose Estimation Evaluation Using Optimal Transportation and Improved Pose Matching**|Takato Moriki et.al.|[2603.10398v1](http://arxiv.org/abs/2603.10398v1)|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673v1](http://arxiv.org/abs/2603.09673v1)|null|
 |**2026-03-10**|**CIGPose: Causal Intervention Graph Neural Network for Whole-Body Pose Estimation**|Bohao Li et.al.|[2603.09418v1](http://arxiv.org/abs/2603.09418v1)|null|
 |**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320v1](http://arxiv.org/abs/2603.09320v1)|null|
@@ -2771,6 +2774,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**TacLoc: Global Tactile Localization on Objects from a Registration Perspective**|Zirui Zhang et.al.|[2603.10565v1](http://arxiv.org/abs/2603.10565v1)|null|
 |**2026-03-05**|**SPIRIT: Perceptive Shared Autonomy for Robust Robotic Manipulation under Deep Learning Uncertainty**|Jongseok Lee et.al.|[2603.05111v1](http://arxiv.org/abs/2603.05111v1)|null|
 |**2026-02-11**|**End-to-End LiDAR optimization for 3D point cloud registration**|Siddhant Katyan et.al.|[2602.10492v1](http://arxiv.org/abs/2602.10492v1)|null|
 |**2026-02-03**|**Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios**|Kuo-Yi Chao et.al.|[2602.03908v1](http://arxiv.org/abs/2602.03908v1)|null|
@@ -3336,6 +3340,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-11**|**RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion**|Andrea Patrizi et.al.|[2603.10878v1](http://arxiv.org/abs/2603.10878v1)|null|
+|**2026-03-11**|**ASTER: Attitude-aware Suspended-payload Quadrotor Traversal via Efficient Reinforcement Learning**|Dongcheng Cao et.al.|[2603.10715v1](http://arxiv.org/abs/2603.10715v1)|null|
+|**2026-03-11**|**MAVEN: A Meta-Reinforcement Learning Framework for Varying-Dynamics Expertise in Agile Quadrotor Maneuvers**|Jin Zhou et.al.|[2603.10714v1](http://arxiv.org/abs/2603.10714v1)|null|
+|**2026-03-11**|**OnFly: Onboard Zero-Shot Aerial Vision-Language Navigation toward Safety and Efficiency**|Guiyong Zheng et.al.|[2603.10682v1](http://arxiv.org/abs/2603.10682v1)|null|
+|**2026-03-11**|**AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments**|Zixuan Chen et.al.|[2603.10616v1](http://arxiv.org/abs/2603.10616v1)|null|
+|**2026-03-11**|**Need for Speed: Zero-Shot Depth Completion with Single-Step Diffusion**|Jakub Gregorek et.al.|[2603.10584v1](http://arxiv.org/abs/2603.10584v1)|null|
+|**2026-03-11**|**PET-F2I: A Comprehensive Benchmark and Parameter-Efficient Fine-Tuning of LLMs for PET/CT Report Impression Generation**|Yuchen Liu et.al.|[2603.10560v1](http://arxiv.org/abs/2603.10560v1)|null|
+|**2026-03-11**|**Towards Cognitive Defect Analysis in Active Infrared Thermography with Vision-Text Cues**|Mohammed Salah et.al.|[2603.10549v1](http://arxiv.org/abs/2603.10549v1)|null|
+|**2026-03-11**|**PEEM: Prompt Engineering Evaluation Metrics for Interpretable Joint Evaluation of Prompts and Responses**|Minki Hong et.al.|[2603.10477v1](http://arxiv.org/abs/2603.10477v1)|null|
+|**2026-03-11**|**DiT4DiT: Jointly Modeling Video Dynamics and Actions for Generalizable Robot Control**|Teli Ma et.al.|[2603.10448v1](http://arxiv.org/abs/2603.10448v1)|null|
 |**2026-03-10**|**MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems**|Yunhang Qian et.al.|[2603.09909v1](http://arxiv.org/abs/2603.09909v1)|null|
 |**2026-03-10**|**CarbonBench: A Global Benchmark for Upscaling of Carbon Fluxes Using Zero-Shot Learning**|Aleksei Rozanov et.al.|[2603.09868v1](http://arxiv.org/abs/2603.09868v1)|null|
 |**2026-03-10**|**TIMID: Time-Dependent Mistake Detection in Videos of Robot Executions**|Nerea Gallego et.al.|[2603.09782v1](http://arxiv.org/abs/2603.09782v1)|null|

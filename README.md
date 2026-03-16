@@ -1,4 +1,4 @@
-## Updated on 2026.03.15
+## Updated on 2026.03.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation**|Juhye Park et.al.|[2603.12918v1](http://arxiv.org/abs/2603.12918v1)|null|
+|**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789v1](http://arxiv.org/abs/2603.12789v1)|null|
+|**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690v1](http://arxiv.org/abs/2603.12690v1)|null|
 |**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[2603.12176v1](http://arxiv.org/abs/2603.12176v1)|null|
 |**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064v1](http://arxiv.org/abs/2603.12064v1)|null|
-|**2026-03-12**|**Real-time Rendering-based Surgical Instrument Tracking via Evolutionary Optimization**|Hanyang Hu et.al.|[2603.11404v1](http://arxiv.org/abs/2603.11404v1)|null|
+|**2026-03-13**|**Real-time Rendering-based Surgical Instrument Tracking via Evolutionary Optimization**|Hanyang Hu et.al.|[2603.11404v2](http://arxiv.org/abs/2603.11404v2)|null|
 |**2026-03-12**|**High-Precision 6DOF Pose Estimation via Global Phase Retrieval in Fringe Projection Profilometry for 3D Mapping**|Sehoon Tak et.al.|[2603.11389v1](http://arxiv.org/abs/2603.11389v1)|null|
 |**2026-03-11**|**Distributed Kalman--Consensus Filtering with Adaptive Uncertainty Weighting for Multi-Object Tracking in Mobile Robot Networks**|Niusha Khosravi et.al.|[2603.11328v1](http://arxiv.org/abs/2603.11328v1)|null|
 |**2026-03-11**|**Learning Bimanual Cloth Manipulation with Vision-based Tactile Sensing via Single Robotic Arm**|Dongmyoung Lee et.al.|[2603.10609v1](http://arxiv.org/abs/2603.10609v1)|null|
@@ -2781,12 +2784,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721v1](http://arxiv.org/abs/2603.12721v1)|null|
+|**2026-03-13**|**IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12719v1](http://arxiv.org/abs/2603.12719v1)|null|
 |**2026-03-11**|**TacLoc: Global Tactile Localization on Objects from a Registration Perspective**|Zirui Zhang et.al.|[2603.10565v1](http://arxiv.org/abs/2603.10565v1)|null|
 |**2026-03-05**|**SPIRIT: Perceptive Shared Autonomy for Robust Robotic Manipulation under Deep Learning Uncertainty**|Jongseok Lee et.al.|[2603.05111v1](http://arxiv.org/abs/2603.05111v1)|null|
 |**2026-02-11**|**End-to-End LiDAR optimization for 3D point cloud registration**|Siddhant Katyan et.al.|[2602.10492v1](http://arxiv.org/abs/2602.10492v1)|null|
@@ -3092,7 +3097,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3351,12 +3356,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Yangsong Zhang et.al.|[2603.13228v1](http://arxiv.org/abs/2603.13228v1)|null|
+|**2026-03-13**|**Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**|Wenxi Wu et.al.|[2603.13100v1](http://arxiv.org/abs/2603.13100v1)|null|
+|**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998v1](http://arxiv.org/abs/2603.12998v1)|null|
+|**2026-03-13**|**Efficient Real-World Autonomous Racing via Attenuated Residual Policy Optimization**|Raphael Trumpp et.al.|[2603.12960v1](http://arxiv.org/abs/2603.12960v1)|null|
+|**2026-03-13**|**MotionAnymesh: Physics-Grounded Articulation for Simulation-Ready Digital Twins**|WenBo Xu et.al.|[2603.12936v1](http://arxiv.org/abs/2603.12936v1)|null|
+|**2026-03-13**|**DS $^2$ -Instruct: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning**|Ruiyao Xu et.al.|[2603.12932v1](http://arxiv.org/abs/2603.12932v1)|null|
+|**2026-03-13**|**GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation**|MoniJesu Wonders James et.al.|[2603.12908v1](http://arxiv.org/abs/2603.12908v1)|null|
+|**2026-03-13**|**Beyond Imitation: Reinforcement Learning Fine-Tuning for Adaptive Diffusion Navigation Policies**|Junhe Sheng et.al.|[2603.12868v1](http://arxiv.org/abs/2603.12868v1)|null|
+|**2026-03-13**|**FLUX: Accelerating Cross-Embodiment Generative Navigation Policies via Rectified Flow and Static-to-Dynamic Learning**|Zeying Gong et.al.|[2603.12806v1](http://arxiv.org/abs/2603.12806v1)|null|
+|**2026-03-13**|**SAP: Segment Any 4K Panorama**|Lutao Jiang et.al.|[2603.12759v1](http://arxiv.org/abs/2603.12759v1)|null|
 |**2026-03-12**|**DVD: Deterministic Video Depth Estimation with Generative Priors**|Hongfei Zhang et.al.|[2603.12250v1](http://arxiv.org/abs/2603.12250v1)|null|
 |**2026-03-12**|**To Words and Beyond: Probing Large Language Models for Sentence-Level Psycholinguistic Norms of Memorability and Reading Times**|Thomas Hikaru Clark et.al.|[2603.12105v1](http://arxiv.org/abs/2603.12105v1)|null|
 |**2026-03-12**|**Paper Title: LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments**|Zhaoyang Jiang et.al.|[2603.12071v1](http://arxiv.org/abs/2603.12071v1)|null|
@@ -10273,5 +10288,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260315>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
 

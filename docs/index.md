@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments**|Aaditya Khanal et.al.|[2603.15574v1](http://arxiv.org/abs/2603.15574v1)|null|
+|**2026-03-16**|**Pointing-Based Object Recognition**|Lukáš Hajdúch et.al.|[2603.15403v1](http://arxiv.org/abs/2603.15403v1)|null|
+|**2026-03-16**|**Fast Volume Alignment by Frequency-Marched Newton**|Fabian Kruse et.al.|[2603.15285v1](http://arxiv.org/abs/2603.15285v1)|null|
 |**2026-03-16**|**Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator**|Gyeongsik Moon et.al.|[2603.14726v1](http://arxiv.org/abs/2603.14726v1)|null|
 |**2026-03-15**|**Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets**|Zhuoxuan Peng et.al.|[2603.14507v1](http://arxiv.org/abs/2603.14507v1)|null|
 |**2026-03-15**|**eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation**|Prithvi Jai Ramesh et.al.|[2603.14397v1](http://arxiv.org/abs/2603.14397v1)|null|
@@ -3357,6 +3360,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-16**|**From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation**|Yibin Liu et.al.|[2603.15600v1](http://arxiv.org/abs/2603.15600v1)|null|
+|**2026-03-16**|**AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer**|Pengjun Fang et.al.|[2603.15597v1](http://arxiv.org/abs/2603.15597v1)|null|
+|**2026-03-16**|**Severe Domain Shift in Skeleton-Based Action Recognition:A Study of Uncertainty Failure in Real-World Gym Environments**|Aaditya Khanal et.al.|[2603.15574v1](http://arxiv.org/abs/2603.15574v1)|null|
+|**2026-03-16**|**Financial Transaction Retrieval and Contextual Evidence for Knowledge-Grounded Reasoning**|Artem Sakhno et.al.|[2603.15459v1](http://arxiv.org/abs/2603.15459v1)|null|
+|**2026-03-16**|**Zero-Shot Generalization from Motion Demonstrations to New Tasks**|Kilian Freitag et.al.|[2603.15445v1](http://arxiv.org/abs/2603.15445v1)|null|
+|**2026-03-16**|**MA-VLCM: A Vision Language Critic Model for Value Estimation of Policies in Multi-Agent Team Settings**|Shahil Shaik et.al.|[2603.15418v1](http://arxiv.org/abs/2603.15418v1)|null|
+|**2026-03-16**|**NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation**|Tianshuai Hu et.al.|[2603.15359v1](http://arxiv.org/abs/2603.15359v1)|null|
+|**2026-03-16**|**Conditional Rectified Flow-based End-to-End Rapid Seismic Inversion Method**|Haofei Xu et.al.|[2603.15354v1](http://arxiv.org/abs/2603.15354v1)|null|
+|**2026-03-16**|**PrototypeNAS: Rapid Design of Deep Neural Networks for Microcontroller Units**|Mark Deutel et.al.|[2603.15106v1](http://arxiv.org/abs/2603.15106v1)|null|
+|**2026-03-16**|**HALO:Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation**|Xingyi Wang et.al.|[2603.15084v1](http://arxiv.org/abs/2603.15084v1)|null|
 |**2026-03-16**|**RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation**|Linfei Li et.al.|[2603.14880v1](http://arxiv.org/abs/2603.14880v1)|null|
 |**2026-03-16**|**From Artefact to Insight: Efficient Low-Rank Adaptation of BrushNet for Scanning Probe Microscopy Image Restoration**|Ziwei Wei et.al.|[2603.14850v1](http://arxiv.org/abs/2603.14850v1)|null|
 |**2026-03-16**|**HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System**|Kailin Lyu et.al.|[2603.14807v1](http://arxiv.org/abs/2603.14807v1)|null|

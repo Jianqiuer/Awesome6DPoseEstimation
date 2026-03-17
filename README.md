@@ -1,4 +1,4 @@
-## Updated on 2026.03.16
+## Updated on 2026.03.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,11 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**Enhancing Hands in 3D Whole-Body Pose Estimation with Conditional Hands Modulator**|Gyeongsik Moon et.al.|[2603.14726v1](http://arxiv.org/abs/2603.14726v1)|null|
+|**2026-03-15**|**Expanding mmWave Datasets for Human Pose Estimation with Unlabeled Data and LiDAR Datasets**|Zhuoxuan Peng et.al.|[2603.14507v1](http://arxiv.org/abs/2603.14507v1)|null|
+|**2026-03-15**|**eNavi: Event-based Imitation Policies for Low-Light Indoor Mobile Robot Navigation**|Prithvi Jai Ramesh et.al.|[2603.14397v1](http://arxiv.org/abs/2603.14397v1)|null|
+|**2026-03-14**|**Vision-guided Autonomous Dual-arm Extraction Robot for Bell Pepper Harvesting**|Kshitij Madhav Bhat et.al.|[2603.13987v1](http://arxiv.org/abs/2603.13987v1)|null|
+|**2026-03-14**|**Sky2Ground: A Benchmark for Site Modeling under Varying Altitude**|Zengyan Wang et.al.|[2603.13740v1](http://arxiv.org/abs/2603.13740v1)|null|
 |**2026-03-13**|**VIRD: View-Invariant Representation through Dual-Axis Transformation for Cross-View Pose Estimation**|Juhye Park et.al.|[2603.12918v1](http://arxiv.org/abs/2603.12918v1)|null|
 |**2026-03-13**|**Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass**|Sangmin Kim et.al.|[2603.12789v1](http://arxiv.org/abs/2603.12789v1)|null|
 |**2026-03-13**|**CM-Bench: A Comprehensive Cross-Modal Feature Matching Benchmark Bridging Visible and Infrared Images**|Liangzheng Sun et.al.|[2603.12690v1](http://arxiv.org/abs/2603.12690v1)|null|
 |**2026-03-12**|**BehaviorVLM: Unified Finetuning-Free Behavioral Understanding with Vision-Language Reasoning**|Jingyang Ke et.al.|[2603.12176v1](http://arxiv.org/abs/2603.12176v1)|null|
-|**2026-03-12**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064v1](http://arxiv.org/abs/2603.12064v1)|null|
+|**2026-03-14**|**Dense Dynamic Scene Reconstruction and Camera Pose Estimation from Multi-View Videos**|Shuo Sun et.al.|[2603.12064v2](http://arxiv.org/abs/2603.12064v2)|null|
 |**2026-03-13**|**Real-time Rendering-based Surgical Instrument Tracking via Evolutionary Optimization**|Hanyang Hu et.al.|[2603.11404v2](http://arxiv.org/abs/2603.11404v2)|null|
 |**2026-03-12**|**High-Precision 6DOF Pose Estimation via Global Phase Retrieval in Fringe Projection Profilometry for 3D Mapping**|Sehoon Tak et.al.|[2603.11389v1](http://arxiv.org/abs/2603.11389v1)|null|
 |**2026-03-11**|**Distributed Kalman--Consensus Filtering with Adaptive Uncertainty Weighting for Multi-Object Tracking in Mobile Robot Networks**|Niusha Khosravi et.al.|[2603.11328v1](http://arxiv.org/abs/2603.11328v1)|null|
@@ -2784,12 +2789,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer**|Jiuming Liu et.al.|[2603.14290v1](http://arxiv.org/abs/2603.14290v1)|null|
 |**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721v1](http://arxiv.org/abs/2603.12721v1)|null|
 |**2026-03-13**|**IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12719v1](http://arxiv.org/abs/2603.12719v1)|null|
 |**2026-03-11**|**TacLoc: Global Tactile Localization on Objects from a Registration Perspective**|Zirui Zhang et.al.|[2603.10565v1](http://arxiv.org/abs/2603.10565v1)|null|
@@ -3097,12 +3103,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309v1](http://arxiv.org/abs/2603.14309v1)|null|
 |**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320v1](http://arxiv.org/abs/2603.09320v1)|null|
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871v1](http://arxiv.org/abs/2602.10871v1)|null|
 |**2026-01-27**|**Resolving Primitive-Sharing Ambiguity in Long-Tailed Industrial Point Cloud Segmentation via Spatial Context Constraints**|Chao Yin et.al.|[2601.19128v1](http://arxiv.org/abs/2601.19128v1)|null|
@@ -3356,12 +3363,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-16**|**RealVLG-R1: A Large-Scale Real-World Visual-Language Grounding Benchmark for Robotic Perception and Manipulation**|Linfei Li et.al.|[2603.14880v1](http://arxiv.org/abs/2603.14880v1)|null|
+|**2026-03-16**|**From Artefact to Insight: Efficient Low-Rank Adaptation of BrushNet for Scanning Probe Microscopy Image Restoration**|Ziwei Wei et.al.|[2603.14850v1](http://arxiv.org/abs/2603.14850v1)|null|
+|**2026-03-16**|**HiMemVLN: Enhancing Reliability of Open-Source Zero-Shot Vision-and-Language Navigation with Hierarchical Memory System**|Kailin Lyu et.al.|[2603.14807v1](http://arxiv.org/abs/2603.14807v1)|null|
+|**2026-03-16**|**Zero-Shot Reconstruction of Animatable 3D Avatars with Cloth Dynamics from a Single Image**|Joohyun Kwon et.al.|[2603.14772v1](http://arxiv.org/abs/2603.14772v1)|null|
+|**2026-03-16**|**BrainBench: Exposing the Commonsense Reasoning Gap in Large Language Models**|Yuzhe Tang et.al.|[2603.14761v1](http://arxiv.org/abs/2603.14761v1)|null|
+|**2026-03-16**|**Cross-RAG: Zero-Shot Retrieval-Augmented Time Series Forecasting via Cross-Attention**|Seunghan Lee et.al.|[2603.14709v1](http://arxiv.org/abs/2603.14709v1)|null|
+|**2026-03-15**|**GroundSet: A Cadastral-Grounded Dataset for Spatial Understanding with Vector Data**|Roger Ferrod et.al.|[2603.14609v1](http://arxiv.org/abs/2603.14609v1)|null|
+|**2026-03-15**|**MorFiC: Fixing Value Miscalibration for Zero-Shot Quadruped Transfer**|Prakhar Mishra et.al.|[2603.14554v1](http://arxiv.org/abs/2603.14554v1)|null|
+|**2026-03-15**|**MALicious INTent Dataset and Inoculating LLMs for Enhanced Disinformation Detection**|Arkadiusz Modzelewski et.al.|[2603.14525v1](http://arxiv.org/abs/2603.14525v1)|null|
+|**2026-03-15**|**G-ZAP: A Generalizable Zero-Shot Framework for Arbitrary-Scale Pansharpening**|Zhiqi Yang et.al.|[2603.14412v1](http://arxiv.org/abs/2603.14412v1)|null|
 |**2026-03-13**|**PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization**|Yangsong Zhang et.al.|[2603.13228v1](http://arxiv.org/abs/2603.13228v1)|null|
 |**2026-03-13**|**Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**|Wenxi Wu et.al.|[2603.13100v1](http://arxiv.org/abs/2603.13100v1)|null|
 |**2026-03-13**|**A Closed-Form Solution for Debiasing Vision-Language Models with Utility Guarantees Across Modalities and Tasks**|Tangzheng Lian et.al.|[2603.12998v1](http://arxiv.org/abs/2603.12998v1)|null|
@@ -10288,5 +10305,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260316>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260317>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2026.03.18
+## Updated on 2026.03.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571v1](http://arxiv.org/abs/2603.17571v1)|null|
+|**2026-03-18**|**Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation**|Rui Hong et.al.|[2603.17396v1](http://arxiv.org/abs/2603.17396v1)|null|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868v1](http://arxiv.org/abs/2603.16868v1)|null|
 |**2026-03-17**|**M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM**|Kerui Ren et.al.|[2603.16844v1](http://arxiv.org/abs/2603.16844v1)|null|
 |**2026-03-17**|**FSMC-Pose: Frequency and Spatial Fusion with Multiscale Self-calibration for Cattle Mounting Pose Estimation**|Fangjing Li et.al.|[2603.16596v1](http://arxiv.org/abs/2603.16596v1)|null|
@@ -2796,7 +2798,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3110,7 +3112,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3370,12 +3372,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-18**|**Unified Policy Value Decomposition for Rapid Adaptation**|Cristiano Capone et.al.|[2603.17947v1](http://arxiv.org/abs/2603.17947v1)|null|
+|**2026-03-18**|**RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference**|Arpit Singh Gautam et.al.|[2603.17891v1](http://arxiv.org/abs/2603.17891v1)|null|
+|**2026-03-18**|**Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval**|Md. Asraful Haque et.al.|[2603.17872v1](http://arxiv.org/abs/2603.17872v1)|null|
+|**2026-03-18**|**Concept-to-Pixel: Prompt-Free Universal Medical Image Segmentation**|Haoyun Chen et.al.|[2603.17746v1](http://arxiv.org/abs/2603.17746v1)|null|
+|**2026-03-18**|**Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)**|Diederick C. Niehorster et.al.|[2603.17715v1](http://arxiv.org/abs/2603.17715v1)|null|
+|**2026-03-18**|**AERR-Nav: Adaptive Exploration-Recovery-Reminiscing Strategy for Zero-Shot Object Navigation**|Jingzhi Huang et.al.|[2603.17712v1](http://arxiv.org/abs/2603.17712v1)|null|
+|**2026-03-18**|**Negation is Not Semantic: Diagnosing Dense Retrieval Failure Modes for Trade-offs in Contradiction-Aware Biomedical QA**|Soumya Ranjan Sahoo et.al.|[2603.17580v1](http://arxiv.org/abs/2603.17580v1)|null|
+|**2026-03-18**|**FoMo X: Modular Explainability Signals for Outlier Detection Foundation Models**|Simon Klüttermann et.al.|[2603.17570v1](http://arxiv.org/abs/2603.17570v1)|null|
+|**2026-03-18**|**Mutually Causal Semantic Distillation Network for Zero-Shot Learning**|Shiming Chen et.al.|[2603.17412v1](http://arxiv.org/abs/2603.17412v1)|null|
+|**2026-03-18**|**OmniVLN: Omnidirectional 3D Perception and Token-Efficient LLM Reasoning for Visual-Language Navigation across Air and Ground Platforms**|Zhongyuang Liu et.al.|[2603.17351v1](http://arxiv.org/abs/2603.17351v1)|null|
 |**2026-03-17**|**MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation**|Abhay Deshpande et.al.|[2603.16861v1](http://arxiv.org/abs/2603.16861v1)|null|
 |**2026-03-17**|**DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models**|Emily Yue-Ting Jia et.al.|[2603.16860v1](http://arxiv.org/abs/2603.16860v1)|null|
 |**2026-03-17**|**What DINO saw: ALiBi positional encoding reduces positional bias in Vision Transformers**|Moritz Pawlowsky et.al.|[2603.16840v1](http://arxiv.org/abs/2603.16840v1)|null|
@@ -10332,5 +10344,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260318>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
 

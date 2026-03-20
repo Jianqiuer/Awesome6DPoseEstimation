@@ -1,4 +1,4 @@
-## Updated on 2026.03.19
+## Updated on 2026.03.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**Measuring 3D Spatial Geometric Consistency in Dynamic Generated Videos**|Weijia Dou et.al.|[2603.19048v1](http://arxiv.org/abs/2603.19048v1)|null|
+|**2026-03-19**|**Generalized Hand-Object Pose Estimation with Occlusion Awareness**|Hui Yang et.al.|[2603.19013v1](http://arxiv.org/abs/2603.19013v1)|null|
+|**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774v1](http://arxiv.org/abs/2603.18774v1)|null|
+|**2026-03-19**|**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**|Longfei Liu et.al.|[2603.18739v1](http://arxiv.org/abs/2603.18739v1)|null|
 |**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571v1](http://arxiv.org/abs/2603.17571v1)|null|
 |**2026-03-18**|**Gesture-Aware Pretraining and Token Fusion for 3D Hand Pose Estimation**|Rui Hong et.al.|[2603.17396v1](http://arxiv.org/abs/2603.17396v1)|null|
 |**2026-03-17**|**MessyKitchens: Contact-rich object-level 3D scene reconstruction**|Junaid Ahmed Ansari et.al.|[2603.16868v1](http://arxiv.org/abs/2603.16868v1)|null|
@@ -2798,7 +2802,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3112,7 +3116,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3372,12 +3376,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228v1](http://arxiv.org/abs/2603.19228v1)|null|
+|**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225v1](http://arxiv.org/abs/2603.19225v1)|null|
+|**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[2603.19137v1](http://arxiv.org/abs/2603.19137v1)|null|
+|**2026-03-19**|**A Dataset and Resources for Identifying Patient Health Literacy Information from Clinical Notes**|Madeline Bittner et.al.|[2603.19082v1](http://arxiv.org/abs/2603.19082v1)|null|
+|**2026-03-19**|**SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models**|Quentin Guimard et.al.|[2603.19028v1](http://arxiv.org/abs/2603.19028v1)|null|
+|**2026-03-19**|**MERGE: Guided Vision-Language Models for Multi-Actor Event Reasoning and Grounding in Human-Robot Interaction**|Joerg Deigmoeller et.al.|[2603.18988v1](http://arxiv.org/abs/2603.18988v1)|null|
+|**2026-03-19**|**VGGT-360: Geometry-Consistent Zero-Shot Panoramic Depth Estimation**|Jiayi Yuan et.al.|[2603.18943v1](http://arxiv.org/abs/2603.18943v1)|null|
+|**2026-03-19**|**Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer**|Mohamed Youssef et.al.|[2603.18719v1](http://arxiv.org/abs/2603.18719v1)|null|
+|**2026-03-19**|**CSSDF-Net: Safe Motion Planning Based on Neural Implicit Representations of Configuration Space Distance Field**|Haohua Chen et.al.|[2603.18669v1](http://arxiv.org/abs/2603.18669v1)|null|
+|**2026-03-19**|**SwiftGS: Episodic Priors for Immediate Satellite Surface Recovery**|Rong Fu et.al.|[2603.18634v1](http://arxiv.org/abs/2603.18634v1)|null|
 |**2026-03-18**|**Unified Policy Value Decomposition for Rapid Adaptation**|Cristiano Capone et.al.|[2603.17947v1](http://arxiv.org/abs/2603.17947v1)|null|
 |**2026-03-18**|**RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference**|Arpit Singh Gautam et.al.|[2603.17891v1](http://arxiv.org/abs/2603.17891v1)|null|
 |**2026-03-18**|**Mitigating LLM Hallucinations through Domain-Grounded Tiered Retrieval**|Md. Asraful Haque et.al.|[2603.17872v1](http://arxiv.org/abs/2603.17872v1)|null|
@@ -10344,5 +10358,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260319>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260320>back to top</a>)</p>
 

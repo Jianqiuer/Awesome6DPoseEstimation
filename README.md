@@ -1,4 +1,4 @@
-## Updated on 2026.03.22
+## Updated on 2026.03.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,8 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Cov2Pose: Leveraging Spatial Covariance for Direct Manifold-aware 6-DoF Object Pose Estimation**|Nassim Ali Ousalah et.al.|[2603.19961v1](http://arxiv.org/abs/2603.19961v1)|null|
+|**2026-03-20**|**FlashCap: Millisecond-Accurate Human Motion Capture via Flashing LEDs and Event-Based Vision**|Zekai Wu et.al.|[2603.19770v1](http://arxiv.org/abs/2603.19770v1)|null|
+|**2026-03-20**|**Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**|Weisheng Xu et.al.|[2603.19709v1](http://arxiv.org/abs/2603.19709v1)|null|
+|**2026-03-20**|**IUP-Pose: Decoupled Iterative Uncertainty Propagation for Real-time Relative Pose Regression via Implicit Dense Alignment v1**|Jun Wang et.al.|[2603.19625v1](http://arxiv.org/abs/2603.19625v1)|null|
+|**2026-03-20**|**UniPR: Unified Object-level Real-to-Sim Perception and Reconstruction from a Single Stereo Pair**|Chuanrui Zhang et.al.|[2603.19616v1](http://arxiv.org/abs/2603.19616v1)|null|
+|**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609v1](http://arxiv.org/abs/2603.19609v1)|null|
 |**2026-03-19**|**Measuring 3D Spatial Geometric Consistency in Dynamic Generated Videos**|Weijia Dou et.al.|[2603.19048v1](http://arxiv.org/abs/2603.19048v1)|null|
-|**2026-03-19**|**Generalized Hand-Object Pose Estimation with Occlusion Awareness**|Hui Yang et.al.|[2603.19013v1](http://arxiv.org/abs/2603.19013v1)|null|
+|**2026-03-20**|**Generalized Hand-Object Pose Estimation with Occlusion Awareness**|Hui Yang et.al.|[2603.19013v2](http://arxiv.org/abs/2603.19013v2)|null|
 |**2026-03-19**|**SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for RGB+Thermal 3D Reconstruction**|Vsevolod Skorokhodov et.al.|[2603.18774v1](http://arxiv.org/abs/2603.18774v1)|null|
 |**2026-03-19**|**EdgeCrafter: Compact ViTs for Edge Dense Prediction via Task-Specialized Distillation**|Longfei Liu et.al.|[2603.18739v1](http://arxiv.org/abs/2603.18739v1)|null|
 |**2026-03-18**|**PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery**|Yijing Guo et.al.|[2603.17571v1](http://arxiv.org/abs/2603.17571v1)|null|
@@ -2802,7 +2808,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260323>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3116,12 +3122,14 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260323>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19788v1](http://arxiv.org/abs/2603.19788v1)|null|
+|**2026-03-20**|**Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19757v1](http://arxiv.org/abs/2603.19757v1)|null|
 |**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309v1](http://arxiv.org/abs/2603.14309v1)|null|
 |**2026-03-10**|**SpaceSense-Bench: A Large-Scale Multi-Modal Benchmark for Spacecraft Perception and Pose Estimation**|Aodi Wu et.al.|[2603.09320v1](http://arxiv.org/abs/2603.09320v1)|null|
 |**2026-02-11**|**Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling**|Yu Zhang et.al.|[2602.10871v1](http://arxiv.org/abs/2602.10871v1)|null|
@@ -3376,12 +3384,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260323>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-20**|**CoVR-R:Reason-Aware Composed Video Retrieval**|Omkar Thawakar et.al.|[2603.20190v1](http://arxiv.org/abs/2603.20190v1)|null|
+|**2026-03-20**|**Can Large Multimodal Models Inspect Buildings? A Hierarchical Benchmark for Structural Pathology Reasoning**|Hui Zhong et.al.|[2603.20148v1](http://arxiv.org/abs/2603.20148v1)|null|
+|**2026-03-20**|**RAM: Recover Any 3D Human Motion in-the-Wild**|Sen Jia et.al.|[2603.19929v1](http://arxiv.org/abs/2603.19929v1)|null|
+|**2026-03-20**|**NASimJax: GPU-Accelerated Policy Learning Framework for Penetration Testing**|Raphael Simon et.al.|[2603.19864v1](http://arxiv.org/abs/2603.19864v1)|null|
+|**2026-03-20**|**Semantic Delta: An Interpretable Signal Differentiating Human and LLMs Dialogue**|Riccardo Scantamburlo et.al.|[2603.19849v1](http://arxiv.org/abs/2603.19849v1)|null|
+|**2026-03-20**|**MOSS-TTSD: Text to Spoken Dialogue Generation**|Yuqian Zhang et.al.|[2603.19739v1](http://arxiv.org/abs/2603.19739v1)|null|
+|**2026-03-20**|**Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis**|Weisheng Xu et.al.|[2603.19709v1](http://arxiv.org/abs/2603.19709v1)|null|
+|**2026-03-20**|**TSegAgent: Zero-Shot Tooth Segmentation via Geometry-Aware Vision-Language Agents**|Shaojie Zhuang et.al.|[2603.19684v1](http://arxiv.org/abs/2603.19684v1)|null|
+|**2026-03-20**|**Structured Prompting for Arabic Essay Proficiency: A Trait-Centric Evaluation Approach**|Salim Al Mandhari et.al.|[2603.19668v1](http://arxiv.org/abs/2603.19668v1)|null|
+|**2026-03-20**|**LoD-Loc v3: Generalized Aerial Localization in Dense Cities using Instance Silhouette Alignment**|Shuaibang Peng et.al.|[2603.19609v1](http://arxiv.org/abs/2603.19609v1)|null|
 |**2026-03-19**|**SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing**|Xinyao Zhang et.al.|[2603.19228v1](http://arxiv.org/abs/2603.19228v1)|null|
 |**2026-03-19**|**FinTradeBench: A Financial Reasoning Benchmark for LLMs**|Yogesh Agrawal et.al.|[2603.19225v1](http://arxiv.org/abs/2603.19225v1)|null|
 |**2026-03-19**|**GSMem: 3D Gaussian Splatting as Persistent Spatial Memory for Zero-Shot Embodied Exploration and Reasoning**|Yiren Lu et.al.|[2603.19137v1](http://arxiv.org/abs/2603.19137v1)|null|
@@ -10358,5 +10376,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260322>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260323>back to top</a>)</p>
 

@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193v1](http://arxiv.org/abs/2603.22193v1)|null|
 |**2026-03-22**|**Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing**|Haodong Zheng et.al.|[2603.21410v1](http://arxiv.org/abs/2603.21410v1)|null|
 |**2026-03-22**|**Geometrically Plausible Object Pose Refinement using Differentiable Simulation**|Anil Zeybek et.al.|[2603.20992v1](http://arxiv.org/abs/2603.20992v1)|null|
 |**2026-03-21**|**PiLoT: Neural Pixel-to-3D Registration for UAV-based Ego and Target Geo-localization**|Xiaoya Cheng et.al.|[2603.20778v1](http://arxiv.org/abs/2603.20778v1)|null|
@@ -3383,6 +3384,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279v1](http://arxiv.org/abs/2603.22279v1)|null|
+|**2026-03-23**|**Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit**|Yu Liu et.al.|[2603.22274v1](http://arxiv.org/abs/2603.22274v1)|null|
+|**2026-03-23**|**UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos**|Gu Zhang et.al.|[2603.22264v1](http://arxiv.org/abs/2603.22264v1)|null|
+|**2026-03-23**|**EgoGroups: A Benchmark For Detecting Social Groups of People in the Wild**|Jeffri Murrugarra-Llerena et.al.|[2603.22249v1](http://arxiv.org/abs/2603.22249v1)|null|
+|**2026-03-23**|**Noise Titration: Exact Distributional Benchmarking for Probabilistic Time Series Forecasting**|Qilin Wang et.al.|[2603.22219v1](http://arxiv.org/abs/2603.22219v1)|null|
+|**2026-03-23**|**Revisiting Quantum Code Generation: Where Should Domain Knowledge Live?**|Oscar Novo et.al.|[2603.22184v1](http://arxiv.org/abs/2603.22184v1)|null|
+|**2026-03-23**|**FontCrafter: High-Fidelity Element-Driven Artistic Font Creation with Visual In-Context Generation**|Wuyang Luo et.al.|[2603.22054v1](http://arxiv.org/abs/2603.22054v1)|null|
+|**2026-03-23**|**Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models**|Hayeon Kim et.al.|[2603.22042v1](http://arxiv.org/abs/2603.22042v1)|null|
+|**2026-03-23**|**RAFL: Generalizable Sim-to-Real of Soft Robots with Residual Acceleration Field Learning**|Dong Heon Cho et.al.|[2603.22039v1](http://arxiv.org/abs/2603.22039v1)|null|
 |**2026-03-23**|**Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection**|Youbin Kim et.al.|[2603.21944v1](http://arxiv.org/abs/2603.21944v1)|null|
 |**2026-03-23**|**CLEAR: Context-Aware Learning with End-to-End Mask-Free Inference for Adaptive Video Subtitle Removal**|Qingdong He et.al.|[2603.21901v1](http://arxiv.org/abs/2603.21901v1)|null|
 |**2026-03-23**|**SteelDefectX: A Coarse-to-Fine Vision-Language Dataset and Benchmark for Generalizable Steel Surface Defect Detection**|Shuxian Zhao et.al.|[2603.21824v1](http://arxiv.org/abs/2603.21824v1)|null|

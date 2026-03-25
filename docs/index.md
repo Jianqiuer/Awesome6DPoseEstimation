@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.03.24
+## Updated on 2026.03.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Object Pose Transformer: Unifying Unseen Object Pose Estimation**|Weihang Li et.al.|[2603.23370v1](http://arxiv.org/abs/2603.23370v1)|null|
+|**2026-03-24**|**PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals**|Jesse F. d'Almeida et.al.|[2603.23365v1](http://arxiv.org/abs/2603.23365v1)|null|
+|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v1](http://arxiv.org/abs/2603.23324v1)|null|
+|**2026-03-24**|**MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects**|Shiyu Li et.al.|[2603.22839v1](http://arxiv.org/abs/2603.22839v1)|null|
+|**2026-03-24**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v1](http://arxiv.org/abs/2603.22792v1)|null|
+|**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|
+|**2026-03-23**|**CAM3R: Camera-Agnostic Model for 3D Reconstruction**|Namitha Guruprasad et.al.|[2603.22631v1](http://arxiv.org/abs/2603.22631v1)|null|
 |**2026-03-23**|**PAM: A Pose-Appearance-Motion Engine for Sim-to-Real HOI Video Generation**|Mingju Gao et.al.|[2603.22193v1](http://arxiv.org/abs/2603.22193v1)|null|
 |**2026-03-22**|**Bayesian Active Object Recognition and 6D Pose Estimation from Multimodal Contact Sensing**|Haodong Zheng et.al.|[2603.21410v1](http://arxiv.org/abs/2603.21410v1)|null|
 |**2026-03-22**|**Geometrically Plausible Object Pose Refinement using Differentiable Simulation**|Anil Zeybek et.al.|[2603.20992v1](http://arxiv.org/abs/2603.20992v1)|null|
@@ -3124,6 +3131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors**|Max Marriott-Clarke et.al.|[2603.23356v1](http://arxiv.org/abs/2603.23356v1)|null|
 |**2026-03-20**|**Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19788v1](http://arxiv.org/abs/2603.19788v1)|null|
 |**2026-03-20**|**Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19757v1](http://arxiv.org/abs/2603.19757v1)|null|
 |**2026-03-15**|**In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels**|Tomislav Medic et.al.|[2603.14309v1](http://arxiv.org/abs/2603.14309v1)|null|
@@ -3384,6 +3392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models**|Jaewon Min et.al.|[2603.23499v1](http://arxiv.org/abs/2603.23499v1)|null|
+|**2026-03-24**|**AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation**|Woojeong Jin et.al.|[2603.23489v1](http://arxiv.org/abs/2603.23489v1)|null|
+|**2026-03-24**|**One View Is Enough! Monocular Training for In-the-Wild Novel View Generation**|Adrien Ramanana Rahary et.al.|[2603.23488v1](http://arxiv.org/abs/2603.23488v1)|null|
+|**2026-03-24**|**ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment**|Yuzhi Chen et.al.|[2603.23376v1](http://arxiv.org/abs/2603.23376v1)|null|
+|**2026-03-24**|**Decoding AI Authorship: Can LLMs Truly Mimic Human Style Across Literature and Politics?**|Nasser A Alsadhan et.al.|[2603.23219v1](http://arxiv.org/abs/2603.23219v1)|null|
+|**2026-03-24**|**From Synthetic to Native: Benchmarking Multilingual Intent Classification in Logistics Customer Service**|Haoyu He et.al.|[2603.23172v1](http://arxiv.org/abs/2603.23172v1)|null|
+|**2026-03-24**|**Conformal Cross-Modal Active Learning**|Huy Hoang Nguyen et.al.|[2603.23159v1](http://arxiv.org/abs/2603.23159v1)|null|
+|**2026-03-24**|**HGNet: Scalable Foundation Model for Automated Knowledge Graph Generation from Scientific Literature**|Devvrat Joshi et.al.|[2603.23136v1](http://arxiv.org/abs/2603.23136v1)|null|
+|**2026-03-24**|**Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach**|Miquel Lopez Escoriza et.al.|[2603.23116v1](http://arxiv.org/abs/2603.23116v1)|null|
+|**2026-03-24**|**NeuroSeg Meets DINOv3: Transferring 2D Self-Supervised Visual Priors to 3D Neuron Segmentation via DINOv3 Initialization**|Yik San Cheng et.al.|[2603.23104v1](http://arxiv.org/abs/2603.23104v1)|null|
 |**2026-03-23**|**3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing**|Haoyu Zhen et.al.|[2603.22279v1](http://arxiv.org/abs/2603.22279v1)|null|
 |**2026-03-23**|**Development and large-scale benchmarks of a protein-ligand absolute binding free energy toolkit**|Yu Liu et.al.|[2603.22274v1](http://arxiv.org/abs/2603.22274v1)|null|
 |**2026-03-23**|**UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos**|Gu Zhang et.al.|[2603.22264v1](http://arxiv.org/abs/2603.22264v1)|null|

@@ -2,15 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.03.26
+## Updated on 2026.03.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**AnyHand: A Large-Scale Synthetic Dataset for RGB(-D) Hand Pose Estimation**|Chen Si et.al.|[2603.25726v1](http://arxiv.org/abs/2603.25726v1)|null|
+|**2026-03-26**|**Training-free Detection and 6D Pose Estimation of Unseen Surgical Instruments**|Jonas Hein et.al.|[2603.25228v1](http://arxiv.org/abs/2603.25228v1)|null|
+|**2026-03-26**|**AG-EgoPose: Leveraging Action-Guided Motion and Kinematic Joint Encoding for Egocentric 3D Pose Estimation**|Md Mushfiqur Azam et.al.|[2603.25175v1](http://arxiv.org/abs/2603.25175v1)|null|
+|**2026-03-26**|**EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions**|Taegyoon Yoon et.al.|[2603.25135v1](http://arxiv.org/abs/2603.25135v1)|null|
+|**2026-03-25**|**OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video**|Selim Gilon et.al.|[2603.24733v1](http://arxiv.org/abs/2603.24733v1)|null|
 |**2026-03-25**|**MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics**|Junheng Li et.al.|[2603.23995v1](http://arxiv.org/abs/2603.23995v1)|null|
 |**2026-03-24**|**Object Pose Transformer: Unifying Unseen Object Pose Estimation**|Weihang Li et.al.|[2603.23370v1](http://arxiv.org/abs/2603.23370v1)|null|
 |**2026-03-24**|**PinPoint: Monocular Needle Pose Estimation for Robotic Suturing via Stein Variational Newton and Geometric Residuals**|Jesse F. d'Almeida et.al.|[2603.23365v1](http://arxiv.org/abs/2603.23365v1)|null|
-|**2026-03-24**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v1](http://arxiv.org/abs/2603.23324v1)|null|
+|**2026-03-26**|**Pose-Free Omnidirectional Gaussian Splatting for 360-Degree Videos with Consistent Depth Priors**|Chuanqing Zhuang et.al.|[2603.23324v2](http://arxiv.org/abs/2603.23324v2)|null|
 |**2026-03-24**|**MultiCam: On-the-fly Multi-Camera Pose Estimation Using Spatiotemporal Overlaps of Known Objects**|Shiyu Li et.al.|[2603.22839v1](http://arxiv.org/abs/2603.22839v1)|null|
 |**2026-03-25**|**Instrument-Splatting++: Towards Controllable Surgical Instrument Digital Twin Using Gaussian Splatting**|Shuojue Yang et.al.|[2603.22792v2](http://arxiv.org/abs/2603.22792v2)|null|
 |**2026-03-24**|**WiFi2Cap: Semantic Action Captioning from Wi-Fi CSI via Limb-Level Semantic Alignment**|Tzu-Ti Wei et.al.|[2603.22690v1](http://arxiv.org/abs/2603.22690v1)|null|
@@ -2820,6 +2825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**DC-Reg: Globally Optimal Point Cloud Registration via Tight Bounding with Difference of Convex Programming**|Wei Lian et.al.|[2603.25442v1](http://arxiv.org/abs/2603.25442v1)|null|
 |**2026-03-15**|**RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer**|Jiuming Liu et.al.|[2603.14290v1](http://arxiv.org/abs/2603.14290v1)|null|
 |**2026-03-13**|**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12721v1](http://arxiv.org/abs/2603.12721v1)|null|
 |**2026-03-13**|**IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**|Dongxu Zhang et.al.|[2603.12719v1](http://arxiv.org/abs/2603.12719v1)|null|
@@ -3393,6 +3399,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-26**|**MegaFlow: Zero-Shot Large Displacement Optical Flow**|Dingxi Zhang et.al.|[2603.25739v1](http://arxiv.org/abs/2603.25739v1)|null|
+|**2026-03-26**|**PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference**|Xiaofeng Mao et.al.|[2603.25730v1](http://arxiv.org/abs/2603.25730v1)|null|
+|**2026-03-26**|**No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models**|Hai X. Pham et.al.|[2603.25722v1](http://arxiv.org/abs/2603.25722v1)|null|
+|**2026-03-26**|**Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos**|Abdullah Hamdi et.al.|[2603.25645v1](http://arxiv.org/abs/2603.25645v1)|null|
+|**2026-03-26**|**GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids**|Mohamed Eltahir et.al.|[2603.25467v1](http://arxiv.org/abs/2603.25467v1)|null|
+|**2026-03-26**|**Maximum Entropy Behavior Exploration for Sim2Real Zero-Shot Reinforcement Learning**|Jiajun Hu et.al.|[2603.25464v1](http://arxiv.org/abs/2603.25464v1)|null|
+|**2026-03-26**|**CLIP-RD: Relational Distillation for Efficient CLIP Knowledge Distillation**|Jeannie Chung et.al.|[2603.25383v1](http://arxiv.org/abs/2603.25383v1)|null|
+|**2026-03-26**|**Enabling ab initio geometry optimization of strongly correlated systems with transferable deep quantum Monte Carlo**|P. Bernát Szabó et.al.|[2603.25381v1](http://arxiv.org/abs/2603.25381v1)|null|
+|**2026-03-26**|**SliderQuant: Accurate Post-Training Quantization for LLMs**|Shigeng Wang et.al.|[2603.25284v1](http://arxiv.org/abs/2603.25284v1)|null|
+|**2026-03-26**|**XBRLTagRec: Domain-Specific Fine-Tuning and Zero-Shot Re-Ranking with LLMs for Extreme Financial Numeral Labeling**|Gang Hu et.al.|[2603.25263v1](http://arxiv.org/abs/2603.25263v1)|null|
 |**2026-03-25**|**EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction**|Falong Fan et.al.|[2603.24577v1](http://arxiv.org/abs/2603.24577v1)|null|
 |**2026-03-25**|**Scaling Recurrence-aware Foundation Models for Clinical Records via Next-Visit Prediction**|Haresh Rengaraj Rajamohan et.al.|[2603.24562v1](http://arxiv.org/abs/2603.24562v1)|null|
 |**2026-03-25**|**CliPPER: Contextual Video-Language Pretraining on Long-form Intraoperative Surgical Procedures for Event Recognition**|Florian Stilz et.al.|[2603.24539v1](http://arxiv.org/abs/2603.24539v1)|null|

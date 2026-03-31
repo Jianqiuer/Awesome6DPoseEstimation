@@ -3411,6 +3411,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759v1](http://arxiv.org/abs/2603.28759v1)|null|
+|**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730v1](http://arxiv.org/abs/2603.28730v1)|null|
+|**2026-03-30**|**DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**|Maoguo Gao et.al.|[2603.28691v1](http://arxiv.org/abs/2603.28691v1)|null|
 |**2026-03-30**|**Industrial3D: A Terrestrial LiDAR Point Cloud Dataset and CrossParadigm Benchmark for Industrial Infrastructure**|Chao Yin et.al.|[2603.28660v1](http://arxiv.org/abs/2603.28660v1)|null|
 |**2026-03-30**|**Dynamic Lookahead Distance via Reinforcement Learning-Based Pure Pursuit for Autonomous Racing**|Mohamed Elgouhary et.al.|[2603.28625v1](http://arxiv.org/abs/2603.28625v1)|null|
 |**2026-03-30**|**XSPA: Crafting Imperceptible X-Shaped Sparse Adversarial Perturbations for Transferable Attacks on VLMs**|Chengyin Hu et.al.|[2603.28568v1](http://arxiv.org/abs/2603.28568v1)|null|

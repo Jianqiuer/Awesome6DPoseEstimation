@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|null|
+|**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383v1](http://arxiv.org/abs/2603.29383v1)|null|
+|**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185v1](http://arxiv.org/abs/2603.29185v1)|null|
 |**2026-03-30**|**Event6D: Event-based Novel Object 6D Pose Tracking**|Jae-Young Kang et.al.|[2603.28045v1](http://arxiv.org/abs/2603.28045v1)|null|
 |**2026-03-30**|**FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation**|Liuzhou Zhang et.al.|[2603.27915v1](http://arxiv.org/abs/2603.27915v1)|null|
 |**2026-03-29**|**Demo-Pose: Depth-Monocular Modality Fusion For Object Pose Estimation**|Rachit Agarwal et.al.|[2603.27533v1](http://arxiv.org/abs/2603.27533v1)|null|
@@ -3411,6 +3414,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025v1](http://arxiv.org/abs/2603.30025v1)|null|
+|**2026-03-31**|**Meteorology-Driven GPT4AP: A Multi-Task Forecasting LLM for Atmospheric Air Pollution in Data-Scarce Settings**|Prasanjit Dey et.al.|[2603.29974v1](http://arxiv.org/abs/2603.29974v1)|null|
+|**2026-03-31**|**SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy**|Shi Li et.al.|[2603.29962v1](http://arxiv.org/abs/2603.29962v1)|null|
+|**2026-03-31**|**DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**|Yi Chen et.al.|[2603.29844v1](http://arxiv.org/abs/2603.29844v1)|null|
+|**2026-03-31**|**ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian**|Cristian Santini et.al.|[2603.29801v1](http://arxiv.org/abs/2603.29801v1)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|
+|**2026-03-31**|**SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition**|Ning Wang et.al.|[2603.29692v1](http://arxiv.org/abs/2603.29692v1)|null|
+|**2026-03-31**|**GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning**|Ancheng Hou et.al.|[2603.29533v1](http://arxiv.org/abs/2603.29533v1)|null|
+|**2026-03-31**|**Impact of enriched meaning representations for language generation in dialogue tasks: A comprehensive exploration of the relevance of tasks, corpora and metrics**|Alain Vázquez et.al.|[2603.29518v1](http://arxiv.org/abs/2603.29518v1)|null|
+|**2026-03-31**|**CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion**|Yuan Hao et.al.|[2603.29452v1](http://arxiv.org/abs/2603.29452v1)|null|
 |**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759v1](http://arxiv.org/abs/2603.28759v1)|null|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730v1](http://arxiv.org/abs/2603.28730v1)|null|
 |**2026-03-30**|**DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**|Maoguo Gao et.al.|[2603.28691v1](http://arxiv.org/abs/2603.28691v1)|null|

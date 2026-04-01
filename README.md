@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|null|
+|**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383v1](http://arxiv.org/abs/2603.29383v1)|null|
+|**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185v1](http://arxiv.org/abs/2603.29185v1)|null|
 |**2026-03-30**|**Event6D: Event-based Novel Object 6D Pose Tracking**|Jae-Young Kang et.al.|[2603.28045v1](http://arxiv.org/abs/2603.28045v1)|null|
 |**2026-03-30**|**FlashSign: Pose-Free Guidance for Efficient Sign Language Video Generation**|Liuzhou Zhang et.al.|[2603.27915v1](http://arxiv.org/abs/2603.27915v1)|null|
 |**2026-03-29**|**Demo-Pose: Depth-Monocular Modality Fusion For Object Pose Estimation**|Rachit Agarwal et.al.|[2603.27533v1](http://arxiv.org/abs/2603.27533v1)|null|
@@ -2837,7 +2840,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3154,7 +3157,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3417,12 +3420,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025v1](http://arxiv.org/abs/2603.30025v1)|null|
+|**2026-03-31**|**Meteorology-Driven GPT4AP: A Multi-Task Forecasting LLM for Atmospheric Air Pollution in Data-Scarce Settings**|Prasanjit Dey et.al.|[2603.29974v1](http://arxiv.org/abs/2603.29974v1)|null|
+|**2026-03-31**|**SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy**|Shi Li et.al.|[2603.29962v1](http://arxiv.org/abs/2603.29962v1)|null|
+|**2026-03-31**|**DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA**|Yi Chen et.al.|[2603.29844v1](http://arxiv.org/abs/2603.29844v1)|null|
+|**2026-03-31**|**ENEIDE: A High Quality Silver Standard Dataset for Named Entity Recognition and Linking in Historical Italian**|Cristian Santini et.al.|[2603.29801v1](http://arxiv.org/abs/2603.29801v1)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777v1](http://arxiv.org/abs/2603.29777v1)|null|
+|**2026-03-31**|**SkeletonContext: Skeleton-side Context Prompt Learning for Zero-Shot Skeleton-based Action Recognition**|Ning Wang et.al.|[2603.29692v1](http://arxiv.org/abs/2603.29692v1)|null|
+|**2026-03-31**|**GraSP-STL: A Graph-Based Framework for Zero-Shot Signal Temporal Logic Planning via Offline Goal-Conditioned Reinforcement Learning**|Ancheng Hou et.al.|[2603.29533v1](http://arxiv.org/abs/2603.29533v1)|null|
+|**2026-03-31**|**Impact of enriched meaning representations for language generation in dialogue tasks: A comprehensive exploration of the relevance of tasks, corpora and metrics**|Alain Vázquez et.al.|[2603.29518v1](http://arxiv.org/abs/2603.29518v1)|null|
+|**2026-03-31**|**CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion**|Yuan Hao et.al.|[2603.29452v1](http://arxiv.org/abs/2603.29452v1)|null|
 |**2026-03-30**|**FlowIt: Global Matching for Optical Flow with Confidence-Guided Refinement**|Sadra Safadoust et.al.|[2603.28759v1](http://arxiv.org/abs/2603.28759v1)|null|
 |**2026-03-30**|**SOLE-R1: Video-Language Reasoning as the Sole Reward for On-Robot Reinforcement Learning**|Philip Schroeder et.al.|[2603.28730v1](http://arxiv.org/abs/2603.28730v1)|null|
 |**2026-03-30**|**DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation**|Maoguo Gao et.al.|[2603.28691v1](http://arxiv.org/abs/2603.28691v1)|null|
@@ -10471,5 +10484,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260401>back to top</a>)</p>
 

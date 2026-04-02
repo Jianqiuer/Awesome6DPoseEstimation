@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.04.01
+## Updated on 2026.04.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**PanoAir: A Panoramic Visual-Inertial SLAM with Cross-Time Real-World UAV Dataset**|Yiyang Wu et.al.|[2604.00852v1](http://arxiv.org/abs/2604.00852v1)|null|
+|**2026-04-01**|**MoonAnything: A Vision Benchmark with Large-Scale Lunar Supervised Data**|Clémentine Grethen et.al.|[2604.00682v1](http://arxiv.org/abs/2604.00682v1)|null|
 |**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570v1](http://arxiv.org/abs/2603.29570v1)|null|
 |**2026-03-31**|**Interacting Multiple Model Proprioceptive Odometry for Legged Robots**|Wanlei Li et.al.|[2603.29383v1](http://arxiv.org/abs/2603.29383v1)|null|
 |**2026-03-31**|**Hierarchical Visual Relocalization with Nearest View Synthesis from Feature Gaussian Splatting**|Huaqi Tao et.al.|[2603.29185v1](http://arxiv.org/abs/2603.29185v1)|null|
@@ -3414,6 +3416,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-01**|**Functional Force-Aware Retargeting from Virtual Human Demos to Soft Robot Policies**|Uksang Yoo et.al.|[2604.01224v1](http://arxiv.org/abs/2604.01224v1)|null|
+|**2026-04-01**|**Online Reasoning Calibration: Test-Time Training Enables Generalizable Conformal LLM Reasoning**|Cai Zhou et.al.|[2604.01170v1](http://arxiv.org/abs/2604.01170v1)|null|
+|**2026-04-01**|**Detecting Multi-Agent Collusion Through Multi-Agent Interpretability**|Aaron Rose et.al.|[2604.01151v1](http://arxiv.org/abs/2604.01151v1)|null|
+|**2026-04-01**|**Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization**|Yueh-Cheng Liu et.al.|[2604.01030v1](http://arxiv.org/abs/2604.01030v1)|null|
+|**2026-04-01**|**Fatigue-Aware Learning to Defer via Constrained Optimisation**|Zheng Zhang et.al.|[2604.00904v1](http://arxiv.org/abs/2604.00904v1)|null|
+|**2026-04-01**|**Emotion Entanglement and Bayesian Inference for Multi-Dimensional Emotion Understanding**|Hemanth Kotaprolu et.al.|[2604.00819v1](http://arxiv.org/abs/2604.00819v1)|null|
+|**2026-04-01**|**An Approach to Enriching Surgical Video Datasets for Fine-Grained Spatial-Temporal Understanding of Vision-Language Models**|Lennart Maack et.al.|[2604.00784v1](http://arxiv.org/abs/2604.00784v1)|null|
+|**2026-04-01**|**Stochastic Attention: Connectome-Inspired Randomized Routing for Expressive Linear-Time Attention**|Zehao Jin et.al.|[2604.00754v1](http://arxiv.org/abs/2604.00754v1)|null|
+|**2026-04-01**|**OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models**|Han Zhu et.al.|[2604.00688v1](http://arxiv.org/abs/2604.00688v1)|null|
+|**2026-04-01**|**Reliev3R: Relieving Feed-forward Reconstruction from Multi-View Geometric Annotations**|Youyu Chen et.al.|[2604.00548v1](http://arxiv.org/abs/2604.00548v1)|null|
 |**2026-03-31**|**ContextClaim: A Context-Driven Paradigm for Verifiable Claim Detection**|Yufeng Li et.al.|[2603.30025v1](http://arxiv.org/abs/2603.30025v1)|null|
 |**2026-03-31**|**Meteorology-Driven GPT4AP: A Multi-Task Forecasting LLM for Atmospheric Air Pollution in Data-Scarce Settings**|Prasanjit Dey et.al.|[2603.29974v1](http://arxiv.org/abs/2603.29974v1)|null|
 |**2026-03-31**|**SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy**|Shi Li et.al.|[2603.29962v1](http://arxiv.org/abs/2603.29962v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.04.06
+## Updated on 2026.04.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**A Muon-Accelerated Algorithm for Low Separation Rank Tensor Generalized Linear Models**|Xiao Liang et.al.|[2604.04726v1](http://arxiv.org/abs/2604.04726v1)|null|
+|**2026-04-06**|**Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking**|Alessandro Tarsi et.al.|[2604.04690v1](http://arxiv.org/abs/2604.04690v1)|null|
+|**2026-04-06**|**WaterSplat-SLAM: Photorealistic Monocular SLAM in Underwater Environment**|Kangxu Wang et.al.|[2604.04642v1](http://arxiv.org/abs/2604.04642v1)|null|
+|**2026-04-06**|**Relational Epipolar Graphs for Robust Relative Camera Pose Estimation**|Prateeth Rao et.al.|[2604.04554v1](http://arxiv.org/abs/2604.04554v1)|null|
+|**2026-04-05**|**Efficient Onboard Spacecraft Pose Estimation with Event Cameras and Neuromorphic Hardware**|Arunkumar Rathinam et.al.|[2604.04117v1](http://arxiv.org/abs/2604.04117v1)|null|
+|**2026-04-04**|**Learning 3D Reconstruction with Priors in Test Time**|Lei Zhou et.al.|[2604.03878v1](http://arxiv.org/abs/2604.03878v1)|null|
+|**2026-04-04**|**InCaRPose: In-Cabin Relative Camera Pose Estimation Model and Dataset**|Felix Stillger et.al.|[2604.03814v1](http://arxiv.org/abs/2604.03814v1)|null|
+|**2026-04-04**|**CT-VoxelMap: Efficient Continuous-Time LiDAR-Inertial Odometry with Probabilistic Adaptive Voxel Mapping**|Lei Zhao et.al.|[2604.03747v1](http://arxiv.org/abs/2604.03747v1)|null|
+|**2026-04-04**|**Motion-Adaptive Multi-Scale Temporal Modelling with Skeleton-Constrained Spatial Graphs for Efficient 3D Human Pose Estimation**|Ruochen Li et.al.|[2604.03652v1](http://arxiv.org/abs/2604.03652v1)|null|
 |**2026-04-03**|**OMNI-PoseX: A Fast Vision Model for 6D Object Pose Estimation in Embodied Tasks**|Michael Zhang et.al.|[2604.02759v1](http://arxiv.org/abs/2604.02759v1)|null|
 |**2026-04-02**|**ROS 2-Based LiDAR Perception Framework for Mobile Robots in Dynamic Production Environments, Utilizing Synthetic Data Generation, Transformation-Equivariant 3D Detection and Multi-Object Tracking**|Lukas Bergs et.al.|[2604.02109v1](http://arxiv.org/abs/2604.02109v1)|null|
 |**2026-04-02**|**HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models**|Junxiang Pan et.al.|[2604.02107v1](http://arxiv.org/abs/2604.02107v1)|null|
@@ -2850,7 +2859,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3167,7 +3176,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3430,12 +3439,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-06**|**Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision**|Hyunsoo Cha et.al.|[2604.04934v1](http://arxiv.org/abs/2604.04934v1)|null|
+|**2026-04-06**|**Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking**|Alessandro Tarsi et.al.|[2604.04690v1](http://arxiv.org/abs/2604.04690v1)|null|
+|**2026-04-06**|**ZeD-MAP: Bundle Adjustment Guided Zero-Shot Depth Maps for Real-Time Aerial Imaging**|Selim Ahmet Iz et.al.|[2604.04667v1](http://arxiv.org/abs/2604.04667v1)|null|
+|**2026-04-06**|**Benchmarking Multilingual Speech Models on Pashto: Zero-Shot ASR, Script Failure, and Cross-Domain Evaluation**|Hanif Rahman et.al.|[2604.04598v1](http://arxiv.org/abs/2604.04598v1)|null|
+|**2026-04-06**|**Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs**|Abdelmoamen Nasser et.al.|[2604.04564v1](http://arxiv.org/abs/2604.04564v1)|null|
+|**2026-04-06**|**Veo-Act: How Far Can Frontier Video Models Advance Generalizable Robot Manipulation?**|Zhongru Zhang et.al.|[2604.04502v1](http://arxiv.org/abs/2604.04502v1)|null|
+|**2026-04-06**|**SLaB: Sparse-Lowrank-Binary Decomposition for Efficient Large Language Models**|Ziwei Li et.al.|[2604.04493v1](http://arxiv.org/abs/2604.04493v1)|null|
+|**2026-04-06**|**Beyond Standard Benchmarks: A Systematic Audit of Vision-Language Model's Robustness to Natural Semantic Variation Across Diverse Tasks**|Jia Chengyu et.al.|[2604.04473v1](http://arxiv.org/abs/2604.04473v1)|null|
+|**2026-04-06**|**HandDreamer: Zero-Shot Text to 3D Hand Model Generation using Corrective Hand Shape Guidance**|Green Rosh et.al.|[2604.04425v1](http://arxiv.org/abs/2604.04425v1)|null|
+|**2026-04-05**|**DriveVA: Video Action Models are Zero-Shot Drivers**|Mengmeng Liu et.al.|[2604.04198v1](http://arxiv.org/abs/2604.04198v1)|null|
 |**2026-04-03**|**Hierarchical Planning with Latent World Models**|Wancong Zhang et.al.|[2604.03208v1](http://arxiv.org/abs/2604.03208v1)|null|
 |**2026-04-03**|**Learning the Signature of Memorization in Autoregressive Language Models**|David Ilić et.al.|[2604.03199v1](http://arxiv.org/abs/2604.03199v1)|null|
 |**2026-04-03**|**FSUNav: A Cerebrum-Cerebellum Architecture for Fast, Safe, and Universal Zero-Shot Goal-Oriented Navigation**|Mingao Tan et.al.|[2604.03139v1](http://arxiv.org/abs/2604.03139v1)|null|
@@ -10524,5 +10543,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260406>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260407>back to top</a>)</p>
 

@@ -1,4 +1,4 @@
-## Updated on 2026.04.09
+## Updated on 2026.04.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543v1](http://arxiv.org/abs/2604.08543v1)|null|
 |**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748v1](http://arxiv.org/abs/2604.06748v1)|null|
 |**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720v1](http://arxiv.org/abs/2604.06720v1)|null|
 |**2026-04-07**|**LSGS-Loc: Towards Robust 3DGS-Based Visual Localization for Large-Scale UAV Scenarios**|Xiang Zhang et.al.|[2604.05402v1](http://arxiv.org/abs/2604.05402v1)|null|
@@ -2862,7 +2863,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260410>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3180,7 +3181,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260410>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3443,12 +3444,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260410>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-09**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544v1](http://arxiv.org/abs/2604.08544v1)|null|
+|**2026-04-09**|**ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration**|Yanwen Zou et.al.|[2604.08534v1](http://arxiv.org/abs/2604.08534v1)|null|
+|**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475v1](http://arxiv.org/abs/2604.08475v1)|null|
+|**2026-04-09**|**BLaDA: Bridging Language to Functional Dexterous Actions within 3DGS Fields**|Fan Yang et.al.|[2604.08410v1](http://arxiv.org/abs/2604.08410v1)|null|
+|**2026-04-09**|**Zero-shot Multivariate Time Series Forecasting Using Tabular Prior Fitted Networks**|Mayuka Jayawardhana et.al.|[2604.08400v1](http://arxiv.org/abs/2604.08400v1)|null|
+|**2026-04-09**|**Tracking Listener Attention: Gaze-Guided Audio-Visual Speech Enhancement Framework**|Hsiang-Cheng Yang et.al.|[2604.08359v1](http://arxiv.org/abs/2604.08359v1)|null|
+|**2026-04-09**|**ASPECT:Analogical Semantic Policy Execution via Language Conditioned Transfer**|Ajsal Shereef Palattuparambil et.al.|[2604.08355v1](http://arxiv.org/abs/2604.08355v1)|null|
+|**2026-04-09**|**InstAP: Instance-Aware Vision-Language Pre-Train for Spatial-Temporal Understanding**|Ashutosh Kumar et.al.|[2604.08337v1](http://arxiv.org/abs/2604.08337v1)|null|
+|**2026-04-09**|**$\oslash$ Source Models Leak What They Shouldn't $\nrightarrow$ : Unlearning Zero-Shot Transfer in Domain Adaptation Through Adversarial Optimization**|Arnav Devalapally et.al.|[2604.08238v1](http://arxiv.org/abs/2604.08238v1)|null|
+|**2026-04-09**|**SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection**|You Hu et.al.|[2604.08211v1](http://arxiv.org/abs/2604.08211v1)|null|
 |**2026-04-08**|**A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering**|Nusrat Sultana et.al.|[2604.07274v1](http://arxiv.org/abs/2604.07274v1)|null|
 |**2026-04-08**|**BATON: A Multimodal Benchmark for Bidirectional Automation Transition Observation in Naturalistic Driving**|Yuhang Wang et.al.|[2604.07263v1](http://arxiv.org/abs/2604.07263v1)|null|
 |**2026-04-08**|**Multi-Turn Reasoning LLMs for Task Offloading in Mobile Edge Computing**|Ning Yang et.al.|[2604.07148v1](http://arxiv.org/abs/2604.07148v1)|null|
@@ -10567,5 +10578,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260409>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260410>back to top</a>)</p>
 

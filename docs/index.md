@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.04.12
+## Updated on 2026.04.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories**|Wonbong Jang et.al.|[2604.09429v1](http://arxiv.org/abs/2604.09429v1)|null|
+|**2026-04-10**|**Characterizing Lidar Range-Measurement Ambiguity due to Multiple Returns**|Jason H. Rife et.al.|[2604.09282v1](http://arxiv.org/abs/2604.09282v1)|null|
+|**2026-04-10**|**Globally Optimal Pose from Orthographic Silhouettes**|Agniva Sengupta et.al.|[2604.09199v1](http://arxiv.org/abs/2604.09199v1)|null|
+|**2026-04-10**|**Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch**|Gabriele Mario Caddeo et.al.|[2604.09100v1](http://arxiv.org/abs/2604.09100v1)|null|
+|**2026-04-10**|**AssemLM: Spatial Reasoning Multimodal Large Language Models for Robotic Assembly**|Zhi Jing et.al.|[2604.08983v1](http://arxiv.org/abs/2604.08983v1)|null|
 |**2026-04-09**|**E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation**|Mayur Deshmukh et.al.|[2604.08543v1](http://arxiv.org/abs/2604.08543v1)|null|
 |**2026-04-08**|**From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks**|Carlos Schmidt et.al.|[2604.06748v1](http://arxiv.org/abs/2604.06748v1)|null|
 |**2026-04-08**|**Exploring 6D Object Pose Estimation with Deformation**|Zhiqiang Liu et.al.|[2604.06720v1](http://arxiv.org/abs/2604.06720v1)|null|
@@ -2861,7 +2866,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-06**|**R3PM-Net: Real-time, Robust, Real-world Point Matching Network**|Yasaman Kashefbahrami et.al.|[2604.05060v1](http://arxiv.org/abs/2604.05060v1)|null|
+|**2026-04-10**|**R3PM-Net: Real-time, Robust, Real-world Point Matching Network**|Yasaman Kashefbahrami et.al.|[2604.05060v2](http://arxiv.org/abs/2604.05060v2)|null|
 |**2026-03-30**|**Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs**|Pei An et.al.|[2603.27969v1](http://arxiv.org/abs/2603.27969v1)|null|
 |**2026-03-27**|**GLASS: Geometry-aware Local Alignment and Structure Synchronization Network for 2D-3D Registration**|Zhixin Cheng et.al.|[2603.26262v1](http://arxiv.org/abs/2603.26262v1)|null|
 |**2026-03-26**|**DC-Reg: Globally Optimal Point Cloud Registration via Tight Bounding with Difference of Convex Programming**|Wei Lian et.al.|[2603.25442v1](http://arxiv.org/abs/2603.25442v1)|null|
@@ -3438,6 +3443,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-10**|**Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL**|Igor Jankowski et.al.|[2604.09523v1](http://arxiv.org/abs/2604.09523v1)|null|
+|**2026-04-10**|**Physics-guided surrogate learning enables zero-shot control of turbulent wings**|Yuning Wang et.al.|[2604.09434v1](http://arxiv.org/abs/2604.09434v1)|null|
+|**2026-04-10**|**SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data**|Qingwen Zhang et.al.|[2604.09411v1](http://arxiv.org/abs/2604.09411v1)|null|
+|**2026-04-10**|**LuMon: A Comprehensive Benchmark and Development Suite with Novel Datasets for Lunar Monocular Depth Estimation**|Aytaç Sekmen et.al.|[2604.09352v1](http://arxiv.org/abs/2604.09352v1)|null|
+|**2026-04-10**|**MAG-3D: Multi-Agent Grounded Reasoning for 3D Understanding**|Henry Zheng et.al.|[2604.09167v1](http://arxiv.org/abs/2604.09167v1)|null|
+|**2026-04-10**|**Geometry Reinforced Efficient Attention Tuning Equipped with Normals for Robust Stereo Matching**|Jiahao Li et.al.|[2604.09142v1](http://arxiv.org/abs/2604.09142v1)|null|
+|**2026-04-10**|**Few-Shot Contrastive Adaptation for Audio Abuse Detection in Low-Resource Indic Languages**|Aditya Narayan Sankaran et.al.|[2604.09094v1](http://arxiv.org/abs/2604.09094v1)|null|
+|**2026-04-10**|**Frequency-Enhanced Diffusion Models: Curriculum-Guided Semantic Alignment for Zero-Shot Skeleton Action Recognition**|Yuxi Zhou et.al.|[2604.09063v1](http://arxiv.org/abs/2604.09063v1)|null|
+|**2026-04-10**|**Nested Radially Monotone Polar Occupancy Estimation: Clinically-Grounded Optic Disc and Cup Segmentation for Glaucoma Screening**|Rimsa Goperma et.al.|[2604.09062v1](http://arxiv.org/abs/2604.09062v1)|null|
+|**2026-04-10**|**Regime-Conditional Retrieval: Theory and a Transferable Router for Two-Hop QA**|Andre Bacellar et.al.|[2604.09019v1](http://arxiv.org/abs/2604.09019v1)|null|
 |**2026-04-09**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544v1](http://arxiv.org/abs/2604.08544v1)|null|
 |**2026-04-09**|**ActiveGlasses: Learning Manipulation with Active Vision from Ego-centric Human Demonstration**|Yanwen Zou et.al.|[2604.08534v1](http://arxiv.org/abs/2604.08534v1)|null|
 |**2026-04-09**|**LAMP: Lift Image-Editing as General 3D Priors for Open-world Manipulation**|Jingjing Wang et.al.|[2604.08475v1](http://arxiv.org/abs/2604.08475v1)|null|

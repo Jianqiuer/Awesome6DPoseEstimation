@@ -1,4 +1,4 @@
-## Updated on 2026.04.13
+## Updated on 2026.04.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization**|Jianshi Wu et.al.|[2604.11355v1](http://arxiv.org/abs/2604.11355v1)|null|
+|**2026-04-13**|**ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**|Arjun Bhardwaj et.al.|[2604.11138v1](http://arxiv.org/abs/2604.11138v1)|null|
+|**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593v1](http://arxiv.org/abs/2604.10593v1)|null|
+|**2026-04-12**|**UDAPose: Unsupervised Domain Adaptation for Low-Light Human Pose Estimation**|Haopeng Chen et.al.|[2604.10485v1](http://arxiv.org/abs/2604.10485v1)|null|
+|**2026-04-12**|**Point2Pose: Occlusion-Recovering 6D Pose Tracking and 3D Reconstruction for Multiple Unknown Objects Via 2D Point Trackers**|Tzu-Yuan Lin et.al.|[2604.10415v1](http://arxiv.org/abs/2604.10415v1)|null|
+|**2026-04-11**|**Warm-Started Reinforcement Learning for Iterative 3D/2D Liver Registration**|Hanyuan Zhang et.al.|[2604.10245v1](http://arxiv.org/abs/2604.10245v1)|null|
+|**2026-04-11**|**VGGT-HPE: Reframing Head Pose Estimation as Relative Pose Prediction**|Vasiliki Vasileiou et.al.|[2604.10106v1](http://arxiv.org/abs/2604.10106v1)|null|
+|**2026-04-10**|**Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents**|Sangwon Baik et.al.|[2604.09781v1](http://arxiv.org/abs/2604.09781v1)|null|
 |**2026-04-10**|**Rays as Pixels: Learning A Joint Distribution of Videos and Camera Trajectories**|Wonbong Jang et.al.|[2604.09429v1](http://arxiv.org/abs/2604.09429v1)|null|
 |**2026-04-10**|**Characterizing Lidar Range-Measurement Ambiguity due to Multiple Returns**|Jason H. Rife et.al.|[2604.09282v1](http://arxiv.org/abs/2604.09282v1)|null|
 |**2026-04-10**|**Globally Optimal Pose from Orthographic Silhouettes**|Agniva Sengupta et.al.|[2604.09199v1](http://arxiv.org/abs/2604.09199v1)|null|
@@ -2868,7 +2876,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3186,7 +3194,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3449,12 +3457,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-13**|**Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models**|Songlong Xing et.al.|[2604.11576v1](http://arxiv.org/abs/2604.11576v1)|null|
+|**2026-04-13**|**MimicLM: Zero-Shot Voice Imitation through Autoregressive Modeling of Pseudo-Parallel Speech Corpora**|Tao Feng et.al.|[2604.11552v1](http://arxiv.org/abs/2604.11552v1)|null|
+|**2026-04-13**|**Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory**|Weixian Waylon Li et.al.|[2604.11544v1](http://arxiv.org/abs/2604.11544v1)|null|
+|**2026-04-13**|**Empowering Video Translation using Multimodal Large Language Models**|Bingzheng QU et.al.|[2604.11283v1](http://arxiv.org/abs/2604.11283v1)|null|
+|**2026-04-13**|**Sign Language Recognition in the Age of LLMs**|Vaclav Javorek et.al.|[2604.11225v1](http://arxiv.org/abs/2604.11225v1)|null|
+|**2026-04-13**|**MedP-CLIP: Medical CLIP with Region-Aware Prompt Integration**|Jiahui Peng et.al.|[2604.11197v1](http://arxiv.org/abs/2604.11197v1)|null|
+|**2026-04-13**|**Hierarchical Textual Knowledge for Enhanced Image Clustering**|Yijie Zhong et.al.|[2604.11144v1](http://arxiv.org/abs/2604.11144v1)|null|
+|**2026-04-13**|**DeCoVec: Building Decoding Space based Task Vector for Large Language Models via In-Context Learning**|Feiyang Li et.al.|[2604.11129v1](http://arxiv.org/abs/2604.11129v1)|null|
+|**2026-04-13**|**Frugal Knowledge Graph Construction with Local LLMs: A Zero-Shot Pipeline, Self-Consistency and Wisdom of Artificial Crowds**|Pierre Jourlin et.al.|[2604.11104v1](http://arxiv.org/abs/2604.11104v1)|null|
+|**2026-04-13**|**EmergentBridge: Improving Zero-Shot Cross-Modal Transfer in Unified Multimodal Embedding Models**|Jincheng Xie et.al.|[2604.11043v1](http://arxiv.org/abs/2604.11043v1)|null|
 |**2026-04-10**|**Event-Driven Temporal Graph Networks for Asynchronous Multi-Agent Cyber Defense in NetForge_RL**|Igor Jankowski et.al.|[2604.09523v1](http://arxiv.org/abs/2604.09523v1)|null|
 |**2026-04-10**|**Physics-guided surrogate learning enables zero-shot control of turbulent wings**|Yuning Wang et.al.|[2604.09434v1](http://arxiv.org/abs/2604.09434v1)|null|
 |**2026-04-10**|**SynFlow: Scaling Up LiDAR Scene Flow Estimation with Synthetic Data**|Qingwen Zhang et.al.|[2604.09411v1](http://arxiv.org/abs/2604.09411v1)|null|
@@ -10593,5 +10611,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260413>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
 

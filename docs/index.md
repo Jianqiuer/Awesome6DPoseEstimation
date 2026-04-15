@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942v1](http://arxiv.org/abs/2604.12942v1)|null|
+|**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837v1](http://arxiv.org/abs/2604.12837v1)|null|
+|**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992v1](http://arxiv.org/abs/2604.11992v1)|null|
+|**2026-04-13**|**AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation**|Mingyang Li et.al.|[2604.11674v1](http://arxiv.org/abs/2604.11674v1)|null|
 |**2026-04-13**|**LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization**|Jianshi Wu et.al.|[2604.11355v1](http://arxiv.org/abs/2604.11355v1)|null|
 |**2026-04-13**|**ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**|Arjun Bhardwaj et.al.|[2604.11138v1](http://arxiv.org/abs/2604.11138v1)|null|
 |**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593v1](http://arxiv.org/abs/2604.10593v1)|null|
@@ -3451,6 +3455,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-14**|**XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**|Junming Wang et.al.|[2604.13001v1](http://arxiv.org/abs/2604.13001v1)|null|
+|**2026-04-14**|**Modeling Co-Pilots for Text-to-Model Translation**|Serdar Kadioglu et.al.|[2604.12955v1](http://arxiv.org/abs/2604.12955v1)|null|
+|**2026-04-14**|**E2E-Fly: An Integrated Training-to-Deployment System for End-to-End Quadrotor Autonomy**|Fangyu Sun et.al.|[2604.12916v1](http://arxiv.org/abs/2604.12916v1)|null|
+|**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al.|[2604.12908v1](http://arxiv.org/abs/2604.12908v1)|null|
+|**2026-04-14**|**Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**|Yingying Zhao et.al.|[2604.12833v1](http://arxiv.org/abs/2604.12833v1)|null|
+|**2026-04-14**|**Transferable Expertise for Autonomous Agents via Real-World Case-Based Learning**|Zhenyu Ma et.al.|[2604.12717v1](http://arxiv.org/abs/2604.12717v1)|null|
+|**2026-04-14**|**TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting**|Fan Zhang et.al.|[2604.12648v1](http://arxiv.org/abs/2604.12648v1)|null|
+|**2026-04-14**|**Adaptive Test-Time Scaling for Zero-Shot Respiratory Audio Classification**|Tsai-Ning Wang et.al.|[2604.12647v1](http://arxiv.org/abs/2604.12647v1)|null|
+|**2026-04-14**|**Contextual Multi-Task Reinforcement Learning for Autonomous Reef Monitoring**|Melvin Laux et.al.|[2604.12645v1](http://arxiv.org/abs/2604.12645v1)|null|
+|**2026-04-14**|**RPRA: Predicting an LLM-Judge for Efficient but Performant Inference**|Dylan R. Ashley et.al.|[2604.12634v1](http://arxiv.org/abs/2604.12634v1)|null|
 |**2026-04-13**|**Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models**|Songlong Xing et.al.|[2604.11576v1](http://arxiv.org/abs/2604.11576v1)|null|
 |**2026-04-13**|**MimicLM: Zero-Shot Voice Imitation through Autoregressive Modeling of Pseudo-Parallel Speech Corpora**|Tao Feng et.al.|[2604.11552v1](http://arxiv.org/abs/2604.11552v1)|null|
 |**2026-04-13**|**Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory**|Weixian Waylon Li et.al.|[2604.11544v1](http://arxiv.org/abs/2604.11544v1)|null|

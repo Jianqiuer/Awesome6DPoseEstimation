@@ -1,4 +1,4 @@
-## Updated on 2026.04.14
+## Updated on 2026.04.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**RMGS-SLAM: Real-time Multi-sensor Gaussian Splatting SLAM**|Dongen Li et.al.|[2604.12942v1](http://arxiv.org/abs/2604.12942v1)|null|
+|**2026-04-14**|**GGD-SLAM: Monocular 3DGS SLAM Powered by Generalizable Motion Model for Dynamic Environments**|Yi Liu et.al.|[2604.12837v1](http://arxiv.org/abs/2604.12837v1)|null|
+|**2026-04-13**|**ReefMapGS: Enabling Large-Scale Underwater Reconstruction by Closing the Loop Between Multimodal SLAM and Gaussian Splatting**|Daniel Yang et.al.|[2604.11992v1](http://arxiv.org/abs/2604.11992v1)|null|
+|**2026-04-13**|**AffordSim: A Scalable Data Generator and Benchmark for Affordance-Aware Robotic Manipulation**|Mingyang Li et.al.|[2604.11674v1](http://arxiv.org/abs/2604.11674v1)|null|
 |**2026-04-13**|**LEADER: Learning Reliable Local-to-Global Correspondences for LiDAR Relocalization**|Jianshi Wu et.al.|[2604.11355v1](http://arxiv.org/abs/2604.11355v1)|null|
 |**2026-04-13**|**ViserDex: Visual Sim-to-Real for Robust Dexterous In-hand Reorientation**|Arjun Bhardwaj et.al.|[2604.11138v1](http://arxiv.org/abs/2604.11138v1)|null|
 |**2026-04-12**|**MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM**|Evgenii Kruzhkov et.al.|[2604.10593v1](http://arxiv.org/abs/2604.10593v1)|null|
@@ -2876,7 +2880,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3194,7 +3198,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3457,12 +3461,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-14**|**XRZero-G0: Pushing the Frontier of Dexterous Robotic Manipulation with Interfaces, Quality and Ratios**|Junming Wang et.al.|[2604.13001v1](http://arxiv.org/abs/2604.13001v1)|null|
+|**2026-04-14**|**Modeling Co-Pilots for Text-to-Model Translation**|Serdar Kadioglu et.al.|[2604.12955v1](http://arxiv.org/abs/2604.12955v1)|null|
+|**2026-04-14**|**E2E-Fly: An Integrated Training-to-Deployment System for End-to-End Quadrotor Autonomy**|Fangyu Sun et.al.|[2604.12916v1](http://arxiv.org/abs/2604.12916v1)|null|
+|**2026-04-14**|**Robotic Manipulation is Vision-to-Geometry Mapping ( $f(v) \rightarrow G$ ): Vision-Geometry Backbones over Language and Video Models**|Zijian Song et.al.|[2604.12908v1](http://arxiv.org/abs/2604.12908v1)|null|
+|**2026-04-14**|**Challenging Vision-Language Models with Physically Deployable Multimodal Semantic Lighting Attacks**|Yingying Zhao et.al.|[2604.12833v1](http://arxiv.org/abs/2604.12833v1)|null|
+|**2026-04-14**|**Transferable Expertise for Autonomous Agents via Real-World Case-Based Learning**|Zhenyu Ma et.al.|[2604.12717v1](http://arxiv.org/abs/2604.12717v1)|null|
+|**2026-04-14**|**TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting**|Fan Zhang et.al.|[2604.12648v1](http://arxiv.org/abs/2604.12648v1)|null|
+|**2026-04-14**|**Adaptive Test-Time Scaling for Zero-Shot Respiratory Audio Classification**|Tsai-Ning Wang et.al.|[2604.12647v1](http://arxiv.org/abs/2604.12647v1)|null|
+|**2026-04-14**|**Contextual Multi-Task Reinforcement Learning for Autonomous Reef Monitoring**|Melvin Laux et.al.|[2604.12645v1](http://arxiv.org/abs/2604.12645v1)|null|
+|**2026-04-14**|**RPRA: Predicting an LLM-Judge for Efficient but Performant Inference**|Dylan R. Ashley et.al.|[2604.12634v1](http://arxiv.org/abs/2604.12634v1)|null|
 |**2026-04-13**|**Finetune Like You Pretrain: Boosting Zero-shot Adversarial Robustness in Vision-language Models**|Songlong Xing et.al.|[2604.11576v1](http://arxiv.org/abs/2604.11576v1)|null|
 |**2026-04-13**|**MimicLM: Zero-Shot Voice Imitation through Autoregressive Modeling of Pseudo-Parallel Speech Corpora**|Tao Feng et.al.|[2604.11552v1](http://arxiv.org/abs/2604.11552v1)|null|
 |**2026-04-13**|**Time is Not a Label: Continuous Phase Rotation for Temporal Knowledge Graphs and Agentic Memory**|Weixian Waylon Li et.al.|[2604.11544v1](http://arxiv.org/abs/2604.11544v1)|null|
@@ -10611,5 +10625,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260414>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260415>back to top</a>)</p>
 

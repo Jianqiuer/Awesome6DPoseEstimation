@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|
 |**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208v1](http://arxiv.org/abs/2604.18208v1)|null|
 |**2026-04-20**|**Identifying Ethical Biases in Action Recognition Models**|Ana Baltaretu et.al.|[2604.17971v1](http://arxiv.org/abs/2604.17971v1)|null|
 |**2026-04-20**|**PCM-NeRF: Probabilistic Camera Modeling for Neural Radiance Fields under Pose Uncertainty**|Shravan Venkatraman et.al.|[2604.17831v1](http://arxiv.org/abs/2604.17831v1)|null|
@@ -2893,6 +2894,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v1](http://arxiv.org/abs/2604.19596v1)|null|
 |**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721v1](http://arxiv.org/abs/2604.17721v1)|null|
 |**2026-04-19**|**Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud**|Eashrat Jahan Muniya et.al.|[2604.17389v1](http://arxiv.org/abs/2604.17389v1)|null|
 |**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[2604.16680v1](http://arxiv.org/abs/2604.16680v1)|null|
@@ -3475,6 +3477,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-21**|**UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling**|Boyu Chen et.al.|[2604.19734v1](http://arxiv.org/abs/2604.19734v1)|null|
+|**2026-04-21**|**ZODIAC: Zero-shot Offline Diffusion for Inferring Multi-xApps Conflicts in Open Radio Access Networks**|Zeyu Fang et.al.|[2604.19610v1](http://arxiv.org/abs/2604.19610v1)|null|
+|**2026-04-21**|**Structure-guided molecular design with contrastive 3D protein-ligand learning**|Carles Navarro et.al.|[2604.19562v1](http://arxiv.org/abs/2604.19562v1)|null|
+|**2026-04-21**|**Bangla Key2Text: Text Generation from Keywords for a Low Resource Language**|Tonmoy Talukder et.al.|[2604.19508v1](http://arxiv.org/abs/2604.19508v1)|null|
+|**2026-04-21**|**What Makes an LLM a Good Optimizer? A Trajectory Analysis of LLM-Guided Evolutionary Search**|Xinhao Zhang et.al.|[2604.19440v1](http://arxiv.org/abs/2604.19440v1)|null|
+|**2026-04-21**|**GRASPrune: Global Gating for Budgeted Structured Pruning of Large Language Models**|Ziyang Wang et.al.|[2604.19398v1](http://arxiv.org/abs/2604.19398v1)|null|
+|**2026-04-21**|**PLaMo 2.1-VL Technical Report**|Tommi Kerola et.al.|[2604.19324v1](http://arxiv.org/abs/2604.19324v1)|null|
+|**2026-04-21**|**IndiaFinBench: An Evaluation Benchmark for Large Language Model Performance on Indian Financial Regulatory Text**|Rajveer Singh Pall et.al.|[2604.19298v1](http://arxiv.org/abs/2604.19298v1)|null|
+|**2026-04-21**|**Multimodal embodiment-aware navigation transformer**|Louis Dezons et.al.|[2604.19267v1](http://arxiv.org/abs/2604.19267v1)|null|
+|**2026-04-21**|**Auditing LLMs for Algorithmic Fairness in Casenote-Augmented Tabular Prediction**|Xiao Qi Lee et.al.|[2604.19204v1](http://arxiv.org/abs/2604.19204v1)|null|
 |**2026-04-20**|**Benchmarking System Dynamics AI Assistants: Cloud Versus Local LLMs on CLD Extraction and Discussion**|Terry Leitch et.al.|[2604.18566v1](http://arxiv.org/abs/2604.18566v1)|null|
 |**2026-04-20**|**LQM: Linguistically Motivated Multidimensional Quality Metrics for Machine Translation**|Samar M. Magdy et.al.|[2604.18490v1](http://arxiv.org/abs/2604.18490v1)|null|
 |**2026-04-20**|**ProtoCLIP: Prototype-Aligned Latent Refinement for Robust Zero-Shot Chest X-Ray Classification**|Florian Kittler et.al.|[2604.18444v1](http://arxiv.org/abs/2604.18444v1)|null|

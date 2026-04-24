@@ -1,4 +1,4 @@
-## Updated on 2026.04.23
+## Updated on 2026.04.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-22**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v1](http://arxiv.org/abs/2604.20689v1)|null|
+|**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154v1](http://arxiv.org/abs/2604.21154v1)|null|
+|**2026-04-23**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v2](http://arxiv.org/abs/2604.20689v2)|null|
 |**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|
 |**2026-04-21**|**BALTIC: A Benchmark and Cross-Domain Strategy for 3D Reconstruction Across Air and Underwater Domains Under Varying Illumination**|Michele Grimaldi et.al.|[2604.19133v1](http://arxiv.org/abs/2604.19133v1)|null|
 |**2026-04-20**|**Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**|Andreas Kriegler et.al.|[2604.18208v1](http://arxiv.org/abs/2604.18208v1)|null|
@@ -2898,13 +2899,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-04-21**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v1](http://arxiv.org/abs/2604.19596v1)|null|
+|**2026-04-23**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v2](http://arxiv.org/abs/2604.19596v2)|null|
 |**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721v1](http://arxiv.org/abs/2604.17721v1)|null|
 |**2026-04-19**|**Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud**|Eashrat Jahan Muniya et.al.|[2604.17389v1](http://arxiv.org/abs/2604.17389v1)|null|
 |**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[2604.16680v1](http://arxiv.org/abs/2604.16680v1)|null|
@@ -3222,7 +3223,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3485,14 +3486,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Katharina Prasse et.al.|[2604.21786v1](http://arxiv.org/abs/2604.21786v1)|null|
+|**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728v1](http://arxiv.org/abs/2604.21728v1)|null|
+|**2026-04-23**|**Sapiens2**|Rawal Khirodkar et.al.|[2604.21681v1](http://arxiv.org/abs/2604.21681v1)|null|
+|**2026-04-23**|**Prototype-Based Test-Time Adaptation of Vision-Language Models**|Zhaohong Huang et.al.|[2604.21360v1](http://arxiv.org/abs/2604.21360v1)|null|
+|**2026-04-23**|**Trust-SSL: Additive-Residual Selective Invariance for Robust Aerial Self-Supervised Learning**|Wadii Boulila et.al.|[2604.21349v1](http://arxiv.org/abs/2604.21349v1)|null|
+|**2026-04-23**|**Zero-Shot Detection of LLM-Generated Text via Implicit Reward Model**|Runheng Liu et.al.|[2604.21223v1](http://arxiv.org/abs/2604.21223v1)|null|
+|**2026-04-22**|**Enhancing Science Classroom Discourse Analysis through Joint Multi-Task Learning for Reasoning-Component Classification**|Jiho Noh et.al.|[2604.21137v1](http://arxiv.org/abs/2604.21137v1)|null|
+|**2026-04-22**|**Unlocking Multi-Spectral Data for Multi-Modal Models with Guided Inputs and Chain-of-Thought Reasoning**|Dahun Kim et.al.|[2604.21032v1](http://arxiv.org/abs/2604.21032v1)|null|
 |**2026-04-22**|**DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation**|Hyeonwoo Kim et.al.|[2604.20841v1](http://arxiv.org/abs/2604.20841v1)|null|
-|**2026-04-22**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835v1](http://arxiv.org/abs/2604.20835v1)|null|
+|**2026-04-23**|**Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**|Zhaofeng Wu et.al.|[2604.20835v2](http://arxiv.org/abs/2604.20835v2)|null|
 |**2026-04-22**|**CHASM: Unveiling Covert Advertisements on Chinese Social Media**|Jingyi Zheng et.al.|[2604.20511v1](http://arxiv.org/abs/2604.20511v1)|null|
 |**2026-04-22**|**ProMMSearchAgent: A Generalizable Multimodal Search Agent Trained with Process-Oriented Rewards**|Wentao Yan et.al.|[2604.20486v1](http://arxiv.org/abs/2604.20486v1)|null|
 |**2026-04-22**|**SpaCeFormer: Fast Proposal-Free Open-Vocabulary 3D Instance Segmentation**|Chris Choy et.al.|[2604.20395v1](http://arxiv.org/abs/2604.20395v1)|null|
@@ -10717,5 +10726,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260424>back to top</a>)</p>
 

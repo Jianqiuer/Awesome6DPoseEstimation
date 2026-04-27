@@ -1,4 +1,4 @@
-## Updated on 2026.04.26
+## Updated on 2026.04.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views**|Jiaxin Shi et.al.|[2604.22658v1](http://arxiv.org/abs/2604.22658v1)|null|
+|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
+|**2026-04-24**|**Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction**|Federico Biagi et.al.|[2604.22378v1](http://arxiv.org/abs/2604.22378v1)|null|
+|**2026-04-24**|**PoseFM: Relative Camera Pose Estimation Through Flow Matching**|Dominik Kuczkowski et.al.|[2604.22350v1](http://arxiv.org/abs/2604.22350v1)|null|
+|**2026-04-24**|**Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM**|Yunsong Wang et.al.|[2604.22339v1](http://arxiv.org/abs/2604.22339v1)|null|
+|**2026-04-24**|**Revisiting Geometric Obfuscation with Dual Convergent Lines for Privacy-Preserving Image Queries in Visual Localization**|Jeonggon Kim et.al.|[2604.22310v1](http://arxiv.org/abs/2604.22310v1)|null|
 |**2026-04-22**|**Agentic AI for Personalized Physiotherapy: A Multi-Agent Framework for Generative Video Training and Real-Time Pose Correction**|Abhishek Dharmaratnakar et.al.|[2604.21154v1](http://arxiv.org/abs/2604.21154v1)|null|
 |**2026-04-23**|**FingerEye: Continuous and Unified Vision-Tactile Sensing for Dexterous Manipulation**|Zhixuan Xu et.al.|[2604.20689v2](http://arxiv.org/abs/2604.20689v2)|null|
 |**2026-04-22**|**MAPRPose: Mask-Aware Proposal and Amodal Refinement for Multi-Object 6D Pose Estimation**|Yang Luo et.al.|[2604.20650v1](http://arxiv.org/abs/2604.20650v1)|null|
@@ -2899,12 +2905,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
 |**2026-04-23**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v2](http://arxiv.org/abs/2604.19596v2)|null|
 |**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721v1](http://arxiv.org/abs/2604.17721v1)|null|
 |**2026-04-19**|**Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud**|Eashrat Jahan Muniya et.al.|[2604.17389v1](http://arxiv.org/abs/2604.17389v1)|null|
@@ -3223,7 +3230,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3486,12 +3493,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-24**|**Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering**|Hillary Mutisya et.al.|[2604.22723v1](http://arxiv.org/abs/2604.22723v1)|null|
+|**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[2604.22715v1](http://arxiv.org/abs/2604.22715v1)|null|
+|**2026-04-24**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[2604.22686v1](http://arxiv.org/abs/2604.22686v1)|null|
+|**2026-04-24**|**DeepHartree: A Poisson-Coupled Neural Field for Scalable Density Functional Theory**|Jiankun Wu et.al.|[2604.22669v1](http://arxiv.org/abs/2604.22669v1)|null|
+|**2026-04-24**|**Learning Evidence Highlighting for Frozen LLMs**|Shaoang Li et.al.|[2604.22565v1](http://arxiv.org/abs/2604.22565v1)|null|
+|**2026-04-24**|**Aggregate vs. Personalized Judges in Business Idea Evaluation: Evidence from Expert Disagreement**|Wataru Hirota et.al.|[2604.22517v1](http://arxiv.org/abs/2604.22517v1)|null|
+|**2026-04-24**|**MTT-Bench: Predicting Social Dominance in Mice via Multimodal Large Language Models**|Yunquan Chen et.al.|[2604.22492v1](http://arxiv.org/abs/2604.22492v1)|null|
+|**2026-04-24**|**Evaluating LLM-Based Goal Extraction in Requirements Engineering: Prompting Strategies and Their Limitations**|Anna Arnaudo et.al.|[2604.22207v1](http://arxiv.org/abs/2604.22207v1)|null|
+|**2026-04-23**|**Wiggle and Go! System Identification for Zero-Shot Dynamic Rope Manipulation**|Arthur Jakobsson et.al.|[2604.22102v1](http://arxiv.org/abs/2604.22102v1)|null|
+|**2026-04-23**|**Empirical Assessment of Time-Series Foundation Models For Power System Forecasting Applications**|Muhy Eddin Za'ter et.al.|[2604.22077v1](http://arxiv.org/abs/2604.22077v1)|null|
 |**2026-04-23**|**From Codebooks to VLMs: Evaluating Automated Visual Discourse Analysis for Climate Change on Social Media**|Katharina Prasse et.al.|[2604.21786v1](http://arxiv.org/abs/2604.21786v1)|null|
 |**2026-04-23**|**Ramen: Robust Test-Time Adaptation of Vision-Language Models with Active Sample Selection**|Wenxuan Bao et.al.|[2604.21728v1](http://arxiv.org/abs/2604.21728v1)|null|
 |**2026-04-23**|**Sapiens2**|Rawal Khirodkar et.al.|[2604.21681v1](http://arxiv.org/abs/2604.21681v1)|null|
@@ -10726,5 +10743,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260426>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260427>back to top</a>)</p>
 

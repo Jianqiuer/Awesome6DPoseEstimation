@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.27
+## Updated on 2026.04.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Evaluation of Pose Estimation Systems for Sign Language Translation**|Catherine O'Brien et.al.|[2604.24609v1](http://arxiv.org/abs/2604.24609v1)|null|
+|**2026-04-27**|**Phase-Separated Complex Hilbert PCA on Markerless 3D Pose Estimation Data: A Global Phase Network and Its Extension to a Continuous Field on the Body Surface**|Hiromitsu Goto et.al.|[2604.24415v1](http://arxiv.org/abs/2604.24415v1)|null|
+|**2026-04-27**|**Unconstrained Multi-view Human Pose Estimation with Algebraic Priors**|Xiaolin Qin et.al.|[2604.24312v1](http://arxiv.org/abs/2604.24312v1)|null|
+|**2026-04-26**|**A Pose-only Geometric Constraint for Multi-Camera Pose Adjustment**|Shunkun Liang et.al.|[2604.23704v1](http://arxiv.org/abs/2604.23704v1)|null|
+|**2026-04-26**|**Deploy DINO with Many-to-Many Association**|Haodong Jiang et.al.|[2604.23670v1](http://arxiv.org/abs/2604.23670v1)|null|
+|**2026-04-26**|**Geometry-Conditioned Diffusion for Occlusion-Robust In-Bed Pose Estimation**|Navid Aslankhani Khameneh et.al.|[2604.23651v1](http://arxiv.org/abs/2604.23651v1)|null|
+|**2026-04-25**|**Keypoint-based Dynamic Object 6-DoF Pose Tracking via Event Camera**|Zhe Wang et.al.|[2604.23387v1](http://arxiv.org/abs/2604.23387v1)|null|
 |**2026-04-24**|**PASR: Pose-Aware 3D Shape Retrieval from Occluded Single Views**|Jiaxin Shi et.al.|[2604.22658v1](http://arxiv.org/abs/2604.22658v1)|null|
 |**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
 |**2026-04-24**|**Adaptive vs. Static Robot-to-Human Handover: A Study on Orientation and Approach Direction**|Federico Biagi et.al.|[2604.22378v1](http://arxiv.org/abs/2604.22378v1)|null|
@@ -2903,8 +2910,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
 |**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
-|**2026-04-23**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v2](http://arxiv.org/abs/2604.19596v2)|null|
+|**2026-04-25**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v3](http://arxiv.org/abs/2604.19596v3)|null|
 |**2026-04-20**|**GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion**|Jiayi Tian et.al.|[2604.17721v1](http://arxiv.org/abs/2604.17721v1)|null|
 |**2026-04-19**|**Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud**|Eashrat Jahan Muniya et.al.|[2604.17389v1](http://arxiv.org/abs/2604.17389v1)|null|
 |**2026-04-17**|**C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion**|Yuval Haitman et.al.|[2604.16680v1](http://arxiv.org/abs/2604.16680v1)|null|
@@ -3487,6 +3495,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719v1](http://arxiv.org/abs/2604.24719v1)|null|
+|**2026-04-27**|**Learning to Route Queries to Heads for Attention-based Re-ranking with Large Language Models**|Yuxing Tian et.al.|[2604.24608v1](http://arxiv.org/abs/2604.24608v1)|null|
+|**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602v1](http://arxiv.org/abs/2604.24602v1)|null|
+|**2026-04-27**|**Zero-shot Large Language Models for Automatic Readability Assessment**|Riley Grossman et.al.|[2604.24470v1](http://arxiv.org/abs/2604.24470v1)|null|
+|**2026-04-27**|**TextGround4M: A Prompt-Aligned Dataset for Layout-Aware Text Rendering**|Dongxing Mao et.al.|[2604.24459v1](http://arxiv.org/abs/2604.24459v1)|null|
+|**2026-04-27**|**Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware**|Sahil Al Farib et.al.|[2604.24397v1](http://arxiv.org/abs/2604.24397v1)|null|
+|**2026-04-27**|**Learning Evidence of Depression Symptoms via Prompt Induction**|Eliseo Bao et.al.|[2604.24376v1](http://arxiv.org/abs/2604.24376v1)|null|
+|**2026-04-27**|**Monocular Depth Estimation via Neural Network with Learnable Algebraic Group and Ring Structures**|Qianlei Wang et.al.|[2604.24328v1](http://arxiv.org/abs/2604.24328v1)|null|
+|**2026-04-27**|**Differentiable Faithfulness Alignment for Cross-Model Circuit Transfer**|Shun Shao et.al.|[2604.24302v1](http://arxiv.org/abs/2604.24302v1)|null|
+|**2026-04-27**|**$M^2$ -VLA: Boosting Vision-Language Models for Generalizable Manipulation via Layer Mixture and Meta-Skills**|Siyao Xiao et.al.|[2604.24182v1](http://arxiv.org/abs/2604.24182v1)|null|
 |**2026-04-24**|**Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering**|Hillary Mutisya et.al.|[2604.22723v1](http://arxiv.org/abs/2604.22723v1)|null|
 |**2026-04-24**|**ATRS: Adaptive Trajectory Re-splitting via a Shared Neural Policy for Parallel Optimization**|Jiajun Yu et.al.|[2604.22715v1](http://arxiv.org/abs/2604.22715v1)|null|
 |**2026-04-24**|**SS3D: End2End Self-Supervised 3D from Web Videos**|Marwane Hariat et.al.|[2604.22686v1](http://arxiv.org/abs/2604.22686v1)|null|

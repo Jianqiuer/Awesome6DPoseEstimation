@@ -1,4 +1,4 @@
-## Updated on 2026.04.28
+## Updated on 2026.04.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -2912,7 +2912,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3238,7 +3238,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3501,12 +3501,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-28**|**Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles**|Minh-Khoa Le-Phan et.al.|[2604.25889v1](http://arxiv.org/abs/2604.25889v1)|null|
+|**2026-04-28**|**QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding**|Shuxiang Cao et.al.|[2604.25884v1](http://arxiv.org/abs/2604.25884v1)|null|
+|**2026-04-28**|**Luminol-AIDetect: Fast Zero-shot Machine-Generated Text Detection based on Perplexity under Text Shuffling**|Lucio La Cava et.al.|[2604.25860v1](http://arxiv.org/abs/2604.25860v1)|null|
+|**2026-04-28**|**From Soliloquy to Agora: Memory-Enhanced LLM Agents with Decentralized Debate for Optimization Modeling**|Jianghao Lin et.al.|[2604.25847v1](http://arxiv.org/abs/2604.25847v1)|null|
+|**2026-04-28**|**Improving Zero-Shot Offline RL via Behavioral Task Sampling**|Nazim Bendib et.al.|[2604.25496v1](http://arxiv.org/abs/2604.25496v1)|null|
+|**2026-04-28**|**An Investigation of Linguistic Biases in LLM-Based Recommendations**|Nitin Venkateswaran et.al.|[2604.25456v1](http://arxiv.org/abs/2604.25456v1)|null|
+|**2026-04-28**|**GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment**|Kidus Zewde et.al.|[2604.25370v1](http://arxiv.org/abs/2604.25370v1)|null|
+|**2026-04-28**|**OmniVTG: A Large-Scale Dataset and Training Paradigm for Open-World Video Temporal Grounding**|Minghang Zheng et.al.|[2604.25276v1](http://arxiv.org/abs/2604.25276v1)|null|
+|**2026-04-28**|**When the Forger Is the Judge: GPT-Image-2 Cannot Recognize Its Own Faked Documents**|Jiaqi Wu et.al.|[2604.25213v1](http://arxiv.org/abs/2604.25213v1)|null|
+|**2026-04-28**|**Prior-Aligned Data Cleaning for Tabular Foundation Models**|Laure Berti-Equille et.al.|[2604.25154v1](http://arxiv.org/abs/2604.25154v1)|null|
 |**2026-04-27**|**DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation**|Tal Grossman et.al.|[2604.24719v1](http://arxiv.org/abs/2604.24719v1)|null|
 |**2026-04-27**|**Learning to Route Queries to Heads for Attention-based Re-ranking with Large Language Models**|Yuxing Tian et.al.|[2604.24608v1](http://arxiv.org/abs/2604.24608v1)|null|
 |**2026-04-27**|**Majorization-Guided Test-Time Adaptation for Vision-Language Models under Modality-Specific Shift**|Lixian Chen et.al.|[2604.24602v1](http://arxiv.org/abs/2604.24602v1)|null|
@@ -10761,5 +10771,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260428>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260429>back to top</a>)</p>
 

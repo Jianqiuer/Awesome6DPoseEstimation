@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.04.29
+## Updated on 2026.04.30
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620v1](http://arxiv.org/abs/2604.26620v1)|null|
+|**2026-04-29**|**Recipes for Calibration Checks in Safety-Critical Applications**|Romeo Valentin et.al.|[2604.26479v1](http://arxiv.org/abs/2604.26479v1)|null|
+|**2026-04-29**|**Decoupled Prototype Matching with Vision Foundation Models for Few-Shot Industrial Object Detection**|Hari Prasanth S. M. et.al.|[2604.26404v1](http://arxiv.org/abs/2604.26404v1)|null|
 |**2026-04-27**|**Evaluation of Pose Estimation Systems for Sign Language Translation**|Catherine O'Brien et.al.|[2604.24609v1](http://arxiv.org/abs/2604.24609v1)|null|
 |**2026-04-27**|**Phase-Separated Complex Hilbert PCA on Markerless 3D Pose Estimation Data: A Global Phase Network and Its Extension to a Continuous Field on the Body Surface**|Hiromitsu Goto et.al.|[2604.24415v1](http://arxiv.org/abs/2604.24415v1)|null|
 |**2026-04-27**|**Unconstrained Multi-view Human Pose Estimation with Algebraic Priors**|Xiaolin Qin et.al.|[2604.24312v1](http://arxiv.org/abs/2604.24312v1)|null|
@@ -2910,6 +2913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318v1](http://arxiv.org/abs/2604.26318v1)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
 |**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
 |**2026-04-25**|**PC2Model: ISPRS benchmark on 3D point cloud to model registration**|Mehdi Maboudi et.al.|[2604.19596v3](http://arxiv.org/abs/2604.19596v3)|null|
@@ -3495,6 +3499,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-29**|**Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation**|Wanrong Zheng et.al.|[2604.26946v1](http://arxiv.org/abs/2604.26946v1)|null|
+|**2026-04-29**|**Zero-Shot to Full-Resource: Cross-lingual Transfer Strategies for Aspect-Based Sentiment Analysis**|Jakob Fehle et.al.|[2604.26619v1](http://arxiv.org/abs/2604.26619v1)|null|
+|**2026-04-29**|**LLM-Flax : Generalizable Robotic Task Planning via Neuro-Symbolic Approaches with Large Language Models**|Seongmin Kim et.al.|[2604.26569v1](http://arxiv.org/abs/2604.26569v1)|null|
+|**2026-04-29**|**DenseStep2M: A Scalable, Training-Free Pipeline for Dense Instructional Video Annotation**|Mingji Ge et.al.|[2604.26565v1](http://arxiv.org/abs/2604.26565v1)|null|
+|**2026-04-29**|**Grounding vs. Compositionality: On the Non-Complementarity of Reasoning in Neuro-Symbolic Systems**|Mahnoor Shahid et.al.|[2604.26521v1](http://arxiv.org/abs/2604.26521v1)|null|
+|**2026-04-29**|**Auto-Relational Reasoning**|Ioannis Konstantoulas et.al.|[2604.26507v1](http://arxiv.org/abs/2604.26507v1)|null|
+|**2026-04-29**|**Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction**|Jinjiang Guo et.al.|[2604.26498v1](http://arxiv.org/abs/2604.26498v1)|null|
+|**2026-04-29**|**CoQuant: Joint Weight-Activation Subspace Projection for Mixed-Precision LLMs**|Zhe Ding et.al.|[2604.26378v1](http://arxiv.org/abs/2604.26378v1)|null|
+|**2026-04-29**|**UIGaze: How Closely Can VLMs Approximate Human Visual Attention on User Interfaces?**|Min Song et.al.|[2604.26352v1](http://arxiv.org/abs/2604.26352v1)|null|
+|**2026-04-29**|**The False Resonance: A Critical Examination of Emotion Embedding Similarity for Speech Generation Evaluation**|Yun-Shao Tsai et.al.|[2604.26347v1](http://arxiv.org/abs/2604.26347v1)|null|
 |**2026-04-28**|**Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles**|Minh-Khoa Le-Phan et.al.|[2604.25889v1](http://arxiv.org/abs/2604.25889v1)|null|
 |**2026-04-28**|**QCalEval: Benchmarking Vision-Language Models for Quantum Calibration Plot Understanding**|Shuxiang Cao et.al.|[2604.25884v1](http://arxiv.org/abs/2604.25884v1)|null|
 |**2026-04-28**|**Luminol-AIDetect: Fast Zero-shot Machine-Generated Text Detection based on Perplexity under Text Shuffling**|Lucio La Cava et.al.|[2604.25860v1](http://arxiv.org/abs/2604.25860v1)|null|

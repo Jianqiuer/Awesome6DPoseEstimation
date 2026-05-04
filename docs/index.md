@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.05.03
+## Updated on 2026.05.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562v1](http://arxiv.org/abs/2605.00562v1)|null|
+|**2026-05-01**|**A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers**|Kaiwen Zuo et.al.|[2605.00307v1](http://arxiv.org/abs/2605.00307v1)|null|
+|**2026-04-30**|**MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video**|Xijia Wei et.al.|[2605.00242v1](http://arxiv.org/abs/2605.00242v1)|null|
+|**2026-04-30**|**Adaptive Geodesic Conformal Prediction for Egocentric Camera Pose Estimation**|Aishani Pathak et.al.|[2605.00233v1](http://arxiv.org/abs/2605.00233v1)|null|
+|**2026-04-30**|**From Images2Mesh: A 3D Surface Reconstruction Pipeline for Non-Cooperative Space Objects**|Bala Prenith Reddy Gopu et.al.|[2605.00147v1](http://arxiv.org/abs/2605.00147v1)|null|
 |**2026-04-30**|**LA-Pose: Latent Action Pretraining Meets Pose Estimation**|Zhengqing Wang et.al.|[2604.27448v1](http://arxiv.org/abs/2604.27448v1)|null|
 |**2026-04-29**|**Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations**|Andrii Zadaianchuk et.al.|[2604.27106v1](http://arxiv.org/abs/2604.27106v1)|null|
 |**2026-04-29**|**SnapPose3D: Diffusion-Based Single-Frame 2D-to-3D Lifting of Human Poses**|Alessandro Simoni et.al.|[2604.26620v1](http://arxiv.org/abs/2604.26620v1)|null|
@@ -3501,6 +3506,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-01**|**PEACE: Cross-modal Enhanced Pediatric-Adult ECG Alignment for Robust Pediatric Diagnosis**|Xinran Liu et.al.|[2605.00647v1](http://arxiv.org/abs/2605.00647v1)|null|
+|**2026-05-01**|**Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models**|Jiayu Li et.al.|[2605.00591v1](http://arxiv.org/abs/2605.00591v1)|null|
+|**2026-05-01**|**High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions**|Yongpeng Cao et.al.|[2605.00496v1](http://arxiv.org/abs/2605.00496v1)|null|
+|**2026-05-01**|**BWLA: Breaking the Barrier of W1AX Post-Training Quantization for LLMs**|Zhixiong Zhao et.al.|[2605.00422v1](http://arxiv.org/abs/2605.00422v1)|null|
+|**2026-05-01**|**RadLite: Multi-Task LoRA Fine-Tuning of Small Language Models for CPU-Deployable Radiology AI**|Pankaj Gupta et.al.|[2605.00421v1](http://arxiv.org/abs/2605.00421v1)|null|
+|**2026-05-01**|**SIMON: Saliency-aware Integrative Multi-view Object-centric Neural Decoding**|YuSheng Lin et.al.|[2605.00401v1](http://arxiv.org/abs/2605.00401v1)|null|
+|**2026-05-01**|**Prompt-Induced Score Variance in Zero-Shot Binary Vision-Language Safety Classification**|Charles Weng et.al.|[2605.00326v1](http://arxiv.org/abs/2605.00326v1)|null|
+|**2026-04-30**|**REALM: An RGB and Event Aligned Latent Manifold for Cross-Modal Perception**|Vincenzo Polizzi et.al.|[2605.00271v1](http://arxiv.org/abs/2605.00271v1)|null|
+|**2026-04-30**|**Remote SAMsing: From Segment Anything to Segment Everything**|Osmar Luiz Ferreira de Carvalho et.al.|[2605.00256v1](http://arxiv.org/abs/2605.00256v1)|null|
+|**2026-04-30**|**Alethia: A Foundational Encoder for Voice Deepfakes**|Yi Zhu et.al.|[2605.00251v1](http://arxiv.org/abs/2605.00251v1)|null|
 |**2026-04-30**|**Explainable Load Forecasting with Covariate-Informed Time Series Foundation Models**|Matthias Hertel et.al.|[2604.28149v1](http://arxiv.org/abs/2604.28149v1)|null|
 |**2026-04-30**|**FreeOcc: Training-Free Embodied Open-Vocabulary Occupancy Prediction**|Zeyu Jiang et.al.|[2604.28115v1](http://arxiv.org/abs/2604.28115v1)|null|
 |**2026-04-30**|**Dreaming Across Towns: Semantic Rollout and Town-Adversarial Regularization for Zero-Shot Held-Out-Town Fixed-Route Driving in CARLA**|Feeza Khan Khanzada et.al.|[2604.27994v1](http://arxiv.org/abs/2604.27994v1)|null|

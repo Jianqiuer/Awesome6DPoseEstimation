@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|
+|**2026-05-04**|**Temporally Consistent Object 6D Pose Estimation for Robot Control**|Kateryna Zorina et.al.|[2605.02708v1](http://arxiv.org/abs/2605.02708v1)|null|
+|**2026-05-03**|**Observability Conditions and Filter Design for Visual Pose Estimation via Dual Quaternions**|Nicholas B. Andrews et.al.|[2605.02054v1](http://arxiv.org/abs/2605.02054v1)|null|
 |**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562v1](http://arxiv.org/abs/2605.00562v1)|null|
 |**2026-05-01**|**A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers**|Kaiwen Zuo et.al.|[2605.00307v1](http://arxiv.org/abs/2605.00307v1)|null|
 |**2026-04-30**|**MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video**|Xijia Wei et.al.|[2605.00242v1](http://arxiv.org/abs/2605.00242v1)|null|
@@ -3506,6 +3509,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-04**|**CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation**|Berk Çiçek et.al.|[2605.02600v1](http://arxiv.org/abs/2605.02600v1)|null|
+|**2026-05-04**|**Self-Supervised Spatial And Zero-Shot Angular Super-Resolution by Spatial-Angular Implicit Representation For Rotating-View SNR-Efficient Diffusion MRI**|Yinzhe Wu et.al.|[2605.02575v1](http://arxiv.org/abs/2605.02575v1)|null|
+|**2026-05-04**|**Statistically-Lossless Quantization of Large Language Models**|Michael Helcig et.al.|[2605.02404v1](http://arxiv.org/abs/2605.02404v1)|null|
+|**2026-05-04**|**Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation**|Moyu Tang et.al.|[2605.02376v1](http://arxiv.org/abs/2605.02376v1)|null|
+|**2026-05-04**|**A Meta Reinforcement Learning Approach to Goals-Based Wealth Management**|Sanjiv R. Das et.al.|[2605.02300v1](http://arxiv.org/abs/2605.02300v1)|null|
+|**2026-05-04**|**Reliability-Oriented Multilingual Orthopedic Diagnosis: A Domain-Adaptive Modeling and a Conceptual Validation Framework**|Danish Ali et.al.|[2605.02266v1](http://arxiv.org/abs/2605.02266v1)|null|
+|**2026-05-04**|**Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning**|Shihao Hou et.al.|[2605.02247v1](http://arxiv.org/abs/2605.02247v1)|null|
+|**2026-05-04**|**Zero-Shot Confidence Estimation for Small LLMs: When Supervised Baselines Aren't Worth Training**|Luong N. Nguyen et.al.|[2605.02241v1](http://arxiv.org/abs/2605.02241v1)|null|
+|**2026-05-04**|**Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization**|Tung Vu et.al.|[2605.02223v1](http://arxiv.org/abs/2605.02223v1)|null|
+|**2026-05-04**|**Ultrasound Vision-Language Alignment via Contrastive Learning**|Zhuoyang Lyu et.al.|[2605.02126v1](http://arxiv.org/abs/2605.02126v1)|null|
 |**2026-05-01**|**PEACE: Cross-modal Enhanced Pediatric-Adult ECG Alignment for Robust Pediatric Diagnosis**|Xinran Liu et.al.|[2605.00647v1](http://arxiv.org/abs/2605.00647v1)|null|
 |**2026-05-01**|**Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models**|Jiayu Li et.al.|[2605.00591v1](http://arxiv.org/abs/2605.00591v1)|null|
 |**2026-05-01**|**High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions**|Yongpeng Cao et.al.|[2605.00496v1](http://arxiv.org/abs/2605.00496v1)|null|

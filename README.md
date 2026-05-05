@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.05
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|
+|**2026-05-04**|**Temporally Consistent Object 6D Pose Estimation for Robot Control**|Kateryna Zorina et.al.|[2605.02708v1](http://arxiv.org/abs/2605.02708v1)|null|
+|**2026-05-03**|**Observability Conditions and Filter Design for Visual Pose Estimation via Dual Quaternions**|Nicholas B. Andrews et.al.|[2605.02054v1](http://arxiv.org/abs/2605.02054v1)|null|
 |**2026-05-01**|**Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds**|Heejoon Moon et.al.|[2605.00562v1](http://arxiv.org/abs/2605.00562v1)|null|
 |**2026-05-01**|**A Model-based Visual Contact Localization and Force Sensing System for Compliant Robotic Grippers**|Kaiwen Zuo et.al.|[2605.00307v1](http://arxiv.org/abs/2605.00307v1)|null|
 |**2026-04-30**|**MAEPose: Self-Supervised Spatiotemporal Learning for Human Pose Estimation on mmWave Video**|Xijia Wei et.al.|[2605.00242v1](http://arxiv.org/abs/2605.00242v1)|null|
@@ -2922,7 +2925,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3249,7 +3252,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3512,12 +3515,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**CoRAL: Contact-Rich Adaptive LLM-based Control for Robotic Manipulation**|Berk Çiçek et.al.|[2605.02600v1](http://arxiv.org/abs/2605.02600v1)|null|
+|**2026-05-04**|**Self-Supervised Spatial And Zero-Shot Angular Super-Resolution by Spatial-Angular Implicit Representation For Rotating-View SNR-Efficient Diffusion MRI**|Yinzhe Wu et.al.|[2605.02575v1](http://arxiv.org/abs/2605.02575v1)|null|
+|**2026-05-04**|**Statistically-Lossless Quantization of Large Language Models**|Michael Helcig et.al.|[2605.02404v1](http://arxiv.org/abs/2605.02404v1)|null|
+|**2026-05-04**|**Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation**|Moyu Tang et.al.|[2605.02376v1](http://arxiv.org/abs/2605.02376v1)|null|
+|**2026-05-04**|**A Meta Reinforcement Learning Approach to Goals-Based Wealth Management**|Sanjiv R. Das et.al.|[2605.02300v1](http://arxiv.org/abs/2605.02300v1)|null|
+|**2026-05-04**|**Reliability-Oriented Multilingual Orthopedic Diagnosis: A Domain-Adaptive Modeling and a Conceptual Validation Framework**|Danish Ali et.al.|[2605.02266v1](http://arxiv.org/abs/2605.02266v1)|null|
+|**2026-05-04**|**Fine-Tuning Impairs the Balancedness of Foundation Models in Long-tailed Personalized Federated Learning**|Shihao Hou et.al.|[2605.02247v1](http://arxiv.org/abs/2605.02247v1)|null|
+|**2026-05-04**|**Zero-Shot Confidence Estimation for Small LLMs: When Supervised Baselines Aren't Worth Training**|Luong N. Nguyen et.al.|[2605.02241v1](http://arxiv.org/abs/2605.02241v1)|null|
+|**2026-05-04**|**Toward Fine-Grained Speech Inpainting Forensics:A Dataset, Method, and Metric for Multi-Region Tampering Localization**|Tung Vu et.al.|[2605.02223v1](http://arxiv.org/abs/2605.02223v1)|null|
+|**2026-05-04**|**Ultrasound Vision-Language Alignment via Contrastive Learning**|Zhuoyang Lyu et.al.|[2605.02126v1](http://arxiv.org/abs/2605.02126v1)|null|
 |**2026-05-01**|**PEACE: Cross-modal Enhanced Pediatric-Adult ECG Alignment for Robust Pediatric Diagnosis**|Xinran Liu et.al.|[2605.00647v1](http://arxiv.org/abs/2605.00647v1)|null|
 |**2026-05-01**|**Intrinsic Gradient Suppression for Label-Noise Prompt Tuning in Vision-Language Models**|Jiayu Li et.al.|[2605.00591v1](http://arxiv.org/abs/2605.00591v1)|null|
 |**2026-05-01**|**High-Speed Vision Improves Zero-Shot Semantic Understanding of Human Actions**|Yongpeng Cao et.al.|[2605.00496v1](http://arxiv.org/abs/2605.00496v1)|null|
@@ -10812,5 +10825,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260505>back to top</a>)</p>
 

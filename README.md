@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|null|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|null|
 |**2026-05-05**|**Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology**|Lina Zhang et.al.|[2605.03352v1](http://arxiv.org/abs/2605.03352v1)|null|
 |**2026-05-04**|**HumanSplatHMR: Closing the Loop Between Human Mesh Recovery and Gaussian Splatting Avatar**|Yeheng Zong et.al.|[2605.02784v1](http://arxiv.org/abs/2605.02784v1)|null|
@@ -2927,12 +2928,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v1](http://arxiv.org/abs/2605.04541v1)|null|
 |**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318v1](http://arxiv.org/abs/2604.26318v1)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
 |**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
@@ -3254,7 +3256,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3517,12 +3519,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-06**|**Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging**|Bernhard Kainz et.al.|[2605.05161v1](http://arxiv.org/abs/2605.05161v1)|null|
+|**2026-05-06**|**CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization**|Yu-Hsi Chen et.al.|[2605.05136v1](http://arxiv.org/abs/2605.05136v1)|null|
+|**2026-05-06**|**Skill Neologisms: Towards Skill-based Continual Learning**|Antonin Berthon et.al.|[2605.04970v1](http://arxiv.org/abs/2605.04970v1)|null|
+|**2026-05-06**|**UFAL-CUNI at SemEval-2026 Task 11: An Efficient Modular Neuro-symbolic Method for Syllogistic Reasoning**|Ivan Kartáč et.al.|[2605.04941v1](http://arxiv.org/abs/2605.04941v1)|null|
+|**2026-05-06**|**A Foundation Model for Zero-Shot Logical Rule Induction**|Yin Jun Phua et.al.|[2605.04916v1](http://arxiv.org/abs/2605.04916v1)|null|
+|**2026-05-06**|**FairEnc: A Fair Vision-Language Model with Fair Vision and Text Encoders for Glaucoma Detection**|Mohamed Elhabebe et.al.|[2605.04882v1](http://arxiv.org/abs/2605.04882v1)|null|
+|**2026-05-06**|**AgentTrust: Runtime Safety Evaluation and Interception for AI Agent Tool Use**|Chenglin Yang et.al.|[2605.04785v1](http://arxiv.org/abs/2605.04785v1)|null|
+|**2026-05-06**|**Gaze4HRI: Zero-shot Benchmarking Gaze Estimation Neural-Networks for Human-Robot Interaction**|Berk Sezer et.al.|[2605.04770v1](http://arxiv.org/abs/2605.04770v1)|null|
+|**2026-05-06**|**Reward-Decomposed Reinforcement Learning for Immersive Video Role-Playing**|Miao Wang et.al.|[2605.04733v1](http://arxiv.org/abs/2605.04733v1)|null|
+|**2026-05-06**|**Anny-Fit: All-Age Human Mesh Recovery**|Laura Bravo-Sánchez et.al.|[2605.04728v1](http://arxiv.org/abs/2605.04728v1)|null|
 |**2026-05-05**|**Safety and accuracy follow different scaling laws in clinical large language models**|Sebastian Wind et.al.|[2605.04039v1](http://arxiv.org/abs/2605.04039v1)|null|
 |**2026-05-05**|**Can Transformers predict system collapse in dynamical systems?**|Zheng-Meng Zhai et.al.|[2605.04024v1](http://arxiv.org/abs/2605.04024v1)|null|
 |**2026-05-05**|**Feature-Augmented Transformers for Robust AI-Text Detection Across Domains and Generators**|Mohamed Mady et.al.|[2605.03969v1](http://arxiv.org/abs/2605.03969v1)|null|
@@ -10837,5 +10849,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
 

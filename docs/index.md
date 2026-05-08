@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation**|Ziheng Xi et.al.|[2605.05712v1](http://arxiv.org/abs/2605.05712v1)|null|
 |**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|null|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|null|
 |**2026-05-05**|**Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology**|Lina Zhang et.al.|[2605.03352v1](http://arxiv.org/abs/2605.03352v1)|null|
@@ -3513,6 +3514,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667v1](http://arxiv.org/abs/2605.06667v1)|null|
+|**2026-05-07**|**Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings**|Yongxin Zhou et.al.|[2605.06594v1](http://arxiv.org/abs/2605.06594v1)|null|
+|**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591v1](http://arxiv.org/abs/2605.06591v1)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478v1](http://arxiv.org/abs/2605.06478v1)|null|
+|**2026-05-07**|**Invariant Features in Language Models: Geometric Characterization and Model Attribution**|Agnibh Dasgupta et.al.|[2605.06458v1](http://arxiv.org/abs/2605.06458v1)|null|
+|**2026-05-07**|**Residual-Corrected Equivalent-Circuit Model with Universal Differential Equations for Robust Battery Voltage Prediction under Operating-Condition Shift**|Alexandre Barbosa de Lima et.al.|[2605.06419v1](http://arxiv.org/abs/2605.06419v1)|null|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407v1](http://arxiv.org/abs/2605.06407v1)|null|
+|**2026-05-07**|**GATHER: Convergence-Centric Hyper-Entity Retrieval for Zero-Shot Cell-Type Annotation**|Zhonghui Zhang et.al.|[2605.06403v1](http://arxiv.org/abs/2605.06403v1)|null|
+|**2026-05-07**|**SparseForge: Efficient Semi-Structured LLM Sparsification via Annealing of Hessian-Guided Soft-Mask**|Liu Hanzuo et.al.|[2605.06402v1](http://arxiv.org/abs/2605.06402v1)|null|
+|**2026-05-07**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298v1](http://arxiv.org/abs/2605.06298v1)|null|
 |**2026-05-06**|**Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging**|Bernhard Kainz et.al.|[2605.05161v1](http://arxiv.org/abs/2605.05161v1)|null|
 |**2026-05-06**|**CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization**|Yu-Hsi Chen et.al.|[2605.05136v1](http://arxiv.org/abs/2605.05136v1)|null|
 |**2026-05-06**|**Skill Neologisms: Towards Skill-based Continual Learning**|Antonin Berthon et.al.|[2605.04970v1](http://arxiv.org/abs/2605.04970v1)|null|

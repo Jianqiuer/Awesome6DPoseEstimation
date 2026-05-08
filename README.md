@@ -1,4 +1,4 @@
-## Updated on 2026.05.07
+## Updated on 2026.05.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation**|Ziheng Xi et.al.|[2605.05712v1](http://arxiv.org/abs/2605.05712v1)|null|
 |**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|null|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|null|
 |**2026-05-05**|**Can Multimodal Large Language Models Understand Pathologic Movements? A Pilot Study on Seizure Semiology**|Lina Zhang et.al.|[2605.03352v1](http://arxiv.org/abs/2605.03352v1)|null|
@@ -2928,7 +2929,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3256,7 +3257,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3519,12 +3520,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667v1](http://arxiv.org/abs/2605.06667v1)|null|
+|**2026-05-07**|**Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings**|Yongxin Zhou et.al.|[2605.06594v1](http://arxiv.org/abs/2605.06594v1)|null|
+|**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591v1](http://arxiv.org/abs/2605.06591v1)|null|
+|**2026-05-07**|**GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments**|Siwei Cai et.al.|[2605.06478v1](http://arxiv.org/abs/2605.06478v1)|null|
+|**2026-05-07**|**Invariant Features in Language Models: Geometric Characterization and Model Attribution**|Agnibh Dasgupta et.al.|[2605.06458v1](http://arxiv.org/abs/2605.06458v1)|null|
+|**2026-05-07**|**Residual-Corrected Equivalent-Circuit Model with Universal Differential Equations for Robust Battery Voltage Prediction under Operating-Condition Shift**|Alexandre Barbosa de Lima et.al.|[2605.06419v1](http://arxiv.org/abs/2605.06419v1)|null|
+|**2026-05-07**|**WavCube: Unifying Speech Representation for Understanding and Generation via Semantic-Acoustic Joint Modeling**|Guanrou Yang et.al.|[2605.06407v1](http://arxiv.org/abs/2605.06407v1)|null|
+|**2026-05-07**|**GATHER: Convergence-Centric Hyper-Entity Retrieval for Zero-Shot Cell-Type Annotation**|Zhonghui Zhang et.al.|[2605.06403v1](http://arxiv.org/abs/2605.06403v1)|null|
+|**2026-05-07**|**SparseForge: Efficient Semi-Structured LLM Sparsification via Annealing of Hessian-Guided Soft-Mask**|Liu Hanzuo et.al.|[2605.06402v1](http://arxiv.org/abs/2605.06402v1)|null|
+|**2026-05-07**|**Render, Don't Decode: Weight-Space World Models with Latent Structural Disentanglement**|Roussel Desmond Nzoyem et.al.|[2605.06298v1](http://arxiv.org/abs/2605.06298v1)|null|
 |**2026-05-06**|**Wasserstein-Aligned Localisation for VLM-Based Distributional OOD Detection in Medical Imaging**|Bernhard Kainz et.al.|[2605.05161v1](http://arxiv.org/abs/2605.05161v1)|null|
 |**2026-05-06**|**CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization**|Yu-Hsi Chen et.al.|[2605.05136v1](http://arxiv.org/abs/2605.05136v1)|null|
 |**2026-05-06**|**Skill Neologisms: Towards Skill-based Continual Learning**|Antonin Berthon et.al.|[2605.04970v1](http://arxiv.org/abs/2605.04970v1)|null|
@@ -10849,5 +10860,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260507>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260508>back to top</a>)</p>
 

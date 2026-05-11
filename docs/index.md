@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks**|Ismail Aljosevic et.al.|[2605.08059v1](http://arxiv.org/abs/2605.08059v1)|null|
+|**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978v1](http://arxiv.org/abs/2605.07978v1)|null|
+|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
+|**2026-05-08**|**VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network**|Zepeng Yang et.al.|[2605.07552v1](http://arxiv.org/abs/2605.07552v1)|null|
+|**2026-05-08**|**Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference**|Jingyi Liu et.al.|[2605.07354v1](http://arxiv.org/abs/2605.07354v1)|null|
+|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351v1](http://arxiv.org/abs/2605.07351v1)|null|
+|**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192v1](http://arxiv.org/abs/2605.07192v1)|null|
+|**2026-05-07**|**Dr-BA: Separable Optimization for Direct Radar Bundle Adjustment & Localization**|Daniil Lisus et.al.|[2605.07041v1](http://arxiv.org/abs/2605.07041v1)|null|
+|**2026-05-07**|**OneViewAll: Semantic Prior Guided One-View 6D Pose Estimation for Novel Objects**|Yang Luo et.al.|[2605.07023v1](http://arxiv.org/abs/2605.07023v1)|null|
+|**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889v1](http://arxiv.org/abs/2605.06889v1)|null|
 |**2026-05-07**|**EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation**|Ziheng Xi et.al.|[2605.05712v1](http://arxiv.org/abs/2605.05712v1)|null|
 |**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|null|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|null|
@@ -2927,6 +2937,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
+|**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v1](http://arxiv.org/abs/2605.07607v1)|null|
 |**2026-05-06**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v1](http://arxiv.org/abs/2605.04541v1)|null|
 |**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318v1](http://arxiv.org/abs/2604.26318v1)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
@@ -3514,6 +3526,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075v1](http://arxiv.org/abs/2605.08075v1)|null|
+|**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060v1](http://arxiv.org/abs/2605.08060v1)|null|
+|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054v1](http://arxiv.org/abs/2605.08054v1)|null|
+|**2026-05-08**|**STEPS: A Temporal Smooth Error Propagation Solver on the Manifolds for Test-Time Adaptation in Time Series Forecasting**|Jiaqi Liu et.al.|[2605.08005v1](http://arxiv.org/abs/2605.08005v1)|null|
+|**2026-05-08**|**SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere**|Chao Huang et.al.|[2605.08003v1](http://arxiv.org/abs/2605.08003v1)|null|
+|**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846v1](http://arxiv.org/abs/2605.07846v1)|null|
+|**2026-05-08**|**CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms**|Mohammed Majid et.al.|[2605.07764v1](http://arxiv.org/abs/2605.07764v1)|null|
+|**2026-05-08**|**PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN**|Yixiong Jing et.al.|[2605.07687v1](http://arxiv.org/abs/2605.07687v1)|null|
+|**2026-05-08**|**TRACE: Tourism Recommendation with Accountable Citation Evidence**|Zixu Zhao et.al.|[2605.07677v1](http://arxiv.org/abs/2605.07677v1)|null|
+|**2026-05-08**|**FactoryBench: Evaluating Industrial Machine Understanding**|Yanis Merzouki et.al.|[2605.07675v1](http://arxiv.org/abs/2605.07675v1)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667v1](http://arxiv.org/abs/2605.06667v1)|null|
 |**2026-05-07**|**Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings**|Yongxin Zhou et.al.|[2605.06594v1](http://arxiv.org/abs/2605.06594v1)|null|
 |**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591v1](http://arxiv.org/abs/2605.06591v1)|null|

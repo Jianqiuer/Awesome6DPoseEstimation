@@ -1,4 +1,4 @@
-## Updated on 2026.05.10
+## Updated on 2026.05.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks**|Ismail Aljosevic et.al.|[2605.08059v1](http://arxiv.org/abs/2605.08059v1)|null|
+|**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978v1](http://arxiv.org/abs/2605.07978v1)|null|
+|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
+|**2026-05-08**|**VIMCAN: Visual-Inertial 3D Human Pose Estimation with Hybrid Mamba-Cross-Attention Network**|Zepeng Yang et.al.|[2605.07552v1](http://arxiv.org/abs/2605.07552v1)|null|
+|**2026-05-08**|**Task-Oriented Communication for Human Action Understanding via Edge-Cloud Co-Inference**|Jingyi Liu et.al.|[2605.07354v1](http://arxiv.org/abs/2605.07354v1)|null|
+|**2026-05-08**|**Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization**|Miso Lee et.al.|[2605.07351v1](http://arxiv.org/abs/2605.07351v1)|null|
+|**2026-05-08**|**AsyncEvGS: Asynchronous Event-Assisted Gaussian Splatting for Handheld Motion-Blurred Scenes**|Jun Dai et.al.|[2605.07192v1](http://arxiv.org/abs/2605.07192v1)|null|
+|**2026-05-07**|**Dr-BA: Separable Optimization for Direct Radar Bundle Adjustment & Localization**|Daniil Lisus et.al.|[2605.07041v1](http://arxiv.org/abs/2605.07041v1)|null|
+|**2026-05-07**|**OneViewAll: Semantic Prior Guided One-View 6D Pose Estimation for Novel Objects**|Yang Luo et.al.|[2605.07023v1](http://arxiv.org/abs/2605.07023v1)|null|
+|**2026-05-07**|**TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation**|Francisco Chen et.al.|[2605.06889v1](http://arxiv.org/abs/2605.06889v1)|null|
 |**2026-05-07**|**EgoEMG: A Multimodal Egocentric Dataset with Bilateral EMG and Vision for Hand Pose Estimation**|Ziheng Xi et.al.|[2605.05712v1](http://arxiv.org/abs/2605.05712v1)|null|
 |**2026-05-06**|**Syn4D: A Multiview Synthetic 4D Dataset**|Zeren Jiang et.al.|[2605.05207v1](http://arxiv.org/abs/2605.05207v1)|null|
 |**2026-05-05**|**Mix3R: Mixing Feed-forward Reconstruction and Generative 3D Priors for Joint Multi-view Aligned 3D Reconstruction and Pose Estimation**|Siyou Lin et.al.|[2605.03359v1](http://arxiv.org/abs/2605.03359v1)|null|
@@ -2929,12 +2939,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
+|**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v1](http://arxiv.org/abs/2605.07607v1)|null|
 |**2026-05-06**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v1](http://arxiv.org/abs/2605.04541v1)|null|
 |**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318v1](http://arxiv.org/abs/2604.26318v1)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
@@ -3257,7 +3269,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3520,12 +3532,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075v1](http://arxiv.org/abs/2605.08075v1)|null|
+|**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060v1](http://arxiv.org/abs/2605.08060v1)|null|
+|**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054v1](http://arxiv.org/abs/2605.08054v1)|null|
+|**2026-05-08**|**STEPS: A Temporal Smooth Error Propagation Solver on the Manifolds for Test-Time Adaptation in Time Series Forecasting**|Jiaqi Liu et.al.|[2605.08005v1](http://arxiv.org/abs/2605.08005v1)|null|
+|**2026-05-08**|**SphereVAD: Training-Free Video Anomaly Detection via Geodesic Inference on the Unit Hypersphere**|Chao Huang et.al.|[2605.08003v1](http://arxiv.org/abs/2605.08003v1)|null|
+|**2026-05-08**|**BRIDGE: Background Routing and Isolated Discrete Gating for Coarse-Mask Local Editing**|Peilin Xiong et.al.|[2605.07846v1](http://arxiv.org/abs/2605.07846v1)|null|
+|**2026-05-08**|**CommandSwarm: Safety-Aware Natural Language-to-Behavior-Tree Generation for Robotic Swarms**|Mohammed Majid et.al.|[2605.07764v1](http://arxiv.org/abs/2605.07764v1)|null|
+|**2026-05-08**|**PhySPRING: Structure-Preserving Reduction of Physics-Informed Twins via GNN**|Yixiong Jing et.al.|[2605.07687v1](http://arxiv.org/abs/2605.07687v1)|null|
+|**2026-05-08**|**TRACE: Tourism Recommendation with Accountable Citation Evidence**|Zixu Zhao et.al.|[2605.07677v1](http://arxiv.org/abs/2605.07677v1)|null|
+|**2026-05-08**|**FactoryBench: Evaluating Industrial Machine Understanding**|Yanis Merzouki et.al.|[2605.07675v1](http://arxiv.org/abs/2605.07675v1)|null|
 |**2026-05-07**|**ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation**|Omar El Khalifi et.al.|[2605.06667v1](http://arxiv.org/abs/2605.06667v1)|null|
 |**2026-05-07**|**Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings**|Yongxin Zhou et.al.|[2605.06594v1](http://arxiv.org/abs/2605.06594v1)|null|
 |**2026-05-07**|**BRICKS: Compositional Neural Markov Kernels for Zero-Shot Radiation-Matter Simulation**|Richard Hildebrandt et.al.|[2605.06591v1](http://arxiv.org/abs/2605.06591v1)|null|
@@ -10860,5 +10882,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260510>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260511>back to top</a>)</p>
 

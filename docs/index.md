@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.05.11
+## Updated on 2026.05.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**Learning Point Cloud Geometry as a Statistical Manifold: Theory and Practice**|Jinwoo Lee et.al.|[2605.10456v1](http://arxiv.org/abs/2605.10456v1)|null|
+|**2026-05-11**|**HYPERPOSE: Hyperbolic Kinematic Phase-Space Attention for 3D Human Pose Estimation**|Vinduja T. et.al.|[2605.10100v1](http://arxiv.org/abs/2605.10100v1)|null|
+|**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699v1](http://arxiv.org/abs/2605.09699v1)|null|
+|**2026-05-09**|**L2A: Learning to Accumulate Pose History for Accurate 3D Human Pose Estimation**|Zehua Wang et.al.|[2605.08806v1](http://arxiv.org/abs/2605.08806v1)|null|
+|**2026-05-09**|**Egocentric Whole-Body Human Mesh Recovery with Prior-Guided Learning**|Soyeon Na et.al.|[2605.08606v1](http://arxiv.org/abs/2605.08606v1)|null|
+|**2026-05-09**|**Cross-Modal RGB-D Fusion Transformer for 6D Pose Estimation of Non-Cooperative Spacecraft with Stereo-Derived Depth**|Yongliang Zhen et.al.|[2605.08592v1](http://arxiv.org/abs/2605.08592v1)|null|
+|**2026-05-08**|**Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning**|Karolina Źróbek et.al.|[2605.08330v1](http://arxiv.org/abs/2605.08330v1)|null|
 |**2026-05-08**|**6D Pose Estimation via Keypoint Heatmap Regression with RGB-D Residual Neural Networks**|Ismail Aljosevic et.al.|[2605.08059v1](http://arxiv.org/abs/2605.08059v1)|null|
 |**2026-05-08**|**Seeing Across Skies and Streets: Feedforward 3D Reconstruction from Satellite, Drone, and Ground Images**|Qiwei Wang et.al.|[2605.07978v1](http://arxiv.org/abs/2605.07978v1)|null|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
@@ -2939,7 +2946,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
 |**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v1](http://arxiv.org/abs/2605.07607v1)|null|
-|**2026-05-06**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v1](http://arxiv.org/abs/2605.04541v1)|null|
+|**2026-05-11**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v2](http://arxiv.org/abs/2605.04541v2)|null|
 |**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318v1](http://arxiv.org/abs/2604.26318v1)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
 |**2026-04-24**|**Non-Minimal Sampling and Consensus for Prohibitively Large Datasets**|Seong Hun Lee et.al.|[2604.22518v1](http://arxiv.org/abs/2604.22518v1)|null|
@@ -3526,6 +3533,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942v1](http://arxiv.org/abs/2605.10942v1)|null|
+|**2026-05-11**|**AssayBench: An Assay-Level Virtual Cell Benchmark for LLMs and Agents**|Edward De Brouwer et.al.|[2605.10876v1](http://arxiv.org/abs/2605.10876v1)|null|
+|**2026-05-11**|**Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training**|Daniel Dratschuk et.al.|[2605.10835v1](http://arxiv.org/abs/2605.10835v1)|null|
+|**2026-05-11**|**Benchmarking Sensor-Fault Robustness in Forecasting**|Alexander Windmann et.al.|[2605.10822v1](http://arxiv.org/abs/2605.10822v1)|null|
+|**2026-05-11**|**GenMed: A Pairwise Generative Reformulation of Medical Diagnostic Tasks**|Hantao Zhang et.al.|[2605.10645v1](http://arxiv.org/abs/2605.10645v1)|null|
+|**2026-05-11**|**Intrinsic Guardrails: How Semantic Geometry of Personality Interacts with Emergent Misalignment in LLMs**|Krishak Aneja et.al.|[2605.10633v1](http://arxiv.org/abs/2605.10633v1)|null|
+|**2026-05-11**|**Segment Anything with Robust Uncertainty-Accuracy Correlation**|Hongyou Zhou et.al.|[2605.10603v1](http://arxiv.org/abs/2605.10603v1)|null|
+|**2026-05-11**|**FrequencyCT: Frequency domain pseudo-label generation for self-supervised low-dose CT denoising**|Guoquan Wei et.al.|[2605.10583v1](http://arxiv.org/abs/2605.10583v1)|null|
+|**2026-05-11**|**Set-Based Groupwise Registration for Variable-Length, Variable-Contrast Cardiac MRI**|Yi Zhang et.al.|[2605.10571v1](http://arxiv.org/abs/2605.10571v1)|null|
+|**2026-05-11**|**ThreatCore: A Benchmark for Explicit and Implicit Threat Detection**|Davide Bruni et.al.|[2605.10563v1](http://arxiv.org/abs/2605.10563v1)|null|
 |**2026-05-08**|**Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping**|Maryam Maghsoudi et.al.|[2605.08075v1](http://arxiv.org/abs/2605.08075v1)|null|
 |**2026-05-08**|**The Memory Curse: How Expanded Recall Erodes Cooperative Intent in LLM Agents**|Jiayuan Liu et.al.|[2605.08060v1](http://arxiv.org/abs/2605.08060v1)|null|
 |**2026-05-08**|**Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization**|Hanchao Liu et.al.|[2605.08054v1](http://arxiv.org/abs/2605.08054v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.05.12
+## Updated on 2026.05.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,10 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**EgoEV-HandPose: Egocentric 3D Hand Pose Estimation and Gesture Recognition with Stereo Event Cameras**|Luming Wang et.al.|[2605.12297v1](http://arxiv.org/abs/2605.12297v1)|null|
+|**2026-05-12**|**Enhancing Domain Generalization in 3D Human Pose Estimation through Controllable Generative Augmentation**|Xinhao Hu et.al.|[2605.12198v1](http://arxiv.org/abs/2605.12198v1)|null|
+|**2026-05-12**|**4DVGGT-D: 4D Visual Geometry Transformer with Improved Dynamic Depth Estimation**|Ying Zang et.al.|[2605.12027v1](http://arxiv.org/abs/2605.12027v1)|null|
+|**2026-05-12**|**PoseBridge: Bridging the Skeletonization Gap for Zero-Shot Skeleton-Based Action Recognition**|Sanghyeon Lee et.al.|[2605.11497v1](http://arxiv.org/abs/2605.11497v1)|null|
 |**2026-05-11**|**Learning Point Cloud Geometry as a Statistical Manifold: Theory and Practice**|Jinwoo Lee et.al.|[2605.10456v1](http://arxiv.org/abs/2605.10456v1)|null|
 |**2026-05-11**|**HYPERPOSE: Hyperbolic Kinematic Phase-Space Attention for 3D Human Pose Estimation**|Vinduja T. et.al.|[2605.10100v1](http://arxiv.org/abs/2605.10100v1)|null|
 |**2026-05-10**|**A Real-Calibrated Synthetic-First Data Engine**|Yukang Shen et.al.|[2605.09699v1](http://arxiv.org/abs/2605.09699v1)|null|
-|**2026-05-09**|**L2A: Learning to Accumulate Pose History for Accurate 3D Human Pose Estimation**|Zehua Wang et.al.|[2605.08806v1](http://arxiv.org/abs/2605.08806v1)|null|
+|**2026-05-12**|**L2A: Learning to Accumulate Pose History for Accurate 3D Human Pose Estimation**|Zehua Wang et.al.|[2605.08806v2](http://arxiv.org/abs/2605.08806v2)|null|
 |**2026-05-09**|**Egocentric Whole-Body Human Mesh Recovery with Prior-Guided Learning**|Soyeon Na et.al.|[2605.08606v1](http://arxiv.org/abs/2605.08606v1)|null|
 |**2026-05-09**|**Cross-Modal RGB-D Fusion Transformer for 6D Pose Estimation of Non-Cooperative Spacecraft with Stereo-Derived Depth**|Yongliang Zhen et.al.|[2605.08592v1](http://arxiv.org/abs/2605.08592v1)|null|
 |**2026-05-08**|**Hierarchical Prompting with Dual LLM Modules for Robotic Task and Motion Planning**|Karolina Źróbek et.al.|[2605.08330v1](http://arxiv.org/abs/2605.08330v1)|null|
@@ -2946,7 +2950,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3276,12 +3280,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting**|Yixiao Song et.al.|[2605.11520v1](http://arxiv.org/abs/2605.11520v1)|null|
 |**2026-03-24**|**Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors**|Max Marriott-Clarke et.al.|[2603.23356v1](http://arxiv.org/abs/2603.23356v1)|null|
 |**2026-03-20**|**Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19788v1](http://arxiv.org/abs/2603.19788v1)|null|
 |**2026-03-20**|**Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19757v1](http://arxiv.org/abs/2603.19757v1)|null|
@@ -3539,12 +3544,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-12**|**Task-Adaptive Embedding Refinement via Test-time LLM Guidance**|Ariel Gera et.al.|[2605.12487v1](http://arxiv.org/abs/2605.12487v1)|null|
+|**2026-05-12**|**Geometric Factual Recall in Transformers**|Shauli Ravfogel et.al.|[2605.12426v1](http://arxiv.org/abs/2605.12426v1)|null|
+|**2026-05-12**|**Events as Triggers for Behavioral Diversity in Multi-Agent Reinforcement Learning**|Hannes Büchi et.al.|[2605.12388v1](http://arxiv.org/abs/2605.12388v1)|null|
+|**2026-05-12**|**Reinforcing VLAs in Task-Agnostic World Models**|Yucen Wang et.al.|[2605.12334v1](http://arxiv.org/abs/2605.12334v1)|null|
+|**2026-05-12**|**Overview of the MedHopQA track at BioCreative IX: track description, participation and evaluation of systems for multi-hop medical question answering**|Rezarta Islamaj et.al.|[2605.12313v1](http://arxiv.org/abs/2605.12313v1)|null|
+|**2026-05-12**|**Poly-SVC: Polyphony-Aware Singing Voice Conversion with Harmonic Modeling**|Chen Geng et.al.|[2605.12310v1](http://arxiv.org/abs/2605.12310v1)|null|
+|**2026-05-12**|**In-context learning to predict critical transitions in dynamical systems**|Yunus Sevinchan et.al.|[2605.12308v1](http://arxiv.org/abs/2605.12308v1)|null|
+|**2026-05-12**|**Hypernetworks for Dynamic Feature Selection**|Javier Fumanal-Idocin et.al.|[2605.12278v1](http://arxiv.org/abs/2605.12278v1)|null|
+|**2026-05-12**|**SI-Diff: A Framework for Learning Search and High-Precision Insertion with a Force-Domain Diffusion Policy**|Yibo Liu et.al.|[2605.12247v1](http://arxiv.org/abs/2605.12247v1)|null|
+|**2026-05-12**|**PreScam: A Benchmark for Predicting Scam Progression from Early Conversations**|Weixiang Sun et.al.|[2605.12243v1](http://arxiv.org/abs/2605.12243v1)|null|
 |**2026-05-11**|**HarmoWAM: Harmonizing Generalizable and Precise Manipulation via Adaptive World Action Models**|Qiuxuan Feng et.al.|[2605.10942v1](http://arxiv.org/abs/2605.10942v1)|null|
 |**2026-05-11**|**AssayBench: An Assay-Level Virtual Cell Benchmark for LLMs and Agents**|Edward De Brouwer et.al.|[2605.10876v1](http://arxiv.org/abs/2605.10876v1)|null|
 |**2026-05-11**|**Transcoda: End-to-End Zero-Shot Optical Music Recognition via Data-Centric Synthetic Training**|Daniel Dratschuk et.al.|[2605.10835v1](http://arxiv.org/abs/2605.10835v1)|null|
@@ -10899,5 +10914,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260512>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260513>back to top</a>)</p>
 

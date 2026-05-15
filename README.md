@@ -1,4 +1,4 @@
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**SOCC-ICP: Semantics-Assisted Odometry based on Occupancy Grids and ICP**|Johannes Scherer et.al.|[2605.15074v1](http://arxiv.org/abs/2605.15074v1)|null|
+|**2026-05-14**|**FU-MPC: Frontier- and Uncertainty-Aware Model Predictive Control for Efficient and Accurate UAV Exploration with Motorized LiDAR**|Jianping Li et.al.|[2605.14920v1](http://arxiv.org/abs/2605.14920v1)|null|
+|**2026-05-14**|**From Sparse to Dense: Spatio-Temporal Fusion for Multi-View 3D Human Pose Estimation with DenseWarper**|Ling Li et.al.|[2605.14525v1](http://arxiv.org/abs/2605.14525v1)|null|
 |**2026-05-13**|**Rethinking Graph Convolution for 2D-to-3D Hand Pose Lifting**|Chanyoung Kim et.al.|[2605.13604v1](http://arxiv.org/abs/2605.13604v1)|null|
 |**2026-05-13**|**Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.|[2605.13233v1](http://arxiv.org/abs/2605.13233v1)|null|
 |**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151v1](http://arxiv.org/abs/2605.13151v1)|null|
@@ -2956,7 +2959,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3286,7 +3289,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3550,12 +3553,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182v1](http://arxiv.org/abs/2605.15182v1)|null|
+|**2026-05-14**|**Learning from Language Feedback via Variational Policy Distillation**|Yang Li et.al.|[2605.15113v1](http://arxiv.org/abs/2605.15113v1)|null|
+|**2026-05-14**|**TopoPrimer: The Missing Topological Context in Forecasting Models**|Zara Zetlin et.al.|[2605.15035v1](http://arxiv.org/abs/2605.15035v1)|null|
+|**2026-05-14**|**H-OmniStereo: Zero-Shot Omnidirectional Stereo Matching with Heading-Aligned Normal Priors**|Chenxing Jiang et.al.|[2605.14963v1](http://arxiv.org/abs/2605.14963v1)|null|
+|**2026-05-14**|**Tokenizer Fertility and Zero-Shot Performance of Foundation Models on Ukrainian Legal Text: A Comparative Study**|Volodymyr Ovcharov et.al.|[2605.14890v1](http://arxiv.org/abs/2605.14890v1)|null|
+|**2026-05-14**|**Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study**|Marta Robledo-Moreno et.al.|[2605.14845v1](http://arxiv.org/abs/2605.14845v1)|null|
+|**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801v1](http://arxiv.org/abs/2605.14801v1)|null|
+|**2026-05-14**|**Uncertainty Quantification for Large Language Diffusion Models**|Artem Vazhentsev et.al.|[2605.14570v1](http://arxiv.org/abs/2605.14570v1)|null|
+|**2026-05-14**|**Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty**|Tianjue Lin et.al.|[2605.14494v1](http://arxiv.org/abs/2605.14494v1)|null|
+|**2026-05-14**|**DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**|Yize Liu et.al.|[2605.14403v1](http://arxiv.org/abs/2605.14403v1)|null|
 |**2026-05-13**|**Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations**|Zhonghao Li et.al.|[2605.13790v1](http://arxiv.org/abs/2605.13790v1)|null|
 |**2026-05-13**|**ENSEMBITS: an alphabet of protein conformational ensembles**|Kaiwen Shi et.al.|[2605.13789v1](http://arxiv.org/abs/2605.13789v1)|null|
 |**2026-05-13**|**Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety**|Qian Shen et.al.|[2605.13709v1](http://arxiv.org/abs/2605.13709v1)|null|
@@ -10930,5 +10943,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260514>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260515>back to top</a>)</p>
 

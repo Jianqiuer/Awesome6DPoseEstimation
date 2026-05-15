@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.14
+## Updated on 2026.05.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**SOCC-ICP: Semantics-Assisted Odometry based on Occupancy Grids and ICP**|Johannes Scherer et.al.|[2605.15074v1](http://arxiv.org/abs/2605.15074v1)|null|
+|**2026-05-14**|**FU-MPC: Frontier- and Uncertainty-Aware Model Predictive Control for Efficient and Accurate UAV Exploration with Motorized LiDAR**|Jianping Li et.al.|[2605.14920v1](http://arxiv.org/abs/2605.14920v1)|null|
+|**2026-05-14**|**From Sparse to Dense: Spatio-Temporal Fusion for Multi-View 3D Human Pose Estimation with DenseWarper**|Ling Li et.al.|[2605.14525v1](http://arxiv.org/abs/2605.14525v1)|null|
 |**2026-05-13**|**Rethinking Graph Convolution for 2D-to-3D Hand Pose Lifting**|Chanyoung Kim et.al.|[2605.13604v1](http://arxiv.org/abs/2605.13604v1)|null|
 |**2026-05-13**|**Doppler Prompting for Stable mmWave-based Human Pose Estimation**|Shuntian Zheng et.al.|[2605.13233v1](http://arxiv.org/abs/2605.13233v1)|null|
 |**2026-05-13**|**GenCape: Structure-Inductive Generative Modeling for Category-Agnostic Pose Estimation**|Jiyong Rao et.al.|[2605.13151v1](http://arxiv.org/abs/2605.13151v1)|null|
@@ -3544,6 +3547,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182v1](http://arxiv.org/abs/2605.15182v1)|null|
+|**2026-05-14**|**Learning from Language Feedback via Variational Policy Distillation**|Yang Li et.al.|[2605.15113v1](http://arxiv.org/abs/2605.15113v1)|null|
+|**2026-05-14**|**TopoPrimer: The Missing Topological Context in Forecasting Models**|Zara Zetlin et.al.|[2605.15035v1](http://arxiv.org/abs/2605.15035v1)|null|
+|**2026-05-14**|**H-OmniStereo: Zero-Shot Omnidirectional Stereo Matching with Heading-Aligned Normal Priors**|Chenxing Jiang et.al.|[2605.14963v1](http://arxiv.org/abs/2605.14963v1)|null|
+|**2026-05-14**|**Tokenizer Fertility and Zero-Shot Performance of Foundation Models on Ukrainian Legal Text: A Comparative Study**|Volodymyr Ovcharov et.al.|[2605.14890v1](http://arxiv.org/abs/2605.14890v1)|null|
+|**2026-05-14**|**Exploring Vision-Language Models for Online Signature Verification: A Zero-Shot Capability Study**|Marta Robledo-Moreno et.al.|[2605.14845v1](http://arxiv.org/abs/2605.14845v1)|null|
+|**2026-05-14**|**Exploring Bottlenecks in VLM-LLM Navigation: How 3D Scene Understanding Capability Impacts Zero-Shot VLN**|Ziyi Xia et.al.|[2605.14801v1](http://arxiv.org/abs/2605.14801v1)|null|
+|**2026-05-14**|**Uncertainty Quantification for Large Language Diffusion Models**|Artem Vazhentsev et.al.|[2605.14570v1](http://arxiv.org/abs/2605.14570v1)|null|
+|**2026-05-14**|**Learning Scenario Reduction for Two-Stage Robust Optimization with Discrete Uncertainty**|Tianjue Lin et.al.|[2605.14494v1](http://arxiv.org/abs/2605.14494v1)|null|
+|**2026-05-14**|**DermAgent: A Self-Reflective Agentic System for Dermatological Image Analysis with Multi-Tool Reasoning and Traceable Decision-Making**|Yize Liu et.al.|[2605.14403v1](http://arxiv.org/abs/2605.14403v1)|null|
 |**2026-05-13**|**Di-BiLPS: Denoising induced Bidirectional Latent-PDE-Solver under Sparse Observations**|Zhonghao Li et.al.|[2605.13790v1](http://arxiv.org/abs/2605.13790v1)|null|
 |**2026-05-13**|**ENSEMBITS: an alphabet of protein conformational ensembles**|Kaiwen Shi et.al.|[2605.13789v1](http://arxiv.org/abs/2605.13789v1)|null|
 |**2026-05-13**|**Children's English Reading Story Generation via Supervised Fine-Tuning of Compact LLMs with Controllable Difficulty and Safety**|Qian Shen et.al.|[2605.13709v1](http://arxiv.org/abs/2605.13709v1)|null|

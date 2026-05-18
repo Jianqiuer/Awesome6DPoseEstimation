@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-15**|**IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation**|Yuqi Wu et.al.|[2605.16258v1](http://arxiv.org/abs/2605.16258v1)|null|
+|**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828v1](http://arxiv.org/abs/2605.15828v1)|null|
+|**2026-05-15**|**Cross-Modal Registration Between 3D and 2D Fingerprints via Pose-Aware Unwrapping and Point-Cloud Fusion**|Xiongjun Guan et.al.|[2605.15796v1](http://arxiv.org/abs/2605.15796v1)|null|
+|**2026-05-15**|**DecomPose: Disentangling Cross-Category Optimization Contention for Category-Level 6D Object Pose Estimation**|Yifan Gao et.al.|[2605.15728v1](http://arxiv.org/abs/2605.15728v1)|null|
+|**2026-05-15**|**Unsupervised 3D Human Pose Estimation via Conditional Multi-view Ancestral Sampling**|Ryohei Goto et.al.|[2605.15583v1](http://arxiv.org/abs/2605.15583v1)|null|
 |**2026-05-14**|**SOCC-ICP: Semantics-Assisted Odometry based on Occupancy Grids and ICP**|Johannes Scherer et.al.|[2605.15074v1](http://arxiv.org/abs/2605.15074v1)|null|
 |**2026-05-14**|**FU-MPC: Frontier- and Uncertainty-Aware Model Predictive Control for Efficient and Accurate UAV Exploration with Motorized LiDAR**|Jianping Li et.al.|[2605.14920v1](http://arxiv.org/abs/2605.14920v1)|null|
 |**2026-05-14**|**From Sparse to Dense: Spatio-Temporal Fusion for Multi-View 3D Human Pose Estimation with DenseWarper**|Ling Li et.al.|[2605.14525v1](http://arxiv.org/abs/2605.14525v1)|null|
@@ -3559,6 +3564,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-15**|**FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast**|Igor Bogdanov et.al.|[2605.16233v1](http://arxiv.org/abs/2605.16233v1)|null|
+|**2026-05-15**|**MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement**|Dayong Ren et.al.|[2605.16081v1](http://arxiv.org/abs/2605.16081v1)|null|
+|**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|null|
+|**2026-05-15**|**Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models**|Fabian Morelli et.al.|[2605.15961v1](http://arxiv.org/abs/2605.15961v1)|null|
+|**2026-05-15**|**Dynamic Plasma Shape Control with Arbitrary Sensor Subsets**|D. Sorokin et.al.|[2605.15935v1](http://arxiv.org/abs/2605.15935v1)|null|
+|**2026-05-15**|**Martingale Neural Operators: Learning Stochastic Marginals via Doob-Meyer Factorization**|Kai Hidajat et.al.|[2605.15806v1](http://arxiv.org/abs/2605.15806v1)|null|
+|**2026-05-15**|**GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions**|Junho Kim et.al.|[2605.15764v1](http://arxiv.org/abs/2605.15764v1)|null|
+|**2026-05-15**|**Learn2Splat: Extending the Horizon of Learned 3DGS Optimization**|Naama Pearl et.al.|[2605.15760v1](http://arxiv.org/abs/2605.15760v1)|null|
+|**2026-05-15**|**Forecasting megaelectron-volt electron flux in the Earth's outer radiation belt using supervised machine learning algorithms and a timeseries foundation model**|Rungployphan Kieokaew et.al.|[2605.15752v1](http://arxiv.org/abs/2605.15752v1)|null|
+|**2026-05-15**|**3D Segmentation Using Viewpoint-Dependent Spatial Relationships**|Ayaka Nanri et.al.|[2605.15708v1](http://arxiv.org/abs/2605.15708v1)|null|
 |**2026-05-14**|**Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video**|Yifan Wang et.al.|[2605.15182v1](http://arxiv.org/abs/2605.15182v1)|null|
 |**2026-05-14**|**Learning from Language Feedback via Variational Policy Distillation**|Yang Li et.al.|[2605.15113v1](http://arxiv.org/abs/2605.15113v1)|null|
 |**2026-05-14**|**TopoPrimer: The Missing Topological Context in Forecasting Models**|Zara Zetlin et.al.|[2605.15035v1](http://arxiv.org/abs/2605.15035v1)|null|

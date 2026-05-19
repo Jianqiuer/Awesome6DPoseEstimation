@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.05.18
+## Updated on 2026.05.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|
+|**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|
+|**2026-05-18**|**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**|Tianhao Han et.al.|[2605.17742v1](http://arxiv.org/abs/2605.17742v1)|null|
+|**2026-05-17**|**LongDPM: Overlap-Aware 4D Reconstruction from Long Monocular Videos**|Chenyi Xu et.al.|[2605.17303v1](http://arxiv.org/abs/2605.17303v1)|null|
+|**2026-05-16**|**Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants**|Divya Joshi et.al.|[2605.17120v1](http://arxiv.org/abs/2605.17120v1)|null|
+|**2026-05-16**|**Generalizable and Actionable Parts Pose Estimation with Symmetry Annotation-Free Learning Strategy**|Wenxiao Chen et.al.|[2605.17033v1](http://arxiv.org/abs/2605.17033v1)|null|
+|**2026-05-16**|**Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction**|Kejun Ren et.al.|[2605.16981v1](http://arxiv.org/abs/2605.16981v1)|null|
 |**2026-05-15**|**IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation**|Yuqi Wu et.al.|[2605.16258v1](http://arxiv.org/abs/2605.16258v1)|null|
 |**2026-05-15**|**Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer**|Yipu Zhang et.al.|[2605.15828v1](http://arxiv.org/abs/2605.15828v1)|null|
 |**2026-05-15**|**Cross-Modal Registration Between 3D and 2D Fingerprints via Pose-Aware Unwrapping and Point-Cloud Fusion**|Xiongjun Guan et.al.|[2605.15796v1](http://arxiv.org/abs/2605.15796v1)|null|
@@ -3552,6 +3559,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-18**|**Estimating Item Difficulty with Large Language Models as Experts**|Diana Kolesnikova et.al.|[2605.18562v1](http://arxiv.org/abs/2605.18562v1)|null|
+|**2026-05-18**|**PERL: Parameter Efficient Reasoning in CLIP Latent Space**|Simone Carnemolla et.al.|[2605.18464v1](http://arxiv.org/abs/2605.18464v1)|null|
+|**2026-05-18**|**Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models**|Nicola Farronato et.al.|[2605.18413v1](http://arxiv.org/abs/2605.18413v1)|null|
+|**2026-05-18**|**Generating Physically Consistent Molecules with Energy-Based Models**|Christoph Griesbacher et.al.|[2605.18381v1](http://arxiv.org/abs/2605.18381v1)|null|
+|**2026-05-18**|**DANTE: Physics-Informed Neural Operator for DAS-to-Velocity Waveform Reconstruction Without Co-located Seismometers**|Isao Kurosawa et.al.|[2605.18375v1](http://arxiv.org/abs/2605.18375v1)|null|
+|**2026-05-18**|**SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning**|Pawat Chunhachatrachai et.al.|[2605.18209v1](http://arxiv.org/abs/2605.18209v1)|null|
+|**2026-05-18**|**Beyond the Cartesian Illusion: Testing Two-Stage Multi-Modal Theory of Mind under Perceptual Bottlenecks**|Yajing Zhou et.al.|[2605.18194v1](http://arxiv.org/abs/2605.18194v1)|null|
+|**2026-05-18**|**MusicDET: Zero-Shot AI-Generated Music Detection**|Chaolei Han et.al.|[2605.18072v1](http://arxiv.org/abs/2605.18072v1)|null|
+|**2026-05-18**|**What Matters for Grocery Product Retrieval with Open Source Vision Language Models**|Emmanuel G. Maminta et.al.|[2605.18029v1](http://arxiv.org/abs/2605.18029v1)|null|
+|**2026-05-18**|**Functionalization via Structure Completion and Motion Rectification**|Mingrui Zhao et.al.|[2605.18010v1](http://arxiv.org/abs/2605.18010v1)|null|
 |**2026-05-15**|**FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast**|Igor Bogdanov et.al.|[2605.16233v1](http://arxiv.org/abs/2605.16233v1)|null|
 |**2026-05-15**|**MIND: Decoupling Model-Induced Label Noise via Latent Manifold Disentanglement**|Dayong Ren et.al.|[2605.16081v1](http://arxiv.org/abs/2605.16081v1)|null|
 |**2026-05-15**|**WorldVLN: Autoregressive World Action Model for Aerial Vision-Language Navigation**|Baining Zhao et.al.|[2605.15964v1](http://arxiv.org/abs/2605.15964v1)|null|

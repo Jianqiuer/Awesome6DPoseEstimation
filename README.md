@@ -1,4 +1,4 @@
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797v1](http://arxiv.org/abs/2605.19797v1)|null|
+|**2026-05-19**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v1](http://arxiv.org/abs/2605.19649v1)|null|
+|**2026-05-19**|**Component-Aware Structure-Preserving Style Transfer for Satellite Sim2Real 6D Pose Estimation**|Yonglong Zhang et.al.|[2605.19624v1](http://arxiv.org/abs/2605.19624v1)|null|
+|**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556v1](http://arxiv.org/abs/2605.19556v1)|null|
 |**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|
 |**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|
 |**2026-05-18**|**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**|Tianhao Han et.al.|[2605.17742v1](http://arxiv.org/abs/2605.17742v1)|null|
@@ -2971,7 +2975,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260520>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3301,7 +3305,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260520>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3565,12 +3569,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260520>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-19**|**VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving**|Zhefan Xu et.al.|[2605.20082v1](http://arxiv.org/abs/2605.20082v1)|null|
+|**2026-05-19**|**Text-to-SPARQL Generation with Reinforcement Learning: A GRPO-based Approach on DBLP**|Jann Pfeifer et.al.|[2605.20066v1](http://arxiv.org/abs/2605.20066v1)|null|
+|**2026-05-19**|**RECIPE: Procedural Planning via Grounding in Instructional Video**|Luigi Seminara et.al.|[2605.19976v1](http://arxiv.org/abs/2605.19976v1)|null|
+|**2026-05-19**|**TravExplorer: Cross-Floor Embodied Exploration via Traversability-Aware 3-D Planning**|Han Zheng et.al.|[2605.19958v1](http://arxiv.org/abs/2605.19958v1)|null|
+|**2026-05-19**|**Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models**|Jia-Wei Hai et.al.|[2605.19956v1](http://arxiv.org/abs/2605.19956v1)|null|
+|**2026-05-19**|**Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models**|Hengfei Wang et.al.|[2605.19859v1](http://arxiv.org/abs/2605.19859v1)|null|
+|**2026-05-19**|**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**|Giacomo Astolfi et.al.|[2605.19855v1](http://arxiv.org/abs/2605.19855v1)|null|
+|**2026-05-19**|**CADENet: Condition-Adaptive Asynchronous Dual-Stream Enhancement Network for Adverse Weather Perception in Autonomous Driving**|Sherif Khairy et.al.|[2605.19837v1](http://arxiv.org/abs/2605.19837v1)|null|
+|**2026-05-19**|**Fast 4D Mesh Generation by Spatio-Temporal Attention Chains**|Dvir Samuel et.al.|[2605.19786v1](http://arxiv.org/abs/2605.19786v1)|null|
+|**2026-05-19**|**Prior Knowledge or Search? A Study of LLM Agents in Hardware-Aware Code Optimization**|Dmitry Redko et.al.|[2605.19782v1](http://arxiv.org/abs/2605.19782v1)|null|
 |**2026-05-18**|**Estimating Item Difficulty with Large Language Models as Experts**|Diana Kolesnikova et.al.|[2605.18562v1](http://arxiv.org/abs/2605.18562v1)|null|
 |**2026-05-18**|**PERL: Parameter Efficient Reasoning in CLIP Latent Space**|Simone Carnemolla et.al.|[2605.18464v1](http://arxiv.org/abs/2605.18464v1)|null|
 |**2026-05-18**|**Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models**|Nicola Farronato et.al.|[2605.18413v1](http://arxiv.org/abs/2605.18413v1)|null|
@@ -10975,5 +10989,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260519>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260520>back to top</a>)</p>
 

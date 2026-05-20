@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.05.19
+## Updated on 2026.05.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797v1](http://arxiv.org/abs/2605.19797v1)|null|
+|**2026-05-19**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v1](http://arxiv.org/abs/2605.19649v1)|null|
+|**2026-05-19**|**Component-Aware Structure-Preserving Style Transfer for Satellite Sim2Real 6D Pose Estimation**|Yonglong Zhang et.al.|[2605.19624v1](http://arxiv.org/abs/2605.19624v1)|null|
+|**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556v1](http://arxiv.org/abs/2605.19556v1)|null|
 |**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|
 |**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|
 |**2026-05-18**|**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**|Tianhao Han et.al.|[2605.17742v1](http://arxiv.org/abs/2605.17742v1)|null|
@@ -3559,6 +3563,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving**|Zhefan Xu et.al.|[2605.20082v1](http://arxiv.org/abs/2605.20082v1)|null|
+|**2026-05-19**|**Text-to-SPARQL Generation with Reinforcement Learning: A GRPO-based Approach on DBLP**|Jann Pfeifer et.al.|[2605.20066v1](http://arxiv.org/abs/2605.20066v1)|null|
+|**2026-05-19**|**RECIPE: Procedural Planning via Grounding in Instructional Video**|Luigi Seminara et.al.|[2605.19976v1](http://arxiv.org/abs/2605.19976v1)|null|
+|**2026-05-19**|**TravExplorer: Cross-Floor Embodied Exploration via Traversability-Aware 3-D Planning**|Han Zheng et.al.|[2605.19958v1](http://arxiv.org/abs/2605.19958v1)|null|
+|**2026-05-19**|**Towards Fine-Grained Robustness: Attention-Guided Test-Time Prompt Tuning for Vision-Language Models**|Jia-Wei Hai et.al.|[2605.19956v1](http://arxiv.org/abs/2605.19956v1)|null|
+|**2026-05-19**|**Eyes on VLM: Benchmarking Gaze Following and Social Gaze Prediction in Vision Language Models**|Hengfei Wang et.al.|[2605.19859v1](http://arxiv.org/abs/2605.19859v1)|null|
+|**2026-05-19**|**A Framework for Evaluating Zero-Shot Image Generation in Concept-based Explainability**|Giacomo Astolfi et.al.|[2605.19855v1](http://arxiv.org/abs/2605.19855v1)|null|
+|**2026-05-19**|**CADENet: Condition-Adaptive Asynchronous Dual-Stream Enhancement Network for Adverse Weather Perception in Autonomous Driving**|Sherif Khairy et.al.|[2605.19837v1](http://arxiv.org/abs/2605.19837v1)|null|
+|**2026-05-19**|**Fast 4D Mesh Generation by Spatio-Temporal Attention Chains**|Dvir Samuel et.al.|[2605.19786v1](http://arxiv.org/abs/2605.19786v1)|null|
+|**2026-05-19**|**Prior Knowledge or Search? A Study of LLM Agents in Hardware-Aware Code Optimization**|Dmitry Redko et.al.|[2605.19782v1](http://arxiv.org/abs/2605.19782v1)|null|
 |**2026-05-18**|**Estimating Item Difficulty with Large Language Models as Experts**|Diana Kolesnikova et.al.|[2605.18562v1](http://arxiv.org/abs/2605.18562v1)|null|
 |**2026-05-18**|**PERL: Parameter Efficient Reasoning in CLIP Latent Space**|Simone Carnemolla et.al.|[2605.18464v1](http://arxiv.org/abs/2605.18464v1)|null|
 |**2026-05-18**|**Cracks in the Foundation: A Civil Infrastructure Dataset to Challenge Vision Foundation Models**|Nicola Farronato et.al.|[2605.18413v1](http://arxiv.org/abs/2605.18413v1)|null|

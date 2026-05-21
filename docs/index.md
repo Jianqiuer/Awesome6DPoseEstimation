@@ -2,14 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.05.20
+## Updated on 2026.05.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|
+|**2026-05-20**|**CHOIR: Contact-aware 4D Hand-Object Interaction Reconstruction**|Hao Xu et.al.|[2605.20992v1](http://arxiv.org/abs/2605.20992v1)|null|
+|**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889v1](http://arxiv.org/abs/2605.20889v1)|null|
+|**2026-05-19**|**VBT-MPC: Vision-Based Tactile MPC for Contour Following**|Edison Velasco-Sanchez et.al.|[2605.20392v1](http://arxiv.org/abs/2605.20392v1)|null|
+|**2026-05-19**|**How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction**|Sejoon Jun et.al.|[2605.20388v1](http://arxiv.org/abs/2605.20388v1)|null|
 |**2026-05-19**|**Depth2Pose: A Pose-Based Benchmark for Monocular Depth Estimation without Ground-Truth Depth**|Viktor Kocur et.al.|[2605.19797v1](http://arxiv.org/abs/2605.19797v1)|null|
-|**2026-05-19**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v1](http://arxiv.org/abs/2605.19649v1)|null|
-|**2026-05-19**|**Component-Aware Structure-Preserving Style Transfer for Satellite Sim2Real 6D Pose Estimation**|Yonglong Zhang et.al.|[2605.19624v1](http://arxiv.org/abs/2605.19624v1)|null|
+|**2026-05-20**|**CAD-Free Learning of Spacecraft Pose Estimators via NeRF-Based Augmentations**|Antoine Legrand et.al.|[2605.19649v2](http://arxiv.org/abs/2605.19649v2)|null|
+|**2026-05-20**|**Component-Aware Structure-Preserving Style Transfer for Satellite Visual Sim2Real Data Construction**|Zongwu Xie et.al.|[2605.19624v2](http://arxiv.org/abs/2605.19624v2)|null|
 |**2026-05-19**|**EpiDiffVO: Geometry-Aware Epipolar Diffusion for Robust Visual Odometry**|Prateeth Rao et.al.|[2605.19556v1](http://arxiv.org/abs/2605.19556v1)|null|
 |**2026-05-18**|**StableHand: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video**|Huajian Zeng et.al.|[2605.18553v1](http://arxiv.org/abs/2605.18553v1)|null|
 |**2026-05-18**|**Efficient Sparse-to-Dense Visual Localization via Compact Gaussian Scene Representation and Accelerated Dense Pose Estimation**|Zizhuo Li et.al.|[2605.17777v1](http://arxiv.org/abs/2605.17777v1)|null|
@@ -2973,6 +2978,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-19**|**PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation**|Lu He et.al.|[2605.20274v1](http://arxiv.org/abs/2605.20274v1)|null|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
 |**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v1](http://arxiv.org/abs/2605.07607v1)|null|
 |**2026-05-11**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v2](http://arxiv.org/abs/2605.04541v2)|null|
@@ -3301,6 +3307,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors**|Siqi Wei et.al.|[2605.20737v1](http://arxiv.org/abs/2605.20737v1)|null|
 |**2026-05-12**|**PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting**|Yixiao Song et.al.|[2605.11520v1](http://arxiv.org/abs/2605.11520v1)|null|
 |**2026-03-24**|**Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors**|Max Marriott-Clarke et.al.|[2603.23356v1](http://arxiv.org/abs/2603.23356v1)|null|
 |**2026-03-20**|**Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation**|Yifei Zhao et.al.|[2603.19788v1](http://arxiv.org/abs/2603.19788v1)|null|
@@ -3563,6 +3570,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483v1](http://arxiv.org/abs/2605.21483v1)|null|
+|**2026-05-20**|**STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval**|Miaoge Li et.al.|[2605.21261v1](http://arxiv.org/abs/2605.21261v1)|null|
+|**2026-05-20**|**To Select or not to Select, that is the Question: Distilling Robot Skill Prediction into a Small Ensemble**|Haechan Mark Bong et.al.|[2605.21242v1](http://arxiv.org/abs/2605.21242v1)|null|
+|**2026-05-20**|**Point Cloud Sequence Encoding for Material-conditioned Graph Network Simulators**|Philipp Dahlinger et.al.|[2605.20978v1](http://arxiv.org/abs/2605.20978v1)|null|
+|**2026-05-20**|**NeighborDiv: Training-free Zero-shot Generalist Graph Anomaly Detection via Neighbor Diversity**|Kaifeng Wei et.al.|[2605.20879v1](http://arxiv.org/abs/2605.20879v1)|null|
+|**2026-05-20**|**Refining and Reusing Annotation Guidelines for LLM Annotation**|Kon Woo Kim et.al.|[2605.20809v1](http://arxiv.org/abs/2605.20809v1)|null|
+|**2026-05-20**|**IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools**|Rongbin Tan et.al.|[2605.20682v1](http://arxiv.org/abs/2605.20682v1)|null|
+|**2026-05-20**|**Jointly Learning Predicates and Actions Enables Zero-Shot Skill Composition**|Benedict Quartey et.al.|[2605.20648v1](http://arxiv.org/abs/2605.20648v1)|null|
+|**2026-05-20**|**Divide-Prompt-Refine: a Training-Free, Structure-Aware Framework for Biomedical Abstract Generation**|Sylvey Lin et.al.|[2605.20628v1](http://arxiv.org/abs/2605.20628v1)|null|
+|**2026-05-20**|**Accelerating Video Inverse Problem Solvers with Autoregressive Diffusion Models**|Taesung Kwon et.al.|[2605.20624v1](http://arxiv.org/abs/2605.20624v1)|null|
 |**2026-05-19**|**VL-DPO: Vision-Language-Guided Finetuning for Preference-Aligned Autonomous Driving**|Zhefan Xu et.al.|[2605.20082v1](http://arxiv.org/abs/2605.20082v1)|null|
 |**2026-05-19**|**Text-to-SPARQL Generation with Reinforcement Learning: A GRPO-based Approach on DBLP**|Jann Pfeifer et.al.|[2605.20066v1](http://arxiv.org/abs/2605.20066v1)|null|
 |**2026-05-19**|**RECIPE: Procedural Planning via Grounding in Instructional Video**|Luigi Seminara et.al.|[2605.19976v1](http://arxiv.org/abs/2605.19976v1)|null|

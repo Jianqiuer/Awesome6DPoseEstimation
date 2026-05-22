@@ -1,4 +1,4 @@
-## Updated on 2026.05.21
+## Updated on 2026.05.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,8 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|null|
+|**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467v1](http://arxiv.org/abs/2605.22467v1)|null|
+|**2026-05-21**|**REACH: Hand Pose Estimation from Room Corners**|Shu Nakamura et.al.|[2605.22231v1](http://arxiv.org/abs/2605.22231v1)|null|
+|**2026-05-21**|**Bounding-Box Trajectories Matter for Video Anomaly Detection**|Inpyo Song et.al.|[2605.21957v1](http://arxiv.org/abs/2605.21957v1)|null|
 |**2026-05-20**|**AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone, using edge computing**|Lauhitya Reddy et.al.|[2605.21421v1](http://arxiv.org/abs/2605.21421v1)|null|
-|**2026-05-20**|**CHOIR: Contact-aware 4D Hand-Object Interaction Reconstruction**|Hao Xu et.al.|[2605.20992v1](http://arxiv.org/abs/2605.20992v1)|null|
+|**2026-05-21**|**CHOIR: Contact-aware 4D Hand-Object Interaction Reconstruction**|Hao Xu et.al.|[2605.20992v2](http://arxiv.org/abs/2605.20992v2)|null|
 |**2026-05-20**|**Map-Mono-Ego: Map-Grounded Global Human Pose Estimation from Monocular Egocentric Video**|Hiroyuki Deguchi et.al.|[2605.20889v1](http://arxiv.org/abs/2605.20889v1)|null|
 |**2026-05-19**|**VBT-MPC: Vision-Based Tactile MPC for Contour Following**|Edison Velasco-Sanchez et.al.|[2605.20392v1](http://arxiv.org/abs/2605.20392v1)|null|
 |**2026-05-19**|**How You Move Tells What You'll Do: Trajectory-Conditioned Egocentric Prediction**|Sejoon Jun et.al.|[2605.20388v1](http://arxiv.org/abs/2605.20388v1)|null|
@@ -2980,7 +2984,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260522>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3311,7 +3315,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260522>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3576,12 +3580,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260522>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-21**|**Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration**|Lily Goli et.al.|[2605.22814v1](http://arxiv.org/abs/2605.22814v1)|null|
+|**2026-05-21**|**Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning**|Ismail Geles et.al.|[2605.22748v1](http://arxiv.org/abs/2605.22748v1)|null|
+|**2026-05-21**|**AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild**|Baiyu Chen et.al.|[2605.22715v1](http://arxiv.org/abs/2605.22715v1)|null|
+|**2026-05-21**|**Cross-Domain Human Action Recognition from Multiview Motion and Textual Descriptions**|Yannick Porto et.al.|[2605.22697v1](http://arxiv.org/abs/2605.22697v1)|null|
+|**2026-05-21**|**More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts**|Víctor Yeste et.al.|[2605.22641v1](http://arxiv.org/abs/2605.22641v1)|null|
+|**2026-05-21**|**H-Flow: Self-supervised Human Scene Flow via Physics-inspired Joint Multi-modal Learning**|Zhanbo Huang et.al.|[2605.22629v1](http://arxiv.org/abs/2605.22629v1)|null|
+|**2026-05-21**|**Factored Diffusion Policies:Compositionally Generalized Robot Control with a Single Score Network**|Sayan Mitra et.al.|[2605.22596v1](http://arxiv.org/abs/2605.22596v1)|null|
+|**2026-05-21**|**Supervised Classification Heads as Semantic Prototypes: Unlocking Vision-Language Alignment via Weight Recycling**|David Méndez et.al.|[2605.22484v1](http://arxiv.org/abs/2605.22484v1)|null|
+|**2026-05-21**|**Matching with Deliberation: Test-Time Evolutionary Hierarchical Multi-Agents for Zero-Shot Compositional Image Retrieval**|Xingtian Pei et.al.|[2605.22478v1](http://arxiv.org/abs/2605.22478v1)|null|
+|**2026-05-21**|**GazePrior: Zero-Shot AR/VR Eye Tracking via Learned 3D Gaze Reconstruction**|Corentin Dumery et.al.|[2605.22359v1](http://arxiv.org/abs/2605.22359v1)|null|
 |**2026-05-20**|**Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction**|Tilman Tröster et.al.|[2605.21483v1](http://arxiv.org/abs/2605.21483v1)|null|
 |**2026-05-20**|**STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval**|Miaoge Li et.al.|[2605.21261v1](http://arxiv.org/abs/2605.21261v1)|null|
 |**2026-05-20**|**To Select or not to Select, that is the Question: Distilling Robot Skill Prediction into a Small Ensemble**|Haechan Mark Bong et.al.|[2605.21242v1](http://arxiv.org/abs/2605.21242v1)|null|
@@ -11006,5 +11020,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260522>back to top</a>)</p>
 

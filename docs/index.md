@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**ComPose: When to Trust Hands for Object Pose Tracking**|Jisu Shin et.al.|[2605.23523v1](http://arxiv.org/abs/2605.23523v1)|null|
 |**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|null|
 |**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467v1](http://arxiv.org/abs/2605.22467v1)|null|
 |**2026-05-21**|**REACH: Hand Pose Estimation from Room Corners**|Shu Nakamura et.al.|[2605.22231v1](http://arxiv.org/abs/2605.22231v1)|null|
@@ -3574,6 +3575,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-22**|**Leveraging Foundation Models for Causal Generative Modeling**|Aneesh Komanduri et.al.|[2605.23861v1](http://arxiv.org/abs/2605.23861v1)|null|
+|**2026-05-22**|**Exploring deep learning for Event-Based Saliency Prediction with a Transformer-based model**|Romaric Mazna et.al.|[2605.23790v1](http://arxiv.org/abs/2605.23790v1)|null|
+|**2026-05-22**|**Vision-Based Agile Landing on Turbulent Waters**|Dimosthenis Angelis et.al.|[2605.23717v1](http://arxiv.org/abs/2605.23717v1)|null|
+|**2026-05-22**|**One Policy, Infinite NPCs: Persona-Traceable Shared RL Policies for Scalable Game Agents**|Yoosung Hong et.al.|[2605.23652v1](http://arxiv.org/abs/2605.23652v1)|null|
+|**2026-05-22**|**SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models**|Zizhao Tong et.al.|[2605.23345v1](http://arxiv.org/abs/2605.23345v1)|null|
+|**2026-05-22**|**Spatio-Temporal Similarity Volume Aggregation for Open-Vocabulary Action Recognition**|Yerim So et.al.|[2605.23288v1](http://arxiv.org/abs/2605.23288v1)|null|
+|**2026-05-22**|**When Symptoms Are Not Enough: Evidence-Weighting Patterns in Large Language Model Psychiatric Screening**|Jianfeng Zhu et.al.|[2605.23148v1](http://arxiv.org/abs/2605.23148v1)|null|
+|**2026-05-22**|**STAMBRIDGE: Spectral-Temporal Amplitude-aware Mid-Feature Bridge for EEG Visual Decoding**|Jiahe Meng et.al.|[2605.23137v1](http://arxiv.org/abs/2605.23137v1)|null|
+|**2026-05-21**|**The TIME Machine: On The Power of Motion for Efficient Perception**|Mantas Skackauskas et.al.|[2605.23045v1](http://arxiv.org/abs/2605.23045v1)|null|
+|**2026-05-21**|**Can AI Guess What You Know? Performance Comparison of Large Language Models for Human Domain Knowledge Estimation From Communication Logs**|Ko Watanabe et.al.|[2605.22971v1](http://arxiv.org/abs/2605.22971v1)|null|
 |**2026-05-21**|**Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration**|Lily Goli et.al.|[2605.22814v1](http://arxiv.org/abs/2605.22814v1)|null|
 |**2026-05-21**|**Superhuman Safe and Agile Racing through Multi-Agent Reinforcement Learning**|Ismail Geles et.al.|[2605.22748v1](http://arxiv.org/abs/2605.22748v1)|null|
 |**2026-05-21**|**AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild**|Baiyu Chen et.al.|[2605.22715v1](http://arxiv.org/abs/2605.22715v1)|null|

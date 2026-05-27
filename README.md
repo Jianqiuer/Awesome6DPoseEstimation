@@ -1,4 +1,4 @@
-## Updated on 2026.05.25
+## Updated on 2026.05.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-25**|**SurfSurg6D: Geometry Consistent Dense Correspondence for Textureless Surgical Instrument Pose Estimation**|Daiyun Shen et.al.|[2605.25598v1](http://arxiv.org/abs/2605.25598v1)|null|
+|**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553v1](http://arxiv.org/abs/2605.25553v1)|null|
+|**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
+|**2026-05-23**|**How Noisy Poses Break Inverse Dynamics: Analysis and Mitigation for Video-Based Joint Torque Estimation**|Donghyun Kim et.al.|[2605.24776v1](http://arxiv.org/abs/2605.24776v1)|null|
 |**2026-05-22**|**ComPose: When to Trust Hands for Object Pose Tracking**|Jisu Shin et.al.|[2605.23523v1](http://arxiv.org/abs/2605.23523v1)|null|
 |**2026-05-21**|**Cambrian-P: Pose-Grounded Video Understanding**|Jihan Yang et.al.|[2605.22819v1](http://arxiv.org/abs/2605.22819v1)|null|
 |**2026-05-21**|**SADGE: Structure and Appearance Domain Gap Estimation of Synthetic and Real Data**|Patryk Bartkowiak et.al.|[2605.22467v1](http://arxiv.org/abs/2605.22467v1)|null|
@@ -2985,15 +2989,17 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
+|**2026-05-23**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395v1](http://arxiv.org/abs/2605.24395v1)|null|
 |**2026-05-19**|**PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation**|Lu He et.al.|[2605.20274v1](http://arxiv.org/abs/2605.20274v1)|null|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
-|**2026-05-08**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v1](http://arxiv.org/abs/2605.07607v1)|null|
+|**2026-05-25**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v2](http://arxiv.org/abs/2605.07607v2)|null|
 |**2026-05-11**|**Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection**|Muyao Peng et.al.|[2605.04541v2](http://arxiv.org/abs/2605.04541v2)|null|
 |**2026-04-29**|**Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets**|Kuo-Liang Chung et.al.|[2604.26318v1](http://arxiv.org/abs/2604.26318v1)|null|
 |**2026-04-27**|**Point Cloud Registration for Fusion between SPECT MPI and CTA Images**|Ni Yao et.al.|[2604.24524v1](http://arxiv.org/abs/2604.24524v1)|null|
@@ -3316,7 +3322,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3581,12 +3587,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-26**|**From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models**|Yuchen Liang et.al.|[2605.27352v1](http://arxiv.org/abs/2605.27352v1)|null|
+|**2026-05-26**|**Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini**|Madhuri Shanbhogue et.al.|[2605.27295v1](http://arxiv.org/abs/2605.27295v1)|null|
+|**2026-05-26**|**Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling**|Yiding Liu et.al.|[2605.27286v1](http://arxiv.org/abs/2605.27286v1)|null|
+|**2026-05-26**|**PilotTTS: A Disciplined Modular Recipe for Competitive Speech Synthesis**|Bowen Li et.al.|[2605.27258v1](http://arxiv.org/abs/2605.27258v1)|null|
+|**2026-05-26**|**FoundObj: Self-supervised Foundation Models as Rewards for Label-free 3D Object Segmentation**|Zihui Zhang et.al.|[2605.27178v1](http://arxiv.org/abs/2605.27178v1)|null|
+|**2026-05-26**|**Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search**|Mingyue Wang et.al.|[2605.27066v1](http://arxiv.org/abs/2605.27066v1)|null|
+|**2026-05-26**|**Semantic-Aware Motion Encoding for Topology-Agnostic Character Animation**|Zongye Zhang et.al.|[2605.27055v1](http://arxiv.org/abs/2605.27055v1)|null|
+|**2026-05-26**|**Boosting Knowledge Graph Foundation Models via Enhanced Negative Sampling**|Yinan Liu et.al.|[2605.27023v1](http://arxiv.org/abs/2605.27023v1)|null|
+|**2026-05-26**|**LELA: An End-to-end LLM-based Entity Linking Framework with Zero-shot Domain Adaptation**|Samy Haffoudhi et.al.|[2605.26956v1](http://arxiv.org/abs/2605.26956v1)|null|
+|**2026-05-26**|**Are Video Models Zero-Shot Learners and Reasoners in Education? EduVideoBench, A Knowledge-Skills-Attitude Benchmark for Educational Video Generation**|Unggi Lee et.al.|[2605.26918v1](http://arxiv.org/abs/2605.26918v1)|null|
 |**2026-05-22**|**Leveraging Foundation Models for Causal Generative Modeling**|Aneesh Komanduri et.al.|[2605.23861v1](http://arxiv.org/abs/2605.23861v1)|null|
 |**2026-05-22**|**Exploring deep learning for Event-Based Saliency Prediction with a Transformer-based model**|Romaric Mazna et.al.|[2605.23790v1](http://arxiv.org/abs/2605.23790v1)|null|
 |**2026-05-22**|**Vision-Based Agile Landing on Turbulent Waters**|Dimosthenis Angelis et.al.|[2605.23717v1](http://arxiv.org/abs/2605.23717v1)|null|
@@ -11031,5 +11047,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260525>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
 

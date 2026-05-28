@@ -1,4 +1,4 @@
-## Updated on 2026.05.27
+## Updated on 2026.05.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|null|
+|**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|null|
+|**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172v1](http://arxiv.org/abs/2605.28172v1)|null|
+|**2026-05-27**|**Con-DSO: Learning Short-Horizon Consistency Priors for RGB-D Direct Sparse Odometry**|Haolan Zhang et.al.|[2605.27952v1](http://arxiv.org/abs/2605.27952v1)|null|
 |**2026-05-25**|**SurfSurg6D: Geometry Consistent Dense Correspondence for Textureless Surgical Instrument Pose Estimation**|Daiyun Shen et.al.|[2605.25598v1](http://arxiv.org/abs/2605.25598v1)|null|
 |**2026-05-25**|**ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation**|Huan Ren et.al.|[2605.25553v1](http://arxiv.org/abs/2605.25553v1)|null|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
@@ -2989,7 +2993,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3322,7 +3326,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3587,12 +3591,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-27**|**Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation**|Jiahe Pan et.al.|[2605.28812v1](http://arxiv.org/abs/2605.28812v1)|null|
+|**2026-05-27**|**Stage-wise Distortion-Perception Traversal in Zero-shot Inverse Problems with Diffusion Models**|Jiawei Zhang et.al.|[2605.28711v1](http://arxiv.org/abs/2605.28711v1)|null|
+|**2026-05-27**|**Towards Reliable Multilingual LLMs-as-a-Judge: An Empirical Study**|Irune Zubiaga et.al.|[2605.28710v1](http://arxiv.org/abs/2605.28710v1)|null|
+|**2026-05-27**|**Sense Representations Are Inducible Interfaces**|Jan Christian Blaise Cruz et.al.|[2605.28669v1](http://arxiv.org/abs/2605.28669v1)|null|
+|**2026-05-27**|**PrimitiveVLA: Learning Reusable Motion Primitives for Efficient and Generalizable Robotic Manipulation**|Yutai Li et.al.|[2605.28634v1](http://arxiv.org/abs/2605.28634v1)|null|
+|**2026-05-27**|**EntroAD: Structural Entropy-Guided Prompt Adaptation for Zero-Shot Anomaly Detection**|Xinyu Zhao et.al.|[2605.28630v1](http://arxiv.org/abs/2605.28630v1)|null|
+|**2026-05-27**|**Continual Model Routing in Evolving Model Hubs**|Jack Bell et.al.|[2605.28577v1](http://arxiv.org/abs/2605.28577v1)|null|
+|**2026-05-27**|**Unsupervised Morphological Characterization of Gravitational-Wave Glitches in LIGO O4a Using Frozen DINOv2 Features**|Luca Cirfeta et.al.|[2605.28572v1](http://arxiv.org/abs/2605.28572v1)|null|
+|**2026-05-27**|**SPRINT: Efficient Spectral Priors for Humanoid Athletic Sprints**|Yantong Wei et.al.|[2605.28549v1](http://arxiv.org/abs/2605.28549v1)|null|
+|**2026-05-27**|**From Learning Resources to Competencies: LLM-Based Tagging with Evidence and Graph Constraints**|Ngoc Luyen Le et.al.|[2605.28483v1](http://arxiv.org/abs/2605.28483v1)|null|
 |**2026-05-26**|**From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models**|Yuchen Liang et.al.|[2605.27352v1](http://arxiv.org/abs/2605.27352v1)|null|
 |**2026-05-26**|**Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini**|Madhuri Shanbhogue et.al.|[2605.27295v1](http://arxiv.org/abs/2605.27295v1)|null|
 |**2026-05-26**|**Falcon-X: A Time Series Foundation Model for Heterogeneous Multivariate Modeling**|Yiding Liu et.al.|[2605.27286v1](http://arxiv.org/abs/2605.27286v1)|null|
@@ -11047,5 +11061,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260527>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
 

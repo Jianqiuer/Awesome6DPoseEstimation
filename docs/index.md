@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.05.28
+## Updated on 2026.05.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|null|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|null|
 |**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172v1](http://arxiv.org/abs/2605.28172v1)|null|
@@ -2991,6 +2994,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704v1](http://arxiv.org/abs/2605.29704v1)|null|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
 |**2026-05-23**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395v1](http://arxiv.org/abs/2605.24395v1)|null|
 |**2026-05-19**|**PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation**|Lu He et.al.|[2605.20274v1](http://arxiv.org/abs/2605.20274v1)|null|
@@ -3322,6 +3326,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111v1](http://arxiv.org/abs/2605.30111v1)|null|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
 |**2026-05-20**|**Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors**|Siqi Wei et.al.|[2605.20737v1](http://arxiv.org/abs/2605.20737v1)|null|
 |**2026-05-12**|**PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting**|Yixiao Song et.al.|[2605.11520v1](http://arxiv.org/abs/2605.11520v1)|null|
 |**2026-03-24**|**Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors**|Max Marriott-Clarke et.al.|[2603.23356v1](http://arxiv.org/abs/2603.23356v1)|null|
@@ -3585,6 +3591,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280v1](http://arxiv.org/abs/2605.30280v1)|null|
+|**2026-05-28**|**Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models**|Zizhuo Lin et.al.|[2605.30251v1](http://arxiv.org/abs/2605.30251v1)|null|
+|**2026-05-28**|**TriSearch: Learning to Optimize Triangulations via Bistellar Flips**|Yiran Wang et.al.|[2605.30220v1](http://arxiv.org/abs/2605.30220v1)|null|
+|**2026-05-28**|**LiveSVG: Zero-Shot SVG Animation via Video Generation**|Matan Levy et.al.|[2605.30174v1](http://arxiv.org/abs/2605.30174v1)|null|
+|**2026-05-28**|**OmniCD: A Foundational Framework for Remote Sensing Image Change Detection Guided by Multimodal Semantics**|Chenhao Sun et.al.|[2605.30168v1](http://arxiv.org/abs/2605.30168v1)|null|
+|**2026-05-28**|**AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection**|Yi Zhang et.al.|[2605.30140v1](http://arxiv.org/abs/2605.30140v1)|null|
+|**2026-05-28**|**CorPipe at CRAC 2026: Empty Nodes and Cross-Lingual Transfer in Multilingual Coreference Resolution**|Milan Straka et.al.|[2605.30133v1](http://arxiv.org/abs/2605.30133v1)|null|
+|**2026-05-28**|**Boosting Zero-Shot 3D Style Transfer with 2D Pre-trained Priors**|Xin Dong et.al.|[2605.30065v1](http://arxiv.org/abs/2605.30065v1)|null|
+|**2026-05-28**|**KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning**|Kun Feng et.al.|[2605.30002v1](http://arxiv.org/abs/2605.30002v1)|null|
+|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879v1](http://arxiv.org/abs/2605.29879v1)|null|
 |**2026-05-27**|**Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation**|Jiahe Pan et.al.|[2605.28812v1](http://arxiv.org/abs/2605.28812v1)|null|
 |**2026-05-27**|**Stage-wise Distortion-Perception Traversal in Zero-shot Inverse Problems with Diffusion Models**|Jiawei Zhang et.al.|[2605.28711v1](http://arxiv.org/abs/2605.28711v1)|null|
 |**2026-05-27**|**Towards Reliable Multilingual LLMs-as-a-Judge: An Empirical Study**|Irune Zubiaga et.al.|[2605.28710v1](http://arxiv.org/abs/2605.28710v1)|null|

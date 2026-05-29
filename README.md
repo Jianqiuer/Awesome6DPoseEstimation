@@ -1,4 +1,4 @@
-## Updated on 2026.05.28
+## Updated on 2026.05.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|
+|**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
 |**2026-05-27**|**SA4Depth: Consistent Pose-Depth Scale Alignment for Self-Supervised Monocular Depth Estimation**|Changxuan Li et.al.|[2605.28477v1](http://arxiv.org/abs/2605.28477v1)|null|
 |**2026-05-27**|**Category-Level 3D Correspondence in Camera Space via Morphable Object Priors**|Leonhard Sommer et.al.|[2605.28257v1](http://arxiv.org/abs/2605.28257v1)|null|
 |**2026-05-27**|**Provably Guaranteed Polytopic Uncertainty Quantification for SLAM**|Guangyang Zeng et.al.|[2605.28172v1](http://arxiv.org/abs/2605.28172v1)|null|
@@ -2993,12 +2996,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260529>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704v1](http://arxiv.org/abs/2605.29704v1)|null|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
 |**2026-05-23**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395v1](http://arxiv.org/abs/2605.24395v1)|null|
 |**2026-05-19**|**PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation**|Lu He et.al.|[2605.20274v1](http://arxiv.org/abs/2605.20274v1)|null|
@@ -3326,12 +3330,14 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260529>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111v1](http://arxiv.org/abs/2605.30111v1)|null|
+|**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
 |**2026-05-20**|**Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors**|Siqi Wei et.al.|[2605.20737v1](http://arxiv.org/abs/2605.20737v1)|null|
 |**2026-05-12**|**PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting**|Yixiao Song et.al.|[2605.11520v1](http://arxiv.org/abs/2605.11520v1)|null|
 |**2026-03-24**|**Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors**|Max Marriott-Clarke et.al.|[2603.23356v1](http://arxiv.org/abs/2603.23356v1)|null|
@@ -3591,12 +3597,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260529>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280v1](http://arxiv.org/abs/2605.30280v1)|null|
+|**2026-05-28**|**Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models**|Zizhuo Lin et.al.|[2605.30251v1](http://arxiv.org/abs/2605.30251v1)|null|
+|**2026-05-28**|**TriSearch: Learning to Optimize Triangulations via Bistellar Flips**|Yiran Wang et.al.|[2605.30220v1](http://arxiv.org/abs/2605.30220v1)|null|
+|**2026-05-28**|**LiveSVG: Zero-Shot SVG Animation via Video Generation**|Matan Levy et.al.|[2605.30174v1](http://arxiv.org/abs/2605.30174v1)|null|
+|**2026-05-28**|**OmniCD: A Foundational Framework for Remote Sensing Image Change Detection Guided by Multimodal Semantics**|Chenhao Sun et.al.|[2605.30168v1](http://arxiv.org/abs/2605.30168v1)|null|
+|**2026-05-28**|**AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection**|Yi Zhang et.al.|[2605.30140v1](http://arxiv.org/abs/2605.30140v1)|null|
+|**2026-05-28**|**CorPipe at CRAC 2026: Empty Nodes and Cross-Lingual Transfer in Multilingual Coreference Resolution**|Milan Straka et.al.|[2605.30133v1](http://arxiv.org/abs/2605.30133v1)|null|
+|**2026-05-28**|**Boosting Zero-Shot 3D Style Transfer with 2D Pre-trained Priors**|Xin Dong et.al.|[2605.30065v1](http://arxiv.org/abs/2605.30065v1)|null|
+|**2026-05-28**|**KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning**|Kun Feng et.al.|[2605.30002v1](http://arxiv.org/abs/2605.30002v1)|null|
+|**2026-05-28**|**DGSG-Mind: Dynamic 3D Gaussian Scene Graphs for Long-Term Scene Understanding and Grounding**|Luzhou Ge et.al.|[2605.29879v1](http://arxiv.org/abs/2605.29879v1)|null|
 |**2026-05-27**|**Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation**|Jiahe Pan et.al.|[2605.28812v1](http://arxiv.org/abs/2605.28812v1)|null|
 |**2026-05-27**|**Stage-wise Distortion-Perception Traversal in Zero-shot Inverse Problems with Diffusion Models**|Jiawei Zhang et.al.|[2605.28711v1](http://arxiv.org/abs/2605.28711v1)|null|
 |**2026-05-27**|**Towards Reliable Multilingual LLMs-as-a-Judge: An Empirical Study**|Irune Zubiaga et.al.|[2605.28710v1](http://arxiv.org/abs/2605.28710v1)|null|
@@ -11061,5 +11077,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260529>back to top</a>)</p>
 

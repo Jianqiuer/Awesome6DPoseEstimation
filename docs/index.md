@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597v1](http://arxiv.org/abs/2605.31597v1)|null|
+|**2026-05-29**|**SMART: SMPLest-X Mesh Adaptation and RAFT Tracking for Soccer Pose Estimation**|Parthsarthi Rawat et.al.|[2605.31551v1](http://arxiv.org/abs/2605.31551v1)|null|
+|**2026-05-29**|**TALON: Token-Aligned Lightweight Adapters for 6-DoF Spacecraft Pose Estimation**|Abid Ali et.al.|[2605.31217v1](http://arxiv.org/abs/2605.31217v1)|null|
+|**2026-05-28**|**Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes**|Chenxi Tao et.al.|[2605.30581v1](http://arxiv.org/abs/2605.30581v1)|null|
+|**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561v1](http://arxiv.org/abs/2605.30561v1)|null|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
@@ -3591,6 +3596,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-05-29**|**SurGe: Improved Surface Geometry in Point Maps**|Karim Knaebel et.al.|[2605.31577v1](http://arxiv.org/abs/2605.31577v1)|null|
+|**2026-05-29**|**Vision-Language Models Suppress Female Representations Under Ambiguous Input**|Arnau Marin-Llobet et.al.|[2605.31556v1](http://arxiv.org/abs/2605.31556v1)|null|
+|**2026-05-29**|**The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling**|Andre Herz et.al.|[2605.31547v1](http://arxiv.org/abs/2605.31547v1)|null|
+|**2026-05-29**|**RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video**|Ulrich Prestel et.al.|[2605.31535v1](http://arxiv.org/abs/2605.31535v1)|null|
+|**2026-05-29**|**UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion**|Zhaoqing Li et.al.|[2605.31530v1](http://arxiv.org/abs/2605.31530v1)|null|
+|**2026-05-29**|**Reliable Multilingual Orthopedic Decision Support from Clinical Narratives: Language-Aware Adaptation and Verification-Guided Deferral**|Danish Ali et.al.|[2605.31512v1](http://arxiv.org/abs/2605.31512v1)|null|
+|**2026-05-29**|**Used Car Salesbots? Honesty and Credulity of LLMs as Bargaining Agents under Partial Information**|Antonio Valerio Miceli-Barone et.al.|[2605.31445v1](http://arxiv.org/abs/2605.31445v1)|null|
+|**2026-05-29**|**Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning**|Tomas Leroy-Stone et.al.|[2605.31361v1](http://arxiv.org/abs/2605.31361v1)|null|
+|**2026-05-29**|**mRNAutilus: Multi-Objective-Guided Discrete Generation of mRNA with Optimized Therapeutic Properties**|Sawan Patel et.al.|[2605.31296v1](http://arxiv.org/abs/2605.31296v1)|null|
+|**2026-05-29**|**The Terminal Representation in Reinforcement Learning**|Amir Esterhuysen et.al.|[2605.31289v1](http://arxiv.org/abs/2605.31289v1)|null|
 |**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280v1](http://arxiv.org/abs/2605.30280v1)|null|
 |**2026-05-28**|**Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models**|Zizhuo Lin et.al.|[2605.30251v1](http://arxiv.org/abs/2605.30251v1)|null|
 |**2026-05-28**|**TriSearch: Learning to Optimize Triangulations via Bistellar Flips**|Yiran Wang et.al.|[2605.30220v1](http://arxiv.org/abs/2605.30220v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.05.31
+## Updated on 2026.06.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597v1](http://arxiv.org/abs/2605.31597v1)|null|
+|**2026-05-29**|**SMART: SMPLest-X Mesh Adaptation and RAFT Tracking for Soccer Pose Estimation**|Parthsarthi Rawat et.al.|[2605.31551v1](http://arxiv.org/abs/2605.31551v1)|null|
+|**2026-05-29**|**TALON: Token-Aligned Lightweight Adapters for 6-DoF Spacecraft Pose Estimation**|Abid Ali et.al.|[2605.31217v1](http://arxiv.org/abs/2605.31217v1)|null|
+|**2026-05-28**|**Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes**|Chenxi Tao et.al.|[2605.30581v1](http://arxiv.org/abs/2605.30581v1)|null|
+|**2026-05-28**|**VLM3: Vision Language Models Are Native 3D Learners**|Zhipeng Cai et.al.|[2605.30561v1](http://arxiv.org/abs/2605.30561v1)|null|
 |**2026-05-28**|**REACT: A Conditioning Framework for User-Adaptive sEMG Hand Pose Estimation**|Eric Xie et.al.|[2605.30127v1](http://arxiv.org/abs/2605.30127v1)|null|
 |**2026-05-28**|**Mesh-Aware Epipolar Matching for Multi-View Multi-Person 3D Pose Estimation in Basketball**|Li Yin et.al.|[2605.29953v1](http://arxiv.org/abs/2605.29953v1)|null|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
@@ -2996,7 +3001,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3330,7 +3335,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3597,12 +3602,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-29**|**SurGe: Improved Surface Geometry in Point Maps**|Karim Knaebel et.al.|[2605.31577v1](http://arxiv.org/abs/2605.31577v1)|null|
+|**2026-05-29**|**Vision-Language Models Suppress Female Representations Under Ambiguous Input**|Arnau Marin-Llobet et.al.|[2605.31556v1](http://arxiv.org/abs/2605.31556v1)|null|
+|**2026-05-29**|**The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling**|Andre Herz et.al.|[2605.31547v1](http://arxiv.org/abs/2605.31547v1)|null|
+|**2026-05-29**|**RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video**|Ulrich Prestel et.al.|[2605.31535v1](http://arxiv.org/abs/2605.31535v1)|null|
+|**2026-05-29**|**UNISON: A Unified Sound Generation and Editing Framework via Deep LLM Fusion**|Zhaoqing Li et.al.|[2605.31530v1](http://arxiv.org/abs/2605.31530v1)|null|
+|**2026-05-29**|**Reliable Multilingual Orthopedic Decision Support from Clinical Narratives: Language-Aware Adaptation and Verification-Guided Deferral**|Danish Ali et.al.|[2605.31512v1](http://arxiv.org/abs/2605.31512v1)|null|
+|**2026-05-29**|**Used Car Salesbots? Honesty and Credulity of LLMs as Bargaining Agents under Partial Information**|Antonio Valerio Miceli-Barone et.al.|[2605.31445v1](http://arxiv.org/abs/2605.31445v1)|null|
+|**2026-05-29**|**Dreaming Of Others: Latent Teammate Modeling In World Models For Multi-Agent Reinforcement Learning**|Tomas Leroy-Stone et.al.|[2605.31361v1](http://arxiv.org/abs/2605.31361v1)|null|
+|**2026-05-29**|**mRNAutilus: Multi-Objective-Guided Discrete Generation of mRNA with Optimized Therapeutic Properties**|Sawan Patel et.al.|[2605.31296v1](http://arxiv.org/abs/2605.31296v1)|null|
+|**2026-05-29**|**The Terminal Representation in Reinforcement Learning**|Amir Esterhuysen et.al.|[2605.31289v1](http://arxiv.org/abs/2605.31289v1)|null|
 |**2026-05-28**|**Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments**|Qiuyue Wang et.al.|[2605.30280v1](http://arxiv.org/abs/2605.30280v1)|null|
 |**2026-05-28**|**Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models**|Zizhuo Lin et.al.|[2605.30251v1](http://arxiv.org/abs/2605.30251v1)|null|
 |**2026-05-28**|**TriSearch: Learning to Optimize Triangulations via Bistellar Flips**|Yiran Wang et.al.|[2605.30220v1](http://arxiv.org/abs/2605.30220v1)|null|
@@ -11077,5 +11092,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260531>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
 

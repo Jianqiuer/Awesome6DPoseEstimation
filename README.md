@@ -1,4 +1,4 @@
-## Updated on 2026.06.01
+## Updated on 2026.06.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**Quantitative Movement Testing: Measuring Patient Movements from a Single Smartphone Video**|Pranav Mahajan et.al.|[2606.02301v1](http://arxiv.org/abs/2606.02301v1)|null|
+|**2026-06-01**|**FW-NKF: Frequency-Weighted Neural Kalman Filters**|Adnan Harun Dogan et.al.|[2606.02251v1](http://arxiv.org/abs/2606.02251v1)|null|
+|**2026-06-01**|**Symmetry-Aware 9D Pose Estimation with Sim(3)-Consistent Feature and Spherical Inception Convolution**|Panfei Cheng et.al.|[2606.02219v1](http://arxiv.org/abs/2606.02219v1)|null|
+|**2026-06-01**|**Ultra Diffusion Poser: Diffusion-Based Human Motion Tracking From Sparse Inertial Sensors and Ranging-Based Between-Sensor Distances**|Dominik Hollidt et.al.|[2606.02153v1](http://arxiv.org/abs/2606.02153v1)|null|
+|**2026-06-01**|**Closed-Form Pose Estimation of Endoluminal Medical Devices via Gradiometer-Based Electromagnetic Localization System**|Zhiwei Wu et.al.|[2606.01946v1](http://arxiv.org/abs/2606.01946v1)|null|
+|**2026-06-01**|**SCAPO: Self-Supervised Category-Level Articulated Pose Estimation from a Single 3D Observation**|Can Zhang et.al.|[2606.01940v1](http://arxiv.org/abs/2606.01940v1)|null|
+|**2026-06-01**|**DisFlow: Scene Flow from Distance Field for Object Pose, Velocity Tracking, and Dynamic Object Reconstruction**|Lan Wu et.al.|[2606.01824v1](http://arxiv.org/abs/2606.01824v1)|null|
+|**2026-05-30**|**Dynamic Resilient Spatio-Semantic Memory with Hybrid Localization for Mobile Manipulation**|Zhijie Yan et.al.|[2606.00576v1](http://arxiv.org/abs/2606.00576v1)|null|
+|**2026-05-29**|**SoFiE: Soft Finger Exoskeleton for Intelligent Grasping**|Magnus Malthe Sigsgaard Nielsen et.al.|[2606.00397v1](http://arxiv.org/abs/2606.00397v1)|null|
+|**2026-05-29**|**ScaRF-SLAM: Scale-Consistent Reconstruction with Feed-Forward Models and Classical Visual SLAM**|Yuhao Zhang et.al.|[2606.00307v1](http://arxiv.org/abs/2606.00307v1)|null|
 |**2026-05-29**|**SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models**|Olaf Dünkel et.al.|[2605.31597v1](http://arxiv.org/abs/2605.31597v1)|null|
 |**2026-05-29**|**SMART: SMPLest-X Mesh Adaptation and RAFT Tracking for Soccer Pose Estimation**|Parthsarthi Rawat et.al.|[2605.31551v1](http://arxiv.org/abs/2605.31551v1)|null|
 |**2026-05-29**|**TALON: Token-Aligned Lightweight Adapters for 6-DoF Spacecraft Pose Estimation**|Abid Ali et.al.|[2605.31217v1](http://arxiv.org/abs/2605.31217v1)|null|
@@ -3001,7 +3011,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3335,12 +3345,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549v1](http://arxiv.org/abs/2606.01549v1)|null|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111v1](http://arxiv.org/abs/2605.30111v1)|null|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
 |**2026-05-20**|**Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors**|Siqi Wei et.al.|[2605.20737v1](http://arxiv.org/abs/2605.20737v1)|null|
@@ -3602,12 +3613,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-01**|**Bridging the Last Mile of Time Series Forecasting with LLM Agents**|Yuhua Liao et.al.|[2606.02497v1](http://arxiv.org/abs/2606.02497v1)|null|
+|**2026-06-01**|**Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion**|DongQing Liu et.al.|[2606.02450v1](http://arxiv.org/abs/2606.02450v1)|null|
+|**2026-06-01**|**AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design**|Sahil Rahman et.al.|[2606.02386v1](http://arxiv.org/abs/2606.02386v1)|null|
+|**2026-06-01**|**WAXAL-NET: Finetuned Edge ASR Across 19 African Languages**|Victor Tolulope Olufemi et.al.|[2606.02375v1](http://arxiv.org/abs/2606.02375v1)|null|
+|**2026-06-01**|**Dynamics Are Learned, Not Told: Semi-Supervised Discovery of Latent Dynamics Geometries For Zero-Shot Policy Adaptation**|Zhiming Xu et.al.|[2606.02280v1](http://arxiv.org/abs/2606.02280v1)|null|
+|**2026-06-01**|**Vision-language Models for Driver Monitoring Systems: A Driver Activity Description Dataset**|David J. Lerch et.al.|[2606.02273v1](http://arxiv.org/abs/2606.02273v1)|null|
+|**2026-06-01**|**Edge-aware Decoding for Neural Asymmetric Routing**|Li Liang et.al.|[2606.02136v1](http://arxiv.org/abs/2606.02136v1)|null|
+|**2026-06-01**|**Network Distributed Multi-Agent Reinforcement Learning for Consensus Control of Quadcopters**|Youssef Mahran et.al.|[2606.02107v1](http://arxiv.org/abs/2606.02107v1)|null|
+|**2026-06-01**|**World-Task Factorization for Robot Learning**|Eduardo Sebastián et.al.|[2606.02027v1](http://arxiv.org/abs/2606.02027v1)|null|
+|**2026-06-01**|**3rd Place at CVPR 2026 CASTLE Challenge: Agentic Multi-View Long-Context Video Understanding via Hierarchical Knowledge Graph Retrieval**|Raghad Albusayes et.al.|[2606.01933v1](http://arxiv.org/abs/2606.01933v1)|null|
 |**2026-05-29**|**SurGe: Improved Surface Geometry in Point Maps**|Karim Knaebel et.al.|[2605.31577v1](http://arxiv.org/abs/2605.31577v1)|null|
 |**2026-05-29**|**Vision-Language Models Suppress Female Representations Under Ambiguous Input**|Arnau Marin-Llobet et.al.|[2605.31556v1](http://arxiv.org/abs/2605.31556v1)|null|
 |**2026-05-29**|**The Dynamic-Probabilistic Consistency Gap in Chaotic Surrogate Modeling**|Andre Herz et.al.|[2605.31547v1](http://arxiv.org/abs/2605.31547v1)|null|
@@ -11092,5 +11113,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
 

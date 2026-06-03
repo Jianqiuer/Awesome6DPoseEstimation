@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.06.02
+## Updated on 2026.06.03
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|
+|**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905v1](http://arxiv.org/abs/2606.03905v1)|null|
+|**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748v1](http://arxiv.org/abs/2606.03748v1)|null|
+|**2026-06-01**|**BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting**|Yanchen Wang et.al.|[2606.02937v1](http://arxiv.org/abs/2606.02937v1)|null|
 |**2026-06-01**|**Quantitative Movement Testing: Measuring Patient Movements from a Single Smartphone Video**|Pranav Mahajan et.al.|[2606.02301v1](http://arxiv.org/abs/2606.02301v1)|null|
 |**2026-06-01**|**FW-NKF: Frequency-Weighted Neural Kalman Filters**|Adnan Harun Dogan et.al.|[2606.02251v1](http://arxiv.org/abs/2606.02251v1)|null|
 |**2026-06-01**|**Symmetry-Aware 9D Pose Estimation with Sim(3)-Consistent Feature and Spherical Inception Convolution**|Panfei Cheng et.al.|[2606.02219v1](http://arxiv.org/abs/2606.02219v1)|null|
@@ -3607,6 +3611,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-02**|**Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking**|Zekun Qi et.al.|[2606.03985v1](http://arxiv.org/abs/2606.03985v1)|null|
+|**2026-06-02**|**Efficient ASR Training with Conversations that Never Happened**|Máté Gedeon et.al.|[2606.03957v1](http://arxiv.org/abs/2606.03957v1)|null|
+|**2026-06-02**|**Seg2Track++: Probabilistic Track Validation and Data Association for Multi-Object Tracking and Segmentation**|Diogo Mendonça et.al.|[2606.03875v1](http://arxiv.org/abs/2606.03875v1)|null|
+|**2026-06-02**|**DyaPlex: Full-Duplex Speech-Motion Model for Dyadic Interaction**|Koki Nagano et.al.|[2606.03874v1](http://arxiv.org/abs/2606.03874v1)|null|
+|**2026-06-02**|**Template Collapse and Information-Theoretic Limits in Camera rPPG Pulse Morphology Restoration**|Achraf Ben Ahmed et.al.|[2606.03802v1](http://arxiv.org/abs/2606.03802v1)|null|
+|**2026-06-02**|**Framing Migration News with LLMs: Structured CoT as a Support for Human Interpretation**|David Alonso del Barrio et.al.|[2606.03761v1](http://arxiv.org/abs/2606.03761v1)|null|
+|**2026-06-02**|**Neural Navigation Functions for Zero-Shot Generalizable Motion Planning**|Benjamin D. Shaffer et.al.|[2606.03756v1](http://arxiv.org/abs/2606.03756v1)|null|
+|**2026-06-02**|**Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models**|Hashmat Shadab Malik et.al.|[2606.03730v1](http://arxiv.org/abs/2606.03730v1)|null|
+|**2026-06-02**|**Admittance Sensitivity-Informed Modular GP for Scalable Topology-Adaptive Power-Flow Learning**|Henrique O. Caetano et.al.|[2606.03717v1](http://arxiv.org/abs/2606.03717v1)|null|
+|**2026-06-02**|**EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation**|Zuhao Ge et.al.|[2606.03509v1](http://arxiv.org/abs/2606.03509v1)|null|
 |**2026-06-01**|**Bridging the Last Mile of Time Series Forecasting with LLM Agents**|Yuhua Liao et.al.|[2606.02497v1](http://arxiv.org/abs/2606.02497v1)|null|
 |**2026-06-01**|**Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion**|DongQing Liu et.al.|[2606.02450v1](http://arxiv.org/abs/2606.02450v1)|null|
 |**2026-06-01**|**AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design**|Sahil Rahman et.al.|[2606.02386v1](http://arxiv.org/abs/2606.02386v1)|null|

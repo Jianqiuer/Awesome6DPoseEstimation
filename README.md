@@ -1,4 +1,4 @@
-## Updated on 2026.06.02
+## Updated on 2026.06.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|
+|**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905v1](http://arxiv.org/abs/2606.03905v1)|null|
+|**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748v1](http://arxiv.org/abs/2606.03748v1)|null|
+|**2026-06-01**|**BEAST3D: Animal behavioral analysis and neural encoding from multi-view video via Gaussian splatting**|Yanchen Wang et.al.|[2606.02937v1](http://arxiv.org/abs/2606.02937v1)|null|
 |**2026-06-01**|**Quantitative Movement Testing: Measuring Patient Movements from a Single Smartphone Video**|Pranav Mahajan et.al.|[2606.02301v1](http://arxiv.org/abs/2606.02301v1)|null|
 |**2026-06-01**|**FW-NKF: Frequency-Weighted Neural Kalman Filters**|Adnan Harun Dogan et.al.|[2606.02251v1](http://arxiv.org/abs/2606.02251v1)|null|
 |**2026-06-01**|**Symmetry-Aware 9D Pose Estimation with Sim(3)-Consistent Feature and Spherical Inception Convolution**|Panfei Cheng et.al.|[2606.02219v1](http://arxiv.org/abs/2606.02219v1)|null|
@@ -3011,7 +3015,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3345,7 +3349,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3613,12 +3617,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-02**|**Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking**|Zekun Qi et.al.|[2606.03985v1](http://arxiv.org/abs/2606.03985v1)|null|
+|**2026-06-02**|**Efficient ASR Training with Conversations that Never Happened**|Máté Gedeon et.al.|[2606.03957v1](http://arxiv.org/abs/2606.03957v1)|null|
+|**2026-06-02**|**Seg2Track++: Probabilistic Track Validation and Data Association for Multi-Object Tracking and Segmentation**|Diogo Mendonça et.al.|[2606.03875v1](http://arxiv.org/abs/2606.03875v1)|null|
+|**2026-06-02**|**DyaPlex: Full-Duplex Speech-Motion Model for Dyadic Interaction**|Koki Nagano et.al.|[2606.03874v1](http://arxiv.org/abs/2606.03874v1)|null|
+|**2026-06-02**|**Template Collapse and Information-Theoretic Limits in Camera rPPG Pulse Morphology Restoration**|Achraf Ben Ahmed et.al.|[2606.03802v1](http://arxiv.org/abs/2606.03802v1)|null|
+|**2026-06-02**|**Framing Migration News with LLMs: Structured CoT as a Support for Human Interpretation**|David Alonso del Barrio et.al.|[2606.03761v1](http://arxiv.org/abs/2606.03761v1)|null|
+|**2026-06-02**|**Neural Navigation Functions for Zero-Shot Generalizable Motion Planning**|Benjamin D. Shaffer et.al.|[2606.03756v1](http://arxiv.org/abs/2606.03756v1)|null|
+|**2026-06-02**|**Beyond False Stability: High-Noise Drift Gating for Test-Time Adversarial Defenses in Vision-Language Models**|Hashmat Shadab Malik et.al.|[2606.03730v1](http://arxiv.org/abs/2606.03730v1)|null|
+|**2026-06-02**|**Admittance Sensitivity-Informed Modular GP for Scalable Topology-Adaptive Power-Flow Learning**|Henrique O. Caetano et.al.|[2606.03717v1](http://arxiv.org/abs/2606.03717v1)|null|
+|**2026-06-02**|**EvoMemNav: Efficient Self-Evolving Fine-Grained Memory for Zero-Shot Embodied Navigation**|Zuhao Ge et.al.|[2606.03509v1](http://arxiv.org/abs/2606.03509v1)|null|
 |**2026-06-01**|**Bridging the Last Mile of Time Series Forecasting with LLM Agents**|Yuhua Liao et.al.|[2606.02497v1](http://arxiv.org/abs/2606.02497v1)|null|
 |**2026-06-01**|**Reason-Then-Retrieve for CoVR-R with Structured Edit Prompts and Dense-Sparse Fusion**|DongQing Liu et.al.|[2606.02450v1](http://arxiv.org/abs/2606.02450v1)|null|
 |**2026-06-01**|**AgentPLM: Agentic Protein Language Models with Reasoning-Augmented Decoding for Protein Sequence Design**|Sahil Rahman et.al.|[2606.02386v1](http://arxiv.org/abs/2606.02386v1)|null|
@@ -11113,5 +11127,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260602>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
 

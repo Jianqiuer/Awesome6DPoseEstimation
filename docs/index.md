@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.06.03
+## Updated on 2026.06.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|null|
+|**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|
+|**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|null|
+|**2026-06-03**|**Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly: Investigating Workload and Efficiency**|Shiyu Li et.al.|[2606.04992v1](http://arxiv.org/abs/2606.04992v1)|null|
+|**2026-06-03**|**A New Angle on Bones: Robust Pose Estimation in X-Ray and Ultrasound**|Ron Keuth et.al.|[2606.04700v1](http://arxiv.org/abs/2606.04700v1)|null|
+|**2026-06-03**|**IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation**|Haoyang Ge et.al.|[2606.04480v1](http://arxiv.org/abs/2606.04480v1)|null|
 |**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|
 |**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905v1](http://arxiv.org/abs/2606.03905v1)|null|
 |**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748v1](http://arxiv.org/abs/2606.03748v1)|null|
@@ -3611,6 +3617,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-04**|**Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation**|Hanxu Hu et.al.|[2606.06428v1](http://arxiv.org/abs/2606.06428v1)|null|
+|**2026-06-04**|**Annotation of Positive vs Negative User Interactions for Social Sign Prediction**|Biancamaria Bombino et.al.|[2606.06425v1](http://arxiv.org/abs/2606.06425v1)|null|
+|**2026-06-04**|**A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation**|Petr Parshakov et.al.|[2606.06420v1](http://arxiv.org/abs/2606.06420v1)|null|
+|**2026-06-04**|**Attack Detection using Time Series Foundation Models**|Sribalaji C. Anand et.al.|[2606.06347v1](http://arxiv.org/abs/2606.06347v1)|null|
+|**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345v1](http://arxiv.org/abs/2606.06345v1)|null|
+|**2026-06-04**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al.|[2606.06261v1](http://arxiv.org/abs/2606.06261v1)|null|
+|**2026-06-04**|**Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy**|Le Liang et.al.|[2606.06239v1](http://arxiv.org/abs/2606.06239v1)|null|
+|**2026-06-04**|**TAM: Torque Adaptation Module for Robust Motion Transfer in Manipulation**|Dongwon Son et.al.|[2606.06218v1](http://arxiv.org/abs/2606.06218v1)|null|
+|**2026-06-04**|**Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition**|Jinyi Mi et.al.|[2606.06200v1](http://arxiv.org/abs/2606.06200v1)|null|
+|**2026-06-04**|**Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models**|Liangsheng Liu et.al.|[2606.06186v1](http://arxiv.org/abs/2606.06186v1)|null|
 |**2026-06-02**|**Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking**|Zekun Qi et.al.|[2606.03985v1](http://arxiv.org/abs/2606.03985v1)|null|
 |**2026-06-02**|**Efficient ASR Training with Conversations that Never Happened**|Máté Gedeon et.al.|[2606.03957v1](http://arxiv.org/abs/2606.03957v1)|null|
 |**2026-06-02**|**Seg2Track++: Probabilistic Track Validation and Data Association for Multi-Object Tracking and Segmentation**|Diogo Mendonça et.al.|[2606.03875v1](http://arxiv.org/abs/2606.03875v1)|null|

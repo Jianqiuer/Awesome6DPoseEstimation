@@ -1,4 +1,4 @@
-## Updated on 2026.06.03
+## Updated on 2026.06.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|null|
+|**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|
+|**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|null|
+|**2026-06-03**|**Multi-Camera AR Guidance System for Surgical Instrument Handling and Assembly: Investigating Workload and Efficiency**|Shiyu Li et.al.|[2606.04992v1](http://arxiv.org/abs/2606.04992v1)|null|
+|**2026-06-03**|**A New Angle on Bones: Robust Pose Estimation in X-Ray and Ultrasound**|Ron Keuth et.al.|[2606.04700v1](http://arxiv.org/abs/2606.04700v1)|null|
+|**2026-06-03**|**IMPose: Interactive Multi-person Pose Estimation with Dynamic Correction Propagation**|Haoyang Ge et.al.|[2606.04480v1](http://arxiv.org/abs/2606.04480v1)|null|
 |**2026-06-02**|**Multi-Robot Bearing-only Pose Estimation via Angle Rigidity**|J. Francisco Presenza et.al.|[2606.03931v1](http://arxiv.org/abs/2606.03931v1)|null|
 |**2026-06-02**|**Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration**|Vasco Carvalho et.al.|[2606.03905v1](http://arxiv.org/abs/2606.03905v1)|null|
 |**2026-06-02**|**Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models**|Glenn Jocher et.al.|[2606.03748v1](http://arxiv.org/abs/2606.03748v1)|null|
@@ -3015,7 +3021,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260606>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3349,7 +3355,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260606>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3617,12 +3623,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260606>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-04**|**Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation**|Hanxu Hu et.al.|[2606.06428v1](http://arxiv.org/abs/2606.06428v1)|null|
+|**2026-06-04**|**Annotation of Positive vs Negative User Interactions for Social Sign Prediction**|Biancamaria Bombino et.al.|[2606.06425v1](http://arxiv.org/abs/2606.06425v1)|null|
+|**2026-06-04**|**A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation**|Petr Parshakov et.al.|[2606.06420v1](http://arxiv.org/abs/2606.06420v1)|null|
+|**2026-06-04**|**Attack Detection using Time Series Foundation Models**|Sribalaji C. Anand et.al.|[2606.06347v1](http://arxiv.org/abs/2606.06347v1)|null|
+|**2026-06-04**|**Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation**|Yohann Benchetrit et.al.|[2606.06345v1](http://arxiv.org/abs/2606.06345v1)|null|
+|**2026-06-04**|**DAST: A VLM-LLM Framework for Cross-Interface Anomaly Detection in O-RAN**|Francesco Spinelli et.al.|[2606.06261v1](http://arxiv.org/abs/2606.06261v1)|null|
+|**2026-06-04**|**Foundation Models for Wireless Communications: From PHY Intelligence to Network Autonomy**|Le Liang et.al.|[2606.06239v1](http://arxiv.org/abs/2606.06239v1)|null|
+|**2026-06-04**|**TAM: Torque Adaptation Module for Robust Motion Transfer in Manipulation**|Dongwon Son et.al.|[2606.06218v1](http://arxiv.org/abs/2606.06218v1)|null|
+|**2026-06-04**|**Learning Emotion-discriminative Representations for Zero-Shot Cross-lingual Speech Emotion Recognition**|Jinyi Mi et.al.|[2606.06200v1](http://arxiv.org/abs/2606.06200v1)|null|
+|**2026-06-04**|**Adversarial Attacks Already Tell the Answer: Directional Bias-Guided Test-time Defense for Vision-Language Models**|Liangsheng Liu et.al.|[2606.06186v1](http://arxiv.org/abs/2606.06186v1)|null|
 |**2026-06-02**|**Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking**|Zekun Qi et.al.|[2606.03985v1](http://arxiv.org/abs/2606.03985v1)|null|
 |**2026-06-02**|**Efficient ASR Training with Conversations that Never Happened**|Máté Gedeon et.al.|[2606.03957v1](http://arxiv.org/abs/2606.03957v1)|null|
 |**2026-06-02**|**Seg2Track++: Probabilistic Track Validation and Data Association for Multi-Object Tracking and Segmentation**|Diogo Mendonça et.al.|[2606.03875v1](http://arxiv.org/abs/2606.03875v1)|null|
@@ -11127,5 +11143,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260603>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260606>back to top</a>)</p>
 

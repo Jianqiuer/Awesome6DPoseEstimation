@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v1](http://arxiv.org/abs/2606.07419v1)|null|
+|**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903v1](http://arxiv.org/abs/2606.06903v1)|null|
+|**2026-06-05**|**A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation**|Kangjian Zhu et.al.|[2606.06878v1](http://arxiv.org/abs/2606.06878v1)|null|
 |**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|null|
 |**2026-06-03**|**Uncertainty-Aware Adaptive Sensor Fusion for Autonomous Navigation**|Simegnew Yihunie Alaba et.al.|[2606.05437v1](http://arxiv.org/abs/2606.05437v1)|null|
 |**2026-06-03**|**CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation**|Yurim Jeon et.al.|[2606.05011v1](http://arxiv.org/abs/2606.05011v1)|null|
@@ -3351,6 +3354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation**|Zihao Zhang et.al.|[2606.07280v1](http://arxiv.org/abs/2606.07280v1)|null|
 |**2026-06-01**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549v1](http://arxiv.org/abs/2606.01549v1)|null|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111v1](http://arxiv.org/abs/2605.30111v1)|null|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
@@ -3617,6 +3621,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-05**|**Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings**|Songhao Wu et.al.|[2606.07502v1](http://arxiv.org/abs/2606.07502v1)|null|
+|**2026-06-05**|**Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification**|Sercan Karakaş et.al.|[2606.07479v1](http://arxiv.org/abs/2606.07479v1)|null|
+|**2026-06-05**|**Time series Foundation Models based on Physics-Informed Synthetic Histories for Cold-Start Photovoltaic Forecasting**|Lorenzo Longarini et.al.|[2606.07457v1](http://arxiv.org/abs/2606.07457v1)|null|
+|**2026-06-05**|**Empirical Evaluation of Large Language Models for Migration of Code Fragments to Post-Quantum Cryptography**|Javier Pallarés de Bonrostro et.al.|[2606.07341v1](http://arxiv.org/abs/2606.07341v1)|null|
+|**2026-06-05**|**CAPE: Contrastive Action-conditioned Parallel Encoding for Embodied Planning**|Cong Chen et.al.|[2606.07304v1](http://arxiv.org/abs/2606.07304v1)|null|
+|**2026-06-05**|**Trio: Learning Time-Series Forecasting with Temporal-Spatial-Sample Attention and Structural Causal Priors**|Tao Chen et.al.|[2606.07291v1](http://arxiv.org/abs/2606.07291v1)|null|
+|**2026-06-05**|**UrduMMLU: A Massive Multitask Benchmark for Urdu Language Understanding**|Ahmer Tabassum et.al.|[2606.07167v1](http://arxiv.org/abs/2606.07167v1)|null|
+|**2026-06-05**|**Learning Perspectivist Social Meaning via Demographic-Conditioned Fusion Embeddings**|Amanda Cercas Curry et.al.|[2606.07123v1](http://arxiv.org/abs/2606.07123v1)|null|
+|**2026-06-05**|**QuadVerse: An Integrated Framework Aligning Visual-Physical Reality for Quadruped Simulation**|Yuxiang Chen et.al.|[2606.07118v1](http://arxiv.org/abs/2606.07118v1)|null|
+|**2026-06-05**|**GP-Adapter: Gaussian Process CLIP-Adapter for Few-Shot Out-of-Distribution Detection**|Taisei Saito et.al.|[2606.07102v1](http://arxiv.org/abs/2606.07102v1)|null|
 |**2026-06-04**|**Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation**|Hanxu Hu et.al.|[2606.06428v1](http://arxiv.org/abs/2606.06428v1)|null|
 |**2026-06-04**|**Annotation of Positive vs Negative User Interactions for Social Sign Prediction**|Biancamaria Bombino et.al.|[2606.06425v1](http://arxiv.org/abs/2606.06425v1)|null|
 |**2026-06-04**|**A Komi-Yazva--Russian Parallel Corpus and Evaluation Protocol for Zero- and Few-Shot LLM Translation**|Petr Parshakov et.al.|[2606.06420v1](http://arxiv.org/abs/2606.06420v1)|null|

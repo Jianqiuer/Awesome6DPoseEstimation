@@ -2,12 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.06.08
+## Updated on 2026.06.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-05**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v1](http://arxiv.org/abs/2606.07419v1)|null|
+|**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|
+|**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477v1](http://arxiv.org/abs/2606.09477v1)|null|
+|**2026-06-08**|**See More, Match Better: Multi-Source Feature Fusion for Two-View Correspondence Learning**|Xiaojie Li et.al.|[2606.09262v1](http://arxiv.org/abs/2606.09262v1)|null|
+|**2026-06-08**|**A Geometric Framework for Absolute Pose and Velocity Estimation with Event Cameras**|Zibin Liu et.al.|[2606.09139v1](http://arxiv.org/abs/2606.09139v1)|null|
+|**2026-06-06**|**G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation**|Yufei Wei et.al.|[2606.08284v1](http://arxiv.org/abs/2606.08284v1)|null|
+|**2026-06-06**|**Mind Your Steps: A General Learning Framework for Accurate Humanoid Foothold Tracking**|Alessandro Montenegro et.al.|[2606.08253v1](http://arxiv.org/abs/2606.08253v1)|null|
+|**2026-06-05**|**C3VD-DEFCOL: A Deformable Colonoscopy Dataset with Time-Resolved 3D Ground Truth and Realistic Appearance**|Ethan Luk et.al.|[2606.07891v1](http://arxiv.org/abs/2606.07891v1)|null|
+|**2026-06-08**|**DisPOSE: Projected Polystochastic Diffusion for Self-Supervised Multi-View 3D Human Pose Estimation**|Tony Danjun Wang et.al.|[2606.07419v2](http://arxiv.org/abs/2606.07419v2)|null|
 |**2026-06-05**|**Beyond Skeletons: Learning Animation Directly from Driving Videos with Same2X Training Strategy**|Yuan Zeng et.al.|[2606.06903v1](http://arxiv.org/abs/2606.06903v1)|null|
 |**2026-06-05**|**A Cross-view Fusion Framework for Robust 6-DoF Grasp Pose Estimation**|Kangjian Zhu et.al.|[2606.06878v1](http://arxiv.org/abs/2606.06878v1)|null|
 |**2026-06-03**|**Brick-Composer: Using MLLMs for Assembly with Diverse Bricks**|Jiateng Liu et.al.|[2606.05445v1](http://arxiv.org/abs/2606.05445v1)|null|
@@ -3621,6 +3628,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies**|Haodi Hu et.al.|[2606.09630v1](http://arxiv.org/abs/2606.09630v1)|null|
+|**2026-06-08**|**Automated IEP Generation from Traditional Chinese Parent-Teacher Interviews via Corpus-Grounded Feature Diffusion**|Kuanlin Chen et.al.|[2606.09603v1](http://arxiv.org/abs/2606.09603v1)|null|
+|**2026-06-08**|**A VideoMAE-v2 Approach to Zero-Shot Traffic Accident Anticipation**|Siyuan Li et.al.|[2606.09542v1](http://arxiv.org/abs/2606.09542v1)|null|
+|**2026-06-08**|**LargeMonitor: Monitoring Online Task-Free Continual Learning via Large Pretrained Models**|Mingqi Yuan et.al.|[2606.09430v1](http://arxiv.org/abs/2606.09430v1)|null|
+|**2026-06-08**|**Zero-Shot Semantic Re-Identification for Autonomous Driving: A VLM Baseline Study**|Eduardo Borges et.al.|[2606.09362v1](http://arxiv.org/abs/2606.09362v1)|null|
+|**2026-06-08**|**Factors affecting ASR performance: A study using state of the art ASR models in Indic Languages**|Agneedh Basu et.al.|[2606.09335v1](http://arxiv.org/abs/2606.09335v1)|null|
+|**2026-06-08**|**How Far Can Prompting Go for Minimal-Edit Ukrainian Grammatical Error Correction?**|Kateryna Karpo et.al.|[2606.09334v1](http://arxiv.org/abs/2606.09334v1)|null|
+|**2026-06-08**|**Decoding Pedestrian Crossing Intention from Egocentric Vision via Vision Language Models**|Danya Li et.al.|[2606.09142v1](http://arxiv.org/abs/2606.09142v1)|null|
+|**2026-06-08**|**FlashTTS: Fast Streaming TTS with MTP Acceleration and X-pred Mean Flow Distillation**|Hanke Xie et.al.|[2606.09141v1](http://arxiv.org/abs/2606.09141v1)|null|
+|**2026-06-08**|**From USD Scenes to Knowledge Graphs: Zero-Shot Ontology Grounding with LLMs**|Jiangtao Shuai et.al.|[2606.09134v1](http://arxiv.org/abs/2606.09134v1)|null|
 |**2026-06-05**|**Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings**|Songhao Wu et.al.|[2606.07502v1](http://arxiv.org/abs/2606.07502v1)|null|
 |**2026-06-05**|**Supervision versus Demonstration-Based In-Context Learning for Multiword Expression Classification**|Sercan Karakaş et.al.|[2606.07479v1](http://arxiv.org/abs/2606.07479v1)|null|
 |**2026-06-05**|**Time series Foundation Models based on Physics-Informed Synthetic Histories for Cold-Start Photovoltaic Forecasting**|Lorenzo Longarini et.al.|[2606.07457v1](http://arxiv.org/abs/2606.07457v1)|null|

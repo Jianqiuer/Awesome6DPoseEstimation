@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.06.09
+## Updated on 2026.06.10
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Human Walking Sensing and Pose Estimation in the 6 GHz Band Using Amplitude and Phase CSI**|Zhaorui Yin et.al.|[2606.10048v1](http://arxiv.org/abs/2606.10048v1)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477v1](http://arxiv.org/abs/2606.09477v1)|null|
 |**2026-06-08**|**See More, Match Better: Multi-Source Feature Fusion for Two-View Correspondence Learning**|Xiaojie Li et.al.|[2606.09262v1](http://arxiv.org/abs/2606.09262v1)|null|
@@ -3029,6 +3030,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-08**|**Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization**|Ray Zhang et.al.|[2606.10019v1](http://arxiv.org/abs/2606.10019v1)|null|
 |**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704v1](http://arxiv.org/abs/2605.29704v1)|null|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
 |**2026-05-23**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395v1](http://arxiv.org/abs/2605.24395v1)|null|
@@ -3361,6 +3363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-03**|**WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory**|Chong Liu et.al.|[2606.09882v1](http://arxiv.org/abs/2606.09882v1)|null|
 |**2026-06-05**|**Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation**|Zihao Zhang et.al.|[2606.07280v1](http://arxiv.org/abs/2606.07280v1)|null|
 |**2026-06-01**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549v1](http://arxiv.org/abs/2606.01549v1)|null|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111v1](http://arxiv.org/abs/2605.30111v1)|null|
@@ -3628,6 +3631,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-09**|**The Shibboleth Effect: Auditing the Cross-Lingual Distributional Skew of Large Language Models**|Hakan Mehmetcik et.al.|[2606.11082v1](http://arxiv.org/abs/2606.11082v1)|null|
+|**2026-06-09**|**Bilinear gating of motor primitives: a principle linking dendritic computation to rapid goal-directed adaptation**|Cristiano Capone et.al.|[2606.10891v1](http://arxiv.org/abs/2606.10891v1)|null|
+|**2026-06-09**|**Optimal Post-Training Quantization Scales and Where to Find Them**|Juan Amboage et.al.|[2606.10890v1](http://arxiv.org/abs/2606.10890v1)|null|
+|**2026-06-09**|**Embodiment-conditioned Generalist Control for Multirotor Aerial Robots**|Orestis Konstantaropoulos et.al.|[2606.10857v1](http://arxiv.org/abs/2606.10857v1)|null|
+|**2026-06-09**|**CITRAS-FM: Tiny Time Series Foundation Model for Covariate-Informed Zero-Shot Forecasting**|Yosuke Yamaguchi et.al.|[2606.10798v1](http://arxiv.org/abs/2606.10798v1)|null|
+|**2026-06-09**|**Dep-LLM: Training-Free Depression Diagnosis via Evidence-Guided Structured Multi-factor with Reliable LLM Reasoning**|Yiqing Lyu et.al.|[2606.10796v1](http://arxiv.org/abs/2606.10796v1)|null|
+|**2026-06-09**|**Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data**|Anik Ghosh et.al.|[2606.10789v1](http://arxiv.org/abs/2606.10789v1)|null|
+|**2026-06-09**|**Don't waste SAM**|Nermeen Abou Baker et.al.|[2606.10696v1](http://arxiv.org/abs/2606.10696v1)|null|
+|**2026-06-09**|**UniDexTok: A Unified Dexterous Hand Tokenizer from Real Data**|Dong Fang et.al.|[2606.10683v1](http://arxiv.org/abs/2606.10683v1)|null|
+|**2026-06-09**|**Leveraging Metric Depth for Relative Depth Prediction**|Xiaoyang Bi et.al.|[2606.10628v1](http://arxiv.org/abs/2606.10628v1)|null|
 |**2026-06-08**|**ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies**|Haodi Hu et.al.|[2606.09630v1](http://arxiv.org/abs/2606.09630v1)|null|
 |**2026-06-08**|**Automated IEP Generation from Traditional Chinese Parent-Teacher Interviews via Corpus-Grounded Feature Diffusion**|Kuanlin Chen et.al.|[2606.09603v1](http://arxiv.org/abs/2606.09603v1)|null|
 |**2026-06-08**|**A VideoMAE-v2 Approach to Zero-Shot Traffic Accident Anticipation**|Siyuan Li et.al.|[2606.09542v1](http://arxiv.org/abs/2606.09542v1)|null|

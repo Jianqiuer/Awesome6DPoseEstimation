@@ -1,4 +1,4 @@
-## Updated on 2026.06.10
+## Updated on 2026.06.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|null|
+|**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|
+|**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|
+|**2026-06-09**|**From Simulation to Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting**|Woojung Son et.al.|[2606.11381v1](http://arxiv.org/abs/2606.11381v1)|null|
+|**2026-06-09**|**DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax**|Minseong Kweon et.al.|[2606.11326v1](http://arxiv.org/abs/2606.11326v1)|null|
 |**2026-06-08**|**Human Walking Sensing and Pose Estimation in the 6 GHz Band Using Amplitude and Phase CSI**|Zhaorui Yin et.al.|[2606.10048v1](http://arxiv.org/abs/2606.10048v1)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Relative Pose Estimation in Autonomous Driving Applications**|Tao Li et.al.|[2606.09569v1](http://arxiv.org/abs/2606.09569v1)|null|
 |**2026-06-08**|**Efficient Minimal Solvers for Visual-Inertial Relative Pose Estimation in Multi-Camera Systems**|Tao Li et.al.|[2606.09477v1](http://arxiv.org/abs/2606.09477v1)|null|
@@ -3032,12 +3037,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps**|Tiancheng Lai et.al.|[2606.11708v1](http://arxiv.org/abs/2606.11708v1)|null|
 |**2026-06-08**|**Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization**|Ray Zhang et.al.|[2606.10019v1](http://arxiv.org/abs/2606.10019v1)|null|
 |**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704v1](http://arxiv.org/abs/2605.29704v1)|null|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
@@ -3367,12 +3373,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048v1](http://arxiv.org/abs/2606.12048v1)|null|
 |**2026-06-03**|**WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory**|Chong Liu et.al.|[2606.09882v1](http://arxiv.org/abs/2606.09882v1)|null|
 |**2026-06-05**|**Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation**|Zihao Zhang et.al.|[2606.07280v1](http://arxiv.org/abs/2606.07280v1)|null|
 |**2026-06-01**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549v1](http://arxiv.org/abs/2606.01549v1)|null|
@@ -3637,12 +3644,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403v1](http://arxiv.org/abs/2606.12403v1)|null|
+|**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402v1](http://arxiv.org/abs/2606.12402v1)|null|
+|**2026-06-10**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368v1](http://arxiv.org/abs/2606.12368v1)|null|
+|**2026-06-10**|**Learning What to Say to Your VLA: Mostly Harmless Vision Language Action Model Steering**|Hyun Joe Jeong et.al.|[2606.12299v1](http://arxiv.org/abs/2606.12299v1)|null|
+|**2026-06-10**|**Can News Predict the Market? Limits of Zero-Shot Financial NLP and the Role of Explainable AI**|Ali M Karaoglu et.al.|[2606.12210v1](http://arxiv.org/abs/2606.12210v1)|null|
+|**2026-06-10**|**A Controlled Study of Decoding-Time Truthfulness Methods on Instruction-Tuned LLMs**|Ao Sun et.al.|[2606.12160v1](http://arxiv.org/abs/2606.12160v1)|null|
+|**2026-06-10**|**TopoCap: Learning Topology-Agnostic Motion Priors for Monocular Video-to-Animation**|Cheng-Feng Pu et.al.|[2606.12153v1](http://arxiv.org/abs/2606.12153v1)|null|
+|**2026-06-10**|**Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning**|Chuanke Pang et.al.|[2606.12109v1](http://arxiv.org/abs/2606.12109v1)|null|
+|**2026-06-10**|**Metadata-Aware Multi-Prompt Reasoning for Zero-Shot Accident Understanding**|Tarandeep Singh et.al.|[2606.12047v1](http://arxiv.org/abs/2606.12047v1)|null|
+|**2026-06-10**|**Tabular Foundation Models for Clinical Survival Analysis via Survival-Aware Adaptation**|Minh-Khoi Pham et.al.|[2606.12006v1](http://arxiv.org/abs/2606.12006v1)|null|
 |**2026-06-09**|**The Shibboleth Effect: Auditing the Cross-Lingual Distributional Skew of Large Language Models**|Hakan Mehmetcik et.al.|[2606.11082v1](http://arxiv.org/abs/2606.11082v1)|null|
 |**2026-06-09**|**Bilinear gating of motor primitives: a principle linking dendritic computation to rapid goal-directed adaptation**|Cristiano Capone et.al.|[2606.10891v1](http://arxiv.org/abs/2606.10891v1)|null|
 |**2026-06-09**|**Optimal Post-Training Quantization Scales and Where to Find Them**|Juan Amboage et.al.|[2606.10890v1](http://arxiv.org/abs/2606.10890v1)|null|
@@ -11187,5 +11204,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260611>back to top</a>)</p>
 

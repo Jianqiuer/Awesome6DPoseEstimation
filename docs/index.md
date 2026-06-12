@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.06.11
+## Updated on 2026.06.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|
+|**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|null|
 |**2026-06-10**|**Multi-View In-Cabin Monitoring System for Public Transport Vehicles**|Evgeny Gorelik et.al.|[2606.11739v1](http://arxiv.org/abs/2606.11739v1)|null|
 |**2026-06-10**|**Precision-Aware Illumination-Disentangled Vision Transformer for Spacecraft 6D Pose Estimation**|Zongwu Xie et.al.|[2606.11619v1](http://arxiv.org/abs/2606.11619v1)|null|
@@ -3035,6 +3037,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery**|Siyu Zhou et.al.|[2606.13488v1](http://arxiv.org/abs/2606.13488v1)|null|
 |**2026-06-10**|**Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps**|Tiancheng Lai et.al.|[2606.11708v1](http://arxiv.org/abs/2606.11708v1)|null|
 |**2026-06-08**|**Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization**|Ray Zhang et.al.|[2606.10019v1](http://arxiv.org/abs/2606.10019v1)|null|
 |**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704v1](http://arxiv.org/abs/2605.29704v1)|null|
@@ -3638,6 +3641,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-11**|**Mana: Dexterous Manipulation of Articulated Tools**|Zhao-Heng Yin et.al.|[2606.13677v1](http://arxiv.org/abs/2606.13677v1)|null|
+|**2026-06-11**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675v1](http://arxiv.org/abs/2606.13675v1)|null|
+|**2026-06-11**|**CloudCons: A Comprehensive End-to-End Benchmark for Cloud Resource Consolidation**|Xiaobin Zhang et.al.|[2606.13513v1](http://arxiv.org/abs/2606.13513v1)|null|
+|**2026-06-11**|**From Traditional Automation to Embodied Wireless Intelligence: Vision-Language-Action Empowered Physics-Aware Communication Networks**|Genze Jiang et.al.|[2606.13458v1](http://arxiv.org/abs/2606.13458v1)|null|
+|**2026-06-11**|**Zero-Shot Captioning for Cultural Heritage: Automated Image Analysis of Traditional Indonesian Clothing**|Anugrah Aidin Yotolembah et.al.|[2606.13275v1](http://arxiv.org/abs/2606.13275v1)|null|
+|**2026-06-11**|**Fully Distributed Multi-View 3D Tracking in Real-Time**|Byron Hernandez et.al.|[2606.13127v1](http://arxiv.org/abs/2606.13127v1)|null|
+|**2026-06-11**|**GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training**|Zhihai Bi et.al.|[2606.12995v1](http://arxiv.org/abs/2606.12995v1)|null|
+|**2026-06-11**|**EmbodiSteer: Steering Embodiment-Agnostic Visuomotor Policies with Joint-Space Guidance for Zero-Shot Cross-Embodiment Deployment**|Shihefeng Wang et.al.|[2606.12965v1](http://arxiv.org/abs/2606.12965v1)|null|
+|**2026-06-11**|**Multi-Turn Reasoning When Context Arrives in Pieces: Scalable Sharding and Memory-Augmented RL**|Shu Tong Luo et.al.|[2606.12941v1](http://arxiv.org/abs/2606.12941v1)|null|
+|**2026-06-11**|**Multi-Label Test-Time Adaptation with Bayesian Conditional Priors**|Qiru Li et.al.|[2606.12925v1](http://arxiv.org/abs/2606.12925v1)|null|
 |**2026-06-10**|**World Pilot: Steering Vision-Language-Action Models with World-Action Priors**|Zefu Lin et.al.|[2606.12403v1](http://arxiv.org/abs/2606.12403v1)|null|
 |**2026-06-10**|**DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?**|Jadelynn Dao et.al.|[2606.12402v1](http://arxiv.org/abs/2606.12402v1)|null|
 |**2026-06-10**|**DepthMaster: Unified Monocular Depth Estimation for Perspective and Panoramic Images**|Pengfei Wang et.al.|[2606.12368v1](http://arxiv.org/abs/2606.12368v1)|null|

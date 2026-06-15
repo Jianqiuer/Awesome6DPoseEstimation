@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.06.14
+## Updated on 2026.06.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389v1](http://arxiv.org/abs/2606.14389v1)|null|
 |**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|
 |**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|
 |**2026-06-10**|**SG2Loc: Sequential Visual Localization on 3D Scene Graphs**|Nicole Damblon et.al.|[2606.11880v1](http://arxiv.org/abs/2606.11880v1)|null|
@@ -3641,6 +3642,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654v1](http://arxiv.org/abs/2606.14654v1)|null|
+|**2026-06-12**|**A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health**|Pavlos Nicolaou et.al.|[2606.14604v1](http://arxiv.org/abs/2606.14604v1)|null|
+|**2026-06-12**|**Zero-shot generalization of transformer neural operators to larger domains**|Armand de Villeroché et.al.|[2606.14597v1](http://arxiv.org/abs/2606.14597v1)|null|
+|**2026-06-12**|**Coping in Crisis: Computational Modeling of Coping Styles in Digital Crisis Discourse During the 2023 Turkiye Earthquake**|Şevval Çakıcı et.al.|[2606.14420v1](http://arxiv.org/abs/2606.14420v1)|null|
+|**2026-06-12**|**What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective**|Jiazhen Huang et.al.|[2606.14299v1](http://arxiv.org/abs/2606.14299v1)|null|
+|**2026-06-12**|**Learning the Context of Errors: Black-Box Online Adaptation of Time Series Foundation Models**|Xilin Dai et.al.|[2606.14222v1](http://arxiv.org/abs/2606.14222v1)|null|
+|**2026-06-12**|**OdysSim: Building Foundation Models for Human Behavior Simulation**|Xuhui Zhou et.al.|[2606.14199v1](http://arxiv.org/abs/2606.14199v1)|null|
+|**2026-06-12**|**Digital Twin-Based Channel Generation Toolchain and Foundation Model for Low-Altitude XL-MIMO**|Mengyuan Li et.al.|[2606.14114v1](http://arxiv.org/abs/2606.14114v1)|null|
+|**2026-06-12**|**A New Multi-Domain Benchmark for Micro-Action Recognition and Detection**|Yanbin Hao et.al.|[2606.14096v1](http://arxiv.org/abs/2606.14096v1)|null|
+|**2026-06-12**|**Toward 360-Degree Indoor Panorama Editing via Tuning-Free Diffusion Model with Refocusing Cross-Attention**|Dinh-Khoi Vo et.al.|[2606.14035v1](http://arxiv.org/abs/2606.14035v1)|null|
 |**2026-06-11**|**Mana: Dexterous Manipulation of Articulated Tools**|Zhao-Heng Yin et.al.|[2606.13677v1](http://arxiv.org/abs/2606.13677v1)|null|
 |**2026-06-11**|**Improving Robotic Generalist Policies via Flow Reversal Steering**|Andy Tang et.al.|[2606.13675v1](http://arxiv.org/abs/2606.13675v1)|null|
 |**2026-06-11**|**CloudCons: A Comprehensive End-to-End Benchmark for Cloud Resource Consolidation**|Xiaobin Zhang et.al.|[2606.13513v1](http://arxiv.org/abs/2606.13513v1)|null|

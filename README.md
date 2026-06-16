@@ -1,4 +1,4 @@
-## Updated on 2026.06.15
+## Updated on 2026.06.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638v1](http://arxiv.org/abs/2606.16638v1)|null|
+|**2026-06-15**|**Rotational Symmetry based Object Pose Estimation from Point Clouds in the Absence of Known 3D Models**|Weichen Dai et.al.|[2606.16593v1](http://arxiv.org/abs/2606.16593v1)|null|
+|**2026-06-14**|**Leveraging Deep Learning for Object and Position Recognition of Load Carriers for Autonomous Logistics Vehicles**|Christoph Legat et.al.|[2606.16042v1](http://arxiv.org/abs/2606.16042v1)|null|
+|**2026-06-10**|**Deep Learning-Based Lunar Crater Terrain Relative Navigation**|Batu Candan et.al.|[2606.14776v1](http://arxiv.org/abs/2606.14776v1)|null|
 |**2026-06-12**|**MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances**|Robert Langendörfer et.al.|[2606.14389v1](http://arxiv.org/abs/2606.14389v1)|null|
 |**2026-06-11**|**A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis**|Manex Atxa et.al.|[2606.12988v1](http://arxiv.org/abs/2606.12988v1)|null|
 |**2026-06-10**|**Stereo Vision-Based Fall Prediction and Detection using Human Pose Estimation on the AMD Kria K26 SOM**|Shreyas Narasimhiah Ramesh et.al.|[2606.12473v1](http://arxiv.org/abs/2606.12473v1)|null|
@@ -3040,12 +3044,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672v1](http://arxiv.org/abs/2606.16672v1)|null|
 |**2026-06-11**|**Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery**|Siyu Zhou et.al.|[2606.13488v1](http://arxiv.org/abs/2606.13488v1)|null|
 |**2026-06-10**|**Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps**|Tiancheng Lai et.al.|[2606.11708v1](http://arxiv.org/abs/2606.11708v1)|null|
 |**2026-06-08**|**Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization**|Ray Zhang et.al.|[2606.10019v1](http://arxiv.org/abs/2606.10019v1)|null|
@@ -3377,7 +3382,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3648,12 +3653,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-15**|**Human Universal Grasping**|Kevin Yuanbo Wu et.al.|[2606.17054v1](http://arxiv.org/abs/2606.17054v1)|null|
+|**2026-06-15**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030v1](http://arxiv.org/abs/2606.17030v1)|null|
+|**2026-06-15**|**ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation**|Tran Dinh Tien et.al.|[2606.16996v1](http://arxiv.org/abs/2606.16996v1)|null|
+|**2026-06-15**|**SurroundNEXO: Ego-Centric Metric Bridging for Spatially Consistent Geometry in Autonomous Driving**|Shuai Yuan et.al.|[2606.16960v1](http://arxiv.org/abs/2606.16960v1)|null|
+|**2026-06-15**|**RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting**|Arunkumar V et.al.|[2606.16925v1](http://arxiv.org/abs/2606.16925v1)|null|
+|**2026-06-15**|**Compositional Reasoning Depth Predicts Clinical AI Failure: Empirical Evidence Consistent with Transformer Compositionality Limits in Electronic Health Record Question Answering**|Sanjay Basu et.al.|[2606.16890v1](http://arxiv.org/abs/2606.16890v1)|null|
+|**2026-06-15**|**Robust Dual-Signal Fusion: Hybrid Neuro-Symbolic Gating with Compressed Chain-of-Thought Refinement for Irony Detection in Social Media Texts**|Ankit Bhattacharjee et.al.|[2606.16845v1](http://arxiv.org/abs/2606.16845v1)|null|
+|**2026-06-15**|**Data-Driven Decoding of Russell's Circumplex Model of Affect**|Amdjed Belaref et.al.|[2606.16843v1](http://arxiv.org/abs/2606.16843v1)|null|
+|**2026-06-15**|**SUP-MCRL: Subject-aware Unified Pseudo-feature Coded Multimodal Contrastive Representation Learning for EEG Visual Decoding**|Shengyu Gong et.al.|[2606.16615v1](http://arxiv.org/abs/2606.16615v1)|null|
+|**2026-06-15**|**ArtNet: A JEPA-Like Articulatory Predictive Framework for Robust Zero-Shot Phoneme Recognition**|Zeqian Hu et.al.|[2606.16595v1](http://arxiv.org/abs/2606.16595v1)|null|
 |**2026-06-12**|**Abstracting Cross-Domain Action Sequences into Interpretable Workflows**|Gaurav Verma et.al.|[2606.14654v1](http://arxiv.org/abs/2606.14654v1)|null|
 |**2026-06-12**|**A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health**|Pavlos Nicolaou et.al.|[2606.14604v1](http://arxiv.org/abs/2606.14604v1)|null|
 |**2026-06-12**|**Zero-shot generalization of transformer neural operators to larger domains**|Armand de Villeroché et.al.|[2606.14597v1](http://arxiv.org/abs/2606.14597v1)|null|
@@ -11228,5 +11243,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260615>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260616>back to top</a>)</p>
 

@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.06.16
+## Updated on 2026.06.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|
+|**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935v1](http://arxiv.org/abs/2606.17935v1)|null|
+|**2026-06-16**|**A Wearable Multimodal Ultrasound+Inertial System for Real-Time Virtual Reality Interaction**|Giusy Spacone et.al.|[2606.17741v1](http://arxiv.org/abs/2606.17741v1)|null|
+|**2026-06-16**|**RICH-SLAM: Radar SLAM with Incremental and Continuous Hilbert Mapping**|Bingbing Zhang et.al.|[2606.17534v1](http://arxiv.org/abs/2606.17534v1)|null|
+|**2026-06-16**|**Impact of Hand Impairment and Occlusions on Hand Pose Estimation Accuracy in Augmented Reality Applications**|Damian M. Manzone et.al.|[2606.17427v1](http://arxiv.org/abs/2606.17427v1)|null|
+|**2026-06-15**|**Geometry-Consistent Endoscopic Representations for Image-Guided Navigation via Structured Foundation Model Adaptation**|Hongchao Shu et.al.|[2606.17340v1](http://arxiv.org/abs/2606.17340v1)|null|
 |**2026-06-15**|**MVM-IOD: An Industrial Object-Centric Benchmark Dataset for the Evaluation of 3D Reconstruction Methods**|Robert Langendörfer et.al.|[2606.16638v1](http://arxiv.org/abs/2606.16638v1)|null|
 |**2026-06-15**|**Rotational Symmetry based Object Pose Estimation from Point Clouds in the Absence of Known 3D Models**|Weichen Dai et.al.|[2606.16593v1](http://arxiv.org/abs/2606.16593v1)|null|
 |**2026-06-14**|**Leveraging Deep Learning for Object and Position Recognition of Load Carriers for Autonomous Logistics Vehicles**|Christoph Legat et.al.|[2606.16042v1](http://arxiv.org/abs/2606.16042v1)|null|
@@ -3647,6 +3653,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250v1](http://arxiv.org/abs/2606.18250v1)|null|
+|**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235v1](http://arxiv.org/abs/2606.18235v1)|null|
+|**2026-06-16**|**Grounding Spoken LLMs in Multi-Speaker Audio via Diarization Conditioning**|Alexander Polok et.al.|[2606.18134v1](http://arxiv.org/abs/2606.18134v1)|null|
+|**2026-06-16**|**Ternary Mamba: Grouped Quantization-Aware Training of W1.58A16 State Space Models**|Ramprasath Ganesaraja et.al.|[2606.18114v1](http://arxiv.org/abs/2606.18114v1)|null|
+|**2026-06-16**|**Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System**|Jiazhao Zhang et.al.|[2606.18112v1](http://arxiv.org/abs/2606.18112v1)|null|
+|**2026-06-16**|**EAGG: Embodiment-Aligned Grasp Generation via Geometry-Aware Graph Conditioning**|Wanhao Niu et.al.|[2606.18092v1](http://arxiv.org/abs/2606.18092v1)|null|
+|**2026-06-16**|**Reading between the Lines: Leveraging Large Language Models for Global Dementia and Depression Assessment from Clinical Interviews**|Franziska Braun et.al.|[2606.18019v1](http://arxiv.org/abs/2606.18019v1)|null|
+|**2026-06-16**|**Half a Link can Be Enough to Predict a Whole Link: Understanding Generalization in Knowledge Graph Foundation Models**|Cosimo Gregucci et.al.|[2606.18001v1](http://arxiv.org/abs/2606.18001v1)|null|
+|**2026-06-16**|**Plug-and-Adapt: Multimodal Coreference Resolution at First Sight with a Pretrained Alignment Model**|Jinghan Wu et.al.|[2606.17950v1](http://arxiv.org/abs/2606.17950v1)|null|
+|**2026-06-16**|**Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models**|Haoqi Yuan et.al.|[2606.17846v1](http://arxiv.org/abs/2606.17846v1)|null|
 |**2026-06-15**|**Human Universal Grasping**|Kevin Yuanbo Wu et.al.|[2606.17054v1](http://arxiv.org/abs/2606.17054v1)|null|
 |**2026-06-15**|**Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation**|Jie Zhang et.al.|[2606.17030v1](http://arxiv.org/abs/2606.17030v1)|null|
 |**2026-06-15**|**ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation**|Tran Dinh Tien et.al.|[2606.16996v1](http://arxiv.org/abs/2606.16996v1)|null|

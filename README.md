@@ -1,4 +1,4 @@
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|
+|**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|null|
 |**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|
 |**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935v1](http://arxiv.org/abs/2606.17935v1)|null|
 |**2026-06-16**|**A Wearable Multimodal Ultrasound+Inertial System for Real-Time Virtual Reality Interaction**|Giusy Spacone et.al.|[2606.17741v1](http://arxiv.org/abs/2606.17741v1)|null|
@@ -3050,7 +3052,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3388,7 +3390,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3659,12 +3661,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340v1](http://arxiv.org/abs/2606.19340v1)|null|
+|**2026-06-17**|**A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2**|Yijin Wang et.al.|[2606.19259v1](http://arxiv.org/abs/2606.19259v1)|null|
+|**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959v1](http://arxiv.org/abs/2606.18959v1)|null|
+|**2026-06-17**|**Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement**|Kinam Kim et.al.|[2606.18953v1](http://arxiv.org/abs/2606.18953v1)|null|
+|**2026-06-17**|**Zero-Shot Active Feature Acquisition via LLM-Elicitation**|Binyamin Perets et.al.|[2606.18933v1](http://arxiv.org/abs/2606.18933v1)|null|
+|**2026-06-17**|**Space Is Intelligence: Neural Semigroup Superposition for Riemannian Metric Generation**|Chenghao Xu et.al.|[2606.18828v1](http://arxiv.org/abs/2606.18828v1)|null|
+|**2026-06-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al.|[2606.18749v1](http://arxiv.org/abs/2606.18749v1)|null|
+|**2026-06-17**|**LLMs Struggle to Measure What Distinguishes Students of Different Proficiency Levels: A Study of Item Discrimination in Reading Comprehension Assessment**|Han Chen et.al.|[2606.18709v1](http://arxiv.org/abs/2606.18709v1)|null|
+|**2026-06-17**|**PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation**|Asad Channa et.al.|[2606.18707v1](http://arxiv.org/abs/2606.18707v1)|null|
+|**2026-06-17**|**Responsible ASR: Overcoming Challenges of Foundational Models in Narrow-Band and Low-Resource Settings**|Tejas Godambe et.al.|[2606.18659v1](http://arxiv.org/abs/2606.18659v1)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250v1](http://arxiv.org/abs/2606.18250v1)|null|
 |**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235v1](http://arxiv.org/abs/2606.18235v1)|null|
 |**2026-06-16**|**Grounding Spoken LLMs in Multi-Speaker Audio via Diarization Conditioning**|Alexander Polok et.al.|[2606.18134v1](http://arxiv.org/abs/2606.18134v1)|null|
@@ -11259,5 +11271,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
 

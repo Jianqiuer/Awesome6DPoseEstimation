@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.06.17
+## Updated on 2026.06.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|
+|**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|null|
 |**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|
 |**2026-06-16**|**MoonSplat: Monocular Online Gaussian Splatting with Sim(3) Global Optimization**|Guo Pu et.al.|[2606.17935v1](http://arxiv.org/abs/2606.17935v1)|null|
 |**2026-06-16**|**A Wearable Multimodal Ultrasound+Inertial System for Real-Time Virtual Reality Interaction**|Giusy Spacone et.al.|[2606.17741v1](http://arxiv.org/abs/2606.17741v1)|null|
@@ -3653,6 +3655,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340v1](http://arxiv.org/abs/2606.19340v1)|null|
+|**2026-06-17**|**A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2**|Yijin Wang et.al.|[2606.19259v1](http://arxiv.org/abs/2606.19259v1)|null|
+|**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959v1](http://arxiv.org/abs/2606.18959v1)|null|
+|**2026-06-17**|**Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement**|Kinam Kim et.al.|[2606.18953v1](http://arxiv.org/abs/2606.18953v1)|null|
+|**2026-06-17**|**Zero-Shot Active Feature Acquisition via LLM-Elicitation**|Binyamin Perets et.al.|[2606.18933v1](http://arxiv.org/abs/2606.18933v1)|null|
+|**2026-06-17**|**Space Is Intelligence: Neural Semigroup Superposition for Riemannian Metric Generation**|Chenghao Xu et.al.|[2606.18828v1](http://arxiv.org/abs/2606.18828v1)|null|
+|**2026-06-17**|**Toward Training-Free Zero-Shot Anomaly Detection in 3D Medical Images: A Batch-Based Approach Using 2D Foundation Models**|Tai Le-Gia et.al.|[2606.18749v1](http://arxiv.org/abs/2606.18749v1)|null|
+|**2026-06-17**|**LLMs Struggle to Measure What Distinguishes Students of Different Proficiency Levels: A Study of Item Discrimination in Reading Comprehension Assessment**|Han Chen et.al.|[2606.18709v1](http://arxiv.org/abs/2606.18709v1)|null|
+|**2026-06-17**|**PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation**|Asad Channa et.al.|[2606.18707v1](http://arxiv.org/abs/2606.18707v1)|null|
+|**2026-06-17**|**Responsible ASR: Overcoming Challenges of Foundational Models in Narrow-Band and Low-Resource Settings**|Tejas Godambe et.al.|[2606.18659v1](http://arxiv.org/abs/2606.18659v1)|null|
 |**2026-06-16**|**Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion**|Nils Morbitzer et.al.|[2606.18250v1](http://arxiv.org/abs/2606.18250v1)|null|
 |**2026-06-16**|**EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation**|Qi Chai et.al.|[2606.18235v1](http://arxiv.org/abs/2606.18235v1)|null|
 |**2026-06-16**|**Grounding Spoken LLMs in Multi-Speaker Audio via Diarization Conditioning**|Alexander Polok et.al.|[2606.18134v1](http://arxiv.org/abs/2606.18134v1)|null|

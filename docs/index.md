@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|
+|**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|
+|**2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jonghoon Lee et.al.|[2606.20118v1](http://arxiv.org/abs/2606.20118v1)|null|
 |**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|
 |**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|null|
 |**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|
@@ -3655,6 +3658,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-18**|**JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising**|Siang-Ling Zhang et.al.|[2606.20563v1](http://arxiv.org/abs/2606.20563v1)|null|
+|**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518v1](http://arxiv.org/abs/2606.20518v1)|null|
+|**2026-06-18**|**CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges**|Helena Bonaldi et.al.|[2606.20369v1](http://arxiv.org/abs/2606.20369v1)|null|
+|**2026-06-18**|**Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act**|Ali Asaria et.al.|[2606.20359v1](http://arxiv.org/abs/2606.20359v1)|null|
+|**2026-06-18**|**GEN-Guard: Correcting Generalization Failures for Deployable Federated Surgical AI**|Julia Alekseenko et.al.|[2606.20303v1](http://arxiv.org/abs/2606.20303v1)|null|
+|**2026-06-18**|**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**|SooHwan Eom et.al.|[2606.20266v1](http://arxiv.org/abs/2606.20266v1)|null|
+|**2026-06-18**|**The Register Gap: A Meaning Intelligence Framework for Nigerian Public Discourse**|Celestine Achi et.al.|[2606.20255v1](http://arxiv.org/abs/2606.20255v1)|null|
+|**2026-06-18**|**Zero-VC: Zero-Lookahead Streaming Voice Conversion via Speaker Anonymization**|Yudong Li et.al.|[2606.20218v1](http://arxiv.org/abs/2606.20218v1)|null|
+|**2026-06-18**|**FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model**|Yuhwan Jeong et.al.|[2606.20110v1](http://arxiv.org/abs/2606.20110v1)|null|
+|**2026-06-18**|**Personalized Keyword Spotting for User-Defined Keywords Leveraging Text-Independent Speaker Verification**|Ming-Hsiang Hu et.al.|[2606.20106v1](http://arxiv.org/abs/2606.20106v1)|null|
 |**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340v1](http://arxiv.org/abs/2606.19340v1)|null|
 |**2026-06-17**|**A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2**|Yijin Wang et.al.|[2606.19259v1](http://arxiv.org/abs/2606.19259v1)|null|
 |**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959v1](http://arxiv.org/abs/2606.18959v1)|null|

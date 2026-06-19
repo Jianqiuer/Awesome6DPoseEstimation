@@ -1,4 +1,4 @@
-## Updated on 2026.06.18
+## Updated on 2026.06.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|
+|**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|
+|**2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jonghoon Lee et.al.|[2606.20118v1](http://arxiv.org/abs/2606.20118v1)|null|
 |**2026-06-17**|**Hardware- and Vision-in-the-Loop Validation of Deep Monocular Pose Estimation for Autonomous Maritime UAV Flight**|Maneesha Wickramasuriya et.al.|[2606.19176v1](http://arxiv.org/abs/2606.19176v1)|null|
 |**2026-06-16**|**CAOA -- Completion-Assisted Object-CAD Alignment**|Hiranya Garbha Kumar et.al.|[2606.18429v1](http://arxiv.org/abs/2606.18429v1)|null|
 |**2026-06-16**|**SPARK: Low Latency Single-Camera 3D Pose Estimation for Autonomous Racing using Keypoints**|Dominic Ebner et.al.|[2606.17936v1](http://arxiv.org/abs/2606.17936v1)|null|
@@ -3052,7 +3055,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260619>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3390,7 +3393,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260619>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3661,12 +3664,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260619>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-18**|**JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising**|Siang-Ling Zhang et.al.|[2606.20563v1](http://arxiv.org/abs/2606.20563v1)|null|
+|**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518v1](http://arxiv.org/abs/2606.20518v1)|null|
+|**2026-06-18**|**CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges**|Helena Bonaldi et.al.|[2606.20369v1](http://arxiv.org/abs/2606.20369v1)|null|
+|**2026-06-18**|**Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act**|Ali Asaria et.al.|[2606.20359v1](http://arxiv.org/abs/2606.20359v1)|null|
+|**2026-06-18**|**GEN-Guard: Correcting Generalization Failures for Deployable Federated Surgical AI**|Julia Alekseenko et.al.|[2606.20303v1](http://arxiv.org/abs/2606.20303v1)|null|
+|**2026-06-18**|**Transcript-Free Flow-Matching Text-to-Speech via Speech Feature Conditioning**|SooHwan Eom et.al.|[2606.20266v1](http://arxiv.org/abs/2606.20266v1)|null|
+|**2026-06-18**|**The Register Gap: A Meaning Intelligence Framework for Nigerian Public Discourse**|Celestine Achi et.al.|[2606.20255v1](http://arxiv.org/abs/2606.20255v1)|null|
+|**2026-06-18**|**Zero-VC: Zero-Lookahead Streaming Voice Conversion via Speaker Anonymization**|Yudong Li et.al.|[2606.20218v1](http://arxiv.org/abs/2606.20218v1)|null|
+|**2026-06-18**|**FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model**|Yuhwan Jeong et.al.|[2606.20110v1](http://arxiv.org/abs/2606.20110v1)|null|
+|**2026-06-18**|**Personalized Keyword Spotting for User-Defined Keywords Leveraging Text-Independent Speaker Verification**|Ming-Hsiang Hu et.al.|[2606.20106v1](http://arxiv.org/abs/2606.20106v1)|null|
 |**2026-06-17**|**Zero-Shot Long-Horizon Dexterous Manipulation via Multi-View 3D-Grounded VLM Reasoning**|Jisoo Kim et.al.|[2606.19340v1](http://arxiv.org/abs/2606.19340v1)|null|
 |**2026-06-17**|**A Multi-Domain Benchmark for Detecting AI-Generated Text-Rich Images from GPT-Image-2**|Yijin Wang et.al.|[2606.19259v1](http://arxiv.org/abs/2606.19259v1)|null|
 |**2026-06-17**|**TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer**|Arunim Joarder et.al.|[2606.18959v1](http://arxiv.org/abs/2606.18959v1)|null|
@@ -11271,5 +11284,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260619>back to top</a>)</p>
 

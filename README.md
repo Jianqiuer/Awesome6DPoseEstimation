@@ -1,4 +1,4 @@
-## Updated on 2026.06.22
+## Updated on 2026.06.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Pose Anything Anywhere:Model-free Object Poses from Arbitrary References**|Hongli Xu et.al.|[2606.23634v1](http://arxiv.org/abs/2606.23634v1)|null|
+|**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293v1](http://arxiv.org/abs/2606.23293v1)|null|
+|**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856v1](http://arxiv.org/abs/2606.22856v1)|null|
+|**2026-06-20**|**Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation**|Seojung Min et.al.|[2606.22251v1](http://arxiv.org/abs/2606.22251v1)|null|
+|**2026-06-20**|**Learning Cross-View Semantic Priors for Single-Reference Unseen Object Pose Estimation**|Jiahong Chen et.al.|[2606.22076v1](http://arxiv.org/abs/2606.22076v1)|null|
+|**2026-06-19**|**Rotation-Aware Point-Cloud Embeddings for Vision-Based In-Hand Reorientation**|Yashom Dighe et.al.|[2606.21788v1](http://arxiv.org/abs/2606.21788v1)|null|
+|**2026-06-19**|**Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers**|Philippe Weinzaepfel et.al.|[2606.21562v1](http://arxiv.org/abs/2606.21562v1)|null|
+|**2026-06-19**|**Unsupervised Domain Adaptation for Sim-to-Real Object Pose Estimation with Contrastive Alignment and Pseudo-Label Refinement**|Nidhal Eddine Chenni et.al.|[2606.21287v1](http://arxiv.org/abs/2606.21287v1)|null|
 |**2026-06-18**|**CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation**|Ilona Demler et.al.|[2606.20542v1](http://arxiv.org/abs/2606.20542v1)|null|
 |**2026-06-18**|**Efficiently Linking Real Scenes with Synthetic Data Generation for AI-based Cognitive Robotics and Computer Vision Applications**|Paul Koch et.al.|[2606.20272v1](http://arxiv.org/abs/2606.20272v1)|null|
 |**2026-06-18**|**Pose6DAug: Physically Plausible Multi-view Object Swapping for Robot Data Augmentation**|Jonghoon Lee et.al.|[2606.20118v1](http://arxiv.org/abs/2606.20118v1)|null|
@@ -3055,7 +3063,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260623>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3393,7 +3401,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260623>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3664,12 +3672,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260623>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-22**|**Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation**|Kuancheng Wang et.al.|[2606.23625v1](http://arxiv.org/abs/2606.23625v1)|null|
+|**2026-06-22**|**Decentralized Autonomous Traffic Management through Corridor Networks**|Jasmine Jerry Aloor et.al.|[2606.23585v1](http://arxiv.org/abs/2606.23585v1)|null|
+|**2026-06-22**|**SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations**|Nandana Menon et.al.|[2606.23548v1](http://arxiv.org/abs/2606.23548v1)|null|
+|**2026-06-22**|**SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors**|Pratyaksh Rao et.al.|[2606.23444v1](http://arxiv.org/abs/2606.23444v1)|null|
+|**2026-06-22**|**Do LLM Embedding Spaces Recover Expert Structure?**|Yixuan Zhu et.al.|[2606.23394v1](http://arxiv.org/abs/2606.23394v1)|null|
+|**2026-06-22**|**Distribution-Aware Diffusion-LLM for Robust Ultra-Long-Term Time Series Forecasting**|Falguni Ghosh et.al.|[2606.23391v1](http://arxiv.org/abs/2606.23391v1)|null|
+|**2026-06-22**|**IOI: Decoupling Kinematics and Physics for Interactive World Models**|Chengyu Bai et.al.|[2606.23296v1](http://arxiv.org/abs/2606.23296v1)|null|
+|**2026-06-22**|**Causal Reward World Models: Zero-shot Reward Design for Automated Skill Generation**|Yang Yang et.al.|[2606.23280v1](http://arxiv.org/abs/2606.23280v1)|null|
+|**2026-06-22**|**Universal Interatomic Potentials as Configuration-Space Generators for One-Shot and Iterative Fine-Tuning of Ab Initio-Accurate Material-Specific Models**|Jonas Hänseroth et.al.|[2606.23214v1](http://arxiv.org/abs/2606.23214v1)|null|
+|**2026-06-22**|**Efficient Network Inference via Hardware-Aware Architecture Search, Model Pruning & Quantization**|Lucas Heublein et.al.|[2606.23210v1](http://arxiv.org/abs/2606.23210v1)|null|
 |**2026-06-18**|**JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising**|Siang-Ling Zhang et.al.|[2606.20563v1](http://arxiv.org/abs/2606.20563v1)|null|
 |**2026-06-18**|**FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS**|Harshit Singh et.al.|[2606.20518v1](http://arxiv.org/abs/2606.20518v1)|null|
 |**2026-06-18**|**CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges**|Helena Bonaldi et.al.|[2606.20369v1](http://arxiv.org/abs/2606.20369v1)|null|
@@ -11284,5 +11302,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260622>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260623>back to top</a>)</p>
 

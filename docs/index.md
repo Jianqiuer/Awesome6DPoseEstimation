@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.06.23
+## Updated on 2026.06.24
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization**|Zhaopeng Cui et.al.|[2606.24767v1](http://arxiv.org/abs/2606.24767v1)|null|
+|**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|
+|**2026-06-23**|**RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes**|Arsh Chawla et.al.|[2606.24403v1](http://arxiv.org/abs/2606.24403v1)|null|
+|**2026-06-23**|**Bengal-HP_RU: A Dataset of Bengal People For Head Pose Estimation**|Md. Ahanaf Arif Khan et.al.|[2606.24122v1](http://arxiv.org/abs/2606.24122v1)|null|
+|**2026-06-22**|**Integrated Sensing and Communications for Real-time Avatar Control in XR over 5G**|Nabeel Nisar Bhat et.al.|[2606.23771v1](http://arxiv.org/abs/2606.23771v1)|null|
 |**2026-06-22**|**Pose Anything Anywhere:Model-free Object Poses from Arbitrary References**|Hongli Xu et.al.|[2606.23634v1](http://arxiv.org/abs/2606.23634v1)|null|
 |**2026-06-22**|**Flow6D: Discrete-to-Continuous Flow Matching for Efficient and Accurate Category-Level 6D Pose Estimation**|Mingyu Mei et.al.|[2606.23293v1](http://arxiv.org/abs/2606.23293v1)|null|
 |**2026-06-22**|**G-MASt3R-SfM: Graph-based View Pruning and Multi-stage Optimization for Robust SfM**|Toshiki Watanabe et.al.|[2606.22856v1](http://arxiv.org/abs/2606.22856v1)|null|
@@ -3666,6 +3671,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-23**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Marvin Rüdt et.al.|[2606.24814v1](http://arxiv.org/abs/2606.24814v1)|null|
+|**2026-06-23**|**UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving**|Xiaowei Gao et.al.|[2606.24759v1](http://arxiv.org/abs/2606.24759v1)|null|
+|**2026-06-23**|**Agentic Collaborative Cognition for Zero-Shot 3D Understanding**|Wenxin Wang et.al.|[2606.24649v1](http://arxiv.org/abs/2606.24649v1)|null|
+|**2026-06-23**|**AdversaBench: Automated LLM Red-Teaming with Multi-Judge Confirmation and Cross-Model Transferability**|Khanak Khandelwal et.al.|[2606.24589v1](http://arxiv.org/abs/2606.24589v1)|null|
+|**2026-06-23**|**Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation**|Marta Sumyk et.al.|[2606.24515v1](http://arxiv.org/abs/2606.24515v1)|null|
+|**2026-06-23**|**FT-WBC: Learning Fault-Tolerant Whole-Body Control for Legged Loco-Manipulation**|Yudong Zhong et.al.|[2606.24466v1](http://arxiv.org/abs/2606.24466v1)|null|
+|**2026-06-23**|**Boosting Text-Driven Video Segmentation via Geometry-Aware Distillation**|Tianyu Zhu et.al.|[2606.24464v1](http://arxiv.org/abs/2606.24464v1)|null|
+|**2026-06-23**|**Lite Any Stereo V2: Faster and Stronger Efficient Zero-Shot Stereo Matching**|Junpeng Jing et.al.|[2606.24457v1](http://arxiv.org/abs/2606.24457v1)|null|
+|**2026-06-23**|**SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking**|Mohamad Alansari et.al.|[2606.24449v1](http://arxiv.org/abs/2606.24449v1)|null|
+|**2026-06-23**|**Beyond Logprobs: A Multi-Signal Confidence Engine for LLM-Based Document Field Extraction**|Nitesh Kumar et.al.|[2606.24420v1](http://arxiv.org/abs/2606.24420v1)|null|
 |**2026-06-22**|**Learning to See While Learning to Act: Diffusion Models for Active Perception in Robot Imitation**|Kuancheng Wang et.al.|[2606.23625v1](http://arxiv.org/abs/2606.23625v1)|null|
 |**2026-06-22**|**Decentralized Autonomous Traffic Management through Corridor Networks**|Jasmine Jerry Aloor et.al.|[2606.23585v1](http://arxiv.org/abs/2606.23585v1)|null|
 |**2026-06-22**|**SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations**|Nandana Menon et.al.|[2606.23548v1](http://arxiv.org/abs/2606.23548v1)|null|

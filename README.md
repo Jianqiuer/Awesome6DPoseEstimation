@@ -1,4 +1,4 @@
-## Updated on 2026.06.24
+## Updated on 2026.06.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**ScaleHP: Estimating Hand Pose in Metric Space**|Ruitao Jing et.al.|[2606.25619v1](http://arxiv.org/abs/2606.25619v1)|null|
+|**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284v1](http://arxiv.org/abs/2606.25284v1)|null|
+|**2026-06-24**|**OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos**|Oussema Dhaouadi et.al.|[2606.25245v1](http://arxiv.org/abs/2606.25245v1)|null|
+|**2026-06-23**|**Invariant Kalman filtering for extended pose estimation in multi-IMU articulated rigid-body systems**|Sven Goffin et.al.|[2606.25083v1](http://arxiv.org/abs/2606.25083v1)|null|
 |**2026-06-23**|**Compact Object-Level Representations with Open-Vocabulary Understanding for Indoor Visual Relocalization**|Zhaopeng Cui et.al.|[2606.24767v1](http://arxiv.org/abs/2606.24767v1)|null|
 |**2026-06-23**|**Supervise What Survives: Geometry-Guided VLA Adaptation from Synthetic Robot Videos**|Danze Chen et.al.|[2606.24448v1](http://arxiv.org/abs/2606.24448v1)|null|
 |**2026-06-23**|**RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes**|Arsh Chawla et.al.|[2606.24403v1](http://arxiv.org/abs/2606.24403v1)|null|
@@ -3068,7 +3072,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3406,7 +3410,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3677,12 +3681,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance**|Bo Chen et.al.|[2606.26062v1](http://arxiv.org/abs/2606.26062v1)|null|
+|**2026-06-24**|**Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm**|Cheng Ouyang et.al.|[2606.26048v1](http://arxiv.org/abs/2606.26048v1)|null|
+|**2026-06-24**|**G2DP: Diffusion Planning with Spatio-Temporal Grid Guidance**|Hang Yu et.al.|[2606.26017v1](http://arxiv.org/abs/2606.26017v1)|null|
+|**2026-06-24**|**TacVerse: A Multi-Sensor Dataset and Benchmark for Cross-Sensor Vision-Based Tactile Perception**|Lan Wei et.al.|[2606.25877v1](http://arxiv.org/abs/2606.25877v1)|null|
+|**2026-06-24**|**StairMaster: Learning to Conquer Risky Hollow Stairs for Agile Quadrupedal Robots**|Xincheng Tang et.al.|[2606.25765v1](http://arxiv.org/abs/2606.25765v1)|null|
+|**2026-06-24**|**Dual Distribution Estimation for Zero-shot Noisy Test-Time Adaptation with VLMs**|Wenjie Zhu et.al.|[2606.25758v1](http://arxiv.org/abs/2606.25758v1)|null|
+|**2026-06-24**|**What Does the Brain See? Multiview Neural Representations to Demystify the Brain-Visual Alignment**|Salini Yadav et.al.|[2606.25718v1](http://arxiv.org/abs/2606.25718v1)|null|
+|**2026-06-24**|**Joint Residual Reweighting for Classifier Free Guidance in Flow-Matching Zero-Shot TTS**|Runwu Shi et.al.|[2606.25672v1](http://arxiv.org/abs/2606.25672v1)|null|
+|**2026-06-24**|**Auto-Labelling-Based Domain Transfer for 3D Object Detection on a Bicycle-Mounted LiDAR Platform**|Mario Finkbeiner et.al.|[2606.25652v1](http://arxiv.org/abs/2606.25652v1)|null|
+|**2026-06-24**|**SFL-MTSC: Leveraging Semantic Frame-Level Multi-Task Self-Consistency for Robust Multi-Intent Spoken Language Understanding**|Po-Yen Chen et.al.|[2606.25552v1](http://arxiv.org/abs/2606.25552v1)|null|
 |**2026-06-23**|**Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics**|Marvin Rüdt et.al.|[2606.24814v1](http://arxiv.org/abs/2606.24814v1)|null|
 |**2026-06-23**|**UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving**|Xiaowei Gao et.al.|[2606.24759v1](http://arxiv.org/abs/2606.24759v1)|null|
 |**2026-06-23**|**Agentic Collaborative Cognition for Zero-Shot 3D Understanding**|Wenxin Wang et.al.|[2606.24649v1](http://arxiv.org/abs/2606.24649v1)|null|
@@ -11317,5 +11331,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260624>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
 

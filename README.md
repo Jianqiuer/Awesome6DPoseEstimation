@@ -1,4 +1,4 @@
-## Updated on 2026.06.25
+## Updated on 2026.06.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Rolling Shutter Relative Pose Estimation Made Practical**|Daniel Barath et.al.|[2606.26863v1](http://arxiv.org/abs/2606.26863v1)|null|
+|**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616v1](http://arxiv.org/abs/2606.26616v1)|null|
+|**2026-06-25**|**DanceDuo: Bridging Human Movement and AI Choreography**|Gia-Cat Bui-Le et.al.|[2606.26507v1](http://arxiv.org/abs/2606.26507v1)|null|
 |**2026-06-24**|**ScaleHP: Estimating Hand Pose in Metric Space**|Ruitao Jing et.al.|[2606.25619v1](http://arxiv.org/abs/2606.25619v1)|null|
 |**2026-06-24**|**Evaluation Protocols and Validation for Cameras in Indoor Healthcare Monitoring**|Amirhossein Dadashzadeh et.al.|[2606.25284v1](http://arxiv.org/abs/2606.25284v1)|null|
 |**2026-06-24**|**OrthoTrack: Continuous 6-DoF UAV Trajectory Estimation Anchored in Public Orthophotos**|Oussema Dhaouadi et.al.|[2606.25245v1](http://arxiv.org/abs/2606.25245v1)|null|
@@ -3072,7 +3075,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260626>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3410,7 +3413,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260626>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3681,12 +3684,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260626>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-25**|**Autoregressive Boltzmann Generators**|Danyal Rehman et.al.|[2606.27361v1](http://arxiv.org/abs/2606.27361v1)|null|
+|**2026-06-25**|**Error-Conditioned Neural Solvers**|Haina Jiang et.al.|[2606.27354v1](http://arxiv.org/abs/2606.27354v1)|null|
+|**2026-06-25**|**Bridging Performance and Generalization in Reinforcement Learning for Agile Flight**|Jonathan Green et.al.|[2606.27348v1](http://arxiv.org/abs/2606.27348v1)|null|
+|**2026-06-25**|**RelAfford6D: Relational 6D Affordance Graphs for Constraint-Driven Robotic Manipulation**|Guodong Zhang et.al.|[2606.27036v1](http://arxiv.org/abs/2606.27036v1)|null|
+|**2026-06-25**|**In-Context Model Predictive Generation: Open-Vocabulary Motion Synthesis from Language Models to Physics**|Xiaomeng Fu et.al.|[2606.26981v1](http://arxiv.org/abs/2606.26981v1)|null|
+|**2026-06-25**|**RobOralScan: Learning Active Intraoral Scanning for Robotic Dental Reconstruction**|Jinhyung Lee et.al.|[2606.26955v1](http://arxiv.org/abs/2606.26955v1)|null|
+|**2026-06-25**|**A Shared IPTC Topic Space for Cross-Source Topic Modelling**|Din Iskakov et.al.|[2606.26845v1](http://arxiv.org/abs/2606.26845v1)|null|
+|**2026-06-25**|**ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP**|Sicheng Zhang et.al.|[2606.26794v1](http://arxiv.org/abs/2606.26794v1)|null|
+|**2026-06-25**|**Beyond Logical Forms: LLM-Extracted Patterns for Fallacy Classification**|Eleni Papadopulos et.al.|[2606.26698v1](http://arxiv.org/abs/2606.26698v1)|null|
+|**2026-06-25**|**Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence**|Mingsong Yan et.al.|[2606.26662v1](http://arxiv.org/abs/2606.26662v1)|null|
 |**2026-06-24**|**When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance**|Bo Chen et.al.|[2606.26062v1](http://arxiv.org/abs/2606.26062v1)|null|
 |**2026-06-24**|**Deep Reinforcement Learning-Enhanced Event-Triggered Data-Driven Predictive Control for a 3D Cable-Driven Soft Robotic Arm**|Cheng Ouyang et.al.|[2606.26048v1](http://arxiv.org/abs/2606.26048v1)|null|
 |**2026-06-24**|**G2DP: Diffusion Planning with Spatio-Temporal Grid Guidance**|Hang Yu et.al.|[2606.26017v1](http://arxiv.org/abs/2606.26017v1)|null|
@@ -11331,5 +11344,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260625>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260626>back to top</a>)</p>
 

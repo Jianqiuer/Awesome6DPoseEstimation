@@ -1,4 +1,4 @@
-## Updated on 2026.06.29
+## Updated on 2026.06.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|null|
+|**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|null|
+|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|
+|**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|
+|**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697v1](http://arxiv.org/abs/2606.29697v1)|null|
+|**2026-06-29**|**PoseShield: Neural Collision Fields for Human Self-Collision Resolution**|Zhengyuan Li et.al.|[2606.29686v1](http://arxiv.org/abs/2606.29686v1)|null|
+|**2026-06-28**|**Again-Pose: Anchor-Guided Adaptive Inter-Frame Motion Cues Propagating for High-quality Human Pose Reconstruction**|Shuaikang Zhu et.al.|[2606.29230v1](http://arxiv.org/abs/2606.29230v1)|null|
+|**2026-06-27**|**You Only Touch Once: 6-DoF Object Pose Estimation from Single Tactile Contact**|Pengfei Ye et.al.|[2606.28899v1](http://arxiv.org/abs/2606.28899v1)|null|
+|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v1](http://arxiv.org/abs/2606.28637v1)|null|
+|**2026-06-26**|**Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications**|Christos Anagnostopoulos et.al.|[2606.28607v1](http://arxiv.org/abs/2606.28607v1)|null|
 |**2026-06-25**|**Rolling Shutter Relative Pose Estimation Made Practical**|Daniel Barath et.al.|[2606.26863v1](http://arxiv.org/abs/2606.26863v1)|null|
 |**2026-06-25**|**A Closed-Form 4-DoF Inter-Robot Pose Estimator using Bearing-only Measurements**|Qixin De et.al.|[2606.26616v1](http://arxiv.org/abs/2606.26616v1)|null|
 |**2026-06-25**|**DanceDuo: Bridging Human Movement and AI Choreography**|Gia-Cat Bui-Le et.al.|[2606.26507v1](http://arxiv.org/abs/2606.26507v1)|null|
@@ -3075,12 +3085,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v1](http://arxiv.org/abs/2606.28637v1)|null|
+|**2026-06-26**|**Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy**|Rixon Crane et.al.|[2606.27818v1](http://arxiv.org/abs/2606.27818v1)|null|
 |**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672v1](http://arxiv.org/abs/2606.16672v1)|null|
 |**2026-06-11**|**Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery**|Siyu Zhou et.al.|[2606.13488v1](http://arxiv.org/abs/2606.13488v1)|null|
 |**2026-06-10**|**Explore From Sketch: Accelerating UAV Exploration in Large-scale Environments with Prior Maps**|Tiancheng Lai et.al.|[2606.11708v1](http://arxiv.org/abs/2606.11708v1)|null|
@@ -3413,7 +3425,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3684,12 +3696,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638v1](http://arxiv.org/abs/2606.30638v1)|null|
+|**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632v1](http://arxiv.org/abs/2606.30632v1)|null|
+|**2026-06-29**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el amine boudjoghra et.al.|[2606.30608v1](http://arxiv.org/abs/2606.30608v1)|null|
+|**2026-06-29**|**Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization**|Liyao Wang et.al.|[2606.30576v1](http://arxiv.org/abs/2606.30576v1)|null|
+|**2026-06-29**|**StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors**|Wenhao Yuan et.al.|[2606.30545v1](http://arxiv.org/abs/2606.30545v1)|null|
+|**2026-06-29**|**PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation**|Tuan-Duc Nguyen et.al.|[2606.30477v1](http://arxiv.org/abs/2606.30477v1)|null|
+|**2026-06-29**|**Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval**|Aivin V. Solatorio et.al.|[2606.30473v1](http://arxiv.org/abs/2606.30473v1)|null|
+|**2026-06-29**|**CouCE: A Unified Causal Framework for Debiased Deep Metric Learning**|Xin Yuan et.al.|[2606.30365v1](http://arxiv.org/abs/2606.30365v1)|null|
+|**2026-06-29**|**ReactiveBFM: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control**|Xiao Chen et.al.|[2606.30362v1](http://arxiv.org/abs/2606.30362v1)|null|
+|**2026-06-29**|**A Classifier-Agnostic Zero-Shot Adversarial Attack Detection via CLIP**|Hodaya Krakover et.al.|[2606.30342v1](http://arxiv.org/abs/2606.30342v1)|null|
 |**2026-06-25**|**Autoregressive Boltzmann Generators**|Danyal Rehman et.al.|[2606.27361v1](http://arxiv.org/abs/2606.27361v1)|null|
 |**2026-06-25**|**Error-Conditioned Neural Solvers**|Haina Jiang et.al.|[2606.27354v1](http://arxiv.org/abs/2606.27354v1)|null|
 |**2026-06-25**|**Bridging Performance and Generalization in Reinforcement Learning for Agile Flight**|Jonathan Green et.al.|[2606.27348v1](http://arxiv.org/abs/2606.27348v1)|null|
@@ -11344,5 +11366,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260629>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
 

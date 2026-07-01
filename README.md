@@ -1,4 +1,4 @@
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v1](http://arxiv.org/abs/2606.31979v1)|null|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|null|
 |**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|null|
 |**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|
@@ -3085,7 +3086,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3425,7 +3426,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3696,12 +3697,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033v1](http://arxiv.org/abs/2606.32033v1)|null|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009v1](http://arxiv.org/abs/2606.32009v1)|null|
+|**2026-06-30**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984v1](http://arxiv.org/abs/2606.31984v1)|null|
+|**2026-06-30**|**LUNA: Learning Universal 3D Human Animation Beyond Skinning**|Peng Li et.al.|[2606.31981v1](http://arxiv.org/abs/2606.31981v1)|null|
+|**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958v1](http://arxiv.org/abs/2606.31958v1)|null|
+|**2026-06-30**|**LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields**|Felipe Tommaselli et.al.|[2606.31941v1](http://arxiv.org/abs/2606.31941v1)|null|
+|**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919v1](http://arxiv.org/abs/2606.31919v1)|null|
+|**2026-06-30**|**Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot**|Ethan Marot et.al.|[2606.31807v1](http://arxiv.org/abs/2606.31807v1)|null|
+|**2026-06-30**|**Relational and Sequential Conformal Inference for Energy Time Series over Graphs via Foundation Models**|Keivan Faghih Niresi et.al.|[2606.31804v1](http://arxiv.org/abs/2606.31804v1)|null|
+|**2026-06-30**|**Cross-lingual Relation Extraction with Large Language Models: Zero-Shot, Few-Shot, and Fine-Tuned Evaluation on Romanian**|Dragos-Mitrut Vasile et.al.|[2606.31718v1](http://arxiv.org/abs/2606.31718v1)|null|
 |**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638v1](http://arxiv.org/abs/2606.30638v1)|null|
 |**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632v1](http://arxiv.org/abs/2606.30632v1)|null|
 |**2026-06-29**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el amine boudjoghra et.al.|[2606.30608v1](http://arxiv.org/abs/2606.30608v1)|null|
@@ -11366,5 +11377,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
 

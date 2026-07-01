@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.06.30
+## Updated on 2026.07.01
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v1](http://arxiv.org/abs/2606.31979v1)|null|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|null|
 |**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|null|
 |**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|
@@ -3690,6 +3691,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033v1](http://arxiv.org/abs/2606.32033v1)|null|
+|**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009v1](http://arxiv.org/abs/2606.32009v1)|null|
+|**2026-06-30**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984v1](http://arxiv.org/abs/2606.31984v1)|null|
+|**2026-06-30**|**LUNA: Learning Universal 3D Human Animation Beyond Skinning**|Peng Li et.al.|[2606.31981v1](http://arxiv.org/abs/2606.31981v1)|null|
+|**2026-06-30**|**Adapting Generalist Robot Policies with Semantic Reinforcement Learning**|Jagdeep Singh Bhatia et.al.|[2606.31958v1](http://arxiv.org/abs/2606.31958v1)|null|
+|**2026-06-30**|**LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields**|Felipe Tommaselli et.al.|[2606.31941v1](http://arxiv.org/abs/2606.31941v1)|null|
+|**2026-06-30**|**MVP-Nav: Multi-layer Value Map Planner Navigator**|Wenyuan Xie et.al.|[2606.31919v1](http://arxiv.org/abs/2606.31919v1)|null|
+|**2026-06-30**|**Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot**|Ethan Marot et.al.|[2606.31807v1](http://arxiv.org/abs/2606.31807v1)|null|
+|**2026-06-30**|**Relational and Sequential Conformal Inference for Energy Time Series over Graphs via Foundation Models**|Keivan Faghih Niresi et.al.|[2606.31804v1](http://arxiv.org/abs/2606.31804v1)|null|
+|**2026-06-30**|**Cross-lingual Relation Extraction with Large Language Models: Zero-Shot, Few-Shot, and Fine-Tuned Evaluation on Romanian**|Dragos-Mitrut Vasile et.al.|[2606.31718v1](http://arxiv.org/abs/2606.31718v1)|null|
 |**2026-06-29**|**Open-Vocabulary and Referring Segmentation for 3D Gaussians Using 2D Detectors**|Jameel Hassan et.al.|[2606.30638v1](http://arxiv.org/abs/2606.30638v1)|null|
 |**2026-06-29**|**GROW $^2$ : Grounding Which and Where for Robot Tool Use**|Yuhong Deng et.al.|[2606.30632v1](http://arxiv.org/abs/2606.30632v1)|null|
 |**2026-06-29**|**UnfoldArt: Zero-Shot Recovery of Full Articulated 3D Objects from Text or Image**|Mohamed el amine boudjoghra et.al.|[2606.30608v1](http://arxiv.org/abs/2606.30608v1)|null|

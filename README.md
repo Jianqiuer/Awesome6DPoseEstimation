@@ -1,4 +1,4 @@
-## Updated on 2026.07.01
+## Updated on 2026.07.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,10 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-06-30**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v1](http://arxiv.org/abs/2606.31979v1)|null|
+|**2026-07-02**|**GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset**|Yonglong Zhang et.al.|[2607.02360v1](http://arxiv.org/abs/2607.02360v1)|null|
+|**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005v1](http://arxiv.org/abs/2607.02005v1)|null|
+|**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v1](http://arxiv.org/abs/2607.01885v1)|null|
+|**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860v1](http://arxiv.org/abs/2607.01860v1)|null|
+|**2026-07-02**|**Multi-THuMBS: Multi-person Tracking of 3D Human Meshes Beyond Video Shots**|Jeongwan On et.al.|[2607.01626v1](http://arxiv.org/abs/2607.01626v1)|null|
+|**2026-06-30**|**VOCA: Visual Odometry with Codec Awareness**|Nouri Alexander Hilscher et.al.|[2607.00189v1](http://arxiv.org/abs/2607.00189v1)|null|
+|**2026-07-01**|**Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings**|Gabi Pragier et.al.|[2606.31979v2](http://arxiv.org/abs/2606.31979v2)|null|
 |**2026-06-29**|**Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation**|Siddhant Bansal et.al.|[2606.30598v1](http://arxiv.org/abs/2606.30598v1)|null|
 |**2026-06-29**|**Emergence of a Shared Canonical Object Frame from In-the-Wild Videos**|Tom Fischer et.al.|[2606.30058v1](http://arxiv.org/abs/2606.30058v1)|null|
-|**2026-06-29**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v1](http://arxiv.org/abs/2606.30047v1)|null|
+|**2026-07-02**|**Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes**|Xi Li et.al.|[2606.30047v2](http://arxiv.org/abs/2606.30047v2)|null|
 |**2026-06-29**|**OpenSPM: An Environment-Transferable Robotic Key Spatial Pose Memory and Closed-Loop High-Frequency Flow-Matching Action Generation Model**|Iok Tong Lei et.al.|[2606.29936v1](http://arxiv.org/abs/2606.29936v1)|null|
 |**2026-06-29**|**MF-UAVPose6D: A Model-Free Monocular 6-DoF Pose Estimation Framework for Fixed-Wing UAVs**|Juanqin Liu et.al.|[2606.29697v1](http://arxiv.org/abs/2606.29697v1)|null|
 |**2026-06-29**|**PoseShield: Neural Collision Fields for Human Self-Collision Resolution**|Zhengyuan Li et.al.|[2606.29686v1](http://arxiv.org/abs/2606.29686v1)|null|
@@ -3086,7 +3092,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260703>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3426,7 +3432,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260703>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3697,12 +3703,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260703>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-02**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486v1](http://arxiv.org/abs/2607.02486v1)|null|
+|**2026-07-02**|**Self-Auditing Residual Drifting for Pathology-Preserving Accelerated Knee MRI**|Qing Lyu et.al.|[2607.02428v1](http://arxiv.org/abs/2607.02428v1)|null|
+|**2026-07-02**|**Bringing Agentic Search to Earth Observation Data Discovery**|Minghan Yu et.al.|[2607.02387v1](http://arxiv.org/abs/2607.02387v1)|null|
+|**2026-07-02**|**FlowCIR: Semantic Transport via Flow Matching for Zero-Shot Composed Image Retrieval**|Zhenqi He et.al.|[2607.02284v1](http://arxiv.org/abs/2607.02284v1)|null|
+|**2026-07-02**|**AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models**|Rintaro Otsubo et.al.|[2607.02269v1](http://arxiv.org/abs/2607.02269v1)|null|
+|**2026-07-02**|**CoFL-S: Spatially Queryable Sector Flow Fields for Local Language-Conditioned Navigation**|Haokun Liu et.al.|[2607.02222v1](http://arxiv.org/abs/2607.02222v1)|null|
+|**2026-07-02**|**Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning**|Satoshi Yamamori et.al.|[2607.02205v1](http://arxiv.org/abs/2607.02205v1)|null|
+|**2026-07-02**|**Efficient PEFT Methods with Adaptive Checkpointing for Vision Models and VLMs on Resource Constrained Consumer-GPUs**|Altay Toktassyn et.al.|[2607.02158v1](http://arxiv.org/abs/2607.02158v1)|null|
+|**2026-07-02**|**AdaCount: Training-Free Similarity-Guided Spatial and Feature Adaptation for Zero-Shot Object Counting**|Muhammad Ibraheem Siddiqui et.al.|[2607.02139v1](http://arxiv.org/abs/2607.02139v1)|null|
+|**2026-07-02**|**PWM-ArtGen: Part World Model for Articulated Object Generation**|Wentao Zheng et.al.|[2607.02045v1](http://arxiv.org/abs/2607.02045v1)|null|
 |**2026-06-30**|**SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE**|Or Hirschorn et.al.|[2606.32033v1](http://arxiv.org/abs/2606.32033v1)|null|
 |**2026-06-30**|**Human-as-Humanoid: Enabling Zero-Shot Humanoid Learning from Ego-Exo Human Videos with Human-Aligned Embodiments**|Xiaopeng Lin et.al.|[2606.32009v1](http://arxiv.org/abs/2606.32009v1)|null|
 |**2026-06-30**|**GR2 Technical Report**|Yufei Li et.al.|[2606.31984v1](http://arxiv.org/abs/2606.31984v1)|null|
@@ -11377,5 +11393,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260701>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260703>back to top</a>)</p>
 

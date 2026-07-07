@@ -2,12 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.07.06
+## Updated on 2026.07.07
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-07-02**|**GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset**|Yonglong Zhang et.al.|[2607.02360v1](http://arxiv.org/abs/2607.02360v1)|null|
+|**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|
+|**2026-07-06**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v1](http://arxiv.org/abs/2607.04847v1)|null|
+|**2026-07-04**|**Virtual Reality-Simulated Interaction Between Micro-Mobility Vehicles and Pedestrians: A Biomechanical Analysis of Human Gait and Movement Responses**|Sahan Siriwardena et.al.|[2607.03705v1](http://arxiv.org/abs/2607.03705v1)|null|
+|**2026-07-03**|**SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers**|Jianing Deng et.al.|[2607.03612v1](http://arxiv.org/abs/2607.03612v1)|null|
+|**2026-07-03**|**Seeing Through WiFi: Lightweight Human Pose Estimation with Dynamic Kernel Attention**|Toan D. Gian et.al.|[2607.03196v1](http://arxiv.org/abs/2607.03196v1)|null|
+|**2026-07-03**|**RePos: Relative-to-Absolute Output Factorization for Cross-Environment WiFi-Based 3D Human Pose Estimation**|Zhangcheng Hou et.al.|[2607.02986v1](http://arxiv.org/abs/2607.02986v1)|null|
+|**2026-07-02**|**Biomechanics-aware Multi-view Markerless Motion Capture of Dexterous Hand Movements**|Pouyan Firouzabadi et.al.|[2607.02796v1](http://arxiv.org/abs/2607.02796v1)|null|
+|**2026-07-02**|**RayTun3R: Online Camera Adaptation in 3D Foundation Models**|Daniil Sinitsyn et.al.|[2607.02711v1](http://arxiv.org/abs/2607.02711v1)|null|
+|**2026-07-03**|**GAP-GDRNet: Geometry-Aware Monocular Visual Pose Sensing on a Single-Target Synthetic Spacecraft Dataset**|Zongwu Xie et.al.|[2607.02360v2](http://arxiv.org/abs/2607.02360v2)|null|
 |**2026-07-02**|**A Stereo Visual SLAM System Using Object-Level Motion Estimation and Geometric Filtering Based on Cross Disparity**|Sujan Kumar Dhali et.al.|[2607.02005v1](http://arxiv.org/abs/2607.02005v1)|null|
 |**2026-07-02**|**Diversity-aware View Partitioning for Scalable VGGT**|Jinsoo Park et.al.|[2607.01885v1](http://arxiv.org/abs/2607.01885v1)|null|
 |**2026-07-02**|**DL-SLAM: Enabling High-Fidelity Gaussian Splatting SLAM in Dynamic Environments based on Dual-Level Probability**|Ziheng Xu et.al.|[2607.01860v1](http://arxiv.org/abs/2607.01860v1)|null|
@@ -3090,7 +3098,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-06-26**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v1](http://arxiv.org/abs/2606.28637v1)|null|
+|**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169v1](http://arxiv.org/abs/2607.04169v1)|null|
+|**2026-07-02**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v2](http://arxiv.org/abs/2606.28637v2)|null|
 |**2026-06-26**|**Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy**|Rixon Crane et.al.|[2606.27818v1](http://arxiv.org/abs/2606.27818v1)|null|
 |**2026-06-15**|**Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport**|Jin Zhang et.al.|[2606.16672v1](http://arxiv.org/abs/2606.16672v1)|null|
 |**2026-06-11**|**Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery**|Siyu Zhou et.al.|[2606.13488v1](http://arxiv.org/abs/2606.13488v1)|null|
@@ -3697,6 +3706,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|null|
+|**2026-07-06**|**Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks**|Alessio Brini et.al.|[2607.05291v1](http://arxiv.org/abs/2607.05291v1)|null|
+|**2026-07-06**|**RABBiT: Rapidly adaptive BOLD foundation model via brain-tuning for accurate zero-shot and few-shot prediction of speech-elicited responses in the brain**|Omer Moussa et.al.|[2607.05171v1](http://arxiv.org/abs/2607.05171v1)|null|
+|**2026-07-06**|**MeGA-MP: Metric Graph Advection Message Passing -- A Physics-Informed Message Passing Operator for Advection-Dominated Metric Graphs**|Janine Strotherm et.al.|[2607.05167v1](http://arxiv.org/abs/2607.05167v1)|null|
+|**2026-07-06**|**UNIVERSE: Unified Video Action Models for Autonomous Driving with Flexible Mask-Modulated Modality Generation**|Mengmeng Liu et.al.|[2607.05133v1](http://arxiv.org/abs/2607.05133v1)|null|
+|**2026-07-06**|**From Failing to Passing: Evolving Natural Language Prompt Optimization Rules for LLM Code Generation**|Amal Akli et.al.|[2607.05121v1](http://arxiv.org/abs/2607.05121v1)|null|
+|**2026-07-06**|**ImputeECG: Deep Learning Reconstruction of Complete 12-Lead Electrocardiograms from Incomplete Recordings for Cardiac Assessment**|Xiaocheng Fang et.al.|[2607.05009v1](http://arxiv.org/abs/2607.05009v1)|null|
+|**2026-07-06**|**Closing the Reality Gap: Zero-Shot Sim-to-Real Deployment for Dexterous Force-Based Grasping and Manipulation**|Zhe Zhao et.al.|[2607.04940v1](http://arxiv.org/abs/2607.04940v1)|null|
+|**2026-07-06**|**Input Pathways Shape Few-Shot, Not Zero-Shot, Binding in Tiny Transformers: A Fully-Enumerable Study**|Yoshiyuki Ootani et.al.|[2607.04926v1](http://arxiv.org/abs/2607.04926v1)|null|
+|**2026-07-06**|**When Do Foundation Models Pay Off? A Break-Even Analysis of Pretrained Time Series Forecasters**|Nicholas Tan Jerome et.al.|[2607.04919v1](http://arxiv.org/abs/2607.04919v1)|null|
 |**2026-07-02**|**GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training**|Yejun Zhang et.al.|[2607.02486v1](http://arxiv.org/abs/2607.02486v1)|null|
 |**2026-07-02**|**Self-Auditing Residual Drifting for Pathology-Preserving Accelerated Knee MRI**|Qing Lyu et.al.|[2607.02428v1](http://arxiv.org/abs/2607.02428v1)|null|
 |**2026-07-02**|**Bringing Agentic Search to Earth Observation Data Discovery**|Minghan Yu et.al.|[2607.02387v1](http://arxiv.org/abs/2607.02387v1)|null|

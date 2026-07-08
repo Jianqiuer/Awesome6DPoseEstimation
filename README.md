@@ -1,4 +1,4 @@
-## Updated on 2026.07.07
+## Updated on 2026.07.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,8 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|null|
+|**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|
+|**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|
+|**2026-07-06**|**Physics-Regularized Machine Learning for Proprioceptive Vehicle Localization Using Onboard Sensors**|Abinav Kalyanasundaram et.al.|[2607.05663v1](http://arxiv.org/abs/2607.05663v1)|null|
 |**2026-07-06**|**MemPose: Category-level Object Pose Estimation with Memory**|Xiao Lin et.al.|[2607.04930v1](http://arxiv.org/abs/2607.04930v1)|null|
-|**2026-07-06**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v1](http://arxiv.org/abs/2607.04847v1)|null|
+|**2026-07-07**|**Amplitude-Independent Robust Snapshot 6-D Radio SLAM via a Uniffed Angle-Delay Formulation**|Shengqiang Shen et.al.|[2607.04847v2](http://arxiv.org/abs/2607.04847v2)|null|
 |**2026-07-04**|**Virtual Reality-Simulated Interaction Between Micro-Mobility Vehicles and Pedestrians: A Biomechanical Analysis of Human Gait and Movement Responses**|Sahan Siriwardena et.al.|[2607.03705v1](http://arxiv.org/abs/2607.03705v1)|null|
 |**2026-07-03**|**SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers**|Jianing Deng et.al.|[2607.03612v1](http://arxiv.org/abs/2607.03612v1)|null|
 |**2026-07-03**|**Seeing Through WiFi: Lightweight Human Pose Estimation with Dynamic Kernel Attention**|Toan D. Gian et.al.|[2607.03196v1](http://arxiv.org/abs/2607.03196v1)|null|
@@ -3100,7 +3104,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3441,7 +3445,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3712,12 +3716,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|null|
+|**2026-07-07**|**MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation**|Jiaju Han et.al.|[2607.06552v1](http://arxiv.org/abs/2607.06552v1)|null|
+|**2026-07-07**|**UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation**|Zhuofan Zhang et.al.|[2607.06537v1](http://arxiv.org/abs/2607.06537v1)|null|
+|**2026-07-07**|**RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models**|Qian Sun et.al.|[2607.06504v1](http://arxiv.org/abs/2607.06504v1)|null|
+|**2026-07-07**|**AirflowAttack: Thermal-Airflow Adversarial Perturbations against Infrared Remote-Sensing Vision-Language Models**|Cong Su et.al.|[2607.06485v1](http://arxiv.org/abs/2607.06485v1)|null|
+|**2026-07-07**|**Mitigating Domain Shift in Conditioned Floor Plan Generation: Synthetic Pre-training for Data-Efficient Adaptation**|Matthieu Ospici et.al.|[2607.06483v1](http://arxiv.org/abs/2607.06483v1)|null|
+|**2026-07-07**|**WordVoice: Explicit and Decoupled Multi-Dimensional Word-Level Control for LLM-Based TTS**|Sihang Nie et.al.|[2607.06461v1](http://arxiv.org/abs/2607.06461v1)|null|
+|**2026-07-07**|**Precise Video-to-Audio Generation with Cross-Modal Alignment in Latent Space**|Thanh V. T. Tran et.al.|[2607.06405v1](http://arxiv.org/abs/2607.06405v1)|null|
+|**2026-07-07**|**Automated Compliance Mapping in Cloud Security with Domain-Adapted Sentence Transformers**|John Bianchi et.al.|[2607.06364v1](http://arxiv.org/abs/2607.06364v1)|null|
+|**2026-07-07**|**TopoBrick: Agentic Topology Sampling of Exogenous Variables for Zero-Shot Building IoT Forecasting**|Xiachong Lin et.al.|[2607.06349v1](http://arxiv.org/abs/2607.06349v1)|null|
 |**2026-07-06**|**Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation**|Jiaqi Peng et.al.|[2607.05377v1](http://arxiv.org/abs/2607.05377v1)|null|
 |**2026-07-06**|**Forecasting Realized Volatility with Time Series Foundation Models: A Comparison with Econometric Benchmarks**|Alessio Brini et.al.|[2607.05291v1](http://arxiv.org/abs/2607.05291v1)|null|
 |**2026-07-06**|**RABBiT: Rapidly adaptive BOLD foundation model via brain-tuning for accurate zero-shot and few-shot prediction of speech-elicited responses in the brain**|Omer Moussa et.al.|[2607.05171v1](http://arxiv.org/abs/2607.05171v1)|null|
@@ -11412,5 +11426,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260707>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
 

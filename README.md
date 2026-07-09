@@ -1,4 +1,4 @@
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|
+|**2026-07-08**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v1](http://arxiv.org/abs/2607.07306v1)|null|
+|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|
+|**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|
 |**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|null|
 |**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|
@@ -3104,7 +3109,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260709>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3445,7 +3450,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260709>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3716,12 +3721,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260709>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673v1](http://arxiv.org/abs/2607.07673v1)|null|
+|**2026-07-08**|**Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation**|Siavash Mahmoudi et.al.|[2607.07574v1](http://arxiv.org/abs/2607.07574v1)|null|
+|**2026-07-08**|**When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs**|Tanay Sodha et.al.|[2607.07395v1](http://arxiv.org/abs/2607.07395v1)|null|
+|**2026-07-08**|**Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector**|Raiff H. Santos et.al.|[2607.07382v1](http://arxiv.org/abs/2607.07382v1)|null|
+|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370v1](http://arxiv.org/abs/2607.07370v1)|null|
+|**2026-07-08**|**HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting**|Reem AlYabis et.al.|[2607.07322v1](http://arxiv.org/abs/2607.07322v1)|null|
+|**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192v1](http://arxiv.org/abs/2607.07192v1)|null|
+|**2026-07-08**|**Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering**|Miguel Lopez-Duran et.al.|[2607.07179v1](http://arxiv.org/abs/2607.07179v1)|null|
+|**2026-07-08**|**Large Behavior Model: A Promptable Digital Twin of the Retail Customer**|Wachiravit Modecrua et.al.|[2607.06993v1](http://arxiv.org/abs/2607.06993v1)|null|
+|**2026-07-08**|**MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**|Wenhao Feng et.al.|[2607.06986v1](http://arxiv.org/abs/2607.06986v1)|null|
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|null|
 |**2026-07-07**|**MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation**|Jiaju Han et.al.|[2607.06552v1](http://arxiv.org/abs/2607.06552v1)|null|
 |**2026-07-07**|**UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation**|Zhuofan Zhang et.al.|[2607.06537v1](http://arxiv.org/abs/2607.06537v1)|null|
@@ -11426,5 +11441,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260708>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260709>back to top</a>)</p>
 

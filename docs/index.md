@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.07.08
+## Updated on 2026.07.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|
+|**2026-07-08**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v1](http://arxiv.org/abs/2607.07306v1)|null|
+|**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|
+|**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|
+|**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|
 |**2026-07-07**|**Vision as Unified Multimodal Generation**|Xiaoyang Han et.al.|[2607.06560v1](http://arxiv.org/abs/2607.06560v1)|null|
 |**2026-07-07**|**ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation**|Ruihang Zhang et.al.|[2607.06555v1](http://arxiv.org/abs/2607.06555v1)|null|
 |**2026-07-07**|**TRIG: Trajectory-Rig Decoupled Metric Geometry Learning**|Lizhou Liao et.al.|[2607.05801v1](http://arxiv.org/abs/2607.05801v1)|null|
@@ -3710,6 +3715,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673v1](http://arxiv.org/abs/2607.07673v1)|null|
+|**2026-07-08**|**Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation**|Siavash Mahmoudi et.al.|[2607.07574v1](http://arxiv.org/abs/2607.07574v1)|null|
+|**2026-07-08**|**When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs**|Tanay Sodha et.al.|[2607.07395v1](http://arxiv.org/abs/2607.07395v1)|null|
+|**2026-07-08**|**Generalist Vision-Language Models for Fast Radio Burst detection: a zero-shot benchmark against a specialized detector**|Raiff H. Santos et.al.|[2607.07382v1](http://arxiv.org/abs/2607.07382v1)|null|
+|**2026-07-08**|**Behavior Foundations for Quadruped Robots: ABot-C0 Technical Report**|Xufeng Zhao et.al.|[2607.07370v1](http://arxiv.org/abs/2607.07370v1)|null|
+|**2026-07-08**|**HAJJv2-CrowdCount: Zero-Shot Benchmark for Dense Crowd Counting**|Reem AlYabis et.al.|[2607.07322v1](http://arxiv.org/abs/2607.07322v1)|null|
+|**2026-07-08**|**Prototype-Anchored Generalized Manifold Regression for Unknown-Domain Object Detection**|Zihao Zhang et.al.|[2607.07192v1](http://arxiv.org/abs/2607.07192v1)|null|
+|**2026-07-08**|**Comparative Study of Domain-adapted VLMs for General Document Visual Question Answering**|Miguel Lopez-Duran et.al.|[2607.07179v1](http://arxiv.org/abs/2607.07179v1)|null|
+|**2026-07-08**|**Large Behavior Model: A Promptable Digital Twin of the Retail Customer**|Wachiravit Modecrua et.al.|[2607.06993v1](http://arxiv.org/abs/2607.06993v1)|null|
+|**2026-07-08**|**MMGenre: Benchmarking Singing Voice Synthesis across Multiple Musical Genres**|Wenhao Feng et.al.|[2607.06986v1](http://arxiv.org/abs/2607.06986v1)|null|
 |**2026-07-07**|**RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation**|Haoyu Zhao et.al.|[2607.06558v1](http://arxiv.org/abs/2607.06558v1)|null|
 |**2026-07-07**|**MonoIR-RS: Infrared Remote Sensing Vision-Language Learning with CLIP and VLM Adaptation**|Jiaju Han et.al.|[2607.06552v1](http://arxiv.org/abs/2607.06552v1)|null|
 |**2026-07-07**|**UniLM-Nav: A Unified Framework for Zero-Shot Last-Mile Navigation**|Zhuofan Zhang et.al.|[2607.06537v1](http://arxiv.org/abs/2607.06537v1)|null|

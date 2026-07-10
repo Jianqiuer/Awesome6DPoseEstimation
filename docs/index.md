@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.09
+## Updated on 2026.07.10
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725v1](http://arxiv.org/abs/2607.08725v1)|null|
+|**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115v1](http://arxiv.org/abs/2607.08115v1)|null|
+|**2026-07-09**|**SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft**|Yiyong Sun et.al.|[2607.08033v1](http://arxiv.org/abs/2607.08033v1)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|
 |**2026-07-08**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v1](http://arxiv.org/abs/2607.07306v1)|null|
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|
@@ -3715,6 +3718,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771v1](http://arxiv.org/abs/2607.08771v1)|null|
+|**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770v1](http://arxiv.org/abs/2607.08770v1)|null|
+|**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705v1](http://arxiv.org/abs/2607.08705v1)|null|
+|**2026-07-09**|**Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging**|Ahmed Rayane Kebir et.al.|[2607.08540v1](http://arxiv.org/abs/2607.08540v1)|null|
+|**2026-07-09**|**MatBind: A Shared Embedding Space for Multimodal Materials Characterization**|Le Yang et.al.|[2607.08470v1](http://arxiv.org/abs/2607.08470v1)|null|
+|**2026-07-09**|**Best-of- $N$ TTS Evaluation is Confounded by ASR Family Alignment**|Taehyung Yu et.al.|[2607.08256v1](http://arxiv.org/abs/2607.08256v1)|null|
+|**2026-07-09**|**Understanding Layer Patching in Model Size Interpolation**|Sara Kangaslahti et.al.|[2607.08170v1](http://arxiv.org/abs/2607.08170v1)|null|
+|**2026-07-09**|**ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents**|Maud Ehrmann et.al.|[2607.08143v1](http://arxiv.org/abs/2607.08143v1)|null|
+|**2026-07-09**|**MASTE: A Multi-Agent Pipeline for Zero-Shot Aspect Sentiment Triplet Extraction**|Ao Hong et.al.|[2607.08080v1](http://arxiv.org/abs/2607.08080v1)|null|
+|**2026-07-09**|**RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization**|Xiucheng Wang et.al.|[2607.08045v1](http://arxiv.org/abs/2607.08045v1)|null|
 |**2026-07-08**|**MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models**|Hyunjae Kim et.al.|[2607.07673v1](http://arxiv.org/abs/2607.07673v1)|null|
 |**2026-07-08**|**Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation**|Siavash Mahmoudi et.al.|[2607.07574v1](http://arxiv.org/abs/2607.07574v1)|null|
 |**2026-07-08**|**When Prompts Ignore Structure: Graph-Based Attribute Reasoning for Calibrated VLMs**|Tanay Sodha et.al.|[2607.07395v1](http://arxiv.org/abs/2607.07395v1)|null|

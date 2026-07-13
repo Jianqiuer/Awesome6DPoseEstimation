@@ -13,11 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks**|Yangting Sun et.al.|[2607.09650v1](http://arxiv.org/abs/2607.09650v1)|null|
+|**2026-07-10**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Timofei Kozlov et.al.|[2607.09260v1](http://arxiv.org/abs/2607.09260v1)|null|
+|**2026-07-10**|**TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2607.09169v1](http://arxiv.org/abs/2607.09169v1)|null|
+|**2026-07-10**|**Video Generation Models are General-Purpose Vision Learners**|Letian Wang et.al.|[2607.09024v1](http://arxiv.org/abs/2607.09024v1)|null|
 |**2026-07-09**|**Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction**|Ayda Eghbalian et.al.|[2607.08725v1](http://arxiv.org/abs/2607.08725v1)|null|
 |**2026-07-09**|**RadLoc: Radar-based 3-DoF Global Localization via Fast, Robust, and Lightweight Spatial Descriptor Across Diverse Environmental Scenarios**|Hogyun Kim et.al.|[2607.08115v1](http://arxiv.org/abs/2607.08115v1)|null|
 |**2026-07-09**|**SCI-Mamba: Unsupervised Learning based Low-Light Image Enhancement for Non-Cooperative Spacecraft**|Yiyong Sun et.al.|[2607.08033v1](http://arxiv.org/abs/2607.08033v1)|null|
 |**2026-07-08**|**GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM**|Lipu Zhou et.al.|[2607.07452v1](http://arxiv.org/abs/2607.07452v1)|null|
-|**2026-07-08**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v1](http://arxiv.org/abs/2607.07306v1)|null|
+|**2026-07-09**|**Wrench-Based Bayesian Pose Estimation via Matrix--Fisher Gaussian Inference**|Jianyu Chen et.al.|[2607.07306v2](http://arxiv.org/abs/2607.07306v2)|null|
 |**2026-07-08**|**NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction**|Xiangyu Sun et.al.|[2607.07168v1](http://arxiv.org/abs/2607.07168v1)|null|
 |**2026-07-07**|**Gen4U: Unifying Video Generation and Understanding via Diffusion**|Michael King et.al.|[2607.06856v1](http://arxiv.org/abs/2607.06856v1)|null|
 |**2026-07-07**|**G-PROBE: Cross-FOV Place Recognition and Certainty-Coupled Localization for 3D Point Clouds**|Jinseop Lee et.al.|[2607.06782v1](http://arxiv.org/abs/2607.06782v1)|null|
@@ -3730,6 +3734,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583v1](http://arxiv.org/abs/2607.09583v1)|null|
+|**2026-07-10**|**TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models**|Tianyou Jiang et.al.|[2607.09562v1](http://arxiv.org/abs/2607.09562v1)|null|
+|**2026-07-10**|**CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles**|Steven Roche et.al.|[2607.09557v1](http://arxiv.org/abs/2607.09557v1)|null|
+|**2026-07-10**|**Robustifying Vision-Language Models via Test-Time Prompt Adaptation**|Xingyu Zhu et.al.|[2607.09450v1](http://arxiv.org/abs/2607.09450v1)|null|
+|**2026-07-10**|**Action-Factored Multi-Agent Reinforcement Learning for Scalable Quantum Device Tuning**|Edwin De Nicolo et.al.|[2607.09422v1](http://arxiv.org/abs/2607.09422v1)|null|
+|**2026-07-10**|**Creativity, honesty and designed forgetting emerge in small hyperbolic language models**|Kwan Soo Shin et.al.|[2607.09306v1](http://arxiv.org/abs/2607.09306v1)|null|
+|**2026-07-10**|**TextileNet: Towards Zero-shot Text-style Segmentation of Manuscripts**|Anguelos Nicolaou et.al.|[2607.09299v1](http://arxiv.org/abs/2607.09299v1)|null|
+|**2026-07-10**|**Blockchain-Linked Auditable Decision Management for Telecom/IoT Fraud-Control Requests**|Saviz Changizi et.al.|[2607.09259v1](http://arxiv.org/abs/2607.09259v1)|null|
+|**2026-07-10**|**Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift**|Dan C. Hsu et.al.|[2607.09175v1](http://arxiv.org/abs/2607.09175v1)|null|
+|**2026-07-10**|**Super-Generalist: Towards Comprehensive and Accurate Medical Image Understanding via Generalist-Specialist Synergy**|Shaoteng Zhang et.al.|[2607.09135v1](http://arxiv.org/abs/2607.09135v1)|null|
 |**2026-07-09**|**ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device**|Fabio Tosi et.al.|[2607.08771v1](http://arxiv.org/abs/2607.08771v1)|null|
 |**2026-07-09**|**LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models**|Cheng-De Fan et.al.|[2607.08770v1](http://arxiv.org/abs/2607.08770v1)|null|
 |**2026-07-09**|**HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales**|Wenbo Xu et.al.|[2607.08705v1](http://arxiv.org/abs/2607.08705v1)|null|

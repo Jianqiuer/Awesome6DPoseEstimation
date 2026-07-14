@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.07.13
+## Updated on 2026.07.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099v1](http://arxiv.org/abs/2607.11099v1)|null|
+|**2026-07-13**|**WiFi-JEPA: Self-supervised Learning for WiFi-CSI 3D Human Pose Estimation**|Doeon Kim et.al.|[2607.11064v1](http://arxiv.org/abs/2607.11064v1)|null|
+|**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840v1](http://arxiv.org/abs/2607.10840v1)|null|
+|**2026-07-12**|**TriCons-Pose: Triangle-Invariant Geometric Consistency Learning for Category-Level Object Pose Estimation**|Zuzhi Yang et.al.|[2607.10754v1](http://arxiv.org/abs/2607.10754v1)|null|
+|**2026-07-12**|**Dance to Music Generation leveraging Pre-training with Unpaired data and Contrastive Alignment**|Ryota Kimura et.al.|[2607.10537v1](http://arxiv.org/abs/2607.10537v1)|null|
+|**2026-07-11**|**Label-Free Target-Domain Adaptation for Unconstrained Event-Image Feature Matching via Dual-Stage Distillation**|Zhonghua Yi et.al.|[2607.10082v1](http://arxiv.org/abs/2607.10082v1)|null|
+|**2026-07-10**|**UniPose9D: Universal Category-Agnostic Object Pose Estimation**|Yang You et.al.|[2607.09985v1](http://arxiv.org/abs/2607.09985v1)|null|
 |**2026-07-10**|**Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks**|Yangting Sun et.al.|[2607.09650v1](http://arxiv.org/abs/2607.09650v1)|null|
 |**2026-07-10**|**AnythingReality: Robust Online Gaussian Splatting SLAM for Open-Vocabulary VR Scene Exploration**|Timofei Kozlov et.al.|[2607.09260v1](http://arxiv.org/abs/2607.09260v1)|null|
 |**2026-07-10**|**TSR-Ego: Temporally Guided Stereo Refinement Framework for Egocentric 3D Human Pose Estimation**|Md Mushfiqur Azam et.al.|[2607.09169v1](http://arxiv.org/abs/2607.09169v1)|null|
@@ -3453,6 +3460,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-08**|**Adversarially Guided Diffusion for LiDAR Range Image Synthesis**|Stavros Bouras et.al.|[2607.09787v1](http://arxiv.org/abs/2607.09787v1)|null|
 |**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048v1](http://arxiv.org/abs/2606.12048v1)|null|
 |**2026-06-03**|**WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory**|Chong Liu et.al.|[2606.09882v1](http://arxiv.org/abs/2606.09882v1)|null|
 |**2026-06-05**|**Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation**|Zihao Zhang et.al.|[2606.07280v1](http://arxiv.org/abs/2606.07280v1)|null|
@@ -3722,6 +3730,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-13**|**Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation**|Runhui Huang et.al.|[2607.11886v1](http://arxiv.org/abs/2607.11886v1)|null|
+|**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874v1](http://arxiv.org/abs/2607.11874v1)|null|
+|**2026-07-13**|**FoundationGeo: Learning Spatial Pixel-Wise Fields for Monocular Metric Geometry**|Muxin Liu et.al.|[2607.11588v1](http://arxiv.org/abs/2607.11588v1)|null|
+|**2026-07-13**|**CDFM: Towards a General-Purpose Causal Discovery Foundation Model**|Jie Qiao et.al.|[2607.11508v1](http://arxiv.org/abs/2607.11508v1)|null|
+|**2026-07-13**|**HyperGS: Fast and Generalizable Gaussian Video Representation**|Fatimah Zohra et.al.|[2607.11500v1](http://arxiv.org/abs/2607.11500v1)|null|
+|**2026-07-13**|**Towards Human-level Dexterous Teleoperation**|Puhao Li et.al.|[2607.11481v1](http://arxiv.org/abs/2607.11481v1)|null|
+|**2026-07-13**|**The Devil Is in the Leakage: A Disentangled Dual-Purification Framework for High-Fidelity Hairstyle Transfer**|Jijie Li et.al.|[2607.11281v1](http://arxiv.org/abs/2607.11281v1)|null|
+|**2026-07-13**|**Slot-RAE: Streamlining Object-Centric Learning via Direct Representation Auto-Encoders**|Alexandre Chapin et.al.|[2607.11196v1](http://arxiv.org/abs/2607.11196v1)|null|
+|**2026-07-13**|**Lie-Algebraic Subspace Quantization for Zero-Shot Quantum Learning and Barren-Plateau Mitigation**|Yuhan Yao et.al.|[2607.11174v1](http://arxiv.org/abs/2607.11174v1)|null|
+|**2026-07-13**|**Anysynth:Zero-Shot Instrument Cloning via In-Context Learning and Asymmetric Hierarchical Guidance**|Chong Jing et.al.|[2607.11143v1](http://arxiv.org/abs/2607.11143v1)|null|
 |**2026-07-10**|**Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing**|Mohammad Dabaja et.al.|[2607.09583v1](http://arxiv.org/abs/2607.09583v1)|null|
 |**2026-07-10**|**TCLA: Training-Free Class-wise Logit Adaptation for Medical Vision-Language Models**|Tianyou Jiang et.al.|[2607.09562v1](http://arxiv.org/abs/2607.09562v1)|null|
 |**2026-07-10**|**CORAL-AUV: CFD Oriented Reinforcement Learning for Autonomous Underwater Vehicles**|Steven Roche et.al.|[2607.09557v1](http://arxiv.org/abs/2607.09557v1)|null|

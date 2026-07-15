@@ -1,4 +1,4 @@
-## Updated on 2026.07.14
+## Updated on 2026.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**ANGLE: Angular Neural Generative Learning via Engression**|Rajdeep Pathak et.al.|[2607.12833v1](http://arxiv.org/abs/2607.12833v1)|null|
+|**2026-07-14**|**Streamlining stereo differentiable rendering for marker-free real-time tracking of surgical robots**|Yanghe Hao et.al.|[2607.12604v1](http://arxiv.org/abs/2607.12604v1)|null|
+|**2026-07-14**|**More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization**|Mao Chen et.al.|[2607.12429v1](http://arxiv.org/abs/2607.12429v1)|null|
+|**2026-07-14**|**Seeing Globally, Refining Locally: Global Visual Guidance and Local Ultrasound Cues for Robust Freehand 3-D Ultrasound Reconstruction**|Yameng Zhang et.al.|[2607.12398v1](http://arxiv.org/abs/2607.12398v1)|null|
+|**2026-07-14**|**DiffRadar: Differentiable Physics-Aware Radar SLAM with Gaussian Fields**|Gaurav Bagwe et.al.|[2607.12265v1](http://arxiv.org/abs/2607.12265v1)|null|
 |**2026-07-13**|**Desc++: Efficient Descriptor Enhancement for Data Association in Existing Visual SLAM Systems**|Ting-Wei Ou et.al.|[2607.11099v1](http://arxiv.org/abs/2607.11099v1)|null|
 |**2026-07-13**|**WiFi-JEPA: Self-supervised Learning for WiFi-CSI 3D Human Pose Estimation**|Doeon Kim et.al.|[2607.11064v1](http://arxiv.org/abs/2607.11064v1)|null|
 |**2026-07-12**|**OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields**|Yanqin Jiang et.al.|[2607.10840v1](http://arxiv.org/abs/2607.10840v1)|null|
@@ -3123,7 +3128,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3464,7 +3469,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3736,12 +3741,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Zhouchonghao Wu et.al.|[2607.13028v1](http://arxiv.org/abs/2607.13028v1)|null|
+|**2026-07-14**|**Metric-Guided Synthetic Image Data Rendering for Deep Learning compatible with Agentic AI**|Martina Radoynova et.al.|[2607.12874v1](http://arxiv.org/abs/2607.12874v1)|null|
+|**2026-07-14**|**AdaPCLA: Adaptive Prior-Calibrated Logit Adjustment for Long-Tailed Longitudinal EHR Generation**|Shuai Cui et.al.|[2607.12645v1](http://arxiv.org/abs/2607.12645v1)|null|
+|**2026-07-14**|**Towards Vision-Free CIR: Attribute-Augmented Scoring and LLM-Based Reranking for Zero-Shot Composed Image Retrieval**|Ryotaro Shimada et.al.|[2607.12621v1](http://arxiv.org/abs/2607.12621v1)|null|
+|**2026-07-14**|**FM-Receiver: A Foundation Model Enabled Unified Inner and Outer Neural Receiver Towards AI-Native Wireless Communications**|Tianyue Zheng et.al.|[2607.12555v1](http://arxiv.org/abs/2607.12555v1)|null|
+|**2026-07-14**|**ZipL-Dialog: Memory-Efficient Long-Form Spoken Dialog Synthesis via Latent Flow Matching**|Jihwan Kim et.al.|[2607.12496v1](http://arxiv.org/abs/2607.12496v1)|null|
+|**2026-07-14**|**Exploring Zero-Shot Foundation Models for Multivariate Time Series Anomaly Detection**|Martin Uray et.al.|[2607.12454v1](http://arxiv.org/abs/2607.12454v1)|null|
+|**2026-07-14**|**Let RGB Be the Language of Vision**|Timing Yang et.al.|[2607.12450v1](http://arxiv.org/abs/2607.12450v1)|null|
+|**2026-07-14**|**Semantic-Edge Response Decoding of SAM3 for Zero-Shot Crack Segmentation**|Shipeng Liu et.al.|[2607.12292v1](http://arxiv.org/abs/2607.12292v1)|null|
+|**2026-07-14**|**GeoSEAN: Explainable Country-Level Image Geolocation for ASEAN Regions**|Muhamad Syukron et.al.|[2607.12284v1](http://arxiv.org/abs/2607.12284v1)|null|
 |**2026-07-13**|**Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation**|Runhui Huang et.al.|[2607.11886v1](http://arxiv.org/abs/2607.11886v1)|null|
 |**2026-07-13**|**A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation**|Yunhai Feng et.al.|[2607.11874v1](http://arxiv.org/abs/2607.11874v1)|null|
 |**2026-07-13**|**FoundationGeo: Learning Spatial Pixel-Wise Fields for Monocular Metric Geometry**|Muxin Liu et.al.|[2607.11588v1](http://arxiv.org/abs/2607.11588v1)|null|
@@ -11486,5 +11501,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260714>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260715>back to top</a>)</p>
 

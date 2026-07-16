@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.07.15
+## Updated on 2026.07.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|
+|**2026-07-15**|**Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties**|Frederik Hagelskjær et.al.|[2607.13698v1](http://arxiv.org/abs/2607.13698v1)|null|
+|**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449v1](http://arxiv.org/abs/2607.13449v1)|null|
 |**2026-07-14**|**ANGLE: Angular Neural Generative Learning via Engression**|Rajdeep Pathak et.al.|[2607.12833v1](http://arxiv.org/abs/2607.12833v1)|null|
 |**2026-07-14**|**Streamlining stereo differentiable rendering for marker-free real-time tracking of surgical robots**|Yanghe Hao et.al.|[2607.12604v1](http://arxiv.org/abs/2607.12604v1)|null|
 |**2026-07-14**|**More Than Where You Are: Learning Semantics, Structure, and Geometry from Cross-View Localization**|Mao Chen et.al.|[2607.12429v1](http://arxiv.org/abs/2607.12429v1)|null|
@@ -3135,7 +3138,7 @@ layout: default
 |**2026-06-08**|**Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization**|Ray Zhang et.al.|[2606.10019v1](http://arxiv.org/abs/2606.10019v1)|null|
 |**2026-05-28**|**FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration**|Yuan Zhou et.al.|[2605.29704v1](http://arxiv.org/abs/2605.29704v1)|null|
 |**2026-05-24**|**InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking**|Pengfei Ye et.al.|[2605.25216v1](http://arxiv.org/abs/2605.25216v1)|null|
-|**2026-05-23**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395v1](http://arxiv.org/abs/2605.24395v1)|null|
+|**2026-07-15**|**AvAtar: Learning to Align via Active Optimal Transport**|Qi Yu et.al.|[2605.24395v2](http://arxiv.org/abs/2605.24395v2)|null|
 |**2026-05-19**|**PolycubeNet: A Dual-latent Diffusion Model for Polycube-Based Hexahedral Mesh Generation**|Lu He et.al.|[2605.20274v1](http://arxiv.org/abs/2605.20274v1)|null|
 |**2026-05-08**|**Offline-Online Hierarchical 3D Global Relocalization With Synthetic LiDAR Sensing and Descriptor-Space Retrieval**|Jiahua Ren et.al.|[2605.07741v1](http://arxiv.org/abs/2605.07741v1)|null|
 |**2026-05-25**|**FS-I2P:A Hierarchical Focus-Sweep Registration Network with Dynamically Allocated Depth**|Zhixin Cheng et.al.|[2605.07607v2](http://arxiv.org/abs/2605.07607v2)|null|
@@ -3735,6 +3738,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-15**|**Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding**|Guoliang You et.al.|[2607.13892v1](http://arxiv.org/abs/2607.13892v1)|null|
+|**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763v1](http://arxiv.org/abs/2607.13763v1)|null|
+|**2026-07-15**|**Barnamala: Parameter-Efficient Handwritten Devanagari Recognition at Benchmark Saturation**|Ashish Thapa et.al.|[2607.13689v1](http://arxiv.org/abs/2607.13689v1)|null|
+|**2026-07-15**|**WAVE-Stereo: Warp-Aligned Volume Encoding for Stereo Matching**|Zehan Liu et.al.|[2607.13674v1](http://arxiv.org/abs/2607.13674v1)|null|
+|**2026-07-15**|**Exploratory, Communicative, and Deployable: Vision-Driven Embodied Agents for Open-World Mobile Manipulation**|Boyu Mi et.al.|[2607.13653v1](http://arxiv.org/abs/2607.13653v1)|null|
+|**2026-07-15**|**GHR-VLM: Making Zero-Shot Transit Video Analytics Realizable with Grounded Hybrid Reasoning**|Kaicong Huang et.al.|[2607.13569v1](http://arxiv.org/abs/2607.13569v1)|null|
+|**2026-07-15**|**Compositional Zero-Shot Recognition based on Tangent Space Disentanglement for Composite Modulation Signals**|Yurui Zhao et.al.|[2607.13463v1](http://arxiv.org/abs/2607.13463v1)|null|
+|**2026-07-15**|**Ego-Dynamics-Augmented World Model for Autonomous Driving with Zero-Shot Cross-Chassis Adaptation**|Zhidong Wang et.al.|[2607.13410v1](http://arxiv.org/abs/2607.13410v1)|null|
+|**2026-07-14**|**Worlds in One Demo: A Synthetic Data Engine for Learning Open-World Mobile Manipulation**|Lingxiao Guo et.al.|[2607.13154v1](http://arxiv.org/abs/2607.13154v1)|null|
 |**2026-07-14**|**TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale**|Zhouchonghao Wu et.al.|[2607.13028v1](http://arxiv.org/abs/2607.13028v1)|null|
 |**2026-07-14**|**Metric-Guided Synthetic Image Data Rendering for Deep Learning compatible with Agentic AI**|Martina Radoynova et.al.|[2607.12874v1](http://arxiv.org/abs/2607.12874v1)|null|
 |**2026-07-14**|**AdaPCLA: Adaptive Prior-Calibrated Logit Adjustment for Long-Tailed Longitudinal EHR Generation**|Shuai Cui et.al.|[2607.12645v1](http://arxiv.org/abs/2607.12645v1)|null|

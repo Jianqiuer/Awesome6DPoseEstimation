@@ -1,4 +1,4 @@
-## Updated on 2026.07.16
+## Updated on 2026.07.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**KineFuse: Kinematic-Aware Haptic Fusion for In-Hand Occluded-Object Pose Tracking**|Chanyoung Ahn et.al.|[2607.14842v1](http://arxiv.org/abs/2607.14842v1)|null|
+|**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|
 |**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|
 |**2026-07-15**|**Towards a Modular Bin-picking Framework for Handling Object Pose Uncertainties**|Frederik Hagelskjær et.al.|[2607.13698v1](http://arxiv.org/abs/2607.13698v1)|null|
 |**2026-07-15**|**DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching**|Josiane Uwumukiza et.al.|[2607.13449v1](http://arxiv.org/abs/2607.13449v1)|null|
@@ -3131,12 +3133,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260717>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration**|Sara Monji-Azad et.al.|[2607.14946v1](http://arxiv.org/abs/2607.14946v1)|null|
+|**2026-07-16**|**Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling**|Reon Tabata et.al.|[2607.14639v1](http://arxiv.org/abs/2607.14639v1)|null|
 |**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169v1](http://arxiv.org/abs/2607.04169v1)|null|
 |**2026-07-02**|**PinNet: Keypoint-Aware Learned Local Descriptors with Geometric Embedding for Loop Closure in LiDAR SLAM**|Yanlong Ma et.al.|[2606.28637v2](http://arxiv.org/abs/2606.28637v2)|null|
 |**2026-06-26**|**Scalable and Differentiable Point-Cloud Registration Using Maximum Mean Discrepancy**|Rixon Crane et.al.|[2606.27818v1](http://arxiv.org/abs/2606.27818v1)|null|
@@ -3472,7 +3476,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260717>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3744,12 +3748,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260717>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265v1](http://arxiv.org/abs/2607.15265v1)|null|
+|**2026-07-16**|**Concept-Guided Spatial Regularization for World Models in Atari Pong**|Yukuan Lu et.al.|[2607.15142v1](http://arxiv.org/abs/2607.15142v1)|null|
+|**2026-07-16**|**SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment**|Saad Ejaz et.al.|[2607.15058v1](http://arxiv.org/abs/2607.15058v1)|null|
+|**2026-07-16**|**A Minimal Interpretable Architecture for Zero-Shot Reconstruction of Dynamical Systems**|Christoph Jürgen Hemmer et.al.|[2607.14937v1](http://arxiv.org/abs/2607.14937v1)|null|
+|**2026-07-16**|**Large Audio Language Models for Spoofing-Aware Speaker Verification**|Sofya Savelyeva et.al.|[2607.14753v1](http://arxiv.org/abs/2607.14753v1)|null|
+|**2026-07-16**|**FoMoVLA: Bridging Visual Foresight and Motion Guidance for Vision-Language-Action Models**|Wei Li et.al.|[2607.14739v1](http://arxiv.org/abs/2607.14739v1)|null|
+|**2026-07-16**|**Reinforcement Learning for the Full Strawberry Harvesting Process: Obstacle Separation, Detachment, and Placement**|Changyou Miao et.al.|[2607.14708v1](http://arxiv.org/abs/2607.14708v1)|null|
+|**2026-07-16**|**Action QFormer: Structured Representation Shaping under Action Supervision in Vision-Language-Action Models**|Yufeng Ji et.al.|[2607.14635v1](http://arxiv.org/abs/2607.14635v1)|null|
+|**2026-07-16**|**Routing Ceilings Are Domain-Independent: Structural Prior Injection in Code Security Vulnerability Detection**|Manuel Israel Cázares et.al.|[2607.14628v1](http://arxiv.org/abs/2607.14628v1)|null|
+|**2026-07-16**|**SoftNav: Injecting 3D Scene Tokens into VLMs for Embodied Navigation**|Yi Wu et.al.|[2607.14586v1](http://arxiv.org/abs/2607.14586v1)|null|
 |**2026-07-15**|**Fine-Grained Vision-Language Pretraining with Organ-Conditioned Pattern Tokens for CT Understanding**|Guoliang You et.al.|[2607.13892v1](http://arxiv.org/abs/2607.13892v1)|null|
 |**2026-07-15**|**MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model**|Charilaos Papaioannou et.al.|[2607.13763v1](http://arxiv.org/abs/2607.13763v1)|null|
 |**2026-07-15**|**Barnamala: Parameter-Efficient Handwritten Devanagari Recognition at Benchmark Saturation**|Ashish Thapa et.al.|[2607.13689v1](http://arxiv.org/abs/2607.13689v1)|null|
@@ -11513,5 +11527,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260716>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260717>back to top</a>)</p>
 

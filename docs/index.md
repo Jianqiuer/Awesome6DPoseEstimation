@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.19
+## Updated on 2026.07.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|
+|**2026-07-17**|**BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference**|Aditya Kamireddypalli et.al.|[2607.16123v1](http://arxiv.org/abs/2607.16123v1)|null|
+|**2026-07-17**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v1](http://arxiv.org/abs/2607.16015v1)|null|
+|**2026-07-17**|**Deployment-Ready UWB Localization for Industrial Ground Robots with Automatic Anchor Calibration and Terrain-Aware Fusion**|Alexander Raab et.al.|[2607.15807v1](http://arxiv.org/abs/2607.15807v1)|null|
+|**2026-07-17**|**Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations**|Shiyuan Yang et.al.|[2607.15708v1](http://arxiv.org/abs/2607.15708v1)|null|
+|**2026-07-16**|**Unsupervised Keypoints for Real-Time Fall Detection: Comparative Analysis Under Real-world Conditions with Predictive Bandwidth Reduction**|Tasmiah Haque et.al.|[2607.15400v1](http://arxiv.org/abs/2607.15400v1)|null|
 |**2026-07-16**|**KineFuse: Kinematic-Aware Haptic Fusion for In-Hand Occluded-Object Pose Tracking**|Chanyoung Ahn et.al.|[2607.14842v1](http://arxiv.org/abs/2607.14842v1)|null|
 |**2026-07-16**|**Communication-Efficient Relative Pose Estimation with Vision Foundation Models for Ephemeral Collaborative Perception**|Qihang Li et.al.|[2607.14539v1](http://arxiv.org/abs/2607.14539v1)|null|
 |**2026-07-15**|**AeroMap3D: Anchoring Monocular UAV 6-DoF Localization to Visual-Geometric-Semantic Map Priors**|Zhiyun Deng et.al.|[2607.14009v1](http://arxiv.org/abs/2607.14009v1)|null|
@@ -3472,6 +3478,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-16**|**Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark**|Silas kwabla Gah et.al.|[2607.15331v1](http://arxiv.org/abs/2607.15331v1)|null|
 |**2026-07-08**|**Adversarially Guided Diffusion for LiDAR Range Image Synthesis**|Stavros Bouras et.al.|[2607.09787v1](http://arxiv.org/abs/2607.09787v1)|null|
 |**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048v1](http://arxiv.org/abs/2606.12048v1)|null|
 |**2026-06-03**|**WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory**|Chong Liu et.al.|[2606.09882v1](http://arxiv.org/abs/2606.09882v1)|null|
@@ -3742,6 +3749,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-17**|**Candidate Attended Dialogue State Tracking Using BERT**|Junyuan Zheng et.al.|[2607.16021v1](http://arxiv.org/abs/2607.16021v1)|null|
+|**2026-07-17**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v1](http://arxiv.org/abs/2607.16015v1)|null|
+|**2026-07-17**|**Knowledge-Guided Cross-Modal Fusion for Adult-to-Pediatric ECG Transfer via Label-Conditioned Contrastive Alignment**|Xinran Liu et.al.|[2607.15928v1](http://arxiv.org/abs/2607.15928v1)|null|
+|**2026-07-17**|**Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction**|Jiazhen Huang et.al.|[2607.15851v1](http://arxiv.org/abs/2607.15851v1)|null|
+|**2026-07-17**|**Multimodal Ambivalence and Hesitancy Recognition via Cross-Attention and Gated Fusion**|Oussama Berhili et.al.|[2607.15779v1](http://arxiv.org/abs/2607.15779v1)|null|
+|**2026-07-17**|**SkillNav: Score-Level Skill Intervention for Zero-Shot Object Goal Navigation**|Ruijie Sang et.al.|[2607.15758v1](http://arxiv.org/abs/2607.15758v1)|null|
+|**2026-07-17**|**Map as a Prompt: Learning Multi-Modal Spatial-Signal Foundation Models for Cross-scenario Wireless Localization**|Yong Chu et.al.|[2607.15713v1](http://arxiv.org/abs/2607.15713v1)|null|
+|**2026-07-17**|**A Benchmark for Electrical Load Forecasting Across Grid Levels: Time-Series Transformers Outperform Established Methods**|Matthias Hertel et.al.|[2607.15705v1](http://arxiv.org/abs/2607.15705v1)|null|
+|**2026-07-17**|**A Generative Partially Specified Finite State Machine Approach to Complex Behaviour Planning**|Kalana Ratnayake et.al.|[2607.15674v1](http://arxiv.org/abs/2607.15674v1)|null|
+|**2026-07-17**|**Difference-Based Relational Learning for Zero-Shot Object-Goal Visual Navigation With Direct Sim-to-Real Transfer**|Guolei Qi et.al.|[2607.15642v1](http://arxiv.org/abs/2607.15642v1)|null|
 |**2026-07-16**|**SceneBind: Binding What and Where Across Vision, Audio and Language**|Mingfei Chen et.al.|[2607.15265v1](http://arxiv.org/abs/2607.15265v1)|null|
 |**2026-07-16**|**Concept-Guided Spatial Regularization for World Models in Atari Pong**|Yukuan Lu et.al.|[2607.15142v1](http://arxiv.org/abs/2607.15142v1)|null|
 |**2026-07-16**|**SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment**|Saad Ejaz et.al.|[2607.15058v1](http://arxiv.org/abs/2607.15058v1)|null|

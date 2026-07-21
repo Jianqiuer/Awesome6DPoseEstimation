@@ -1,4 +1,4 @@
-## Updated on 2026.07.20
+## Updated on 2026.07.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|
+|**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|
+|**2026-07-19**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332v1](http://arxiv.org/abs/2607.17332v1)|null|
+|**2026-07-18**|**Splat-based 3D Scene Reconstruction with Extreme Motion-blur**|Hyeonjoong Jang et.al.|[2607.16926v1](http://arxiv.org/abs/2607.16926v1)|null|
+|**2026-07-18**|**GLidE-SLAM: GL-Accelerated Indirect-Direct Embedded SLAM**|Carlos A. Pinheiro de Sousa et.al.|[2607.16897v1](http://arxiv.org/abs/2607.16897v1)|null|
+|**2026-07-18**|**InLiER: Learning-Free Heterogeneous LiDAR Place Recognition via Intermediate Mixed-Radix Structural Keypoint Tokenization**|Nikolaos Stathoulopoulos et.al.|[2607.16862v1](http://arxiv.org/abs/2607.16862v1)|null|
+|**2026-07-18**|**Robust PnP on a Neuromorphic Processor for Object Pose Estimation**|Tam Ngoc-Bang Nguyen et.al.|[2607.16834v1](http://arxiv.org/abs/2607.16834v1)|null|
 |**2026-07-17**|**Toward Semantic Communication for Real-time Mobile 3D Reconstruction**|Fangzhou Zhao et.al.|[2607.16128v1](http://arxiv.org/abs/2607.16128v1)|null|
 |**2026-07-17**|**BayesContact: Uncertain Pose Estimation via Visuo-Tactile Proposals and Simulation-based Inference**|Aditya Kamireddypalli et.al.|[2607.16123v1](http://arxiv.org/abs/2607.16123v1)|null|
-|**2026-07-17**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v1](http://arxiv.org/abs/2607.16015v1)|null|
+|**2026-07-20**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v2](http://arxiv.org/abs/2607.16015v2)|null|
 |**2026-07-17**|**Deployment-Ready UWB Localization for Industrial Ground Robots with Automatic Anchor Calibration and Terrain-Aware Fusion**|Alexander Raab et.al.|[2607.15807v1](http://arxiv.org/abs/2607.15807v1)|null|
 |**2026-07-17**|**Implicit Virtual Leader: Decentralized Vision-Only Relative Pose Estimation for Multi-Robot Formations**|Shiyuan Yang et.al.|[2607.15708v1](http://arxiv.org/abs/2607.15708v1)|null|
 |**2026-07-16**|**Unsupervised Keypoints for Real-Time Fall Detection: Comparative Analysis Under Real-world Conditions with Predictive Bandwidth Reduction**|Tasmiah Haque et.al.|[2607.15400v1](http://arxiv.org/abs/2607.15400v1)|null|
@@ -3139,12 +3146,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200v1](http://arxiv.org/abs/2607.17200v1)|null|
 |**2026-07-16**|**DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration**|Sara Monji-Azad et.al.|[2607.14946v1](http://arxiv.org/abs/2607.14946v1)|null|
 |**2026-07-16**|**Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling**|Reon Tabata et.al.|[2607.14639v1](http://arxiv.org/abs/2607.14639v1)|null|
 |**2026-07-05**|**Neural LiDAR Bundle Adjustment**|Chin Yung Anson Hon et.al.|[2607.04169v1](http://arxiv.org/abs/2607.04169v1)|null|
@@ -3482,7 +3490,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3755,12 +3763,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-20**|**Isaac Sim-to-Real: Reinforcement Learning based Locomotion for Quadrupeds**|Jordan Dowdy et.al.|[2607.18135v1](http://arxiv.org/abs/2607.18135v1)|null|
+|**2026-07-20**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060v1](http://arxiv.org/abs/2607.18060v1)|null|
+|**2026-07-20**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|
+|**2026-07-20**|**SAMRI-3D: Adapting SAM2 for 3D MRI Segmentation with Global Volume Tokens**|Zhao Wang et.al.|[2607.18014v1](http://arxiv.org/abs/2607.18014v1)|null|
+|**2026-07-20**|**MuViSeg: Multi-View Segment Correspondences from Dense Geometry Priors**|Denis Fatykhoph et.al.|[2607.17938v1](http://arxiv.org/abs/2607.17938v1)|null|
+|**2026-07-20**|**CDIS: Cross-Dimensional Class-Agnostic 3D Instance Segmentation via 2D Mask Tracking and 3D-2D Projection Merging**|Juno Kim et.al.|[2607.17778v1](http://arxiv.org/abs/2607.17778v1)|null|
+|**2026-07-20**|**VLN-AVP: Zero-Shot Vision-Language Navigation with Hybrid Long-Short-Term Memory for Autonomous Valet Parking**|Yijian Li et.al.|[2607.17767v1](http://arxiv.org/abs/2607.17767v1)|null|
+|**2026-07-20**|**Towards Reliable Zero-Shot Crowd Forecasting: Evaluating Time Series Foundation Models for Special Event Pedestrian Forecasting**|Ziteng Li et.al.|[2607.17758v1](http://arxiv.org/abs/2607.17758v1)|null|
+|**2026-07-20**|**Large Language Models for Citation Function Classification**|Daniel Vodička et.al.|[2607.17738v1](http://arxiv.org/abs/2607.17738v1)|null|
+|**2026-07-20**|**LFM: Leveraging Foundation Models for Source-Free Universal Domain Adaptation**|Jing Li et.al.|[2607.17653v1](http://arxiv.org/abs/2607.17653v1)|null|
 |**2026-07-17**|**Candidate Attended Dialogue State Tracking Using BERT**|Junyuan Zheng et.al.|[2607.16021v1](http://arxiv.org/abs/2607.16021v1)|null|
 |**2026-07-17**|**PIXIE: A Zero-Shot texture-invariant 6D pose estimation framework for unseen objects with assembly defects**|Leon Jungemeyer et.al.|[2607.16015v1](http://arxiv.org/abs/2607.16015v1)|null|
 |**2026-07-17**|**Knowledge-Guided Cross-Modal Fusion for Adult-to-Pediatric ECG Transfer via Label-Conditioned Contrastive Alignment**|Xinran Liu et.al.|[2607.15928v1](http://arxiv.org/abs/2607.15928v1)|null|
@@ -11544,5 +11562,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260721>back to top</a>)</p>
 

@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.21
+## Updated on 2026.07.22
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228v1](http://arxiv.org/abs/2607.19228v1)|null|
+|**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[2607.18875v1](http://arxiv.org/abs/2607.18875v1)|null|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|
 |**2026-07-20**|**UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation**|Zhirui Sun et.al.|[2607.17950v1](http://arxiv.org/abs/2607.17950v1)|null|
 |**2026-07-19**|**Multi-Resolution Voxelized Map-Based Stereo Visual-Inertial Odometry**|Shuyi Pan et.al.|[2607.17332v1](http://arxiv.org/abs/2607.17332v1)|null|
@@ -3757,6 +3759,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243v1](http://arxiv.org/abs/2607.19243v1)|null|
+|**2026-07-21**|**Bayesian Retraction Optimization for Tissue Attachment Mapping in Surgical Dissection**|Shing-Hei Ho et.al.|[2607.19174v1](http://arxiv.org/abs/2607.19174v1)|null|
+|**2026-07-21**|**GATE-3D: Geometry-Aware Test-time Adaptive Reranking for Open-Set 3D Shape Retrieval**|Hao Wu et.al.|[2607.19111v1](http://arxiv.org/abs/2607.19111v1)|null|
+|**2026-07-21**|**Delineate Anything v2: A Global Foundation Model for Field Delineation**|Mykola Lavreniuk et.al.|[2607.19069v1](http://arxiv.org/abs/2607.19069v1)|null|
+|**2026-07-21**|**Mitigating Modality and Language-Style Gaps for Zero-Shot Video Moment Retrieval**|Jihyun Lee et.al.|[2607.19027v1](http://arxiv.org/abs/2607.19027v1)|null|
+|**2026-07-21**|**Athena-Brain Technical Report: An Efficient Robot Brain for General Intelligence and Embodied Interactio**|Jialian Li et.al.|[2607.18985v1](http://arxiv.org/abs/2607.18985v1)|null|
+|**2026-07-21**|**Dual Adversarial Fine-tuning for Enhancing Robustness of Large Vision Language Model**|Sibo Wang et.al.|[2607.18958v1](http://arxiv.org/abs/2607.18958v1)|null|
+|**2026-07-21**|**Transcription Policy as a Latent Variable: Activating Controllable Verbatim ASR with Word-Level Timing**|Laurin Wagner et.al.|[2607.18934v1](http://arxiv.org/abs/2607.18934v1)|null|
+|**2026-07-21**|**KALE: Kernel Alignment with Loss Equilibration for Stable CLIP-DINOv2 Alignment at Web Scale**|Michał Pawłowicz et.al.|[2607.18885v1](http://arxiv.org/abs/2607.18885v1)|null|
+|**2026-07-21**|**VirtualSet: Typed Ontology Worlds as an LLM Generation Target for Grounded Queries and Guarded Decisions**|Qunhui Zhang et.al.|[2607.18821v1](http://arxiv.org/abs/2607.18821v1)|null|
 |**2026-07-20**|**Isaac Sim-to-Real: Reinforcement Learning based Locomotion for Quadrupeds**|Jordan Dowdy et.al.|[2607.18135v1](http://arxiv.org/abs/2607.18135v1)|null|
 |**2026-07-20**|**RoboHarness: Memory-Driven Orchestration of Heterogeneous Robot Policies for Long-Horizon Planning**|Jinbang Huang et.al.|[2607.18060v1](http://arxiv.org/abs/2607.18060v1)|null|
 |**2026-07-20**|**Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation**|Blake G. Fitch et.al.|[2607.18029v1](http://arxiv.org/abs/2607.18029v1)|null|

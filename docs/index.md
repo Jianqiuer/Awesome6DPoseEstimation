@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.22
+## Updated on 2026.07.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438v1](http://arxiv.org/abs/2607.21438v1)|null|
+|**2026-07-23**|**Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar**|Simone Arreghini et.al.|[2607.21309v1](http://arxiv.org/abs/2607.21309v1)|null|
+|**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138v1](http://arxiv.org/abs/2607.21138v1)|null|
+|**2026-07-23**|**TransBiolab: A Real-World Multi-View Dataset of Cluttered Transparent Biomedical Objects**|Ke Ma et.al.|[2607.21071v1](http://arxiv.org/abs/2607.21071v1)|null|
+|**2026-07-23**|**WAT3R: Feedforward Underwater 3D Reconstruction**|Jiayi Xu et.al.|[2607.21023v1](http://arxiv.org/abs/2607.21023v1)|null|
+|**2026-07-22**|**RIM: A Retrieval-In-Matching Framework for Cross-Domain Global Visual Localization of UAVs**|Xin Li et.al.|[2607.20116v1](http://arxiv.org/abs/2607.20116v1)|null|
 |**2026-07-21**|**IGGT4D: Streaming 4D Instance-Grounded Geometry Transformer**|Zhengyu Zou et.al.|[2607.19228v1](http://arxiv.org/abs/2607.19228v1)|null|
 |**2026-07-21**|**Wave2Body: Rethinking mmWave Human Pose Estimation as Radar-to-Body Token Translation**|Bo Liang et.al.|[2607.18875v1](http://arxiv.org/abs/2607.18875v1)|null|
 |**2026-07-20**|**Imitation of Arm Gestures by the Semi-Humanoid Robot NICO**|Anastasiya Ihnatovich et.al.|[2607.18197v1](http://arxiv.org/abs/2607.18197v1)|null|
@@ -3488,6 +3494,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance**|Antonis Savva et.al.|[2607.21089v1](http://arxiv.org/abs/2607.21089v1)|null|
 |**2026-07-16**|**Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark**|Silas kwabla Gah et.al.|[2607.15331v1](http://arxiv.org/abs/2607.15331v1)|null|
 |**2026-07-08**|**Adversarially Guided Diffusion for LiDAR Range Image Synthesis**|Stavros Bouras et.al.|[2607.09787v1](http://arxiv.org/abs/2607.09787v1)|null|
 |**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048v1](http://arxiv.org/abs/2606.12048v1)|null|
@@ -3759,6 +3766,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-23**|**Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections**|Gil Lifshits et.al.|[2607.21488v1](http://arxiv.org/abs/2607.21488v1)|null|
+|**2026-07-23**|**Diffusion posterior sampling enables zero shot kilometre scale wind forecasting over complex terrain**|Yujiang Cai et.al.|[2607.21460v1](http://arxiv.org/abs/2607.21460v1)|null|
+|**2026-07-23**|**SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion**|Wenbin Duan et.al.|[2607.21326v1](http://arxiv.org/abs/2607.21326v1)|null|
+|**2026-07-23**|**A Unified Moral-Value Dataset for Instruction Tuning**|Zhaohui Zeng et.al.|[2607.21279v1](http://arxiv.org/abs/2607.21279v1)|null|
+|**2026-07-23**|**Machine learning based prediction of optical properties in two-dimensional Mo-W-S-Se-Te transition-metal dichalcogenide alloys through physics-informed sampling**|Vivek Chowdhury et.al.|[2607.21246v1](http://arxiv.org/abs/2607.21246v1)|null|
+|**2026-07-23**|**From Evaluation to Optimisation: Hierarchy-Aware Training Signals for CWE Prediction in Python**|Muntasir Adnan et.al.|[2607.21069v1](http://arxiv.org/abs/2607.21069v1)|null|
+|**2026-07-23**|**Faster IndexTTS-2: Accelerating and Streaming Autoregressive Zero-Shot Text-to-Speech Synthesis on GPUs**|Muyang Du et.al.|[2607.21042v1](http://arxiv.org/abs/2607.21042v1)|null|
+|**2026-07-23**|**ZONDA: Zero-shot Object Navigation with Dynamic Avoidance in Multi-floor Environments**|Shaomin Liang et.al.|[2607.21025v1](http://arxiv.org/abs/2607.21025v1)|null|
+|**2026-07-23**|**Reexamining zero-shot summarization: Empirical investigation of trustworthiness of LLM-summarizers**|Vasudha Bhatnagar et.al.|[2607.21010v1](http://arxiv.org/abs/2607.21010v1)|null|
+|**2026-07-23**|**Sparse Concept Channels in Frozen 3D CT Vision Encoders**|Farhad Nooralahzadeh et.al.|[2607.20993v1](http://arxiv.org/abs/2607.20993v1)|null|
 |**2026-07-21**|**Inference-Time Steering for Cross-Lingual Factual Consistency in LLMs**|Alexander Manev et.al.|[2607.19243v1](http://arxiv.org/abs/2607.19243v1)|null|
 |**2026-07-21**|**Bayesian Retraction Optimization for Tissue Attachment Mapping in Surgical Dissection**|Shing-Hei Ho et.al.|[2607.19174v1](http://arxiv.org/abs/2607.19174v1)|null|
 |**2026-07-21**|**GATE-3D: Geometry-Aware Test-time Adaptive Reranking for Open-Set 3D Shape Retrieval**|Hao Wu et.al.|[2607.19111v1](http://arxiv.org/abs/2607.19111v1)|null|

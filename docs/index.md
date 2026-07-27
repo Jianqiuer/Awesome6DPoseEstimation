@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147v1](http://arxiv.org/abs/2607.22147v1)|null|
+|**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123v1](http://arxiv.org/abs/2607.22123v1)|null|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438v1](http://arxiv.org/abs/2607.21438v1)|null|
 |**2026-07-23**|**Factorized Spatio-Temporal Convolutions for Human Pose Estimation from Planar Lidar**|Simone Arreghini et.al.|[2607.21309v1](http://arxiv.org/abs/2607.21309v1)|null|
 |**2026-07-23**|**DTIF: Robust Loop Closure Detection via Delaunay Triangle Topology in Complex Forests**|Xin Zhao et.al.|[2607.21138v1](http://arxiv.org/abs/2607.21138v1)|null|
@@ -3766,6 +3768,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-24**|**Agentic Root Cause Analysis through Evidence-Grounded Reasoning**|Amaury Wei et.al.|[2607.22385v1](http://arxiv.org/abs/2607.22385v1)|null|
+|**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319v1](http://arxiv.org/abs/2607.22319v1)|null|
+|**2026-07-24**|**Autoregressive EHR Foundation Models with Multimodal Inputs**|Yuxuan Liu et.al.|[2607.22264v1](http://arxiv.org/abs/2607.22264v1)|null|
+|**2026-07-24**|**One Hand Watches The Other: Dynamic Multi-Agent Cooperation for Sample-Efficient Bimanual Manipulation in Dynamic Environments**|Jan Ole von Hartz et.al.|[2607.22119v1](http://arxiv.org/abs/2607.22119v1)|null|
+|**2026-07-24**|**FAIR: Feature-Augmented Implicit Regularization for AI-generated Fake Image Detection**|Md Redwanul Haque et.al.|[2607.22087v1](http://arxiv.org/abs/2607.22087v1)|null|
+|**2026-07-24**|**ReCowGnition: A Realistic Biometric Benchmark for Cow Face Recognition**|Marco Huber et.al.|[2607.22071v1](http://arxiv.org/abs/2607.22071v1)|null|
+|**2026-07-24**|**DWT-Fusion: A Signal-Based Framework for Training-Free LLM-Generated Text Detection**|Mehmet Batuhan Özdaş et.al.|[2607.22026v1](http://arxiv.org/abs/2607.22026v1)|null|
+|**2026-07-24**|**Zero-Shot Mission-Level Evaluation for Aerial MLLM Agents**|Suman Navaratnarajah et.al.|[2607.22014v1](http://arxiv.org/abs/2607.22014v1)|null|
+|**2026-07-23**|**From Seasonality to Semantics: Benchmarking a Hybrid Probabilistic Forecasting System for Roadblocks in Bolivia**|Rodrigo Vargas Sainz et.al.|[2607.21785v1](http://arxiv.org/abs/2607.21785v1)|null|
+|**2026-07-23**|**Khondo: A Multimodal Benchmark for Document Packet Splitting of Bangla Forms**|Abu Tyeb Azad et.al.|[2607.21780v1](http://arxiv.org/abs/2607.21780v1)|null|
 |**2026-07-23**|**Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections**|Gil Lifshits et.al.|[2607.21488v1](http://arxiv.org/abs/2607.21488v1)|null|
 |**2026-07-23**|**Diffusion posterior sampling enables zero shot kilometre scale wind forecasting over complex terrain**|Yujiang Cai et.al.|[2607.21460v1](http://arxiv.org/abs/2607.21460v1)|null|
 |**2026-07-23**|**SlerpFlow: Spherical Trajectory Correction for Rectified Flow Inversion**|Wenbin Duan et.al.|[2607.21326v1](http://arxiv.org/abs/2607.21326v1)|null|

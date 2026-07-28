@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.07.27
+## Updated on 2026.07.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|
+|**2026-07-27**|**Multiview Multi-Person Human Mesh Recovery Under Large Scenes with Occlusions**|Qi Zhang et.al.|[2607.24302v1](http://arxiv.org/abs/2607.24302v1)|null|
+|**2026-07-26**|**DAP-Pose: Deep Temporal Alignment and Physics-aware Cross-modal Sensor Fusion for Robust Pose Estimation**|Jianhan Lin et.al.|[2607.23755v1](http://arxiv.org/abs/2607.23755v1)|null|
+|**2026-07-26**|**RRTrack: Robust and Recoverable Object 6D Pose Tracking for Dynamic Scenes**|Junyue Li et.al.|[2607.23669v1](http://arxiv.org/abs/2607.23669v1)|null|
+|**2026-07-26**|**Robust 6-DoF Object Pose Tracking with Built-In Recovery under Occlusions and Rapid Object Motions**|Balázs Opra et.al.|[2607.23468v1](http://arxiv.org/abs/2607.23468v1)|null|
+|**2026-07-25**|**Patient-Agnostic Synthetic Pretraining for Efficient Patient-Specific Intraoperative 2D/3D Registration**|Minheng Chen et.al.|[2607.23343v1](http://arxiv.org/abs/2607.23343v1)|null|
 |**2026-07-24**|**Visual Relocalization from Sparse Views in Aliased and Low-Texture Environments via Novel View Synthesis**|Maria Peribañez et.al.|[2607.22147v1](http://arxiv.org/abs/2607.22147v1)|null|
 |**2026-07-24**|**DB-VIO: Dual-Branch Visual Inertial Odometry with Enhanced Visual-Inertial Representation**|Ziyu Wan et.al.|[2607.22123v1](http://arxiv.org/abs/2607.22123v1)|null|
 |**2026-07-23**|**DAPM: UAV Monocular Depth Estimation from Any Height, Pitch, Roll and FOV**|Tong Ling et.al.|[2607.21438v1](http://arxiv.org/abs/2607.21438v1)|null|
@@ -3154,6 +3160,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
 |**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200v1](http://arxiv.org/abs/2607.17200v1)|null|
 |**2026-07-16**|**DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration**|Sara Monji-Azad et.al.|[2607.14946v1](http://arxiv.org/abs/2607.14946v1)|null|
 |**2026-07-16**|**Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling**|Reon Tabata et.al.|[2607.14639v1](http://arxiv.org/abs/2607.14639v1)|null|
@@ -3768,6 +3775,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-27**|**Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts**|André Sacilotti et.al.|[2607.24611v1](http://arxiv.org/abs/2607.24611v1)|null|
+|**2026-07-27**|**The Visual Bottleneck: Sparse-Frame Adaptation of MLLMs for Joint Spatial-Temporal Video Grounding**|Jiameng Zhang et.al.|[2607.24570v1](http://arxiv.org/abs/2607.24570v1)|null|
+|**2026-07-27**|**LEX-EC: A Lexical Evidence-Channel Audit Framework for Zero-Shot LLM Personality Classification in Black-Box Settings**|Brittany Harbison et.al.|[2607.24435v1](http://arxiv.org/abs/2607.24435v1)|null|
+|**2026-07-27**|**The Fundamental Structure of Risk: From Characteristics to Covariance**|Alexandre Alouadi et.al.|[2607.24410v1](http://arxiv.org/abs/2607.24410v1)|null|
+|**2026-07-27**|**FeelWorld: Visuo-Tactile World Model for Hierarchical Contact Prediction and Planning**|Wenxuan Ma et.al.|[2607.24267v1](http://arxiv.org/abs/2607.24267v1)|null|
+|**2026-07-27**|**SILICA: Repurposing Diffusion Priors for Joint Glass Segmentation and Depth Estimation**|Tarun R et.al.|[2607.24249v1](http://arxiv.org/abs/2607.24249v1)|null|
+|**2026-07-27**|**LoTA-N2N: Local Trace Adaptation for Zero-Shot Self-Supervised Image Denoising**|Jintong Hu et.al.|[2607.24135v1](http://arxiv.org/abs/2607.24135v1)|null|
+|**2026-07-27**|**A Unified Stereo Geometry Estimation Framework for Disparity and Surface Normal**|Qizhe Wei et.al.|[2607.24024v1](http://arxiv.org/abs/2607.24024v1)|null|
+|**2026-07-27**|**LeapBot-WA: World-Anchor Action Models via Predictive Latent Alignments**|Pei Liu et.al.|[2607.23969v1](http://arxiv.org/abs/2607.23969v1)|null|
+|**2026-07-27**|**Development of Vision-Language Model-based GNSS Spoofing Detection for Autonomous Vehicle Navigation**|Mohammed Aldeen et.al.|[2607.23962v1](http://arxiv.org/abs/2607.23962v1)|null|
 |**2026-07-24**|**Agentic Root Cause Analysis through Evidence-Grounded Reasoning**|Amaury Wei et.al.|[2607.22385v1](http://arxiv.org/abs/2607.22385v1)|null|
 |**2026-07-24**|**Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG**|Chuangtao Ma et.al.|[2607.22319v1](http://arxiv.org/abs/2607.22319v1)|null|
 |**2026-07-24**|**Autoregressive EHR Foundation Models with Multimodal Inputs**|Yuxuan Liu et.al.|[2607.22264v1](http://arxiv.org/abs/2607.22264v1)|null|

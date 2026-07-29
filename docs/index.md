@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.07.28
+## Updated on 2026.07.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389v1](http://arxiv.org/abs/2607.25389v1)|null|
+|**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Ethan Fahnestock et.al.|[2607.25215v1](http://arxiv.org/abs/2607.25215v1)|null|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|
 |**2026-07-27**|**Multiview Multi-Person Human Mesh Recovery Under Large Scenes with Occlusions**|Qi Zhang et.al.|[2607.24302v1](http://arxiv.org/abs/2607.24302v1)|null|
 |**2026-07-26**|**DAP-Pose: Deep Temporal Alignment and Physics-aware Cross-modal Sensor Fusion for Robust Pose Estimation**|Jianhan Lin et.al.|[2607.23755v1](http://arxiv.org/abs/2607.23755v1)|null|
@@ -3775,6 +3777,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-28**|**VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening**|Syed Mhamudul Hasan et.al.|[2607.26042v1](http://arxiv.org/abs/2607.26042v1)|null|
+|**2026-07-28**|**CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer**|Ankang Yang et.al.|[2607.26023v1](http://arxiv.org/abs/2607.26023v1)|null|
+|**2026-07-28**|**Pictura: Perspective-View Self-Play at Scale for Driving**|Yuan Yin et.al.|[2607.26005v1](http://arxiv.org/abs/2607.26005v1)|null|
+|**2026-07-28**|**Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition**|Podakanti Satyajith Chary et.al.|[2607.25961v1](http://arxiv.org/abs/2607.25961v1)|null|
+|**2026-07-28**|**Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA**|Carlos Celemin et.al.|[2607.25921v1](http://arxiv.org/abs/2607.25921v1)|null|
+|**2026-07-28**|**Prototype Adaptation for Zero-Shot sEMG Movement Classification**|Rui Liu et.al.|[2607.25826v1](http://arxiv.org/abs/2607.25826v1)|null|
+|**2026-07-28**|**Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design**|Huy Ha et.al.|[2607.25798v1](http://arxiv.org/abs/2607.25798v1)|null|
+|**2026-07-28**|**FLASH: Efficient Impact Fall Detection with Unified Hypergraph State-Space Model**|Tresor Y. Koffi et.al.|[2607.25791v1](http://arxiv.org/abs/2607.25791v1)|null|
+|**2026-07-28**|**Cooperative Multi-UAV Navigation in Complex Environments via Systematic Multi-Agent Deep Reinforcement Learning**|Yu Su et.al.|[2607.25754v1](http://arxiv.org/abs/2607.25754v1)|null|
+|**2026-07-28**|**Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction**|Xinyi Hong et.al.|[2607.25718v1](http://arxiv.org/abs/2607.25718v1)|null|
 |**2026-07-27**|**Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts**|André Sacilotti et.al.|[2607.24611v1](http://arxiv.org/abs/2607.24611v1)|null|
 |**2026-07-27**|**The Visual Bottleneck: Sparse-Frame Adaptation of MLLMs for Joint Spatial-Temporal Video Grounding**|Jiameng Zhang et.al.|[2607.24570v1](http://arxiv.org/abs/2607.24570v1)|null|
 |**2026-07-27**|**LEX-EC: A Lexical Evidence-Channel Audit Framework for Zero-Shot LLM Personality Classification in Black-Box Settings**|Brittany Harbison et.al.|[2607.24435v1](http://arxiv.org/abs/2607.24435v1)|null|

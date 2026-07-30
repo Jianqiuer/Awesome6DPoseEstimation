@@ -1,4 +1,4 @@
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3164,12 +3164,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
 |**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200v1](http://arxiv.org/abs/2607.17200v1)|null|
 |**2026-07-16**|**DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration**|Sara Monji-Azad et.al.|[2607.14946v1](http://arxiv.org/abs/2607.14946v1)|null|
@@ -3509,7 +3510,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3783,12 +3784,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**Anatomy Contextualized Adaption of CT Foundation Models**|Roshan Kenia et.al.|[2607.27154v1](http://arxiv.org/abs/2607.27154v1)|null|
+|**2026-07-29**|**SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI**|Álvaro Díaz-Laureano et.al.|[2607.27139v1](http://arxiv.org/abs/2607.27139v1)|null|
+|**2026-07-29**|**SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence**|Chuanzhi Xu et.al.|[2607.27066v1](http://arxiv.org/abs/2607.27066v1)|null|
+|**2026-07-29**|**Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion**|Jinlan Liu et.al.|[2607.26909v1](http://arxiv.org/abs/2607.26909v1)|null|
+|**2026-07-29**|**SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation**|Yunzhan Fu et.al.|[2607.26885v1](http://arxiv.org/abs/2607.26885v1)|null|
+|**2026-07-29**|**TREA-Net: A Transferable Residual Epidemiological Adaptation Network for Dengue Incidence Forecasting**|Inesh Shukla et.al.|[2607.26854v1](http://arxiv.org/abs/2607.26854v1)|null|
+|**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742v1](http://arxiv.org/abs/2607.26742v1)|null|
+|**2026-07-29**|**FreeShadow: Training-Free Shadow Removal via Illumination Transfer and Selective Content Preservation in Diffusion Models**|Yinan Wang et.al.|[2607.26715v1](http://arxiv.org/abs/2607.26715v1)|null|
+|**2026-07-29**|**OpenCSI: Self-Calibration Layer for Heterogeneous Mesh Wireless Sensor Networks**|Karim Khamaisi et.al.|[2607.26665v1](http://arxiv.org/abs/2607.26665v1)|null|
+|**2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Yongxin Su et.al.|[2607.26646v1](http://arxiv.org/abs/2607.26646v1)|null|
 |**2026-07-28**|**VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening**|Syed Mhamudul Hasan et.al.|[2607.26042v1](http://arxiv.org/abs/2607.26042v1)|null|
 |**2026-07-28**|**CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer**|Ankang Yang et.al.|[2607.26023v1](http://arxiv.org/abs/2607.26023v1)|null|
 |**2026-07-28**|**Pictura: Perspective-View Self-Play at Scale for Driving**|Yuan Yin et.al.|[2607.26005v1](http://arxiv.org/abs/2607.26005v1)|null|
@@ -11632,5 +11643,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260729>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
 

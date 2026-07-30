@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.29
+## Updated on 2026.07.30
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3162,6 +3162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
 |**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200v1](http://arxiv.org/abs/2607.17200v1)|null|
 |**2026-07-16**|**DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration**|Sara Monji-Azad et.al.|[2607.14946v1](http://arxiv.org/abs/2607.14946v1)|null|
@@ -3777,6 +3778,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-29**|**Anatomy Contextualized Adaption of CT Foundation Models**|Roshan Kenia et.al.|[2607.27154v1](http://arxiv.org/abs/2607.27154v1)|null|
+|**2026-07-29**|**SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI**|Álvaro Díaz-Laureano et.al.|[2607.27139v1](http://arxiv.org/abs/2607.27139v1)|null|
+|**2026-07-29**|**SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence**|Chuanzhi Xu et.al.|[2607.27066v1](http://arxiv.org/abs/2607.27066v1)|null|
+|**2026-07-29**|**Dual-Path LLM Reasoning for Multimodal Few-Shot Knowledge Graph Completion**|Jinlan Liu et.al.|[2607.26909v1](http://arxiv.org/abs/2607.26909v1)|null|
+|**2026-07-29**|**SCALPEL: Semantic Cross-modal Alignment via LLM-Powered Encoder Learning for Medical Vision-Language Representation**|Yunzhan Fu et.al.|[2607.26885v1](http://arxiv.org/abs/2607.26885v1)|null|
+|**2026-07-29**|**TREA-Net: A Transferable Residual Epidemiological Adaptation Network for Dengue Incidence Forecasting**|Inesh Shukla et.al.|[2607.26854v1](http://arxiv.org/abs/2607.26854v1)|null|
+|**2026-07-29**|**Zero-Shot Face-to-Speech Synthesis via Latent Space Adaptation of a Style-Diffusion TTS Model**|Carlos Muñoz-Romero et.al.|[2607.26742v1](http://arxiv.org/abs/2607.26742v1)|null|
+|**2026-07-29**|**FreeShadow: Training-Free Shadow Removal via Illumination Transfer and Selective Content Preservation in Diffusion Models**|Yinan Wang et.al.|[2607.26715v1](http://arxiv.org/abs/2607.26715v1)|null|
+|**2026-07-29**|**OpenCSI: Self-Calibration Layer for Heterogeneous Mesh Wireless Sensor Networks**|Karim Khamaisi et.al.|[2607.26665v1](http://arxiv.org/abs/2607.26665v1)|null|
+|**2026-07-29**|**Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation**|Yongxin Su et.al.|[2607.26646v1](http://arxiv.org/abs/2607.26646v1)|null|
 |**2026-07-28**|**VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening**|Syed Mhamudul Hasan et.al.|[2607.26042v1](http://arxiv.org/abs/2607.26042v1)|null|
 |**2026-07-28**|**CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer**|Ankang Yang et.al.|[2607.26023v1](http://arxiv.org/abs/2607.26023v1)|null|
 |**2026-07-28**|**Pictura: Perspective-View Self-Play at Scale for Driving**|Yuan Yin et.al.|[2607.26005v1](http://arxiv.org/abs/2607.26005v1)|null|

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3162,6 +3162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045v1](http://arxiv.org/abs/2607.28045v1)|null|
 |**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
 |**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200v1](http://arxiv.org/abs/2607.17200v1)|null|
@@ -3778,6 +3779,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627v1](http://arxiv.org/abs/2607.28627v1)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624v1](http://arxiv.org/abs/2607.28624v1)|null|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623v1](http://arxiv.org/abs/2607.28623v1)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611v1](http://arxiv.org/abs/2607.28611v1)|null|
+|**2026-07-30**|**Reliability-calibrated deep residual full-waveform inversion using geometry-invariant physics encoding: synthetic validation and zero-shot Marmousi-2 testing**|Deepak Kumar et.al.|[2607.28535v1](http://arxiv.org/abs/2607.28535v1)|null|
+|**2026-07-30**|**A report-grounded vision-language foundation model for colonoscopy from 280000 routine reports**|Jia Yu et.al.|[2607.28466v1](http://arxiv.org/abs/2607.28466v1)|null|
+|**2026-07-30**|**SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer**|Xiaoxiang Dong et.al.|[2607.28382v1](http://arxiv.org/abs/2607.28382v1)|null|
+|**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331v1](http://arxiv.org/abs/2607.28331v1)|null|
+|**2026-07-30**|**From Textual Requirements to Microservice Architectures - A Comprehensive Evaluation of LLM-Based Design Synthesis**|Danyllo Albuquerque et.al.|[2607.28307v1](http://arxiv.org/abs/2607.28307v1)|null|
+|**2026-07-30**|**Where and When to Commit: Candidate-Aware Decoding for Diffusion Language Models**|Chia-Ming Lee et.al.|[2607.28166v1](http://arxiv.org/abs/2607.28166v1)|null|
 |**2026-07-29**|**Anatomy Contextualized Adaption of CT Foundation Models**|Roshan Kenia et.al.|[2607.27154v1](http://arxiv.org/abs/2607.27154v1)|null|
 |**2026-07-29**|**SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI**|Álvaro Díaz-Laureano et.al.|[2607.27139v1](http://arxiv.org/abs/2607.27139v1)|null|
 |**2026-07-29**|**SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence**|Chuanzhi Xu et.al.|[2607.27066v1](http://arxiv.org/abs/2607.27066v1)|null|

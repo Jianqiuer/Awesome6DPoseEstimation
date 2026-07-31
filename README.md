@@ -1,4 +1,4 @@
-## Updated on 2026.07.30
+## Updated on 2026.07.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3164,12 +3164,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045v1](http://arxiv.org/abs/2607.28045v1)|null|
 |**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
 |**2026-07-19**|**Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration**|Xin Liu et.al.|[2607.17200v1](http://arxiv.org/abs/2607.17200v1)|null|
@@ -3510,7 +3511,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3784,12 +3785,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627v1](http://arxiv.org/abs/2607.28627v1)|null|
+|**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624v1](http://arxiv.org/abs/2607.28624v1)|null|
+|**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623v1](http://arxiv.org/abs/2607.28623v1)|null|
+|**2026-07-30**|**Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers**|Chongjian Ge et.al.|[2607.28611v1](http://arxiv.org/abs/2607.28611v1)|null|
+|**2026-07-30**|**Reliability-calibrated deep residual full-waveform inversion using geometry-invariant physics encoding: synthetic validation and zero-shot Marmousi-2 testing**|Deepak Kumar et.al.|[2607.28535v1](http://arxiv.org/abs/2607.28535v1)|null|
+|**2026-07-30**|**A report-grounded vision-language foundation model for colonoscopy from 280000 routine reports**|Jia Yu et.al.|[2607.28466v1](http://arxiv.org/abs/2607.28466v1)|null|
+|**2026-07-30**|**SemAnCorr: Semantic Anchored Correspondence for Zero-Shot Manipulation Skill Transfer**|Xiaoxiang Dong et.al.|[2607.28382v1](http://arxiv.org/abs/2607.28382v1)|null|
+|**2026-07-30**|**Structural Validation of LLM-Generated Microservice Decompositions Using Source-Code Dependencies**|Daniel Silva et.al.|[2607.28331v1](http://arxiv.org/abs/2607.28331v1)|null|
+|**2026-07-30**|**From Textual Requirements to Microservice Architectures - A Comprehensive Evaluation of LLM-Based Design Synthesis**|Danyllo Albuquerque et.al.|[2607.28307v1](http://arxiv.org/abs/2607.28307v1)|null|
+|**2026-07-30**|**Where and When to Commit: Candidate-Aware Decoding for Diffusion Language Models**|Chia-Ming Lee et.al.|[2607.28166v1](http://arxiv.org/abs/2607.28166v1)|null|
 |**2026-07-29**|**Anatomy Contextualized Adaption of CT Foundation Models**|Roshan Kenia et.al.|[2607.27154v1](http://arxiv.org/abs/2607.27154v1)|null|
 |**2026-07-29**|**SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI**|Álvaro Díaz-Laureano et.al.|[2607.27139v1](http://arxiv.org/abs/2607.27139v1)|null|
 |**2026-07-29**|**SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence**|Chuanzhi Xu et.al.|[2607.27066v1](http://arxiv.org/abs/2607.27066v1)|null|
@@ -11643,5 +11654,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260730>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260731>back to top</a>)</p>
 

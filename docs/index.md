@@ -3779,6 +3779,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-07-31**|**HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation**|An Liu et.al.|[2607.29600v1](http://arxiv.org/abs/2607.29600v1)|null|
+|**2026-07-31**|**The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection**|Riccardo Raciti et.al.|[2607.29541v1](http://arxiv.org/abs/2607.29541v1)|null|
+|**2026-07-31**|**Triangulating Across U.S. Federal AI Transparency Regimes**|Emma Lurie et.al.|[2607.29540v1](http://arxiv.org/abs/2607.29540v1)|null|
+|**2026-07-31**|**SAGP: Semantic Affordance-Guided Grasp Planning via Coarse-Zone VLM Reasoning**|Muhayy Ud Din et.al.|[2607.29374v1](http://arxiv.org/abs/2607.29374v1)|null|
+|**2026-07-31**|**VFAD: Variational Semantic Prompting Meets Frequency-Adaptive Representation Learning for Zero-Shot Anomaly Detection**|Peng Chen et.al.|[2607.29370v1](http://arxiv.org/abs/2607.29370v1)|null|
+|**2026-07-31**|**Versatile On-device Adaptation at the Edge by Unifying Few-shot, Zero-shot, Continual, and In-context Learning**|Douwe den Blanken et.al.|[2607.29353v1](http://arxiv.org/abs/2607.29353v1)|null|
+|**2026-07-31**|**Is It Time for the Renaissance of Salient Object Detection in the Era of MLLMs?**|Wenzhuo Zhao et.al.|[2607.29222v1](http://arxiv.org/abs/2607.29222v1)|null|
+|**2026-07-31**|**Locally Consistent Transductive Information Maximization for Few-Shot Remote Sensing Scene Classification**|Karim El Khoury et.al.|[2607.29192v1](http://arxiv.org/abs/2607.29192v1)|null|
+|**2026-07-31**|**Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives**|Sakayo Toadoum Sari et.al.|[2607.29188v1](http://arxiv.org/abs/2607.29188v1)|null|
+|**2026-07-31**|**Can Zero-Shot LLMs Predict Child Malnutrition? A Fairness and Temporal Robustness Study**|Muhammad Ashad Kabir et.al.|[2607.29082v1](http://arxiv.org/abs/2607.29082v1)|null|
 |**2026-07-30**|**ReToken: One Token to Improve Vision-Language Models for Visual Retrieval**|Yao Xiao et.al.|[2607.28627v1](http://arxiv.org/abs/2607.28627v1)|null|
 |**2026-07-30**|**PhiZero: A World Model Built Around Physical Language**|Shuyao Shang et.al.|[2607.28624v1](http://arxiv.org/abs/2607.28624v1)|null|
 |**2026-07-30**|**PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball**|Lizhi Yang et.al.|[2607.28623v1](http://arxiv.org/abs/2607.28623v1)|null|

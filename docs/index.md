@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.03
+## Updated on 2026.08.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|null|
+|**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|null|
+|**2026-08-02**|**Sparse Meets Dense: Correspondence Guided Robotic Manipulation with Rigid-Deformable Interactions**|Ziyu Zhu et.al.|[2608.01083v1](http://arxiv.org/abs/2608.01083v1)|null|
 |**2026-07-28**|**HOME: Robust Hough-space Matching Method for Structured and Textureless Videos**|Masaki Satoh et.al.|[2607.25389v1](http://arxiv.org/abs/2607.25389v1)|null|
 |**2026-07-28**|**Leveraging Semantic Maps for City-Scale Cross-View Localization**|Ethan Fahnestock et.al.|[2607.25215v1](http://arxiv.org/abs/2607.25215v1)|null|
 |**2026-07-27**|**Accuracy potential of visual localization exploiting high-end street-level imagery**|Jonas Meyer et.al.|[2607.24409v1](http://arxiv.org/abs/2607.24409v1)|null|
@@ -3779,6 +3782,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Foundation Models for Astrophysics**|Xiaosheng Zhao et.al.|[2608.02573v1](http://arxiv.org/abs/2608.02573v1)|null|
+|**2026-08-03**|**MoRAL: Sensor-Grounded BEV Reasoning for Compact VLMs toward Edge-Oriented Autonomous Driving**|Ambarish Govindarajulu Kaliamurthi et.al.|[2608.02449v1](http://arxiv.org/abs/2608.02449v1)|null|
+|**2026-08-03**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437v1](http://arxiv.org/abs/2608.02437v1)|null|
+|**2026-08-03**|**DF $^3$ : World Modeling via Decoder-Free Feature Forecasting in Autonomous Navigation**|Jiaming Chen et.al.|[2608.02428v1](http://arxiv.org/abs/2608.02428v1)|null|
+|**2026-08-03**|**Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification**|Sajjad Abdoli et.al.|[2608.02397v1](http://arxiv.org/abs/2608.02397v1)|null|
+|**2026-08-03**|**Z-PEFT: Zero-shot Backdoor Detection in Parameter-Efficient Fine-Tuning via Canonical Spectral Signatures**|Nicola Pitzalis et.al.|[2608.02271v1](http://arxiv.org/abs/2608.02271v1)|null|
+|**2026-08-03**|**Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow**|Jiangling Zhang et.al.|[2608.02258v1](http://arxiv.org/abs/2608.02258v1)|null|
+|**2026-08-03**|**HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts**|Haozhe Luo et.al.|[2608.02252v1](http://arxiv.org/abs/2608.02252v1)|null|
+|**2026-08-03**|**GenPrior: Unleashing Text-to-Motion Generative Priors for Zero-Shot Skeleton-based Action Recognition**|Jidong Kuang et.al.|[2608.02236v1](http://arxiv.org/abs/2608.02236v1)|null|
+|**2026-08-03**|**Local Margin Restoration for Test-Time Adaptation of Vision-Language Models**|Yan Huang et.al.|[2608.02216v1](http://arxiv.org/abs/2608.02216v1)|null|
 |**2026-07-31**|**HAM-VLN: Harnessing Hierarchical Agentic Memory for Zero-Shot Vision-and-Language Navigation**|An Liu et.al.|[2607.29600v1](http://arxiv.org/abs/2607.29600v1)|null|
 |**2026-07-31**|**The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection**|Riccardo Raciti et.al.|[2607.29541v1](http://arxiv.org/abs/2607.29541v1)|null|
 |**2026-07-31**|**Triangulating Across U.S. Federal AI Transparency Regimes**|Emma Lurie et.al.|[2607.29540v1](http://arxiv.org/abs/2607.29540v1)|null|

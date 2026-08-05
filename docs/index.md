@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.08.04
+## Updated on 2026.08.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637v1](http://arxiv.org/abs/2608.03637v1)|null|
+|**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|null|
 |**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|null|
 |**2026-08-03**|**CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM**|Wenxuan Ji et.al.|[2608.01914v1](http://arxiv.org/abs/2608.01914v1)|null|
 |**2026-08-02**|**Sparse Meets Dense: Correspondence Guided Robotic Manipulation with Rigid-Deformable Interactions**|Ziyu Zhu et.al.|[2608.01083v1](http://arxiv.org/abs/2608.01083v1)|null|
@@ -3165,6 +3167,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v1](http://arxiv.org/abs/2608.02883v1)|null|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045v1](http://arxiv.org/abs/2607.28045v1)|null|
 |**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
@@ -3782,6 +3785,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-04**|**ATLAS: Learning to Recommend Across Unseen Domains**|Pervez Shaik et.al.|[2608.03899v1](http://arxiv.org/abs/2608.03899v1)|null|
+|**2026-08-04**|**MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization**|Gengyuan Liu et.al.|[2608.03885v1](http://arxiv.org/abs/2608.03885v1)|null|
+|**2026-08-04**|**DS@GT-ARC at eRisk 2026 Task 3: Sparse, Semantic, and LLM Reranking for ADHD Symptom Sentences**|David Guecha et.al.|[2608.03883v1](http://arxiv.org/abs/2608.03883v1)|null|
+|**2026-08-04**|**FlowForm: Synergizing Fluid Physics with Topological Consistency for Satellite Flood Synthesis**|Zhang Weihui et.al.|[2608.03822v1](http://arxiv.org/abs/2608.03822v1)|null|
+|**2026-08-04**|**AgenticVAU: Multi-Agent Explore-Verify Reasoning for Video Anomaly Understanding**|Yuxiang Duan et.al.|[2608.03779v1](http://arxiv.org/abs/2608.03779v1)|null|
+|**2026-08-04**|**MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models**|Tong Ling et.al.|[2608.03769v1](http://arxiv.org/abs/2608.03769v1)|null|
+|**2026-08-04**|**TDVR: Joint Text Disambiguation and Viewpoint Reasoning for Zero-Shot 3D Visual Grounding**|Qingxi Du et.al.|[2608.03763v1](http://arxiv.org/abs/2608.03763v1)|null|
+|**2026-08-04**|**Track4Action: Distilling World-Centric 3D Tracker into Vision-Language-Action Policies**|Chenyi Wang et.al.|[2608.03727v1](http://arxiv.org/abs/2608.03727v1)|null|
+|**2026-08-04**|**Attention is Case-Sensitive**|Maximilian Dillitzer et.al.|[2608.03711v1](http://arxiv.org/abs/2608.03711v1)|null|
+|**2026-08-04**|**Keep the Needle, Prune the Haystack: Defect-Preserving Token Pruning for Efficient Zero-Shot Anomaly Detection**|Yanning Hou et.al.|[2608.03681v1](http://arxiv.org/abs/2608.03681v1)|null|
 |**2026-08-03**|**Foundation Models for Astrophysics**|Xiaosheng Zhao et.al.|[2608.02573v1](http://arxiv.org/abs/2608.02573v1)|null|
 |**2026-08-03**|**MoRAL: Sensor-Grounded BEV Reasoning for Compact VLMs toward Edge-Oriented Autonomous Driving**|Ambarish Govindarajulu Kaliamurthi et.al.|[2608.02449v1](http://arxiv.org/abs/2608.02449v1)|null|
 |**2026-08-03**|**InfiniSplat: Implicit Gaussian Decoding for Large-Baseline Monocular View Synthesis**|Jiawei Wang et.al.|[2608.02437v1](http://arxiv.org/abs/2608.02437v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|
+|**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|
+|**2026-08-05**|**PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning**|Chen Yang et.al.|[2608.04575v1](http://arxiv.org/abs/2608.04575v1)|null|
+|**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042v1](http://arxiv.org/abs/2608.04042v1)|null|
 |**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637v1](http://arxiv.org/abs/2608.03637v1)|null|
 |**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|null|
 |**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|null|
@@ -3169,7 +3173,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3517,7 +3521,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3791,12 +3795,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115v1](http://arxiv.org/abs/2608.05115v1)|null|
+|**2026-08-05**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
+|**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737v1](http://arxiv.org/abs/2608.04737v1)|null|
+|**2026-08-05**|**IslamicTurathBench: A Multi-Task, Multi-Discipline Benchmark for Evaluating Large Language Models on the Islamic Scholarly Tradition (turath)**|Shahd Gaben et.al.|[2608.04703v1](http://arxiv.org/abs/2608.04703v1)|null|
+|**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701v1](http://arxiv.org/abs/2608.04701v1)|null|
+|**2026-08-05**|**Traceable LLM-Generated Hazard Scenarios for Operational Safety Analysis of Aviation Systems Using ASRS Reports**|Cristian Mascia et.al.|[2608.04697v1](http://arxiv.org/abs/2608.04697v1)|null|
+|**2026-08-05**|**SurgNarrator: A Generative Retrieval Framework for Surgical Video Understanding**|Yuqing Feng et.al.|[2608.04676v1](http://arxiv.org/abs/2608.04676v1)|null|
+|**2026-08-05**|**Visual Anchoring in Diffusion: Multimodal Zero-Shot Skeleton Action Recognition**|Zehao Bao et.al.|[2608.04623v1](http://arxiv.org/abs/2608.04623v1)|null|
+|**2026-08-05**|**REZE: Recognition-Based Zero-Shot Extraction for Video Temporal Grounding**|Boyang Li et.al.|[2608.04480v1](http://arxiv.org/abs/2608.04480v1)|null|
+|**2026-08-05**|**EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment**|Zhenyu Yi et.al.|[2608.04472v1](http://arxiv.org/abs/2608.04472v1)|null|
 |**2026-08-04**|**ATLAS: Learning to Recommend Across Unseen Domains**|Pervez Shaik et.al.|[2608.03899v1](http://arxiv.org/abs/2608.03899v1)|null|
 |**2026-08-04**|**MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization**|Gengyuan Liu et.al.|[2608.03885v1](http://arxiv.org/abs/2608.03885v1)|null|
 |**2026-08-04**|**DS@GT-ARC at eRisk 2026 Task 3: Sparse, Semantic, and LLM Reranking for ADHD Symptom Sentences**|David Guecha et.al.|[2608.03883v1](http://arxiv.org/abs/2608.03883v1)|null|
@@ -11690,5 +11704,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260805>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
 

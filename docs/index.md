@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.08.05
+## Updated on 2026.08.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|
+|**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|
+|**2026-08-05**|**PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning**|Chen Yang et.al.|[2608.04575v1](http://arxiv.org/abs/2608.04575v1)|null|
+|**2026-08-04**|**Kitchen Robotic Manipulation utilizing Foundation Models**|Myung-Hwan Jeon et.al.|[2608.04042v1](http://arxiv.org/abs/2608.04042v1)|null|
 |**2026-08-04**|**Learning Biomechanically Plausible Human Motion from Sparse Radar Point Clouds**|Jonas Leo Mueller et.al.|[2608.03637v1](http://arxiv.org/abs/2608.03637v1)|null|
 |**2026-08-04**|**Detecting Pose Estimation Failures via Keypoint Self-Consistency**|Robin Chan et.al.|[2608.03516v1](http://arxiv.org/abs/2608.03516v1)|null|
 |**2026-08-03**|**VARPose: Flexible 2D Pose Densification via Visual Autoregressive Modeling for Enhanced 3D Lifting**|Kaiyuan Pu et.al.|[2608.02214v1](http://arxiv.org/abs/2608.02214v1)|null|
@@ -3785,6 +3789,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115v1](http://arxiv.org/abs/2608.05115v1)|null|
+|**2026-08-05**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
+|**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737v1](http://arxiv.org/abs/2608.04737v1)|null|
+|**2026-08-05**|**IslamicTurathBench: A Multi-Task, Multi-Discipline Benchmark for Evaluating Large Language Models on the Islamic Scholarly Tradition (turath)**|Shahd Gaben et.al.|[2608.04703v1](http://arxiv.org/abs/2608.04703v1)|null|
+|**2026-08-05**|**UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models**|Haiyang Zhou et.al.|[2608.04701v1](http://arxiv.org/abs/2608.04701v1)|null|
+|**2026-08-05**|**Traceable LLM-Generated Hazard Scenarios for Operational Safety Analysis of Aviation Systems Using ASRS Reports**|Cristian Mascia et.al.|[2608.04697v1](http://arxiv.org/abs/2608.04697v1)|null|
+|**2026-08-05**|**SurgNarrator: A Generative Retrieval Framework for Surgical Video Understanding**|Yuqing Feng et.al.|[2608.04676v1](http://arxiv.org/abs/2608.04676v1)|null|
+|**2026-08-05**|**Visual Anchoring in Diffusion: Multimodal Zero-Shot Skeleton Action Recognition**|Zehao Bao et.al.|[2608.04623v1](http://arxiv.org/abs/2608.04623v1)|null|
+|**2026-08-05**|**REZE: Recognition-Based Zero-Shot Extraction for Video Temporal Grounding**|Boyang Li et.al.|[2608.04480v1](http://arxiv.org/abs/2608.04480v1)|null|
+|**2026-08-05**|**EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment**|Zhenyu Yi et.al.|[2608.04472v1](http://arxiv.org/abs/2608.04472v1)|null|
 |**2026-08-04**|**ATLAS: Learning to Recommend Across Unseen Domains**|Pervez Shaik et.al.|[2608.03899v1](http://arxiv.org/abs/2608.03899v1)|null|
 |**2026-08-04**|**MuRA: Multi-Rank Adaptation for Efficient and Effective Test-Time Vision-Language Generalization**|Gengyuan Liu et.al.|[2608.03885v1](http://arxiv.org/abs/2608.03885v1)|null|
 |**2026-08-04**|**DS@GT-ARC at eRisk 2026 Task 3: Sparse, Semantic, and LLM Reranking for ADHD Symptom Sentences**|David Guecha et.al.|[2608.03883v1](http://arxiv.org/abs/2608.03883v1)|null|

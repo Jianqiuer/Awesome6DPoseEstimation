@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|
+|**2026-08-06**|**VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation**|Lala Shakti Swarup Ray et.al.|[2608.05782v1](http://arxiv.org/abs/2608.05782v1)|null|
+|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745v1](http://arxiv.org/abs/2608.05745v1)|null|
 |**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|
 |**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|
 |**2026-08-05**|**PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning**|Chen Yang et.al.|[2608.04575v1](http://arxiv.org/abs/2608.04575v1)|null|
@@ -3789,6 +3792,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332v1](http://arxiv.org/abs/2608.06332v1)|null|
+|**2026-08-06**|**Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model**|Saad Ahmed et.al.|[2608.06252v1](http://arxiv.org/abs/2608.06252v1)|null|
+|**2026-08-06**|**Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments**|Giorgio Tonetti et.al.|[2608.06170v1](http://arxiv.org/abs/2608.06170v1)|null|
+|**2026-08-06**|**Schema-Guided Hierarchical Information Extraction and Semantic Evaluation Using Generative AI**|Modhurita Mitra et.al.|[2608.06167v1](http://arxiv.org/abs/2608.06167v1)|null|
+|**2026-08-06**|**Visual Grounding in Zero-Shot Vision-Language Control**|J. de Curtò et.al.|[2608.06154v1](http://arxiv.org/abs/2608.06154v1)|null|
+|**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110v1](http://arxiv.org/abs/2608.06110v1)|null|
+|**2026-08-06**|**Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies**|Alexander Apartsin et.al.|[2608.05993v1](http://arxiv.org/abs/2608.05993v1)|null|
+|**2026-08-06**|**Big, Bright, or Invisible: A Frozen-Feature Benchmark of 3D CT Foundation Models**|Maulik Chevli et.al.|[2608.05960v1](http://arxiv.org/abs/2608.05960v1)|null|
+|**2026-08-06**|**Respect Your Zero-Shot Uncertainty: Conservative Calibration for Test-Time-Adapted Vision-Language Models**|Jingyan Jiang et.al.|[2608.05945v1](http://arxiv.org/abs/2608.05945v1)|null|
+|**2026-08-06**|**MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers**|Rajatsubhra Chakraborty et.al.|[2608.05878v1](http://arxiv.org/abs/2608.05878v1)|null|
 |**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115v1](http://arxiv.org/abs/2608.05115v1)|null|
 |**2026-08-05**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
 |**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737v1](http://arxiv.org/abs/2608.04737v1)|null|

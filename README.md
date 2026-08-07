@@ -1,4 +1,4 @@
-## Updated on 2026.08.06
+## Updated on 2026.08.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|
+|**2026-08-06**|**VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation**|Lala Shakti Swarup Ray et.al.|[2608.05782v1](http://arxiv.org/abs/2608.05782v1)|null|
+|**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745v1](http://arxiv.org/abs/2608.05745v1)|null|
 |**2026-08-05**|**Promptable Animal Pose Tracking Across Species**|Le Li et.al.|[2608.04995v1](http://arxiv.org/abs/2608.04995v1)|null|
 |**2026-08-05**|**Differential 6-DOF Pose Estimation with Provable First-Order Immunity to Camera Calibration Errors**|Yueqiang Zhang et.al.|[2608.04673v1](http://arxiv.org/abs/2608.04673v1)|null|
 |**2026-08-05**|**PhysMind: From Video to Executable Worlds for Training-Free Physical Reasoning**|Chen Yang et.al.|[2608.04575v1](http://arxiv.org/abs/2608.04575v1)|null|
@@ -3173,7 +3176,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260807>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3521,7 +3524,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260807>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3795,12 +3798,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260807>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332v1](http://arxiv.org/abs/2608.06332v1)|null|
+|**2026-08-06**|**Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model**|Saad Ahmed et.al.|[2608.06252v1](http://arxiv.org/abs/2608.06252v1)|null|
+|**2026-08-06**|**Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments**|Giorgio Tonetti et.al.|[2608.06170v1](http://arxiv.org/abs/2608.06170v1)|null|
+|**2026-08-06**|**Schema-Guided Hierarchical Information Extraction and Semantic Evaluation Using Generative AI**|Modhurita Mitra et.al.|[2608.06167v1](http://arxiv.org/abs/2608.06167v1)|null|
+|**2026-08-06**|**Visual Grounding in Zero-Shot Vision-Language Control**|J. de Curtò et.al.|[2608.06154v1](http://arxiv.org/abs/2608.06154v1)|null|
+|**2026-08-06**|**ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment**|Abdulkadir Külçe et.al.|[2608.06110v1](http://arxiv.org/abs/2608.06110v1)|null|
+|**2026-08-06**|**Clinical Communication Processing with Models Trained on LLM-Generated Synthetic Data: A Structured Survey and Novel Application Case Studies**|Alexander Apartsin et.al.|[2608.05993v1](http://arxiv.org/abs/2608.05993v1)|null|
+|**2026-08-06**|**Big, Bright, or Invisible: A Frozen-Feature Benchmark of 3D CT Foundation Models**|Maulik Chevli et.al.|[2608.05960v1](http://arxiv.org/abs/2608.05960v1)|null|
+|**2026-08-06**|**Respect Your Zero-Shot Uncertainty: Conservative Calibration for Test-Time-Adapted Vision-Language Models**|Jingyan Jiang et.al.|[2608.05945v1](http://arxiv.org/abs/2608.05945v1)|null|
+|**2026-08-06**|**MAVISEG: Manifold Propagation and Visual Prototypes for Zero-Shot Open-Vocabulary Segmentation in Diffusion Transformers**|Rajatsubhra Chakraborty et.al.|[2608.05878v1](http://arxiv.org/abs/2608.05878v1)|null|
 |**2026-08-05**|**Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition**|Paritosh Parmar et.al.|[2608.05115v1](http://arxiv.org/abs/2608.05115v1)|null|
 |**2026-08-05**|**MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres**|M. L. Carroll et.al.|[2608.05054v1](http://arxiv.org/abs/2608.05054v1)|null|
 |**2026-08-05**|**Dense Metric Depth Completion from Sparse Direct Time-of-Flight Sensors**|Hakyeong Kim et.al.|[2608.04737v1](http://arxiv.org/abs/2608.04737v1)|null|
@@ -11704,5 +11717,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260806>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260807>back to top</a>)</p>
 

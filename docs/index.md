@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**Geometry-Aware Camera Localization for Bronchoscopy**|Lumin Chen et.al.|[2608.07116v1](http://arxiv.org/abs/2608.07116v1)|null|
+|**2026-08-07**|**GOPI: Generation-Oriented 3D Pose Inference for Furniture Insertion from Single-View RGB-D Indoor Scenes**|Ruifeng Zhai et.al.|[2608.06836v1](http://arxiv.org/abs/2608.06836v1)|null|
 |**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|
 |**2026-08-06**|**VSMP-IMU: Video-Grounded Semantic Motion Programs for Sensor-Aware Synthetic IMU Generation**|Lala Shakti Swarup Ray et.al.|[2608.05782v1](http://arxiv.org/abs/2608.05782v1)|null|
 |**2026-08-06**|**UniVVT: A Unified End-to-End Framework for High-Fidelity Video Virtual Try-on**|Yushe Cao et.al.|[2608.05745v1](http://arxiv.org/abs/2608.05745v1)|null|
@@ -3792,6 +3794,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468v1](http://arxiv.org/abs/2608.07468v1)|null|
+|**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462v1](http://arxiv.org/abs/2608.07462v1)|null|
+|**2026-08-07**|**UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling**|An Lanji et.al.|[2608.07409v1](http://arxiv.org/abs/2608.07409v1)|null|
+|**2026-08-07**|**NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs**|Aditya Katkar et.al.|[2608.07167v1](http://arxiv.org/abs/2608.07167v1)|null|
+|**2026-08-07**|**HazeSpikeMamba: Coupling Spiking-Inspired and State-Space Features for Self-Supervised Real-World Dehazing**|Haoran Liu et.al.|[2608.06886v1](http://arxiv.org/abs/2608.06886v1)|null|
+|**2026-08-07**|**RegionDet: A Benchmark for Region Detection Beyond Object Instances**|Liang Wan et.al.|[2608.06850v1](http://arxiv.org/abs/2608.06850v1)|null|
+|**2026-08-07**|**Multi-Perspective Triad Interaction Graph Neural Network for Cognitive Distortion Detection**|Jun Seo Kim et.al.|[2608.06785v1](http://arxiv.org/abs/2608.06785v1)|null|
+|**2026-08-07**|**When Semantics Saturate or Emerge: Adaptation-Conditional Semantic Utility in Source-Free Cross-Domain Few-Shot Learning**|Wei Liu et.al.|[2608.06673v1](http://arxiv.org/abs/2608.06673v1)|null|
+|**2026-08-07**|**Cross-Geometry Transferability Assessment of Universal Machine Learning Interatomic Potentials: From Bulk Materials to Atomic Nanowires**|Pedro H. M. Zanineli et.al.|[2608.06662v1](http://arxiv.org/abs/2608.06662v1)|null|
 |**2026-08-06**|**GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions**|Chenghao Gu et.al.|[2608.06332v1](http://arxiv.org/abs/2608.06332v1)|null|
 |**2026-08-06**|**Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model**|Saad Ahmed et.al.|[2608.06252v1](http://arxiv.org/abs/2608.06252v1)|null|
 |**2026-08-06**|**Prior-SG: Task and Prior Driven Region Segmentation for Scene Graphs in Arbitrarily-Structured Environments**|Giorgio Tonetti et.al.|[2608.06170v1](http://arxiv.org/abs/2608.06170v1)|null|

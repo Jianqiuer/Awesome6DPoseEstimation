@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.08.10
+## Updated on 2026.08.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**HandSplatter: Automated Digital Goniometry from Neural Rendering**|Emmett Chen et.al.|[2608.09735v1](http://arxiv.org/abs/2608.09735v1)|null|
+|**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|
+|**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|
+|**2026-08-10**|**You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows**|Jonas Leo Mueller et.al.|[2608.09579v1](http://arxiv.org/abs/2608.09579v1)|null|
+|**2026-08-10**|**A Height-Constrained 2-Point Minimal Solver for Pose Estimation from Active LED Markers with Event Cameras**|Runze Yuan et.al.|[2608.09520v1](http://arxiv.org/abs/2608.09520v1)|null|
+|**2026-08-10**|**CableDex: Cable Length Estimation on Industrial Reels Using a Handheld Device**|Francisco Guillén et.al.|[2608.09392v1](http://arxiv.org/abs/2608.09392v1)|null|
+|**2026-08-10**|**LightAIR: Lightweight Action Inversion and Riemannian Rectification for Text-based Person Anomaly Search**|Yulun Zhang et.al.|[2608.09152v1](http://arxiv.org/abs/2608.09152v1)|null|
+|**2026-08-10**|**Multi-Submap Implicit Neural SLAM with Local-to-Global Loop Closure for Large-Scale Scene Reconstruction**|Tianchen Deng et.al.|[2608.09146v1](http://arxiv.org/abs/2608.09146v1)|null|
+|**2026-08-10**|**ROEVO: Robust Organized Edge Feature-based Visual Odometry Using RGB-D Cameras**|Mingrui Liu et.al.|[2608.09112v1](http://arxiv.org/abs/2608.09112v1)|null|
+|**2026-08-09**|**EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams**|Zixuan Chen et.al.|[2608.08585v1](http://arxiv.org/abs/2608.08585v1)|null|
 |**2026-08-07**|**Geometry-Aware Camera Localization for Bronchoscopy**|Lumin Chen et.al.|[2608.07116v1](http://arxiv.org/abs/2608.07116v1)|null|
 |**2026-08-07**|**GOPI: Generation-Oriented 3D Pose Inference for Furniture Insertion from Single-View RGB-D Indoor Scenes**|Ruifeng Zhai et.al.|[2608.06836v1](http://arxiv.org/abs/2608.06836v1)|null|
 |**2026-08-06**|**Topometric Autonomous Vehicle Localization by Combining Visual Embeddings and Feed-Forward 3D Models**|Eulogio Quemada-Torres et.al.|[2608.06021v1](http://arxiv.org/abs/2608.06021v1)|null|
@@ -3794,6 +3804,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Dongchi Huang et.al.|[2608.09853v1](http://arxiv.org/abs/2608.09853v1)|null|
+|**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Haoyu Yang et.al.|[2608.09818v1](http://arxiv.org/abs/2608.09818v1)|null|
+|**2026-08-10**|**Hierarchical Fast--Slow ReAct Agent for Zero-Shot Object-Goal Navigation**|Zhaochen Lan et.al.|[2608.09816v1](http://arxiv.org/abs/2608.09816v1)|null|
+|**2026-08-10**|**ADOPD: Reference-Privileged On-Policy Distillation for MLLM-Based Industrial Anomaly Detection**|Jingtai He et.al.|[2608.09789v1](http://arxiv.org/abs/2608.09789v1)|null|
+|**2026-08-10**|**MPISuperRes-PnP: A Super-Resolution Zero-Shot Plug-and-Play Reconstruction Algorithm for Magnetic Particle Imaging**|Vladyslav Gapyak et.al.|[2608.09672v1](http://arxiv.org/abs/2608.09672v1)|null|
+|**2026-08-10**|**LoRA-based Adaptation Alone Is Not Enough: Understanding the Limits of Foundation Models for Face Presentation Attack Detection**|Peter Lorenz et.al.|[2608.09633v1](http://arxiv.org/abs/2608.09633v1)|null|
+|**2026-08-10**|**Mawqif-v2: An Arabic Benchmark Dataset for Cross-Target Stance Detection**|Rasha Albalawi et.al.|[2608.09539v1](http://arxiv.org/abs/2608.09539v1)|null|
+|**2026-08-10**|**XFeat Revisited: Reproducibility and Evaluation of a Lightweight Image Matcher**|Lazar Đoković et.al.|[2608.09519v1](http://arxiv.org/abs/2608.09519v1)|null|
+|**2026-08-10**|**Foundation Models are Implicit Deepfake Detectors**|Stefan Smeu et.al.|[2608.09427v1](http://arxiv.org/abs/2608.09427v1)|null|
+|**2026-08-10**|**SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry**|Laura Jones et.al.|[2608.09303v1](http://arxiv.org/abs/2608.09303v1)|null|
 |**2026-08-07**|**SimWAM: A Simple World Action Model for End-to-End Autonomous Driving**|Zongchuang Zhao et.al.|[2608.07468v1](http://arxiv.org/abs/2608.07468v1)|null|
 |**2026-08-07**|**SemBridge: Semantic Token Anchoring for Continuous-Latent Autoregressive Speech Generation**|Hanke Xie et.al.|[2608.07462v1](http://arxiv.org/abs/2608.07462v1)|null|
 |**2026-08-07**|**UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling**|An Lanji et.al.|[2608.07409v1](http://arxiv.org/abs/2608.07409v1)|null|

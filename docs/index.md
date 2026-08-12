@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.08.11
+## Updated on 2026.08.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|
 |**2026-08-10**|**HandSplatter: Automated Digital Goniometry from Neural Rendering**|Emmett Chen et.al.|[2608.09735v1](http://arxiv.org/abs/2608.09735v1)|null|
 |**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|
 |**2026-08-10**|**A Semantic Communication Approach to Fiducial Marker Processing in 5G-Enabled Edge SLAM**|Boris Radovanovic et.al.|[2608.09620v1](http://arxiv.org/abs/2608.09620v1)|null|
@@ -3804,6 +3805,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013v1](http://arxiv.org/abs/2608.11013v1)|null|
+|**2026-08-11**|**A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models**|Wajdi Ben Saad et.al.|[2608.10939v1](http://arxiv.org/abs/2608.10939v1)|null|
+|**2026-08-11**|**VIDS-Seg: Towards Reliable Uncertainty Quantification in Pediatric Cardiac Ultrasound Segmentation**|Paul Fischer et.al.|[2608.10903v1](http://arxiv.org/abs/2608.10903v1)|null|
+|**2026-08-11**|**ConfTriage: A Calibration-Aware LLM Triage Framework for Pulmonary Nodule Malignancy with Selective Specialist Deferral**|Md Rabiul Islam et.al.|[2608.10885v1](http://arxiv.org/abs/2608.10885v1)|null|
+|**2026-08-11**|**AECNav: Active Evidence Consolidation for Efficient Zero-Shot Open-Vocabulary Object Navigation**|Guanlin Liu et.al.|[2608.10817v1](http://arxiv.org/abs/2608.10817v1)|null|
+|**2026-08-11**|**Rule of Thumb: Explaining Artificial Intelligence Systems using Partial Information**|Kaivalya Rawal et.al.|[2608.10766v1](http://arxiv.org/abs/2608.10766v1)|null|
+|**2026-08-11**|**EVIL-Detect for NLPCC 2026 Shared Task 6: LLM-Generated Text Detection**|Hongrui Bao et.al.|[2608.10698v1](http://arxiv.org/abs/2608.10698v1)|null|
+|**2026-08-11**|**Cross-View Sequential Visual Localization with Spatio-Temporal Context Modeling for Autonomous Driving**|Jiaping Wang et.al.|[2608.10660v1](http://arxiv.org/abs/2608.10660v1)|null|
+|**2026-08-11**|**SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception**|Yiyang Su et.al.|[2608.10497v1](http://arxiv.org/abs/2608.10497v1)|null|
+|**2026-08-11**|**Stream Forcing: Constructing Unified Training Trajectory for Robust Streaming Video Generation**|Yueting Zhu et.al.|[2608.10439v1](http://arxiv.org/abs/2608.10439v1)|null|
 |**2026-08-10**|**RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance**|Dongchi Huang et.al.|[2608.09853v1](http://arxiv.org/abs/2608.09853v1)|null|
 |**2026-08-10**|**MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation**|Haoyu Yang et.al.|[2608.09818v1](http://arxiv.org/abs/2608.09818v1)|null|
 |**2026-08-10**|**Hierarchical Fast--Slow ReAct Agent for Zero-Shot Object-Goal Navigation**|Zhaochen Lan et.al.|[2608.09816v1](http://arxiv.org/abs/2608.09816v1)|null|

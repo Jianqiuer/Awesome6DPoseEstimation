@@ -1,4 +1,4 @@
-## Updated on 2026.08.12
+## Updated on 2026.08.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation**|Ruochen Li et.al.|[2608.12187v1](http://arxiv.org/abs/2608.12187v1)|null|
+|**2026-08-12**|**Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands**|Ryosei Hara et.al.|[2608.11574v1](http://arxiv.org/abs/2608.11574v1)|null|
 |**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|
 |**2026-08-10**|**HandSplatter: Automated Digital Goniometry from Neural Rendering**|Emmett Chen et.al.|[2608.09735v1](http://arxiv.org/abs/2608.09735v1)|null|
 |**2026-08-10**|**Removing Infrastructure Barriers in Human-Robot Collaboration Through Wireless Reconfigurable Cells**|Emma Takács et.al.|[2608.09658v1](http://arxiv.org/abs/2608.09658v1)|null|
@@ -3189,7 +3191,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3537,12 +3539,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Boundary-Enhanced Segmentation of Pig Point Clouds in Commercial Housing Environments**|Zhankang Xu et.al.|[2608.11697v1](http://arxiv.org/abs/2608.11697v1)|null|
 |**2026-07-23**|**Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance**|Antonis Savva et.al.|[2607.21089v1](http://arxiv.org/abs/2607.21089v1)|null|
 |**2026-07-16**|**Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark**|Silas kwabla Gah et.al.|[2607.15331v1](http://arxiv.org/abs/2607.15331v1)|null|
 |**2026-07-08**|**Adversarially Guided Diffusion for LiDAR Range Image Synthesis**|Stavros Bouras et.al.|[2607.09787v1](http://arxiv.org/abs/2607.09787v1)|null|
@@ -3811,12 +3814,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-12**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al.|[2608.11985v1](http://arxiv.org/abs/2608.11985v1)|null|
+|**2026-08-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al.|[2608.11933v1](http://arxiv.org/abs/2608.11933v1)|null|
+|**2026-08-12**|**LabelFusion-TS: Fusing Large Language Models, Transformer Encoders, and Financial Time Series for Monetary-Policy Stance Classification**|Michael Schlee et.al.|[2608.11753v1](http://arxiv.org/abs/2608.11753v1)|null|
+|**2026-08-12**|**Dual Modality Prompted Diffusion Priors for Zero Shot Hyperspectral Pansharpening**|Pengwei Xie et.al.|[2608.11748v1](http://arxiv.org/abs/2608.11748v1)|null|
+|**2026-08-12**|**Epiplexity Guided Data Selection and Generation for Out-of-Distribution Generalization**|Ellen Su et.al.|[2608.11746v1](http://arxiv.org/abs/2608.11746v1)|null|
+|**2026-08-12**|**G0.5: One Autoregressive Stream for Robot Reasoning and Action**|Yicheng Liu et.al.|[2608.11739v1](http://arxiv.org/abs/2608.11739v1)|null|
+|**2026-08-12**|**Phoenix TTS: High-Fidelity Synthesis and Voice Conversion via Flow-Matching-Driven Speech Tokenization**|Peijie Chen et.al.|[2608.11737v1](http://arxiv.org/abs/2608.11737v1)|null|
+|**2026-08-12**|**Confucius4-TTS: Transcript-Free Cross-Lingual Zero-Shot TTS with a Learnable Speaker Encoder**|Huaxuan Wang et.al.|[2608.11650v1](http://arxiv.org/abs/2608.11650v1)|null|
+|**2026-08-12**|**Robustness of AI-Art Detectors under Generator Shift**|Shivank Singh Thakur et.al.|[2608.11643v1](http://arxiv.org/abs/2608.11643v1)|null|
+|**2026-08-12**|**FM-LLM: A frequency-enhanced mixture-of-experts framework for adapting LLMs to time series forecasting**|Rentao Gu et.al.|[2608.11623v1](http://arxiv.org/abs/2608.11623v1)|null|
 |**2026-08-11**|**Watching Synthetic Videos: Aligning Cross-modal Representations with Visual Synthesis for Zero-shot Video Captioning**|Liangyu Fu et.al.|[2608.11013v1](http://arxiv.org/abs/2608.11013v1)|null|
 |**2026-08-11**|**A Cost-Efficient Routing Pipeline for Multilingual Short-Text Classification Using Small Language Models**|Wajdi Ben Saad et.al.|[2608.10939v1](http://arxiv.org/abs/2608.10939v1)|null|
 |**2026-08-11**|**VIDS-Seg: Towards Reliable Uncertainty Quantification in Pediatric Cardiac Ultrasound Segmentation**|Paul Fischer et.al.|[2608.10903v1](http://arxiv.org/abs/2608.10903v1)|null|
@@ -11759,5 +11772,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260812>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260813>back to top</a>)</p>
 

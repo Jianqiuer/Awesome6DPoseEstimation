@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.13
+## Updated on 2026.08.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception**|Gang Zhang et.al.|[2608.13396v1](http://arxiv.org/abs/2608.13396v1)|null|
+|**2026-08-13**|**A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources**|Brunó B. Englert et.al.|[2608.13183v1](http://arxiv.org/abs/2608.13183v1)|null|
+|**2026-08-13**|**Fast Iterative Five point Relative Pose Estimation**|Johan Hedborg et.al.|[2608.13114v1](http://arxiv.org/abs/2608.13114v1)|null|
+|**2026-08-13**|**Topology-Unified 2D Pose Estimation across Intact, Residual and Prosthetic Limbs**|Tianye Qi et.al.|[2608.13047v1](http://arxiv.org/abs/2608.13047v1)|null|
+|**2026-08-13**|**AMR-Pose: An Active LED Marker-Based Relative Pose Estimation Framework With Probabilistic Switching PnP for Cooperative AUVs**|Zeyu Sha et.al.|[2608.12866v1](http://arxiv.org/abs/2608.12866v1)|null|
+|**2026-08-12**|**MV2: Multi-View Multi-Vehicle Driving Dataset for Novel View Synthesis**|Sanjay Bhargav Dharavath et.al.|[2608.12442v1](http://arxiv.org/abs/2608.12442v1)|null|
 |**2026-08-12**|**HSTGFormer: Hyper Spatial-Temporal Graph Transformer for 3D Human Pose Estimation**|Ruochen Li et.al.|[2608.12187v1](http://arxiv.org/abs/2608.12187v1)|null|
 |**2026-08-12**|**Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands**|Ryosei Hara et.al.|[2608.11574v1](http://arxiv.org/abs/2608.11574v1)|null|
 |**2026-08-11**|**GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting**|Huaiyuan Weng et.al.|[2608.10938v1](http://arxiv.org/abs/2608.10938v1)|null|
@@ -3808,6 +3814,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-13**|**Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples**|Yusen Tan et.al.|[2608.13341v1](http://arxiv.org/abs/2608.13341v1)|null|
+|**2026-08-13**|**NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space**|Eleftherios Mylonas et.al.|[2608.13293v1](http://arxiv.org/abs/2608.13293v1)|null|
+|**2026-08-13**|**Into the ORBIT for Time Series: Training Regimes for Foundation Models**|Hongjie Xia et.al.|[2608.13262v1](http://arxiv.org/abs/2608.13262v1)|null|
+|**2026-08-13**|**Less Annotation, More Interpretation: Prior-Guided Concept Bottleneck Models for Interpretable Cancer Imaging Diagnosis**|Baoqiang Ma et.al.|[2608.13148v1](http://arxiv.org/abs/2608.13148v1)|null|
+|**2026-08-13**|**FlowLOB: Efficient and Controllable Limit Order Book Generation with Flow Matching**|Zhuohan Wang et.al.|[2608.13096v1](http://arxiv.org/abs/2608.13096v1)|null|
+|**2026-08-13**|**EEG-PRIME: Prototype-Aligned Representation Learning with Multi-Level Conditioning for EEG Decoding**|Shuailei Zhang et.al.|[2608.13072v1](http://arxiv.org/abs/2608.13072v1)|null|
+|**2026-08-13**|**Behavioral Reprogramming of Open-Weights Models: Cognitive Plasticity and Alignment Bounds**|Lucia Malíčková et.al.|[2608.13069v1](http://arxiv.org/abs/2608.13069v1)|null|
+|**2026-08-13**|**RGB-D Video Generation for Improving Human-to-Robot Object Handover Prediction**|Tianyu Sun et.al.|[2608.13028v1](http://arxiv.org/abs/2608.13028v1)|null|
+|**2026-08-13**|**OGR-MARL: Option-Guided Residual Multi-Agent Reinforcement Learning for Heterogeneous USV Cooperative Pursuit in Constrained Port Waterways**|Mao Jiayang et.al.|[2608.12995v1](http://arxiv.org/abs/2608.12995v1)|null|
+|**2026-08-13**|**ARIES-Mission2: A Zero-Shot Vision-Language-Action Framework for Fast Large-Scale Aerial Mission Generation**|Junhao Wei et.al.|[2608.12763v1](http://arxiv.org/abs/2608.12763v1)|null|
 |**2026-08-12**|**Auditing Frame-Level AUC in Weakly Supervised Video Anomaly Detection: Granularity, Resolution, and Scene Bias**|Sara Abdulaziz et.al.|[2608.11985v1](http://arxiv.org/abs/2608.11985v1)|null|
 |**2026-08-12**|**Dual Anchors, Do It Better: Hierarchical Group Merging for Zero-Shot Anomaly Detection**|Jimin Roh et.al.|[2608.11933v1](http://arxiv.org/abs/2608.11933v1)|null|
 |**2026-08-12**|**LabelFusion-TS: Fusing Large Language Models, Transformer Encoders, and Financial Time Series for Monetary-Policy Stance Classification**|Michael Schlee et.al.|[2608.11753v1](http://arxiv.org/abs/2608.11753v1)|null|

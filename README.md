@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176v1](http://arxiv.org/abs/2608.14176v1)|null|
+|**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027v1](http://arxiv.org/abs/2608.14027v1)|null|
+|**2026-08-14**|**Beyond Control Points: Arcsecond Relative-Motion Estimation of Vision Measurement Platforms With Incomplete or Absent Control Fields**|Meng Lian et.al.|[2608.13918v1](http://arxiv.org/abs/2608.13918v1)|null|
 |**2026-08-13**|**Capstan-driven Continuum Surgical Robot: Design, Modeling, and Perception**|Gang Zhang et.al.|[2608.13396v1](http://arxiv.org/abs/2608.13396v1)|null|
 |**2026-08-13**|**A Controlled Study of Self-Supervised Image and Video Pretraining under Limited Resources**|Brunó B. Englert et.al.|[2608.13183v1](http://arxiv.org/abs/2608.13183v1)|null|
 |**2026-08-13**|**Fast Iterative Five point Relative Pose Estimation**|Johan Hedborg et.al.|[2608.13114v1](http://arxiv.org/abs/2608.13114v1)|null|
@@ -3826,6 +3829,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-14**|**You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model**|Ziyang Luo et.al.|[2608.14465v1](http://arxiv.org/abs/2608.14465v1)|null|
+|**2026-08-14**|**STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X**|Yasir Ech-Chammakhy et.al.|[2608.14418v1](http://arxiv.org/abs/2608.14418v1)|null|
+|**2026-08-14**|**Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**|Shuo Liang et.al.|[2608.14391v1](http://arxiv.org/abs/2608.14391v1)|null|
+|**2026-08-14**|**CORAL: Curriculum-Optimized Reward Adaptation for LiDAR-Based Goal-Directed Urban Driving**|Anisa Saleem et.al.|[2608.14332v1](http://arxiv.org/abs/2608.14332v1)|null|
+|**2026-08-14**|**MAGneT-3D: Monocular and Domain-Generalizable Temporal 3D Detection**|Mohamed Kotb et.al.|[2608.14282v1](http://arxiv.org/abs/2608.14282v1)|null|
+|**2026-08-14**|**Zero-Shot Skeleton-Based Action Anticipation**|Hongsong Wang et.al.|[2608.14243v1](http://arxiv.org/abs/2608.14243v1)|null|
+|**2026-08-14**|**MINT: A Universal Zero-Shot Predictor for Transaction Data**|Parameswaran Kamalaruban et.al.|[2608.14198v1](http://arxiv.org/abs/2608.14198v1)|null|
+|**2026-08-14**|**Can Language Models Understand mmWave Data? Benchmarking Large Language Models for mmWave Radar-Based Human Understanding**|Jeongwan Shin et.al.|[2608.14179v1](http://arxiv.org/abs/2608.14179v1)|null|
+|**2026-08-14**|**Towards Efficient Multimodal and Multilingual Opinion Extraction for STI: A QLoRA-Based Fine-Tuning Approach**|Sheng Hong et.al.|[2608.14152v1](http://arxiv.org/abs/2608.14152v1)|null|
+|**2026-08-14**|**AgilePE: Autonomous UAV Pursuit-Evasion via Self-Play Reinforcement Learning**|Wenhao Tang et.al.|[2608.14135v1](http://arxiv.org/abs/2608.14135v1)|null|
 |**2026-08-13**|**Simulation-to-real transfer learning for infrared spectroscopic chemical sensing and analysis from molecules to complex samples**|Yusen Tan et.al.|[2608.13341v1](http://arxiv.org/abs/2608.13341v1)|null|
 |**2026-08-13**|**NAS-Driven Hardware Accelerator Exploration for Edge AI and Quantization Effects on the Pareto Space**|Eleftherios Mylonas et.al.|[2608.13293v1](http://arxiv.org/abs/2608.13293v1)|null|
 |**2026-08-13**|**Into the ORBIT for Time Series: Training Regimes for Foundation Models**|Hongjie Xia et.al.|[2608.13262v1](http://arxiv.org/abs/2608.13262v1)|null|

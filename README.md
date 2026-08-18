@@ -1,4 +1,4 @@
-## Updated on 2026.08.17
+## Updated on 2026.08.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|null|
+|**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|
+|**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|
+|**2026-08-16**|**Target Localization and Self-Calibration in a Multistatic Radar System**|Ahmad Musallam et.al.|[2608.15501v1](http://arxiv.org/abs/2608.15501v1)|null|
+|**2026-08-15**|**TinyDETR-Pose: Towards End-to-End Real-Time Single-Stage 6DoF Object Pose Estimation with Lightweight Transformers**|Paul Julius Kühn et.al.|[2608.15297v1](http://arxiv.org/abs/2608.15297v1)|null|
 |**2026-08-14**|**Physics-Bounded mmWave Sensing for Schedulable, Privacy-Preserving Human Pose Estimation**|Shuntian Zheng et.al.|[2608.14176v1](http://arxiv.org/abs/2608.14176v1)|null|
 |**2026-08-14**|**E-S2Feat:Semantic-Guided Spiking Local Feature Detection and Description for Event Cameras**|Yang Yi et.al.|[2608.14027v1](http://arxiv.org/abs/2608.14027v1)|null|
 |**2026-08-14**|**Beyond Control Points: Arcsecond Relative-Motion Estimation of Vision Measurement Platforms With Incomplete or Absent Control Fields**|Meng Lian et.al.|[2608.13918v1](http://arxiv.org/abs/2608.13918v1)|null|
@@ -3200,12 +3205,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260v1](http://arxiv.org/abs/2608.15260v1)|null|
 |**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v1](http://arxiv.org/abs/2608.02883v1)|null|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045v1](http://arxiv.org/abs/2607.28045v1)|null|
 |**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
@@ -3548,7 +3554,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3823,12 +3829,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-17**|**What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models**|Saisab Sadhu et.al.|[2608.16852v1](http://arxiv.org/abs/2608.16852v1)|null|
+|**2026-08-17**|**Beyond Uncertainty: Generalizable Failure Monitoring for Surgical Segmentation under Acquisition Degradation**|Hieu D. Pham et.al.|[2608.16748v1](http://arxiv.org/abs/2608.16748v1)|null|
+|**2026-08-17**|**GenRouter: Unified Workflow Routing for Agentic Image Generation**|Harold Haodong Chen et.al.|[2608.16721v1](http://arxiv.org/abs/2608.16721v1)|null|
+|**2026-08-17**|**AnchorScore: A CLIP-Based Diagnostic of MLLM Annotation Difficulty**|Yan Ma et.al.|[2608.16690v1](http://arxiv.org/abs/2608.16690v1)|null|
+|**2026-08-17**|**Towards Zero-Shot Domain Generalization for ID Cards Presentation Attack Detection**|Mario Nieto-Hidalgo et.al.|[2608.16591v1](http://arxiv.org/abs/2608.16591v1)|null|
+|**2026-08-17**|**Zetta $ζ$ : An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence**|Xin Ding et.al.|[2608.16590v1](http://arxiv.org/abs/2608.16590v1)|null|
+|**2026-08-17**|**Learning Generalizable Reconstruction of High-Dimensional Neural Dynamics**|Anima Kujur et.al.|[2608.16569v1](http://arxiv.org/abs/2608.16569v1)|null|
+|**2026-08-17**|**Matched Outcomes, Divergent Gaze: How Foveated MLLMs Search Compared to Humans**|Mohamed Amine Kerkouri et.al.|[2608.16514v1](http://arxiv.org/abs/2608.16514v1)|null|
+|**2026-08-17**|**LLMs for Zero-Shot Threat Detection via Structured Risk Indicators**|Abdullah Alghamdi et.al.|[2608.16508v1](http://arxiv.org/abs/2608.16508v1)|null|
+|**2026-08-17**|**Foresight-England: Development of a National-Scale Generative AI Model of Electronic Health Records for Medical Event Prediction across the COVID-19 Pandemic**|Simon Ellershaw et.al.|[2608.16273v1](http://arxiv.org/abs/2608.16273v1)|null|
 |**2026-08-14**|**You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model**|Ziyang Luo et.al.|[2608.14465v1](http://arxiv.org/abs/2608.14465v1)|null|
 |**2026-08-14**|**STINER: Automated Extraction of Strategic Cyber Threat Intelligence from X**|Yasir Ech-Chammakhy et.al.|[2608.14418v1](http://arxiv.org/abs/2608.14418v1)|null|
 |**2026-08-14**|**Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**|Shuo Liang et.al.|[2608.14391v1](http://arxiv.org/abs/2608.14391v1)|null|
@@ -11801,5 +11817,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260817>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
 

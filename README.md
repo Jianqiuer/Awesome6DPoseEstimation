@@ -1,4 +1,4 @@
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -3205,7 +3205,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3554,7 +3554,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3829,12 +3829,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077v1](http://arxiv.org/abs/2608.18077v1)|null|
+|**2026-08-18**|**Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry**|Emma Ceccherini et.al.|[2608.18033v1](http://arxiv.org/abs/2608.18033v1)|null|
+|**2026-08-18**|**Chain-of-Experience for Continual LLM Improvement**|Haoqin Tu et.al.|[2608.18027v1](http://arxiv.org/abs/2608.18027v1)|null|
+|**2026-08-18**|**Towards Zero-Shot Task Transfer with Neurosymbolic World Models**|Isidoro Tamassia et.al.|[2608.17959v1](http://arxiv.org/abs/2608.17959v1)|null|
+|**2026-08-18**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950v1](http://arxiv.org/abs/2608.17950v1)|null|
+|**2026-08-18**|**PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation**|Jianyu Sun et.al.|[2608.17926v1](http://arxiv.org/abs/2608.17926v1)|null|
+|**2026-08-18**|**MoRAX: Mobility-based Representation Augmentation for Geospatial Foundation Models**|Ya Wen et.al.|[2608.17848v1](http://arxiv.org/abs/2608.17848v1)|null|
+|**2026-08-18**|**Electromagnetic World Model for 6G: A Unified Framework for Joint Environment Reconstruction and Channel Prediction**|Yizhu Zhao et.al.|[2608.17769v1](http://arxiv.org/abs/2608.17769v1)|null|
+|**2026-08-18**|**Vision-Language Models for Analog Gauge Reading: An Empirical Study of Specialization, Transfer and Reliability**|Abdul Mueez et.al.|[2608.17723v1](http://arxiv.org/abs/2608.17723v1)|null|
+|**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|
 |**2026-08-17**|**What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models**|Saisab Sadhu et.al.|[2608.16852v1](http://arxiv.org/abs/2608.16852v1)|null|
 |**2026-08-17**|**Beyond Uncertainty: Generalizable Failure Monitoring for Surgical Segmentation under Acquisition Degradation**|Hieu D. Pham et.al.|[2608.16748v1](http://arxiv.org/abs/2608.16748v1)|null|
 |**2026-08-17**|**GenRouter: Unified Workflow Routing for Agentic Image Generation**|Harold Haodong Chen et.al.|[2608.16721v1](http://arxiv.org/abs/2608.16721v1)|null|
@@ -11817,5 +11827,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260818>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260819>back to top</a>)</p>
 

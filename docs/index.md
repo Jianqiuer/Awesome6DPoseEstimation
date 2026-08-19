@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.08.18
+## Updated on 2026.08.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3823,6 +3823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077v1](http://arxiv.org/abs/2608.18077v1)|null|
+|**2026-08-18**|**Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry**|Emma Ceccherini et.al.|[2608.18033v1](http://arxiv.org/abs/2608.18033v1)|null|
+|**2026-08-18**|**Chain-of-Experience for Continual LLM Improvement**|Haoqin Tu et.al.|[2608.18027v1](http://arxiv.org/abs/2608.18027v1)|null|
+|**2026-08-18**|**Towards Zero-Shot Task Transfer with Neurosymbolic World Models**|Isidoro Tamassia et.al.|[2608.17959v1](http://arxiv.org/abs/2608.17959v1)|null|
+|**2026-08-18**|**Do Large Language Models Play Six Degrees of Separation? Measuring Topological Compression in Long-Context Manifolds**|Md. Faiyaz Abdullah Sayeedi et.al.|[2608.17950v1](http://arxiv.org/abs/2608.17950v1)|null|
+|**2026-08-18**|**PerFact: Perception-Derived Fact Prompting for 3D Brain MRI Report Generation**|Jianyu Sun et.al.|[2608.17926v1](http://arxiv.org/abs/2608.17926v1)|null|
+|**2026-08-18**|**MoRAX: Mobility-based Representation Augmentation for Geospatial Foundation Models**|Ya Wen et.al.|[2608.17848v1](http://arxiv.org/abs/2608.17848v1)|null|
+|**2026-08-18**|**Electromagnetic World Model for 6G: A Unified Framework for Joint Environment Reconstruction and Channel Prediction**|Yizhu Zhao et.al.|[2608.17769v1](http://arxiv.org/abs/2608.17769v1)|null|
+|**2026-08-18**|**Vision-Language Models for Analog Gauge Reading: An Empirical Study of Specialization, Transfer and Reliability**|Abdul Mueez et.al.|[2608.17723v1](http://arxiv.org/abs/2608.17723v1)|null|
+|**2026-08-18**|**CompCPZ: Preserving Multi-Modal Intent in Language-Guided Robot Manipulation**|Zhen Zhang et.al.|[2608.17717v1](http://arxiv.org/abs/2608.17717v1)|null|
 |**2026-08-17**|**What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models**|Saisab Sadhu et.al.|[2608.16852v1](http://arxiv.org/abs/2608.16852v1)|null|
 |**2026-08-17**|**Beyond Uncertainty: Generalizable Failure Monitoring for Surgical Segmentation under Acquisition Degradation**|Hieu D. Pham et.al.|[2608.16748v1](http://arxiv.org/abs/2608.16748v1)|null|
 |**2026-08-17**|**GenRouter: Unified Workflow Routing for Agentic Image Generation**|Harold Haodong Chen et.al.|[2608.16721v1](http://arxiv.org/abs/2608.16721v1)|null|

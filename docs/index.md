@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.08.19
+## Updated on 2026.08.20
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|null|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|
 |**2026-08-16**|**KOALA: Koopman Operator Learning for WiFi-Based Anticipatory Hum**|Quang-Anh N. D. et.al.|[2608.15815v1](http://arxiv.org/abs/2608.15815v1)|null|
@@ -3550,6 +3551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts**|Yanghong Lin et.al.|[2608.18479v1](http://arxiv.org/abs/2608.18479v1)|null|
 |**2026-08-12**|**Boundary-Enhanced Segmentation of Pig Point Clouds in Commercial Housing Environments**|Zhankang Xu et.al.|[2608.11697v1](http://arxiv.org/abs/2608.11697v1)|null|
 |**2026-07-23**|**Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance**|Antonis Savva et.al.|[2607.21089v1](http://arxiv.org/abs/2607.21089v1)|null|
 |**2026-07-16**|**Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark**|Silas kwabla Gah et.al.|[2607.15331v1](http://arxiv.org/abs/2607.15331v1)|null|
@@ -3557,7 +3559,7 @@ layout: default
 |**2026-06-10**|**Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom**|Balázs Gyenes et.al.|[2606.12048v1](http://arxiv.org/abs/2606.12048v1)|null|
 |**2026-06-03**|**WHU-Infra3D: A Full-stack Multi-modal Dataset and Benchmark for 3D Roadside Infrastructure Inventory**|Chong Liu et.al.|[2606.09882v1](http://arxiv.org/abs/2606.09882v1)|null|
 |**2026-06-05**|**Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation**|Zihao Zhang et.al.|[2606.07280v1](http://arxiv.org/abs/2606.07280v1)|null|
-|**2026-06-01**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549v1](http://arxiv.org/abs/2606.01549v1)|null|
+|**2026-08-19**|**ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation**|Trung Thanh Nguyen et.al.|[2606.01549v2](http://arxiv.org/abs/2606.01549v2)|null|
 |**2026-05-28**|**xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR**|Thenukan Pathmanathan et.al.|[2605.30111v1](http://arxiv.org/abs/2605.30111v1)|null|
 |**2026-05-28**|**MonoDuo: Using One Robot Arm to Learn Bimanual Policies**|Sandeep Bajamahal et.al.|[2605.29298v1](http://arxiv.org/abs/2605.29298v1)|null|
 |**2026-05-20**|**Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors**|Siqi Wei et.al.|[2605.20737v1](http://arxiv.org/abs/2605.20737v1)|null|
@@ -3823,6 +3825,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-19**|**ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning**|Jayjun Lee et.al.|[2608.19182v1](http://arxiv.org/abs/2608.19182v1)|null|
+|**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952v1](http://arxiv.org/abs/2608.18952v1)|null|
+|**2026-08-19**|**EVADE: Evidence-Verified Agentic Diagnosis with Escape**|Mohaimenul Azam Khan Raiaan et.al.|[2608.18833v1](http://arxiv.org/abs/2608.18833v1)|null|
+|**2026-08-19**|**Understanding Multilingual Medical ASR Adaptation Through Layer-Wise Analysis**|Souranil Kahali et.al.|[2608.18825v1](http://arxiv.org/abs/2608.18825v1)|null|
+|**2026-08-19**|**CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes**|Kumal Hewagamage et.al.|[2608.18734v1](http://arxiv.org/abs/2608.18734v1)|null|
+|**2026-08-19**|**A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3**|Sachin Dudda Nagaraju et.al.|[2608.18731v1](http://arxiv.org/abs/2608.18731v1)|null|
+|**2026-08-19**|**Aslema at NADI 2026: Augmentation through Fewshot for SLU**|Tajwaar Shafiq et.al.|[2608.18689v1](http://arxiv.org/abs/2608.18689v1)|null|
+|**2026-08-19**|**SAM2Dual: Training-Free, Dual Memory for Long-Term Video Object Segmentation**|JeongRae Kim et.al.|[2608.18640v1](http://arxiv.org/abs/2608.18640v1)|null|
+|**2026-08-19**|**Zero-Shot SAM2 Segmentation and Vision Transformer-Based Recognition of Elamite Cuneiform Symbols from Degraded Tablet Images**|Utsav Poudel et.al.|[2608.18544v1](http://arxiv.org/abs/2608.18544v1)|null|
+|**2026-08-19**|**Multimodal Rapport Estimation in Real-World HRI**|Akihiro Sakuramoto et.al.|[2608.18401v1](http://arxiv.org/abs/2608.18401v1)|null|
 |**2026-08-18**|**Hydra-0: Action Flow for Generalist World Modeling and Control**|Hongyu Li et.al.|[2608.18077v1](http://arxiv.org/abs/2608.18077v1)|null|
 |**2026-08-18**|**Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry**|Emma Ceccherini et.al.|[2608.18033v1](http://arxiv.org/abs/2608.18033v1)|null|
 |**2026-08-18**|**Chain-of-Experience for Continual LLM Improvement**|Haoqin Tu et.al.|[2608.18027v1](http://arxiv.org/abs/2608.18027v1)|null|

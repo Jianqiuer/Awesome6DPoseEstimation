@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.20
+## Updated on 2026.08.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|null|
+|**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|
+|**2026-08-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al.|[2608.19987v1](http://arxiv.org/abs/2608.19987v1)|null|
+|**2026-08-20**|**PVRA: A Pointwise Key-point Voting Framework for Robotic Assembly**|Kulunu Samarawickrama et.al.|[2608.19968v1](http://arxiv.org/abs/2608.19968v1)|null|
+|**2026-08-20**|**Unified and Efficient Point-Line Local Features**|François Costa et.al.|[2608.19894v1](http://arxiv.org/abs/2608.19894v1)|null|
+|**2026-08-19**|**VideoRun2D Demo: Markerless Body Tracking for Biomechanical Analysis of Running**|Luis F. Gomez et.al.|[2608.19480v1](http://arxiv.org/abs/2608.19480v1)|null|
 |**2026-08-19**|**DevGRU: Depth-guided Visual Navigation using a Collision-aware Recurrent Model**|Kyung Min Han et.al.|[2608.18470v1](http://arxiv.org/abs/2608.18470v1)|null|
 |**2026-08-17**|**A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models**|Kaname Yokoyama et.al.|[2608.15984v1](http://arxiv.org/abs/2608.15984v1)|null|
 |**2026-08-16**|**Pre-training Visual Dexterity in Simulation**|Sarthak Kamat et.al.|[2608.15917v1](http://arxiv.org/abs/2608.15917v1)|null|
@@ -3204,6 +3210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536v1](http://arxiv.org/abs/2608.19536v1)|null|
 |**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260v1](http://arxiv.org/abs/2608.15260v1)|null|
 |**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v1](http://arxiv.org/abs/2608.02883v1)|null|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045v1](http://arxiv.org/abs/2607.28045v1)|null|
@@ -3825,6 +3832,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320v1](http://arxiv.org/abs/2608.20320v1)|null|
+|**2026-08-20**|**Video2DoorTraversal: Push Door Traversal via Simulated Door Twins**|Xincheng Tang et.al.|[2608.20251v1](http://arxiv.org/abs/2608.20251v1)|null|
+|**2026-08-20**|**Systematic Evaluation of TabPFN-TS for Zero-Shot Probabilistic Heat Load Forecasting in District Heating Networks**|Ben Spoek et.al.|[2608.20024v1](http://arxiv.org/abs/2608.20024v1)|null|
+|**2026-08-20**|**ExPhy: A Benchmark for Explicit Physical Property Learning in Multi-Object Trajectory Forecasting**|Rui Wang et.al.|[2608.20009v1](http://arxiv.org/abs/2608.20009v1)|null|
+|**2026-08-20**|**Learning Early-to-Final Solution Consistency for MILP Acceleration**|Guanlin Li et.al.|[2608.19953v1](http://arxiv.org/abs/2608.19953v1)|null|
+|**2026-08-20**|**DIFFCZSL: Compositional Zero-Shot Learning Regularized by Diffusion Representations**|Hangyu Tian et.al.|[2608.19871v1](http://arxiv.org/abs/2608.19871v1)|null|
+|**2026-08-20**|**AutoLumNet: Monotone Optimal Transport for Single-Shot Exposure Correction**|Airin Akter Tania et.al.|[2608.19860v1](http://arxiv.org/abs/2608.19860v1)|null|
+|**2026-08-20**|**FAR-DPO: Feasibility-Aware and Robust Direct Preference Optimization for Cyclic Peptide Design**|Guofeng Zhang et.al.|[2608.19808v1](http://arxiv.org/abs/2608.19808v1)|null|
+|**2026-08-20**|**CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning**|Julien Merand et.al.|[2608.19776v1](http://arxiv.org/abs/2608.19776v1)|null|
+|**2026-08-20**|**RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations**|En Zhi Tan et.al.|[2608.19735v1](http://arxiv.org/abs/2608.19735v1)|null|
 |**2026-08-19**|**ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning**|Jayjun Lee et.al.|[2608.19182v1](http://arxiv.org/abs/2608.19182v1)|null|
 |**2026-08-19**|**rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation**|Minh Hoang Nguyen et.al.|[2608.18952v1](http://arxiv.org/abs/2608.18952v1)|null|
 |**2026-08-19**|**EVADE: Evidence-Verified Agentic Diagnosis with Escape**|Mohaimenul Azam Khan Raiaan et.al.|[2608.18833v1](http://arxiv.org/abs/2608.18833v1)|null|

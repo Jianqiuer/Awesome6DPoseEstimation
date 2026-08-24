@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066v1](http://arxiv.org/abs/2608.21066v1)|null|
 |**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|null|
 |**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|
 |**2026-08-20**|**STEP: Score-Based Temporal Energy for Human Pose Video Anomaly Detection**|Jakub Micorek et.al.|[2608.19987v1](http://arxiv.org/abs/2608.19987v1)|null|
@@ -3832,6 +3833,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-21**|**The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization**|Derek R. Benham et.al.|[2608.21276v1](http://arxiv.org/abs/2608.21276v1)|null|
+|**2026-08-21**|**COEC: Calibrated Orthogonal-Equivalence Compensation for Structured Pruning of Large Language Models**|Peiqi Yu et.al.|[2608.21142v1](http://arxiv.org/abs/2608.21142v1)|null|
+|**2026-08-21**|**Stream3Dv2: Geometric-Semantic Fusion Enhanced Streaming Zero-Shot 3D Scene Understanding**|Jie Xu et.al.|[2608.21136v1](http://arxiv.org/abs/2608.21136v1)|null|
+|**2026-08-21**|**Free-Text Evaluation of LLMs for 5G Domain Knowledge and Fault Analysis using LLM-as-Judge**|Rishiraj Sengupta et.al.|[2608.21021v1](http://arxiv.org/abs/2608.21021v1)|null|
+|**2026-08-21**|**Neural-Primitive: An Efficient End-to-end Local Planner with Primitive-based Imitation Learning for Autonomous Flight**|Zhitao Liu et.al.|[2608.20948v1](http://arxiv.org/abs/2608.20948v1)|null|
+|**2026-08-21**|**Identify, Locate, Link: End-to-End Key-Value Extraction from Document Images**|A. Said Gurbuz et.al.|[2608.20868v1](http://arxiv.org/abs/2608.20868v1)|null|
+|**2026-08-21**|**DiGS-Avatar: Single-Image Animatable 3D Human Reconstruction via UV-Space Diffusion**|Jiakun Li et.al.|[2608.20759v1](http://arxiv.org/abs/2608.20759v1)|null|
+|**2026-08-21**|**ArtiMo: Agent-Driven Articulated Mesh Animation**|Chunyu Zou et.al.|[2608.20699v1](http://arxiv.org/abs/2608.20699v1)|null|
+|**2026-08-20**|**RECOUNT: Reference-guided Counting with Synthetic Visual Exemplars**|Adriano D'Alessandro et.al.|[2608.20621v1](http://arxiv.org/abs/2608.20621v1)|null|
+|**2026-08-20**|**Zero-Shot Color Image Manipulation Localization via Noise Residual Artifact Pattern Analysis**|Edgar Gonzalez-Fernandez et.al.|[2608.20558v1](http://arxiv.org/abs/2608.20558v1)|null|
 |**2026-08-20**|**An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction**|Narges Ahmadi et.al.|[2608.20320v1](http://arxiv.org/abs/2608.20320v1)|null|
 |**2026-08-20**|**Video2DoorTraversal: Push Door Traversal via Simulated Door Twins**|Xincheng Tang et.al.|[2608.20251v1](http://arxiv.org/abs/2608.20251v1)|null|
 |**2026-08-20**|**Systematic Evaluation of TabPFN-TS for Zero-Shot Probabilistic Heat Load Forecasting in District Heating Networks**|Ben Spoek et.al.|[2608.20024v1](http://arxiv.org/abs/2608.20024v1)|null|

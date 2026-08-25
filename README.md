@@ -1,4 +1,4 @@
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341v1](http://arxiv.org/abs/2608.22341v1)|null|
+|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|null|
+|**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039v1](http://arxiv.org/abs/2608.22039v1)|null|
+|**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029v1](http://arxiv.org/abs/2608.22029v1)|null|
+|**2026-08-22**|**Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors**|Chaoran Huang et.al.|[2608.21837v1](http://arxiv.org/abs/2608.21837v1)|null|
+|**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066v1](http://arxiv.org/abs/2608.21066v1)|null|
 |**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|null|
 |**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|
@@ -3213,12 +3219,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536v1](http://arxiv.org/abs/2608.19536v1)|null|
 |**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260v1](http://arxiv.org/abs/2608.15260v1)|null|
 |**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v1](http://arxiv.org/abs/2608.02883v1)|null|
@@ -3563,7 +3570,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3839,12 +3846,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563v1](http://arxiv.org/abs/2608.23563v1)|null|
+|**2026-08-24**|**Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data**|Yifei Song et.al.|[2608.23391v1](http://arxiv.org/abs/2608.23391v1)|null|
+|**2026-08-24**|**OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation**|Alperen Avan et.al.|[2608.23354v1](http://arxiv.org/abs/2608.23354v1)|null|
+|**2026-08-24**|**FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations**|Haofeng Yuan et.al.|[2608.23353v1](http://arxiv.org/abs/2608.23353v1)|null|
+|**2026-08-24**|**Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents**|Hong-Jun Yoon et.al.|[2608.23241v1](http://arxiv.org/abs/2608.23241v1)|null|
+|**2026-08-24**|**CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension**|Abhilash Nandy et.al.|[2608.23172v1](http://arxiv.org/abs/2608.23172v1)|null|
+|**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102v1](http://arxiv.org/abs/2608.23102v1)|null|
+|**2026-08-24**|**Do Time-Series Foundation Models Pay Off for Industrial Monitoring? A Cost-Aware Empirical Study**|Guan-Hua Wen et.al.|[2608.22968v1](http://arxiv.org/abs/2608.22968v1)|null|
+|**2026-08-24**|**WADE: A Reasoning-Annotated Benchmark for Multi-Instance Floating-Waste Grounding with Compact Vision-Language Models**|Md. Asaduzzaman Shuvo et.al.|[2608.22950v1](http://arxiv.org/abs/2608.22950v1)|null|
+|**2026-08-24**|**TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor**|Pornthep Ukosaramig et.al.|[2608.22917v1](http://arxiv.org/abs/2608.22917v1)|null|
 |**2026-08-21**|**The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization**|Derek R. Benham et.al.|[2608.21276v1](http://arxiv.org/abs/2608.21276v1)|null|
 |**2026-08-21**|**COEC: Calibrated Orthogonal-Equivalence Compensation for Structured Pruning of Large Language Models**|Peiqi Yu et.al.|[2608.21142v1](http://arxiv.org/abs/2608.21142v1)|null|
 |**2026-08-21**|**Stream3Dv2: Geometric-Semantic Fusion Enhanced Streaming Zero-Shot 3D Scene Understanding**|Jie Xu et.al.|[2608.21136v1](http://arxiv.org/abs/2608.21136v1)|null|
@@ -11867,5 +11884,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260824>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260825>back to top</a>)</p>
 

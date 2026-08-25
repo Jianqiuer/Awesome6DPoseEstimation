@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.08.24
+## Updated on 2026.08.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341v1](http://arxiv.org/abs/2608.22341v1)|null|
+|**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|null|
+|**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039v1](http://arxiv.org/abs/2608.22039v1)|null|
+|**2026-08-22**|**ARCHER: Amortized cross-specimen pose estimation for cryo-electron microscopy**|Nhan D. Nguyen et.al.|[2608.22029v1](http://arxiv.org/abs/2608.22029v1)|null|
+|**2026-08-22**|**Towards Bitstream-corrupted Harsh Visual Understanding: Through Bitstream Language Modeling as Robust Semantic Priors**|Chaoran Huang et.al.|[2608.21837v1](http://arxiv.org/abs/2608.21837v1)|null|
+|**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-21**|**Robust Validation to Geometric Perturbations for Autonomous Pose Estimation**|Gregoire Theau et.al.|[2608.21066v1](http://arxiv.org/abs/2608.21066v1)|null|
 |**2026-08-20**|**HandMvNet: Real-Time 3D Hand Pose Estimation Using Multi-View Cross-Attention Fusion**|Muhammad Asad Ali et.al.|[2608.20093v1](http://arxiv.org/abs/2608.20093v1)|null|
 |**2026-08-20**|**Gravity-aware partially calibrated absolute pose estimation from affine- or rotation-covariant features**|Marcus Valtonen Örnhag et.al.|[2608.20056v1](http://arxiv.org/abs/2608.20056v1)|null|
@@ -3211,6 +3217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536v1](http://arxiv.org/abs/2608.19536v1)|null|
 |**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260v1](http://arxiv.org/abs/2608.15260v1)|null|
 |**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v1](http://arxiv.org/abs/2608.02883v1)|null|
@@ -3833,6 +3840,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563v1](http://arxiv.org/abs/2608.23563v1)|null|
+|**2026-08-24**|**Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data**|Yifei Song et.al.|[2608.23391v1](http://arxiv.org/abs/2608.23391v1)|null|
+|**2026-08-24**|**OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation**|Alperen Avan et.al.|[2608.23354v1](http://arxiv.org/abs/2608.23354v1)|null|
+|**2026-08-24**|**FormuEvo: LLM-Guided Evolution for Discovering Solver-Efficient Mixed-Integer Programming Formulations**|Haofeng Yuan et.al.|[2608.23353v1](http://arxiv.org/abs/2608.23353v1)|null|
+|**2026-08-24**|**Retrieval-Augmented Classification of Environmental Mitigations in Hydropower Licensing Documents**|Hong-Jun Yoon et.al.|[2608.23241v1](http://arxiv.org/abs/2608.23241v1)|null|
+|**2026-08-24**|**CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension**|Abhilash Nandy et.al.|[2608.23172v1](http://arxiv.org/abs/2608.23172v1)|null|
+|**2026-08-24**|**Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models**|Fan Xu et.al.|[2608.23102v1](http://arxiv.org/abs/2608.23102v1)|null|
+|**2026-08-24**|**Do Time-Series Foundation Models Pay Off for Industrial Monitoring? A Cost-Aware Empirical Study**|Guan-Hua Wen et.al.|[2608.22968v1](http://arxiv.org/abs/2608.22968v1)|null|
+|**2026-08-24**|**WADE: A Reasoning-Annotated Benchmark for Multi-Instance Floating-Waste Grounding with Compact Vision-Language Models**|Md. Asaduzzaman Shuvo et.al.|[2608.22950v1](http://arxiv.org/abs/2608.22950v1)|null|
+|**2026-08-24**|**TSWAP: A Multilingual Retrieval-Augmented Thai Wellness Advisor**|Pornthep Ukosaramig et.al.|[2608.22917v1](http://arxiv.org/abs/2608.22917v1)|null|
 |**2026-08-21**|**The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization**|Derek R. Benham et.al.|[2608.21276v1](http://arxiv.org/abs/2608.21276v1)|null|
 |**2026-08-21**|**COEC: Calibrated Orthogonal-Equivalence Compensation for Structured Pruning of Large Language Models**|Peiqi Yu et.al.|[2608.21142v1](http://arxiv.org/abs/2608.21142v1)|null|
 |**2026-08-21**|**Stream3Dv2: Geometric-Semantic Fusion Enhanced Streaming Zero-Shot 3D Scene Understanding**|Jie Xu et.al.|[2608.21136v1](http://arxiv.org/abs/2608.21136v1)|null|

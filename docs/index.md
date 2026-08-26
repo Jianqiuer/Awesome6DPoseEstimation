@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.25
+## Updated on 2026.08.26
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|
+|**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|
+|**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|
 |**2026-08-23**|**TransHands: Repurposing Human Pose Encoders as Hand Pose Encoders**|Milo Piccioli et.al.|[2608.22341v1](http://arxiv.org/abs/2608.22341v1)|null|
 |**2026-08-23**|**DECO: Depth-Guided Co-Visibility Reasoning for Low-Altitude UAV Visual Localization**|Yibin Ye et.al.|[2608.22289v1](http://arxiv.org/abs/2608.22289v1)|null|
 |**2026-08-22**|**ORBIT++: Benchmarking SfM in the Wild with 360° Video**|Sara Sabour et.al.|[2608.22039v1](http://arxiv.org/abs/2608.22039v1)|null|
@@ -3840,6 +3843,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-25**|**Latent Action as Intention Enables Efficient Future Imagination for World Action Models**|Xiang Li et.al.|[2608.24882v1](http://arxiv.org/abs/2608.24882v1)|null|
+|**2026-08-25**|**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**|Meruyert Aristombayeva et.al.|[2608.24707v1](http://arxiv.org/abs/2608.24707v1)|null|
+|**2026-08-25**|**Aging of Prompt Engineering Techniques Across LLM Versions**|Anastasiia Rudyk et.al.|[2608.24641v1](http://arxiv.org/abs/2608.24641v1)|null|
+|**2026-08-25**|**Quantization Effects on Bangla Language Understanding in Large Language Models: A Systematic Evaluation**|Ismail Hossain et.al.|[2608.24615v1](http://arxiv.org/abs/2608.24615v1)|null|
+|**2026-08-25**|**Gripper-aware Vision Language Action Models**|Hanyi Zhang et.al.|[2608.24603v1](http://arxiv.org/abs/2608.24603v1)|null|
+|**2026-08-25**|**Array-Agnostic Ambisonics Encoding via Diffusion Posterior Sampling**|Amit Milstein et.al.|[2608.24558v1](http://arxiv.org/abs/2608.24558v1)|null|
+|**2026-08-25**|**DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vision-Language Models via Professional Doubles Badminton**|Jintao Cheng et.al.|[2608.24439v1](http://arxiv.org/abs/2608.24439v1)|null|
+|**2026-08-25**|**ZODIAC: Zero-shot Octree-based Diffusion for Anatomical Completion**|Miruna-Alexandra Gafencu et.al.|[2608.24422v1](http://arxiv.org/abs/2608.24422v1)|null|
+|**2026-08-25**|**Do Recipes Have Personas? Characterizing and Generating Creator Style in Attributed Procedural Graphs**|Lei Jiang et.al.|[2608.24369v1](http://arxiv.org/abs/2608.24369v1)|null|
+|**2026-08-25**|**Example-based Robust Abnormality Detection with Minimal Annotations using Exemplar Med-DETR**|Sheethal Bhat et.al.|[2608.24281v1](http://arxiv.org/abs/2608.24281v1)|null|
 |**2026-08-24**|**EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings**|Md Thamed Bin Zaman Chowdhury et.al.|[2608.23563v1](http://arxiv.org/abs/2608.23563v1)|null|
 |**2026-08-24**|**Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data**|Yifei Song et.al.|[2608.23391v1](http://arxiv.org/abs/2608.23391v1)|null|
 |**2026-08-24**|**OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation**|Alperen Avan et.al.|[2608.23354v1](http://arxiv.org/abs/2608.23354v1)|null|

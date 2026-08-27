@@ -1,4 +1,4 @@
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|
+|**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|
 |**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|
 |**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|
 |**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|
@@ -3222,7 +3224,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3573,7 +3575,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3849,12 +3851,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v1](http://arxiv.org/abs/2608.26103v1)|null|
+|**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091v1](http://arxiv.org/abs/2608.26091v1)|null|
+|**2026-08-26**|**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**| Xiaomi Embodied Intelligence Team et.al.|[2608.26058v1](http://arxiv.org/abs/2608.26058v1)|null|
+|**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948v1](http://arxiv.org/abs/2608.25948v1)|null|
+|**2026-08-26**|**How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation**|Aida Usmanova et.al.|[2608.25934v1](http://arxiv.org/abs/2608.25934v1)|null|
+|**2026-08-26**|**Label-Free Foundational Model Selection for Medical Image Classification under Distribution Shift via Pseudo Label Discrepancy**|Juan Iñaki Larrea et.al.|[2608.25810v1](http://arxiv.org/abs/2608.25810v1)|null|
+|**2026-08-26**|**Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems**|Fitsum Debebe Tilahun et.al.|[2608.25803v1](http://arxiv.org/abs/2608.25803v1)|null|
+|**2026-08-26**|**UNION: A Unified AC-OPF Framework for Topology-Varying Real-Time Grid Operation**|Kyungnam Park et.al.|[2608.25784v1](http://arxiv.org/abs/2608.25784v1)|null|
+|**2026-08-26**|**Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale**|Peichun Hua et.al.|[2608.25735v1](http://arxiv.org/abs/2608.25735v1)|null|
+|**2026-08-26**|**Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining**|Koshiro Nagano et.al.|[2608.25701v1](http://arxiv.org/abs/2608.25701v1)|null|
 |**2026-08-25**|**Latent Action as Intention Enables Efficient Future Imagination for World Action Models**|Xiang Li et.al.|[2608.24882v1](http://arxiv.org/abs/2608.24882v1)|null|
 |**2026-08-25**|**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**|Meruyert Aristombayeva et.al.|[2608.24707v1](http://arxiv.org/abs/2608.24707v1)|null|
 |**2026-08-25**|**Aging of Prompt Engineering Techniques Across LLM Versions**|Anastasiia Rudyk et.al.|[2608.24641v1](http://arxiv.org/abs/2608.24641v1)|null|
@@ -11897,5 +11909,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260826>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260827>back to top</a>)</p>
 

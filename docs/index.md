@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.08.26
+## Updated on 2026.08.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|
+|**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|
 |**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|
 |**2026-08-25**|**Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings**|Kaixuan Huang et.al.|[2608.23995v1](http://arxiv.org/abs/2608.23995v1)|null|
 |**2026-08-24**|**Transport based embeddings with topological guarantees**|Erik Carlsson et.al.|[2608.23762v1](http://arxiv.org/abs/2608.23762v1)|null|
@@ -3843,6 +3845,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v1](http://arxiv.org/abs/2608.26103v1)|null|
+|**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091v1](http://arxiv.org/abs/2608.26091v1)|null|
+|**2026-08-26**|**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**| Xiaomi Embodied Intelligence Team et.al.|[2608.26058v1](http://arxiv.org/abs/2608.26058v1)|null|
+|**2026-08-26**|**Auditable CT Phenotyping Through Report-derived Radiological Observations**|Riga Wu et.al.|[2608.25948v1](http://arxiv.org/abs/2608.25948v1)|null|
+|**2026-08-26**|**How Robust Are Automated Fact-Checking Systems? A Cross-Benchmark Evaluation**|Aida Usmanova et.al.|[2608.25934v1](http://arxiv.org/abs/2608.25934v1)|null|
+|**2026-08-26**|**Label-Free Foundational Model Selection for Medical Image Classification under Distribution Shift via Pseudo Label Discrepancy**|Juan Iñaki Larrea et.al.|[2608.25810v1](http://arxiv.org/abs/2608.25810v1)|null|
+|**2026-08-26**|**Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems**|Fitsum Debebe Tilahun et.al.|[2608.25803v1](http://arxiv.org/abs/2608.25803v1)|null|
+|**2026-08-26**|**UNION: A Unified AC-OPF Framework for Topology-Varying Real-Time Grid Operation**|Kyungnam Park et.al.|[2608.25784v1](http://arxiv.org/abs/2608.25784v1)|null|
+|**2026-08-26**|**Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale**|Peichun Hua et.al.|[2608.25735v1](http://arxiv.org/abs/2608.25735v1)|null|
+|**2026-08-26**|**Skeleton-based Zero-Shot Spatio-Temporal Action Localization via Weakly-Supervised Pretraining**|Koshiro Nagano et.al.|[2608.25701v1](http://arxiv.org/abs/2608.25701v1)|null|
 |**2026-08-25**|**Latent Action as Intention Enables Efficient Future Imagination for World Action Models**|Xiang Li et.al.|[2608.24882v1](http://arxiv.org/abs/2608.24882v1)|null|
 |**2026-08-25**|**Lost in Speech: Trilingual Spoken Hallucination Detection Across Audio and Transcripts**|Meruyert Aristombayeva et.al.|[2608.24707v1](http://arxiv.org/abs/2608.24707v1)|null|
 |**2026-08-25**|**Aging of Prompt Engineering Techniques Across LLM Versions**|Anastasiia Rudyk et.al.|[2608.24641v1](http://arxiv.org/abs/2608.24641v1)|null|

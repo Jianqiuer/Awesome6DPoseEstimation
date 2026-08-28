@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.08.27
+## Updated on 2026.08.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|
+|**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|
 |**2026-08-26**|**Phantom Navigator: Stealthy and Precise Unmanned Aerial Vehicle Redirection with Real-Time Tracking and GPS Spoofing**|Haocheng Meng et.al.|[2608.26011v1](http://arxiv.org/abs/2608.26011v1)|null|
 |**2026-08-26**|**EgoNav: Bridging Learned Waypoints and Geometry-Aware Local Control for Robust Indoor Navigation**|Jing Wang et.al.|[2608.25642v1](http://arxiv.org/abs/2608.25642v1)|null|
 |**2026-08-25**|**Markerless Pose Estimation for Resistance Training Technique Assessment**|Joseph Turner et.al.|[2608.24384v1](http://arxiv.org/abs/2608.24384v1)|null|
@@ -3222,10 +3225,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536v1](http://arxiv.org/abs/2608.19536v1)|null|
 |**2026-08-15**|**VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction**|Wei Zhang et.al.|[2608.15260v1](http://arxiv.org/abs/2608.15260v1)|null|
-|**2026-08-03**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v1](http://arxiv.org/abs/2608.02883v1)|null|
+|**2026-08-26**|**Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery**|Nina Bodelot et.al.|[2608.02883v2](http://arxiv.org/abs/2608.02883v2)|null|
 |**2026-07-30**|**RaDiVe: Robust 4D Radar Odometry with Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty**|Sangwoo Jung et.al.|[2607.28045v1](http://arxiv.org/abs/2607.28045v1)|null|
 |**2026-07-29**|**R-SLPR: Region-based Small-to-Large Point-cloud Registration with Contrastive Learning**|Yusen Wan et.al.|[2607.26583v1](http://arxiv.org/abs/2607.26583v1)|null|
 |**2026-07-25**|**SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics**|Chongjian Wang et.al.|[2607.23096v1](http://arxiv.org/abs/2607.23096v1)|null|
@@ -3845,6 +3849,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-08-27**|**CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators**|Kechen Liu et.al.|[2608.27406v1](http://arxiv.org/abs/2608.27406v1)|null|
+|**2026-08-27**|**HALO: A Heterogeneity-Aware Language-Aligned IMU Foundation Model for Open-Set Human Activity Recognition**|Zihan Ding et.al.|[2608.27233v1](http://arxiv.org/abs/2608.27233v1)|null|
+|**2026-08-27**|**BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing**|Yu Yvonne Wu et.al.|[2608.27219v1](http://arxiv.org/abs/2608.27219v1)|null|
+|**2026-08-27**|**MVC-Bench: Benchmarking Calibration of Medical Vision-Language Models**|Ashshak Sharifdeen et.al.|[2608.27004v1](http://arxiv.org/abs/2608.27004v1)|null|
+|**2026-08-27**|**Are We Shooting Flies with Cannons? Trade-off Analysis for AI-based 5G Intrusion Detection**|Federica Uccello et.al.|[2608.26844v1](http://arxiv.org/abs/2608.26844v1)|null|
+|**2026-08-27**|**G2D: Generative-to-Discriminative Collaborative Inference for Zero-Shot Image Classification**|Zehua Hao et.al.|[2608.26744v1](http://arxiv.org/abs/2608.26744v1)|null|
+|**2026-08-27**|**SOLO: Stable Omni-terrain Long-Horizon Perceptive Humanoid Locomotion**|Pihai Sun et.al.|[2608.26583v1](http://arxiv.org/abs/2608.26583v1)|null|
+|**2026-08-27**|**HUG-VIS: A Multimodal Benchmark for Human-centered Understanding and Generation in Visual Intelligence**|Fei Ma et.al.|[2608.26517v1](http://arxiv.org/abs/2608.26517v1)|null|
+|**2026-08-27**|**RTNav: Towards Real-Time Zero-Shot Object Navigation**|Easop Lee et.al.|[2608.26496v1](http://arxiv.org/abs/2608.26496v1)|null|
+|**2026-08-27**|**Learning Woody Clearing With Loss Alignment for Zero-Shot Regrowth and Woody Segmentation**|Kal Backman et.al.|[2608.26489v1](http://arxiv.org/abs/2608.26489v1)|null|
 |**2026-08-26**|**Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization**|Jiaming Zhou et.al.|[2608.26103v1](http://arxiv.org/abs/2608.26103v1)|null|
 |**2026-08-26**|**PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans**|Nabaraj Subedi et.al.|[2608.26091v1](http://arxiv.org/abs/2608.26091v1)|null|
 |**2026-08-26**|**One Policy, Many Embodiments: Unified Camera-Centric Action Geometry Pre-training for Heterogeneous Embodied Manipulation**| Xiaomi Embodied Intelligence Team et.al.|[2608.26058v1](http://arxiv.org/abs/2608.26058v1)|null|

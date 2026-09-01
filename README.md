@@ -1,4 +1,4 @@
-## Updated on 2026.08.31
+## Updated on 2026.09.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|
+|**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|
+|**2026-08-31**|**MEOM: Multi-View Expected-OKS Maximization for Human Pose Triangulation**|Ziliang Xiong et.al.|[2608.30521v1](http://arxiv.org/abs/2608.30521v1)|null|
+|**2026-08-30**|**Everybody Tracking Every Body**|Daeyun Shin et.al.|[2608.29927v1](http://arxiv.org/abs/2608.29927v1)|null|
+|**2026-08-29**|**Foundational feature fusion for conditional flow matching in 6D pose estimation**|Amir Hamza et.al.|[2608.29183v1](http://arxiv.org/abs/2608.29183v1)|null|
+|**2026-08-28**|**BlobBoards: Robust Markers for Accurate Pose**|James Pritts et.al.|[2608.28830v1](http://arxiv.org/abs/2608.28830v1)|null|
+|**2026-08-28**|**SCoPE-Reg: Efficient Rigid Ultrasound Slice-to-Volume Registration via State-Space Correlation and Closed-Form Pose Estimation**|Niklas Schwarz et.al.|[2608.28715v1](http://arxiv.org/abs/2608.28715v1)|null|
 |**2026-08-27**|**Quanta Perception as Probabilistic Events**|Varun Sundar et.al.|[2608.27584v1](http://arxiv.org/abs/2608.27584v1)|null|
 |**2026-08-27**|**SSMB: Self-Supervised Local Feature Detection under Motion Blur**|Zhenjun Zhao et.al.|[2608.27181v1](http://arxiv.org/abs/2608.27181v1)|null|
 |**2026-08-27**|**A Geometry-Driven, Framework-Agnostic Optimization for Object Pose Estimation**|Wei Chen et.al.|[2608.26859v1](http://arxiv.org/abs/2608.26859v1)|null|
@@ -3228,7 +3235,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3580,7 +3587,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3856,12 +3863,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-31**|**VeriCam: A Verification Baseline for the Classification of Unknown Data**|Lucas Wojcik et.al.|[2608.31107v1](http://arxiv.org/abs/2608.31107v1)|null|
+|**2026-08-31**|**Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations**|William Solow et.al.|[2608.31097v1](http://arxiv.org/abs/2608.31097v1)|null|
+|**2026-08-31**|**Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores**|Qiyao Yan et.al.|[2608.31068v1](http://arxiv.org/abs/2608.31068v1)|null|
+|**2026-08-31**|**Multimodal Shared Latent Representation of Narration, Microscope and iOCT Images for Phase Recognition in Vitreoretinal Surgery**|Onur Izmitlioglu et.al.|[2608.31065v1](http://arxiv.org/abs/2608.31065v1)|null|
+|**2026-08-31**|**Autonomously Acquiring Robot Manipulation Skills with Language-Driven Quality-Diversity**|Émiland Garrabé et.al.|[2608.30983v1](http://arxiv.org/abs/2608.30983v1)|null|
+|**2026-08-31**|**LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation**|Shaoan Wang et.al.|[2608.30935v1](http://arxiv.org/abs/2608.30935v1)|null|
+|**2026-08-31**|**ECGQuest: Benchmarking and Fine-Tuning Language Models for Electrocardiography**|Mohammadsina Hassannia et.al.|[2608.30893v1](http://arxiv.org/abs/2608.30893v1)|null|
+|**2026-08-31**|**A Composition-Aware Pretraining Framework for Geospatial Foundation Models**|Aryan Kashyap Naveen et.al.|[2608.30817v1](http://arxiv.org/abs/2608.30817v1)|null|
+|**2026-08-31**|**CLIN: an Objective Framework for Evaluating Creativity in Short Persian Literary Text**|Mohammad Reza Modarres et.al.|[2608.30754v1](http://arxiv.org/abs/2608.30754v1)|null|
+|**2026-08-31**|**OCR-Based Field Extraction for Archaeological Pottery Metadata: The CENTURIA Dataset**|Gissu Valentina Naghavi et.al.|[2608.30616v1](http://arxiv.org/abs/2608.30616v1)|null|
 |**2026-08-28**|**Video Generative Models as Geometry Learner**|Haosen Yang et.al.|[2608.28549v1](http://arxiv.org/abs/2608.28549v1)|null|
 |**2026-08-28**|**Post-Training VLMs for Video Mistake Detection**|Federico Spurio et.al.|[2608.28406v1](http://arxiv.org/abs/2608.28406v1)|null|
 |**2026-08-28**|**Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding**|Hanoona Rasheed et.al.|[2608.28192v1](http://arxiv.org/abs/2608.28192v1)|null|
@@ -11933,5 +11950,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260831>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
 

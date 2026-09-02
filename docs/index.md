@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|
+|**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
+|**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|
+|**2026-09-01**|**Efficient and Robust Absolute Pose Estimation via Gravity-Prior-Driven Transformation Decoupling and Pose Refinement**|Hu Cao et.al.|[2609.00713v1](http://arxiv.org/abs/2609.00713v1)|null|
 |**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|
 |**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|
 |**2026-08-31**|**MEOM: Multi-View Expected-OKS Maximization for Human Pose Triangulation**|Ziliang Xiong et.al.|[2608.30521v1](http://arxiv.org/abs/2608.30521v1)|null|
@@ -3233,6 +3237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536v1](http://arxiv.org/abs/2608.19536v1)|null|
@@ -3857,6 +3862,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-01**|**H3-World: Turning Language Understanding into World Control**|Danze Chen et.al.|[2609.01560v1](http://arxiv.org/abs/2609.01560v1)|null|
+|**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|null|
+|**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|
+|**2026-09-01**|**LatentPress: Context Compression Beyond Text and Vision**|Zhengze Zhou et.al.|[2609.01507v1](http://arxiv.org/abs/2609.01507v1)|null|
+|**2026-09-01**|**Automated Event Log Generation from Unstructured Text Using Finetuned LLMs**|Maximilian Seeth et.al.|[2609.01320v1](http://arxiv.org/abs/2609.01320v1)|null|
+|**2026-09-01**|**GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation**|Mohammed Oussama Benyahia et.al.|[2609.01310v1](http://arxiv.org/abs/2609.01310v1)|null|
+|**2026-09-01**|**CMRVision: A Foundation Model for Cardiac MR Image Analysis**|Athira J. Jacob et.al.|[2609.01308v1](http://arxiv.org/abs/2609.01308v1)|null|
+|**2026-09-01**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287v1](http://arxiv.org/abs/2609.01287v1)|null|
+|**2026-09-01**|**CaRL-EM: Cost-Aware Reinforcement Learning for Entity Matching with LLMs**|Chaohui Guo et.al.|[2609.01195v1](http://arxiv.org/abs/2609.01195v1)|null|
+|**2026-09-01**|**Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining**|Francois Meyer et.al.|[2609.01151v1](http://arxiv.org/abs/2609.01151v1)|null|
 |**2026-08-31**|**VeriCam: A Verification Baseline for the Classification of Unknown Data**|Lucas Wojcik et.al.|[2608.31107v1](http://arxiv.org/abs/2608.31107v1)|null|
 |**2026-08-31**|**Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations**|William Solow et.al.|[2608.31097v1](http://arxiv.org/abs/2608.31097v1)|null|
 |**2026-08-31**|**Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores**|Qiyao Yan et.al.|[2608.31068v1](http://arxiv.org/abs/2608.31068v1)|null|

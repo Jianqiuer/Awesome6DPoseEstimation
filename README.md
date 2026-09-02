@@ -1,4 +1,4 @@
-## Updated on 2026.09.01
+## Updated on 2026.09.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|
+|**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
+|**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|
+|**2026-09-01**|**Efficient and Robust Absolute Pose Estimation via Gravity-Prior-Driven Transformation Decoupling and Pose Refinement**|Hu Cao et.al.|[2609.00713v1](http://arxiv.org/abs/2609.00713v1)|null|
 |**2026-08-31**|**Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring**|Vanodhya G. Warnasooriya et.al.|[2608.31074v1](http://arxiv.org/abs/2608.31074v1)|null|
 |**2026-08-31**|**Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling**|Minghan Qin et.al.|[2608.30821v1](http://arxiv.org/abs/2608.30821v1)|null|
 |**2026-08-31**|**MEOM: Multi-View Expected-OKS Maximization for Human Pose Triangulation**|Ziliang Xiong et.al.|[2608.30521v1](http://arxiv.org/abs/2608.30521v1)|null|
@@ -3235,12 +3239,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
 |**2026-08-20**|**CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration**|Eunsoo Im et.al.|[2608.19536v1](http://arxiv.org/abs/2608.19536v1)|null|
@@ -3587,7 +3592,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3863,12 +3868,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**H3-World: Turning Language Understanding into World Control**|Danze Chen et.al.|[2609.01560v1](http://arxiv.org/abs/2609.01560v1)|null|
+|**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|null|
+|**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|
+|**2026-09-01**|**LatentPress: Context Compression Beyond Text and Vision**|Zhengze Zhou et.al.|[2609.01507v1](http://arxiv.org/abs/2609.01507v1)|null|
+|**2026-09-01**|**Automated Event Log Generation from Unstructured Text Using Finetuned LLMs**|Maximilian Seeth et.al.|[2609.01320v1](http://arxiv.org/abs/2609.01320v1)|null|
+|**2026-09-01**|**GazeRefine: Expert Gaze as a Test-Time Prompt for Training-Free Medical Image Segmentation**|Mohammed Oussama Benyahia et.al.|[2609.01310v1](http://arxiv.org/abs/2609.01310v1)|null|
+|**2026-09-01**|**CMRVision: A Foundation Model for Cardiac MR Image Analysis**|Athira J. Jacob et.al.|[2609.01308v1](http://arxiv.org/abs/2609.01308v1)|null|
+|**2026-09-01**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287v1](http://arxiv.org/abs/2609.01287v1)|null|
+|**2026-09-01**|**CaRL-EM: Cost-Aware Reinforcement Learning for Entity Matching with LLMs**|Chaohui Guo et.al.|[2609.01195v1](http://arxiv.org/abs/2609.01195v1)|null|
+|**2026-09-01**|**Subword Segmental BabyLMs: Learning to Tokenise for Sample-Efficient Pretraining**|Francois Meyer et.al.|[2609.01151v1](http://arxiv.org/abs/2609.01151v1)|null|
 |**2026-08-31**|**VeriCam: A Verification Baseline for the Classification of Unknown Data**|Lucas Wojcik et.al.|[2608.31107v1](http://arxiv.org/abs/2608.31107v1)|null|
 |**2026-08-31**|**Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations**|William Solow et.al.|[2608.31097v1](http://arxiv.org/abs/2608.31097v1)|null|
 |**2026-08-31**|**Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores**|Qiyao Yan et.al.|[2608.31068v1](http://arxiv.org/abs/2608.31068v1)|null|
@@ -11950,5 +11965,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260901>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260902>back to top</a>)</p>
 

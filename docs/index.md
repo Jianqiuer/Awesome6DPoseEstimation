@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.02
+## Updated on 2026.09.03
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|null|
+|**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|
 |**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
 |**2026-09-01**|**CQF-HMR: Continuous Quaternion Flows for Probabilistic 3D Human Mesh Recovery from a Single Image**|Cuong Le et.al.|[2609.00995v1](http://arxiv.org/abs/2609.00995v1)|null|
@@ -3588,6 +3590,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[2609.02860v1](http://arxiv.org/abs/2609.02860v1)|null|
 |**2026-08-19**|**COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts**|Yanghong Lin et.al.|[2608.18479v1](http://arxiv.org/abs/2608.18479v1)|null|
 |**2026-08-12**|**Boundary-Enhanced Segmentation of Pig Point Clouds in Commercial Housing Environments**|Zhankang Xu et.al.|[2608.11697v1](http://arxiv.org/abs/2608.11697v1)|null|
 |**2026-07-23**|**Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance**|Antonis Savva et.al.|[2607.21089v1](http://arxiv.org/abs/2607.21089v1)|null|
@@ -3862,6 +3865,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-02**|**Language Models Can Control Their Own Attention**|Namgyu Ho et.al.|[2609.02737v1](http://arxiv.org/abs/2609.02737v1)|null|
+|**2026-09-02**|**Choosing a PEFT Variant for Per-Patient Dysarthric ASR: A Single-Speaker Case Study on Two ASR Bases**|Bernard Muller et.al.|[2609.02735v1](http://arxiv.org/abs/2609.02735v1)|null|
+|**2026-09-02**|**MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception**|Guido Caccianiga et.al.|[2609.02717v1](http://arxiv.org/abs/2609.02717v1)|null|
+|**2026-09-02**|**H3DNAS: Hardware-Aware ONNX-Native 3D Point Cloud Model Compression**|Anchit Mulye et.al.|[2609.02684v1](http://arxiv.org/abs/2609.02684v1)|null|
+|**2026-09-02**|**ZETA: A Controlled Study of Zero-Shot Cross-Embodiment VLA Transfer for Tabletop Manipulation**|Mi Yan et.al.|[2609.02546v1](http://arxiv.org/abs/2609.02546v1)|null|
+|**2026-09-02**|**RINSE: Robust Target-Time Normality Estimation for Zero-Shot Graph Anomaly Detection**|Taufikur Rahman Fuad et.al.|[2609.02497v1](http://arxiv.org/abs/2609.02497v1)|null|
+|**2026-09-02**|**Debias-SparseGPT: Bias-Aware Pruning for Large Language Models**|Irina Proskurina et.al.|[2609.02496v1](http://arxiv.org/abs/2609.02496v1)|null|
+|**2026-09-02**|**Adapting a Foundation Model for Lunar Surface Height Estimation**|Patrick Bauer et.al.|[2609.02448v1](http://arxiv.org/abs/2609.02448v1)|null|
+|**2026-09-02**|**A Physics-Consistent Benchmark for Contact-Rich Human-Robot Interaction in Assistive Care**|Chengxiao He et.al.|[2609.02402v1](http://arxiv.org/abs/2609.02402v1)|null|
+|**2026-09-02**|**NE-R1: Enhancing Named Entity Recognition Model via Reinforcement Learning**|Meixuan Chen et.al.|[2609.02366v1](http://arxiv.org/abs/2609.02366v1)|null|
 |**2026-09-01**|**H3-World: Turning Language Understanding into World Control**|Danze Chen et.al.|[2609.01560v1](http://arxiv.org/abs/2609.01560v1)|null|
 |**2026-09-01**|**Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories**|Nabira Rashid et.al.|[2609.01556v1](http://arxiv.org/abs/2609.01556v1)|null|
 |**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|

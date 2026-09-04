@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.03
+## Updated on 2026.09.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**The Blind Spot in 2D Infants' Pose Estimation:Robust Learning from Noisy Annotations**|Emanuele Cardinale et.al.|[2609.04009v1](http://arxiv.org/abs/2609.04009v1)|null|
+|**2026-09-02**|**Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration**|Connor Holmes et.al.|[2609.03222v1](http://arxiv.org/abs/2609.03222v1)|null|
 |**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|null|
 |**2026-09-01**|**Cross-Model Distillation of a Human-Pose Foundation Model from Unannotated Infant Video for Markerless 3D Pose Estimation**|R. James Cotton et.al.|[2609.01840v1](http://arxiv.org/abs/2609.01840v1)|null|
 |**2026-09-01**|**Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison**|Thibaut Loiseau et.al.|[2609.01530v1](http://arxiv.org/abs/2609.01530v1)|null|
@@ -3865,6 +3867,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193v1](http://arxiv.org/abs/2609.04193v1)|null|
+|**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174v1](http://arxiv.org/abs/2609.04174v1)|null|
+|**2026-09-03**|**Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation**|Hasan Alkhder et.al.|[2609.04048v1](http://arxiv.org/abs/2609.04048v1)|null|
+|**2026-09-03**|**DREAM: Deep-Reparametrization of Adaptive Regularization Maps for Fast Zero-Shot Self-Supervised Learning**|Thanh Trung Vu et.al.|[2609.04019v1](http://arxiv.org/abs/2609.04019v1)|null|
+|**2026-09-03**|**LLM4CKD: Large Language Models for Early Stage Chronic Kidney Disease Screening**|Muhammad Ashad Kabir et.al.|[2609.04013v1](http://arxiv.org/abs/2609.04013v1)|null|
+|**2026-09-03**|**IchthyoNoma: Nomenclature and Context Sensitivity of Zero-Shot Biological Vision--Language Models for Bangladeshi Freshwater Fish Recognition**| Nazim-E-Alam et.al.|[2609.03985v1](http://arxiv.org/abs/2609.03985v1)|null|
+|**2026-09-03**|**VI3: Grounding Pretrained 3D Foundation Models with Inertial Cues**|Ernesto Lozano et.al.|[2609.03824v1](http://arxiv.org/abs/2609.03824v1)|null|
+|**2026-09-03**|**Typological Feature Prediction with Large Language Models: An In-Context Learning Approach**|Qianwen Wang et.al.|[2609.03775v1](http://arxiv.org/abs/2609.03775v1)|null|
+|**2026-09-03**|**Synthetic Semantic Supervision for Contrastive Code Representation Learning in Small Transformers: An Empirical Study**|Kenneth Paulsen et.al.|[2609.03702v1](http://arxiv.org/abs/2609.03702v1)|null|
+|**2026-09-03**|**SignSeek: Learning Transferable Representations for Sign Dictionary Retrieval**|Sobhan Asasi et.al.|[2609.03695v1](http://arxiv.org/abs/2609.03695v1)|null|
 |**2026-09-02**|**Language Models Can Control Their Own Attention**|Namgyu Ho et.al.|[2609.02737v1](http://arxiv.org/abs/2609.02737v1)|null|
 |**2026-09-02**|**Choosing a PEFT Variant for Per-Patient Dysarthric ASR: A Single-Speaker Case Study on Two ASR Bases**|Bernard Muller et.al.|[2609.02735v1](http://arxiv.org/abs/2609.02735v1)|null|
 |**2026-09-02**|**MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception**|Guido Caccianiga et.al.|[2609.02717v1](http://arxiv.org/abs/2609.02717v1)|null|

@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.06
+## Updated on 2026.09.07
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**Sound-based Multi-Person 3D Pose Estimation**|Yusuke Oumi et.al.|[2609.04902v1](http://arxiv.org/abs/2609.04902v1)|null|
+|**2026-09-04**|**CLON: Cue-Calibrated Linguistic Object Onboarding for Zero-Shot 6D Pose Front-Ends**|Seojin Ji et.al.|[2609.04784v1](http://arxiv.org/abs/2609.04784v1)|null|
 |**2026-09-03**|**The Blind Spot in 2D Infants' Pose Estimation:Robust Learning from Noisy Annotations**|Emanuele Cardinale et.al.|[2609.04009v1](http://arxiv.org/abs/2609.04009v1)|null|
 |**2026-09-02**|**Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration**|Connor Holmes et.al.|[2609.03222v1](http://arxiv.org/abs/2609.03222v1)|null|
 |**2026-09-02**|**MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion**|Aidan Bradshaw et.al.|[2609.02854v1](http://arxiv.org/abs/2609.02854v1)|null|
@@ -3867,6 +3869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[2609.05415v1](http://arxiv.org/abs/2609.05415v1)|null|
+|**2026-09-04**|**Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference**|Mostafa Elhoushi et.al.|[2609.05275v1](http://arxiv.org/abs/2609.05275v1)|null|
+|**2026-09-04**|**GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection**|Xudong Wang et.al.|[2609.05253v1](http://arxiv.org/abs/2609.05253v1)|null|
+|**2026-09-04**|**Conserved Immune Topology Improves Pathology Foundation Model Generalization for Cross-Cancer MSI-H Prediction**|Dasari Naga Raju et.al.|[2609.05182v1](http://arxiv.org/abs/2609.05182v1)|null|
+|**2026-09-04**|**Cross-dataset transportability of pediatric chest X-ray deep learning across three countries: discrimination, calibration, operating-point failure, and limited-label recovery**| Nazim-E-Alam et.al.|[2609.05140v1](http://arxiv.org/abs/2609.05140v1)|null|
+|**2026-09-04**|**Single-Query Black-Box Calibration Auditing via Logit Bias**|Roman Plaud et.al.|[2609.05125v1](http://arxiv.org/abs/2609.05125v1)|null|
+|**2026-09-04**|**Constructing and Evaluating Clinical Reasoning Trajectories for Medical Agent**|Yunqi Zhu et.al.|[2609.05090v1](http://arxiv.org/abs/2609.05090v1)|null|
+|**2026-09-04**|**MINT: A Unified Model for World-Space Camera and Hand Motion Estimation from Scalable Egocentric Pipeline Supervision**|Zijie Zhu et.al.|[2609.04958v1](http://arxiv.org/abs/2609.04958v1)|null|
+|**2026-09-04**|**Adaptation Interfaces for In-Context Tabular Foundation Models in Time-to-Event Prediction**|Minh-Khoi Pham et.al.|[2609.04901v1](http://arxiv.org/abs/2609.04901v1)|null|
+|**2026-09-04**|**When Genomic Masking Priors Fail to Transfer: Strong Variant Prediction, Weak Functional Generation**|Susu Hu et.al.|[2609.04861v1](http://arxiv.org/abs/2609.04861v1)|null|
 |**2026-09-03**|**GIFT: Guided Intermediate Feature Training via Action-Oriented Structural Supervision for Robotic Manipulation**|Yupeng Zheng et.al.|[2609.04193v1](http://arxiv.org/abs/2609.04193v1)|null|
 |**2026-09-03**|**Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations**|Denis M. Akola et.al.|[2609.04174v1](http://arxiv.org/abs/2609.04174v1)|null|
 |**2026-09-03**|**Translation as a Decision Space: A Multi-Agent Perspective on Low-Resource Dialect Generation**|Hasan Alkhder et.al.|[2609.04048v1](http://arxiv.org/abs/2609.04048v1)|null|

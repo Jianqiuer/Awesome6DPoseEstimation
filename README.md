@@ -1,4 +1,4 @@
-## Updated on 2026.09.08
+## Updated on 2026.09.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering**|Jiahui Zhang et.al.|[2609.09069v1](http://arxiv.org/abs/2609.09069v1)|null|
+|**2026-09-08**|**Prior-free relative 6D pose estimation of multiple object instances**|Behdad Khodabandehloo et.al.|[2609.08949v1](http://arxiv.org/abs/2609.08949v1)|null|
+|**2026-09-08**|**ArmPoser: Real-Time, Calibration-Free Arm Pose Estimation from Smartwatch IMU**|Bishnu Dev et.al.|[2609.08806v1](http://arxiv.org/abs/2609.08806v1)|null|
+|**2026-09-08**|**AURORA: Active Uncertainty-Driven Re-Orientation for In-Hand Reconstruction**|Feiyu Zhao et.al.|[2609.08493v1](http://arxiv.org/abs/2609.08493v1)|null|
+|**2026-09-08**|**TacClip: a clip-on sensor measures dynamic contact forces without covering the fingerpads**|Yuqian Ye et.al.|[2609.08214v1](http://arxiv.org/abs/2609.08214v1)|null|
+|**2026-09-07**|**A Black-Box Adversarial Attack on Human Pose Estimation and Keypoint-Based Action Recognition Models**|Kacper Mroczek et.al.|[2609.08013v1](http://arxiv.org/abs/2609.08013v1)|null|
+|**2026-09-07**|**Functional-SLAM: Interaction-Aware Mapping with Online Functional Scene Graphs**|Xinggang Hu et.al.|[2609.07497v1](http://arxiv.org/abs/2609.07497v1)|null|
+|**2026-09-07**|**Generalizable 6D Pose Estimation of Textureless Objects with Planar-based Gaussian Splatting**|Jie Lu et.al.|[2609.07231v1](http://arxiv.org/abs/2609.07231v1)|null|
+|**2026-09-06**|**Back to the Feature: Zero-Shot 6DoF Pose Estimation via Dense Local Features**|Ali Rafiaei et.al.|[2609.06726v1](http://arxiv.org/abs/2609.06726v1)|null|
 |**2026-09-04**|**Sound-based Multi-Person 3D Pose Estimation**|Yusuke Oumi et.al.|[2609.04902v1](http://arxiv.org/abs/2609.04902v1)|null|
 |**2026-09-04**|**CLON: Cue-Calibrated Linguistic Object Onboarding for Zero-Shot 6D Pose Front-Ends**|Seojin Ji et.al.|[2609.04784v1](http://arxiv.org/abs/2609.04784v1)|null|
 |**2026-09-03**|**The Blind Spot in 2D Infants' Pose Estimation:Robust Learning from Noisy Annotations**|Emanuele Cardinale et.al.|[2609.04009v1](http://arxiv.org/abs/2609.04009v1)|null|
@@ -3245,7 +3254,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3598,7 +3607,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3875,12 +3884,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936v1](http://arxiv.org/abs/2609.08936v1)|null|
+|**2026-09-08**|**AXS-Net: Interpretable Deep Unfolding for Hyperspectral Image Denoising via Spectral Basis Unmixing and Structured Noise Refinement**|Ziyi Guan et.al.|[2609.08777v1](http://arxiv.org/abs/2609.08777v1)|null|
+|**2026-09-08**|**It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction**|Andrea Apicella et.al.|[2609.08772v1](http://arxiv.org/abs/2609.08772v1)|null|
+|**2026-09-08**|**MorphoOrgaAgent: A Foundation-Model-Based Multi-Agent System for Autonomous Organoid Analysis**|Hanyi Zhang et.al.|[2609.08696v1](http://arxiv.org/abs/2609.08696v1)|null|
+|**2026-09-08**|**STSG-VQA: Evidence-Grounded Temporal Question Answering from Surgical Spatio-Temporal Scene Graphs**|Jing Li et.al.|[2609.08543v1](http://arxiv.org/abs/2609.08543v1)|null|
+|**2026-09-08**|**Layer Selection in VLMs for Zero-Shot OOD Detection via Multi-Resolution Entropy Estimation**|Shyam Nandan Rai et.al.|[2609.08524v1](http://arxiv.org/abs/2609.08524v1)|null|
+|**2026-09-08**|**PGMT: Perceptive General Motion Tracking for Humanoid Robots**|Hongyi Li et.al.|[2609.08511v1](http://arxiv.org/abs/2609.08511v1)|null|
+|**2026-09-08**|**Safe Task Planning with Long-Term Graph Memory for Embodied Agents**|Siyuan Li et.al.|[2609.08444v1](http://arxiv.org/abs/2609.08444v1)|null|
+|**2026-09-08**|**AirAnchor: Bridging Local and Global Spatial Information for Zero-Shot Aerial Vision-and-Language Navigation**|Shanwei Fan et.al.|[2609.08442v1](http://arxiv.org/abs/2609.08442v1)|null|
+|**2026-09-08**|**FPicker: Topology-Guided Evolution for Filament Tracing in Low-SNR Microscopy**|Tingyin Zhao et.al.|[2609.08305v1](http://arxiv.org/abs/2609.08305v1)|null|
 |**2026-09-04**|**UniMate: One Unified Model to Animate Diverse Skeletons**|Linzhan Mou et.al.|[2609.05415v1](http://arxiv.org/abs/2609.05415v1)|null|
 |**2026-09-04**|**Don't Drop Dropout: Optimizing Layer Sparsity for Efficient LLM Training and Inference**|Mostafa Elhoushi et.al.|[2609.05275v1](http://arxiv.org/abs/2609.05275v1)|null|
 |**2026-09-04**|**GLASS: Graph-Language Alignment with Spherical Scoring for Transferable Graph-Level Anomaly Detection**|Xudong Wang et.al.|[2609.05253v1](http://arxiv.org/abs/2609.05253v1)|null|
@@ -12002,5 +12021,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260908>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260909>back to top</a>)</p>
 

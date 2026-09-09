@@ -3890,6 +3890,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Anqi Li et.al.|[2609.09158v1](http://arxiv.org/abs/2609.09158v1)|null|
+|**2026-09-08**|**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**|Yuncong Yang et.al.|[2609.09155v1](http://arxiv.org/abs/2609.09155v1)|null|
+|**2026-09-08**|**NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting**|Tobias Susetzky et.al.|[2609.09140v1](http://arxiv.org/abs/2609.09140v1)|null|
+|**2026-09-08**|**Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation**|Jiacheng Xu et.al.|[2609.09135v1](http://arxiv.org/abs/2609.09135v1)|null|
 |**2026-09-08**|**AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing**|Ziyang Ma et.al.|[2609.08936v1](http://arxiv.org/abs/2609.08936v1)|null|
 |**2026-09-08**|**AXS-Net: Interpretable Deep Unfolding for Hyperspectral Image Denoising via Spectral Basis Unmixing and Structured Noise Refinement**|Ziyi Guan et.al.|[2609.08777v1](http://arxiv.org/abs/2609.08777v1)|null|
 |**2026-09-08**|**It's All in the Way You Say It: The Role of Information Representation in LLM-Based Glycemic-Event Prediction**|Andrea Apicella et.al.|[2609.08772v1](http://arxiv.org/abs/2609.08772v1)|null|

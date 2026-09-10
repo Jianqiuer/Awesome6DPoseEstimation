@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.09.09
+## Updated on 2026.09.10
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[2609.10498v1](http://arxiv.org/abs/2609.10498v1)|null|
+|**2026-09-09**|**A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration**|Xinyu Liu et.al.|[2609.10339v1](http://arxiv.org/abs/2609.10339v1)|null|
+|**2026-09-09**|**Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach**|Chandan Biswas et.al.|[2609.09826v1](http://arxiv.org/abs/2609.09826v1)|null|
+|**2026-09-09**|**Recovering Biomechanical Signals from Missing Keypoints Using Temporal Interpolation in Monocular Gait Analysis**|Shubham Jariwala et.al.|[2609.09670v1](http://arxiv.org/abs/2609.09670v1)|null|
+|**2026-09-09**|**Marker-free eye-gaze estimation using a single image and depth from defocus**|David Hurtubise-Martin et.al.|[2609.09610v1](http://arxiv.org/abs/2609.09610v1)|null|
+|**2026-09-08**|**Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion**|Fadi Khatib et.al.|[2609.09491v1](http://arxiv.org/abs/2609.09491v1)|null|
 |**2026-09-08**|**Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering**|Jiahui Zhang et.al.|[2609.09069v1](http://arxiv.org/abs/2609.09069v1)|null|
 |**2026-09-08**|**Prior-free relative 6D pose estimation of multiple object instances**|Behdad Khodabandehloo et.al.|[2609.08949v1](http://arxiv.org/abs/2609.08949v1)|null|
 |**2026-09-08**|**ArmPoser: Real-Time, Calibration-Free Arm Pose Estimation from Smartwatch IMU**|Bishnu Dev et.al.|[2609.08806v1](http://arxiv.org/abs/2609.08806v1)|null|
@@ -3878,6 +3884,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Yanzhe Chen et.al.|[2609.10522v1](http://arxiv.org/abs/2609.10522v1)|null|
+|**2026-09-09**|**DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation**|Nisarga Nilavadi et.al.|[2609.10506v1](http://arxiv.org/abs/2609.10506v1)|null|
+|**2026-09-09**|**Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization**|Andy Zeyi Liu et.al.|[2609.10464v1](http://arxiv.org/abs/2609.10464v1)|null|
+|**2026-09-09**|**On-Policy Distillation for Vision-Language Model Adaptation, an Effective Paradigm on Low-Quality Multimodal Data**|Hongyuan Zhang et.al.|[2609.10321v1](http://arxiv.org/abs/2609.10321v1)|null|
+|**2026-09-09**|**Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain**|Junnosuke Kamohara et.al.|[2609.10286v1](http://arxiv.org/abs/2609.10286v1)|null|
+|**2026-09-09**|**Two-Token Features and Small-Large Ensembles for VLM Hallucination Detection**|Eli Schwartz et.al.|[2609.10244v1](http://arxiv.org/abs/2609.10244v1)|null|
+|**2026-09-09**|**Assembling Two Parts in One Hand**|Liuao Pei et.al.|[2609.10137v1](http://arxiv.org/abs/2609.10137v1)|null|
+|**2026-09-09**|**A statistical approach to bias in zero-shot learning: the lens of handwriting recognition**|Clarence Chew et.al.|[2609.10084v1](http://arxiv.org/abs/2609.10084v1)|null|
+|**2026-09-09**|**Zero-Shot Temporal Localisation of Audio Deepfakes in Multi-Speaker Conversations**|Soumyadeep Roy et.al.|[2609.10051v1](http://arxiv.org/abs/2609.10051v1)|null|
+|**2026-09-09**|**Improving Cross-Lingual Token Representations by Adding a Pinch of SALT**|Guillem Ramírez et.al.|[2609.09953v1](http://arxiv.org/abs/2609.09953v1)|null|
 |**2026-09-08**|**TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model**|Anqi Li et.al.|[2609.09158v1](http://arxiv.org/abs/2609.09158v1)|null|
 |**2026-09-08**|**SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators**|Yuncong Yang et.al.|[2609.09155v1](http://arxiv.org/abs/2609.09155v1)|null|
 |**2026-09-08**|**NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting**|Tobias Susetzky et.al.|[2609.09140v1](http://arxiv.org/abs/2609.09140v1)|null|

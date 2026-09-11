@@ -1,4 +1,4 @@
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**Acoustic-based Guidance for Automatic Docking of Holonomic AUVs**|Ravi Regalo et.al.|[2609.11821v1](http://arxiv.org/abs/2609.11821v1)|null|
+|**2026-09-10**|**Predictive Multi-Landmark OCT Tracking for Increased Motion Robustness**|Konrad Reuter et.al.|[2609.11330v1](http://arxiv.org/abs/2609.11330v1)|null|
 |**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[2609.10498v1](http://arxiv.org/abs/2609.10498v1)|null|
 |**2026-09-09**|**A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration**|Xinyu Liu et.al.|[2609.10339v1](http://arxiv.org/abs/2609.10339v1)|null|
 |**2026-09-09**|**Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach**|Chandan Biswas et.al.|[2609.09826v1](http://arxiv.org/abs/2609.09826v1)|null|
@@ -3260,7 +3262,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3613,7 +3615,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3890,12 +3892,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-10**|**TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription**|Akshaj Gupta et.al.|[2609.11904v1](http://arxiv.org/abs/2609.11904v1)|null|
+|**2026-09-10**|**Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting**|Bowen Zhang et.al.|[2609.11872v1](http://arxiv.org/abs/2609.11872v1)|null|
+|**2026-09-10**|**Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model**|Lisa Bylinina et.al.|[2609.11870v1](http://arxiv.org/abs/2609.11870v1)|null|
+|**2026-09-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523v1](http://arxiv.org/abs/2609.11523v1)|null|
+|**2026-09-10**|**BruNet: A Cross-Domain Transfer Framework for Bruise Segmentation**|Qiming Wang et.al.|[2609.11463v1](http://arxiv.org/abs/2609.11463v1)|null|
+|**2026-09-10**|**Portable Semantics, Private Dialects: Reuse and Negative Transfer in Latent Communication Between Language-Model Cells**|Narcis Marincat et.al.|[2609.11365v1](http://arxiv.org/abs/2609.11365v1)|null|
+|**2026-09-10**|**Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs**|Camille Pradel et.al.|[2609.11347v1](http://arxiv.org/abs/2609.11347v1)|null|
+|**2026-09-10**|**E-CONAN (Entailment, CONtradition And Neutral) Benchmarks: Arabic Textual Entailment and Natural Inference Datasets**|Khloud AL Jallad et.al.|[2609.11334v1](http://arxiv.org/abs/2609.11334v1)|null|
+|**2026-09-10**|**Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation**|Maria Frangiadaki et.al.|[2609.11302v1](http://arxiv.org/abs/2609.11302v1)|null|
+|**2026-09-10**|**When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions**|Van-Truong Le et.al.|[2609.11166v1](http://arxiv.org/abs/2609.11166v1)|null|
 |**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Yanzhe Chen et.al.|[2609.10522v1](http://arxiv.org/abs/2609.10522v1)|null|
 |**2026-09-09**|**DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation**|Nisarga Nilavadi et.al.|[2609.10506v1](http://arxiv.org/abs/2609.10506v1)|null|
 |**2026-09-09**|**Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization**|Andy Zeyi Liu et.al.|[2609.10464v1](http://arxiv.org/abs/2609.10464v1)|null|
@@ -12041,5 +12053,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260911>back to top</a>)</p>
 

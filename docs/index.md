@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.10
+## Updated on 2026.09.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**Acoustic-based Guidance for Automatic Docking of Holonomic AUVs**|Ravi Regalo et.al.|[2609.11821v1](http://arxiv.org/abs/2609.11821v1)|null|
+|**2026-09-10**|**Predictive Multi-Landmark OCT Tracking for Increased Motion Robustness**|Konrad Reuter et.al.|[2609.11330v1](http://arxiv.org/abs/2609.11330v1)|null|
 |**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[2609.10498v1](http://arxiv.org/abs/2609.10498v1)|null|
 |**2026-09-09**|**A Confidence-Aware Multimodal Fusion Framework for Industrial Human-Robot Collaboration**|Xinyu Liu et.al.|[2609.10339v1](http://arxiv.org/abs/2609.10339v1)|null|
 |**2026-09-09**|**Freezing of Gait Prediction Under Spatial Occlusion: An IMU-Supervised Cross-Modal Distillation Approach**|Chandan Biswas et.al.|[2609.09826v1](http://arxiv.org/abs/2609.09826v1)|null|
@@ -3884,6 +3886,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-10**|**TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription**|Akshaj Gupta et.al.|[2609.11904v1](http://arxiv.org/abs/2609.11904v1)|null|
+|**2026-09-10**|**Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting**|Bowen Zhang et.al.|[2609.11872v1](http://arxiv.org/abs/2609.11872v1)|null|
+|**2026-09-10**|**Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model**|Lisa Bylinina et.al.|[2609.11870v1](http://arxiv.org/abs/2609.11870v1)|null|
+|**2026-09-10**|**Post-Training Zero-Shot TTS for Fine-Grained Emotion and Duration Control via Natural Language**|Lianru Gao et.al.|[2609.11523v1](http://arxiv.org/abs/2609.11523v1)|null|
+|**2026-09-10**|**BruNet: A Cross-Domain Transfer Framework for Bruise Segmentation**|Qiming Wang et.al.|[2609.11463v1](http://arxiv.org/abs/2609.11463v1)|null|
+|**2026-09-10**|**Portable Semantics, Private Dialects: Reuse and Negative Transfer in Latent Communication Between Language-Model Cells**|Narcis Marincat et.al.|[2609.11365v1](http://arxiv.org/abs/2609.11365v1)|null|
+|**2026-09-10**|**Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs**|Camille Pradel et.al.|[2609.11347v1](http://arxiv.org/abs/2609.11347v1)|null|
+|**2026-09-10**|**E-CONAN (Entailment, CONtradition And Neutral) Benchmarks: Arabic Textual Entailment and Natural Inference Datasets**|Khloud AL Jallad et.al.|[2609.11334v1](http://arxiv.org/abs/2609.11334v1)|null|
+|**2026-09-10**|**Automatic Lyric Transcription for Greek Songs: Scaling and Task Composition Effects in Whisper Adaptation**|Maria Frangiadaki et.al.|[2609.11302v1](http://arxiv.org/abs/2609.11302v1)|null|
+|**2026-09-10**|**When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions**|Van-Truong Le et.al.|[2609.11166v1](http://arxiv.org/abs/2609.11166v1)|null|
 |**2026-09-09**|**Show-Harness: Just a VLM Agent Can Play Robots**|Yanzhe Chen et.al.|[2609.10522v1](http://arxiv.org/abs/2609.10522v1)|null|
 |**2026-09-09**|**DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation**|Nisarga Nilavadi et.al.|[2609.10506v1](http://arxiv.org/abs/2609.10506v1)|null|
 |**2026-09-09**|**Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization**|Andy Zeyi Liu et.al.|[2609.10464v1](http://arxiv.org/abs/2609.10464v1)|null|

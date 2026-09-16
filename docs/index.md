@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.09.14
+## Updated on 2026.09.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation**|Philipp Ausserlechner et.al.|[2609.17106v1](http://arxiv.org/abs/2609.17106v1)|null|
+|**2026-09-15**|**PriorPose: Reference-Guided Joint Deformation and Alignment for Category-Level Object Pose Estimation**|Yihan Chen et.al.|[2609.16727v1](http://arxiv.org/abs/2609.16727v1)|null|
+|**2026-09-14**|**Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation**|Guo Ning et.al.|[2609.16256v1](http://arxiv.org/abs/2609.16256v1)|null|
+|**2026-09-14**|**LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration**|Jianhe Zhao et.al.|[2609.15098v1](http://arxiv.org/abs/2609.15098v1)|null|
+|**2026-09-12**|**DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction**|Alex Posadas-Nava et.al.|[2609.14183v1](http://arxiv.org/abs/2609.14183v1)|null|
+|**2026-09-12**|**Vision-Force Admittance Learning for Peg Insertion into a Movable Hole**|Yuzhong Chen et.al.|[2609.14133v1](http://arxiv.org/abs/2609.14133v1)|null|
+|**2026-09-12**|**Learning In-Hand Object Reaching to General 6D Poses**|Junxiao Lin et.al.|[2609.13761v1](http://arxiv.org/abs/2609.13761v1)|null|
+|**2026-09-12**|**FFVO: A Feedforward Pose Decoder for Long-Horizon Visual Odometry**|Meng-Li Shih et.al.|[2609.13733v1](http://arxiv.org/abs/2609.13733v1)|null|
+|**2026-09-11**|**KAD-Net: Kinematics-Aware Decoupled Learning for Robust 3D Hand Pose Estimation from a Single Depth Image**|Jun Lu et.al.|[2609.12559v1](http://arxiv.org/abs/2609.12559v1)|null|
+|**2026-09-11**|**Spectral Consistency-Guided Multiview Point Cloud Registration for Low-Overlap Scenes**|Tianyu Li et.al.|[2609.12417v1](http://arxiv.org/abs/2609.12417v1)|null|
 |**2026-09-10**|**Acoustic-based Guidance for Automatic Docking of Holonomic AUVs**|Ravi Regalo et.al.|[2609.11821v1](http://arxiv.org/abs/2609.11821v1)|null|
 |**2026-09-10**|**Predictive Multi-Landmark OCT Tracking for Increased Motion Robustness**|Konrad Reuter et.al.|[2609.11330v1](http://arxiv.org/abs/2609.11330v1)|null|
 |**2026-09-09**|**Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts**|Simon Khan et.al.|[2609.10498v1](http://arxiv.org/abs/2609.10498v1)|null|
@@ -3260,6 +3270,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-14**|**Unsupervised Point Cloud Registration via Training-Time Semantic Guidance**|Kezheng Xiong et.al.|[2609.15228v1](http://arxiv.org/abs/2609.15228v1)|null|
+|**2026-09-11**|**Spectral Consistency-Guided Multiview Point Cloud Registration for Low-Overlap Scenes**|Tianyu Li et.al.|[2609.12417v1](http://arxiv.org/abs/2609.12417v1)|null|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
 |**2026-08-27**|**DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving**|Wenxin Zhang et.al.|[2608.26589v1](http://arxiv.org/abs/2608.26589v1)|null|
 |**2026-08-22**|**FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation**|Ziyang Yu et.al.|[2608.21804v1](http://arxiv.org/abs/2608.21804v1)|null|
@@ -3886,6 +3898,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-15**|**Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM**|Adam Zachary Wasserman et.al.|[2609.17435v1](http://arxiv.org/abs/2609.17435v1)|null|
+|**2026-09-15**|**Residual Fault Adaptation for Dexterous In-Hand Manipulation Under Runtime Joint Faults**|Linan Deng et.al.|[2609.17404v1](http://arxiv.org/abs/2609.17404v1)|null|
+|**2026-09-15**|**Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation**|Ting-Wei Chang et.al.|[2609.17398v1](http://arxiv.org/abs/2609.17398v1)|null|
+|**2026-09-15**|**Bridging the Confidence Gap: Temperature Scaling for Calibrating Test-Time Prompt Tuning**|Yuwei Liang et.al.|[2609.17386v1](http://arxiv.org/abs/2609.17386v1)|null|
+|**2026-09-15**|**Type-IV Code Clone Detection via Layer-Wise Non-Contrastive Representation Learning**|Luciano Marchezan et.al.|[2609.17338v1](http://arxiv.org/abs/2609.17338v1)|null|
+|**2026-09-15**|**Zero-shot narrative detection in social messaging**|Jesús M. Fraile-Hernández et.al.|[2609.17310v1](http://arxiv.org/abs/2609.17310v1)|null|
+|**2026-09-15**|**MyoFlow: Anchor-Tied Rectified Flow for HD-sEMG Gesture Recognition Across Sessions and Subjects**|Chenhao Wu et.al.|[2609.17194v1](http://arxiv.org/abs/2609.17194v1)|null|
+|**2026-09-15**|**Measuring Annotation Efficiency for Handwritten Devanagari Recognition: Sample-Complexity Curves for Four Pretraining Regimes**|Manglesh Kumar Pandey et.al.|[2609.16859v1](http://arxiv.org/abs/2609.16859v1)|null|
+|**2026-09-15**|**RegRet: Enhancing Region-Level Retrieval in Large Multimodal Models**|Xun Liang et.al.|[2609.16847v1](http://arxiv.org/abs/2609.16847v1)|null|
+|**2026-09-15**|**SOTER: A Generative Time-Series Foundation Model for Wearable Human Physiological Signals**|Fangke Chen et.al.|[2609.16804v1](http://arxiv.org/abs/2609.16804v1)|null|
 |**2026-09-10**|**TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription**|Akshaj Gupta et.al.|[2609.11904v1](http://arxiv.org/abs/2609.11904v1)|null|
 |**2026-09-10**|**Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting**|Bowen Zhang et.al.|[2609.11872v1](http://arxiv.org/abs/2609.11872v1)|null|
 |**2026-09-10**|**Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model**|Lisa Bylinina et.al.|[2609.11870v1](http://arxiv.org/abs/2609.11870v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.09.16
+## Updated on 2026.09.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738v1](http://arxiv.org/abs/2609.18738v1)|null|
+|**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473v1](http://arxiv.org/abs/2609.18473v1)|null|
+|**2026-09-16**|**Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users**|Yilin Wen et.al.|[2609.18406v1](http://arxiv.org/abs/2609.18406v1)|null|
+|**2026-09-15**|**Co-occurrence-Aware Quadratic Assignment for Local Feature Matching in Simultaneous Localization and Mapping**|Yutaka Yamada et.al.|[2609.17905v1](http://arxiv.org/abs/2609.17905v1)|null|
 |**2026-09-15**|**BRAVE-6D: Benchmark for Robotic Active Vision in 6DOF Pose Estimation**|Philipp Ausserlechner et.al.|[2609.17106v1](http://arxiv.org/abs/2609.17106v1)|null|
 |**2026-09-15**|**PriorPose: Reference-Guided Joint Deformation and Alignment for Category-Level Object Pose Estimation**|Yihan Chen et.al.|[2609.16727v1](http://arxiv.org/abs/2609.16727v1)|null|
 |**2026-09-14**|**Tendon-Driven Continuum Robot with Modular Stiffness and In-Situ Self Pose Estimation**|Guo Ning et.al.|[2609.16256v1](http://arxiv.org/abs/2609.16256v1)|null|
@@ -3272,12 +3276,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration**|Zhixin Cheng et.al.|[2609.18088v1](http://arxiv.org/abs/2609.18088v1)|null|
+|**2026-09-16**|**PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap**|Valen Yamamoto et.al.|[2609.18082v1](http://arxiv.org/abs/2609.18082v1)|null|
 |**2026-09-14**|**Unsupervised Point Cloud Registration via Training-Time Semantic Guidance**|Kezheng Xiong et.al.|[2609.15228v1](http://arxiv.org/abs/2609.15228v1)|null|
 |**2026-09-11**|**Spectral Consistency-Guided Multiview Point Cloud Registration for Low-Overlap Scenes**|Tianyu Li et.al.|[2609.12417v1](http://arxiv.org/abs/2609.12417v1)|null|
 |**2026-09-01**|**Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration**|Yiran Zhou et.al.|[2609.01089v1](http://arxiv.org/abs/2609.01089v1)|null|
@@ -3627,7 +3633,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3904,12 +3910,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-16**|**Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation**|Guanhua Ji et.al.|[2609.19137v1](http://arxiv.org/abs/2609.19137v1)|null|
+|**2026-09-16**|**Zero-Shot Cross-Lingual Recognition of Sign Language Handshapes**|Marcel Granero-Moya et.al.|[2609.18772v1](http://arxiv.org/abs/2609.18772v1)|null|
+|**2026-09-16**|**When Edit Flows are Edit Jumps: replicating Edit Flows and EvoFlows**|Gabriel Bénédict et.al.|[2609.18745v1](http://arxiv.org/abs/2609.18745v1)|null|
+|**2026-09-16**|**Multi-Teacher Distillation for Cross-Domain Streaming Electrolaryngeal Speech Encoding**|Benedikt Mayrhofer et.al.|[2609.18686v1](http://arxiv.org/abs/2609.18686v1)|null|
+|**2026-09-16**|**Fallacy Benchmarks Measure Scheme Recognition, Not Fallacy Detection**|Navyansh Singh et.al.|[2609.18644v1](http://arxiv.org/abs/2609.18644v1)|null|
+|**2026-09-16**|**Reasoning through Evolution: Automatic Meta-path Discovery for LLM-based Fake News Detection**|Ziyi Zhou et.al.|[2609.18597v1](http://arxiv.org/abs/2609.18597v1)|null|
+|**2026-09-16**|**Robot Visions: Breaking reCAPTCHA at Zero Cost and Zero Shot**|Suphannee Sivakorn et.al.|[2609.18518v1](http://arxiv.org/abs/2609.18518v1)|null|
+|**2026-09-16**|**Align, Integrate, and Fire: Efficient Token-Level Alignment for Zero-Shot SpeechLLMs**|Abderrahmane Issam et.al.|[2609.18516v1](http://arxiv.org/abs/2609.18516v1)|null|
+|**2026-09-16**|**GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction**|David Ahmedt-Aristizabal et.al.|[2609.18465v1](http://arxiv.org/abs/2609.18465v1)|null|
+|**2026-09-16**|**Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users**|Yilin Wen et.al.|[2609.18406v1](http://arxiv.org/abs/2609.18406v1)|null|
 |**2026-09-15**|**Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM**|Adam Zachary Wasserman et.al.|[2609.17435v1](http://arxiv.org/abs/2609.17435v1)|null|
 |**2026-09-15**|**Residual Fault Adaptation for Dexterous In-Hand Manipulation Under Runtime Joint Faults**|Linan Deng et.al.|[2609.17404v1](http://arxiv.org/abs/2609.17404v1)|null|
 |**2026-09-15**|**Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation**|Ting-Wei Chang et.al.|[2609.17398v1](http://arxiv.org/abs/2609.17398v1)|null|
@@ -12075,5 +12091,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260916>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260917>back to top</a>)</p>
 

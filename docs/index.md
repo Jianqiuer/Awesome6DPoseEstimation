@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.17
+## Updated on 2026.09.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos**|Yexin Hu et.al.|[2609.20582v1](http://arxiv.org/abs/2609.20582v1)|null|
+|**2026-09-17**|**PART: Learning 3D Part Assembly and Retrieval with Transformers**|Ruchao Bao et.al.|[2609.19872v1](http://arxiv.org/abs/2609.19872v1)|null|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738v1](http://arxiv.org/abs/2609.18738v1)|null|
 |**2026-09-16**|**CADSplat: Sparse-View 3D Gaussian Splatting Aided by CAD Models for Robust, Photorealistic Digital-Twin Reconstruction**|Kristof Overdulve et.al.|[2609.18473v1](http://arxiv.org/abs/2609.18473v1)|null|
 |**2026-09-16**|**Prosthesis-Aware 3D Human Pose Estimation: A Dataset and Benchmark for RSP Users**|Yilin Wen et.al.|[2609.18406v1](http://arxiv.org/abs/2609.18406v1)|null|
@@ -3904,6 +3906,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-17**|**MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving**|Thomas Steinecker et.al.|[2609.20747v1](http://arxiv.org/abs/2609.20747v1)|null|
+|**2026-09-17**|**V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos**|Yexin Hu et.al.|[2609.20582v1](http://arxiv.org/abs/2609.20582v1)|null|
+|**2026-09-17**|**Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control**|Yilang Liu et.al.|[2609.20575v1](http://arxiv.org/abs/2609.20575v1)|null|
+|**2026-09-17**|**Learning Slope-Adaptive Whole-Body Locomotion for Humanoid Robots in Roofing Construction**|Songyang Liu et.al.|[2609.20558v1](http://arxiv.org/abs/2609.20558v1)|null|
+|**2026-09-17**|**FreqCondNorm: Towards Cross-domain Predictive Maintenance through a Frequency-Conditioned Transformer Foundation Model**|Zaynab Raounak et.al.|[2609.20535v1](http://arxiv.org/abs/2609.20535v1)|null|
+|**2026-09-17**|**Visual Sim-to-Real Learning for Robotic Insertion under Geometric Variations: Application to Rebar Installation**|Tao Sun et.al.|[2609.20477v1](http://arxiv.org/abs/2609.20477v1)|null|
+|**2026-09-17**|**Navi-Agent: Unlocalized Monocular Navigation Agent**|Wenyuan Xie et.al.|[2609.20388v1](http://arxiv.org/abs/2609.20388v1)|null|
+|**2026-09-17**|**MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving**|Shuai Liu et.al.|[2609.20377v1](http://arxiv.org/abs/2609.20377v1)|null|
+|**2026-09-17**|**QUALS: Corpus Equilibrium for Universal Forecasting via Pattern Quantization and Learnability Synchronization**|Yujie Li et.al.|[2609.20156v1](http://arxiv.org/abs/2609.20156v1)|null|
+|**2026-09-17**|**GPT-6-Astra in a Navigation Workflow: Behavioral Analysis in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.20116v1](http://arxiv.org/abs/2609.20116v1)|null|
 |**2026-09-16**|**Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation**|Guanhua Ji et.al.|[2609.19137v1](http://arxiv.org/abs/2609.19137v1)|null|
 |**2026-09-16**|**Zero-Shot Cross-Lingual Recognition of Sign Language Handshapes**|Marcel Granero-Moya et.al.|[2609.18772v1](http://arxiv.org/abs/2609.18772v1)|null|
 |**2026-09-16**|**When Edit Flows are Edit Jumps: replicating Edit Flows and EvoFlows**|Gabriel Bénédict et.al.|[2609.18745v1](http://arxiv.org/abs/2609.18745v1)|null|

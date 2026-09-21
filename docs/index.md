@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.09.20
+## Updated on 2026.09.21
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938v1](http://arxiv.org/abs/2609.21938v1)|null|
+|**2026-09-18**|**SFVO: Decoupled Confidence-Guided Stereo-Flow Visual Odometry with Bidirectional PnP**|Kai Zhang et.al.|[2609.21754v1](http://arxiv.org/abs/2609.21754v1)|null|
+|**2026-09-18**|**HAT: Hypothesis-Anchored Tracking for Video Monocular Spacecraft Pose Estimation**|André Lopo et.al.|[2609.21597v1](http://arxiv.org/abs/2609.21597v1)|null|
+|**2026-09-18**|**Adaptive World Memory 3D Foundation Model for Scalable 3D Mapping, Localization, and Rendering**|Tianchen Deng et.al.|[2609.21502v1](http://arxiv.org/abs/2609.21502v1)|null|
+|**2026-09-18**|**VoxelTTO: Voxel-Aligned Feed-Forward 3D Gaussian Splatting with Test-Time Optimization**|Yibin Zhao et.al.|[2609.21498v1](http://arxiv.org/abs/2609.21498v1)|null|
+|**2026-09-18**|**Think Locally, Refine Globally for Memory-Efficient 3D Reconstruction**|Jingke Zhou et.al.|[2609.21437v1](http://arxiv.org/abs/2609.21437v1)|null|
 |**2026-09-17**|**V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos**|Yexin Hu et.al.|[2609.20582v1](http://arxiv.org/abs/2609.20582v1)|null|
 |**2026-09-17**|**PART: Learning 3D Part Assembly and Retrieval with Transformers**|Ruchao Bao et.al.|[2609.19872v1](http://arxiv.org/abs/2609.19872v1)|null|
 |**2026-09-16**|**Active perception for robotic harvesting: 3D reconstruction and localisation of tomatoes hidden within clusters in a Mediterranean greenhouse**|Fernando Cañadas-Aránega et.al.|[2609.18738v1](http://arxiv.org/abs/2609.18738v1)|null|
@@ -3906,6 +3912,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-18**|**BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings**|Alexandre Andre et.al.|[2609.22064v1](http://arxiv.org/abs/2609.22064v1)|null|
+|**2026-09-18**|**SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation**|Pengjun Niu et.al.|[2609.21983v1](http://arxiv.org/abs/2609.21983v1)|null|
+|**2026-09-18**|**NeuRIO: A Streaming Neural Estimator for Zero-Shot Sim-to-Real Multi-Robot Relative Inertial Odometry**|Zhehan Li et.al.|[2609.21707v1](http://arxiv.org/abs/2609.21707v1)|null|
+|**2026-09-18**|**RAYA: Learning Where and When to Intervene for Robot Recovery**|Ishaan Mahajan et.al.|[2609.21690v1](http://arxiv.org/abs/2609.21690v1)|null|
+|**2026-09-18**|**The Spoken Wikipedia Presentation Corpus**|Thomas Ranzenberger et.al.|[2609.21676v1](http://arxiv.org/abs/2609.21676v1)|null|
+|**2026-09-18**|**Chinese Competitive Debating Dataset and Benchmark**|Zongrui Yang et.al.|[2609.21637v1](http://arxiv.org/abs/2609.21637v1)|null|
+|**2026-09-18**|**Detection is solved, delineation is not: what governs tooth segmentation on panoramic radiographs**|Muhammad Rehan et.al.|[2609.21628v1](http://arxiv.org/abs/2609.21628v1)|null|
+|**2026-09-18**|**Towards Zero-Shot Attribution of Synthetic Speech via Audio-Text Contrastive Retrieval**|Cristian-Teodor Neamtu et.al.|[2609.21581v1](http://arxiv.org/abs/2609.21581v1)|null|
+|**2026-09-18**|**FrFNO:Injecting the analytic Mittag-Leffler propagator into a resolution-robust neural operator for space-time fractional PDEs**|Guofei Pang et.al.|[2609.21512v1](http://arxiv.org/abs/2609.21512v1)|null|
+|**2026-09-18**|**DPed-VLN: A Benchmark for Socially Compliant Vision-and-Language Navigation in Dynamic Pedestrian Environments**|Haojie Dai et.al.|[2609.21504v1](http://arxiv.org/abs/2609.21504v1)|null|
 |**2026-09-17**|**MILER: Semantic Mid-Level Representation for Sim-to-Real Reinforcement Learning in Unstructured Autonomous Driving**|Thomas Steinecker et.al.|[2609.20747v1](http://arxiv.org/abs/2609.20747v1)|null|
 |**2026-09-17**|**V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos**|Yexin Hu et.al.|[2609.20582v1](http://arxiv.org/abs/2609.20582v1)|null|
 |**2026-09-17**|**Accelerating Visual Policy Learning with Sampling-Based Model Predictive Control**|Yilang Liu et.al.|[2609.20575v1](http://arxiv.org/abs/2609.20575v1)|null|

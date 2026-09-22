@@ -1,4 +1,4 @@
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**STA-TFM: Spatio-Temporal Aggregation Across Views TransForMer for Pose Estimation**|Mena Kamel et.al.|[2609.24482v1](http://arxiv.org/abs/2609.24482v1)|null|
+|**2026-09-21**|**Estimating Accurate Hand Pose in Camera Space with Vision Transformer**|Kaiwen Ren et.al.|[2609.24424v1](http://arxiv.org/abs/2609.24424v1)|null|
+|**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[2609.23961v1](http://arxiv.org/abs/2609.23961v1)|null|
+|**2026-09-20**|**G6D: Geometric Learning-Free RGB-D 6D Pose Solver for Robotic Manipulation**|Yixuan Liang et.al.|[2609.23566v1](http://arxiv.org/abs/2609.23566v1)|null|
 |**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938v1](http://arxiv.org/abs/2609.21938v1)|null|
 |**2026-09-18**|**SFVO: Decoupled Confidence-Guided Stereo-Flow Visual Odometry with Bidirectional PnP**|Kai Zhang et.al.|[2609.21754v1](http://arxiv.org/abs/2609.21754v1)|null|
 |**2026-09-18**|**HAT: Hypothesis-Anchored Tracking for Video Monocular Spacecraft Pose Estimation**|André Lopo et.al.|[2609.21597v1](http://arxiv.org/abs/2609.21597v1)|null|
@@ -3284,7 +3288,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3641,7 +3645,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3918,12 +3922,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-21**|**Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning**|Abhinav Jain et.al.|[2609.24906v1](http://arxiv.org/abs/2609.24906v1)|null|
+|**2026-09-21**|**Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models**|Kevin David Hayes et.al.|[2609.24881v1](http://arxiv.org/abs/2609.24881v1)|null|
+|**2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Yixin Zheng et.al.|[2609.24868v1](http://arxiv.org/abs/2609.24868v1)|null|
+|**2026-09-21**|**ZVeC: A Zero-Shot Framework for Instance-Level Vehicle Extraction and Generative Point Cloud Completion**|Daisy Li et.al.|[2609.24825v1](http://arxiv.org/abs/2609.24825v1)|null|
+|**2026-09-21**|**Streaming Video Editing with Easy Adaptation**|Yujia Hu et.al.|[2609.24788v1](http://arxiv.org/abs/2609.24788v1)|null|
+|**2026-09-21**|**GraphSVR: q-Space--Aware Graph-Based Slice-to-Volume Registration for Diffusion MRI**|Noga Kertes et.al.|[2609.24732v1](http://arxiv.org/abs/2609.24732v1)|null|
+|**2026-09-21**|**Understanding Hyperspherical Geometry of ECAPA-TDNN Embedding and Its Impact on Zero-Shot Voice Conversion**|Mathilde Abrassart et.al.|[2609.24688v1](http://arxiv.org/abs/2609.24688v1)|null|
+|**2026-09-21**|**Assessing Readability with LLMs: The Role of Reasoning and Few-Shot Prompting**|Raphaël Thieffry et.al.|[2609.24650v1](http://arxiv.org/abs/2609.24650v1)|null|
+|**2026-09-21**|**Custom Named Entity Recognition and Topic Classification for Global Health Publications**|Genis Skura et.al.|[2609.24625v1](http://arxiv.org/abs/2609.24625v1)|null|
+|**2026-09-21**|**What do VLM-Based Vision-Language Navigation Models Rely on: Interpreting and Steering Policy Behavior**|Débora Oliveira Makowski et.al.|[2609.24576v1](http://arxiv.org/abs/2609.24576v1)|null|
 |**2026-09-18**|**BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings**|Alexandre Andre et.al.|[2609.22064v1](http://arxiv.org/abs/2609.22064v1)|null|
 |**2026-09-18**|**SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation**|Pengjun Niu et.al.|[2609.21983v1](http://arxiv.org/abs/2609.21983v1)|null|
 |**2026-09-18**|**NeuRIO: A Streaming Neural Estimator for Zero-Shot Sim-to-Real Multi-Robot Relative Inertial Odometry**|Zhehan Li et.al.|[2609.21707v1](http://arxiv.org/abs/2609.21707v1)|null|
@@ -12119,5 +12133,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260922>back to top</a>)</p>
 

@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v1](http://arxiv.org/abs/2609.26590v1)|null|
+|**2026-09-22**|**Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation**|John Church et.al.|[2609.26561v1](http://arxiv.org/abs/2609.26561v1)|null|
+|**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|
+|**2026-09-22**|**Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation**|Mingxuan Zhang et.al.|[2609.25898v1](http://arxiv.org/abs/2609.25898v1)|null|
+|**2026-09-22**|**Isolated Sign Language Recognition for Icelandic Sign Language: Experiments in a Low-resource Setting**|Finnur Ágúst Ingimundarson et.al.|[2609.25862v1](http://arxiv.org/abs/2609.25862v1)|null|
 |**2026-09-21**|**STA-TFM: Spatio-Temporal Aggregation Across Views TransForMer for Pose Estimation**|Mena Kamel et.al.|[2609.24482v1](http://arxiv.org/abs/2609.24482v1)|null|
-|**2026-09-21**|**Estimating Accurate Hand Pose in Camera Space with Vision Transformer**|Kaiwen Ren et.al.|[2609.24424v1](http://arxiv.org/abs/2609.24424v1)|null|
+|**2026-09-22**|**Estimating Accurate Hand Pose in Camera Space with Vision Transformer**|Kaiwen Ren et.al.|[2609.24424v2](http://arxiv.org/abs/2609.24424v2)|null|
 |**2026-09-21**|**Colon3R: Cross-Domain 3D Reconstruction from Monocular Colonoscopic Video**|Zhihao Xing et.al.|[2609.23961v1](http://arxiv.org/abs/2609.23961v1)|null|
 |**2026-09-20**|**G6D: Geometric Learning-Free RGB-D 6D Pose Solver for Robotic Manipulation**|Yixuan Liang et.al.|[2609.23566v1](http://arxiv.org/abs/2609.23566v1)|null|
 |**2026-09-18**|**Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction**|Sunghyun Baek et.al.|[2609.21938v1](http://arxiv.org/abs/2609.21938v1)|null|
@@ -3286,6 +3291,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|
+|**2026-09-22**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932v1](http://arxiv.org/abs/2609.25932v1)|null|
+|**2026-09-21**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375v1](http://arxiv.org/abs/2609.25375v1)|null|
 |**2026-09-16**|**Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration**|Zhixin Cheng et.al.|[2609.18088v1](http://arxiv.org/abs/2609.18088v1)|null|
 |**2026-09-16**|**PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap**|Valen Yamamoto et.al.|[2609.18082v1](http://arxiv.org/abs/2609.18082v1)|null|
 |**2026-09-14**|**Unsupervised Point Cloud Registration via Training-Time Semantic Guidance**|Kezheng Xiong et.al.|[2609.15228v1](http://arxiv.org/abs/2609.15228v1)|null|
@@ -3916,6 +3924,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**ROAM-ASD: Robust Open-World Active Speaker Detection with Flexible Multimodal Fusion**|Pu Wang et.al.|[2609.26648v1](http://arxiv.org/abs/2609.26648v1)|null|
+|**2026-09-22**|**MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection**|Yichuan Yu et.al.|[2609.26520v1](http://arxiv.org/abs/2609.26520v1)|null|
+|**2026-09-22**|**Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions**|Zixiang Wan et.al.|[2609.26427v1](http://arxiv.org/abs/2609.26427v1)|null|
+|**2026-09-22**|**EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion**|Ilias Mitsouras et.al.|[2609.26039v1](http://arxiv.org/abs/2609.26039v1)|null|
+|**2026-09-22**|**CQ4OE: A benchmark for assessing LLM-assisted ontology generation from competency questions**|Jiayi Li et.al.|[2609.26029v1](http://arxiv.org/abs/2609.26029v1)|null|
+|**2026-09-22**|**From Reliable Text to Real Voices: Trust-Aware Progressive Adaptation for Low-Resource TTS**|Jiayi Lu et.al.|[2609.25951v1](http://arxiv.org/abs/2609.25951v1)|null|
+|**2026-09-22**|**Beyond Scalar Sensitivity: Activation-Aware Mixed-Precision LLM Quantization with Cross-Layer Refinement**|Akihiro Yoshida et.al.|[2609.25916v1](http://arxiv.org/abs/2609.25916v1)|null|
+|**2026-09-22**|**When Point Clouds Outperform Pixels: Rethinking Zero-Shot Multimodal Anomaly Detection**|Chenglin Ye et.al.|[2609.25793v1](http://arxiv.org/abs/2609.25793v1)|null|
+|**2026-09-22**|**Evaluating Accuracy and Probabilistic Reliability of Zero-Shot Time Series Foundation Models**|Panagiotis Michael et.al.|[2609.25788v1](http://arxiv.org/abs/2609.25788v1)|null|
+|**2026-09-22**|**The Limits of Simulated Societies: How Post-Training and Survey Fine-Tuning Erase Cross-Cultural Variance**|Rojin Ziaei et.al.|[2609.25760v1](http://arxiv.org/abs/2609.25760v1)|null|
 |**2026-09-21**|**Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning**|Abhinav Jain et.al.|[2609.24906v1](http://arxiv.org/abs/2609.24906v1)|null|
 |**2026-09-21**|**Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models**|Kevin David Hayes et.al.|[2609.24881v1](http://arxiv.org/abs/2609.24881v1)|null|
 |**2026-09-21**|**DualWAM: Dual-System World Action Models for Asynchronous Global Planning and Local Refinement**|Yixin Zheng et.al.|[2609.24868v1](http://arxiv.org/abs/2609.24868v1)|null|

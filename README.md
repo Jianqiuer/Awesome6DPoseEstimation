@@ -1,4 +1,4 @@
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-22**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v1](http://arxiv.org/abs/2609.26590v1)|null|
+|**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|
+|**2026-09-22**|**Pose-Aware Multimodal Automatic Tagging for Greek Traditional Music**|Alexandros Alexiou et.al.|[2609.27094v1](http://arxiv.org/abs/2609.27094v1)|null|
+|**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v2](http://arxiv.org/abs/2609.26590v2)|null|
 |**2026-09-22**|**Vision Foundation Models with Synthetic-Only Training for Monocular Spacecraft Pose Estimation**|John Church et.al.|[2609.26561v1](http://arxiv.org/abs/2609.26561v1)|null|
 |**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|
 |**2026-09-22**|**Robust Active-Perception Control for Global-State-Free Aerial-Ground Cooperation**|Mingxuan Zhang et.al.|[2609.25898v1](http://arxiv.org/abs/2609.25898v1)|null|
@@ -3293,7 +3295,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3653,7 +3655,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3930,12 +3932,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[2609.28393v1](http://arxiv.org/abs/2609.28393v1)|null|
+|**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360v1](http://arxiv.org/abs/2609.28360v1)|null|
+|**2026-09-23**|**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**|Arman Taghizadeh et.al.|[2609.28342v1](http://arxiv.org/abs/2609.28342v1)|null|
+|**2026-09-23**|**Multimodal Voice Activity Projection for Social Robot Mediation: Expected Behavior and Deployment Constraints**|Antonio Cano et.al.|[2609.28317v1](http://arxiv.org/abs/2609.28317v1)|null|
+|**2026-09-23**|**Talk2Escape: Conversational Grounding for Vision-and-Language Navigation**|Zerui Li et.al.|[2609.28296v1](http://arxiv.org/abs/2609.28296v1)|null|
+|**2026-09-23**|**Generalizable Robotic Insertion with World Models**|Nicklas Hansen et.al.|[2609.28258v1](http://arxiv.org/abs/2609.28258v1)|null|
+|**2026-09-23**|**Controlling Collectives of AI Agents in Reasoning Space with Spatial Transformers**|Frederic Vatnsdal et.al.|[2609.28247v1](http://arxiv.org/abs/2609.28247v1)|null|
+|**2026-09-23**|**Beyond Poetry: Can Large Language Models Generate Classical Arabic Maqamat?**|AbdulRahman A. Morsy et.al.|[2609.28245v1](http://arxiv.org/abs/2609.28245v1)|null|
+|**2026-09-23**|**EvEMTBench: An Open Benchmark for Machine Learning in Power System Protection**|Julian Oelhaf et.al.|[2609.28149v1](http://arxiv.org/abs/2609.28149v1)|null|
+|**2026-09-23**|**DEAL-Grasp: Decoupled Alignment Representation for Geometry-Aware Dexterous Grasp Generation**|Fuqiang Zhao et.al.|[2609.28131v1](http://arxiv.org/abs/2609.28131v1)|null|
 |**2026-09-22**|**ROAM-ASD: Robust Open-World Active Speaker Detection with Flexible Multimodal Fusion**|Pu Wang et.al.|[2609.26648v1](http://arxiv.org/abs/2609.26648v1)|null|
 |**2026-09-22**|**MATE: Multi-Agent Virtual Teleoperation Platform for Humanoid Collaboration Data Collection**|Yichuan Yu et.al.|[2609.26520v1](http://arxiv.org/abs/2609.26520v1)|null|
 |**2026-09-22**|**Persistent Delivery Optimization for Streaming Speech-to-Text Translation with Revisions**|Zixiang Wan et.al.|[2609.26427v1](http://arxiv.org/abs/2609.26427v1)|null|
@@ -12151,5 +12163,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260924>back to top</a>)</p>
 

@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**Training-Free Hold-Usage Detection in Sport Climbing with Foundation Pose Models**|Abu Bakar et.al.|[2609.30026v1](http://arxiv.org/abs/2609.30026v1)|null|
+|**2026-09-24**|**Singularity Analysis for the Perspective-Four and Five-Line Problems**|Jorge García Fontán et.al.|[2609.29417v1](http://arxiv.org/abs/2609.29417v1)|null|
 |**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|
 |**2026-09-22**|**Pose-Aware Multimodal Automatic Tagging for Greek Traditional Music**|Alexandros Alexiou et.al.|[2609.27094v1](http://arxiv.org/abs/2609.27094v1)|null|
 |**2026-09-23**|**GTR: Gated Token Recurrence for Efficient Dense Prediction**|Zhe Feng et.al.|[2609.26590v2](http://arxiv.org/abs/2609.26590v2)|null|
@@ -3293,9 +3295,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**An Automated Georeferencing Technique for Multi-Temporal Stope Point Clouds for Downstream Geotechnical Analysis**|Dibyayan Patra et.al.|[2609.29186v1](http://arxiv.org/abs/2609.29186v1)|null|
 |**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|
 |**2026-09-22**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932v1](http://arxiv.org/abs/2609.25932v1)|null|
-|**2026-09-21**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375v1](http://arxiv.org/abs/2609.25375v1)|null|
+|**2026-09-23**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375v2](http://arxiv.org/abs/2609.25375v2)|null|
 |**2026-09-16**|**Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration**|Zhixin Cheng et.al.|[2609.18088v1](http://arxiv.org/abs/2609.18088v1)|null|
 |**2026-09-16**|**PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap**|Valen Yamamoto et.al.|[2609.18082v1](http://arxiv.org/abs/2609.18082v1)|null|
 |**2026-09-14**|**Unsupervised Point Cloud Registration via Training-Time Semantic Guidance**|Kezheng Xiong et.al.|[2609.15228v1](http://arxiv.org/abs/2609.15228v1)|null|
@@ -3926,6 +3929,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-24**|**AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control**|Jiabin Qiu et.al.|[2609.30264v1](http://arxiv.org/abs/2609.30264v1)|null|
+|**2026-09-24**|**GridSFM: A Foundation Model for Solving AC Optimal Power Flow**|Luke Bhan et.al.|[2609.30173v1](http://arxiv.org/abs/2609.30173v1)|null|
+|**2026-09-24**|**Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management**|Giacomo Arcieri et.al.|[2609.30150v1](http://arxiv.org/abs/2609.30150v1)|null|
+|**2026-09-24**|**COSED: Setting the Bar for Open-Vocabulary Sound Event Detection**|Florian Schmid et.al.|[2609.30083v1](http://arxiv.org/abs/2609.30083v1)|null|
+|**2026-09-24**|**Self-Play Pretraining with Zero Data**|Aditya Cowsik et.al.|[2609.30063v1](http://arxiv.org/abs/2609.30063v1)|null|
+|**2026-09-24**|**Style, Not Self: Surface Cues Explain Zero-Shot Code Attribution by Large Language Models**|Ehsan Barkhordar et.al.|[2609.30048v1](http://arxiv.org/abs/2609.30048v1)|null|
+|**2026-09-24**|**VietPrism: A large-scale Vietnamese speech and deepfake corpus with diverse dialects and code-switching**|Minh Hoang et.al.|[2609.30005v1](http://arxiv.org/abs/2609.30005v1)|null|
+|**2026-09-24**|**Mind What Matters for Reasoning: Aligning Cross-Modal Attention via Selective Probability Mass Concentration**|Jiaqi Deng et.al.|[2609.29940v1](http://arxiv.org/abs/2609.29940v1)|null|
+|**2026-09-24**|**EditVoice: Variable-Length Non-Autoregressive Zero-Shot TTS and Speech Editing with Edit Flows**|Hongyao Deng et.al.|[2609.29889v1](http://arxiv.org/abs/2609.29889v1)|null|
+|**2026-09-24**|**GPT-6-Astra Lights Up Embodied Navigation: Evaluation in Zero-Shot Vision-and-Language Navigation in Continuous Environments**|Guangzhao Dai et.al.|[2609.29861v1](http://arxiv.org/abs/2609.29861v1)|null|
 |**2026-09-23**|**PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation**|Hantao Ye et.al.|[2609.28393v1](http://arxiv.org/abs/2609.28393v1)|null|
 |**2026-09-23**|**Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB**|Xuying Huang et.al.|[2609.28360v1](http://arxiv.org/abs/2609.28360v1)|null|
 |**2026-09-23**|**Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement**|Arman Taghizadeh et.al.|[2609.28342v1](http://arxiv.org/abs/2609.28342v1)|null|

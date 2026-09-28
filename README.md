@@ -1,4 +1,4 @@
-## Updated on 2026.09.27
+## Updated on 2026.09.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding**|Domen Tabernik et.al.|[2609.31452v1](http://arxiv.org/abs/2609.31452v1)|null|
+|**2026-09-25**|**Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation**|Ruixiao Yang et.al.|[2609.31337v1](http://arxiv.org/abs/2609.31337v1)|null|
+|**2026-09-25**|**PICO: Projection-Informed Consistency Optimisation for 6DoF Surgical Tool Pose Estimation**|Lucy Fothergill et.al.|[2609.30989v1](http://arxiv.org/abs/2609.30989v1)|null|
+|**2026-09-25**|**SeA-RVINS: Semantic-Aware Tightly Coupled RTK-Visual-Inertial System with Correlation-Preserving Robust Estimation for Urban Navigation**|Wang Hu et.al.|[2609.30814v1](http://arxiv.org/abs/2609.30814v1)|null|
+|**2026-09-24**|**POIL: Point-based One-Shot Imitation Learning with Stable Dynamical Systems**|Sang Min Kim et.al.|[2609.30404v1](http://arxiv.org/abs/2609.30404v1)|null|
 |**2026-09-24**|**Training-Free Hold-Usage Detection in Sport Climbing with Foundation Pose Models**|Abu Bakar et.al.|[2609.30026v1](http://arxiv.org/abs/2609.30026v1)|null|
 |**2026-09-24**|**Singularity Analysis for the Perspective-Four and Five-Line Problems**|Jorge García Fontán et.al.|[2609.29417v1](http://arxiv.org/abs/2609.29417v1)|null|
 |**2026-09-23**|**From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation**|Wentao Zhao et.al.|[2609.27363v1](http://arxiv.org/abs/2609.27363v1)|null|
@@ -3297,7 +3302,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3658,7 +3663,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3935,12 +3940,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-25**|**Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP**|Ahmed Abdelnaby et.al.|[2609.31558v1](http://arxiv.org/abs/2609.31558v1)|null|
+|**2026-09-25**|**Forensic Twins: Self-Supervised Residual Learning for AI-Generated Image Forensics**|Javier Muñoz-Haro et.al.|[2609.31514v1](http://arxiv.org/abs/2609.31514v1)|null|
+|**2026-09-25**|**AxonSynth: Domain-Randomized Synthetic Data for Zero-Shot 3D Axon Segmentation in Light-Sheet Microscopy**|Edward Gaibor et.al.|[2609.31431v1](http://arxiv.org/abs/2609.31431v1)|null|
+|**2026-09-25**|**Open Vocabulary Domain Unlearning**|Sumanth Udupa et.al.|[2609.31356v1](http://arxiv.org/abs/2609.31356v1)|null|
+|**2026-09-25**|**WeaveAgent: A Two-Stage Tool-Routing Agent for Ultra-High-Resolution Remote Sensing Imagery**|Zhongyu Pang et.al.|[2609.31234v1](http://arxiv.org/abs/2609.31234v1)|null|
+|**2026-09-25**|**Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling**|Guanlin Li et.al.|[2609.31207v1](http://arxiv.org/abs/2609.31207v1)|null|
+|**2026-09-25**|**Preserve-and-Compose Training for Composed Image Retrieval**|Sehyun Kwon et.al.|[2609.31202v1](http://arxiv.org/abs/2609.31202v1)|null|
+|**2026-09-25**|**Pocket-STVG: lightweight architecture for Spatio-Temporal Video Grounding**|Alberto Presta et.al.|[2609.31135v1](http://arxiv.org/abs/2609.31135v1)|null|
+|**2026-09-25**|**AtomWorld-Mem: Memory-Restored World States for Long-Horizon Atomistic Evolution**|Tian Luo et.al.|[2609.31133v1](http://arxiv.org/abs/2609.31133v1)|null|
+|**2026-09-25**|**Up and Down the Abstraction Ladder: Code-Based Skills for Language Agents**|Bartłomiej Cupiał et.al.|[2609.31076v1](http://arxiv.org/abs/2609.31076v1)|null|
 |**2026-09-24**|**AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control**|Jiabin Qiu et.al.|[2609.30264v1](http://arxiv.org/abs/2609.30264v1)|null|
 |**2026-09-24**|**GridSFM: A Foundation Model for Solving AC Optimal Power Flow**|Luke Bhan et.al.|[2609.30173v1](http://arxiv.org/abs/2609.30173v1)|null|
 |**2026-09-24**|**Graph-Based Inference and Topology-Aware Multi-Agent Reinforcement Learning for Large-Scale Railway Network Management**|Giacomo Arcieri et.al.|[2609.30150v1](http://arxiv.org/abs/2609.30150v1)|null|
@@ -12176,5 +12191,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20260928>back to top</a>)</p>
 

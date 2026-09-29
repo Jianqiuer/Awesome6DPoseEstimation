@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026.09.28
+## Updated on 2026.09.29
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose**|Zhilin Guo et.al.|[2609.35764v1](http://arxiv.org/abs/2609.35764v1)|null|
+|**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Kerui Ren et.al.|[2609.35743v1](http://arxiv.org/abs/2609.35743v1)|null|
+|**2026-09-28**|**Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring**|Miriama Jánošová et.al.|[2609.35726v1](http://arxiv.org/abs/2609.35726v1)|null|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715v1](http://arxiv.org/abs/2609.35715v1)|null|
+|**2026-09-28**|**LEGAU: Learning Semantic Gaussian Priors for Scalable Category-level Pose Estimation**|Hongli Xu et.al.|[2609.35046v1](http://arxiv.org/abs/2609.35046v1)|null|
+|**2026-09-28**|**Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos**|Wonseok Roh et.al.|[2609.34149v1](http://arxiv.org/abs/2609.34149v1)|null|
+|**2026-09-27**|**EpiTransfer: Sparse, Training-Free Long-Range Depth Estimation from Temporal Monocular Aerial Frames**|Diksha Aggarwal et.al.|[2609.33939v1](http://arxiv.org/abs/2609.33939v1)|null|
+|**2026-09-27**|**VPTwin: Real-Sim-Real Video Prediction for Robotic Manipulation Planning**|Zhenghao Xiao et.al.|[2609.33104v1](http://arxiv.org/abs/2609.33104v1)|null|
+|**2026-09-26**|**Unlocking Geodesic Gromov-Wasserstein Distances for 3D Modeling**|Krzysztof Marcin Choromanski et.al.|[2609.32824v1](http://arxiv.org/abs/2609.32824v1)|null|
+|**2026-09-26**|**QuacamFM: Quaternion-Constrained Flow Matching for Camera Pose Estimation**|Bao-Long Tran et.al.|[2609.32455v1](http://arxiv.org/abs/2609.32455v1)|null|
 |**2026-09-25**|**Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding**|Domen Tabernik et.al.|[2609.31452v1](http://arxiv.org/abs/2609.31452v1)|null|
 |**2026-09-25**|**Representation-Guided Generation and Integration of Executable Programs for Robot Manipulation**|Ruixiao Yang et.al.|[2609.31337v1](http://arxiv.org/abs/2609.31337v1)|null|
 |**2026-09-25**|**PICO: Projection-Informed Consistency Optimisation for 6DoF Surgical Tool Pose Estimation**|Lucy Fothergill et.al.|[2609.30989v1](http://arxiv.org/abs/2609.30989v1)|null|
@@ -3934,6 +3944,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-28**|**Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales**|András Kovács et.al.|[2609.35765v1](http://arxiv.org/abs/2609.35765v1)|null|
+|**2026-09-28**|**X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets**|Prithwish Dan et.al.|[2609.35715v1](http://arxiv.org/abs/2609.35715v1)|null|
+|**2026-09-28**|**Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras**|Qiaoge Li et.al.|[2609.35658v1](http://arxiv.org/abs/2609.35658v1)|null|
+|**2026-09-28**|**Denoising Multi-Robot Trajectories**|Yuhao Zhang et.al.|[2609.35651v1](http://arxiv.org/abs/2609.35651v1)|null|
+|**2026-09-28**|**Behavioral Foundation Models for Quality Diversity**|Nazim Bendib et.al.|[2609.35615v1](http://arxiv.org/abs/2609.35615v1)|null|
+|**2026-09-28**|**IMC-CLINIC: Coupled Loss-Informed Newton Iterations for Clipping in Analog In-Memory Computing**|Yung-Chin Chen et.al.|[2609.35586v1](http://arxiv.org/abs/2609.35586v1)|null|
+|**2026-09-28**|**Almieyar: A Culturally Grounded Benchmark for Multi-Dialect Arabic Speech Recognition**|Omid Ghahroodi et.al.|[2609.35564v1](http://arxiv.org/abs/2609.35564v1)|null|
+|**2026-09-28**|**One Proposal for Every Margin: Zero-Shot Amortized Sequential Importance Sampling for Binary Matrices**|Ruishuo Chen et.al.|[2609.35514v1](http://arxiv.org/abs/2609.35514v1)|null|
+|**2026-09-28**|**SOLO: Pretraining Billion-Parameter Language Models with Shared-Output Local Learning**|Bojian Yin et.al.|[2609.35440v1](http://arxiv.org/abs/2609.35440v1)|null|
+|**2026-09-28**|**Automated Species Identification in Camera Trap Images for Wildlife Conservation**|Nowshin Amin et.al.|[2609.35420v1](http://arxiv.org/abs/2609.35420v1)|null|
 |**2026-09-25**|**Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP**|Ahmed Abdelnaby et.al.|[2609.31558v1](http://arxiv.org/abs/2609.31558v1)|null|
 |**2026-09-25**|**Forensic Twins: Self-Supervised Residual Learning for AI-Generated Image Forensics**|Javier Muñoz-Haro et.al.|[2609.31514v1](http://arxiv.org/abs/2609.31514v1)|null|
 |**2026-09-25**|**AxonSynth: Domain-Randomized Synthetic Data for Zero-Shot 3D Axon Segmentation in Light-Sheet Microscopy**|Edward Gaibor et.al.|[2609.31431v1](http://arxiv.org/abs/2609.31431v1)|null|

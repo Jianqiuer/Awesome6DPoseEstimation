@@ -1,4 +1,4 @@
-## Updated on 2026.09.30
+## Updated on 2026.10.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,8 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yufei Wei et.al.|[2609.40244v1](http://arxiv.org/abs/2609.40244v1)|null|
+|**2026-09-30**|**Magnetic based In-situ Self 3D Pose Estimation for a Modular Soft Tendon-Driven Continuum Robot via IMU-Fusion**|Zheng Cao et.al.|[2609.39950v1](http://arxiv.org/abs/2609.39950v1)|null|
+|**2026-09-30**|**Emergent Multi-View Geometry Through Self-Distillation**|David Nordström et.al.|[2609.39227v1](http://arxiv.org/abs/2609.39227v1)|null|
+|**2026-09-30**|**GRC-Pose: Generation-Reconstruction Correspondence for Prior-Free 6D Object Pose Tracking**|Shiyang Liu et.al.|[2609.39116v1](http://arxiv.org/abs/2609.39116v1)|null|
+|**2026-09-30**|**Agentic Relative Camera Pose Estimation via Learned Ranking and Verification**|Zhining Gu et.al.|[2609.38755v1](http://arxiv.org/abs/2609.38755v1)|null|
+|**2026-09-29**|**Curating Synthetic Data for Task-Specific Visual Perception**|Saptarshi Neil Sinha et.al.|[2609.38476v1](http://arxiv.org/abs/2609.38476v1)|null|
 |**2026-09-29**|**ORMA: Optimization-based Monocular 4D Reconstruction of Articulated Animals**|Xuyi Hu et.al.|[2609.37986v1](http://arxiv.org/abs/2609.37986v1)|null|
-|**2026-09-28**|**Sparse-View Interpretable 3D Animal Behavior Representations for Neural Encoding and Decoding**|Xinming Dai et.al.|[2609.36217v1](http://arxiv.org/abs/2609.36217v1)|null|
+|**2026-09-30**|**Sparse-View Interpretable 3D Animal Behavior Representations for Neural Encoding and Decoding**|Xinming Dai et.al.|[2609.36217v2](http://arxiv.org/abs/2609.36217v2)|null|
 |**2026-09-28**|**Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose**|Zhilin Guo et.al.|[2609.35764v1](http://arxiv.org/abs/2609.35764v1)|null|
 |**2026-09-28**|**InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video**|Kerui Ren et.al.|[2609.35743v1](http://arxiv.org/abs/2609.35743v1)|null|
 |**2026-09-28**|**Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring**|Miriama Jánošová et.al.|[2609.35726v1](http://arxiv.org/abs/2609.35726v1)|null|
@@ -3314,17 +3320,18 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v1](http://arxiv.org/abs/2609.40075v1)|null|
 |**2026-09-29**|**Context without Commitment: Robust Dense Correspondence under Non-Rigid Deformation**|Yuzhen He et.al.|[2609.37071v1](http://arxiv.org/abs/2609.37071v1)|null|
 |**2026-09-29**|**OCA: ODE-Driven Cross-Attention for Image-to-Point-Cloud Registration**|Pei An et.al.|[2609.36644v1](http://arxiv.org/abs/2609.36644v1)|null|
 |**2026-09-24**|**An Automated Georeferencing Technique for Multi-Temporal Stope Point Clouds for Downstream Geotechnical Analysis**|Dibyayan Patra et.al.|[2609.29186v1](http://arxiv.org/abs/2609.29186v1)|null|
 |**2026-09-22**|**GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration**|Karim Slimani et.al.|[2609.25966v1](http://arxiv.org/abs/2609.25966v1)|null|
-|**2026-09-22**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932v1](http://arxiv.org/abs/2609.25932v1)|null|
+|**2026-09-30**|**Unsigned Distance Maps on 2D Point Cloud Registration**|Ricardo B. Sousa et.al.|[2609.25932v2](http://arxiv.org/abs/2609.25932v2)|null|
 |**2026-09-23**|**PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration**|Abolfazl Babanazari et.al.|[2609.25375v2](http://arxiv.org/abs/2609.25375v2)|null|
 |**2026-09-16**|**Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration**|Zhixin Cheng et.al.|[2609.18088v1](http://arxiv.org/abs/2609.18088v1)|null|
 |**2026-09-16**|**PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap**|Valen Yamamoto et.al.|[2609.18082v1](http://arxiv.org/abs/2609.18082v1)|null|
@@ -3677,7 +3684,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3954,12 +3961,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yufei Wei et.al.|[2609.40244v1](http://arxiv.org/abs/2609.40244v1)|null|
+|**2026-09-30**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Zhihao Zheng et.al.|[2609.40177v1](http://arxiv.org/abs/2609.40177v1)|null|
+|**2026-09-30**|**Reinforcement Learning-Guided Graph Transformations for SpTRSV Optimization**|Buse Yılmaz et.al.|[2609.40159v1](http://arxiv.org/abs/2609.40159v1)|null|
+|**2026-09-30**|**Learning Functional Subspaces for Neural Network Compression**|Massimo Bini et.al.|[2609.40127v1](http://arxiv.org/abs/2609.40127v1)|null|
+|**2026-09-30**|**MeanVoiceFlow2: Joint Optimization of Mean Flow and Content Encoder for Fast One-Step Zero-Shot Voice Conversion**|Takuhiro Kaneko et.al.|[2609.40087v1](http://arxiv.org/abs/2609.40087v1)|null|
+|**2026-09-30**|**AIMS: An Agentic AI Framework for Sim-to-Real Multi-Modal ISAC**|Yijie Bian et.al.|[2609.39964v1](http://arxiv.org/abs/2609.39964v1)|null|
+|**2026-09-30**|**DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes**|Merav Keidar et.al.|[2609.39841v1](http://arxiv.org/abs/2609.39841v1)|null|
+|**2026-09-30**|**Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision**|Weijian Jian et.al.|[2609.39785v1](http://arxiv.org/abs/2609.39785v1)|null|
+|**2026-09-30**|**Beyond Policy Alignment: Closing the Planning-Learning Loop for Robot Control with Learned World Models**|Kowndinya Boyalakuntla et.al.|[2609.39751v1](http://arxiv.org/abs/2609.39751v1)|null|
+|**2026-09-30**|**ChronoGraph: Functional 4D Scene Graphs with Vision-Language Models for Interaction Understanding and Grounded Planning**|Chenyangguang Zhang et.al.|[2609.39665v1](http://arxiv.org/abs/2609.39665v1)|null|
 |**2026-09-29**|**MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation**|Bingxuan Li et.al.|[2609.38078v1](http://arxiv.org/abs/2609.38078v1)|null|
 |**2026-09-29**|**EgoAlign: Bridging the Human-Humanoid Gap for Long-Range Loco-Manipulation**|Yiming Jiang et.al.|[2609.38046v1](http://arxiv.org/abs/2609.38046v1)|null|
 |**2026-09-29**|**TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models**|Deqing Fu et.al.|[2609.37989v1](http://arxiv.org/abs/2609.37989v1)|null|
@@ -12225,5 +12242,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20260930>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
 

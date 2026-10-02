@@ -1,4 +1,4 @@
-## Updated on 2026.10.01
+## Updated on 2026.10.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking**|Jian Liu et.al.|[2610.01758v1](http://arxiv.org/abs/2610.01758v1)|null|
+|**2026-10-01**|**SonarVoxNet: Diver Detection in 3D Bounding Box using 3D Sonar**|Eugene Park et.al.|[2610.01644v1](http://arxiv.org/abs/2610.01644v1)|null|
+|**2026-10-01**|**Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models**|Xinhao Xiang et.al.|[2610.01286v1](http://arxiv.org/abs/2610.01286v1)|null|
+|**2026-10-01**|**quARtet Marker: A 3D-Printable Multi-Tag Fiducial for Robust Near-Frontal Pose Estimation**|Araki Wakiuchi et.al.|[2610.01072v1](http://arxiv.org/abs/2610.01072v1)|null|
+|**2026-10-01**|**VASC: Value-Aware Sparse Attention with Cross-Layer Memory for Efficient 3D Reconstruction**|Junyi Wu et.al.|[2610.01013v1](http://arxiv.org/abs/2610.01013v1)|null|
+|**2026-10-01**|**Machine Translation for Sign Languages**|Ozge Mercanoglu Sincan et.al.|[2610.00881v1](http://arxiv.org/abs/2610.00881v1)|null|
 |**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yufei Wei et.al.|[2609.40244v1](http://arxiv.org/abs/2609.40244v1)|null|
 |**2026-09-30**|**Magnetic based In-situ Self 3D Pose Estimation for a Modular Soft Tendon-Driven Continuum Robot via IMU-Fusion**|Zheng Cao et.al.|[2609.39950v1](http://arxiv.org/abs/2609.39950v1)|null|
 |**2026-09-30**|**Emergent Multi-View Geometry Through Self-Distillation**|David Nordström et.al.|[2609.39227v1](http://arxiv.org/abs/2609.39227v1)|null|
@@ -3320,7 +3326,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3684,7 +3690,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3961,12 +3967,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-01**|**Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination**|Suyu Ye et.al.|[2610.02170v1](http://arxiv.org/abs/2610.02170v1)|null|
+|**2026-10-01**|**A Comparative Explainability Framework for DeBERTa-v3 in Zero-Shot Medical Abstract Classification**|Javier Diaz Esteban-Herreros et.al.|[2610.02116v1](http://arxiv.org/abs/2610.02116v1)|null|
+|**2026-10-01**|**Foundations without Fundamentals: Zero-Shot Blind Spots in Time Series FMs**|Nafiseh Ghoroghchian et.al.|[2610.02058v1](http://arxiv.org/abs/2610.02058v1)|null|
+|**2026-10-01**|**Local Consistency Does Not Guarantee Global Conservation: Auditing Zero-Shot Composition of Airway Flow Operators**|Nichula Sathmith Wasalathilaka et.al.|[2610.02056v1](http://arxiv.org/abs/2610.02056v1)|null|
+|**2026-10-01**|**Form and Void: Entangled Composition through an Autonomous AI Agent**|Shiwen Wang et.al.|[2610.02045v1](http://arxiv.org/abs/2610.02045v1)|null|
+|**2026-10-01**|**VETO: Video Efficient Token Optimization for Vision Language Models**|Gueter Josmy Faure et.al.|[2610.01785v1](http://arxiv.org/abs/2610.01785v1)|null|
+|**2026-10-01**|**Cog-VADU: A Training-Free Cognitive Reasoning Framework for Video Anomaly Detection and Understanding**|Mohd Ubaid Wani et.al.|[2610.01754v1](http://arxiv.org/abs/2610.01754v1)|null|
+|**2026-10-01**|**Learning PDE Dynamics between Submanifolds Using Green's Observation Operators**|Jan Tauberschmidt et.al.|[2610.01697v1](http://arxiv.org/abs/2610.01697v1)|null|
+|**2026-10-01**|**Iterative Policy Refinement through Semantic Rollout Analysis**|Feiyu Gavin Zhu et.al.|[2610.01652v1](http://arxiv.org/abs/2610.01652v1)|null|
+|**2026-10-01**|**PAGER: Partial-to-global Alignment via Geometric and Relational Distillation**|Akira-Miranda Adeyomi Adeniran-Lowe et.al.|[2610.01589v1](http://arxiv.org/abs/2610.01589v1)|null|
 |**2026-09-30**|**StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry**|Yufei Wei et.al.|[2609.40244v1](http://arxiv.org/abs/2609.40244v1)|null|
 |**2026-09-30**|**Social-WM: Safety-Aware Latent World Models for Robot Social Navigation**|Zhihao Zheng et.al.|[2609.40177v1](http://arxiv.org/abs/2609.40177v1)|null|
 |**2026-09-30**|**Reinforcement Learning-Guided Graph Transformations for SpTRSV Optimization**|Buse Yılmaz et.al.|[2609.40159v1](http://arxiv.org/abs/2609.40159v1)|null|
@@ -12242,5 +12258,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261001>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261002>back to top</a>)</p>
 

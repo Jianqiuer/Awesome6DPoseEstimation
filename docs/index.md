@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.04
+## Updated on 2026.10.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717v1](http://arxiv.org/abs/2610.03717v1)|null|
+|**2026-10-02**|**RYOPO: Bringing End-to-End Category-Level Object Pose Estimation into Real Time**|Hakjin Lee et.al.|[2610.03013v1](http://arxiv.org/abs/2610.03013v1)|null|
+|**2026-10-02**|**Kinematics-Induced Multimodal 3D Human Pose Estimation with Subject-Level Privacy**|Kaushik Bhargav Sivangi et.al.|[2610.02943v1](http://arxiv.org/abs/2610.02943v1)|null|
+|**2026-10-01**|**GRAFT: Growing Agglomerative Foundation Models via Continual Teacher Distillation**|Zhenghao Zhao et.al.|[2610.02597v1](http://arxiv.org/abs/2610.02597v1)|null|
 |**2026-10-01**|**GenCOPE: Syn2Real Generalized Category-Level Object Pose Estimation for Robotic Picking**|Jian Liu et.al.|[2610.01758v1](http://arxiv.org/abs/2610.01758v1)|null|
 |**2026-10-01**|**SonarVoxNet: Diver Detection in 3D Bounding Box using 3D Sonar**|Eugene Park et.al.|[2610.01644v1](http://arxiv.org/abs/2610.01644v1)|null|
 |**2026-10-01**|**Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models**|Xinhao Xiang et.al.|[2610.01286v1](http://arxiv.org/abs/2610.01286v1)|null|
@@ -3324,7 +3328,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-09-30**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v1](http://arxiv.org/abs/2609.40075v1)|null|
+|**2026-10-02**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v2](http://arxiv.org/abs/2609.40075v2)|null|
 |**2026-09-29**|**Context without Commitment: Robust Dense Correspondence under Non-Rigid Deformation**|Yuzhen He et.al.|[2609.37071v1](http://arxiv.org/abs/2609.37071v1)|null|
 |**2026-09-29**|**OCA: ODE-Driven Cross-Attention for Image-to-Point-Cloud Registration**|Pei An et.al.|[2609.36644v1](http://arxiv.org/abs/2609.36644v1)|null|
 |**2026-09-24**|**An Automated Georeferencing Technique for Multi-Temporal Stope Point Clouds for Downstream Geotechnical Analysis**|Dibyayan Patra et.al.|[2609.29186v1](http://arxiv.org/abs/2609.29186v1)|null|
@@ -3686,6 +3690,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403v1](http://arxiv.org/abs/2610.03403v1)|null|
 |**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[2609.02860v1](http://arxiv.org/abs/2609.02860v1)|null|
 |**2026-08-19**|**COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts**|Yanghong Lin et.al.|[2608.18479v1](http://arxiv.org/abs/2608.18479v1)|null|
 |**2026-08-12**|**Boundary-Enhanced Segmentation of Pig Point Clouds in Commercial Housing Environments**|Zhankang Xu et.al.|[2608.11697v1](http://arxiv.org/abs/2608.11697v1)|null|
@@ -3961,6 +3966,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-02**|**Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation**|Angel Wang et.al.|[2610.03662v1](http://arxiv.org/abs/2610.03662v1)|null|
+|**2026-10-02**|**Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing**|Yuxuan Hu et.al.|[2610.03570v1](http://arxiv.org/abs/2610.03570v1)|null|
+|**2026-10-02**|**ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models**|Yubo Wang et.al.|[2610.03546v1](http://arxiv.org/abs/2610.03546v1)|null|
+|**2026-10-02**|**Author Representation Strategies for Zero-Shot Authorship Attribution: A Comparative Study of LLM-Based and Embedding-Based Approaches**|Nudrat Habib et.al.|[2610.03531v1](http://arxiv.org/abs/2610.03531v1)|null|
+|**2026-10-02**|**Feedforward Novel View Synthesis for Heterogeneous Cameras**|Meng Wei et.al.|[2610.03522v1](http://arxiv.org/abs/2610.03522v1)|null|
+|**2026-10-02**|**Depth Hypothesis Guided Iterative Refinement for Event-Image Monocular Depth Estimation**|Daikun Liu et.al.|[2610.03439v1](http://arxiv.org/abs/2610.03439v1)|null|
+|**2026-10-02**|**LAS-CLIP: A Lightweight Adapter Steering Approach for CLIP's Visual Encoder**|Anh-Khoa Dinh-Duc et.al.|[2610.03370v1](http://arxiv.org/abs/2610.03370v1)|null|
+|**2026-10-02**|**Augmenting Large Audio Language Models with Low-Level Acoustic Features for Dysarthric Speech Detection**|Mahdi Amiri et.al.|[2610.03352v1](http://arxiv.org/abs/2610.03352v1)|null|
+|**2026-10-02**|**To Jev or Not? Evaluating the Accuracy and Efficiency of Structured Decision Models for Hate-Speech Moderation**|Demetris Paschalides et.al.|[2610.03324v1](http://arxiv.org/abs/2610.03324v1)|null|
+|**2026-10-02**|**Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS**|Nityanand Mathur et.al.|[2610.03320v1](http://arxiv.org/abs/2610.03320v1)|null|
 |**2026-10-01**|**Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination**|Suyu Ye et.al.|[2610.02170v1](http://arxiv.org/abs/2610.02170v1)|null|
 |**2026-10-01**|**A Comparative Explainability Framework for DeBERTa-v3 in Zero-Shot Medical Abstract Classification**|Javier Diaz Esteban-Herreros et.al.|[2610.02116v1](http://arxiv.org/abs/2610.02116v1)|null|
 |**2026-10-01**|**Foundations without Fundamentals: Zero-Shot Blind Spots in Time Series FMs**|Nafiseh Ghoroghchian et.al.|[2610.02058v1](http://arxiv.org/abs/2610.02058v1)|null|

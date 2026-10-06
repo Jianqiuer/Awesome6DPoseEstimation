@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.10.05
+## Updated on 2026.10.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423v1](http://arxiv.org/abs/2610.06423v1)|null|
+|**2026-10-05**|**MagServo: Uncertainty-Resilient Hierarchical Magnetic Servoing via Learned Latent Representations**|Yuhan Tan et.al.|[2610.06046v1](http://arxiv.org/abs/2610.06046v1)|null|
+|**2026-10-04**|**EMG-GPT: Predictive Pretraining on Residual-Quantized EMG Tokens for Hand Pose Estimation**|Ettore Magni et.al.|[2610.05235v1](http://arxiv.org/abs/2610.05235v1)|null|
+|**2026-10-04**|**VICON: Visual-Inertial-Contact based Hand-Object Tracking for Manipulation Datasets**|Yubin Jeon et.al.|[2610.05180v1](http://arxiv.org/abs/2610.05180v1)|null|
+|**2026-10-04**|**FreeLoc: Online Floorplan Localization via Diffusion-Aided Pose Refinement**|Haocheng Peng et.al.|[2610.05011v1](http://arxiv.org/abs/2610.05011v1)|null|
+|**2026-10-03**|**Synthetic-to-Real ViT-Based Pose Estimation of a Noncooperative UAV**|Krishnanujam Srinivas et.al.|[2610.04335v1](http://arxiv.org/abs/2610.04335v1)|null|
 |**2026-10-02**|**Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis**|Keerthi Kaashyap et.al.|[2610.03717v1](http://arxiv.org/abs/2610.03717v1)|null|
 |**2026-10-02**|**RYOPO: Bringing End-to-End Category-Level Object Pose Estimation into Real Time**|Hakjin Lee et.al.|[2610.03013v1](http://arxiv.org/abs/2610.03013v1)|null|
 |**2026-10-02**|**Kinematics-Induced Multimodal 3D Human Pose Estimation with Subject-Level Privacy**|Kaushik Bhargav Sivangi et.al.|[2610.02943v1](http://arxiv.org/abs/2610.02943v1)|null|
@@ -3966,6 +3972,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829v1](http://arxiv.org/abs/2610.06829v1)|null|
+|**2026-10-05**|**MatrixFormer: A Foundation Model for Matrix Completion**|Dwaipayan Saha et.al.|[2610.06751v1](http://arxiv.org/abs/2610.06751v1)|null|
+|**2026-10-05**|**Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models**|Jinglin He et.al.|[2610.06603v1](http://arxiv.org/abs/2610.06603v1)|null|
+|**2026-10-05**|**FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops**|Abdoul Djalil Ousseini Hamza et.al.|[2610.06575v1](http://arxiv.org/abs/2610.06575v1)|null|
+|**2026-10-05**|**ArtifactArena: Evaluating Models by What They Build in the Physical World**|Kushagra Tiwary* et.al.|[2610.06511v1](http://arxiv.org/abs/2610.06511v1)|null|
+|**2026-10-05**|**MarvisNav: Making Memory Visible on Route Choices for Zero-Shot Object Navigation**|Jincheng Wang et.al.|[2610.06510v1](http://arxiv.org/abs/2610.06510v1)|null|
+|**2026-10-05**|**NeuroCBIR: A Fast and Accurate Image Retrieval System for Whole-Brain and Region-Specific MRI**|Felix Nieto-del-Amor et.al.|[2610.06502v1](http://arxiv.org/abs/2610.06502v1)|null|
+|**2026-10-05**|**Time-series Foundation Models for Predictive Control: The Role of Excitation**|Mazen Amria et.al.|[2610.06447v1](http://arxiv.org/abs/2610.06447v1)|null|
+|**2026-10-05**|**Breaking Bureaucracy: Evaluating open-source LLMs for legal document review**|Farrukh Baratov et.al.|[2610.06345v1](http://arxiv.org/abs/2610.06345v1)|null|
+|**2026-10-05**|**LeAVJEPA: A Minimalist Architecture for Audio-Visual Self-Supervised Learning**|Benjamin Robson et.al.|[2610.06226v1](http://arxiv.org/abs/2610.06226v1)|null|
 |**2026-10-02**|**Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation**|Angel Wang et.al.|[2610.03662v1](http://arxiv.org/abs/2610.03662v1)|null|
 |**2026-10-02**|**Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing**|Yuxuan Hu et.al.|[2610.03570v1](http://arxiv.org/abs/2610.03570v1)|null|
 |**2026-10-02**|**ZeroMAG: Zero-Shot Multimodal Adapter Generation for Plug-and-Play EEG Foundation Models**|Yubo Wang et.al.|[2610.03546v1](http://arxiv.org/abs/2610.03546v1)|null|

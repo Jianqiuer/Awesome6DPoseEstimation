@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly**|Zhiyuan Qi et.al.|[2610.08446v1](http://arxiv.org/abs/2610.08446v1)|null|
+|**2026-10-06**|**AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions**|Sergei Kurchev et.al.|[2610.08119v1](http://arxiv.org/abs/2610.08119v1)|null|
+|**2026-10-06**|**Neuromotor Hierarchy Network: Physiological Inductive Biases for Robust Generalization in sEMG Decoding**|He Wang et.al.|[2610.07713v1](http://arxiv.org/abs/2610.07713v1)|null|
+|**2026-10-05**|**SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation**|Mohammed Ibrahim M et.al.|[2610.07472v1](http://arxiv.org/abs/2610.07472v1)|null|
+|**2026-10-05**|**Monocular Navigation Relative to Unknown Spacecraft Using a Transformer-Aided Kalman Filter**|Pol Francesch Huc et.al.|[2610.07231v1](http://arxiv.org/abs/2610.07231v1)|null|
+|**2026-10-04**|**WiSPER: Pose-Supervised Predictive and Residual Flow Refinement For Multi-Person 3D Pose Estimation With WiFi CSI**|Gabriel Lee Jun Rong et.al.|[2610.07025v1](http://arxiv.org/abs/2610.07025v1)|null|
 |**2026-10-05**|**Toward Reliable Infant Pose Estimation: A Training-Dynamics Approach to Noisy Annotation Detection**|Emanuele Cardinale et.al.|[2610.06423v1](http://arxiv.org/abs/2610.06423v1)|null|
 |**2026-10-05**|**MagServo: Uncertainty-Resilient Hierarchical Magnetic Servoing via Learned Latent Representations**|Yuhan Tan et.al.|[2610.06046v1](http://arxiv.org/abs/2610.06046v1)|null|
 |**2026-10-04**|**EMG-GPT: Predictive Pretraining on Residual-Quantized EMG Tokens for Hand Pose Estimation**|Ettore Magni et.al.|[2610.05235v1](http://arxiv.org/abs/2610.05235v1)|null|
@@ -3334,6 +3340,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts**|Yuezhe Zhang et.al.|[2610.07793v1](http://arxiv.org/abs/2610.07793v1)|null|
 |**2026-10-02**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v2](http://arxiv.org/abs/2609.40075v2)|null|
 |**2026-09-29**|**Context without Commitment: Robust Dense Correspondence under Non-Rigid Deformation**|Yuzhen He et.al.|[2609.37071v1](http://arxiv.org/abs/2609.37071v1)|null|
 |**2026-09-29**|**OCA: ODE-Driven Cross-Attention for Image-to-Point-Cloud Registration**|Pei An et.al.|[2609.36644v1](http://arxiv.org/abs/2609.36644v1)|null|
@@ -3972,6 +3979,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789v1](http://arxiv.org/abs/2610.08789v1)|null|
+|**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775v1](http://arxiv.org/abs/2610.08775v1)|null|
+|**2026-10-06**|**Micro Neural Policies for Safe Real-Time Robotic Control**|Hongpeng Cao et.al.|[2610.08541v1](http://arxiv.org/abs/2610.08541v1)|null|
+|**2026-10-06**|**Cylindrical Geodesic Flow Matching for Quasiperiodic Physiological Signal Transformation**|Onur Selim Kilic et.al.|[2610.08510v1](http://arxiv.org/abs/2610.08510v1)|null|
+|**2026-10-06**|**AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly**|Zhiyuan Qi et.al.|[2610.08446v1](http://arxiv.org/abs/2610.08446v1)|null|
+|**2026-10-06**|**Knowing When Not to Answer: Cross-Domain and Multi-Turn Generalization of Latent Underspecification Signals**|Jerzy Kamiński et.al.|[2610.08413v1](http://arxiv.org/abs/2610.08413v1)|null|
+|**2026-10-06**|**Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior**|Zhibo Deng et.al.|[2610.08328v1](http://arxiv.org/abs/2610.08328v1)|null|
+|**2026-10-06**|**Sensor-Layout-Agnostic Navigation via Geometric Observation Canonicalization**|Welf Rehberg et.al.|[2610.08306v1](http://arxiv.org/abs/2610.08306v1)|null|
+|**2026-10-06**|**Whose Face Is It Anyway? A Multi-Model Audit of Facial Affect Recognition on Children, and Why the Gap Is the Head, Not the Features**|Tobias Hallmen et.al.|[2610.08279v1](http://arxiv.org/abs/2610.08279v1)|null|
+|**2026-10-06**|**Sensor-Language-Action Models**|Yuekai Xu et.al.|[2610.08244v1](http://arxiv.org/abs/2610.08244v1)|null|
 |**2026-10-05**|**CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling**|Yifan Zhang et.al.|[2610.06829v1](http://arxiv.org/abs/2610.06829v1)|null|
 |**2026-10-05**|**MatrixFormer: A Foundation Model for Matrix Completion**|Dwaipayan Saha et.al.|[2610.06751v1](http://arxiv.org/abs/2610.06751v1)|null|
 |**2026-10-05**|**Word-Level Text Unmixing via Evidence-Preserving Ownership Routing with Language Models**|Jinglin He et.al.|[2610.06603v1](http://arxiv.org/abs/2610.06603v1)|null|

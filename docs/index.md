@@ -2,14 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery**|Chen Xu et.al.|[2610.10512v1](http://arxiv.org/abs/2610.10512v1)|null|
+|**2026-10-07**|**WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation**|Yulin Wang et.al.|[2610.09535v1](http://arxiv.org/abs/2610.09535v1)|null|
+|**2026-10-07**|**KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization**|Mengxin Zhang et.al.|[2610.09534v1](http://arxiv.org/abs/2610.09534v1)|null|
+|**2026-10-07**|**RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning**|Seungjun Moon et.al.|[2610.09455v1](http://arxiv.org/abs/2610.09455v1)|null|
 |**2026-10-06**|**AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly**|Zhiyuan Qi et.al.|[2610.08446v1](http://arxiv.org/abs/2610.08446v1)|null|
 |**2026-10-06**|**AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions**|Sergei Kurchev et.al.|[2610.08119v1](http://arxiv.org/abs/2610.08119v1)|null|
-|**2026-10-06**|**Neuromotor Hierarchy Network: Physiological Inductive Biases for Robust Generalization in sEMG Decoding**|He Wang et.al.|[2610.07713v1](http://arxiv.org/abs/2610.07713v1)|null|
+|**2026-10-07**|**Neuromotor Hierarchy Network: Physiological Inductive Biases for Robust Generalization in sEMG Decoding**|He Wang et.al.|[2610.07713v2](http://arxiv.org/abs/2610.07713v2)|null|
 |**2026-10-05**|**SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation**|Mohammed Ibrahim M et.al.|[2610.07472v1](http://arxiv.org/abs/2610.07472v1)|null|
 |**2026-10-05**|**Monocular Navigation Relative to Unknown Spacecraft Using a Transformer-Aided Kalman Filter**|Pol Francesch Huc et.al.|[2610.07231v1](http://arxiv.org/abs/2610.07231v1)|null|
 |**2026-10-04**|**WiSPER: Pose-Supervised Predictive and Residual Flow Refinement For Multi-Person 3D Pose Estimation With WiFi CSI**|Gabriel Lee Jun Rong et.al.|[2610.07025v1](http://arxiv.org/abs/2610.07025v1)|null|
@@ -3979,6 +3983,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534v1](http://arxiv.org/abs/2610.10534v1)|null|
+|**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Mikey Watts et.al.|[2610.10526v1](http://arxiv.org/abs/2610.10526v1)|null|
+|**2026-10-07**|**RoboJEPA: Scaling Robotic Latent World Models**|Artem Zholus et.al.|[2610.10515v1](http://arxiv.org/abs/2610.10515v1)|null|
+|**2026-10-07**|**RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing**|Yilun Hao et.al.|[2610.10507v1](http://arxiv.org/abs/2610.10507v1)|null|
+|**2026-10-07**|**EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution**|Python Song et.al.|[2610.10498v1](http://arxiv.org/abs/2610.10498v1)|null|
+|**2026-10-07**|**QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation**|Yucheng Mao et.al.|[2610.10497v1](http://arxiv.org/abs/2610.10497v1)|null|
+|**2026-10-07**|**Performance at What Cost? A Sustainability-Aware Performance Index for Cell and Nucleus Instance Segmentation**|Eiram Mahera Sheikh et.al.|[2610.10324v1](http://arxiv.org/abs/2610.10324v1)|null|
+|**2026-10-07**|**Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains**|Ammar Issa et.al.|[2610.10297v1](http://arxiv.org/abs/2610.10297v1)|null|
+|**2026-10-07**|**TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning**|Dayou Li et.al.|[2610.10288v1](http://arxiv.org/abs/2610.10288v1)|null|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270v1](http://arxiv.org/abs/2610.10270v1)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789v1](http://arxiv.org/abs/2610.08789v1)|null|
 |**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775v1](http://arxiv.org/abs/2610.08775v1)|null|
 |**2026-10-06**|**Micro Neural Policies for Safe Real-Time Robotic Control**|Hongpeng Cao et.al.|[2610.08541v1](http://arxiv.org/abs/2610.08541v1)|null|

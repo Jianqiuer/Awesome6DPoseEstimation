@@ -1,4 +1,4 @@
-## Updated on 2026.10.07
+## Updated on 2026.10.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery**|Chen Xu et.al.|[2610.10512v1](http://arxiv.org/abs/2610.10512v1)|null|
+|**2026-10-07**|**WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation**|Yulin Wang et.al.|[2610.09535v1](http://arxiv.org/abs/2610.09535v1)|null|
+|**2026-10-07**|**KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization**|Mengxin Zhang et.al.|[2610.09534v1](http://arxiv.org/abs/2610.09534v1)|null|
+|**2026-10-07**|**RLHND: Video Foundation Models as Physically Grounded Hand Trackers for Robot Learning**|Seungjun Moon et.al.|[2610.09455v1](http://arxiv.org/abs/2610.09455v1)|null|
 |**2026-10-06**|**AssemState: Manual and Physical-State-Guided Reasoning for Zero-shot Furniture Assembly**|Zhiyuan Qi et.al.|[2610.08446v1](http://arxiv.org/abs/2610.08446v1)|null|
 |**2026-10-06**|**AutodidactWAM: Cross-Modal Self-Distillation from Generated Video to Robot Actions**|Sergei Kurchev et.al.|[2610.08119v1](http://arxiv.org/abs/2610.08119v1)|null|
-|**2026-10-06**|**Neuromotor Hierarchy Network: Physiological Inductive Biases for Robust Generalization in sEMG Decoding**|He Wang et.al.|[2610.07713v1](http://arxiv.org/abs/2610.07713v1)|null|
+|**2026-10-07**|**Neuromotor Hierarchy Network: Physiological Inductive Biases for Robust Generalization in sEMG Decoding**|He Wang et.al.|[2610.07713v2](http://arxiv.org/abs/2610.07713v2)|null|
 |**2026-10-05**|**SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation**|Mohammed Ibrahim M et.al.|[2610.07472v1](http://arxiv.org/abs/2610.07472v1)|null|
 |**2026-10-05**|**Monocular Navigation Relative to Unknown Spacecraft Using a Transformer-Aided Kalman Filter**|Pol Francesch Huc et.al.|[2610.07231v1](http://arxiv.org/abs/2610.07231v1)|null|
 |**2026-10-04**|**WiSPER: Pose-Supervised Predictive and Residual Flow Refinement For Multi-Person 3D Pose Estimation With WiFi CSI**|Gabriel Lee Jun Rong et.al.|[2610.07025v1](http://arxiv.org/abs/2610.07025v1)|null|
@@ -3342,7 +3346,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3707,7 +3711,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -3985,12 +3989,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534v1](http://arxiv.org/abs/2610.10534v1)|null|
+|**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Mikey Watts et.al.|[2610.10526v1](http://arxiv.org/abs/2610.10526v1)|null|
+|**2026-10-07**|**RoboJEPA: Scaling Robotic Latent World Models**|Artem Zholus et.al.|[2610.10515v1](http://arxiv.org/abs/2610.10515v1)|null|
+|**2026-10-07**|**RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing**|Yilun Hao et.al.|[2610.10507v1](http://arxiv.org/abs/2610.10507v1)|null|
+|**2026-10-07**|**EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution**|Python Song et.al.|[2610.10498v1](http://arxiv.org/abs/2610.10498v1)|null|
+|**2026-10-07**|**QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation**|Yucheng Mao et.al.|[2610.10497v1](http://arxiv.org/abs/2610.10497v1)|null|
+|**2026-10-07**|**Performance at What Cost? A Sustainability-Aware Performance Index for Cell and Nucleus Instance Segmentation**|Eiram Mahera Sheikh et.al.|[2610.10324v1](http://arxiv.org/abs/2610.10324v1)|null|
+|**2026-10-07**|**Energy-Efficient Gait Adaptation via Hierarchical Reinforcement Learning for Quadrupedal Locomotion Across Diverse Terrains**|Ammar Issa et.al.|[2610.10297v1](http://arxiv.org/abs/2610.10297v1)|null|
+|**2026-10-07**|**TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning**|Dayou Li et.al.|[2610.10288v1](http://arxiv.org/abs/2610.10288v1)|null|
+|**2026-10-07**|**Video Prediction Policy 2: Predict Better, Act Better**|Yanjiang Guo et.al.|[2610.10270v1](http://arxiv.org/abs/2610.10270v1)|null|
 |**2026-10-06**|**QF3: Fast Flow RL with Filtered Q-Gradients**|Chung Min Kim et.al.|[2610.08789v1](http://arxiv.org/abs/2610.08789v1)|null|
 |**2026-10-06**|**Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?**|Ankit Sonthalia et.al.|[2610.08775v1](http://arxiv.org/abs/2610.08775v1)|null|
 |**2026-10-06**|**Micro Neural Policies for Safe Real-Time Robotic Control**|Hongpeng Cao et.al.|[2610.08541v1](http://arxiv.org/abs/2610.08541v1)|null|
@@ -12306,5 +12320,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261007>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261008>back to top</a>)</p>
 

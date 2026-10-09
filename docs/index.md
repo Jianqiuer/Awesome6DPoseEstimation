@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967v1](http://arxiv.org/abs/2610.11967v1)|null|
+|**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857v1](http://arxiv.org/abs/2610.11857v1)|null|
+|**2026-10-08**|**Fast Pose Tracking of Rigid Objects with Compact Pose Graph Optimization**|Xiaojie Zhang et.al.|[2610.11815v1](http://arxiv.org/abs/2610.11815v1)|null|
+|**2026-10-08**|**Distributed Relative Localization for Homogeneous Multi-Robot Systems through UWB Ranging and Limited Communications**|Zhiqiang Cao et.al.|[2610.11308v1](http://arxiv.org/abs/2610.11308v1)|null|
+|**2026-10-07**|**LVSPM: Long Sequence View Synthesis and Pose Estimation Model**|Xi Chen et.al.|[2610.10960v1](http://arxiv.org/abs/2610.10960v1)|null|
 |**2026-10-07**|**Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery**|Chen Xu et.al.|[2610.10512v1](http://arxiv.org/abs/2610.10512v1)|null|
 |**2026-10-07**|**WAPR: A Foundation Model for Wide-Angle Refinement in Unseen Object Pose Estimation**|Yulin Wang et.al.|[2610.09535v1](http://arxiv.org/abs/2610.09535v1)|null|
 |**2026-10-07**|**KASALv2: Fully Automatic 3D Rotational Symmetry Classification and Axis Localization**|Mengxin Zhang et.al.|[2610.09534v1](http://arxiv.org/abs/2610.09534v1)|null|
@@ -3344,6 +3349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612v1](http://arxiv.org/abs/2610.11612v1)|null|
 |**2026-10-06**|**Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts**|Yuezhe Zhang et.al.|[2610.07793v1](http://arxiv.org/abs/2610.07793v1)|null|
 |**2026-10-02**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v2](http://arxiv.org/abs/2609.40075v2)|null|
 |**2026-09-29**|**Context without Commitment: Robust Dense Correspondence under Non-Rigid Deformation**|Yuzhen He et.al.|[2609.37071v1](http://arxiv.org/abs/2609.37071v1)|null|
@@ -3707,6 +3713,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011v1](http://arxiv.org/abs/2610.11011v1)|null|
 |**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403v1](http://arxiv.org/abs/2610.03403v1)|null|
 |**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[2609.02860v1](http://arxiv.org/abs/2609.02860v1)|null|
 |**2026-08-19**|**COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts**|Yanghong Lin et.al.|[2608.18479v1](http://arxiv.org/abs/2608.18479v1)|null|
@@ -3983,6 +3990,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470v1](http://arxiv.org/abs/2610.12470v1)|null|
+|**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465v1](http://arxiv.org/abs/2610.12465v1)|null|
+|**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Mert Albaba et.al.|[2610.12435v1](http://arxiv.org/abs/2610.12435v1)|null|
+|**2026-10-08**|**ARC: A Reasoning Recipe for Robot Foundation Models**|Gokul Puthumanaillam et.al.|[2610.12386v1](http://arxiv.org/abs/2610.12386v1)|null|
+|**2026-10-08**|**RiCo: Neural Simulation of Rigid-Body Interactions via Local Contact Reasoning**|Ruixiang Ouyang et.al.|[2610.12333v1](http://arxiv.org/abs/2610.12333v1)|null|
+|**2026-10-08**|**PLaW-VLA: Predictive Latent World Modeling for Vision-Language-Action Policies**|Yu Liu et.al.|[2610.12285v1](http://arxiv.org/abs/2610.12285v1)|null|
+|**2026-10-08**|**EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams**|Heeseung Kim et.al.|[2610.12248v1](http://arxiv.org/abs/2610.12248v1)|null|
+|**2026-10-08**|**AdaCast: Conditional Parameter Generation for Adaptive Time Series Forecasting**|Darahaas Nallagatla et.al.|[2610.12240v1](http://arxiv.org/abs/2610.12240v1)|null|
+|**2026-10-08**|**Sim-to-Real RL for ASVs using SysID**|Cody Sheltraw et.al.|[2610.12202v1](http://arxiv.org/abs/2610.12202v1)|null|
+|**2026-10-08**|**Specialized machine learning force fields for materials dynamics**|Yue Wu et.al.|[2610.12151v1](http://arxiv.org/abs/2610.12151v1)|null|
 |**2026-10-07**|**RoboPrompt: Intuitive Robot Policy Steering with Sparse Human Input**|Yanwen Zou et.al.|[2610.10534v1](http://arxiv.org/abs/2610.10534v1)|null|
 |**2026-10-07**|**Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models**|Mikey Watts et.al.|[2610.10526v1](http://arxiv.org/abs/2610.10526v1)|null|
 |**2026-10-07**|**RoboJEPA: Scaling Robotic Latent World Models**|Artem Zholus et.al.|[2610.10515v1](http://arxiv.org/abs/2610.10515v1)|null|

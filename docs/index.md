@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.11
+## Updated on 2026.10.12
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation**|Hajira Amjad et.al.|[2610.13849v1](http://arxiv.org/abs/2610.13849v1)|null|
+|**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309v1](http://arxiv.org/abs/2610.13309v1)|null|
+|**2026-10-08**|**Reference-Free Food Volume Estimation from Egocentric Stereo Video**|Vivan Kumar et.al.|[2610.12735v1](http://arxiv.org/abs/2610.12735v1)|null|
+|**2026-10-08**|**MIRAGE: Metric Inference and Reliability-Aware Gaussian Estimation from Feed-Forward Vision**|Xinzhe Wang et.al.|[2610.12568v1](http://arxiv.org/abs/2610.12568v1)|null|
 |**2026-10-08**|**Learning Which Correspondences to Trust: Confidence-Weighted Event-Camera Localization in LiDAR Maps**|Panagiotis Kiousis et.al.|[2610.11967v1](http://arxiv.org/abs/2610.11967v1)|null|
 |**2026-10-08**|**Pose-Free Feed-Forward 3D Inpainting via Learnable Mask Attention and Support Token Refinement**|Jingyi Pan et.al.|[2610.11857v1](http://arxiv.org/abs/2610.11857v1)|null|
 |**2026-10-08**|**Fast Pose Tracking of Rigid Objects with Compact Pose Graph Optimization**|Xiaojie Zhang et.al.|[2610.11815v1](http://arxiv.org/abs/2610.11815v1)|null|
@@ -3349,6 +3353,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624v1](http://arxiv.org/abs/2610.12624v1)|null|
 |**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612v1](http://arxiv.org/abs/2610.11612v1)|null|
 |**2026-10-06**|**Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts**|Yuezhe Zhang et.al.|[2610.07793v1](http://arxiv.org/abs/2610.07793v1)|null|
 |**2026-10-02**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v2](http://arxiv.org/abs/2609.40075v2)|null|
@@ -3990,6 +3995,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-09**|**OpenPA: Forced-alignment-free Multi-granular Pronunciation Assessment with Mixed-transcript Adaptation**|Fu-An Chao et.al.|[2610.13826v1](http://arxiv.org/abs/2610.13826v1)|null|
+|**2026-10-09**|**UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes**|Nazar Andrushko et.al.|[2610.13783v1](http://arxiv.org/abs/2610.13783v1)|null|
+|**2026-10-09**|**DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs**|Mahsa Salmani et.al.|[2610.13767v1](http://arxiv.org/abs/2610.13767v1)|null|
+|**2026-10-09**|**Enhancing Legal Reasoning in Pre-trained Language Models via Knowledge Graph-Guided Multi-Task Pre-training**|Ibrahim Siddig et.al.|[2610.13722v1](http://arxiv.org/abs/2610.13722v1)|null|
+|**2026-10-09**|**Improving Semantic Coverage in AI Test & Evaluation through Generative Augmentation**|Connor Hashemi et.al.|[2610.13697v1](http://arxiv.org/abs/2610.13697v1)|null|
+|**2026-10-09**|**On the Encoding of Calendar Features in Covariate-Informed Time Series Foundation Models**|Alexander Kreusel et.al.|[2610.13676v1](http://arxiv.org/abs/2610.13676v1)|null|
+|**2026-10-09**|**In-Context Learning for System Identification: Probabilistic Formulation, Long-Sequence Handling, and Benchmark Validation**|Matteo Rufolo et.al.|[2610.13411v1](http://arxiv.org/abs/2610.13411v1)|null|
+|**2026-10-09**|**FPD-Drive: Future Policy Distillation for End-to-End Autonomous Driving**|Li-Heng Chen et.al.|[2610.13232v1](http://arxiv.org/abs/2610.13232v1)|null|
+|**2026-10-09**|**High-Throughput Generative Video Super-Resolution on a Single Consumer GPU**|Georgios Panaretou et.al.|[2610.13179v1](http://arxiv.org/abs/2610.13179v1)|null|
+|**2026-10-09**|**Double-Take: Improving Capacity, Binding, and Selectivity In Long-Context Within Bidirectional Memory**|Vakul Raghavan et.al.|[2610.13073v1](http://arxiv.org/abs/2610.13073v1)|null|
 |**2026-10-08**|**Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration**|Jusuk Lee et.al.|[2610.12470v1](http://arxiv.org/abs/2610.12470v1)|null|
 |**2026-10-08**|**A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control**|Octi Zhang et.al.|[2610.12465v1](http://arxiv.org/abs/2610.12465v1)|null|
 |**2026-10-08**|**VioLA: Learning Generalist Humanoid Control Policies from Human Data**|Mert Albaba et.al.|[2610.12435v1](http://arxiv.org/abs/2610.12435v1)|null|

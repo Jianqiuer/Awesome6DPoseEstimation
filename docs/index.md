@@ -2,11 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.10.13
+## Updated on 2026.10.14
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World**|Mengchen Zhang et.al.|[2610.18846v1](http://arxiv.org/abs/2610.18846v1)|null|
+|**2026-10-13**|**SchemaPose: RGB-Based Category-Level Pose Estimation with Parametric Category Schema**|Shuang Wu et.al.|[2610.18374v1](http://arxiv.org/abs/2610.18374v1)|null|
+|**2026-10-12**|**DIME: Scaling Facial Representation Learning via Differential Masked Autoencoding**|Hao Yu et.al.|[2610.17015v1](http://arxiv.org/abs/2610.17015v1)|null|
+|**2026-10-12**|**Auditing Observation-Quality Shortcuts in the Evaluation of Person-Centered Motion for Video Anomaly Detection**|Chaehyun Kim et.al.|[2610.16471v1](http://arxiv.org/abs/2610.16471v1)|null|
+|**2026-10-12**|**Graph3R: Unifying View Graph Initialization with Feed-Forward Reconstruction**|Jingwen Yu et.al.|[2610.16272v1](http://arxiv.org/abs/2610.16272v1)|null|
+|**2026-10-11**|**ScenePlacer: Reformulating Scene-Level Object Pose Estimation as Visibility Field Learning**|Ken Deng et.al.|[2610.15734v1](http://arxiv.org/abs/2610.15734v1)|null|
+|**2026-10-11**|**ASM-6D: Fast Certified Pose-Shape Inference with Complete Correspondence Flow Maps**|Ho Jin Choi et.al.|[2610.15287v1](http://arxiv.org/abs/2610.15287v1)|null|
+|**2026-10-10**|**FoundationVIO: Enforcing Metric Scale in Feed-forward Visual-Inertial Odometry**|Jin Rhee et.al.|[2610.14951v1](http://arxiv.org/abs/2610.14951v1)|null|
+|**2026-10-10**|**DSR-Net: Learning Dynamic Skeletal Relations for 3D Human Pose Estimation**|Fan Li et.al.|[2610.14499v1](http://arxiv.org/abs/2610.14499v1)|null|
 |**2026-10-09**|**HorizonNav: Geometry-Guided Video Diffusion for Anticipatory 3D Robot Navigation**|Hajira Amjad et.al.|[2610.13849v1](http://arxiv.org/abs/2610.13849v1)|null|
 |**2026-10-09**|**NovaSplat: Model-Free 6D Object Pose Estimation via 3D Gaussian Splatting Onboarding and Refinement**|Georgios Floros et.al.|[2610.13309v1](http://arxiv.org/abs/2610.13309v1)|null|
 |**2026-10-08**|**Reference-Free Food Volume Estimation from Egocentric Stereo Video**|Vivan Kumar et.al.|[2610.12735v1](http://arxiv.org/abs/2610.12735v1)|null|
@@ -3356,7 +3365,7 @@ layout: default
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624v1](http://arxiv.org/abs/2610.12624v1)|null|
 |**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612v1](http://arxiv.org/abs/2610.11612v1)|null|
 |**2026-10-06**|**Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts**|Yuezhe Zhang et.al.|[2610.07793v1](http://arxiv.org/abs/2610.07793v1)|null|
-|**2026-10-02**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v2](http://arxiv.org/abs/2609.40075v2)|null|
+|**2026-10-12**|**Accelerated Algorithm for Sparse Regularized Partial Optimal Transport**|Khoa Nguyen et.al.|[2609.40075v3](http://arxiv.org/abs/2609.40075v3)|null|
 |**2026-09-29**|**Context without Commitment: Robust Dense Correspondence under Non-Rigid Deformation**|Yuzhen He et.al.|[2609.37071v1](http://arxiv.org/abs/2609.37071v1)|null|
 |**2026-09-29**|**OCA: ODE-Driven Cross-Attention for Image-to-Point-Cloud Registration**|Pei An et.al.|[2609.36644v1](http://arxiv.org/abs/2609.36644v1)|null|
 |**2026-09-24**|**An Automated Georeferencing Technique for Multi-Temporal Stope Point Clouds for Downstream Geotechnical Analysis**|Dibyayan Patra et.al.|[2609.29186v1](http://arxiv.org/abs/2609.29186v1)|null|
@@ -3995,6 +4004,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-13**|**Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs**|Divyanshu Bathla et.al.|[2610.18818v1](http://arxiv.org/abs/2610.18818v1)|null|
+|**2026-10-13**|**Depth Memory**|David González-Martínez et.al.|[2610.18809v1](http://arxiv.org/abs/2610.18809v1)|null|
+|**2026-10-13**|**GreenWAM: A World Foundation Model for Robotics**|Gennady Sidorov et.al.|[2610.18774v1](http://arxiv.org/abs/2610.18774v1)|null|
+|**2026-10-13**|**Known-Voice Cloning and the Limits of Personality Transfer for Character Design**|Johanna Magdalena Kuch et.al.|[2610.18669v1](http://arxiv.org/abs/2610.18669v1)|null|
+|**2026-10-13**|**Tiny Recursive Message Passing**|Tommaso Salvatori et.al.|[2610.18649v1](http://arxiv.org/abs/2610.18649v1)|null|
+|**2026-10-13**|**Beyond Answer Voting: Fine-Grained Correction of LLM Reasoning through Graph Alignment across Sampled Traces**|Haotian Liu et.al.|[2610.18606v1](http://arxiv.org/abs/2610.18606v1)|null|
+|**2026-10-13**|**LLM2R: From Large Language Models to 3D Reassemblers**|Zhouhan Zhong et.al.|[2610.18604v1](http://arxiv.org/abs/2610.18604v1)|null|
+|**2026-10-13**|**Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography**|Parth Giramkar et.al.|[2610.18556v1](http://arxiv.org/abs/2610.18556v1)|null|
+|**2026-10-13**|**ProTok: Unified Protein Tokenization via Modular Multi-Codebook Quantization**|Romain Hardy et.al.|[2610.18481v1](http://arxiv.org/abs/2610.18481v1)|null|
+|**2026-10-13**|**Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes**|Yu Wang et.al.|[2610.18356v1](http://arxiv.org/abs/2610.18356v1)|null|
 |**2026-10-09**|**OpenPA: Forced-alignment-free Multi-granular Pronunciation Assessment with Mixed-transcript Adaptation**|Fu-An Chao et.al.|[2610.13826v1](http://arxiv.org/abs/2610.13826v1)|null|
 |**2026-10-09**|**UkrMeme: Multimodal Explainable Persuasion Detection in Ukrainian Memes**|Nazar Andrushko et.al.|[2610.13783v1](http://arxiv.org/abs/2610.13783v1)|null|
 |**2026-10-09**|**DualQuant: Dual-scale Calibration-free Weight-and-Activation Quantization for LLMs**|Mahsa Salmani et.al.|[2610.13767v1](http://arxiv.org/abs/2610.13767v1)|null|

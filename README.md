@@ -1,4 +1,4 @@
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674v1](http://arxiv.org/abs/2610.19674v1)|null|
+|**2026-10-14**|**Robust Real-Time Monocular Human Pose Estimation with Insole-Based Sensor Fusion**|Liang Yu et.al.|[2610.19494v1](http://arxiv.org/abs/2610.19494v1)|null|
+|**2026-10-14**|**IMU-Bench: Benchmarking Wrist IMU Representations Across Kinematic, Semantic and Clinical Tasks**|Yiquan Li et.al.|[2610.19481v1](http://arxiv.org/abs/2610.19481v1)|null|
 |**2026-10-13**|**WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World**|Mengchen Zhang et.al.|[2610.18846v1](http://arxiv.org/abs/2610.18846v1)|null|
 |**2026-10-13**|**SchemaPose: RGB-Based Category-Level Pose Estimation with Parametric Category Schema**|Shuang Wu et.al.|[2610.18374v1](http://arxiv.org/abs/2610.18374v1)|null|
 |**2026-10-12**|**DIME: Scaling Facial Representation Learning via Differential Masked Autoencoding**|Hao Yu et.al.|[2610.17015v1](http://arxiv.org/abs/2610.17015v1)|null|
@@ -3364,7 +3367,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3731,12 +3734,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation**|Konan Sasaki et.al.|[2610.19530v1](http://arxiv.org/abs/2610.19530v1)|null|
 |**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011v1](http://arxiv.org/abs/2610.11011v1)|null|
 |**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403v1](http://arxiv.org/abs/2610.03403v1)|null|
 |**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[2609.02860v1](http://arxiv.org/abs/2609.02860v1)|null|
@@ -4010,12 +4014,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[2610.20388v1](http://arxiv.org/abs/2610.20388v1)|null|
+|**2026-10-14**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327v1](http://arxiv.org/abs/2610.20327v1)|null|
+|**2026-10-14**|**HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation**|Hongyu Ding et.al.|[2610.20121v1](http://arxiv.org/abs/2610.20121v1)|null|
+|**2026-10-14**|**What Do Foundation Models for Market Microstructure Learn? A Controlled Study with Synthetic Limit Order Books**|Fernando Acero et.al.|[2610.20104v1](http://arxiv.org/abs/2610.20104v1)|null|
+|**2026-10-14**|**A Strong Harness Narrows the Model Gap: A Comparative Evaluation for Legislative Document-to-XML Conversion**|Palvika Bansal et.al.|[2610.19999v1](http://arxiv.org/abs/2610.19999v1)|null|
+|**2026-10-14**|**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**|Dekun Chen et.al.|[2610.19774v1](http://arxiv.org/abs/2610.19774v1)|null|
+|**2026-10-14**|**Physics-Shaped, Not Physical: Auditing Physics-Guided Underwater Image Restoration**|Mochamad Rizal Fauzan et.al.|[2610.19763v1](http://arxiv.org/abs/2610.19763v1)|null|
+|**2026-10-14**|**Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors**|Junhoo Lee et.al.|[2610.19743v1](http://arxiv.org/abs/2610.19743v1)|null|
+|**2026-10-14**|**ProtModernBERT: Compute-Efficient Protein Language Modeling**|Alberto Martínez et.al.|[2610.19738v1](http://arxiv.org/abs/2610.19738v1)|null|
+|**2026-10-14**|**TIMERSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models**|Haoxin Liu et.al.|[2610.19725v1](http://arxiv.org/abs/2610.19725v1)|null|
 |**2026-10-13**|**Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs**|Divyanshu Bathla et.al.|[2610.18818v1](http://arxiv.org/abs/2610.18818v1)|null|
 |**2026-10-13**|**Depth Memory**|David González-Martínez et.al.|[2610.18809v1](http://arxiv.org/abs/2610.18809v1)|null|
 |**2026-10-13**|**GreenWAM: A World Foundation Model for Robotics**|Gennady Sidorov et.al.|[2610.18774v1](http://arxiv.org/abs/2610.18774v1)|null|
@@ -12371,5 +12385,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261014>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
 

@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674v1](http://arxiv.org/abs/2610.19674v1)|null|
+|**2026-10-14**|**Robust Real-Time Monocular Human Pose Estimation with Insole-Based Sensor Fusion**|Liang Yu et.al.|[2610.19494v1](http://arxiv.org/abs/2610.19494v1)|null|
+|**2026-10-14**|**IMU-Bench: Benchmarking Wrist IMU Representations Across Kinematic, Semantic and Clinical Tasks**|Yiquan Li et.al.|[2610.19481v1](http://arxiv.org/abs/2610.19481v1)|null|
 |**2026-10-13**|**WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World**|Mengchen Zhang et.al.|[2610.18846v1](http://arxiv.org/abs/2610.18846v1)|null|
 |**2026-10-13**|**SchemaPose: RGB-Based Category-Level Pose Estimation with Parametric Category Schema**|Shuang Wu et.al.|[2610.18374v1](http://arxiv.org/abs/2610.18374v1)|null|
 |**2026-10-12**|**DIME: Scaling Facial Representation Learning via Differential Masked Autoencoding**|Hao Yu et.al.|[2610.17015v1](http://arxiv.org/abs/2610.17015v1)|null|
@@ -3727,6 +3730,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation**|Konan Sasaki et.al.|[2610.19530v1](http://arxiv.org/abs/2610.19530v1)|null|
 |**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011v1](http://arxiv.org/abs/2610.11011v1)|null|
 |**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403v1](http://arxiv.org/abs/2610.03403v1)|null|
 |**2026-09-02**|**PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation**|Yu Tian et.al.|[2609.02860v1](http://arxiv.org/abs/2609.02860v1)|null|
@@ -4004,6 +4008,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[2610.20388v1](http://arxiv.org/abs/2610.20388v1)|null|
+|**2026-10-14**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327v1](http://arxiv.org/abs/2610.20327v1)|null|
+|**2026-10-14**|**HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation**|Hongyu Ding et.al.|[2610.20121v1](http://arxiv.org/abs/2610.20121v1)|null|
+|**2026-10-14**|**What Do Foundation Models for Market Microstructure Learn? A Controlled Study with Synthetic Limit Order Books**|Fernando Acero et.al.|[2610.20104v1](http://arxiv.org/abs/2610.20104v1)|null|
+|**2026-10-14**|**A Strong Harness Narrows the Model Gap: A Comparative Evaluation for Legislative Document-to-XML Conversion**|Palvika Bansal et.al.|[2610.19999v1](http://arxiv.org/abs/2610.19999v1)|null|
+|**2026-10-14**|**Long-Prompt Zero-Shot TTS: Benchmarking Prosody Reproduction Beyond Voice Cloning**|Dekun Chen et.al.|[2610.19774v1](http://arxiv.org/abs/2610.19774v1)|null|
+|**2026-10-14**|**Physics-Shaped, Not Physical: Auditing Physics-Guided Underwater Image Restoration**|Mochamad Rizal Fauzan et.al.|[2610.19763v1](http://arxiv.org/abs/2610.19763v1)|null|
+|**2026-10-14**|**Discriminative Score Function: Turning Pretrained Models into Functional Generative Priors**|Junhoo Lee et.al.|[2610.19743v1](http://arxiv.org/abs/2610.19743v1)|null|
+|**2026-10-14**|**ProtModernBERT: Compute-Efficient Protein Language Modeling**|Alberto Martínez et.al.|[2610.19738v1](http://arxiv.org/abs/2610.19738v1)|null|
+|**2026-10-14**|**TIMERSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models**|Haoxin Liu et.al.|[2610.19725v1](http://arxiv.org/abs/2610.19725v1)|null|
 |**2026-10-13**|**Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs**|Divyanshu Bathla et.al.|[2610.18818v1](http://arxiv.org/abs/2610.18818v1)|null|
 |**2026-10-13**|**Depth Memory**|David González-Martínez et.al.|[2610.18809v1](http://arxiv.org/abs/2610.18809v1)|null|
 |**2026-10-13**|**GreenWAM: A World Foundation Model for Robotics**|Gennady Sidorov et.al.|[2610.18774v1](http://arxiv.org/abs/2610.18774v1)|null|

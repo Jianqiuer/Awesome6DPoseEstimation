@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Gen4P: Video Generators are 4D Perceivers**|Yitong Xia et.al.|[2610.22371v1](http://arxiv.org/abs/2610.22371v1)|null|
+|**2026-10-15**|**Trajectory-based Diffusion from One-shot Human Video for Generalizable Manipulation**|Guoping Pan et.al.|[2610.21792v1](http://arxiv.org/abs/2610.21792v1)|null|
+|**2026-10-15**|**RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching**|Liangjing Shao et.al.|[2610.21086v1](http://arxiv.org/abs/2610.21086v1)|null|
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674v1](http://arxiv.org/abs/2610.19674v1)|null|
 |**2026-10-14**|**Robust Real-Time Monocular Human Pose Estimation with Insole-Based Sensor Fusion**|Liang Yu et.al.|[2610.19494v1](http://arxiv.org/abs/2610.19494v1)|null|
 |**2026-10-14**|**IMU-Bench: Benchmarking Wrist IMU Representations Across Kinematic, Semantic and Clinical Tasks**|Yiquan Li et.al.|[2610.19481v1](http://arxiv.org/abs/2610.19481v1)|null|
@@ -4008,6 +4011,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Zhixu Li et.al.|[2610.22372v1](http://arxiv.org/abs/2610.22372v1)|null|
+|**2026-10-15**|**GeoState: Learning View-Decoupled Geometry States for 3D World Modeling**|Hongchang Liu et.al.|[2610.22343v1](http://arxiv.org/abs/2610.22343v1)|null|
+|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[2610.22273v1](http://arxiv.org/abs/2610.22273v1)|null|
+|**2026-10-15**|**Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring**|Wonjeong Jo et.al.|[2610.22187v1](http://arxiv.org/abs/2610.22187v1)|null|
+|**2026-10-15**|**Whole-Body Dexterity**|Conor Mc Gartoll et.al.|[2610.22184v1](http://arxiv.org/abs/2610.22184v1)|null|
+|**2026-10-15**|**EMO: A Closed-Loop Test-Time Computation Framework via Alternating Context Optimization and Logits Steering**|Wei Xia et.al.|[2610.22160v1](http://arxiv.org/abs/2610.22160v1)|null|
+|**2026-10-15**|**PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents**|Kshitij Mishra et.al.|[2610.22124v1](http://arxiv.org/abs/2610.22124v1)|null|
+|**2026-10-15**|**SCCL-DT: Semantic-Conflict-Aware Contrastive Learning with Dual-Rule Teacher Distillation for Zero-Shot Chest X-Ray Diagnosis**|Ting Liu et.al.|[2610.22094v1](http://arxiv.org/abs/2610.22094v1)|null|
+|**2026-10-15**|**Flow-CLIP: Image-Conditioned Residual Scoring for CompositionalImage-Text Matching**|Minghong Wei et.al.|[2610.21937v1](http://arxiv.org/abs/2610.21937v1)|null|
+|**2026-10-15**|**RoleQ: Role-Aligned Scales for Converting Language Models to Ternary**|Johannes Knittel et.al.|[2610.21808v1](http://arxiv.org/abs/2610.21808v1)|null|
 |**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[2610.20388v1](http://arxiv.org/abs/2610.20388v1)|null|
 |**2026-10-14**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327v1](http://arxiv.org/abs/2610.20327v1)|null|
 |**2026-10-14**|**HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation**|Hongyu Ding et.al.|[2610.20121v1](http://arxiv.org/abs/2610.20121v1)|null|

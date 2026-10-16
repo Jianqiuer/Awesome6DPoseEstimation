@@ -1,4 +1,4 @@
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**Gen4P: Video Generators are 4D Perceivers**|Yitong Xia et.al.|[2610.22371v1](http://arxiv.org/abs/2610.22371v1)|null|
+|**2026-10-15**|**Trajectory-based Diffusion from One-shot Human Video for Generalizable Manipulation**|Guoping Pan et.al.|[2610.21792v1](http://arxiv.org/abs/2610.21792v1)|null|
+|**2026-10-15**|**RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching**|Liangjing Shao et.al.|[2610.21086v1](http://arxiv.org/abs/2610.21086v1)|null|
 |**2026-10-14**|**Remember, Revisit, Revise: Scaffold Memory for Long-Horizon 3D Geometry**|Soumick Sarker et.al.|[2610.19674v1](http://arxiv.org/abs/2610.19674v1)|null|
 |**2026-10-14**|**Robust Real-Time Monocular Human Pose Estimation with Insole-Based Sensor Fusion**|Liang Yu et.al.|[2610.19494v1](http://arxiv.org/abs/2610.19494v1)|null|
 |**2026-10-14**|**IMU-Bench: Benchmarking Wrist IMU Representations Across Kinematic, Semantic and Clinical Tasks**|Yiquan Li et.al.|[2610.19481v1](http://arxiv.org/abs/2610.19481v1)|null|
@@ -3367,7 +3370,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261016>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3734,7 +3737,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261016>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4014,12 +4017,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261016>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Zhixu Li et.al.|[2610.22372v1](http://arxiv.org/abs/2610.22372v1)|null|
+|**2026-10-15**|**GeoState: Learning View-Decoupled Geometry States for 3D World Modeling**|Hongchang Liu et.al.|[2610.22343v1](http://arxiv.org/abs/2610.22343v1)|null|
+|**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[2610.22273v1](http://arxiv.org/abs/2610.22273v1)|null|
+|**2026-10-15**|**Change the Number, Change the Answer: Assessing Rating Scale Sensitivity in LLM-Based Text Scoring**|Wonjeong Jo et.al.|[2610.22187v1](http://arxiv.org/abs/2610.22187v1)|null|
+|**2026-10-15**|**Whole-Body Dexterity**|Conor Mc Gartoll et.al.|[2610.22184v1](http://arxiv.org/abs/2610.22184v1)|null|
+|**2026-10-15**|**EMO: A Closed-Loop Test-Time Computation Framework via Alternating Context Optimization and Logits Steering**|Wei Xia et.al.|[2610.22160v1](http://arxiv.org/abs/2610.22160v1)|null|
+|**2026-10-15**|**PROBE: Learning to Audit Policy Compliance in Tool-Using LLM Agents**|Kshitij Mishra et.al.|[2610.22124v1](http://arxiv.org/abs/2610.22124v1)|null|
+|**2026-10-15**|**SCCL-DT: Semantic-Conflict-Aware Contrastive Learning with Dual-Rule Teacher Distillation for Zero-Shot Chest X-Ray Diagnosis**|Ting Liu et.al.|[2610.22094v1](http://arxiv.org/abs/2610.22094v1)|null|
+|**2026-10-15**|**Flow-CLIP: Image-Conditioned Residual Scoring for CompositionalImage-Text Matching**|Minghong Wei et.al.|[2610.21937v1](http://arxiv.org/abs/2610.21937v1)|null|
+|**2026-10-15**|**RoleQ: Role-Aligned Scales for Converting Language Models to Ternary**|Johannes Knittel et.al.|[2610.21808v1](http://arxiv.org/abs/2610.21808v1)|null|
 |**2026-10-14**|**From Relevance to Validity: Zero-Shot Tool Selection via Functional and Contextual Validation**|Xiaoxuan Dong et.al.|[2610.20388v1](http://arxiv.org/abs/2610.20388v1)|null|
 |**2026-10-14**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327v1](http://arxiv.org/abs/2610.20327v1)|null|
 |**2026-10-14**|**HM3D-M3: A Benchmark for Multi-Agent, Multi-Modal, Multi-Object Goal Navigation**|Hongyu Ding et.al.|[2610.20121v1](http://arxiv.org/abs/2610.20121v1)|null|
@@ -12385,5 +12398,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261016>back to top</a>)</p>
 

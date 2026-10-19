@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Haorui Du et.al.|[2610.23496v1](http://arxiv.org/abs/2610.23496v1)|null|
+|**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039v1](http://arxiv.org/abs/2610.23039v1)|null|
+|**2026-10-16**|**GR-VIP: Geometric representation conditioning for precise visuomotor policy**|Chanhwi Lee et.al.|[2610.22997v1](http://arxiv.org/abs/2610.22997v1)|null|
+|**2026-10-15**|**Learning the Shared Latent Structure of Cryo-EM Inverse Problems**|Nithin Chalapathi et.al.|[2610.22523v1](http://arxiv.org/abs/2610.22523v1)|null|
 |**2026-10-15**|**Gen4P: Video Generators are 4D Perceivers**|Yitong Xia et.al.|[2610.22371v1](http://arxiv.org/abs/2610.22371v1)|null|
 |**2026-10-15**|**Trajectory-based Diffusion from One-shot Human Video for Generalizable Manipulation**|Guoping Pan et.al.|[2610.21792v1](http://arxiv.org/abs/2610.21792v1)|null|
 |**2026-10-15**|**RoPE-Flow: Monocular Vision-based Robot Pose Estimation via 2D Graph-Conditioned 3D Flow Matching**|Liangjing Shao et.al.|[2610.21086v1](http://arxiv.org/abs/2610.21086v1)|null|
@@ -4011,6 +4015,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|
+|**2026-10-16**|**Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS**|Séverin Baroudi et.al.|[2610.23678v1](http://arxiv.org/abs/2610.23678v1)|null|
+|**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600v1](http://arxiv.org/abs/2610.23600v1)|null|
+|**2026-10-16**|**No Eyes, No Problem: What Does Touch Contribute to Blind Baoding Ball Manipulation?**|Ayush Deshmukh et.al.|[2610.23438v1](http://arxiv.org/abs/2610.23438v1)|null|
+|**2026-10-16**|**mmPencil: Toward Writing-Style-Independent In-Air Handwriting Recognition via mmWave Radar and Large Vision-Language Model**|Yifan Guo et.al.|[2610.23419v1](http://arxiv.org/abs/2610.23419v1)|null|
+|**2026-10-16**|**FlashReFocus: Interactive Image Refocusing in Seconds**|Ching-Heng Cheng et.al.|[2610.23297v1](http://arxiv.org/abs/2610.23297v1)|null|
+|**2026-10-16**|**Knowledge-Guided Distributional Prompt Learning with Visual Hierarchy for Zero-Shot Anomaly Detection**|Jiyul Ham et.al.|[2610.23172v1](http://arxiv.org/abs/2610.23172v1)|null|
+|**2026-10-16**|**GR-VIP: Geometric representation conditioning for precise visuomotor policy**|Chanhwi Lee et.al.|[2610.22997v1](http://arxiv.org/abs/2610.22997v1)|null|
+|**2026-10-16**|**Towards Hyperparameter Transfer for Differentially Private Optimization**|Tianze Wang et.al.|[2610.22976v1](http://arxiv.org/abs/2610.22976v1)|null|
+|**2026-10-16**|**COMET: Decoupled Distillation, Routing, and Capacity Control for Task-Agnostic Continual Vision--Language Learning**|Seungyoon Woo et.al.|[2610.22907v1](http://arxiv.org/abs/2610.22907v1)|null|
 |**2026-10-15**|**LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation**|Zhixu Li et.al.|[2610.22372v1](http://arxiv.org/abs/2610.22372v1)|null|
 |**2026-10-15**|**GeoState: Learning View-Decoupled Geometry States for 3D World Modeling**|Hongchang Liu et.al.|[2610.22343v1](http://arxiv.org/abs/2610.22343v1)|null|
 |**2026-10-15**|**Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries**|Anikait Singh et.al.|[2610.22273v1](http://arxiv.org/abs/2610.22273v1)|null|

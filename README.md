@@ -1,4 +1,4 @@
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711v1](http://arxiv.org/abs/2610.26711v1)|null|
+|**2026-10-19**|**EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation**|Haozhe Wang et.al.|[2610.26641v1](http://arxiv.org/abs/2610.26641v1)|null|
+|**2026-10-19**|**PnP-Transformer: A Neural Pose Solver for 6D Object Pose Estimation**|Emirkan Burak Yilmaz et.al.|[2610.26096v1](http://arxiv.org/abs/2610.26096v1)|null|
+|**2026-10-19**|**OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects**|Guoqin Tang et.al.|[2610.25840v1](http://arxiv.org/abs/2610.25840v1)|null|
+|**2026-10-19**|**Recurrent Vision Transformers for Event-Based Spacecraft Pose Estimation Under Slow Relative Motions**|Sofia McLeod et.al.|[2610.25622v1](http://arxiv.org/abs/2610.25622v1)|null|
+|**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261v1](http://arxiv.org/abs/2610.25261v1)|null|
+|**2026-10-17**|**Local Manifold Attention for Recovery and Generation of Rare 3D Human Poses**|Feiyue Pan et.al.|[2610.24463v1](http://arxiv.org/abs/2610.24463v1)|null|
 |**2026-10-16**|**FLoTS-SLAM: Optical Flow-Derived Uncertainty for Monocular Dynamic SLAM with Two-Stage Optimization**|Haorui Du et.al.|[2610.23496v1](http://arxiv.org/abs/2610.23496v1)|null|
 |**2026-10-16**|**Frame-Consistent Feed-Forward 3D Gaussian Splatting from Sparse Unposed Images**|Viruthshaan Vinasirajan et.al.|[2610.23039v1](http://arxiv.org/abs/2610.23039v1)|null|
 |**2026-10-16**|**GR-VIP: Geometric representation conditioning for precise visuomotor policy**|Chanhwi Lee et.al.|[2610.22997v1](http://arxiv.org/abs/2610.22997v1)|null|
@@ -3374,7 +3381,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3741,7 +3748,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4021,12 +4028,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token**|Sangbeom Lim et.al.|[2610.26857v1](http://arxiv.org/abs/2610.26857v1)|null|
+|**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Tianqi Liu et.al.|[2610.26855v1](http://arxiv.org/abs/2610.26855v1)|null|
+|**2026-10-19**|**What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models**|Wenhao Zhang et.al.|[2610.26805v1](http://arxiv.org/abs/2610.26805v1)|null|
+|**2026-10-19**|**Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models**|Agus Sudjianto et.al.|[2610.26797v1](http://arxiv.org/abs/2610.26797v1)|null|
+|**2026-10-19**|**DexOAK: Object-Aware Kinematic Retargeting**|Federica Spinola et.al.|[2610.26762v1](http://arxiv.org/abs/2610.26762v1)|null|
+|**2026-10-19**|**EpiLens: Lightweight RAG for Epidemiological Knowledge Acquisition**|Vincenzo Perri et.al.|[2610.26730v1](http://arxiv.org/abs/2610.26730v1)|null|
+|**2026-10-19**|**RoboValue: A Fine-Grained Sim-and-Real Benchmark for Unified Evaluation of Robotic Value Models**|Shengbang Liu et.al.|[2610.26663v1](http://arxiv.org/abs/2610.26663v1)|null|
+|**2026-10-19**|**WhatIf-Bench: Benchmarking Intervention-Aware Time Series Forecasting**|Arjun Ashok et.al.|[2610.26582v1](http://arxiv.org/abs/2610.26582v1)|null|
+|**2026-10-19**|**MRI Reconstruction Risk Estimation from Inference Dynamics**|Tamir Shor et.al.|[2610.26558v1](http://arxiv.org/abs/2610.26558v1)|null|
+|**2026-10-19**|**ScopeMem: Latent Memory That Learns Where to Revise Frozen GUI Agents**|Zhicheng Zheng et.al.|[2610.26503v1](http://arxiv.org/abs/2610.26503v1)|null|
 |**2026-10-16**|**Blind Precise Assembly: Proprioceptive Sim-to-Real Peg-in-Hole for Diverse Parts**|Antonia Bronars et.al.|[2610.23849v1](http://arxiv.org/abs/2610.23849v1)|null|
 |**2026-10-16**|**Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS**|Séverin Baroudi et.al.|[2610.23678v1](http://arxiv.org/abs/2610.23678v1)|null|
 |**2026-10-16**|**Learning to Discriminate Scene Structures Makes Self-Supervised Depth Learning Scalable**|Mengtan Zhang et.al.|[2610.23600v1](http://arxiv.org/abs/2610.23600v1)|null|
@@ -12412,5 +12429,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261019>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
 

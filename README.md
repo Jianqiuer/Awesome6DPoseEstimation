@@ -1,4 +1,4 @@
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**VLM-Guided Contact Retargeting and Generative Partner Modeling for Humanoid-Human Interaction**|Yuto Shibata et.al.|[2610.28523v1](http://arxiv.org/abs/2610.28523v1)|null|
+|**2026-10-20**|**GALA: Geometry-Aware Language Model for Controllable Object Arrangement**|Chucheng Xiang et.al.|[2610.28280v1](http://arxiv.org/abs/2610.28280v1)|null|
+|**2026-10-20**|**CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting**|Zijian Wu et.al.|[2610.28190v1](http://arxiv.org/abs/2610.28190v1)|null|
+|**2026-10-20**|**Radar-Based 3D Human Pose Estimation via Motion-Aware Pose Initialization and Observation-Guided Refinement**|Woo-Jin Jung et.al.|[2610.27774v1](http://arxiv.org/abs/2610.27774v1)|null|
+|**2026-10-19**|**MatchCityLoc: Aerial Localization in LoD City Models via Surface Normal Matching**|Oussema Dhaouadi et.al.|[2610.27110v1](http://arxiv.org/abs/2610.27110v1)|null|
 |**2026-10-19**|**PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements**|Kaiwei Chen et.al.|[2610.26711v1](http://arxiv.org/abs/2610.26711v1)|null|
 |**2026-10-19**|**EgoRayFormer: Ray-Space Stereo Refinement for Egocentric 3D Human Pose Estimation**|Haozhe Wang et.al.|[2610.26641v1](http://arxiv.org/abs/2610.26641v1)|null|
-|**2026-10-19**|**PnP-Transformer: A Neural Pose Solver for 6D Object Pose Estimation**|Emirkan Burak Yilmaz et.al.|[2610.26096v1](http://arxiv.org/abs/2610.26096v1)|null|
+|**2026-10-20**|**PnP-Transformer: A Neural Pose Solver for Zero-Shot 6D Object Pose Estimation**|Emirkan Burak Yilmaz et.al.|[2610.26096v2](http://arxiv.org/abs/2610.26096v2)|null|
 |**2026-10-19**|**OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects**|Guoqin Tang et.al.|[2610.25840v1](http://arxiv.org/abs/2610.25840v1)|null|
 |**2026-10-19**|**Recurrent Vision Transformers for Event-Based Spacecraft Pose Estimation Under Slow Relative Motions**|Sofia McLeod et.al.|[2610.25622v1](http://arxiv.org/abs/2610.25622v1)|null|
 |**2026-10-18**|**GOFusion: Real-Time Gaussian-Occupancy Submap Fusion for Fisher-Informed Autonomous Robot Navigation**|Boxin Bu et.al.|[2610.25261v1](http://arxiv.org/abs/2610.25261v1)|null|
@@ -3381,12 +3386,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261021>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-19**|**On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration**|Abolfazl Babanazari et.al.|[2610.27275v1](http://arxiv.org/abs/2610.27275v1)|null|
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624v1](http://arxiv.org/abs/2610.12624v1)|null|
 |**2026-10-08**|**PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors**|Haobo Jiang et.al.|[2610.11612v1](http://arxiv.org/abs/2610.11612v1)|null|
 |**2026-10-06**|**Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts**|Yuezhe Zhang et.al.|[2610.07793v1](http://arxiv.org/abs/2610.07793v1)|null|
@@ -3748,12 +3754,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261021>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-17**|**Uncertainty Gates the Gradient: Adaptive Updates for Generalized Few-Shot 3D Segmentation**|Yifei Zhao et.al.|[2610.26909v1](http://arxiv.org/abs/2610.26909v1)|null|
 |**2026-10-14**|**Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation**|Konan Sasaki et.al.|[2610.19530v1](http://arxiv.org/abs/2610.19530v1)|null|
 |**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011v1](http://arxiv.org/abs/2610.11011v1)|null|
 |**2026-10-02**|**ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation**|Zhihao Zhan et.al.|[2610.03403v1](http://arxiv.org/abs/2610.03403v1)|null|
@@ -4028,12 +4035,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261021>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-20**|**Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics**|Azim Dehghani Amirabad et.al.|[2610.28579v1](http://arxiv.org/abs/2610.28579v1)|null|
+|**2026-10-20**|**When Do LLMs Help with Feature Selection? A Systematic Empirical Study**|Fateme Memar et.al.|[2610.28556v1](http://arxiv.org/abs/2610.28556v1)|null|
+|**2026-10-20**|**Asymmetric Looped Transformers: Fixed Global Representations for an Iterative Decoder**|Cheng Liang et.al.|[2610.28489v1](http://arxiv.org/abs/2610.28489v1)|null|
+|**2026-10-20**|**Multimodal Reranking Is a System One Decision**|Zhuchenyang Liu et.al.|[2610.28435v1](http://arxiv.org/abs/2610.28435v1)|null|
+|**2026-10-20**|**Rewards for Budget-Aware Multi-Turn Agents That Adapt to Arbitrary Test-Time Constraints**|Tom A. Lamb et.al.|[2610.28409v1](http://arxiv.org/abs/2610.28409v1)|null|
+|**2026-10-20**|**RACE: RoPE-Aligned Attention Compression Based on Query-Key Activation Energies**|Irene Tenison et.al.|[2610.28385v1](http://arxiv.org/abs/2610.28385v1)|null|
+|**2026-10-20**|**CountVideoBench: A Benchmark to Evaluate Prediction Biases on the Object Counting task by Video-Language Models**|Marc Chapus et.al.|[2610.28356v1](http://arxiv.org/abs/2610.28356v1)|null|
+|**2026-10-20**|**Large Multimodal Models for Direct Robot Control: GPT-6 as a Beginning**|Youwei Zhou et.al.|[2610.28259v1](http://arxiv.org/abs/2610.28259v1)|null|
+|**2026-10-20**|**CAPS: Clinically-Verifiable Anatomy-Prioritized Synthesis for Missing MRI Imputation in Brain Tumor Segmentation**|Cecilia Diana-Albelda et.al.|[2610.28179v1](http://arxiv.org/abs/2610.28179v1)|null|
+|**2026-10-20**|**BAIT: Can LLMs Find What Biases a Reader? A Benchmark for Cognitive Bias Triggers in News**|Yousra Fettach et.al.|[2610.28092v1](http://arxiv.org/abs/2610.28092v1)|null|
 |**2026-10-19**|**VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token**|Sangbeom Lim et.al.|[2610.26857v1](http://arxiv.org/abs/2610.26857v1)|null|
 |**2026-10-19**|**Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience**|Tianqi Liu et.al.|[2610.26855v1](http://arxiv.org/abs/2610.26855v1)|null|
 |**2026-10-19**|**What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models**|Wenhao Zhang et.al.|[2610.26805v1](http://arxiv.org/abs/2610.26805v1)|null|
@@ -12429,5 +12446,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261020>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261021>back to top</a>)</p>
 

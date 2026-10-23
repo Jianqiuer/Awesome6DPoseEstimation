@@ -1,4 +1,4 @@
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation**|Jinyu Zhang et.al.|[2610.31623v1](http://arxiv.org/abs/2610.31623v1)|null|
+|**2026-10-22**|**Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention**|Wei Zhang et.al.|[2610.31320v1](http://arxiv.org/abs/2610.31320v1)|null|
 |**2026-10-21**|**UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception**|Linfei Li et.al.|[2610.29768v1](http://arxiv.org/abs/2610.29768v1)|null|
 |**2026-10-21**|**BlazeVGGT: 13x Faster VGGT at 2,000 Frames via Camera Token without Training**|Shujun Yao et.al.|[2610.29454v1](http://arxiv.org/abs/2610.29454v1)|null|
 |**2026-10-20**|**Real-Time Ground Normal Vector Estimation for Spherical Mobile 3D Mapping using LiDAR-Inertial Odometry**|Tim Schubert et.al.|[2610.28701v1](http://arxiv.org/abs/2610.28701v1)|null|
@@ -3389,7 +3391,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261023>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3758,7 +3760,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261023>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4039,12 +4041,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261023>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision**|Yun-Chen Cheng et.al.|[2610.31510v1](http://arxiv.org/abs/2610.31510v1)|null|
+|**2026-10-22**|**MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models**|Khaled Waleed Dawoud et.al.|[2610.31478v1](http://arxiv.org/abs/2610.31478v1)|null|
+|**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Qi Lv et.al.|[2610.31474v1](http://arxiv.org/abs/2610.31474v1)|null|
+|**2026-10-22**|**How Well Do Decision Models Transfer to Vietnamese? An Empirical Study of Text Classification**|Phat Huu Ha et.al.|[2610.31422v1](http://arxiv.org/abs/2610.31422v1)|null|
+|**2026-10-22**|**Probabilistic Energy Modeling Unifies Versatile Swarm Control**|Xiang Zhou et.al.|[2610.31371v1](http://arxiv.org/abs/2610.31371v1)|null|
+|**2026-10-22**|**CrisiLangs: A Multilingual Resource for Crisis Warning Generation**|Giacomo Gonella et.al.|[2610.31356v1](http://arxiv.org/abs/2610.31356v1)|null|
+|**2026-10-22**|**Transfer Meta-Learning for State Space Autoencoders**|Stefano De Carli et.al.|[2610.31318v1](http://arxiv.org/abs/2610.31318v1)|null|
+|**2026-10-22**|**The Value of System 1 Models in Medicine**|Xiufeng Yang et.al.|[2610.31315v1](http://arxiv.org/abs/2610.31315v1)|null|
+|**2026-10-22**|**Learning Robot Behavior Priors from Non-Robotic Synthetic Data**|Mateusz Odrowaz-Sypniewski et.al.|[2610.31275v1](http://arxiv.org/abs/2610.31275v1)|null|
+|**2026-10-22**|**Pos4CHD: A Positive-Free Mask-Guided Counterfactual Synthesis Framework for Fetal Congenital Heart Defect Analysis**|Wenjie Xuan et.al.|[2610.31139v1](http://arxiv.org/abs/2610.31139v1)|null|
 |**2026-10-21**|**Plausible but Unimplantable: A Trustworthiness Audit of Shape Completion Foundation Models for Cranial Defect Reconstruction**|Marek Wodzinski et.al.|[2610.30035v1](http://arxiv.org/abs/2610.30035v1)|null|
 |**2026-10-21**|**ERCLIP: Small-Data Adaptation of CLIP for Free-Length Image-Text Retrieval**|Hoang-Bao Le et.al.|[2610.29939v1](http://arxiv.org/abs/2610.29939v1)|null|
 |**2026-10-21**|**DewHand: Direct Metric World-Space Hand Motion Reconstruction from Egocentric Videos**|Naru Suzuki et.al.|[2610.29936v1](http://arxiv.org/abs/2610.29936v1)|null|
@@ -12460,5 +12472,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261023>back to top</a>)</p>
 

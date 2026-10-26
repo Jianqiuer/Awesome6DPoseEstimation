@@ -1,4 +1,4 @@
-## Updated on 2026.10.25
+## Updated on 2026.10.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976v1](http://arxiv.org/abs/2610.32976v1)|null|
+|**2026-10-23**|**CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction**|Dong-hwi Kim et.al.|[2610.32800v1](http://arxiv.org/abs/2610.32800v1)|null|
+|**2026-10-23**|**VERA-Hand: A Verified Multidimensional Benchmark for 2D Hand Pose Estimation in Third-Person Dynamic Gesture Videos**|Gibran Benitez-Garcia et.al.|[2610.32517v1](http://arxiv.org/abs/2610.32517v1)|null|
+|**2026-10-22**|**Input Bias Correction in Gaussian Process Regression**|Muzaffar Qureshi et.al.|[2610.31920v1](http://arxiv.org/abs/2610.31920v1)|null|
 |**2026-10-22**|**F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation**|Jinyu Zhang et.al.|[2610.31623v1](http://arxiv.org/abs/2610.31623v1)|null|
 |**2026-10-22**|**Stream4D: Streaming 4D Reconstruction with Training-free Motion Decoupling via Causal KV-Cache Attention**|Wei Zhang et.al.|[2610.31320v1](http://arxiv.org/abs/2610.31320v1)|null|
 |**2026-10-21**|**UniRAP: Towards Unified Part-level Physical Affordance Reasoning and Actionable Perception**|Linfei Li et.al.|[2610.29768v1](http://arxiv.org/abs/2610.29768v1)|null|
@@ -3391,7 +3395,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261026>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3760,7 +3764,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261026>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4041,12 +4045,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261026>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-23**|**Advancing SVD-based LLM Compression via Layer-Wise Error Model Search**|Moritz Thoma et.al.|[2610.32878v1](http://arxiv.org/abs/2610.32878v1)|null|
+|**2026-10-23**|**Sustainability of TSFM Deployment and Pretraining: From Carbon Footprint Analysis to Mitigation via Pruning**|Cécile Luc et.al.|[2610.32859v1](http://arxiv.org/abs/2610.32859v1)|null|
+|**2026-10-23**|**Foundation Models Meet Power Grid Topology for Cascade Prediction**|Soumav Biswas et.al.|[2610.32696v1](http://arxiv.org/abs/2610.32696v1)|null|
+|**2026-10-23**|**OWLS: Open-world Language-conditioned Speed Fields for Zero-Shot Rover Navigation**|Chahyon Ku et.al.|[2610.32596v1](http://arxiv.org/abs/2610.32596v1)|null|
+|**2026-10-23**|**HGWM: Hierarchical Graph-Guided World Model for Zero-Shot Object Navigation via Graph Matching**|I-tak Ieong et.al.|[2610.32554v1](http://arxiv.org/abs/2610.32554v1)|null|
+|**2026-10-23**|**Efficient Zero-Shot Video Anomaly Detection via Signal-Aware Adaptive Fusion (SAAF)**|Khaled Waleed Dawoud et.al.|[2610.32486v1](http://arxiv.org/abs/2610.32486v1)|null|
+|**2026-10-23**|**PathJev: Decision-Native Vision-Language Modelling for Histopathology**|Cristian Tommasino et.al.|[2610.32478v1](http://arxiv.org/abs/2610.32478v1)|null|
+|**2026-10-23**|**Acoustic and Lexical Signals for Native Language Identification of Language Learners**|Ahmet Yavuz Uluslu et.al.|[2610.32382v1](http://arxiv.org/abs/2610.32382v1)|null|
+|**2026-10-23**|**System One models Are Not Better Rerankers**|Michael Dinzinger et.al.|[2610.32318v1](http://arxiv.org/abs/2610.32318v1)|null|
+|**2026-10-23**|**Beyond Pattern Matching in 3D MLLMs: Part-Level Functional Reasoning for Generalizable Recognition**|Weihong Li et.al.|[2610.32262v1](http://arxiv.org/abs/2610.32262v1)|null|
 |**2026-10-22**|**Piano2Pop: Expanding Piano Demos into Pop Productions Without Aligned Supervision**|Yun-Chen Cheng et.al.|[2610.31510v1](http://arxiv.org/abs/2610.31510v1)|null|
 |**2026-10-22**|**MoG-VLM: Efficient Video Anomaly Detection through Motion-Guided Vision-Language Models**|Khaled Waleed Dawoud et.al.|[2610.31478v1](http://arxiv.org/abs/2610.31478v1)|null|
 |**2026-10-22**|**Skeleton-Grounded Latent Action Model for Robot World Models**|Qi Lv et.al.|[2610.31474v1](http://arxiv.org/abs/2610.31474v1)|null|
@@ -12472,5 +12486,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261025>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261026>back to top</a>)</p>
 

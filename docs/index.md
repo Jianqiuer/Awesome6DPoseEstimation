@@ -2,11 +2,20 @@
 layout: default
 ---
 
-## Updated on 2026.10.26
+## Updated on 2026.10.27
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642v1](http://arxiv.org/abs/2610.35642v1)|null|
+|**2026-10-26**|**Generative Structure from Motion with Native 3D Diffusion**|Haobin Duan et.al.|[2610.35522v1](http://arxiv.org/abs/2610.35522v1)|null|
+|**2026-10-26**|**Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization**|Tze Ho Elden Tse et.al.|[2610.35501v1](http://arxiv.org/abs/2610.35501v1)|null|
+|**2026-10-23**|**Resilient Decentralized Radar-LiDAR-Inertial Odometry in Challenging Subterranean Environments**|Moumita Mukherjee et.al.|[2610.35363v1](http://arxiv.org/abs/2610.35363v1)|null|
+|**2026-10-26**|**SG-Splat: Stable Geometry Learning under Pose Uncertainty for Pose-Free 3D Gaussian Splatting**|Xiaohan Lu et.al.|[2610.35361v1](http://arxiv.org/abs/2610.35361v1)|null|
+|**2026-10-26**|**PosePlaner: Denoising Any Feed-Forward Pose Predictor from Pairwise Planar Geometry**|Yihang Chen et.al.|[2610.34845v1](http://arxiv.org/abs/2610.34845v1)|null|
+|**2026-10-26**|**Selective Monocular Precession Estimation under Geometric and Evaluation Ambiguity: An Auditable Synthetic Study with ORBIT-SCOUT**|Carlos Eduardo Sanoja et.al.|[2610.34819v1](http://arxiv.org/abs/2610.34819v1)|null|
+|**2026-10-25**|**StickFigure: Enabling Pose-Only IoT Cameras for Privacy-Preserving Edge Vision**|Aveline Xiaoyuan Han et.al.|[2610.34130v1](http://arxiv.org/abs/2610.34130v1)|null|
+|**2026-10-23**|**Bracketing Shows the Way: Adaptive Multi-Exposure Policy as Input for Robust Visual SLAM**|Olivier Gamache et.al.|[2610.33174v1](http://arxiv.org/abs/2610.33174v1)|null|
 |**2026-10-23**|**FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation**|Philipp Lindenberger et.al.|[2610.32976v1](http://arxiv.org/abs/2610.32976v1)|null|
 |**2026-10-23**|**CompMVR: Compression-Aware Multi-View Restoration Using Diffusion Models for Geometrically Consistent 3D Reconstruction**|Dong-hwi Kim et.al.|[2610.32800v1](http://arxiv.org/abs/2610.32800v1)|null|
 |**2026-10-23**|**VERA-Hand: A Verified Multidimensional Benchmark for 2D Hand Pose Estimation in Third-Person Dynamic Gesture Videos**|Gibran Benitez-Garcia et.al.|[2610.32517v1](http://arxiv.org/abs/2610.32517v1)|null|
@@ -3393,6 +3402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-25**|**Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions**|Seong Hun Lee et.al.|[2610.34271v1](http://arxiv.org/abs/2610.34271v1)|null|
 |**2026-10-20**|**Register Anything Model for Generalizable and Robust Point Cloud Registration**|Zheng Qin et.al.|[2610.28821v1](http://arxiv.org/abs/2610.28821v1)|null|
 |**2026-10-19**|**On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration**|Abolfazl Babanazari et.al.|[2610.27275v1](http://arxiv.org/abs/2610.27275v1)|null|
 |**2026-10-08**|**MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers**|Jiuming Liu et.al.|[2610.12624v1](http://arxiv.org/abs/2610.12624v1)|null|
@@ -3760,6 +3770,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-25**|**Cut a Wall, See a Wall: Identity Substitution in Occluded Point-Cloud Perception for Construction Robots**|Tsung-Lung Yang et.al.|[2610.34040v1](http://arxiv.org/abs/2610.34040v1)|null|
 |**2026-10-17**|**Uncertainty Gates the Gradient: Adaptive Updates for Generalized Few-Shot 3D Segmentation**|Yifei Zhao et.al.|[2610.26909v1](http://arxiv.org/abs/2610.26909v1)|null|
 |**2026-10-14**|**Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation**|Konan Sasaki et.al.|[2610.19530v1](http://arxiv.org/abs/2610.19530v1)|null|
 |**2026-10-07**|**PCAsplat: Gaussian Splatting with Local PCA Regularization**|Vitor Matias et.al.|[2610.11011v1](http://arxiv.org/abs/2610.11011v1)|null|
@@ -4039,6 +4050,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-26**|**Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean**|Per Kristian Lehre et.al.|[2610.35595v1](http://arxiv.org/abs/2610.35595v1)|null|
+|**2026-10-26**|**LoopFold: Parallelizing Recurrent Depth in Looped Transformers**|Feichen Song et.al.|[2610.35556v1](http://arxiv.org/abs/2610.35556v1)|null|
+|**2026-10-26**|**StateLoop: Persistent State for Looped Transformers**|Feichen Song et.al.|[2610.35544v1](http://arxiv.org/abs/2610.35544v1)|null|
+|**2026-10-26**|**OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery**|Chang Woo Song et.al.|[2610.35450v1](http://arxiv.org/abs/2610.35450v1)|null|
+|**2026-10-26**|**Quality over Quantity: Rethinking Data and Model Assumptions for Bengali Coreference Resolution**|Zenith Biswas et.al.|[2610.35114v1](http://arxiv.org/abs/2610.35114v1)|null|
+|**2026-10-26**|**Zero-Shot Multi-Class Wafer Map Classification with Rule-Ordered Prompts for Large Multimodal Models**|Tianjian Cao et.al.|[2610.35080v1](http://arxiv.org/abs/2610.35080v1)|null|
+|**2026-10-26**|**Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data**|Dianyi Yang et.al.|[2610.35075v1](http://arxiv.org/abs/2610.35075v1)|null|
+|**2026-10-26**|**Zero-Shot Monocular Depth Estimation for Visual Perception in Lower-Limb Prostheses**|Ishi Vijayvergiya et.al.|[2610.35018v1](http://arxiv.org/abs/2610.35018v1)|null|
+|**2026-10-26**|**Improving Reasoning with Rollout Agreement for Group-Based Policy Optimization**|Sohyun Son et.al.|[2610.34951v1](http://arxiv.org/abs/2610.34951v1)|null|
+|**2026-10-26**|**PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds**|Jinyuan Hu et.al.|[2610.34921v1](http://arxiv.org/abs/2610.34921v1)|null|
 |**2026-10-23**|**Advancing SVD-based LLM Compression via Layer-Wise Error Model Search**|Moritz Thoma et.al.|[2610.32878v1](http://arxiv.org/abs/2610.32878v1)|null|
 |**2026-10-23**|**Sustainability of TSFM Deployment and Pretraining: From Carbon Footprint Analysis to Mitigation via Pruning**|Cécile Luc et.al.|[2610.32859v1](http://arxiv.org/abs/2610.32859v1)|null|
 |**2026-10-23**|**Foundation Models Meet Power Grid Topology for Cascade Prediction**|Soumav Biswas et.al.|[2610.32696v1](http://arxiv.org/abs/2610.32696v1)|null|

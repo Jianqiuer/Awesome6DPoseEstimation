@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.10.27
+## Updated on 2026.10.28
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**5G Sensing for Human Pose Estimation with PRS-based CSI: An Experimental Demonstration**|Zhaorui Yin et.al.|[2610.37435v1](http://arxiv.org/abs/2610.37435v1)|null|
+|**2026-10-27**|**GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling**|Kang He et.al.|[2610.37257v1](http://arxiv.org/abs/2610.37257v1)|null|
+|**2026-10-27**|**Polarity--Time Interaction and Multi-Level Reliability for Event-Based Spacecraft Pose Estimation**|Yonglong Zhang et.al.|[2610.36625v1](http://arxiv.org/abs/2610.36625v1)|null|
+|**2026-10-27**|**Camera-to-Quadruped Robot Pose Estimation from Sequential Images**|Seobin Hwang et.al.|[2610.36599v1](http://arxiv.org/abs/2610.36599v1)|null|
 |**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642v1](http://arxiv.org/abs/2610.35642v1)|null|
 |**2026-10-26**|**Generative Structure from Motion with Native 3D Diffusion**|Haobin Duan et.al.|[2610.35522v1](http://arxiv.org/abs/2610.35522v1)|null|
 |**2026-10-26**|**Learning Scene Coordinate Reconstruction from Unposed Images via Pose Graph Optimization**|Tze Ho Elden Tse et.al.|[2610.35501v1](http://arxiv.org/abs/2610.35501v1)|null|
@@ -3402,6 +3406,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**An Interactive Mobile Augmented Reality System for Efficient Virtual Model-to-Patient Registration in Thoracic Surgery**|Emmanuel Ajaero et.al.|[2610.37271v1](http://arxiv.org/abs/2610.37271v1)|null|
+|**2026-10-27**|**SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration**|Tomoyasu Shimada et.al.|[2610.36658v1](http://arxiv.org/abs/2610.36658v1)|null|
 |**2026-10-25**|**Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions**|Seong Hun Lee et.al.|[2610.34271v1](http://arxiv.org/abs/2610.34271v1)|null|
 |**2026-10-20**|**Register Anything Model for Generalizable and Robust Point Cloud Registration**|Zheng Qin et.al.|[2610.28821v1](http://arxiv.org/abs/2610.28821v1)|null|
 |**2026-10-19**|**On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration**|Abolfazl Babanazari et.al.|[2610.27275v1](http://arxiv.org/abs/2610.27275v1)|null|
@@ -4050,6 +4056,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-27**|**Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well**|Ian Chuang et.al.|[2610.37652v1](http://arxiv.org/abs/2610.37652v1)|null|
+|**2026-10-27**|**GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting**|Joseph Natter et.al.|[2610.37598v1](http://arxiv.org/abs/2610.37598v1)|null|
+|**2026-10-27**|**Zero-Shot Multimodal Event Spotting in Soccer Broadcasts**|Sadia Kamal et.al.|[2610.37583v1](http://arxiv.org/abs/2610.37583v1)|null|
+|**2026-10-27**|**Rendering-Free Event Frame Simulation for Fast Reinforcement Learning of Autonomous Robot Navigation**|Dequan Ou et.al.|[2610.37543v1](http://arxiv.org/abs/2610.37543v1)|null|
+|**2026-10-27**|**GTFormer: A Syntax-Free Graph Network Alternative to Transformers for 8192 $\times$ Length Extrapolation in Linear Time**|Elisabeth Fink et.al.|[2610.37524v1](http://arxiv.org/abs/2610.37524v1)|null|
+|**2026-10-27**|**Clearing the FoG: Training KG Agents to Retrieve the Evidence Behind Their Answers**|Zongyuan Sun et.al.|[2610.37405v1](http://arxiv.org/abs/2610.37405v1)|null|
+|**2026-10-27**|**Comparing Temporal Deep Learning Architectures for Discrete Cross-User Myoelectric Control**|Ethan Eddy et.al.|[2610.37374v1](http://arxiv.org/abs/2610.37374v1)|null|
+|**2026-10-27**|**Generalizable Target-Less Joint Intrinsic-Extrinsic Camera-LiDAR Calibration using Deep Pixel-Point Correspondences**|Simon Bultmann et.al.|[2610.37350v1](http://arxiv.org/abs/2610.37350v1)|null|
+|**2026-10-27**|**Taming Noise Initialization for Zero-shot Video Restoration with Image Diffusion Priors**|Chong Wang et.al.|[2610.37290v1](http://arxiv.org/abs/2610.37290v1)|null|
+|**2026-10-27**|**TCM-DiagCommit: A TCM-SD-Derived Benchmark for Evidence-Conditioned Syndrome Selection and Commitment**|Erwei Hou et.al.|[2610.37243v1](http://arxiv.org/abs/2610.37243v1)|null|
 |**2026-10-26**|**Agentic Algorithm Design: LLMs that Propose, Formalise, and Prove Runtime Bounds for Evolutionary Algorithms in Lean**|Per Kristian Lehre et.al.|[2610.35595v1](http://arxiv.org/abs/2610.35595v1)|null|
 |**2026-10-26**|**LoopFold: Parallelizing Recurrent Depth in Looped Transformers**|Feichen Song et.al.|[2610.35556v1](http://arxiv.org/abs/2610.35556v1)|null|
 |**2026-10-26**|**StateLoop: Persistent State for Looped Transformers**|Feichen Song et.al.|[2610.35544v1](http://arxiv.org/abs/2610.35544v1)|null|

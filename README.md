@@ -1,4 +1,4 @@
-## Updated on 2026.10.29
+## Updated on 2026.10.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,8 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467v1](http://arxiv.org/abs/2610.40467v1)|null|
+|**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349v1](http://arxiv.org/abs/2610.40349v1)|null|
+|**2026-10-29**|**Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans**|Eli A. Underwood et.al.|[2610.39161v1](http://arxiv.org/abs/2610.39161v1)|null|
+|**2026-10-29**|**Tactus: Tactile & Pose Sensing Glove for Natural Dexterity Data Collection**|Li Guan et.al.|[2610.39076v1](http://arxiv.org/abs/2610.39076v1)|null|
+|**2026-10-28**|**PT $^3$ : Prototype-Guided Self-Supervised Pretraining for Generalizable mmWave Human Point Cloud Representation**|Ziyang Liu et.al.|[2610.38551v1](http://arxiv.org/abs/2610.38551v1)|null|
+|**2026-10-28**|**SKiD-SLAM: Resource-Aware Distributed Multi-Robot LiDAR SLAM for Planetary Missions with Field Deployments at Analog Sites**|Hogyun Kim et.al.|[2610.38141v1](http://arxiv.org/abs/2610.38141v1)|null|
 |**2026-10-27**|**5G Sensing for Human Pose Estimation with PRS-based CSI: An Experimental Demonstration**|Zhaorui Yin et.al.|[2610.37435v1](http://arxiv.org/abs/2610.37435v1)|null|
-|**2026-10-27**|**GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling**|Kang He et.al.|[2610.37257v1](http://arxiv.org/abs/2610.37257v1)|null|
+|**2026-10-29**|**GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling**|Kang He et.al.|[2610.37257v2](http://arxiv.org/abs/2610.37257v2)|null|
 |**2026-10-27**|**Polarity--Time Interaction and Multi-Level Reliability for Event-Based Spacecraft Pose Estimation**|Yonglong Zhang et.al.|[2610.36625v1](http://arxiv.org/abs/2610.36625v1)|null|
 |**2026-10-27**|**Camera-to-Quadruped Robot Pose Estimation from Sequential Images**|Seobin Hwang et.al.|[2610.36599v1](http://arxiv.org/abs/2610.36599v1)|null|
 |**2026-10-26**|**VPR-Space: A Benchmark for Visual Place Recognition in Space Analog Domains**|Richard Fechner et.al.|[2610.35642v1](http://arxiv.org/abs/2610.35642v1)|null|
@@ -3408,12 +3414,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261030>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans**|Eli A. Underwood et.al.|[2610.39161v1](http://arxiv.org/abs/2610.39161v1)|null|
 |**2026-10-27**|**An Interactive Mobile Augmented Reality System for Efficient Virtual Model-to-Patient Registration in Thoracic Surgery**|Emmanuel Ajaero et.al.|[2610.37271v1](http://arxiv.org/abs/2610.37271v1)|null|
 |**2026-10-27**|**SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration**|Tomoyasu Shimada et.al.|[2610.36658v1](http://arxiv.org/abs/2610.36658v1)|null|
 |**2026-10-25**|**Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions**|Seong Hun Lee et.al.|[2610.34271v1](http://arxiv.org/abs/2610.34271v1)|null|
@@ -3780,7 +3787,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261030>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4062,12 +4069,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261030>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In**|Leonidas Raghav et.al.|[2610.40588v1](http://arxiv.org/abs/2610.40588v1)|null|
+|**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[2610.40580v1](http://arxiv.org/abs/2610.40580v1)|null|
+|**2026-10-29**|**Accurate MRI-free PET Quantification and Reliability Assessment via CT-to-MRI Synthesis and Conformal Prediction**|Jungwoo Seo et.al.|[2610.40478v1](http://arxiv.org/abs/2610.40478v1)|null|
+|**2026-10-29**|**A Pretrained Model for Bayesian Filtering in Heterogeneous Dynamical Systems**|Ke Fan et.al.|[2610.40437v1](http://arxiv.org/abs/2610.40437v1)|null|
+|**2026-10-29**|**What Makes a Good Audio Prompt for Zero-Shot TTS? Learning Prompt Selection from Synthesis Outcomes**|Arnon Turetzky et.al.|[2610.40372v1](http://arxiv.org/abs/2610.40372v1)|null|
+|**2026-10-29**|**Wizard: Manipulate Any World in Real Time via Agentic Control**|Yuzhe Wu et.al.|[2610.40339v1](http://arxiv.org/abs/2610.40339v1)|null|
+|**2026-10-29**|**RFW-A: Agentic Procedural Generation of 400K Articulated Assets over 500 Categories**|Yuanbo Lyu et.al.|[2610.40333v1](http://arxiv.org/abs/2610.40333v1)|null|
+|**2026-10-29**|**Textual Response-Aware Guidance for Zero-Shot Adversarial Robustness of Vision-Language Models**|Yubo Cui et.al.|[2610.40309v1](http://arxiv.org/abs/2610.40309v1)|null|
+|**2026-10-29**|**Mobilizing the Archive: Bitext Extraction at Scale from Archival Documents for Extremely Low-resource Languages**|Chutong Meng et.al.|[2610.40233v1](http://arxiv.org/abs/2610.40233v1)|null|
+|**2026-10-29**|**Benchmarking color judgment in multimodal LLMs with CIE-computable ground truth**|Shuwei Yue et.al.|[2610.40212v1](http://arxiv.org/abs/2610.40212v1)|null|
 |**2026-10-27**|**Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well**|Ian Chuang et.al.|[2610.37652v1](http://arxiv.org/abs/2610.37652v1)|null|
 |**2026-10-27**|**GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting**|Joseph Natter et.al.|[2610.37598v1](http://arxiv.org/abs/2610.37598v1)|null|
 |**2026-10-27**|**Zero-Shot Multimodal Event Spotting in Soccer Broadcasts**|Sadia Kamal et.al.|[2610.37583v1](http://arxiv.org/abs/2610.37583v1)|null|
@@ -12523,5 +12540,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261030>back to top</a>)</p>
 

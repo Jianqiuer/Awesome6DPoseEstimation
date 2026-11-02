@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.11.01
+## Updated on 2026.11.02
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**Rethinking Asymmetry in Self-Supervised 3D Geometry Learning**|Gyeongjin Kang et.al.|[2610.42092v1](http://arxiv.org/abs/2610.42092v1)|null|
+|**2026-10-30**|**A Self-Supervised Pose Estimation Approach for Construction Machines**|Alaa Alshubbak et.al.|[2610.41673v1](http://arxiv.org/abs/2610.41673v1)|null|
 |**2026-10-29**|**InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation**|Zhipeng Hui et.al.|[2610.40467v1](http://arxiv.org/abs/2610.40467v1)|null|
 |**2026-10-29**|**TouchBridge: Tactile-Conditioned Human-to-Robot Transfer for Dexterous Manipulation**|Haozhe Zhang et.al.|[2610.40349v1](http://arxiv.org/abs/2610.40349v1)|null|
 |**2026-10-29**|**Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans**|Eli A. Underwood et.al.|[2610.39161v1](http://arxiv.org/abs/2610.39161v1)|null|
@@ -3412,6 +3414,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion**|Jiaming Wang et.al.|[2610.41844v1](http://arxiv.org/abs/2610.41844v1)|null|
+|**2026-10-30**|**Self-Localization of Distributed Microphone Arrays Using One Source and Acoustic Reflections**|Thomas Guffroy et.al.|[2610.41547v1](http://arxiv.org/abs/2610.41547v1)|null|
 |**2026-10-29**|**Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans**|Eli A. Underwood et.al.|[2610.39161v1](http://arxiv.org/abs/2610.39161v1)|null|
 |**2026-10-27**|**An Interactive Mobile Augmented Reality System for Efficient Virtual Model-to-Patient Registration in Thoracic Surgery**|Emmanuel Ajaero et.al.|[2610.37271v1](http://arxiv.org/abs/2610.37271v1)|null|
 |**2026-10-27**|**SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration**|Tomoyasu Shimada et.al.|[2610.36658v1](http://arxiv.org/abs/2610.36658v1)|null|
@@ -4063,6 +4067,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish**|Ahmet Tuğrul Bayrak et.al.|[2610.42010v1](http://arxiv.org/abs/2610.42010v1)|null|
+|**2026-10-30**|**TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents**|Xiangyu Kong et.al.|[2610.42004v1](http://arxiv.org/abs/2610.42004v1)|null|
+|**2026-10-30**|**Chronos-2: A foundation model for multivariate time series forecasting**|Abdul Fatir Ansari et.al.|[2610.41956v1](http://arxiv.org/abs/2610.41956v1)|null|
+|**2026-10-30**|**Text as an Index for Zero-Shot Cross-Domain Knowledge Tracing**|Yin Yi et.al.|[2610.41883v1](http://arxiv.org/abs/2610.41883v1)|null|
+|**2026-10-30**|**Self-Supervised Object-Centric Representation for Multi-Task Audio Analysis**|Parthasaarathy Sudarsanam et.al.|[2610.41870v1](http://arxiv.org/abs/2610.41870v1)|null|
+|**2026-10-30**|**SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion**|Jiaming Wang et.al.|[2610.41844v1](http://arxiv.org/abs/2610.41844v1)|null|
+|**2026-10-30**|**Towards Out-of-Distribution Uncertainty Quantification for Machine-Learned Interatomic Potentials via Pre-Training**|Stefan P. Schmid et.al.|[2610.41801v1](http://arxiv.org/abs/2610.41801v1)|null|
+|**2026-10-30**|**CypherGuard: Database-Grounded Correction for Reliable Text-to-Cypher**|Zebin Chen et.al.|[2610.41755v1](http://arxiv.org/abs/2610.41755v1)|null|
+|**2026-10-30**|**Scalable Audio-LLM System for Speech MOS Evaluation: A Diagnostic Case Study and Adaptation Roadmap**|Dimitrios Kokkinis et.al.|[2610.41539v1](http://arxiv.org/abs/2610.41539v1)|null|
+|**2026-10-30**|**When Links Mislead: Label-Free Structural Polarity for Zero-Shot Classification of Web Pages**|Hanshuai Cui et.al.|[2610.41464v1](http://arxiv.org/abs/2610.41464v1)|null|
 |**2026-10-29**|**Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In**|Leonidas Raghav et.al.|[2610.40588v1](http://arxiv.org/abs/2610.40588v1)|null|
 |**2026-10-29**|**RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection**|Joaquín Figueira et.al.|[2610.40580v1](http://arxiv.org/abs/2610.40580v1)|null|
 |**2026-10-29**|**Accurate MRI-free PET Quantification and Reliability Assessment via CT-to-MRI Synthesis and Conformal Prediction**|Jungwoo Seo et.al.|[2610.40478v1](http://arxiv.org/abs/2610.40478v1)|null|

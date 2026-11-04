@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**iMED: A Multi-Endoscope Dataset for Surgical 3D Perception**|Sierra Bonilla et.al.|[2611.04755v1](http://arxiv.org/abs/2611.04755v1)|null|
+|**2026-11-02**|**DUNEDepth: Bronchoscopic Depth and Pose Estimation via Hybrid Adaptation of a 3D-Vision Foundation Model**|Qi Chang et.al.|[2611.04025v1](http://arxiv.org/abs/2611.04025v1)|null|
 |**2026-11-02**|**ReVA-HPE: Relative 6DoF Head Pose Estimation with Synthetic Pose Supervision and Personalized Virtual Anchors**|Vasiliki Vasileiou et.al.|[2611.03283v1](http://arxiv.org/abs/2611.03283v1)|null|
 |**2026-11-02**|**MoSoLoco: Monocular 3D Human Localization through Visual Latent Features and Social Context**|Yasamin Borhani et.al.|[2611.03189v1](http://arxiv.org/abs/2611.03189v1)|null|
 |**2026-11-02**|**MuCHMDPoser: Multiview RGB-Camera Full-Body Pose Tracking for Virtual Reality**|Antoine Maiorca et.al.|[2611.03062v1](http://arxiv.org/abs/2611.03062v1)|null|
@@ -3424,6 +3426,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**SparseGraph-I2P: Consistency-Guided Hypothesis Selection for Efficient Image-to-Point-Cloud Registration**|Ziyang Yu et.al.|[2611.04591v1](http://arxiv.org/abs/2611.04591v1)|null|
 |**2026-11-01**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536v1](http://arxiv.org/abs/2611.01536v1)|null|
 |**2026-10-30**|**SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion**|Jiaming Wang et.al.|[2610.41844v1](http://arxiv.org/abs/2610.41844v1)|null|
 |**2026-10-30**|**Self-Localization of Distributed Microphone Arrays Using One Source and Acoustic Reflections**|Thomas Guffroy et.al.|[2610.41547v1](http://arxiv.org/abs/2610.41547v1)|null|
@@ -4080,6 +4083,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Jisoo Kim et.al.|[2611.05377v1](http://arxiv.org/abs/2611.05377v1)|null|
+|**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361v1](http://arxiv.org/abs/2611.05361v1)|null|
+|**2026-11-03**|**CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting**|Yueqiao Chen et.al.|[2611.05325v1](http://arxiv.org/abs/2611.05325v1)|null|
+|**2026-11-03**|**Diffusion Plug-in Priors for Self-Supervised Ultrasound Video Restoration**|Chu Chen et.al.|[2611.05206v1](http://arxiv.org/abs/2611.05206v1)|null|
+|**2026-11-03**|**Basin2Vec: Learning Basin-Centric Embeddings for Scalable Hydrological Modeling**|Muhammad Talha et.al.|[2611.05164v1](http://arxiv.org/abs/2611.05164v1)|null|
+|**2026-11-03**|**High-fidelity training-free photovoltaic module mapping from multi-view UAV imagery**|WenHao Duana et.al.|[2611.05131v1](http://arxiv.org/abs/2611.05131v1)|null|
+|**2026-11-03**|**Manifold Embedding of Deep Image Features for Image Matching via Neural Adjoint Maps**|Nafie El Amrani et.al.|[2611.05083v1](http://arxiv.org/abs/2611.05083v1)|null|
+|**2026-11-03**|**On the Learnability of Footwear Robustness: Footstep Recognition Under Unseen Conditions**|Robyn Larracy et.al.|[2611.05049v1](http://arxiv.org/abs/2611.05049v1)|null|
+|**2026-11-03**|**BrainwashedLLM: Jailbreaking via Automated Adversarial Chain of Thoughts Discovery**|Masoud Poorghaffar Aghdam et.al.|[2611.04717v1](http://arxiv.org/abs/2611.04717v1)|null|
+|**2026-11-03**|**VISAGE: Vertex-based Intrinsic Surface Appearance GEneration via Dual-Stream Diffusion for Arbitrary 3D Heads**|Jeremias Krauß et.al.|[2611.04712v1](http://arxiv.org/abs/2611.04712v1)|null|
 |**2026-11-02**|**D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models**|Marius Memmel et.al.|[2611.03622v1](http://arxiv.org/abs/2611.03622v1)|null|
 |**2026-11-02**|**SNAP: Semantic Navigation Among Pedestrians**|Jakob Wolfram et.al.|[2611.03498v1](http://arxiv.org/abs/2611.03498v1)|null|
 |**2026-11-02**|**Intent2CAD: How Semantic-Parametric Supervision Shapes Text-to-CAD Generation**|Jinbo Yang et.al.|[2611.03449v1](http://arxiv.org/abs/2611.03449v1)|null|

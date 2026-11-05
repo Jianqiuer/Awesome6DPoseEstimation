@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.11.04
+## Updated on 2026.11.05
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Procedural Adversarial Learning**|Jack Nugent et.al.|[2611.06890v1](http://arxiv.org/abs/2611.06890v1)|null|
+|**2026-11-04**|**Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation**|Abhiram Kothagundu et.al.|[2611.06734v1](http://arxiv.org/abs/2611.06734v1)|null|
+|**2026-11-04**|**SpikePose: Lightweight Video Human Pose Estimation**|Yunhao Huang et.al.|[2611.06594v1](http://arxiv.org/abs/2611.06594v1)|null|
+|**2026-11-04**|**UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation**|Jingwen Yu et.al.|[2611.06378v1](http://arxiv.org/abs/2611.06378v1)|null|
+|**2026-11-04**|**3D Pose Estimation in Projection Space via Pixel-level Visible Light Communication**|Michikuni Eguchi et.al.|[2611.06121v1](http://arxiv.org/abs/2611.06121v1)|null|
+|**2026-11-04**|**Look Before You Move: Multimodal Sensing-Aided Trajectory and Beamforming Design for 6DMA**|Zeyu Hao et.al.|[2611.05989v1](http://arxiv.org/abs/2611.05989v1)|null|
 |**2026-11-03**|**iMED: A Multi-Endoscope Dataset for Surgical 3D Perception**|Sierra Bonilla et.al.|[2611.04755v1](http://arxiv.org/abs/2611.04755v1)|null|
 |**2026-11-02**|**DUNEDepth: Bronchoscopic Depth and Pose Estimation via Hybrid Adaptation of a 3D-Vision Foundation Model**|Qi Chang et.al.|[2611.04025v1](http://arxiv.org/abs/2611.04025v1)|null|
 |**2026-11-02**|**ReVA-HPE: Relative 6DoF Head Pose Estimation with Synthetic Pose Supervision and Personalized Virtual Anchors**|Vasiliki Vasileiou et.al.|[2611.03283v1](http://arxiv.org/abs/2611.03283v1)|null|
@@ -3801,6 +3807,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569v1](http://arxiv.org/abs/2611.05569v1)|null|
 |**2026-11-02**|**Aerial Content-Aware Sample-Adaptive Classifier for Urban Photogrammetric Point Cloud Segmentation**|Chong Liu et.al.|[2611.02844v1](http://arxiv.org/abs/2611.02844v1)|null|
 |**2026-10-30**|**Interpretable structural temperature scaling for calibrating graph neural networks and point-cloud segmentation**|Chenyi Huang et.al.|[2611.00175v1](http://arxiv.org/abs/2611.00175v1)|null|
 |**2026-10-25**|**Cut a Wall, See a Wall: Identity Substitution in Occluded Point-Cloud Perception for Construction Robots**|Tsung-Lung Yang et.al.|[2610.34040v1](http://arxiv.org/abs/2610.34040v1)|null|
@@ -4083,6 +4090,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-04**|**Perceptive Humanoid Motion from Simulation**|Siyuan Hu et.al.|[2611.06908v1](http://arxiv.org/abs/2611.06908v1)|null|
+|**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905v1](http://arxiv.org/abs/2611.06905v1)|null|
+|**2026-11-04**|**Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token**|Tommy He et.al.|[2611.06837v1](http://arxiv.org/abs/2611.06837v1)|null|
+|**2026-11-04**|**LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models**|Lele Yang et.al.|[2611.06835v1](http://arxiv.org/abs/2611.06835v1)|null|
+|**2026-11-04**|**Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models**|Juncheng Ma et.al.|[2611.06817v1](http://arxiv.org/abs/2611.06817v1)|null|
+|**2026-11-04**|**Route First, See Later: Enabling Vision Agents to Reason Scientifically by Separating Routing Policy from Action Spaces**|Shubhabrata Mukherjee et.al.|[2611.06760v1](http://arxiv.org/abs/2611.06760v1)|null|
+|**2026-11-04**|**Dexterous Robotic Hands in the Foundation-Model Era: A Full-Stack Survey of Hardware, Data, Cross-Embodiment Transfer, Learning, and Evaluation**|Ji Pei et.al.|[2611.06724v1](http://arxiv.org/abs/2611.06724v1)|null|
+|**2026-11-04**|**Energy-Guided Transport for Projection-Free Physics-Informed Flow Matching**|Giuliano Galadini et.al.|[2611.06711v1](http://arxiv.org/abs/2611.06711v1)|null|
+|**2026-11-04**|**Playing Soccer Like Humans Do: Learning Versatile and Agile Humanoid Soccer via Latent Motion Priors**|Haoyu Shao et.al.|[2611.06564v1](http://arxiv.org/abs/2611.06564v1)|null|
+|**2026-11-04**|**Zero-Shot Coordination among LLM Agents**|Adrian Hayler et.al.|[2611.06409v1](http://arxiv.org/abs/2611.06409v1)|null|
 |**2026-11-03**|**DreamX: Video Diffusion Model is a Universal Latent Action Learner**|Jisoo Kim et.al.|[2611.05377v1](http://arxiv.org/abs/2611.05377v1)|null|
 |**2026-11-03**|**Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments**|Zhipeng Zhong et.al.|[2611.05361v1](http://arxiv.org/abs/2611.05361v1)|null|
 |**2026-11-03**|**CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting**|Yueqiao Chen et.al.|[2611.05325v1](http://arxiv.org/abs/2611.05325v1)|null|

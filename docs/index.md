@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.11.05
+## Updated on 2026.11.06
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477v1](http://arxiv.org/abs/2611.08477v1)|null|
+|**2026-11-05**|**Radio-to-Pose Information for Gauge-Drift Correction in Cooperative Localization**|Aditya Iyer et.al.|[2611.08361v1](http://arxiv.org/abs/2611.08361v1)|null|
+|**2026-11-05**|**Development of Anthropomorphic Arm for collaborative and Home Service Robot CHARMIE**|Hafiz Adil et.al.|[2611.08013v1](http://arxiv.org/abs/2611.08013v1)|null|
+|**2026-11-05**|**STAG-Net: Structure-Aware Attention over Landmark Groups for Lightweight Head Pose Estimation**|Asiri Gawesha Lindamulage et.al.|[2611.07828v1](http://arxiv.org/abs/2611.07828v1)|null|
+|**2026-11-05**|**Real-Time Event-Based LED Tracking and Pose Estimation with PWM-Encoded Markers**|Junkai Niu et.al.|[2611.07630v1](http://arxiv.org/abs/2611.07630v1)|null|
+|**2026-11-05**|**Compact Motion Embeddings for Feed-forward Unified Human Animation**|Seonwook Park et.al.|[2611.07481v1](http://arxiv.org/abs/2611.07481v1)|null|
 |**2026-11-04**|**Procedural Adversarial Learning**|Jack Nugent et.al.|[2611.06890v1](http://arxiv.org/abs/2611.06890v1)|null|
 |**2026-11-04**|**Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation**|Abhiram Kothagundu et.al.|[2611.06734v1](http://arxiv.org/abs/2611.06734v1)|null|
 |**2026-11-04**|**SpikePose: Lightweight Video Human Pose Estimation**|Yunhao Huang et.al.|[2611.06594v1](http://arxiv.org/abs/2611.06594v1)|null|
@@ -3432,8 +3438,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463v1](http://arxiv.org/abs/2611.07463v1)|null|
 |**2026-11-03**|**SparseGraph-I2P: Consistency-Guided Hypothesis Selection for Efficient Image-to-Point-Cloud Registration**|Ziyang Yu et.al.|[2611.04591v1](http://arxiv.org/abs/2611.04591v1)|null|
-|**2026-11-01**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536v1](http://arxiv.org/abs/2611.01536v1)|null|
+|**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536v2](http://arxiv.org/abs/2611.01536v2)|null|
 |**2026-10-30**|**SketchMate: Agentic Geometric Reasoning for Zero-Shot Precision Insertion**|Jiaming Wang et.al.|[2610.41844v1](http://arxiv.org/abs/2610.41844v1)|null|
 |**2026-10-30**|**Self-Localization of Distributed Microphone Arrays Using One Source and Acoustic Reflections**|Thomas Guffroy et.al.|[2610.41547v1](http://arxiv.org/abs/2610.41547v1)|null|
 |**2026-10-29**|**Joint Rigid Alignment and Morphable Reconstruction from Partial 3D Face Scans**|Eli A. Underwood et.al.|[2610.39161v1](http://arxiv.org/abs/2610.39161v1)|null|
@@ -4090,6 +4097,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487v1](http://arxiv.org/abs/2611.08487v1)|null|
+|**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Chanho Kim et.al.|[2611.08330v1](http://arxiv.org/abs/2611.08330v1)|null|
+|**2026-11-05**|**Escalate or Close: How Fast-Tier Models Handle Held-Out Web Attack Families in Two-Tier Triage**|Maciej Kisielewicz et.al.|[2611.08229v1](http://arxiv.org/abs/2611.08229v1)|null|
+|**2026-11-05**|**FreeOcc: Decoupling Ego-Motion for Efficient 4D Occupancy Forecasting via Continuous Flow Matching**|Zeping Zhang et.al.|[2611.08128v1](http://arxiv.org/abs/2611.08128v1)|null|
+|**2026-11-05**|**A Hybrid UKF with Explicit Drivetrain Modeling for Low-Velocity State Estimation of Electric Vehicles**|Hendrik Schäfke et.al.|[2611.08117v1](http://arxiv.org/abs/2611.08117v1)|null|
+|**2026-11-05**|**Reinforcing End-to-End Autonomous Driving Safety via Negative-Aware Planning in a Unified World-Action Model**|Zihao Zhang et.al.|[2611.08111v1](http://arxiv.org/abs/2611.08111v1)|null|
+|**2026-11-05**|**MUSS: A Multi-scale and Sequence-based Model for Single-cell Gene Regulation**|Kangjie Zheng et.al.|[2611.08086v1](http://arxiv.org/abs/2611.08086v1)|null|
+|**2026-11-05**|**DictLLM: Post-training Compression of Large Language Model with Dictionary Kernels**|Jinho Park et.al.|[2611.08082v1](http://arxiv.org/abs/2611.08082v1)|null|
+|**2026-11-05**|**Can an LLM Actually Reason and Program about Neural Network's Weights or is it just memorization on steroids? Exploring "Weight-Space Programming"**|Nazmus Sakib Ahmed et.al.|[2611.08070v1](http://arxiv.org/abs/2611.08070v1)|null|
+|**2026-11-05**|**How Far Can Lightweight LLMs Go in Intent-to-SLO Translation?**|Sabbir Ahmed et.al.|[2611.07982v1](http://arxiv.org/abs/2611.07982v1)|null|
 |**2026-11-04**|**Perceptive Humanoid Motion from Simulation**|Siyuan Hu et.al.|[2611.06908v1](http://arxiv.org/abs/2611.06908v1)|null|
 |**2026-11-04**|**Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement**|Michal Korniak et.al.|[2611.06905v1](http://arxiv.org/abs/2611.06905v1)|null|
 |**2026-11-04**|**Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token**|Tommy He et.al.|[2611.06837v1](http://arxiv.org/abs/2611.06837v1)|null|

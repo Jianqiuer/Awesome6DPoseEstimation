@@ -1,4 +1,4 @@
-## Updated on 2026.11.08
+## Updated on 2026.11.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Evaluating Anterior Cruciate Ligament Risk of Injury Using a Graph Convolutional Autoencoder**|Athanasios Babouras et.al.|[2611.09724v1](http://arxiv.org/abs/2611.09724v1)|null|
+|**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717v1](http://arxiv.org/abs/2611.09717v1)|null|
+|**2026-11-06**|**Extended Model-Based Learned Inertial Odometry**|Sasanka Kuruppu Arachchige et.al.|[2611.09584v1](http://arxiv.org/abs/2611.09584v1)|null|
+|**2026-11-06**|**AISHELL8-FISHEYE: A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines**|Peijun Yang et.al.|[2611.09368v1](http://arxiv.org/abs/2611.09368v1)|null|
+|**2026-11-06**|**Rhythmic Fitness Beat 'Em All using Real-Time Monocular Human Pose Estimation**|Yanis Zaoui et.al.|[2611.09228v1](http://arxiv.org/abs/2611.09228v1)|null|
+|**2026-11-06**|**MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues**|Shifan Zhu et.al.|[2611.08954v1](http://arxiv.org/abs/2611.08954v1)|null|
+|**2026-11-06**|**What Limits mmWave Human-State Sensing for Robot Perception?**|Shuntian Zheng et.al.|[2611.08863v1](http://arxiv.org/abs/2611.08863v1)|null|
 |**2026-11-05**|**EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling**|Yanlin Jin et.al.|[2611.08477v1](http://arxiv.org/abs/2611.08477v1)|null|
 |**2026-11-05**|**Radio-to-Pose Information for Gauge-Drift Correction in Cooperative Localization**|Aditya Iyer et.al.|[2611.08361v1](http://arxiv.org/abs/2611.08361v1)|null|
 |**2026-11-05**|**Development of Anthropomorphic Arm for collaborative and Home Service Robot CHARMIE**|Hafiz Adil et.al.|[2611.08013v1](http://arxiv.org/abs/2611.08013v1)|null|
@@ -3440,7 +3447,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3818,7 +3825,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4103,12 +4110,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**On Agentic Manipulation Policies**|Chen Chen et.al.|[2611.09892v1](http://arxiv.org/abs/2611.09892v1)|null|
+|**2026-11-06**|**Zero-Shot Benchmarking of Unified Multimodal Models for Shallow-Water UAV Image Distortion Assessment and Restoration**|Dario Scilla et.al.|[2611.09740v1](http://arxiv.org/abs/2611.09740v1)|null|
+|**2026-11-06**|**Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning**|Chang Rajani et.al.|[2611.09679v1](http://arxiv.org/abs/2611.09679v1)|null|
+|**2026-11-06**|**Decoupled Mode Connectivity for Base-to-Novel Generalization in Vision-Language Models**|Imad Eddine Marouf et.al.|[2611.09655v1](http://arxiv.org/abs/2611.09655v1)|null|
+|**2026-11-06**|**SPSC: Zero-Shot Cross-Subject EEG-to-Image Reconstruction via Semantic Preservation and Subspace Calibration**|Yutang Lu et.al.|[2611.09380v1](http://arxiv.org/abs/2611.09380v1)|null|
+|**2026-11-06**|**Reliable Prerequisite-Aware Learning Path Recommendation under Uncertain Knowledge Structures: Long-Horizon Evaluation and Cross-Dataset Validation**|M. M. Golam Hafiz et.al.|[2611.09345v1](http://arxiv.org/abs/2611.09345v1)|null|
+|**2026-11-06**|**DiffusionRef-IMU: Guide-Anchored Residual Diffusion for Cross-Location Inertial Measurement Unit Translation**|M. M. Golam Hafiz et.al.|[2611.09323v1](http://arxiv.org/abs/2611.09323v1)|null|
+|**2026-11-06**|**Zero-Shot Weight-Space Programming Across a Difficulty-Graded Ladder of Two-Player Games**|Eduardo C. Garrido-Merchán et.al.|[2611.09271v1](http://arxiv.org/abs/2611.09271v1)|null|
+|**2026-11-06**|**EGT: Execution-Grounded Traversability through Learned Closed-Loop Trajectory Distributions**|Chinmay Mundane et.al.|[2611.09270v1](http://arxiv.org/abs/2611.09270v1)|null|
+|**2026-11-06**|**TailDART: Compute-Efficient Foundation Models for Financial Time-Series Forecasting**|Chiang Qin Zhi et.al.|[2611.09176v1](http://arxiv.org/abs/2611.09176v1)|null|
 |**2026-11-05**|**User Embeddings are Superpositions of Interpretable Behavioral Modes**|Jonathan Kozaczuk et.al.|[2611.08487v1](http://arxiv.org/abs/2611.08487v1)|null|
 |**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Chanho Kim et.al.|[2611.08330v1](http://arxiv.org/abs/2611.08330v1)|null|
 |**2026-11-05**|**Escalate or Close: How Fast-Tier Models Handle Held-Out Web Attack Families in Two-Tier Triage**|Maciej Kisielewicz et.al.|[2611.08229v1](http://arxiv.org/abs/2611.08229v1)|null|
@@ -12624,5 +12641,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261108>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
 

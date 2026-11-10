@@ -1,4 +1,4 @@
-## Updated on 2026.11.09
+## Updated on 2026.11.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency**|Xiaozhi Zhang et.al.|[2611.12149v1](http://arxiv.org/abs/2611.12149v1)|null|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
+|**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011v1](http://arxiv.org/abs/2611.12011v1)|null|
+|**2026-11-09**|**Reliability-Adaptive Multimodal Relative Pose Tracking for Underwater Leader-Follower Robots**|Mingyang Yang et.al.|[2611.11940v1](http://arxiv.org/abs/2611.11940v1)|null|
+|**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934v1](http://arxiv.org/abs/2611.11934v1)|null|
+|**2026-11-09**|**Budget-aware Correspondence-driven View Selection for Real-time 3D Perception of Mobile Robots**|Vaishnav Ramesh et.al.|[2611.11809v1](http://arxiv.org/abs/2611.11809v1)|null|
+|**2026-11-09**|**Towards Rotation-Only Imaging Geometry: Multi-View Pose Estimation**|Xinrui Li et.al.|[2611.11770v1](http://arxiv.org/abs/2611.11770v1)|null|
+|**2026-11-08**|**Tutorial: Vision-Based Formation Control with Differential-Drive Robots**|Christian Marowski et.al.|[2611.11164v1](http://arxiv.org/abs/2611.11164v1)|null|
+|**2026-11-07**|**S2HAND: Accuracy-Preservation Trade-Offs for Hand Specialization in Whole-Body Pose Models**|Singyu Muk et.al.|[2611.10416v1](http://arxiv.org/abs/2611.10416v1)|null|
 |**2026-11-06**|**Evaluating Anterior Cruciate Ligament Risk of Injury Using a Graph Convolutional Autoencoder**|Athanasios Babouras et.al.|[2611.09724v1](http://arxiv.org/abs/2611.09724v1)|null|
 |**2026-11-06**|**Direct Regression and Geometric Recovery for Event-based Spacecraft Pose Estimation**|Pruthvi Nandan Janga et.al.|[2611.09717v1](http://arxiv.org/abs/2611.09717v1)|null|
 |**2026-11-06**|**Extended Model-Based Learned Inertial Odometry**|Sasanka Kuruppu Arachchige et.al.|[2611.09584v1](http://arxiv.org/abs/2611.09584v1)|null|
@@ -3447,7 +3456,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3825,12 +3834,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-07**|**Efficient 3D plant segmentation through multiscale graph learning and optimized geometric processing**|Jesus Ivan Ruiz-Martinez et.al.|[2611.11007v1](http://arxiv.org/abs/2611.11007v1)|null|
 |**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569v1](http://arxiv.org/abs/2611.05569v1)|null|
 |**2026-11-02**|**Aerial Content-Aware Sample-Adaptive Classifier for Urban Photogrammetric Point Cloud Segmentation**|Chong Liu et.al.|[2611.02844v1](http://arxiv.org/abs/2611.02844v1)|null|
 |**2026-10-30**|**Interpretable structural temperature scaling for calibrating graph neural networks and point-cloud segmentation**|Chenyi Huang et.al.|[2611.00175v1](http://arxiv.org/abs/2611.00175v1)|null|
@@ -4110,12 +4120,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-09**|**2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling**|Aarya Bhave et.al.|[2611.12805v1](http://arxiv.org/abs/2611.12805v1)|null|
+|**2026-11-09**|**Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval**|Lukun Wu et.al.|[2611.12798v1](http://arxiv.org/abs/2611.12798v1)|null|
+|**2026-11-09**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731v1](http://arxiv.org/abs/2611.12731v1)|null|
+|**2026-11-09**|**Adapting Small Language Models to Romanized Nepali: Tokenizer Fertility, Reference Likelihood, and Generation Metrics**|Pujan Pant et.al.|[2611.12628v1](http://arxiv.org/abs/2611.12628v1)|null|
+|**2026-11-09**|**Bridging Task Planning and Execution for Language-Conditioned Bimanual Manipulation**|Emanuele Cuzzocrea et.al.|[2611.12409v1](http://arxiv.org/abs/2611.12409v1)|null|
+|**2026-11-09**|**TMT: Adapting CLIP to Infrared Imagery via Text-Derived Modality Knowledge Transfer**|Ruofan Wang et.al.|[2611.12345v1](http://arxiv.org/abs/2611.12345v1)|null|
+|**2026-11-09**|**RAIL: Representation-Aligned Imitation Learning for Student-Compatible Teacher Policies**|Meraj Mammadov et.al.|[2611.12251v1](http://arxiv.org/abs/2611.12251v1)|null|
+|**2026-11-09**|**Harnessing Vision-Language Models for Federated Unsupervised Visual Recognition**|Jian Liang et.al.|[2611.12187v1](http://arxiv.org/abs/2611.12187v1)|null|
+|**2026-11-09**|**EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency**|Xiaozhi Zhang et.al.|[2611.12149v1](http://arxiv.org/abs/2611.12149v1)|null|
+|**2026-11-09**|**Do Time-Series Foundation Models Forecast Index-Futures Returns? A Preregistered Evaluation of Models, Metrics, and Input Representations**|Rishabh Upadhyay et.al.|[2611.12141v1](http://arxiv.org/abs/2611.12141v1)|null|
 |**2026-11-06**|**On Agentic Manipulation Policies**|Chen Chen et.al.|[2611.09892v1](http://arxiv.org/abs/2611.09892v1)|null|
 |**2026-11-06**|**Zero-Shot Benchmarking of Unified Multimodal Models for Shallow-Water UAV Image Distortion Assessment and Restoration**|Dario Scilla et.al.|[2611.09740v1](http://arxiv.org/abs/2611.09740v1)|null|
 |**2026-11-06**|**Autonomous Particle Image Velocimetry Using Zero-Shot Sim-to-Real Reinforcement Learning**|Chang Rajani et.al.|[2611.09679v1](http://arxiv.org/abs/2611.09679v1)|null|
@@ -12641,5 +12661,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261109>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
 

@@ -2,11 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**CJRR-Net: A Candidate-Joint Reprojection Ranking for Future-View Selection in Human Pose Estimation**|Huiting Xi et.al.|[2611.13700v1](http://arxiv.org/abs/2611.13700v1)|null|
 |**2026-11-09**|**EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency**|Xiaozhi Zhang et.al.|[2611.12149v1](http://arxiv.org/abs/2611.12149v1)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011v1](http://arxiv.org/abs/2611.12011v1)|null|
@@ -4114,6 +4115,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**Emergent Biological Capabilities in a Foundation Model for Molecular Interactions**|Adi Mashiach et.al.|[2611.14504v1](http://arxiv.org/abs/2611.14504v1)|null|
+|**2026-11-10**|**TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics**|Peng Chen et.al.|[2611.14491v1](http://arxiv.org/abs/2611.14491v1)|null|
+|**2026-11-10**|**BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time**|Mobasshir Bhuiya Shagor et.al.|[2611.14476v1](http://arxiv.org/abs/2611.14476v1)|null|
+|**2026-11-10**|**The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs**|Bernhard Voggenberger et.al.|[2611.14357v1](http://arxiv.org/abs/2611.14357v1)|null|
+|**2026-11-10**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281v1](http://arxiv.org/abs/2611.14281v1)|null|
+|**2026-11-10**|**From Prediction to Action: Learning Physical Context for Deformable Linear Object Manipulation**|Chengxiao Dong et.al.|[2611.14274v1](http://arxiv.org/abs/2611.14274v1)|null|
+|**2026-11-10**|**Fine-Tuning an Order-Flow Foundation Model for Sub-Second Forecasting**|Fedor Shabashev et.al.|[2611.14117v1](http://arxiv.org/abs/2611.14117v1)|null|
+|**2026-11-10**|**MEOW: Medical Open-World Interactive Segmentation**|Philip Matthias Winter et.al.|[2611.13935v1](http://arxiv.org/abs/2611.13935v1)|null|
+|**2026-11-10**|**Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs**|Kim Alexander Christensen et.al.|[2611.13903v1](http://arxiv.org/abs/2611.13903v1)|null|
+|**2026-11-10**|**Conformal Risk Control for QoT-Aware Lightpath Feasibility Under Technology-Driven Domain Shift**|Kiarash Rezaei et.al.|[2611.13893v1](http://arxiv.org/abs/2611.13893v1)|null|
 |**2026-11-09**|**2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling**|Aarya Bhave et.al.|[2611.12805v1](http://arxiv.org/abs/2611.12805v1)|null|
 |**2026-11-09**|**Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval**|Lukun Wu et.al.|[2611.12798v1](http://arxiv.org/abs/2611.12798v1)|null|
 |**2026-11-09**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731v1](http://arxiv.org/abs/2611.12731v1)|null|

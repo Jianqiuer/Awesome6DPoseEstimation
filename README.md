@@ -1,4 +1,4 @@
-## Updated on 2026.11.10
+## Updated on 2026.11.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**CJRR-Net: A Candidate-Joint Reprojection Ranking for Future-View Selection in Human Pose Estimation**|Huiting Xi et.al.|[2611.13700v1](http://arxiv.org/abs/2611.13700v1)|null|
 |**2026-11-09**|**EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency**|Xiaozhi Zhang et.al.|[2611.12149v1](http://arxiv.org/abs/2611.12149v1)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011v1](http://arxiv.org/abs/2611.12011v1)|null|
@@ -3456,7 +3457,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261111>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3834,7 +3835,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261111>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4120,12 +4121,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261111>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-10**|**Emergent Biological Capabilities in a Foundation Model for Molecular Interactions**|Adi Mashiach et.al.|[2611.14504v1](http://arxiv.org/abs/2611.14504v1)|null|
+|**2026-11-10**|**TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics**|Peng Chen et.al.|[2611.14491v1](http://arxiv.org/abs/2611.14491v1)|null|
+|**2026-11-10**|**BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time**|Mobasshir Bhuiya Shagor et.al.|[2611.14476v1](http://arxiv.org/abs/2611.14476v1)|null|
+|**2026-11-10**|**The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs**|Bernhard Voggenberger et.al.|[2611.14357v1](http://arxiv.org/abs/2611.14357v1)|null|
+|**2026-11-10**|**UniFlow-RS: Unified Generative Prediction for Heterogeneous Remote-Sensing Tasks**|Jianlong He et.al.|[2611.14281v1](http://arxiv.org/abs/2611.14281v1)|null|
+|**2026-11-10**|**From Prediction to Action: Learning Physical Context for Deformable Linear Object Manipulation**|Chengxiao Dong et.al.|[2611.14274v1](http://arxiv.org/abs/2611.14274v1)|null|
+|**2026-11-10**|**Fine-Tuning an Order-Flow Foundation Model for Sub-Second Forecasting**|Fedor Shabashev et.al.|[2611.14117v1](http://arxiv.org/abs/2611.14117v1)|null|
+|**2026-11-10**|**MEOW: Medical Open-World Interactive Segmentation**|Philip Matthias Winter et.al.|[2611.13935v1](http://arxiv.org/abs/2611.13935v1)|null|
+|**2026-11-10**|**Persistent Metric-Semantic Maritime Scene Memory from Open-Vocabulary 3D Scene Graphs**|Kim Alexander Christensen et.al.|[2611.13903v1](http://arxiv.org/abs/2611.13903v1)|null|
+|**2026-11-10**|**Conformal Risk Control for QoT-Aware Lightpath Feasibility Under Technology-Driven Domain Shift**|Kiarash Rezaei et.al.|[2611.13893v1](http://arxiv.org/abs/2611.13893v1)|null|
 |**2026-11-09**|**2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling**|Aarya Bhave et.al.|[2611.12805v1](http://arxiv.org/abs/2611.12805v1)|null|
 |**2026-11-09**|**Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval**|Lukun Wu et.al.|[2611.12798v1](http://arxiv.org/abs/2611.12798v1)|null|
 |**2026-11-09**|**NIFT-SQL: Customer-Supervised Table Scoring for Enterprise Text-to-SQL Retrieval**|Arjun Rao et.al.|[2611.12731v1](http://arxiv.org/abs/2611.12731v1)|null|
@@ -12661,5 +12672,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261110>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261111>back to top</a>)</p>
 

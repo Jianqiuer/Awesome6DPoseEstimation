@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.11.12
+## Updated on 2026.11.13
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v1](http://arxiv.org/abs/2611.16423v1)|null|
+|**2026-11-12**|**Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras**|Raul Steinmetz et.al.|[2611.16282v1](http://arxiv.org/abs/2611.16282v1)|null|
+|**2026-11-12**|**Enabling Versatile Human Sensing through Wi-Fi Beamforming Feedback**|Jingzhe Zhang et.al.|[2611.16185v1](http://arxiv.org/abs/2611.16185v1)|null|
+|**2026-11-12**|**GOOSELoc: A Multimodal Benchmark for Ground-to-Aerial Localization in Unstructured Off-Road Terrain**|Fabian Deuser et.al.|[2611.16162v1](http://arxiv.org/abs/2611.16162v1)|null|
+|**2026-11-11**|**SCR-Mamba: Skeleton-conditioned Mamba with cross-scale incremental refinement for efficient 3D human pose estimation**|Jie Wang et.al.|[2611.15526v1](http://arxiv.org/abs/2611.15526v1)|null|
+|**2026-11-11**|**MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments**|Hyunjun Kim et.al.|[2611.15066v1](http://arxiv.org/abs/2611.15066v1)|null|
 |**2026-11-10**|**CJRR-Net: A Candidate-Joint Reprojection Ranking for Future-View Selection in Human Pose Estimation**|Huiting Xi et.al.|[2611.13700v1](http://arxiv.org/abs/2611.13700v1)|null|
 |**2026-11-09**|**EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency**|Xiaozhi Zhang et.al.|[2611.12149v1](http://arxiv.org/abs/2611.12149v1)|null|
 |**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
@@ -3455,6 +3461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**ReFineR: Single image to dense point cloud registration at pixel level with point splatting**|Ugo Insalaco et.al.|[2611.16583v1](http://arxiv.org/abs/2611.16583v1)|null|
+|**2026-11-11**|**Delaunay-Based Nearest Neighbor Search with Grid-Accelerated Queries and Parallel Construction**|Pengfei Wang et.al.|[2611.15320v1](http://arxiv.org/abs/2611.15320v1)|null|
 |**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463v1](http://arxiv.org/abs/2611.07463v1)|null|
 |**2026-11-03**|**SparseGraph-I2P: Consistency-Guided Hypothesis Selection for Efficient Image-to-Point-Cloud Registration**|Ziyang Yu et.al.|[2611.04591v1](http://arxiv.org/abs/2611.04591v1)|null|
 |**2026-11-05**|**CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation**|Lixing Tan et.al.|[2611.01536v2](http://arxiv.org/abs/2611.01536v2)|null|
@@ -4115,6 +4123,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection**|Yingbin Jin et.al.|[2611.16693v1](http://arxiv.org/abs/2611.16693v1)|null|
+|**2026-11-12**|**Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot**|Pengfei Ye et.al.|[2611.16632v1](http://arxiv.org/abs/2611.16632v1)|null|
+|**2026-11-12**|**ZONOS3-Mini Technical Report**|Gabriel Clark et.al.|[2611.16525v1](http://arxiv.org/abs/2611.16525v1)|null|
+|**2026-11-12**|**PiLLVD: A Real-World Low-Light Video Dataset for Dynamic Scenes Captured with Off-the-Shelf Cameras**|Yaser Abu Awwad et.al.|[2611.16515v1](http://arxiv.org/abs/2611.16515v1)|null|
+|**2026-11-12**|**Recurrent Fourier Neural Operator for Event-by-Event Relativistic Hydrodynamics**|Xiangrun Bao et.al.|[2611.16511v1](http://arxiv.org/abs/2611.16511v1)|null|
+|**2026-11-12**|**SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation**|Jaehun Gim et.al.|[2611.16502v1](http://arxiv.org/abs/2611.16502v1)|null|
+|**2026-11-12**|**HIFC-IQA: Train-Free Cross-Domain Image Quality Assessment via Dual-Process Cognition**|Yu Li et.al.|[2611.16451v1](http://arxiv.org/abs/2611.16451v1)|null|
+|**2026-11-12**|**Teach with Blinks: Breaking Linguistic Momentum in On-Policy Distillation for Fine-Grained Multimodal Perception**|Tangzheng Lian et.al.|[2611.16402v1](http://arxiv.org/abs/2611.16402v1)|null|
+|**2026-11-12**|**MutAtlas: A PDB-Wide Energy-Guided Atlas of Protein Mutation Effects**|Ruihan Guo et.al.|[2611.16361v1](http://arxiv.org/abs/2611.16361v1)|null|
+|**2026-11-12**|**SAGE-QA: Semantic-Aware, Grounded Evaluation for Closed-Context Question Answering on SQuAD 2.0**|Chandra N Sekharan et.al.|[2611.16300v1](http://arxiv.org/abs/2611.16300v1)|null|
 |**2026-11-10**|**Emergent Biological Capabilities in a Foundation Model for Molecular Interactions**|Adi Mashiach et.al.|[2611.14504v1](http://arxiv.org/abs/2611.14504v1)|null|
 |**2026-11-10**|**TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics**|Peng Chen et.al.|[2611.14491v1](http://arxiv.org/abs/2611.14491v1)|null|
 |**2026-11-10**|**BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time**|Mobasshir Bhuiya Shagor et.al.|[2611.14476v1](http://arxiv.org/abs/2611.14476v1)|null|

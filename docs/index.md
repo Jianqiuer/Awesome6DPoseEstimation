@@ -15,7 +15,7 @@ layout: default
 |**2026-11-11**|**MiniPose: Miniature-Based Real Data Collection for 6D Pose Estimation of Large Industrial Pipe Segments**|Hyunjun Kim et.al.|[2611.15066v1](http://arxiv.org/abs/2611.15066v1)|null|
 |**2026-11-10**|**CJRR-Net: A Candidate-Joint Reprojection Ranking for Future-View Selection in Human Pose Estimation**|Huiting Xi et.al.|[2611.13700v1](http://arxiv.org/abs/2611.13700v1)|null|
 |**2026-11-09**|**EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency**|Xiaozhi Zhang et.al.|[2611.12149v1](http://arxiv.org/abs/2611.12149v1)|null|
-|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v1](http://arxiv.org/abs/2611.12038v1)|null|
+|**2026-11-12**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038v2](http://arxiv.org/abs/2611.12038v2)|null|
 |**2026-11-09**|**HIST3R: Decomposing and Rectifying State Updates with History for Streaming 3D Reconstruction**|Kenneth Yang et.al.|[2611.12011v1](http://arxiv.org/abs/2611.12011v1)|null|
 |**2026-11-09**|**Reliability-Adaptive Multimodal Relative Pose Tracking for Underwater Leader-Follower Robots**|Mingyang Yang et.al.|[2611.11940v1](http://arxiv.org/abs/2611.11940v1)|null|
 |**2026-11-09**|**Scale-Consistent Monocular Fisheye Visual Odometry via Spherical Bundle Adjustment-Guided Unsupervised Depth Learning**|Wanhui Luo et.al.|[2611.11934v1](http://arxiv.org/abs/2611.11934v1)|null|
@@ -4123,6 +4123,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-12**|**SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery**|Anit Upadhyaya et.al.|[2611.17172v1](http://arxiv.org/abs/2611.17172v1)|null|
+|**2026-11-12**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[2611.16934v1](http://arxiv.org/abs/2611.16934v1)|null|
+|**2026-11-12**|**SPADE: Soft Prompts for Ai-text DEtection**|Alex Jiang et.al.|[2611.16929v1](http://arxiv.org/abs/2611.16929v1)|null|
+|**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793v1](http://arxiv.org/abs/2611.16793v1)|null|
 |**2026-11-12**|**MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection**|Yingbin Jin et.al.|[2611.16693v1](http://arxiv.org/abs/2611.16693v1)|null|
 |**2026-11-12**|**Reins: Frontier Multimodal Models Driving Real Robot Arms on Long-Horizon Tasks, Zero-Shot**|Pengfei Ye et.al.|[2611.16632v1](http://arxiv.org/abs/2611.16632v1)|null|
 |**2026-11-12**|**ZONOS3-Mini Technical Report**|Gabriel Clark et.al.|[2611.16525v1](http://arxiv.org/abs/2611.16525v1)|null|

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2026.11.15
+## Updated on 2026.11.16
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-11-12**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v1](http://arxiv.org/abs/2611.16423v1)|null|
+|**2026-11-13**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v2](http://arxiv.org/abs/2611.16423v2)|null|
 |**2026-11-12**|**Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras**|Raul Steinmetz et.al.|[2611.16282v1](http://arxiv.org/abs/2611.16282v1)|null|
 |**2026-11-12**|**Enabling Versatile Human Sensing through Wi-Fi Beamforming Feedback**|Jingzhe Zhang et.al.|[2611.16185v1](http://arxiv.org/abs/2611.16185v1)|null|
 |**2026-11-12**|**GOOSELoc: A Multimodal Benchmark for Ground-to-Aerial Localization in Unstructured Off-Road Terrain**|Fabian Deuser et.al.|[2611.16162v1](http://arxiv.org/abs/2611.16162v1)|null|
@@ -3839,6 +3839,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces**|Sina Mohammadi et.al.|[2611.18033v1](http://arxiv.org/abs/2611.18033v1)|null|
 |**2026-11-07**|**Efficient 3D plant segmentation through multiscale graph learning and optimized geometric processing**|Jesus Ivan Ruiz-Martinez et.al.|[2611.11007v1](http://arxiv.org/abs/2611.11007v1)|null|
 |**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569v1](http://arxiv.org/abs/2611.05569v1)|null|
 |**2026-11-02**|**Aerial Content-Aware Sample-Adaptive Classifier for Urban Photogrammetric Point Cloud Segmentation**|Chong Liu et.al.|[2611.02844v1](http://arxiv.org/abs/2611.02844v1)|null|
@@ -4123,8 +4124,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-13**|**Marimba: A System One Model for Speech**|Solano Amadori et.al.|[2611.18330v1](http://arxiv.org/abs/2611.18330v1)|null|
+|**2026-11-13**|**FlexCast: Flexible Context Learning for Time Series Foundation Models**|Zuyang Shen et.al.|[2611.17862v1](http://arxiv.org/abs/2611.17862v1)|null|
+|**2026-11-13**|**LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent**|Ibrahim Memon et.al.|[2611.17780v1](http://arxiv.org/abs/2611.17780v1)|null|
+|**2026-11-13**|**ERA: Error-Resistant Autonomous Object Navigation with Predicted Depth**|Shunyang Huang et.al.|[2611.17730v1](http://arxiv.org/abs/2611.17730v1)|null|
+|**2026-11-13**|**Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting**|Xintong Wang et.al.|[2611.17680v1](http://arxiv.org/abs/2611.17680v1)|null|
+|**2026-11-12**|**CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais**|Tiani Pekins Ebika et.al.|[2611.17573v1](http://arxiv.org/abs/2611.17573v1)|null|
 |**2026-11-12**|**SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery**|Anit Upadhyaya et.al.|[2611.17172v1](http://arxiv.org/abs/2611.17172v1)|null|
-|**2026-11-12**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[2611.16934v1](http://arxiv.org/abs/2611.16934v1)|null|
+|**2026-11-13**|**Time Flies When You Parallelise: Pareto-efficient Time Series Foundation Models with Linear Recurrences**|Torben Berndt et.al.|[2611.16934v2](http://arxiv.org/abs/2611.16934v2)|null|
 |**2026-11-12**|**SPADE: Soft Prompts for Ai-text DEtection**|Alex Jiang et.al.|[2611.16929v1](http://arxiv.org/abs/2611.16929v1)|null|
 |**2026-11-12**|**EG360: Efficient and Generalizable $360^\circ$ Depth Estimation via Adaptive Panorama-Perspective Distillation and Spherical Cross-Level Feature Fusion**|Laiyan Ding et.al.|[2611.16793v1](http://arxiv.org/abs/2611.16793v1)|null|
 |**2026-11-12**|**MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection**|Yingbin Jin et.al.|[2611.16693v1](http://arxiv.org/abs/2611.16693v1)|null|

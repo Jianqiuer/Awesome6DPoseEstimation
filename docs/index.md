@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.11.16
+## Updated on 2026.11.17
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Polygraph: Large-Scale Multi-Session Trajectory Optimization using Pose Graphs**|Petar Lukovic et.al.|[2611.21163v1](http://arxiv.org/abs/2611.21163v1)|null|
+|**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044v1](http://arxiv.org/abs/2611.21044v1)|null|
+|**2026-11-16**|**Correspondence-Free Camera Pose Estimation by Matching Moments**|Subhransu S. Bhattacharjee et.al.|[2611.20797v1](http://arxiv.org/abs/2611.20797v1)|null|
+|**2026-11-16**|**Structure-Guided Multi-Granularity Spatiotemporal Transformer for Efficient Monocular 3D Human Pose Estimation**|Sheng Xu et.al.|[2611.20361v1](http://arxiv.org/abs/2611.20361v1)|null|
+|**2026-11-15**|**Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark**|Nikolay Dolgov et.al.|[2611.20321v1](http://arxiv.org/abs/2611.20321v1)|null|
+|**2026-11-15**|**AstroPIE-53: Towards Understanding Failure Modes of Human Pose Estimation in Space**|Stephanie Käs et.al.|[2611.20207v1](http://arxiv.org/abs/2611.20207v1)|null|
+|**2026-11-14**|**Leaning Over to Reach Far-Away Objects**|Allen Devaraj et.al.|[2611.19100v1](http://arxiv.org/abs/2611.19100v1)|null|
 |**2026-11-13**|**VOKE: Visual Object Kinematics Estimator for Dexterous In-Hand Manipulation**|Shengjia Zhu et.al.|[2611.16423v2](http://arxiv.org/abs/2611.16423v2)|null|
 |**2026-11-12**|**Robot Navigation and Obstacle Avoidance from Randomly Positioned External Cameras**|Raul Steinmetz et.al.|[2611.16282v1](http://arxiv.org/abs/2611.16282v1)|null|
 |**2026-11-12**|**Enabling Versatile Human Sensing through Wi-Fi Beamforming Feedback**|Jingzhe Zhang et.al.|[2611.16185v1](http://arxiv.org/abs/2611.16185v1)|null|
@@ -4124,6 +4131,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-16**|**Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters**|Korede R. Bishi et.al.|[2611.21562v1](http://arxiv.org/abs/2611.21562v1)|null|
+|**2026-11-16**|**Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse**|Jorge Valverde-Rebaza et.al.|[2611.21535v1](http://arxiv.org/abs/2611.21535v1)|null|
+|**2026-11-16**|**Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation**|Dumindu Samaraweera et.al.|[2611.21488v1](http://arxiv.org/abs/2611.21488v1)|null|
+|**2026-11-16**|**Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits**|Henry Zheng et.al.|[2611.21485v1](http://arxiv.org/abs/2611.21485v1)|null|
+|**2026-11-16**|**Representational Change Under Self-Consuming Training: A Sparse Autoencoder Analysis**|Suchit Gupte et.al.|[2611.21348v1](http://arxiv.org/abs/2611.21348v1)|null|
+|**2026-11-16**|**TRIAGE-CPG: A Cross-Model Study of Budgeted Static Malware Triage with Large Language Models**|Paul-Andrei Sava et.al.|[2611.21331v1](http://arxiv.org/abs/2611.21331v1)|null|
+|**2026-11-16**|**Déjà-Events: Multi-view 3D Geometry with Event Cameras via Sparsity-Aware Adaptive Gating**|Arda Cinar Demirtas et.al.|[2611.21302v1](http://arxiv.org/abs/2611.21302v1)|null|
+|**2026-11-16**|**The Price of Choosing Examples: Context Overfitting in Adaptive In-Context Learning**|Xiaoyu Li et.al.|[2611.21251v1](http://arxiv.org/abs/2611.21251v1)|null|
+|**2026-11-16**|**IGRecon4D: Dynamic-Object-Aware Feed-Forward Reconstruction of Driving Scenes**|Yifei Tong et.al.|[2611.21126v1](http://arxiv.org/abs/2611.21126v1)|null|
+|**2026-11-16**|**VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection**|Ke Sun et.al.|[2611.21114v1](http://arxiv.org/abs/2611.21114v1)|null|
 |**2026-11-13**|**Marimba: A System One Model for Speech**|Solano Amadori et.al.|[2611.18330v1](http://arxiv.org/abs/2611.18330v1)|null|
 |**2026-11-13**|**FlexCast: Flexible Context Learning for Time Series Foundation Models**|Zuyang Shen et.al.|[2611.17862v1](http://arxiv.org/abs/2611.17862v1)|null|
 |**2026-11-13**|**LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent**|Ibrahim Memon et.al.|[2611.17780v1](http://arxiv.org/abs/2611.17780v1)|null|

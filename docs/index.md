@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Wear and Go: Calibration Free Sparse Inertial Motion Capture via Online Sensor Setup Estimation**|Yuanshuo Tan et.al.|[2611.22894v1](http://arxiv.org/abs/2611.22894v1)|null|
+|**2026-11-17**|**The Multivariate Feedback Particle Filter for State-dependent Multiplicative Noises and Its Application to Attitude and Pose Estimations**|Jingyao You et.al.|[2611.22518v1](http://arxiv.org/abs/2611.22518v1)|null|
+|**2026-11-17**|**HandRSI: Recursive Self-Improvement for Hand Pose Estimation**|Zhekai Wang et.al.|[2611.22164v1](http://arxiv.org/abs/2611.22164v1)|null|
 |**2026-11-16**|**Polygraph: Large-Scale Multi-Session Trajectory Optimization using Pose Graphs**|Petar Lukovic et.al.|[2611.21163v1](http://arxiv.org/abs/2611.21163v1)|null|
 |**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044v1](http://arxiv.org/abs/2611.21044v1)|null|
 |**2026-11-16**|**Correspondence-Free Camera Pose Estimation by Matching Moments**|Subhransu S. Bhattacharjee et.al.|[2611.20797v1](http://arxiv.org/abs/2611.20797v1)|null|
@@ -3468,6 +3471,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**Kolibri: Color Finds the Place, Refinement Sets the Pose for RGB-D Localization in Colored Point Clouds**|Leonel Aguilar et.al.|[2611.22829v1](http://arxiv.org/abs/2611.22829v1)|null|
+|**2026-11-17**|**The Multivariate Feedback Particle Filter for State-dependent Multiplicative Noises and Its Application to Attitude and Pose Estimations**|Jingyao You et.al.|[2611.22518v1](http://arxiv.org/abs/2611.22518v1)|null|
 |**2026-11-12**|**ReFineR: Single image to dense point cloud registration at pixel level with point splatting**|Ugo Insalaco et.al.|[2611.16583v1](http://arxiv.org/abs/2611.16583v1)|null|
 |**2026-11-11**|**Delaunay-Based Nearest Neighbor Search with Grid-Accelerated Queries and Parallel Construction**|Pengfei Wang et.al.|[2611.15320v1](http://arxiv.org/abs/2611.15320v1)|null|
 |**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463v1](http://arxiv.org/abs/2611.07463v1)|null|
@@ -4131,6 +4136,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-17**|**UnrealEvent: Synthetic Dataset Generation and Annotation for Event-Based Vision**|Yentel Schoovaerts et.al.|[2611.23078v1](http://arxiv.org/abs/2611.23078v1)|null|
+|**2026-11-17**|**Magflow: Differentiable Simulation of Industrial-Grade 6D Magnetic Levitation**|Philipp Hartmann et.al.|[2611.23050v1](http://arxiv.org/abs/2611.23050v1)|null|
+|**2026-11-17**|**TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates**|Xinying Hu et.al.|[2611.23026v1](http://arxiv.org/abs/2611.23026v1)|null|
+|**2026-11-17**|**MI-Hyper: Generating Multiple Instance Models for Weight Space Transfer Learning in Histopathology via Mixed Tasks Pretrained HyperNetwork**|Xitong Ling et.al.|[2611.22968v1](http://arxiv.org/abs/2611.22968v1)|null|
+|**2026-11-17**|**A high-dimensional spatial-physical coupling operator for generalizable super-resolution of three-dimensional turbulent flows**|Zengyuan Zuo et.al.|[2611.22951v1](http://arxiv.org/abs/2611.22951v1)|null|
+|**2026-11-17**|**Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?**|Md Tahmid Rahman Laskar et.al.|[2611.22949v1](http://arxiv.org/abs/2611.22949v1)|null|
+|**2026-11-17**|**When Do Typed Decision Models Work in Transportation? Evidence from Travel Choice and Traffic Signal Control**|Hongyang Zhang et.al.|[2611.22926v1](http://arxiv.org/abs/2611.22926v1)|null|
+|**2026-11-17**|**Music Similarity Learning in Sparse Latin Scenarios**|Gabrielly Xavier dos Santos et.al.|[2611.22846v1](http://arxiv.org/abs/2611.22846v1)|null|
+|**2026-11-17**|**Zero-Shot Compositional Generalization for Embodied Manipulation**|Baicheng Li et.al.|[2611.22797v1](http://arxiv.org/abs/2611.22797v1)|null|
+|**2026-11-17**|**Learning Cross-Domain Media Similarity from Amazon Reviews**|Gabrielly Xavier dos Santos et.al.|[2611.22756v1](http://arxiv.org/abs/2611.22756v1)|null|
 |**2026-11-16**|**Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters**|Korede R. Bishi et.al.|[2611.21562v1](http://arxiv.org/abs/2611.21562v1)|null|
 |**2026-11-16**|**Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse**|Jorge Valverde-Rebaza et.al.|[2611.21535v1](http://arxiv.org/abs/2611.21535v1)|null|
 |**2026-11-16**|**Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation**|Dumindu Samaraweera et.al.|[2611.21488v1](http://arxiv.org/abs/2611.21488v1)|null|

@@ -1,4 +1,4 @@
-## Updated on 2026.11.17
+## Updated on 2026.11.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Wear and Go: Calibration Free Sparse Inertial Motion Capture via Online Sensor Setup Estimation**|Yuanshuo Tan et.al.|[2611.22894v1](http://arxiv.org/abs/2611.22894v1)|null|
+|**2026-11-17**|**The Multivariate Feedback Particle Filter for State-dependent Multiplicative Noises and Its Application to Attitude and Pose Estimations**|Jingyao You et.al.|[2611.22518v1](http://arxiv.org/abs/2611.22518v1)|null|
+|**2026-11-17**|**HandRSI: Recursive Self-Improvement for Hand Pose Estimation**|Zhekai Wang et.al.|[2611.22164v1](http://arxiv.org/abs/2611.22164v1)|null|
 |**2026-11-16**|**Polygraph: Large-Scale Multi-Session Trajectory Optimization using Pose Graphs**|Petar Lukovic et.al.|[2611.21163v1](http://arxiv.org/abs/2611.21163v1)|null|
 |**2026-11-16**|**Body of Evidence: Triangulating 3D Human Pose with Geometry-Conditioned Depth**|Erik Brorsson et.al.|[2611.21044v1](http://arxiv.org/abs/2611.21044v1)|null|
 |**2026-11-16**|**Correspondence-Free Camera Pose Estimation by Matching Moments**|Subhransu S. Bhattacharjee et.al.|[2611.20797v1](http://arxiv.org/abs/2611.20797v1)|null|
@@ -3470,12 +3473,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261118>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Kolibri: Color Finds the Place, Refinement Sets the Pose for RGB-D Localization in Colored Point Clouds**|Leonel Aguilar et.al.|[2611.22829v1](http://arxiv.org/abs/2611.22829v1)|null|
+|**2026-11-17**|**The Multivariate Feedback Particle Filter for State-dependent Multiplicative Noises and Its Application to Attitude and Pose Estimations**|Jingyao You et.al.|[2611.22518v1](http://arxiv.org/abs/2611.22518v1)|null|
 |**2026-11-12**|**ReFineR: Single image to dense point cloud registration at pixel level with point splatting**|Ugo Insalaco et.al.|[2611.16583v1](http://arxiv.org/abs/2611.16583v1)|null|
 |**2026-11-11**|**Delaunay-Based Nearest Neighbor Search with Grid-Accelerated Queries and Parallel Construction**|Pengfei Wang et.al.|[2611.15320v1](http://arxiv.org/abs/2611.15320v1)|null|
 |**2026-11-05**|**FREE-LIVO: Physically Decoupled Yet Tightly Coupled LiDAR-Inertial-Visual Odometry**|Reon Tabata et.al.|[2611.07463v1](http://arxiv.org/abs/2611.07463v1)|null|
@@ -3850,7 +3855,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261118>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4137,12 +4142,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261118>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**UnrealEvent: Synthetic Dataset Generation and Annotation for Event-Based Vision**|Yentel Schoovaerts et.al.|[2611.23078v1](http://arxiv.org/abs/2611.23078v1)|null|
+|**2026-11-17**|**Magflow: Differentiable Simulation of Industrial-Grade 6D Magnetic Levitation**|Philipp Hartmann et.al.|[2611.23050v1](http://arxiv.org/abs/2611.23050v1)|null|
+|**2026-11-17**|**TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates**|Xinying Hu et.al.|[2611.23026v1](http://arxiv.org/abs/2611.23026v1)|null|
+|**2026-11-17**|**MI-Hyper: Generating Multiple Instance Models for Weight Space Transfer Learning in Histopathology via Mixed Tasks Pretrained HyperNetwork**|Xitong Ling et.al.|[2611.22968v1](http://arxiv.org/abs/2611.22968v1)|null|
+|**2026-11-17**|**A high-dimensional spatial-physical coupling operator for generalizable super-resolution of three-dimensional turbulent flows**|Zengyuan Zuo et.al.|[2611.22951v1](http://arxiv.org/abs/2611.22951v1)|null|
+|**2026-11-17**|**Can Decision Models Replace LLMs in Real-World Contact Center Classification and Judging Tasks?**|Md Tahmid Rahman Laskar et.al.|[2611.22949v1](http://arxiv.org/abs/2611.22949v1)|null|
+|**2026-11-17**|**When Do Typed Decision Models Work in Transportation? Evidence from Travel Choice and Traffic Signal Control**|Hongyang Zhang et.al.|[2611.22926v1](http://arxiv.org/abs/2611.22926v1)|null|
+|**2026-11-17**|**Music Similarity Learning in Sparse Latin Scenarios**|Gabrielly Xavier dos Santos et.al.|[2611.22846v1](http://arxiv.org/abs/2611.22846v1)|null|
+|**2026-11-17**|**Zero-Shot Compositional Generalization for Embodied Manipulation**|Baicheng Li et.al.|[2611.22797v1](http://arxiv.org/abs/2611.22797v1)|null|
+|**2026-11-17**|**Learning Cross-Domain Media Similarity from Amazon Reviews**|Gabrielly Xavier dos Santos et.al.|[2611.22756v1](http://arxiv.org/abs/2611.22756v1)|null|
 |**2026-11-16**|**Severe but Harmless: Stress-Testing Shift Severity for Frozen Time-Series Forecasters**|Korede R. Bishi et.al.|[2611.21562v1](http://arxiv.org/abs/2611.21562v1)|null|
 |**2026-11-16**|**Evaluating Cultural Reasoning and Robustness in LLMs for Spanish Political Discourse**|Jorge Valverde-Rebaza et.al.|[2611.21535v1](http://arxiv.org/abs/2611.21535v1)|null|
 |**2026-11-16**|**Detection-Efficient Watermarking for Vision--Language Agents via Risk-Constrained Strength Allocation**|Dumindu Samaraweera et.al.|[2611.21488v1](http://arxiv.org/abs/2611.21488v1)|null|
@@ -12718,5 +12733,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261117>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261118>back to top</a>)</p>
 

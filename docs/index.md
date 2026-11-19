@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.11.18
+## Updated on 2026.11.19
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Homeward: No Place Like the Training View**|Mingyang Lyu et.al.|[2611.24455v1](http://arxiv.org/abs/2611.24455v1)|null|
+|**2026-11-18**|**Object Pose: The Link between Weak Perspective, Paraperspective, and Full Perspective**|Radu Horaud et.al.|[2611.24095v1](http://arxiv.org/abs/2611.24095v1)|null|
+|**2026-11-18**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Sungho Yun et.al.|[2611.23788v1](http://arxiv.org/abs/2611.23788v1)|null|
+|**2026-11-18**|**LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation**|Mayowa Adebambo et.al.|[2611.23661v1](http://arxiv.org/abs/2611.23661v1)|null|
+|**2026-11-17**|**Trust the Ray, Not the Depth: Ray-Lateral Agreement for Multi-View 3D Human Pose Fusion**|Farnoosh Koleini et.al.|[2611.23513v1](http://arxiv.org/abs/2611.23513v1)|null|
+|**2026-11-17**|**mmTherm: Absolute 3D Human Pose Estimation from Low-Resolution Thermal Images and mmWave Radar**|Zhaoxin Chang et.al.|[2611.23477v1](http://arxiv.org/abs/2611.23477v1)|null|
 |**2026-11-17**|**Wear and Go: Calibration Free Sparse Inertial Motion Capture via Online Sensor Setup Estimation**|Yuanshuo Tan et.al.|[2611.22894v1](http://arxiv.org/abs/2611.22894v1)|null|
 |**2026-11-17**|**The Multivariate Feedback Particle Filter for State-dependent Multiplicative Noises and Its Application to Attitude and Pose Estimations**|Jingyao You et.al.|[2611.22518v1](http://arxiv.org/abs/2611.22518v1)|null|
 |**2026-11-17**|**HandRSI: Recursive Self-Improvement for Hand Pose Estimation**|Zhekai Wang et.al.|[2611.22164v1](http://arxiv.org/abs/2611.22164v1)|null|
@@ -4136,6 +4142,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-18**|**Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**|Zi-ang Cao et.al.|[2611.24926v1](http://arxiv.org/abs/2611.24926v1)|null|
+|**2026-11-18**|**Measuring and Improving Transfer of Neural Surrogates for Vehicle Aerodynamics**|Favour Nerrise et.al.|[2611.24843v1](http://arxiv.org/abs/2611.24843v1)|null|
+|**2026-11-18**|**Cross-Vehicle Transferability of Lateral Velocity Estimation on Production Vehicles through Input Selection and Data Augmentation**|Hendrik Schäfke et.al.|[2611.24747v1](http://arxiv.org/abs/2611.24747v1)|null|
+|**2026-11-18**|**Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors**|Eerik Alamikkotervo et.al.|[2611.24696v1](http://arxiv.org/abs/2611.24696v1)|null|
+|**2026-11-18**|**AggCLIP: Aggregating CLIP for Zero-Shot Multimodal Anomaly Detection**|Zhi Li et.al.|[2611.24643v1](http://arxiv.org/abs/2611.24643v1)|null|
+|**2026-11-18**|**MECI: Multi-Element Collaborative Interaction for Multimodal Entity Linking**|Jie Peng et.al.|[2611.24522v1](http://arxiv.org/abs/2611.24522v1)|null|
+|**2026-11-18**|**NativeSeg: Native Vision Language Segmentation of 3D Computed Tomography via Spatial Visual Tokens and Verified Local Zoom**|Chengqian Ma et.al.|[2611.24443v1](http://arxiv.org/abs/2611.24443v1)|null|
+|**2026-11-18**|**Tell Me How Sure You Are: Communicating Uncertainty in Auxiliary Evidence to Foundation Models**|Soumyajit Chatterjee et.al.|[2611.24351v1](http://arxiv.org/abs/2611.24351v1)|null|
+|**2026-11-18**|**CROMPT: Adapting CLIP via Cross-Modal Prompting for Robust Zero-Shot Generalization under Adverse Weather**|Aniruddh Sikdar et.al.|[2611.24284v1](http://arxiv.org/abs/2611.24284v1)|null|
+|**2026-11-18**|**Look Closer, Look Back, or Wait for Agentic Streaming Video Understanding**|Pengyu Li et.al.|[2611.24267v1](http://arxiv.org/abs/2611.24267v1)|null|
 |**2026-11-17**|**UnrealEvent: Synthetic Dataset Generation and Annotation for Event-Based Vision**|Yentel Schoovaerts et.al.|[2611.23078v1](http://arxiv.org/abs/2611.23078v1)|null|
 |**2026-11-17**|**Magflow: Differentiable Simulation of Industrial-Grade 6D Magnetic Levitation**|Philipp Hartmann et.al.|[2611.23050v1](http://arxiv.org/abs/2611.23050v1)|null|
 |**2026-11-17**|**TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates**|Xinying Hu et.al.|[2611.23026v1](http://arxiv.org/abs/2611.23026v1)|null|

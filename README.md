@@ -1,4 +1,4 @@
-## Updated on 2026.11.19
+## Updated on 2026.11.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-11-18**|**Homeward: No Place Like the Training View**|Mingyang Lyu et.al.|[2611.24455v1](http://arxiv.org/abs/2611.24455v1)|null|
+|**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|
+|**2026-11-19**|**SCCV-6D: Sparse Canonical Coordinate Voting for Holistic Multi-View RGB-D 6D Pose Estimation in Robotic Bin Picking**|Nico Leuze et.al.|[2611.25819v1](http://arxiv.org/abs/2611.25819v1)|null|
+|**2026-11-19**|**Mesh-Free Keypoint Learning for Category-Level 6D Object Pose Estimation**|Junghoon Seo et.al.|[2611.25513v1](http://arxiv.org/abs/2611.25513v1)|null|
+|**2026-11-19**|**Homeward: No Place Like the Training View**|Mingyang Lyu et.al.|[2611.24455v2](http://arxiv.org/abs/2611.24455v2)|null|
 |**2026-11-18**|**Object Pose: The Link between Weak Perspective, Paraperspective, and Full Perspective**|Radu Horaud et.al.|[2611.24095v1](http://arxiv.org/abs/2611.24095v1)|null|
-|**2026-11-18**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Sungho Yun et.al.|[2611.23788v1](http://arxiv.org/abs/2611.23788v1)|null|
+|**2026-11-19**|**Geometry-bridge flow matching for blind rigid-motion correction in head cone-beam CT**|Sungho Yun et.al.|[2611.23788v2](http://arxiv.org/abs/2611.23788v2)|null|
 |**2026-11-18**|**LightSEAD: Lightweight SE(3)-Aware Keypoint Detector through Selective Knowledge Distillation**|Mayowa Adebambo et.al.|[2611.23661v1](http://arxiv.org/abs/2611.23661v1)|null|
 |**2026-11-17**|**Trust the Ray, Not the Depth: Ray-Lateral Agreement for Multi-View 3D Human Pose Fusion**|Farnoosh Koleini et.al.|[2611.23513v1](http://arxiv.org/abs/2611.23513v1)|null|
 |**2026-11-17**|**mmTherm: Absolute 3D Human Pose Estimation from Low-Resolution Thermal Images and mmWave Radar**|Zhaoxin Chang et.al.|[2611.23477v1](http://arxiv.org/abs/2611.23477v1)|null|
@@ -3479,12 +3482,14 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261120>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks**|Jonathan Lichtenfeld et.al.|[2611.26276v1](http://arxiv.org/abs/2611.26276v1)|null|
+|**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083v1](http://arxiv.org/abs/2611.26083v1)|null|
 |**2026-11-17**|**Kolibri: Color Finds the Place, Refinement Sets the Pose for RGB-D Localization in Colored Point Clouds**|Leonel Aguilar et.al.|[2611.22829v1](http://arxiv.org/abs/2611.22829v1)|null|
 |**2026-11-17**|**The Multivariate Feedback Particle Filter for State-dependent Multiplicative Noises and Its Application to Attitude and Pose Estimations**|Jingyao You et.al.|[2611.22518v1](http://arxiv.org/abs/2611.22518v1)|null|
 |**2026-11-12**|**ReFineR: Single image to dense point cloud registration at pixel level with point splatting**|Ugo Insalaco et.al.|[2611.16583v1](http://arxiv.org/abs/2611.16583v1)|null|
@@ -3861,7 +3866,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261120>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4148,12 +4153,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261120>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Yuxin Jiang et.al.|[2611.26617v1](http://arxiv.org/abs/2611.26617v1)|null|
+|**2026-11-19**|**AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control**|Yiyang Du et.al.|[2611.26613v1](http://arxiv.org/abs/2611.26613v1)|null|
+|**2026-11-19**|**Visual Attribution Limits and Graded Provenance Auditing in Commercial Video-Generation APIs**|Haocheng Mei et.al.|[2611.26508v1](http://arxiv.org/abs/2611.26508v1)|null|
+|**2026-11-19**|**Asuka-FM: A System-Architectural Co-Design Framework for Efficient Text-to-Image Pretraining on Consumer Hardware**|Víctor Rodrigo González et.al.|[2611.26437v1](http://arxiv.org/abs/2611.26437v1)|null|
+|**2026-11-19**|**AdaPixFlow: Learning Continuous-Time 3D Dynamics Across Scenes from Sparse Multi-view Observations**|Hrishikesh Viswanath et.al.|[2611.26433v1](http://arxiv.org/abs/2611.26433v1)|null|
+|**2026-11-19**|**Alignment Drives Reuse: Learning Generalizable Robot-Use Agents from Heterogeneous Experience**|Ziyue Wang et.al.|[2611.26376v1](http://arxiv.org/abs/2611.26376v1)|null|
+|**2026-11-19**|**One Framework to Diagnose Them All: A Stratified Benchmark for Bengali LLM Hallucination**|Asif Shahriyar Sushmit et.al.|[2611.26336v1](http://arxiv.org/abs/2611.26336v1)|null|
+|**2026-11-19**|**Tracking Objects Through Assembly and Decomposition**|Cheryl Lam et.al.|[2611.26269v1](http://arxiv.org/abs/2611.26269v1)|null|
+|**2026-11-19**|**Frontier models need only one text to unmask its human or AI author**|Atrey Desai et.al.|[2611.26216v1](http://arxiv.org/abs/2611.26216v1)|null|
+|**2026-11-19**|**Better Retrieval, Not Better Binding: Pretraining Exposure in Egocentric Video Retrieval**|Yuqi Guo et.al.|[2611.26120v1](http://arxiv.org/abs/2611.26120v1)|null|
 |**2026-11-18**|**Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation**|Zi-ang Cao et.al.|[2611.24926v1](http://arxiv.org/abs/2611.24926v1)|null|
 |**2026-11-18**|**Measuring and Improving Transfer of Neural Surrogates for Vehicle Aerodynamics**|Favour Nerrise et.al.|[2611.24843v1](http://arxiv.org/abs/2611.24843v1)|null|
 |**2026-11-18**|**Cross-Vehicle Transferability of Lateral Velocity Estimation on Production Vehicles through Input Selection and Data Augmentation**|Hendrik Schäfke et.al.|[2611.24747v1](http://arxiv.org/abs/2611.24747v1)|null|
@@ -12749,5 +12764,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261119>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261120>back to top</a>)</p>
 

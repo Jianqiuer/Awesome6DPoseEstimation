@@ -1,4 +1,4 @@
-## Updated on 2026.11.22
+## Updated on 2026.11.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**InterBand-EMG: A Cross-Band Foundation Model for Generalizable Hand-Pose Estimation**|Zongheng Guo et.al.|[2611.27289v1](http://arxiv.org/abs/2611.27289v1)|null|
+|**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181v1](http://arxiv.org/abs/2611.27181v1)|null|
+|**2026-11-20**|**EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training**|Ankit Pal et.al.|[2611.27101v1](http://arxiv.org/abs/2611.27101v1)|null|
 |**2026-11-19**|**Domain-Aware Conformal Prediction for Trustworthy Spacecraft Pose Estimation under Sim-to-Real Shift**|Nidhal Eddine Chenni et.al.|[2611.26065v1](http://arxiv.org/abs/2611.26065v1)|null|
 |**2026-11-19**|**SCCV-6D: Sparse Canonical Coordinate Voting for Holistic Multi-View RGB-D 6D Pose Estimation in Robotic Bin Picking**|Nico Leuze et.al.|[2611.25819v1](http://arxiv.org/abs/2611.25819v1)|null|
 |**2026-11-19**|**Mesh-Free Keypoint Learning for Category-Level 6D Object Pose Estimation**|Junghoon Seo et.al.|[2611.25513v1](http://arxiv.org/abs/2611.25513v1)|null|
@@ -3482,7 +3485,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3866,7 +3869,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4153,12 +4156,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-20**|**MemOnce: A Scalable Memory Architecture for Large Language Models**|Chang Nie et.al.|[2611.27973v1](http://arxiv.org/abs/2611.27973v1)|null|
+|**2026-11-20**|**Non-penetrating World Models**|Yuhang Dai et.al.|[2611.27963v1](http://arxiv.org/abs/2611.27963v1)|null|
+|**2026-11-20**|**Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed**|Dylan Forde et.al.|[2611.27951v1](http://arxiv.org/abs/2611.27951v1)|null|
+|**2026-11-20**|**SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement**|Huaze Tang et.al.|[2611.27919v1](http://arxiv.org/abs/2611.27919v1)|null|
+|**2026-11-20**|**SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models on Clinical Speech**|Côme Hosxe et.al.|[2611.27810v1](http://arxiv.org/abs/2611.27810v1)|null|
+|**2026-11-20**|**$\mathtt{DistP}$ : Scaling Local-Update Training with Zero-Shot Hyperparameter Transfer**|Andrej Jovanović et.al.|[2611.27808v1](http://arxiv.org/abs/2611.27808v1)|null|
+|**2026-11-20**|**Evaluating Prompting Strategies for Zero-Shot Multilingual Aspect-Based Sentiment Analysis with Large Language Models**|Jakub Šm{í}d et.al.|[2611.27807v1](http://arxiv.org/abs/2611.27807v1)|null|
+|**2026-11-20**|**Generalist Action Critic: Harnessing Frontier Models in Autonomous Driving**|Yun Yan et.al.|[2611.27804v1](http://arxiv.org/abs/2611.27804v1)|null|
+|**2026-11-20**|**Neural Defend ARCAS 290M: A Robust Foundation Model for AI-Generated Audio Detection**|Sivashankar Selvarajan et.al.|[2611.27784v1](http://arxiv.org/abs/2611.27784v1)|null|
+|**2026-11-20**|**Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders**|Alessandro Piccolo et.al.|[2611.27721v1](http://arxiv.org/abs/2611.27721v1)|null|
 |**2026-11-19**|**One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning**|Yuxin Jiang et.al.|[2611.26617v1](http://arxiv.org/abs/2611.26617v1)|null|
 |**2026-11-19**|**AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control**|Yiyang Du et.al.|[2611.26613v1](http://arxiv.org/abs/2611.26613v1)|null|
 |**2026-11-19**|**Visual Attribution Limits and Graded Provenance Auditing in Commercial Video-Generation APIs**|Haocheng Mei et.al.|[2611.26508v1](http://arxiv.org/abs/2611.26508v1)|null|
@@ -12764,5 +12777,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261122>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
 

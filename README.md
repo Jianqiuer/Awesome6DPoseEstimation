@@ -1,4 +1,4 @@
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**Wrist-Camera Video Diffusion as Generalizable Robot Policies**|Jingyuan Liu et.al.|[2611.31079v1](http://arxiv.org/abs/2611.31079v1)|null|
+|**2026-11-23**|**Place-Revisit Consistency Evaluation of Reference Poses**|Jianzhu Huai et.al.|[2611.30741v1](http://arxiv.org/abs/2611.30741v1)|null|
+|**2026-11-23**|**Co-speech Gesture Attribute Annotation with 3D Human Mesh Recovery**|Frances Yung et.al.|[2611.30725v1](http://arxiv.org/abs/2611.30725v1)|null|
+|**2026-11-23**|**OmniSenMo: A Unified Multisensory Language Model for Generalizable Human Motion Estimation, Understanding, and Prediction**|Cheng Guo et.al.|[2611.30176v1](http://arxiv.org/abs/2611.30176v1)|null|
+|**2026-11-23**|**FlexGaze: Weakly Supervised Gaze Estimation at Scale**|Zongjian Li et.al.|[2611.30012v1](http://arxiv.org/abs/2611.30012v1)|null|
+|**2026-11-22**|**A ROS2 based Human-In-The-Loop Framework for UAV Search and Rescue Operations**|Anubhav Pandey et.al.|[2611.29507v1](http://arxiv.org/abs/2611.29507v1)|null|
+|**2026-11-22**|**A colour-marker tracker for pose estimation of slender surgical instruments: vision-language-model-guided adaptive colour calibration**|Jaesung Hong et.al.|[2611.29421v1](http://arxiv.org/abs/2611.29421v1)|null|
+|**2026-11-22**|**MIMORPHEUS: Rethinking Cross-Modal Supervision for Human Pose Estimation from Radar Signals**|Shizhao Zhang et.al.|[2611.29341v1](http://arxiv.org/abs/2611.29341v1)|null|
+|**2026-11-22**|**Ego-HMB: Human Motion Bridging from Egocentric Images via A Motion Bridge Diffusion Model**|Gaoge Han et.al.|[2611.29218v1](http://arxiv.org/abs/2611.29218v1)|null|
+|**2026-11-22**|**Inclusive Hand Pose Estimation via Topology-Aware Distillation and Progressive Kinematic Reasoning**|Kanglei Zhou et.al.|[2611.29163v1](http://arxiv.org/abs/2611.29163v1)|null|
 |**2026-11-20**|**InterBand-EMG: A Cross-Band Foundation Model for Generalizable Hand-Pose Estimation**|Zongheng Guo et.al.|[2611.27289v1](http://arxiv.org/abs/2611.27289v1)|null|
 |**2026-11-20**|**HumanoidPose: Monocular 3D Pose Estimation for Humanoid Robots**|Jinlin Gan et.al.|[2611.27181v1](http://arxiv.org/abs/2611.27181v1)|null|
 |**2026-11-20**|**EgoSurgHands: An Egocentric 3D Hand Pose Dataset & Benchmark for Open Surgery Training**|Ankit Pal et.al.|[2611.27101v1](http://arxiv.org/abs/2611.27101v1)|null|
@@ -3485,12 +3495,13 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
 
 ## Point Cloud Registration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-21**|**PointNeXt Adapter Improved Model for BIM Component Defect Association under Construction Images and Design Model Attributes**|Na Yu et.al.|[2611.28820v1](http://arxiv.org/abs/2611.28820v1)|null|
 |**2026-11-19**|**I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks**|Jonathan Lichtenfeld et.al.|[2611.26276v1](http://arxiv.org/abs/2611.26276v1)|null|
 |**2026-11-19**|**Reference-Twist-Based Velocity-Domain Spatiotemporal Calibration for mmWave Radar, Event Camera, and IMU**|Zhenghao Zou et.al.|[2611.26083v1](http://arxiv.org/abs/2611.26083v1)|null|
 |**2026-11-17**|**Kolibri: Color Finds the Place, Refinement Sets the Pose for RGB-D Localization in Colored Point Clouds**|Leonel Aguilar et.al.|[2611.22829v1](http://arxiv.org/abs/2611.22829v1)|null|
@@ -3869,12 +3880,13 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-21**|**Recurrent Point Transformer via Test-Time Training**|Wentao Zhou et.al.|[2611.29059v1](http://arxiv.org/abs/2611.29059v1)|null|
 |**2026-11-13**|**Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces**|Sina Mohammadi et.al.|[2611.18033v1](http://arxiv.org/abs/2611.18033v1)|null|
 |**2026-11-07**|**Efficient 3D plant segmentation through multiscale graph learning and optimized geometric processing**|Jesus Ivan Ruiz-Martinez et.al.|[2611.11007v1](http://arxiv.org/abs/2611.11007v1)|null|
 |**2026-11-03**|**Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds**|Krishnakumar N et.al.|[2611.05569v1](http://arxiv.org/abs/2611.05569v1)|null|
@@ -4156,12 +4168,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-23**|**TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming**|Hani Alomari et.al.|[2611.31233v1](http://arxiv.org/abs/2611.31233v1)|null|
+|**2026-11-23**|**WorldLatent: A Unified 4D Latent Space for World Perception and Generation**|Jingxi Chen et.al.|[2611.31209v1](http://arxiv.org/abs/2611.31209v1)|null|
+|**2026-11-23**|**Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness**|Xiao-Ming Wu et.al.|[2611.31201v1](http://arxiv.org/abs/2611.31201v1)|null|
+|**2026-11-23**|**Attention Temperature Confounds Zero-Shot Context Extension**|Ruben Navasardyan et.al.|[2611.31113v1](http://arxiv.org/abs/2611.31113v1)|null|
+|**2026-11-23**|**Wrist-Camera Video Diffusion as Generalizable Robot Policies**|Jingyuan Liu et.al.|[2611.31079v1](http://arxiv.org/abs/2611.31079v1)|null|
+|**2026-11-23**|**RoboUniverse-10K: Toward the Scaling Era of Agentic Robotics via Real-to-Sim Environments**|Jinkun Liu et.al.|[2611.31002v1](http://arxiv.org/abs/2611.31002v1)|null|
+|**2026-11-23**|**DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation**|Vinay Udit Mohan et.al.|[2611.30907v1](http://arxiv.org/abs/2611.30907v1)|null|
+|**2026-11-23**|**Speak When You See It: Proactive Task Assistants Should Wait for Evidence, Not the Clock**|Bohe Chen et.al.|[2611.30895v1](http://arxiv.org/abs/2611.30895v1)|null|
+|**2026-11-23**|**Trallie: from Free-Form Text to Structured Data with LLMs**|Vijayasri Iyer et.al.|[2611.30773v1](http://arxiv.org/abs/2611.30773v1)|null|
+|**2026-11-23**|**Object Count Generalization Is an Interface Problem: Warping a Frozen Skill Instead of Retraining It**|Paul Mattes et.al.|[2611.30765v1](http://arxiv.org/abs/2611.30765v1)|null|
 |**2026-11-20**|**MemOnce: A Scalable Memory Architecture for Large Language Models**|Chang Nie et.al.|[2611.27973v1](http://arxiv.org/abs/2611.27973v1)|null|
 |**2026-11-20**|**Non-penetrating World Models**|Yuhang Dai et.al.|[2611.27963v1](http://arxiv.org/abs/2611.27963v1)|null|
 |**2026-11-20**|**Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed**|Dylan Forde et.al.|[2611.27951v1](http://arxiv.org/abs/2611.27951v1)|null|
@@ -12777,5 +12799,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261123>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261124>back to top</a>)</p>
 

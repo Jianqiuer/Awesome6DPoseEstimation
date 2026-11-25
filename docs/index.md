@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.11.24
+## Updated on 2026.11.25
 ## 6D Pose
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**DOPER: Deep Object Pose Estimation Revisited**|Hugo Hadfield et.al.|[2611.32846v1](http://arxiv.org/abs/2611.32846v1)|null|
+|**2026-11-24**|**Diving Deeper into Dense Keypoint Localization in Object Pose Estimation**|Jiahong Chen et.al.|[2611.32728v1](http://arxiv.org/abs/2611.32728v1)|null|
+|**2026-11-24**|**RestPose: Canonicalization for Open Object Pose Estimation**|Sandeep Inuganti et.al.|[2611.32696v1](http://arxiv.org/abs/2611.32696v1)|null|
+|**2026-11-24**|**DiffAnchor: Anchor-Space Diffusion for Monocular 3D Hand Pose Estimation**|Changlong Jiang et.al.|[2611.32513v1](http://arxiv.org/abs/2611.32513v1)|null|
+|**2026-11-24**|**X-3DComposer: Feed-Forward 3D Scene Composition with Any Assets from Any Views**|Zidian Qiu et.al.|[2611.32491v1](http://arxiv.org/abs/2611.32491v1)|null|
+|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335v1](http://arxiv.org/abs/2611.32335v1)|null|
+|**2026-11-24**|**TANDEM: Temporal Anchor Densification With Reliability-Aware Memory for Lightweight Sparse Depth Completion in Endoscopic Robotic Navigation**|Weikuan Qiu et.al.|[2611.31922v1](http://arxiv.org/abs/2611.31922v1)|null|
 |**2026-11-23**|**Wrist-Camera Video Diffusion as Generalizable Robot Policies**|Jingyuan Liu et.al.|[2611.31079v1](http://arxiv.org/abs/2611.31079v1)|null|
 |**2026-11-23**|**Place-Revisit Consistency Evaluation of Reference Poses**|Jianzhu Huai et.al.|[2611.30741v1](http://arxiv.org/abs/2611.30741v1)|null|
 |**2026-11-23**|**Co-speech Gesture Attribute Annotation with 3D Human Mesh Recovery**|Frances Yung et.al.|[2611.30725v1](http://arxiv.org/abs/2611.30725v1)|null|
@@ -3876,6 +3883,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**SplatSeg3D: Efficient Zero-Shot 3D Segmentation via Point Cloud Surfelization and Splatting**|Sandeep Inuganti et.al.|[2611.32716v1](http://arxiv.org/abs/2611.32716v1)|null|
 |**2026-11-21**|**Recurrent Point Transformer via Test-Time Training**|Wentao Zhou et.al.|[2611.29059v1](http://arxiv.org/abs/2611.29059v1)|null|
 |**2026-11-13**|**Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces**|Sina Mohammadi et.al.|[2611.18033v1](http://arxiv.org/abs/2611.18033v1)|null|
 |**2026-11-07**|**Efficient 3D plant segmentation through multiscale graph learning and optimized geometric processing**|Jesus Ivan Ruiz-Martinez et.al.|[2611.11007v1](http://arxiv.org/abs/2611.11007v1)|null|
@@ -4162,6 +4170,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151v1](http://arxiv.org/abs/2611.33151v1)|null|
+|**2026-11-24**|**Exploratory Midtraining for Robot Policies**| Kshitiz et.al.|[2611.33130v1](http://arxiv.org/abs/2611.33130v1)|null|
+|**2026-11-24**|**MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing**|Scott Piersall et.al.|[2611.33119v1](http://arxiv.org/abs/2611.33119v1)|null|
+|**2026-11-24**|**E-MAPS: Event-Based Promptable Video Segmentation with Memory-as-Prompt**|Adonay Demewez Gebremedhin et.al.|[2611.33017v1](http://arxiv.org/abs/2611.33017v1)|null|
+|**2026-11-24**|**FocusAnchor: Zero-Shot Metric Depth by Anchoring a Depth Foundation Prior to Focus Cues**|Ashkan Ganj et.al.|[2611.32970v1](http://arxiv.org/abs/2611.32970v1)|null|
+|**2026-11-24**|**Benchmarking Evidence Sufficiency in Vision-Language Models for Autonomous Driving**|Nhat Ha Nguyen et.al.|[2611.32964v1](http://arxiv.org/abs/2611.32964v1)|null|
+|**2026-11-24**|**Supply Geometry, Learn Execution: Screw Attention for Zero-Shot Policy Transfer in Robot Manipulation**|Aly Magassouba et.al.|[2611.32797v1](http://arxiv.org/abs/2611.32797v1)|null|
+|**2026-11-24**|**Beyond Fixed-Context Likelihood: Zero-Shot AI-Generated Text Detection via Context Perturbation Discrepancy**|Yifan Tang et.al.|[2611.32778v1](http://arxiv.org/abs/2611.32778v1)|null|
+|**2026-11-24**|**SplatSeg3D: Efficient Zero-Shot 3D Segmentation via Point Cloud Surfelization and Splatting**|Sandeep Inuganti et.al.|[2611.32716v1](http://arxiv.org/abs/2611.32716v1)|null|
+|**2026-11-24**|**A Hybrid Analytical-Neural Residual Surrogate for Fast Radio Propagation Prediction over Irregular Terrain**|Yongyuan Hu et.al.|[2611.32698v1](http://arxiv.org/abs/2611.32698v1)|null|
 |**2026-11-23**|**TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming**|Hani Alomari et.al.|[2611.31233v1](http://arxiv.org/abs/2611.31233v1)|null|
 |**2026-11-23**|**WorldLatent: A Unified 4D Latent Space for World Perception and Generation**|Jingxi Chen et.al.|[2611.31209v1](http://arxiv.org/abs/2611.31209v1)|null|
 |**2026-11-23**|**Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness**|Xiao-Ming Wu et.al.|[2611.31201v1](http://arxiv.org/abs/2611.31201v1)|null|

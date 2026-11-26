@@ -1,4 +1,4 @@
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,12 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**MUSE: Multi-Task Uncertainty-Aware Self-Supervised Encoder for mmWave ISAC**|Nabeel Nisar Bhat et.al.|[2611.34122v1](http://arxiv.org/abs/2611.34122v1)|null|
+|**2026-11-25**|**Revisiting Monocular In-Hand Object Scanning: Dataset, Pose Estimation, and Surface Reconstruction**|Di Wu et.al.|[2611.33824v1](http://arxiv.org/abs/2611.33824v1)|null|
+|**2026-11-25**|**DualCast: Dual-Image Conditioned Diffusion Transformers for Digital Human E-Commerce Video Generation**|Lifan Jiang et.al.|[2611.33734v1](http://arxiv.org/abs/2611.33734v1)|null|
 |**2026-11-24**|**DOPER: Deep Object Pose Estimation Revisited**|Hugo Hadfield et.al.|[2611.32846v1](http://arxiv.org/abs/2611.32846v1)|null|
 |**2026-11-24**|**Diving Deeper into Dense Keypoint Localization in Object Pose Estimation**|Jiahong Chen et.al.|[2611.32728v1](http://arxiv.org/abs/2611.32728v1)|null|
 |**2026-11-24**|**RestPose: Canonicalization for Open Object Pose Estimation**|Sandeep Inuganti et.al.|[2611.32696v1](http://arxiv.org/abs/2611.32696v1)|null|
 |**2026-11-24**|**DiffAnchor: Anchor-Space Diffusion for Monocular 3D Hand Pose Estimation**|Changlong Jiang et.al.|[2611.32513v1](http://arxiv.org/abs/2611.32513v1)|null|
 |**2026-11-24**|**X-3DComposer: Feed-Forward 3D Scene Composition with Any Assets from Any Views**|Zidian Qiu et.al.|[2611.32491v1](http://arxiv.org/abs/2611.32491v1)|null|
-|**2026-11-24**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335v1](http://arxiv.org/abs/2611.32335v1)|null|
+|**2026-11-25**|**GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM**|Weicong Zhang et.al.|[2611.32335v2](http://arxiv.org/abs/2611.32335v2)|null|
 |**2026-11-24**|**TANDEM: Temporal Anchor Densification With Reliability-Aware Memory for Lightweight Sparse Depth Completion in Endoscopic Robotic Navigation**|Weikuan Qiu et.al.|[2611.31922v1](http://arxiv.org/abs/2611.31922v1)|null|
 |**2026-11-23**|**Wrist-Camera Video Diffusion as Generalizable Robot Policies**|Jingyuan Liu et.al.|[2611.31079v1](http://arxiv.org/abs/2611.31079v1)|null|
 |**2026-11-23**|**Place-Revisit Consistency Evaluation of Reference Poses**|Jianzhu Huai et.al.|[2611.30741v1](http://arxiv.org/abs/2611.30741v1)|null|
@@ -3502,7 +3505,7 @@
 |**2022-12-11**|**Context-aware 6D Pose Estimation of Known Objects using RGB-D data**|Ankit Kumar et.al.|[2212.05560v1](http://arxiv.org/abs/2212.05560v1)|null|
 |**2023-01-30**|**Category-Level 6D Object Pose Estimation with Flexible Vector-Based Rotation Representation**|Wei Chen et.al.|[2212.04632v2](http://arxiv.org/abs/2212.04632v2)|null|
 
-<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261126>back to top</a>)</p>
 
 ## Point Cloud Registration
 
@@ -3887,7 +3890,7 @@
 |**2023-02-25**|**Accurate Gaussian Process Distance Fields with applications to Echolocation and Mapping**|Cedric Le Gentil et.al.|[2302.13005v1](http://arxiv.org/abs/2302.13005v1)|null|
 |**2023-02-14**|**Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms**|Ningli Xu et.al.|[2302.07184v1](http://arxiv.org/abs/2302.07184v1)|**[link](https://github.com/gdaosu/awesome-pointcloudregistration)**|
 
-<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261126>back to top</a>)</p>
 
 ## Point Cloud Segmentation
 
@@ -4176,12 +4179,22 @@
 |**2023-06-02**|**Transformer-Based Visual Segmentation: A Survey**|Xiangtai Li et.al.|[2304.09854v2](http://arxiv.org/abs/2304.09854v2)|**[link](https://github.com/lxtgh/awesome-segmentation-with-transformer)**|
 |**2023-04-11**|**Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing**|Attila Szabo et.al.|[2304.05109v1](http://arxiv.org/abs/2304.05109v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261126>back to top</a>)</p>
 
 ## Zero-shot
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-25**|**DexLink: Synthesizing Dexterous Behaviors from Chained Hand-object Poses**|Meenal Parakh et.al.|[2611.34936v1](http://arxiv.org/abs/2611.34936v1)|null|
+|**2026-11-25**|**SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator**|Xiang Li et.al.|[2611.34750v1](http://arxiv.org/abs/2611.34750v1)|null|
+|**2026-11-25**|**From Shared Patterns to Individual Evidence: Two-Stage Reasoning for Emerging Entities in Temporal Knowledge Graphs**|Jinchuan Zhang et.al.|[2611.34708v1](http://arxiv.org/abs/2611.34708v1)|null|
+|**2026-11-25**|**Riding the Wave: Sim-to-Real Humanoid Control on Elastic Terrain**|Yinglei Zhu et.al.|[2611.34569v1](http://arxiv.org/abs/2611.34569v1)|null|
+|**2026-11-25**|**AliceAI-Foundation-80B-A3B-Base**|Nikolay Skachkov et.al.|[2611.34529v1](http://arxiv.org/abs/2611.34529v1)|null|
+|**2026-11-25**|**AGLR: Attribute-Guided Latent Refinement for Fine-Grained Humanoid Motion Generation and Editing**|Shuai Yuan et.al.|[2611.34519v1](http://arxiv.org/abs/2611.34519v1)|null|
+|**2026-11-25**|**HoloBrain-0.5 Technical Report**|Xuewu Lin et.al.|[2611.34449v1](http://arxiv.org/abs/2611.34449v1)|null|
+|**2026-11-25**|**Evaluating Aviation Safety Knowledge Extraction with SmolLM2: From Zero-Shot to Retrieval-Grounded Prompting**|Aziida Nanyonga et.al.|[2611.34432v1](http://arxiv.org/abs/2611.34432v1)|null|
+|**2026-11-25**|**One Representation to Rule Them All -- Open-Vocabulary Change Detection from Text or Visual Examples**|Blaž Rolih et.al.|[2611.34430v1](http://arxiv.org/abs/2611.34430v1)|null|
+|**2026-11-25**|**Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics**|Xuetao Li et.al.|[2611.34302v1](http://arxiv.org/abs/2611.34302v1)|null|
 |**2026-11-24**|**BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles**|Yuwei Yang et.al.|[2611.33151v1](http://arxiv.org/abs/2611.33151v1)|null|
 |**2026-11-24**|**Exploratory Midtraining for Robot Policies**| Kshitiz et.al.|[2611.33130v1](http://arxiv.org/abs/2611.33130v1)|null|
 |**2026-11-24**|**MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code Generation for Parallel Computing**|Scott Piersall et.al.|[2611.33119v1](http://arxiv.org/abs/2611.33119v1)|null|
@@ -12817,5 +12830,5 @@
 |**2023-07-03**|**Segment Anything Meets Point Tracking**|Frano Rajič et.al.|[2307.01197v1](http://arxiv.org/abs/2307.01197v1)|**[link](https://github.com/syscv/sam-pt)**|
 |**2023-07-03**|**Iterative Zero-Shot LLM Prompting for Knowledge Graph Construction**|Salvatore Carta et.al.|[2307.01128v1](http://arxiv.org/abs/2307.01128v1)|null|
 
-<p align=right>(<a href=#Updated-on-20261125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20261126>back to top</a>)</p>
 
